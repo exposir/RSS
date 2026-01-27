@@ -42,20 +42,10 @@ function cleanHtml(html) {
   return content.trim();
 }
 
-// 提取纯文本
+// 提取纯文本（只移除 HTML 标签）
 function extractText(html) {
   if (!html) return '';
-  
-  let text = html
-    .replace(/<img[^>]*>/gi, '')
-    .replace(/<br\s*\/?>/gi, '\n')
-    .replace(/<\/p>/gi, '\n\n')
-    .replace(/<[^>]+>/g, '')
-    .replace(/\n{3,}/g, '\n\n')
-    .replace(/  +/g, ' ')
-    .trim();
-  
-  return text;
+  return html.replace(/<[^>]+>/g, '').trim();
 }
 
 async function fetchRss(url) {
