@@ -65,8 +65,6 @@ function cleanHtml(html) {
   content = content.replace(/\d{10,}/g, '');
   content = content.replace(/\s+http:?\s*$/g, '');
   
-  // 移除开头日期
-  content = content.replace(/^\s*\d{4}年\d{2}月\d{2}日\s*/g, '');
   
   // 清理无用标签但保留结构
   content = content.replace(/<(div|span)[^>]*>\s*<\/\1>/gi, '');
@@ -98,9 +96,6 @@ function cleanHtml(html) {
   // 最后清理连续的 p 标签
   content = content.replace(/<p>\s*<\/p>/g, '');
   content = content.replace(/<p>\s*<p>/g, '<p>');
-  
-  // 清理日期行
-  content = content.replace(/<p>\d{4}年\d{2}月\d{2}日<\/p>/g, '');
   
   // 清理换行符
   content = content.replace(/\\n/g, '');
