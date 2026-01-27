@@ -1,4 +1,4 @@
-const fs = require('fs');
+import fs from 'fs';
 
 const FEED_URL = process.env.FEED_URL || process.argv[2];
 const OUTPUT_FILE = process.env.OUTPUT_FILE || process.argv[3] || 'feeds/archive.json';
@@ -45,7 +45,6 @@ async function main() {
   for (const entry of newEntries) {
     const id = entry.id || entry.link;
     if (!existingIds.has(id)) {
-      // 转换成 JSON Feed 格式的 item
       const item = {
         id: id,
         url: entry.link,
