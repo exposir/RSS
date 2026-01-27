@@ -39,10 +39,16 @@ function cleanHtml(html) {
   // 移除 input 标签
   content = content.replace(/<input[^>]*>/gi, '');
   
-  // 使用图片代理绕过防盗链（针对微信公众号等）
+  // 使用图片代理绕过防盗链
   content = content.replace(/<img([^>]*)src=["']([^"']+)["']([^>]*)>/gi, (match, before, src, after) => {
-    // 微信公众号图片使用代理
-    if (src.includes('mmbiz.qpic.cn') || src.includes('mmbiz.qlogo.cn')) {
+    // 过滤模板/装饰图片
+    if (src.includes('go_top') || src.includes('template') || src.includes('webdig')) {
+      return '';
+    }
+    // 修复 .jpg.2 等后缀
+    src = src.replace(/\.(jpg|png|gif)\.\d+$/i, '.$1');
+    // HTTP 图片使用代理
+    if (src.startsWith('http://')) {
       const proxyUrl = `https://images.weserv.nl/?url=${encodeURIComponent(src)}`;
       return `<img${before}src="${proxyUrl}"${after}>`;
     }
