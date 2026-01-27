@@ -1,0 +1,409 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "News - South China Morning Post",
+  "home_page_url": "https://www.scmp.com/rss/91/feed",
+  "feed_url": "https://exposir.github.io/RSS/feeds/scmp-news.json",
+  "description": "All the latest breaking news from Hong Kong, China and around the world",
+  "items": [
+    {
+      "id": "https://www.scmp.com/news/hong-kong/transport/article/3341355/hong-kongs-cathay-pacific-rebrands-dragonair-subsidiary-2016-scmp-archive?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3341355/hong-kongs-cathay-pacific-rebrands-dragonair-subsidiary-2016-scmp-archive?utm_source=rss_feed",
+      "title": "Hong Kong’s Cathay Pacific rebrands Dragonair subsidiary in 2016 – from the SCMP archive",
+      "content_html": "This article was first published on January 27, 2016\nExit the Dragon­air as Cathay rebrands\nby Sijia Jiang\nCathay Pacific group is likely to announce a rebrand­ing of its Dragon­air sub­si­di­ary as “Cathay Dragon” as the com­pany seeks to strengthen its cor­por­ate iden­tity.\nThe idea to strengthen the sis­ter air­line’s asso­ci­ation with the premium air­line Cathay Pacific Air­ways has been under dis­cus­sion for a few months, sources famil­iar with the mat­ter told the South China Morn­ing...",
+      "content_text": "This article was first published on January 27, 2016\nExit the Dragon­air as Cathay rebrands\nby Sijia Jiang\nCathay Pacific group is likely to announce a rebrand­ing of its Dragon­air sub­si­di­ary as “Cathay Dragon” as the com­pany seeks to strengthen its cor­por­ate iden­tity.\nThe idea to strengthen the sis­ter air­line’s asso­ci­ation with the premium air­line Cathay Pacific Air­ways has been under dis­cus­sion for a few months, sources famil­iar with the mat­ter told the South China Morn­ing...",
+      "date_published": "2026-01-27T07:15:07.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/asia/southeast-asia/article/3341381/7-fifa-banned-malaysian-footballers-cleared-play-after-cas-grants-stay?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3341381/7-fifa-banned-malaysian-footballers-cleared-play-after-cas-grants-stay?utm_source=rss_feed",
+      "title": "7 Fifa-banned Malaysian footballers cleared to play after CAS grants stay",
+      "content_html": "Seven foreign-born players for Malaysia’s national football team have been cleared to keep competing after the Court of Arbitration for Sport temporarily halted Fifa-imposed bans while their appeal is reviewed, Malaysia’s football federation said on Tuesday.\nLast September, Fifa fined the Football Association of Malaysia 350,000 Swiss francs (US$450,000) for fake documents filed to naturalise the seven players, who were also fined and suspended for a year.\nThe players stemmed from Argentina,...",
+      "content_text": "Seven foreign-born players for Malaysia’s national football team have been cleared to keep competing after the Court of Arbitration for Sport temporarily halted Fifa-imposed bans while their appeal is reviewed, Malaysia’s football federation said on Tuesday.\nLast September, Fifa fined the Football Association of Malaysia 350,000 Swiss francs (US$450,000) for fake documents filed to naturalise the seven players, who were also fined and suspended for a year.\nThe players stemmed from Argentina,...",
+      "date_published": "2026-01-27T07:33:25.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/week-asia/politics/article/3341384/malaysia-disputes-indonesian-media-reports-sabah-border-says-talks-ongoing?utm_source=rss_feed",
+      "url": "https://www.scmp.com/week-asia/politics/article/3341384/malaysia-disputes-indonesian-media-reports-sabah-border-says-talks-ongoing?utm_source=rss_feed",
+      "title": "Malaysia disputes Indonesian media reports on Sabah border, says talks ongoing",
+      "content_html": "The Sabah-Kalimantan border issue on the island of Borneo is still under discussion, Malaysia has said, following media reports of a land trade with Indonesia.\n“Negotiations are still ongoing. The areas on the map and on the ground are different. Discussions are carried out according to the law, but no decision has been made yet,” Malaysian Foreign Minister Mohamad Hasan said on Monday, as quoted by Bernama news agency.\n“We will instruct our technical committee and surveyors to carry out the...",
+      "content_text": "The Sabah-Kalimantan border issue on the island of Borneo is still under discussion, Malaysia has said, following media reports of a land trade with Indonesia.\n“Negotiations are still ongoing. The areas on the map and on the ground are different. Discussions are carried out according to the law, but no decision has been made yet,” Malaysian Foreign Minister Mohamad Hasan said on Monday, as quoted by Bernama news agency.\n“We will instruct our technical committee and surveyors to carry out the...",
+      "date_published": "2026-01-27T07:44:03.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/week-asia/economics/article/3341385/trump-pressuring-south-korea-lock-deal-us-court-can-strike-down-tariffs?utm_source=rss_feed",
+      "url": "https://www.scmp.com/week-asia/economics/article/3341385/trump-pressuring-south-korea-lock-deal-us-court-can-strike-down-tariffs?utm_source=rss_feed",
+      "title": "Is Trump pressuring South Korea to lock in deal before US court can strike down tariffs?",
+      "content_html": "US President Donald Trump’s announcement that he will reinstate 25 per cent tariffs on South Korea is less indicative of a sudden rupture in relations but more an attempt to reassert leverage over an ally ahead of a critical US Supreme Court ruling, analysts say.\nTrump has accused South Korea of failing to follow through on a bilateral trade deal, reviving trade tensions between two close allies and prompting Seoul to seek urgent talks with Washington.\nThe timing also reflected Trump’s mounting...",
+      "content_text": "US President Donald Trump’s announcement that he will reinstate 25 per cent tariffs on South Korea is less indicative of a sudden rupture in relations but more an attempt to reassert leverage over an ally ahead of a critical US Supreme Court ruling, analysts say.\nTrump has accused South Korea of failing to follow through on a bilateral trade deal, reviving trade tensions between two close allies and prompting Seoul to seek urgent talks with Washington.\nThe timing also reflected Trump’s mounting...",
+      "date_published": "2026-01-27T07:47:23.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/tech-trends/article/3341388/alibabas-qwen-3-becomes-worlds-first-ai-model-operate-orbit?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3341388/alibabas-qwen-3-becomes-worlds-first-ai-model-operate-orbit?utm_source=rss_feed",
+      "title": "Alibaba’s Qwen-3 becomes one of world’s first AI models to operate in orbit",
+      "content_html": "Alibaba Cloud’s Qwen-3 became one of the world’s first general-purpose artificial intelligence models to be uploaded and operated in orbit, marking a milestone in China’s bid to lead the nascent space-based computing sector.\nChinese aerospace start-up Adaspace Technology successfully deployed Qwen-3 to a space computing centre in orbit where it executed multiple inference tasks in November, according to company executive vice-president Wang Yabo, who spoke at a conference on Monday, as reported...",
+      "content_text": "Alibaba Cloud’s Qwen-3 became one of the world’s first general-purpose artificial intelligence models to be uploaded and operated in orbit, marking a milestone in China’s bid to lead the nascent space-based computing sector.\nChinese aerospace start-up Adaspace Technology successfully deployed Qwen-3 to a space computing centre in orbit where it executed multiple inference tasks in November, according to company executive vice-president Wang Yabo, who spoke at a conference on Monday, as reported...",
+      "date_published": "2026-01-27T08:00:25.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/transport/article/3341394/hong-kongs-mtr-corp-raises-record-a2-billion-first-australian-dollar-green-bond-sale?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3341394/hong-kongs-mtr-corp-raises-record-a2-billion-first-australian-dollar-green-bond-sale?utm_source=rss_feed",
+      "title": "Hong Kong’s MTR Corp raises record A$2 billion in first Australian dollar green bond sale",
+      "content_html": "Hong Kong rail giant the MTR Corporation has raised a record A$2 billion (US$1.4 billion) in its first-ever issuance of Australian dollar-denominated green bonds to fund environmentally friendly projects, marking the country’s largest order book.\nThe bonds, issued in two equal tranches, were oversubscribed more than sixfold by a variety of investors, the MTR Corp said on Tuesday.\nThe offering represented the largest-ever Australian dollar corporate green bond issuance and the largest...",
+      "content_text": "Hong Kong rail giant the MTR Corporation has raised a record A$2 billion (US$1.4 billion) in its first-ever issuance of Australian dollar-denominated green bonds to fund environmentally friendly projects, marking the country’s largest order book.\nThe bonds, issued in two equal tranches, were oversubscribed more than sixfold by a variety of investors, the MTR Corp said on Tuesday.\nThe offering represented the largest-ever Australian dollar corporate green bond issuance and the largest...",
+      "date_published": "2026-01-27T08:19:54.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/opinion/china-opinion/article/3341303/how-hangzhous-tech-ecosystem-nurtures-dragons-and-rockets?utm_source=rss_feed",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3341303/how-hangzhous-tech-ecosystem-nurtures-dragons-and-rockets?utm_source=rss_feed",
+      "title": "How Hangzhou’s tech ecosystem nurtures dragons and rockets",
+      "content_html": "Hangzhou’s space industry got off to a flying start in 2026. On January 7, China’s leading private rocket firm Space Epoch broke ground on a medium-to-large liquid rocket assembly, testing and reuse facility in Hangzhou’s Qiantang district. Basing this in the port city allows the rockets to be transported by sea to launch areas in the East China Sea and recovered the same way.\nLogistics alone do not explain the decision. Space Epoch is plugging into an industrial ecosystem Hangzhou has been...",
+      "content_text": "Hangzhou’s space industry got off to a flying start in 2026. On January 7, China’s leading private rocket firm Space Epoch broke ground on a medium-to-large liquid rocket assembly, testing and reuse facility in Hangzhou’s Qiantang district. Basing this in the port city allows the rockets to be transported by sea to launch areas in the East China Sea and recovered the same way.\nLogistics alone do not explain the decision. Space Epoch is plugging into an industrial ecosystem Hangzhou has been...",
+      "date_published": "2026-01-27T08:30:09.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/week-asia/politics/article/3341397/malaysia-clarifies-cash-aid-rules-frequent-commuters-singapore?utm_source=rss_feed",
+      "url": "https://www.scmp.com/week-asia/politics/article/3341397/malaysia-clarifies-cash-aid-rules-frequent-commuters-singapore?utm_source=rss_feed",
+      "title": "Malaysia clarifies cash aid rules for frequent commuters to Singapore",
+      "content_html": "A Malaysian minister has clarified rules surrounding eligibility to receive cash aid from the government amid reports applications were “cancelled” for locals who frequently travel to neighbouring Singapore.\nDeputy Finance Minister Liew Chin Tong said to ensure fair distribution of funds under the Sumbangan Tunai Rahmah scheme aimed at easing cost of living pressures for select Malaysian citizens living in the country, beneficiaries’ residency status would be ascertained using data from the...",
+      "content_text": "A Malaysian minister has clarified rules surrounding eligibility to receive cash aid from the government amid reports applications were “cancelled” for locals who frequently travel to neighbouring Singapore.\nDeputy Finance Minister Liew Chin Tong said to ensure fair distribution of funds under the Sumbangan Tunai Rahmah scheme aimed at easing cost of living pressures for select Malaysian citizens living in the country, beneficiaries’ residency status would be ascertained using data from the...",
+      "date_published": "2026-01-27T08:32:17.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/asia/southeast-asia/article/3341398/singapore-jails-canes-6-indonesians-after-illegal-re-entry-sinking-boat?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3341398/singapore-jails-canes-6-indonesians-after-illegal-re-entry-sinking-boat?utm_source=rss_feed",
+      "title": "Singapore jails, canes 6 Indonesians after illegal re-entry on sinking boat",
+      "content_html": "Six men who had been sent back to Indonesia after immigration breaches tried to re-enter Singapore illegally on a sampan, but were caught when it sank.\nOn Monday, they were sentenced to jail terms of one year to one year and nine months, and between four and 10 strokes of the cane.\nThe group was led by 23-year-old Asrarudin, who steered the boat despite having no experience.\nHe was joined by 28-year-old Brick, a repeat offender who received the heaviest sentence of nearly two years.\nFour other...",
+      "content_text": "Six men who had been sent back to Indonesia after immigration breaches tried to re-enter Singapore illegally on a sampan, but were caught when it sank.\nOn Monday, they were sentenced to jail terms of one year to one year and nine months, and between four and 10 strokes of the cane.\nThe group was led by 23-year-old Asrarudin, who steered the boat despite having no experience.\nHe was joined by 28-year-old Brick, a repeat offender who received the heaviest sentence of nearly two years.\nFour other...",
+      "date_published": "2026-01-27T08:34:46.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/big-tech/article/3341294/chinas-baidu-merges-key-app-businesses-drive-consumer-ai-push?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/big-tech/article/3341294/chinas-baidu-merges-key-app-businesses-drive-consumer-ai-push?utm_source=rss_feed",
+      "title": "China’s Baidu merges key app businesses to drive consumer AI push",
+      "content_html": "Baidu has merged two of its consumer app businesses into a new artificial intelligence-focused unit, stepping up its push into China’s fast-evolving and fiercely contested market for consumer AI applications.\nThe company combined its online document-sharing business Wenku and consumer-oriented cloud storage operation Wangpan to form the Personal Super Intelligence Business Group (PSIG), according to a source familiar with the matter. The move marks one of Baidu’s largest reorganisations in the...",
+      "content_text": "Baidu has merged two of its consumer app businesses into a new artificial intelligence-focused unit, stepping up its push into China’s fast-evolving and fiercely contested market for consumer AI applications.\nThe company combined its online document-sharing business Wenku and consumer-oriented cloud storage operation Wangpan to form the Personal Super Intelligence Business Group (PSIG), according to a source familiar with the matter. The move marks one of Baidu’s largest reorganisations in the...",
+      "date_published": "2026-01-27T09:00:09.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/china/diplomacy/article/3341401/chinas-xi-jinping-says-major-powers-must-set-example-amid-worlds-risks-and-challenges?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3341401/chinas-xi-jinping-says-major-powers-must-set-example-amid-worlds-risks-and-challenges?utm_source=rss_feed",
+      "title": "China’s Xi Jinping says major powers must set example as world faces ‘risks, challenges’",
+      "content_html": "Major powers must set an example as the world faces “multiple risks and challenges”, Chinese President Xi Jinping said during a meeting with Finnish Prime Minister Petteri Orpo in Beijing on Tuesday.\n“Major powers in particular must take the lead in promoting equality, the rule of law, cooperation and integrity,” Xi was quoted as saying by state broadcaster CCTV.\n“China and Europe are partners, not rivals, with cooperation outweighing competition and consensus greater than differences,” he...",
+      "content_text": "Major powers must set an example as the world faces “multiple risks and challenges”, Chinese President Xi Jinping said during a meeting with Finnish Prime Minister Petteri Orpo in Beijing on Tuesday.\n“Major powers in particular must take the lead in promoting equality, the rule of law, cooperation and integrity,” Xi was quoted as saying by state broadcaster CCTV.\n“China and Europe are partners, not rivals, with cooperation outweighing competition and consensus greater than differences,” he...",
+      "date_published": "2026-01-27T09:00:14.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/plus/news/china/article/3341387/xi-jinping-meets-foreign-leaders-tracker-2026?utm_source=rss_feed",
+      "url": "https://www.scmp.com/plus/news/china/article/3341387/xi-jinping-meets-foreign-leaders-tracker-2026?utm_source=rss_feed",
+      "title": "Xi Jinping meets foreign leaders: tracker 2026",
+      "content_html": "US allies are shifting their focus to Beijing as Donald Trump doubles down on his tariff threats. After fresh US warnings, the year has started with a diplomatic rush to Beijing as European, Asian, and North American leaders seek stability through bilateral engagement with China.\nSouth Korea’s President Lee Jae Myung kicked off the diplomatic pivot in early January. As the first South Korean president to visit China since 2019, his trip cemented a thaw in relations. Irish Taoiseach Micheál...",
+      "content_text": "US allies are shifting their focus to Beijing as Donald Trump doubles down on his tariff threats. After fresh US warnings, the year has started with a diplomatic rush to Beijing as European, Asian, and North American leaders seek stability through bilateral engagement with China.\nSouth Korea’s President Lee Jae Myung kicked off the diplomatic pivot in early January. As the first South Korean president to visit China since 2019, his trip cemented a thaw in relations. Irish Taoiseach Micheál...",
+      "date_published": "2026-01-27T09:15:05.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/plus/news/china/diplomacy/article/3341407/world-leaders-flock-beijing-search-trade-deals?utm_source=rss_feed",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3341407/world-leaders-flock-beijing-search-trade-deals?utm_source=rss_feed",
+      "title": "World leaders flock to Beijing in search of trade deals",
+      "content_html": "British Prime Minister Keir Starmer is preparing to visit Beijing, following in the footsteps of other world leaders seeking to boost trade and investment ties with China without sparking reprisals from US President Donald Trump.\nStarmer will be in China from Thursday to Saturday, according to a Chinese government statement. He will also make a brief stop in Tokyo, a UK government spokesman said.\nThe first official trip to China by a UK prime minister since 2018 reflects the huge opportunities...",
+      "content_text": "British Prime Minister Keir Starmer is preparing to visit Beijing, following in the footsteps of other world leaders seeking to boost trade and investment ties with China without sparking reprisals from US President Donald Trump.\nStarmer will be in China from Thursday to Saturday, according to a Chinese government statement. He will also make a brief stop in Tokyo, a UK government spokesman said.\nThe first official trip to China by a UK prime minister since 2018 reflects the huge opportunities...",
+      "date_published": "2026-01-27T09:19:45.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/big-tech/article/3341380/chinas-alibaba-moonshot-claim-latest-flagship-ai-models-challenge-openai-google?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/big-tech/article/3341380/chinas-alibaba-moonshot-claim-latest-flagship-ai-models-challenge-openai-google?utm_source=rss_feed",
+      "title": "China’s Alibaba, Moonshot claim latest flagship AI models challenge OpenAI, Google",
+      "content_html": "Alibaba Group Holding and Moonshot AI have unveiled their latest flagship artificial intelligence models, narrowing the gap with US industry leaders OpenAI and Google DeepMind.\nThe new models from two of China’s leading AI developers mark the first major Chinese model releases of this year, as industry observers continue to closely monitor the gap between the US and China in developing cutting-edge foundational models.\nAlibaba Cloud announced its biggest-ever model, Qwen3-Max-Thinking, on...",
+      "content_text": "Alibaba Group Holding and Moonshot AI have unveiled their latest flagship artificial intelligence models, narrowing the gap with US industry leaders OpenAI and Google DeepMind.\nThe new models from two of China’s leading AI developers mark the first major Chinese model releases of this year, as industry observers continue to closely monitor the gap between the US and China in developing cutting-edge foundational models.\nAlibaba Cloud announced its biggest-ever model, Qwen3-Max-Thinking, on...",
+      "date_published": "2026-01-27T09:30:08.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/education/article/3341415/hong-kong-teachers-must-meet-training-hours-requirement-practising-certificate?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3341415/hong-kong-teachers-must-meet-training-hours-requirement-practising-certificate?utm_source=rss_feed",
+      "title": "Hong Kong to deny teachers practising certificates with insufficient training hours",
+      "content_html": "Teachers who fail to complete the required hours of professional development will be denied practising certificates, Hong Kong’s education authorities have said, ahead of a meeting next week to discuss details of the proposed scheme.\nSecretary for Education Christine Choi Yuk-lin said on Tuesday that the proposal would also outline the requirements for rejoining the profession after registered teachers had left the sector for a period of time.\nThe proposed certificate was introduced as a new...",
+      "content_text": "Teachers who fail to complete the required hours of professional development will be denied practising certificates, Hong Kong’s education authorities have said, ahead of a meeting next week to discuss details of the proposed scheme.\nSecretary for Education Christine Choi Yuk-lin said on Tuesday that the proposal would also outline the requirements for rejoining the profession after registered teachers had left the sector for a period of time.\nThe proposed certificate was introduced as a new...",
+      "date_published": "2026-01-27T09:34:46.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/world/united-states-canada/article/3341413/trump-faces-second-amendment-backlash-over-ice-shooting-alex-pretti?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3341413/trump-faces-second-amendment-backlash-over-ice-shooting-alex-pretti?utm_source=rss_feed",
+      "title": "Trump faces Second Amendment backlash over ICE shooting of Alex Pretti",
+      "content_html": "Prominent Republicans and gun rights advocates helped elicit a White House turnabout this week after bristling over the administration’s characterisation of Alex Pretti, the second person killed this month by a federal officer in Minneapolis, as responsible for his own death because he lawfully possessed a weapon.\nThe death produced no clear shifts in US gun politics or policies, even as US President Donald Trump shuffles the lieutenants in charge of his militarised immigration crackdown. But...",
+      "content_text": "Prominent Republicans and gun rights advocates helped elicit a White House turnabout this week after bristling over the administration’s characterisation of Alex Pretti, the second person killed this month by a federal officer in Minneapolis, as responsible for his own death because he lawfully possessed a weapon.\nThe death produced no clear shifts in US gun politics or policies, even as US President Donald Trump shuffles the lieutenants in charge of his militarised immigration crackdown. But...",
+      "date_published": "2026-01-27T09:35:19.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/week-asia/lifestyle-culture/article/3341419/elephant-rides-indonesias-bali-attractions-banned-over-animal-welfare-concerns?utm_source=rss_feed",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3341419/elephant-rides-indonesias-bali-attractions-banned-over-animal-welfare-concerns?utm_source=rss_feed",
+      "title": "Elephant rides at Indonesia’s Bali attractions banned over animal welfare concerns",
+      "content_html": "Bali’s elephant-riding attractions have begun shutting down after Indonesia’s forestry authorities ordered conservation centres to end the practice, as local officials threaten to revoke the relevant permits for non-compliance.\nThe directive calls for the centres to stop elephant-riding “performances” and shift towards wildlife tourism that is more educational and ethical, according to a circular by the Ministry of Forestry’s Directorate General of Natural Resources and Ecosystem Conservation...",
+      "content_text": "Bali’s elephant-riding attractions have begun shutting down after Indonesia’s forestry authorities ordered conservation centres to end the practice, as local officials threaten to revoke the relevant permits for non-compliance.\nThe directive calls for the centres to stop elephant-riding “performances” and shift towards wildlife tourism that is more educational and ethical, according to a circular by the Ministry of Forestry’s Directorate General of Natural Resources and Ecosystem Conservation...",
+      "date_published": "2026-01-27T09:49:37.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/week-asia/politics/article/3341420/indonesias-move-join-trumps-board-peace-stirs-debate-foreign-policy-shift?utm_source=rss_feed",
+      "url": "https://www.scmp.com/week-asia/politics/article/3341420/indonesias-move-join-trumps-board-peace-stirs-debate-foreign-policy-shift?utm_source=rss_feed",
+      "title": "Indonesia’s move to join Trump’s ‘Board of Peace’ stirs debate on foreign policy shift",
+      "content_html": "Indonesia’s decision to join US President Donald Trump’s “Board of Peace” has raised eyebrows at home, with critics zeroing in on how it deviated from Jakarta’s values by serving the interests of only the US and Israel instead of Palestine.\nSome observers, however, argue that the move is “consistent” with Indonesia’s proactive foreign policy stance and allows it access to major powers.\nPresident Prabowo Subianto was among several world leaders flanking Trump at Thursday’s signing of the board’s...",
+      "content_text": "Indonesia’s decision to join US President Donald Trump’s “Board of Peace” has raised eyebrows at home, with critics zeroing in on how it deviated from Jakarta’s values by serving the interests of only the US and Israel instead of Palestine.\nSome observers, however, argue that the move is “consistent” with Indonesia’s proactive foreign policy stance and allows it access to major powers.\nPresident Prabowo Subianto was among several world leaders flanking Trump at Thursday’s signing of the board’s...",
+      "date_published": "2026-01-27T09:52:57.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/people-culture/china-personalities/article/3341357/whos-he-china-vendor-remains-unfazed-after-receiving-lai-see-nvidia-ceo-jensen-huang?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3341357/whos-he-china-vendor-remains-unfazed-after-receiving-lai-see-nvidia-ceo-jensen-huang?utm_source=rss_feed",
+      "title": "‘Who’s he?’ China vendor remains unfazed after receiving lai see from Nvidia CEO Jensen Huang",
+      "content_html": "Nvidia CEO Jensen Huang bought street snacks worth 65 yuan (US$9) at a market in Shanghai while giving its owner a lai see of 600 yuan (US$90), but the operator did not recognise the artificial intelligence (AI) chip mogul.\nHuang recently sparked a storm on mainland social media thanks to his down-to-earth and friendly demeanour during a visit to a wet market in Shanghai.\nIt is his routine to visit his company’s offices in mainland China before flying to Taiwan before the Lunar New Year each...",
+      "content_text": "Nvidia CEO Jensen Huang bought street snacks worth 65 yuan (US$9) at a market in Shanghai while giving its owner a lai see of 600 yuan (US$90), but the operator did not recognise the artificial intelligence (AI) chip mogul.\nHuang recently sparked a storm on mainland social media thanks to his down-to-earth and friendly demeanour during a visit to a wet market in Shanghai.\nIt is his routine to visit his company’s offices in mainland China before flying to Taiwan before the Lunar New Year each...",
+      "date_published": "2026-01-27T10:00:07.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3341412/china-tightens-rail-approvals-xi-warns-overbuilding-waste-and-operational-trouble?utm_source=rss_feed",
+      "url": "https://www.scmp.com/economy/china-economy/article/3341412/china-tightens-rail-approvals-xi-warns-overbuilding-waste-and-operational-trouble?utm_source=rss_feed",
+      "title": "China tightens rail approvals as Xi warns on overbuilding, waste and ‘operational’ trouble",
+      "content_html": "China is tightening approvals for intercity railways and urban metro projects – long-standing pillars of fixed-asset investment – as policymakers pay closer attention to debt risks while shifting the growth model towards consumption.\nThe move comes as President Xi Jinping has specifically flagged operational strains at some high-speed rail stations and subway lines – a sign that the old growth driver may be further curtailed in the coming years.\nAccording to an online statement on Sunday by the...",
+      "content_text": "China is tightening approvals for intercity railways and urban metro projects – long-standing pillars of fixed-asset investment – as policymakers pay closer attention to debt risks while shifting the growth model towards consumption.\nThe move comes as President Xi Jinping has specifically flagged operational strains at some high-speed rail stations and subway lines – a sign that the old growth driver may be further curtailed in the coming years.\nAccording to an online statement on Sunday by the...",
+      "date_published": "2026-01-27T10:00:10.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341430/man-arrested-hong-kong-police-seize-800kg-illegal-fireworks-worth-hk1-million?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341430/man-arrested-hong-kong-police-seize-800kg-illegal-fireworks-worth-hk1-million?utm_source=rss_feed",
+      "title": "Man arrested as Hong Kong police seize 800kg of illegal fireworks worth HK$1 million",
+      "content_html": "Hong Kong police have charged a man with illegal possession of fireworks and firecrackers after seizing a haul worth HK$1 million (US$128,200) from a shipping container in Tuen Mun, three weeks ahead of Lunar New Year.\nOfficers from the New Territories North regional anti-triad unit found 58 boxes containing 800kg (1,764lbs) of pyrotechnics during a raid in Tai Lam Chung at about 4pm on Monday, the force said.\nSenior Inspector Kwok Man-wai said police found the goods in a container rented by the...",
+      "content_text": "Hong Kong police have charged a man with illegal possession of fireworks and firecrackers after seizing a haul worth HK$1 million (US$128,200) from a shipping container in Tuen Mun, three weeks ahead of Lunar New Year.\nOfficers from the New Territories North regional anti-triad unit found 58 boxes containing 800kg (1,764lbs) of pyrotechnics during a raid in Tai Lam Chung at about 4pm on Monday, the force said.\nSenior Inspector Kwok Man-wai said police found the goods in a container rented by the...",
+      "date_published": "2026-01-27T10:45:44.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/article/3341367/chinas-guangdong-province-exports-record-us140-billion-tech-high-value-goods?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/article/3341367/chinas-guangdong-province-exports-record-us140-billion-tech-high-value-goods?utm_source=rss_feed",
+      "title": "China’s Guangdong province exports record US$140 billion of tech, high-value goods",
+      "content_html": "Exports of chip-manufacturing equipment, electric vehicles (EVs) and other high-value goods from China’s southern Guangdong province rose to a record high last year of over 1 trillion yuan (US$140 billion), highlighting the country’s progress in its quest for technological self-sufficiency in an ongoing tech war with the US.\nThe country’s leading manufacturing hub exported semiconductor equipment worth more than 800 billion yuan in 2025, an increase of nearly 20 per cent from a year earlier,...",
+      "content_text": "Exports of chip-manufacturing equipment, electric vehicles (EVs) and other high-value goods from China’s southern Guangdong province rose to a record high last year of over 1 trillion yuan (US$140 billion), highlighting the country’s progress in its quest for technological self-sufficiency in an ongoing tech war with the US.\nThe country’s leading manufacturing hub exported semiconductor equipment worth more than 800 billion yuan in 2025, an increase of nearly 20 per cent from a year earlier,...",
+      "date_published": "2026-01-27T11:00:08.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/business/article/3341425/hong-kong-logs-us95-million-worth-luxury-home-deals-single-day?utm_source=rss_feed",
+      "url": "https://www.scmp.com/business/article/3341425/hong-kong-logs-us95-million-worth-luxury-home-deals-single-day?utm_source=rss_feed",
+      "title": "Hong Kong logs US$95 million worth of luxury home deals in a single day",
+      "content_html": "Hong Kong’s property market on Monday logged HK$740 million (US$94.9 million) worth of luxury home deals, one of the city’s largest single-day hauls, as the residential segment shakes off a multi-year slump.\nRecords from the Land Registry showed that five upscale homes – from areas such as Mid-Levels, Wan Chai and Sai Kung – changed hands in deals valued between HK$93 million and HK$238 million.\nThe flurry of luxury home deals comes amid a recovery in Hong Kong’s residential property segment, as...",
+      "content_text": "Hong Kong’s property market on Monday logged HK$740 million (US$94.9 million) worth of luxury home deals, one of the city’s largest single-day hauls, as the residential segment shakes off a multi-year slump.\nRecords from the Land Registry showed that five upscale homes – from areas such as Mid-Levels, Wan Chai and Sai Kung – changed hands in deals valued between HK$93 million and HK$238 million.\nThe flurry of luxury home deals comes amid a recovery in Hong Kong’s residential property segment, as...",
+      "date_published": "2026-01-27T11:00:15.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/week-asia/economics/article/3341434/india-eu-make-history-they-seal-trade-pact-amid-us-tariff-pressure?utm_source=rss_feed",
+      "url": "https://www.scmp.com/week-asia/economics/article/3341434/india-eu-make-history-they-seal-trade-pact-amid-us-tariff-pressure?utm_source=rss_feed",
+      "title": "India, EU ‘make history’ as they seal trade pact amid US tariff pressure",
+      "content_html": "India and the European Union on Tuesday announced a long-awaited free trade agreement that Prime Minister Narendra Modi described as the “mother of all deals”, as both sides moved to strengthen economic ties in a global trade order unsettled by rising US protectionism.\nThe pact, once implemented, is expected to create one of the world’s largest trading blocs and deepen commercial links between the EU’s 27 member states and the world’s most populous country.\nThe deal would cut or eliminate...",
+      "content_text": "India and the European Union on Tuesday announced a long-awaited free trade agreement that Prime Minister Narendra Modi described as the “mother of all deals”, as both sides moved to strengthen economic ties in a global trade order unsettled by rising US protectionism.\nThe pact, once implemented, is expected to create one of the world’s largest trading blocs and deepen commercial links between the EU’s 27 member states and the world’s most populous country.\nThe deal would cut or eliminate...",
+      "date_published": "2026-01-27T11:10:35.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341433/hong-kong-retiree-spiked-soft-drinks-urine-year-long-prank?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341433/hong-kong-retiree-spiked-soft-drinks-urine-year-long-prank?utm_source=rss_feed",
+      "title": "Hong Kong retiree spiked soft drinks with urine in year-long ‘prank’",
+      "content_html": "A former property agent has admitted planting urine-spiked soft drinks among other goods in supermarkets repeatedly for more than a year, telling a Hong Kong court he had developed depression since his divorce and retirement.\nKowloon City Court heard that Franklin Lo Kim-ngai, 63, marked his discontent with supermarket staff by doctoring Coca-Cola Plus and 7-Up drinks with his urine and placing them in Wellcome and ParknShop outlets across the city between July 21, 2024, and August 6, last...",
+      "content_text": "A former property agent has admitted planting urine-spiked soft drinks among other goods in supermarkets repeatedly for more than a year, telling a Hong Kong court he had developed depression since his divorce and retirement.\nKowloon City Court heard that Franklin Lo Kim-ngai, 63, marked his discontent with supermarket staff by doctoring Coca-Cola Plus and 7-Up drinks with his urine and placing them in Wellcome and ParknShop outlets across the city between July 21, 2024, and August 6, last...",
+      "date_published": "2026-01-27T11:14:20.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/world/europe/article/3341436/ice-agents-get-security-role-2026-winter-olympics-sparking-outrage-after-deadly-shootings?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/europe/article/3341436/ice-agents-get-security-role-2026-winter-olympics-sparking-outrage-after-deadly-shootings?utm_source=rss_feed",
+      "title": "ICE agents get security role at 2026 Winter Olympics sparking outrage after deadly shootings",
+      "content_html": "A branch of the US Immigration and Customs Enforcement (ICE) will help with security for the Winter Olympics in Italy, it confirmed on Tuesday, sparking anger and warnings they were not welcome.\nReports had been circulating for days that the agency embroiled in an often brutal immigration crackdown in the United States could be involved in US security measures for the February 6-22 Games in northern Italy.\nIn a statement overnight, ICE said: “At the Olympics, ICE’s Homeland Security...",
+      "content_text": "A branch of the US Immigration and Customs Enforcement (ICE) will help with security for the Winter Olympics in Italy, it confirmed on Tuesday, sparking anger and warnings they were not welcome.\nReports had been circulating for days that the agency embroiled in an often brutal immigration crackdown in the United States could be involved in US security measures for the February 6-22 Games in northern Italy.\nIn a statement overnight, ICE said: “At the Olympics, ICE’s Homeland Security...",
+      "date_published": "2026-01-27T11:40:40.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3341441/hong-kongs-exports-rose-154-2025-historical-high?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3341441/hong-kongs-exports-rose-154-2025-historical-high?utm_source=rss_feed",
+      "title": "Hong Kong’s exports jump 15.4% in 2025 to ‘historical high’",
+      "content_html": "Hong Kong’s exports in 2025 rose by 15.4 per cent year on year to a “historical high”, with authorities expecting sustained global economic growth, improved ties with new markets and strong demand for artificial intelligence-enabled products to continue supporting the city’s trade.\nAccording to the Census and Statistics Department, the total value of Hong Kong’s export of goods rose by 15.4 per cent in 2025 compared with the previous year, while the value of imports increased by 15.5 per cent...",
+      "content_text": "Hong Kong’s exports in 2025 rose by 15.4 per cent year on year to a “historical high”, with authorities expecting sustained global economic growth, improved ties with new markets and strong demand for artificial intelligence-enabled products to continue supporting the city’s trade.\nAccording to the Census and Statistics Department, the total value of Hong Kong’s export of goods rose by 15.4 per cent in 2025 compared with the previous year, while the value of imports increased by 15.5 per cent...",
+      "date_published": "2026-01-27T11:50:04.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/china/politics/article/3341442/us-ambassador-china-says-progress-agreements-boeing-deal-among-signs-better-ties?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/politics/article/3341442/us-ambassador-china-says-progress-agreements-boeing-deal-among-signs-better-ties?utm_source=rss_feed",
+      "title": "US envoy to China says progress on agreements, Boeing deal among signs of better ties",
+      "content_html": "America’s top diplomat in Beijing struck an optimistic note on bilateral ties on Tuesday, telling a closed-door gathering in Hong Kong that risks in the relationship had been controlled effectively and talks were under way for a potential Boeing deal, sources told the South China Morning Post.\nSources who were present as David Perdue, the US ambassador to China, spoke at the Goldman Sachs Global Macro Conference Asia-Pacific 2026, said his message was “comforting and reassuring” to global...",
+      "content_text": "America’s top diplomat in Beijing struck an optimistic note on bilateral ties on Tuesday, telling a closed-door gathering in Hong Kong that risks in the relationship had been controlled effectively and talks were under way for a potential Boeing deal, sources told the South China Morning Post.\nSources who were present as David Perdue, the US ambassador to China, spoke at the Goldman Sachs Global Macro Conference Asia-Pacific 2026, said his message was “comforting and reassuring” to global...",
+      "date_published": "2026-01-27T11:59:27.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/business/china-business/article/3341432/china-could-approve-first-fully-ai-designed-drug-next-year-merck-executive-says?utm_source=rss_feed",
+      "url": "https://www.scmp.com/business/china-business/article/3341432/china-could-approve-first-fully-ai-designed-drug-next-year-merck-executive-says?utm_source=rss_feed",
+      "title": "China could approve first fully AI-designed drug next year, Merck executive says",
+      "content_html": "Mainland China could become one of the first markets in the world to approve a drug fully designed by artificial intelligence, as advances in AI and human genetics combine to create a “seismic shift” in drug development, according to executives of pharmaceutical giants.\n“We will see in 2026 that we move from AI-assisted discovery to fully AI-designed compounds, perhaps entering the pipeline,” said Marc Horn, president of Merck China, at the Asian Financial Forum on Tuesday in Hong Kong. “We...",
+      "content_text": "Mainland China could become one of the first markets in the world to approve a drug fully designed by artificial intelligence, as advances in AI and human genetics combine to create a “seismic shift” in drug development, according to executives of pharmaceutical giants.\n“We will see in 2026 that we move from AI-assisted discovery to fully AI-designed compounds, perhaps entering the pipeline,” said Marc Horn, president of Merck China, at the Asian Financial Forum on Tuesday in Hong Kong. “We...",
+      "date_published": "2026-01-27T12:00:10.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/opinion/china-opinion/article/3341126/china-grows-it-reshaping-how-global-public-goods-are-delivered?utm_source=rss_feed",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3341126/china-grows-it-reshaping-how-global-public-goods-are-delivered?utm_source=rss_feed",
+      "title": "As China grows, it is reshaping how global public goods are delivered",
+      "content_html": "At Davos this year, a familiar but sobering warning echoed through the slopes: the global order is fracturing into closed loops. In Western capitals, “de-risking” remains the dominant keyword, framing the global economy as a series of strategic high walls. Yet, beyond these barriers, a more tangible crisis is unfolding across the Global South. The infrastructure deficit continues to widen, estimated at a staggering US$1.7 trillion annually for Asia alone.\nThis is a crisis of global governance....",
+      "content_text": "At Davos this year, a familiar but sobering warning echoed through the slopes: the global order is fracturing into closed loops. In Western capitals, “de-risking” remains the dominant keyword, framing the global economy as a series of strategic high walls. Yet, beyond these barriers, a more tangible crisis is unfolding across the Global South. The infrastructure deficit continues to widen, estimated at a staggering US$1.7 trillion annually for Asia alone.\nThis is a crisis of global governance....",
+      "date_published": "2026-01-27T12:30:08.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/business/china-business/article/3341446/over-70-european-firms-china-review-supply-chain-strategies-survey?utm_source=rss_feed",
+      "url": "https://www.scmp.com/business/china-business/article/3341446/over-70-european-firms-china-review-supply-chain-strategies-survey?utm_source=rss_feed",
+      "title": "Over 70% of European firms in China review supply chain strategies: survey",
+      "content_html": "Seven out of every 10 European companies operating in China were reviewing their supply chain strategies amid geopolitical tensions and Beijing’s opaque policymaking, which appears to set back the country’s globalisation efforts, according to a new survey.\nA survey of 324 corporate respondents conducted by the Shanghai chapter of the European Union Chamber of Commerce found that these firms aimed to strike a balance between cost efficiency and risk diversification, while building resilience in...",
+      "content_text": "Seven out of every 10 European companies operating in China were reviewing their supply chain strategies amid geopolitical tensions and Beijing’s opaque policymaking, which appears to set back the country’s globalisation efforts, according to a new survey.\nA survey of 324 corporate respondents conducted by the Shanghai chapter of the European Union Chamber of Commerce found that these firms aimed to strike a balance between cost efficiency and risk diversification, while building resilience in...",
+      "date_published": "2026-01-27T12:30:13.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/world/middle-east/article/3341447/after-25-year-israel-blockade-gaza-unicef-delivers-school-kits?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3341447/after-25-year-israel-blockade-gaza-unicef-delivers-school-kits?utm_source=rss_feed",
+      "title": "After 2.5-year Israel blockade on Gaza, Unicef delivers school kits",
+      "content_html": "The UN children’s agency said on Tuesday it had for the first time in two and a half years been able to deliver ‌school kits with learning materials into Gaza after they were previously blocked by Israeli authorities.\nThousands of ‍kits, including pencils, exercise books and wooden cubes to play with, have now entered the enclave, Unicef said.\n“We have now, in the last days, got in thousands of recreational kits, hundreds of school-in-a-carton kits. We’re looking at getting 2,500 more school...",
+      "content_text": "The UN children’s agency said on Tuesday it had for the first time in two and a half years been able to deliver ‌school kits with learning materials into Gaza after they were previously blocked by Israeli authorities.\nThousands of ‍kits, including pencils, exercise books and wooden cubes to play with, have now entered the enclave, Unicef said.\n“We have now, in the last days, got in thousands of recreational kits, hundreds of school-in-a-carton kits. We’re looking at getting 2,500 more school...",
+      "date_published": "2026-01-27T12:38:46.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341440/hong-kong-police-arrest-71-over-stooge-accounts-linked-hk214-million-scams?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341440/hong-kong-police-arrest-71-over-stooge-accounts-linked-hk214-million-scams?utm_source=rss_feed",
+      "title": "Hong Kong police arrest 71 over stooge accounts linked to HK$214 million scams",
+      "content_html": "Hong Kong police have arrested 71 people for operating stooge accounts used by scammers, with the largest case involving a senior director at a multinational company who was defrauded of HK$134 million after transferring the funds to criminals impersonating his chief executive.\nInspector Tsang Kin-wa of the Hong Kong Island regional technology and financial crime unit said the force had conducted a crackdown on scams and money laundering between January 12 and 26, uncovering 69 cases, with total...",
+      "content_text": "Hong Kong police have arrested 71 people for operating stooge accounts used by scammers, with the largest case involving a senior director at a multinational company who was defrauded of HK$134 million after transferring the funds to criminals impersonating his chief executive.\nInspector Tsang Kin-wa of the Hong Kong Island regional technology and financial crime unit said the force had conducted a crackdown on scams and money laundering between January 12 and 26, uncovering 69 cases, with total...",
+      "date_published": "2026-01-27T12:51:23.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3341435/chinas-consumer-spending-push-faces-major-challenge-debt-averse-households?utm_source=rss_feed",
+      "url": "https://www.scmp.com/economy/china-economy/article/3341435/chinas-consumer-spending-push-faces-major-challenge-debt-averse-households?utm_source=rss_feed",
+      "title": "China’s consumer spending push faces major challenge – debt-averse households",
+      "content_html": "Chinese households have accelerated deleveraging – cutting debt relative to gross domestic product – at the fastest pace in years, a shift that could weigh on the consumer spending that Beijing needs to sustain growth in the world’s second-largest economy.\nThe household debt-to-GDP ratio fell by 2 percentage points, from 61.4 per cent in 2024 to 59.4 per cent at the end of 2025, according to data released on Monday by the National Institution for Finance and Development (NIFD), a Beijing-based...",
+      "content_text": "Chinese households have accelerated deleveraging – cutting debt relative to gross domestic product – at the fastest pace in years, a shift that could weigh on the consumer spending that Beijing needs to sustain growth in the world’s second-largest economy.\nThe household debt-to-GDP ratio fell by 2 percentage points, from 61.4 per cent in 2024 to 59.4 per cent at the end of 2025, according to data released on Monday by the National Institution for Finance and Development (NIFD), a Beijing-based...",
+      "date_published": "2026-01-27T13:00:21.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/week-asia/economics/article/3341448/malaysian-ringgit-strengthens-singapore-shoppers-johor-reap-less-savings?utm_source=rss_feed",
+      "url": "https://www.scmp.com/week-asia/economics/article/3341448/malaysian-ringgit-strengthens-singapore-shoppers-johor-reap-less-savings?utm_source=rss_feed",
+      "title": "As Malaysian ringgit strengthens, Singapore shoppers in Johor reap less savings",
+      "content_html": "Since losing his job two years ago, Singaporean Gurpal Singh has been making weekly trips by car across the border to the Malaysian city of Johor Bharu to buy cheaper groceries and fuel.\nBut as Malaysia’s currency continues to strengthen, bargain-hunting visitors from Singapore like him are getting less value for their purchases.\nOn Tuesday afternoon, the Singapore dollar was trading at 3.11 against the Malaysian ringgit, down from 3.15 in early January and 3.26 in October last year.\nEconomists...",
+      "content_text": "Since losing his job two years ago, Singaporean Gurpal Singh has been making weekly trips by car across the border to the Malaysian city of Johor Bharu to buy cheaper groceries and fuel.\nBut as Malaysia’s currency continues to strengthen, bargain-hunting visitors from Singapore like him are getting less value for their purchases.\nOn Tuesday afternoon, the Singapore dollar was trading at 3.11 against the Malaysian ringgit, down from 3.15 in early January and 3.26 in October last year.\nEconomists...",
+      "date_published": "2026-01-27T13:02:56.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/asia/australasia/article/3341450/australia-swelters-temperatures-near-50-degrees-record-breaking-heatwave?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3341450/australia-swelters-temperatures-near-50-degrees-record-breaking-heatwave?utm_source=rss_feed",
+      "title": "Australia swelters as temperatures near 50 degrees in record-breaking heatwave",
+      "content_html": "Parts of Australia sweltered in record temperatures of close to 50 degrees Celsius (122 degrees Fahrenheit) on Tuesday as the country sweated through a prolonged heatwave.\nThe rural towns of Hopetoun and Walpeup in Victoria state registered preliminary highs of 48.9 degrees, which if confirmed overnight would top records set on the day in 2009 when 173 people were killed in the state’s devastating Black Saturday bushfires.\nNo casualties were reported from Tuesday’s heatwave, but Victoria...",
+      "content_text": "Parts of Australia sweltered in record temperatures of close to 50 degrees Celsius (122 degrees Fahrenheit) on Tuesday as the country sweated through a prolonged heatwave.\nThe rural towns of Hopetoun and Walpeup in Victoria state registered preliminary highs of 48.9 degrees, which if confirmed overnight would top records set on the day in 2009 when 173 people were killed in the state’s devastating Black Saturday bushfires.\nNo casualties were reported from Tuesday’s heatwave, but Victoria...",
+      "date_published": "2026-01-27T13:06:10.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/china/military/article/3341451/china-and-russia-bolster-defence-ties-counter-risks?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/military/article/3341451/china-and-russia-bolster-defence-ties-counter-risks?utm_source=rss_feed",
+      "title": "China and Russia to bolster defence ties to counter risks",
+      "content_html": "Chinese Defence Minister Dong Jun urged closer strategic coordination between Beijing and Moscow and bolstering joint capacity to respond to risks and challenges in a video call with his Russian counterpart on Tuesday.\nDong told Andrei Belousov that Beijing was willing to “enrich the substance of cooperation, improve communication and exchange mechanisms, jointly enhance the ability to respond to various risks and challenges and work hand in hand to inject positive energy into global security...",
+      "content_text": "Chinese Defence Minister Dong Jun urged closer strategic coordination between Beijing and Moscow and bolstering joint capacity to respond to risks and challenges in a video call with his Russian counterpart on Tuesday.\nDong told Andrei Belousov that Beijing was willing to “enrich the substance of cooperation, improve communication and exchange mechanisms, jointly enhance the ability to respond to various risks and challenges and work hand in hand to inject positive energy into global security...",
+      "date_published": "2026-01-27T13:13:55.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/politics/article/3341452/wrong-side-hong-kong-politicians-trade-barbs-over-lawmakers-driving?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3341452/wrong-side-hong-kong-politicians-trade-barbs-over-lawmakers-driving?utm_source=rss_feed",
+      "title": "On the wrong side: Hong Kong politicians trade barbs over lawmaker’s driving",
+      "content_html": "An alleged traffic offence involving a Hong Kong lawmaker has sparked a fiery exchange between a veteran of the city’s biggest party and political heavyweight Regina Ip Lau Suk-yee, who defended her protege and was accused of double standards.\nNew People’s Party chairwoman Ip, convenor of the government’s key decision-making body Executive Council, reportedly snapped at former lawmaker Choy So-yuk, questioning whether her Democratic Alliance for the Betterment and Progress of Hong Kong (DAB),...",
+      "content_text": "An alleged traffic offence involving a Hong Kong lawmaker has sparked a fiery exchange between a veteran of the city’s biggest party and political heavyweight Regina Ip Lau Suk-yee, who defended her protege and was accused of double standards.\nNew People’s Party chairwoman Ip, convenor of the government’s key decision-making body Executive Council, reportedly snapped at former lawmaker Choy So-yuk, questioning whether her Democratic Alliance for the Betterment and Progress of Hong Kong (DAB),...",
+      "date_published": "2026-01-27T13:29:52.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/world/europe/article/3341453/spain-buck-trump-trend-and-legalise-thousands-migrants?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/europe/article/3341453/spain-buck-trump-trend-and-legalise-thousands-migrants?utm_source=rss_feed",
+      "title": "Spain to buck Trump trend and legalise thousands of migrants",
+      "content_html": "Spain’s government announced on Tuesday it will grant legal status to potentially hundreds of thousands of immigrants living and working in the country without authorisation, the latest example of how the country has bucked a trend towards increasingly harsh immigration policies championed by US President Donald Trump and seen across much of Europe.\nMigration Minister Elma Saiz said the beneficiaries would be able to work “in any sector, in any part of the country”, and extolled “the positive...",
+      "content_text": "Spain’s government announced on Tuesday it will grant legal status to potentially hundreds of thousands of immigrants living and working in the country without authorisation, the latest example of how the country has bucked a trend towards increasingly harsh immigration policies championed by US President Donald Trump and seen across much of Europe.\nMigration Minister Elma Saiz said the beneficiaries would be able to work “in any sector, in any part of the country”, and extolled “the positive...",
+      "date_published": "2026-01-27T13:54:49.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/us/politics/article/3341313/us-soybean-farmers-fear-china-trade-blowback-trump-ramps-pressure?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/us/politics/article/3341313/us-soybean-farmers-fear-china-trade-blowback-trump-ramps-pressure?utm_source=rss_feed",
+      "title": "Ahead of Trump Iowa speech, US soybean farmers fear China trade blowback",
+      "content_html": "After a bruising 2025 that pushed him to the brink of bankruptcy, Arkansas soybean farmer Randall Shelby starts the new year worried that US farmers could once again be caught in the crossfire as tensions between Washington and Beijing threaten to escalate anew.\nThis comes as US President Donald Trump addresses farmers on Tuesday in Iowa, the United States’ second-largest soybean producer, to try to convince them that he has their best interests at heart in advance of the November midterm...",
+      "content_text": "After a bruising 2025 that pushed him to the brink of bankruptcy, Arkansas soybean farmer Randall Shelby starts the new year worried that US farmers could once again be caught in the crossfire as tensions between Washington and Beijing threaten to escalate anew.\nThis comes as US President Donald Trump addresses farmers on Tuesday in Iowa, the United States’ second-largest soybean producer, to try to convince them that he has their best interests at heart in advance of the November midterm...",
+      "date_published": "2026-01-27T14:00:07.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/china/science/article/3341360/chinese-satellite-forces-4400-its-starlink-rivals-lower-altitude-study?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/science/article/3341360/chinese-satellite-forces-4400-its-starlink-rivals-lower-altitude-study?utm_source=rss_feed",
+      "title": "Chinese satellite forces 4,400 of its Starlink rivals into lower altitude: study",
+      "content_html": "A team of researchers in China has claimed that a recent near-miss between a Chinese satellite and one of SpaceX’s Starlink devices was behind the US company’s decision to move more than 4,000 of its satellites into lower orbit.\nThe two satellites passed within about 200 metres (656 feet) of each other on December 10, shortly after a launch from northwestern China, according to a social media post last month by Michael Nicolls, SpaceX’s vice-president of engineering.\nThree weeks later, in...",
+      "content_text": "A team of researchers in China has claimed that a recent near-miss between a Chinese satellite and one of SpaceX’s Starlink devices was behind the US company’s decision to move more than 4,000 of its satellites into lower orbit.\nThe two satellites passed within about 200 metres (656 feet) of each other on December 10, shortly after a launch from northwestern China, according to a social media post last month by Michael Nicolls, SpaceX’s vice-president of engineering.\nThree weeks later, in...",
+      "date_published": "2026-01-27T14:00:11.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/article/3341437/deepseek-taps-alibaba-open-source-ai-technology-boost-ocr-performance?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/article/3341437/deepseek-taps-alibaba-open-source-ai-technology-boost-ocr-performance?utm_source=rss_feed",
+      "title": "DeepSeek taps Alibaba open-source AI technology to boost OCR performance",
+      "content_html": "Chinese artificial intelligence start-up DeepSeek on Tuesday unveiled an upgraded version of its optical character recognition (OCR) model, incorporating an Alibaba Cloud-developed open-source system to boost performance.\nThe new model, DeepSeek-OCR 2, replaced a key component of its original architecture with Alibaba Cloud’s lightweight Qwen2-0.5b model, according to a research paper released by the company.\nThe update, which comes just over three months after DeepSeek launched the first...",
+      "content_text": "Chinese artificial intelligence start-up DeepSeek on Tuesday unveiled an upgraded version of its optical character recognition (OCR) model, incorporating an Alibaba Cloud-developed open-source system to boost performance.\nThe new model, DeepSeek-OCR 2, replaced a key component of its original architecture with Alibaba Cloud’s lightweight Qwen2-0.5b model, according to a research paper released by the company.\nThe update, which comes just over three months after DeepSeek launched the first...",
+      "date_published": "2026-01-27T14:00:13.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/world/united-states-canada/article/3341457/judge-orders-ice-chief-minnesota-court-over-trumps-immigration-crackdown?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3341457/judge-orders-ice-chief-minnesota-court-over-trumps-immigration-crackdown?utm_source=rss_feed",
+      "title": "Judge orders ICE chief Todd Lyons to Minnesota court over Trump’s immigration crackdown",
+      "content_html": "The chief federal judge in Minnesota says the Trump administration has failed to comply with orders to hold hearings for detained immigrants and ordered the head of Immigration and Customs Enforcement (ICE) to appear before him on Friday to explain why he shouldn’t be held in contempt.\nIn an order dated Monday, Chief Judge Patrick J. Schiltz said Todd Lyons, the acting director of ICE, must appear personally in court. Schlitz took the administration to task over its handling of bond hearings for...",
+      "content_text": "The chief federal judge in Minnesota says the Trump administration has failed to comply with orders to hold hearings for detained immigrants and ordered the head of Immigration and Customs Enforcement (ICE) to appear before him on Friday to explain why he shouldn’t be held in contempt.\nIn an order dated Monday, Chief Judge Patrick J. Schiltz said Todd Lyons, the acting director of ICE, must appear personally in court. Schlitz took the administration to task over its handling of bond hearings for...",
+      "date_published": "2026-01-27T14:20:52.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3341458/hong-kong-eyes-bigger-marathon-egg-waffles-and-milk-tea-cheer-runners?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3341458/hong-kong-eyes-bigger-marathon-egg-waffles-and-milk-tea-cheer-runners?utm_source=rss_feed",
+      "title": "Hong Kong eyes bigger marathon with egg waffles and milk tea to cheer runners",
+      "content_html": "Hong Kong authorities have signalled openness to expanding the city’s annual marathon, suggesting future routes could bring runners closer to the public, allowing residents to cheer them on with “egg waffles and milk tea” along the way.\nSecretary for Culture, Sports and Tourism Rosanna Law Shuk-pui told lawmakers that the government maintained a “positive and open” attitude towards expanding the capacity of the Standard Chartered Hong Kong Marathon or even turning it into a two-day event, an...",
+      "content_text": "Hong Kong authorities have signalled openness to expanding the city’s annual marathon, suggesting future routes could bring runners closer to the public, allowing residents to cheer them on with “egg waffles and milk tea” along the way.\nSecretary for Culture, Sports and Tourism Rosanna Law Shuk-pui told lawmakers that the government maintained a “positive and open” attitude towards expanding the capacity of the Standard Chartered Hong Kong Marathon or even turning it into a two-day event, an...",
+      "date_published": "2026-01-27T14:27:32.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3341456/hong-kong-lunar-new-year-parade-feature-labubu-wishing-tree-floats?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3341456/hong-kong-lunar-new-year-parade-feature-labubu-wishing-tree-floats?utm_source=rss_feed",
+      "title": "Hong Kong Lunar New Year parade to feature Labubu, wishing tree on floats",
+      "content_html": "Hong Kong’s Lunar New Year parade next month is expected to attract 100,000 people, with global toy sensation Labubu and the city’s storied wishing tree being featured on floats in the procession.\nThe Hong Kong Tourism Board, which organises the event, said that eight “distinctive” floats would be displayed at Kai Tak Sports Park one day after the event – the first time for such an arrangement.\nThe event will be held in Tsim Sha Tsui on the evening of February 17, the first day of Lunar New...",
+      "content_text": "Hong Kong’s Lunar New Year parade next month is expected to attract 100,000 people, with global toy sensation Labubu and the city’s storied wishing tree being featured on floats in the procession.\nThe Hong Kong Tourism Board, which organises the event, said that eight “distinctive” floats would be displayed at Kai Tak Sports Park one day after the event – the first time for such an arrangement.\nThe event will be held in Tsim Sha Tsui on the evening of February 17, the first day of Lunar New...",
+      "date_published": "2026-01-27T14:40:14.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341462/hong-kong-drivers-warned-look-out-sham-compensation-claims?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341462/hong-kong-drivers-warned-look-out-sham-compensation-claims?utm_source=rss_feed",
+      "title": "Hong Kong drivers warned to look out for sham compensation claims",
+      "content_html": "Hong Kong police and insurers have warned motorists to be alert to road scammers seeking unusually high and belated compensation claims stemming from minor or non‑existent traffic accidents, with officers reviewing 30 such cases.\nSuperintendent Charles Fung Pui‑kei of the commercial crime bureau warned on Tuesday that the police force had recently received reports of drivers facing sudden massive civil claims, well after officers closed a traffic case. Some incidents involved a tiny bump or even...",
+      "content_text": "Hong Kong police and insurers have warned motorists to be alert to road scammers seeking unusually high and belated compensation claims stemming from minor or non‑existent traffic accidents, with officers reviewing 30 such cases.\nSuperintendent Charles Fung Pui‑kei of the commercial crime bureau warned on Tuesday that the police force had recently received reports of drivers facing sudden massive civil claims, well after officers closed a traffic case. Some incidents involved a tiny bump or even...",
+      "date_published": "2026-01-27T15:58:11.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/world/united-states-canada/article/3341459/taco-trump-tally-us-president-carries-out-only-1-4-tariff-threats?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3341459/taco-trump-tally-us-president-carries-out-only-1-4-tariff-threats?utm_source=rss_feed",
+      "title": "Taco Trump tally: US president carries out only 1 in 4 tariff threats",
+      "content_html": "In less than three weeks, US President Donald Trump has issued four sweeping tariff threats that, in normal times, would rattle investors, unnerve CEOs and send economists rushing to revise their growth forecasts for the targeted countries.\nInstead, financial markets and C-suite executives have mostly shrugged off Trump’s latest warnings involving Iran’s trading partners, Greenland’s supporters, Canada and South Korea, seeing them as merely words intended to gain leverage or change behaviour –...",
+      "content_text": "In less than three weeks, US President Donald Trump has issued four sweeping tariff threats that, in normal times, would rattle investors, unnerve CEOs and send economists rushing to revise their growth forecasts for the targeted countries.\nInstead, financial markets and C-suite executives have mostly shrugged off Trump’s latest warnings involving Iran’s trading partners, Greenland’s supporters, Canada and South Korea, seeing them as merely words intended to gain leverage or change behaviour –...",
+      "date_published": "2026-01-27T16:00:07.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/china/science/article/3341421/composite-tool-find-puts-china-centre-tech-revolution-160000-years-ago-paper?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/science/article/3341421/composite-tool-find-puts-china-centre-tech-revolution-160000-years-ago-paper?utm_source=rss_feed",
+      "title": "Composite tool find puts China at centre of tech revolution up to 160,000 years ago: paper",
+      "content_html": "China may have led a Stone Age technological race as early as 160,000 years ago, by crafting sophisticated stone tools for cutting, piercing and sawing, according to a new study.\nAn international team of scientists said the discovery of hafted tools – the earliest evidence for composite tools in eastern Asia – had reshaped the understanding of human evolution in the region.\nThey said the find showed that hominins in China were much more inventive and adaptable than previously thought,...",
+      "content_text": "China may have led a Stone Age technological race as early as 160,000 years ago, by crafting sophisticated stone tools for cutting, piercing and sawing, according to a new study.\nAn international team of scientists said the discovery of hafted tools – the earliest evidence for composite tools in eastern Asia – had reshaped the understanding of human evolution in the region.\nThey said the find showed that hominins in China were much more inventive and adaptable than previously thought,...",
+      "date_published": "2026-01-27T16:01:08.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/asia/east-asia/article/3341463/north-korea-fires-ballistic-missiles-us-signals-defence-shift?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3341463/north-korea-fires-ballistic-missiles-us-signals-defence-shift?utm_source=rss_feed",
+      "title": "North Korea fires ballistic missiles as US signals defence shift",
+      "content_html": "North Korea fired what appeared to be ballistic missiles off its east coast days after the US released a new defence strategy signalling a reduction in American military support to deter Pyongyang’s nuclear ambitions.\nMultiple ballistic missiles were launched on Tuesday from north of Pyongyang towards waters off its east coast, South Korea’s Joint Chiefs of Staff said. Japan’s coastguard said an object suspected of being a ballistic missile likely already fell into the sea.\n“Our military is...",
+      "content_text": "North Korea fired what appeared to be ballistic missiles off its east coast days after the US released a new defence strategy signalling a reduction in American military support to deter Pyongyang’s nuclear ambitions.\nMultiple ballistic missiles were launched on Tuesday from north of Pyongyang towards waters off its east coast, South Korea’s Joint Chiefs of Staff said. Japan’s coastguard said an object suspected of being a ballistic missile likely already fell into the sea.\n“Our military is...",
+      "date_published": "2026-01-27T17:14:03.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/us/politics/article/3341464/californias-newsom-launches-tiktok-probe-accusing-app-suppressing-trump-criticism?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/us/politics/article/3341464/californias-newsom-launches-tiktok-probe-accusing-app-suppressing-trump-criticism?utm_source=rss_feed",
+      "title": "California’s Newsom launches TikTok probe, accusing app of suppressing Trump criticism",
+      "content_html": "California Governor Gavin Newsom accused TikTok ‍on Monday of suppressing content critical of US President Donald Trump as he launched a review to decide if its content moderation practices violated state law, while the platform cited a systems failure.\nNewsom’s statement came after TikTok’s Chinese owner, ByteDance, last week finalised a deal to ⁠set up a majority US-owned joint venture that will secure US data, to avert a ban on the short video app used by more than 200 million...",
+      "content_text": "California Governor Gavin Newsom accused TikTok ‍on Monday of suppressing content critical of US President Donald Trump as he launched a review to decide if its content moderation practices violated state law, while the platform cited a systems failure.\nNewsom’s statement came after TikTok’s Chinese owner, ByteDance, last week finalised a deal to ⁠set up a majority US-owned joint venture that will secure US data, to avert a ban on the short video app used by more than 200 million...",
+      "date_published": "2026-01-27T17:34:27.000Z"
+    }
+  ]
+}

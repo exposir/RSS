@@ -181,3 +181,27 @@ feeds:
   - name: Reuters SEC
     url: https://ir.thomsonreuters.com/rss/sec-filings.xml?items=15
     output: feeds/reuters-sec.json
+
+  - name: 南华早报News
+    url: https://www.scmp.com/rss/91/feed/
+    output: feeds/scmp-news.json
+
+  - name: 南华早报China
+    url: https://www.scmp.com/rss/4/feed/
+    output: feeds/scmp-china.json
+
+  - name: Caixin Global
+    url: https://rss.libsyn.com/shows/139631/destinations/873362.xml
+    output: feeds/caixin-global.json
+
+  - name: NYT World
+    url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+    output: feeds/nyt-world.json
+
+  - name: WSJ World
+    url: https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+    output: feeds/wsj-world.json
+
+  - name: WSJ Opinion
+    url: https://feeds.content.dowjones.io/public/rss/RSSOpinion
+    output: feeds/wsj-opinion.json
