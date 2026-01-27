@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "2e23b69f-07f0-42f3-9c5b-ae6c84fe0508",
+      "url": "https://www.smh.com.au/national/queensland/pilot-identified-after-fiery-plane-crash-south-of-brisbane-20260127-p5nx7g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Pilot identified after fiery plane crash south of Brisbane",
+      "content_html": "The 73-year-old and his male passenger died shortly after the plane crash, which sparked a massive blaze that took almost 11 hours to extinguish.",
+      "content_text": "The 73-year-old and his male passenger died shortly after the plane crash, which sparked a massive blaze that took almost 11 hours to extinguish.",
+      "date_published": "2026-01-27T21:03:25.000Z"
+    },
+    {
+      "id": "e603e3f8-72ed-42de-82b8-f9924e0b65e2",
+      "url": "https://www.smh.com.au/sport/motorsport/red-bull-recruit-crashes-new-car-20260128-p5nxje.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Red Bull recruit crashes new car",
+      "content_html": "New recruit Isack Hadjar crashed Red Bull's new car during a pre-season shakedown in Barcelona.",
+      "content_text": "New recruit Isack Hadjar crashed Red Bull's new car during a pre-season shakedown in Barcelona.",
+      "date_published": "2026-01-27T20:57:12.000Z"
+    },
+    {
       "id": "9ca660b3-55af-42ba-ac10-276498f555ae",
       "url": "https://www.smh.com.au/national/australia-news-live-victorian-health-authorities-warn-worst-impacts-of-heatwave-still-to-come-scott-morrison-makes-antisemitism-address-targeting-australian-islamic-institutions-20260128-p5nxig.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Australia news LIVE: Victorian health authorities warn worst impacts of heatwave still to come; Scott Morrison makes antisemitism address targeting Australian Islamic institutions",
