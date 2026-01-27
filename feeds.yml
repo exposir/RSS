@@ -149,3 +149,23 @@ feeds:
   - name: BBC US
     url: https://feeds.bbci.co.uk/news/rss.xml?edition=us
     output: feeds/bbc-us.json
+
+  - name: BBC中文-主頁
+    url: http://www.bbc.co.uk/zhongwen/trad/index.xml
+    output: feeds/bbc-zh-home.json
+
+  - name: BBC中文-國際
+    url: http://www.bbc.co.uk/zhongwen/trad/world/index.xml
+    output: feeds/bbc-zh-world.json
+
+  - name: BBC中文-兩岸三地
+    url: http://www.bbc.co.uk/zhongwen/trad/china/index.xml
+    output: feeds/bbc-zh-china.json
+
+  - name: BBC中文-英國
+    url: http://www.bbc.co.uk/zhongwen/trad/uk/index.xml
+    output: feeds/bbc-zh-uk.json
+
+  - name: BBC中文-財經
+    url: http://www.bbc.co.uk/zhongwen/trad/business/index.xml
+    output: feeds/bbc-zh-business.json

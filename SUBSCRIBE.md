@@ -41,3 +41,8 @@
 | 德国之声     | https://exposir.github.io/RSS/feeds/dw.json              |
 | BBC UK       | https://exposir.github.io/RSS/feeds/bbc-uk.json          |
 | BBC US       | https://exposir.github.io/RSS/feeds/bbc-us.json          |
+| BBC中文-主頁 | https://exposir.github.io/RSS/feeds/bbc-zh-home.json     |
+| BBC中文-國際 | https://exposir.github.io/RSS/feeds/bbc-zh-world.json    |
+| BBC中文-兩岸 | https://exposir.github.io/RSS/feeds/bbc-zh-china.json    |
+| BBC中文-英國 | https://exposir.github.io/RSS/feeds/bbc-zh-uk.json       |
+| BBC中文-財經 | https://exposir.github.io/RSS/feeds/bbc-zh-business.json |
