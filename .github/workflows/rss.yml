@@ -1,0 +1,31 @@
+name: Auto-RSS-Fulltext
+on:
+  schedule:
+    - cron: "*/5 * * * *" # 每 5 分钟自动运行
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  rss-job:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 必须开，否则机器人没法 Push 更新
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Extract Fulltext
+        # 这是核心：它自带爬虫和全文提取逻辑
+        uses: nahuelhds/rss-fetch-action@v0.0.10
+        with:
+          # 填入你的 RSSHub 链接，多个用逗号隔开
+          feed_urls: "https://rsshub.app/v2ex/topics/hot,https://rsshub.app/zhihu/daily,https://plink.anyfeeder.com/people/politics"
+          destination_folder: "feeds" # 抓取后的文件存哪
+          # 如果你要输出 JSON Feed (NetNewsWire 最爱)，设为 true
+          output_format: "json"
+
+      - name: Auto-Commit Changes
+        # 这个 Action 专门负责把生成的文件 Push 回仓库，完全不用写 git 命令
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 自动更新 RSS 全文内容"
+          file_pattern: "feeds/*"
