@@ -181,3 +181,11 @@ feeds:
   - name: 财新最新
     url: https://expo-rsshub.zeabur.app/caixin/latest
     output: feeds/caixin-latest.json
+
+  - name: Elon Musk
+    url: https://expo-rsshub.zeabur.app/twitter/user/elonmusk
+    output: feeds/elon-musk.json
+
+  - name: Elon Musk (无回复)
+    url: https://expo-rsshub.zeabur.app/twitter/user/elonmusk/includeReplies=0
+    output: feeds/elon-musk-noreplies.json
