@@ -25,3 +25,7 @@ feeds:
   - name: 华尔街见闻
     url: https://plink.anyfeeder.com/weixin/wallstreetcn
     output: feeds/wallstreetcn.json
+
+  - name: 爱范儿
+    url: https://www.ifanr.com/feed
+    output: feeds/ifanr.json

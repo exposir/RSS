@@ -10,3 +10,4 @@
 | 新智元      | https://exposir.github.io/RSS/feeds/ai-era.json          |
 | 人民日报    | https://exposir.github.io/RSS/feeds/people-daily.json    |
 | 华尔街见闻  | https://exposir.github.io/RSS/feeds/wallstreetcn.json    |
+| 爱范儿      | https://exposir.github.io/RSS/feeds/ifanr.json           |
