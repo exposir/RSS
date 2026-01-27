@@ -1,0 +1,49 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "新智元",
+  "home_page_url": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E6%99%BA%E5%85%83",
+  "feed_url": "https://exposir.github.io/RSS/feeds/ai-era.json",
+  "description": "智能+中国主平台，致力于推动中国从互联网+迈向智能+新纪元。重点关注人工智能、机器人等前沿领域发展，关注人机融合、人工智能和机器人革命对人类社会与文明进化的影响，领航中国新智能时代。",
+  "items": [
+    {
+      "id": "9fa6f928acbc5b1e14e817684a15c82f",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E7%A0%B4%E9%98%B2%E4%BA%86%EF%BC%81%E5%85%A8%E7%90%83%E9%A1%B6%E5%B0%96AI%E6%83%A8%E8%B4%A5%EF%BC%8C%E4%BA%BA%E7%B1%BB%E6%9C%80%E5%90%8E%E9%98%B2%E7%BA%BF%E7%AB%9F%E6%98%AF%E3%80%8C%E9%87%8D%E5%90%AF%E8%AF%95%E8%AF%95%E3%80%8D%EF%BC%9F",
+      "title": "破防了！全球顶尖AI惨败，人类最后防线竟是「重启试试」？",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T03:11:00.000Z"
+    },
+    {
+      "id": "120f1938649206d30218eb54d62490cf",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E6%B2%89%E7%97%9B%E6%82%BC%E5%BF%B5%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%9D%8E%E6%9C%AA%E9%99%A2%E5%A3%AB",
+      "title": "沉痛悼念计算机科学家李未院士",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T05:33:00.000Z"
+    },
+    {
+      "id": "13e69b52c64405852a98fc3716a9ba7b",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+Anthropic%20CEO%E4%B8%A4%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%EF%BC%9A2027%EF%BC%8C%E4%BA%BA%E7%B1%BB%E5%91%BD%E8%BF%90%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3",
+      "title": "Anthropic CEO两万字长文：2027，人类命运的十字路口",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T05:33:00.000Z"
+    },
+    {
+      "id": "ab322ceb8d74f7eb25a261e51a45771e",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+ICLR%202026%E5%BD%95%E7%94%A8%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%EF%BC%81AI%E5%A4%A7%E4%BD%AC%E6%99%92%E6%88%90%E7%BB%A9%E5%8D%95%EF%BC%8CAI%E6%BB%A5%E7%94%A8%E6%9C%80%E4%B8%A5%E9%87%8D%E4%B8%80%E5%B1%8A",
+      "title": "ICLR 2026录用结果公布！AI大佬晒成绩单，AI滥用最严重一届",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T07:44:00.000Z"
+    },
+    {
+      "id": "fafd78b5fdb4281c3591e2d59657957c",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+DeepSeek%E5%8F%88%E6%8B%BF%E7%AC%AC%E4%B8%80%EF%BC%81%E9%A6%96%E5%88%9B%E3%80%8C%E5%9B%A0%E6%9E%9C%E6%B5%81%E3%80%8D%E8%A7%86%E8%A7%89%E6%8E%A8%E7%90%86%EF%BC%8C%E8%B6%85%E8%B6%8AGemini",
+      "title": "DeepSeek又拿第一！首创「因果流」视觉推理，超越Gemini",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T07:44:00.000Z"
+    }
+  ]
+}

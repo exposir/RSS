@@ -1,0 +1,49 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "人民网-国内新闻",
+  "home_page_url": "http://politics.people.cn",
+  "feed_url": "https://exposir.github.io/RSS/feeds/people-politics.json",
+  "description": "时政新闻",
+  "items": [
+    {
+      "id": "fe48ad47c24c23b28e6fdb5e9d0e34fb",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494879.html",
+      "title": "韩正会见中美高级别二轨对话美方代表团",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-06-05T00:00:00.000Z"
+    },
+    {
+      "id": "df15e1c0ed1d3f57fb8599c18480c6f7",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494881.html",
+      "title": "刘国中在安徽调研时强调 全力以赴夺取夏粮丰收 全面打牢秋粮生产基础",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-06-05T00:00:00.000Z"
+    },
+    {
+      "id": "f7453a81c658bf4ad4a1eee5402a9fda",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494900.html",
+      "title": "学习手记 | “环境就是民生”",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-06-05T00:00:00.000Z"
+    },
+    {
+      "id": "fdc0784886ec66b9437d1fb73ca9db12",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494899.html",
+      "title": "镜观·足迹｜呵护千山万水 擘画永续发展",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-06-05T00:00:00.000Z"
+    },
+    {
+      "id": "b7efc1a5ff45dff1d65f7c442581fa37",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494898.html",
+      "title": "学习卡丨“人不负青山，青山定不负人”",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-06-05T00:00:00.000Z"
+    }
+  ]
+}
