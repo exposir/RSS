@@ -13,13 +13,26 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Fetch and Extract Fulltext
-        # 这是核心：它会自动遍历 RSS entries 并提取全文
+      - name: Fetch 人民网-政治
+        continue-on-error: true
         uses: nahuelhds/rss-entries-fetch-action@v0.3.0
         with:
-          # 填入你的 RSS 链接，多个用逗号隔开
-          feed_urls: "https://rsshub.app/v2ex/topics/hot,https://rsshub.app/zhihu/daily,https://plink.anyfeeder.com/people/politics"
-          destination_folder: "feeds" # 抓取后的全文内容存哪
+          feed_urls: "https://plink.anyfeeder.com/people/politics"
+          destination_folder: "feeds"
+
+      - name: Fetch 36氪
+        continue-on-error: true
+        uses: nahuelhds/rss-entries-fetch-action@v0.3.0
+        with:
+          feed_urls: "https://plink.anyfeeder.com/36kr/news/latest"
+          destination_folder: "feeds"
+
+      - name: Fetch IT之家
+        continue-on-error: true
+        uses: nahuelhds/rss-entries-fetch-action@v0.3.0
+        with:
+          feed_urls: "https://plink.anyfeeder.com/ithome/rss"
+          destination_folder: "feeds"
 
       - name: Auto-Commit Changes
         # 这个 Action 专门负责把生成的文件 Push 回仓库，完全不用写 git 命令
