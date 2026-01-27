@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "9ca660b3-55af-42ba-ac10-276498f555ae",
+      "url": "https://www.smh.com.au/national/australia-news-live-victorian-health-authorities-warn-worst-impacts-of-heatwave-still-to-come-scott-morrison-makes-antisemitism-address-targeting-australian-islamic-institutions-20260128-p5nxig.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australia news LIVE: Victorian health authorities warn worst impacts of heatwave still to come; Scott Morrison makes antisemitism address targeting Australian Islamic institutions",
+      "content_html": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+      "content_text": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+      "date_published": "2026-01-27T20:19:01.000Z"
+    },
+    {
+      "id": "f50ec541-225a-461b-b19c-f959c4efe4b5",
+      "url": "https://www.smh.com.au/sport/rugby-union/inside-the-hunt-for-a-coach-to-capitalise-on-australian-rugby-s-most-important-window-20260127-p5nxee.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Inside the hunt for a coach to capitalise on Australian rugby’s ‘most important window’",
+      "content_html": "Of more than 40 contenders worldwide, a Kiwi champion exhibited the traits needed to replace Reds coach Les Kiss.",
+      "content_text": "Of more than 40 contenders worldwide, a Kiwi champion exhibited the traits needed to replace Reds coach Les Kiss.",
+      "date_published": "2026-01-27T20:08:49.000Z"
+    },
+    {
+      "id": "3d4b0c19-d0d2-4a7d-a07c-92949ee7088d",
+      "url": "https://www.smh.com.au/world/us-to-send-ice-agents-to-italy-for-olympics-20260128-p5nxj3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "US to send ICE agents to Italy for Olympics",
+      "content_html": "The US has revealed it would be sending Immigration and Customs Enforcement agents to the Winter Olympics in Italy.",
+      "content_text": "The US has revealed it would be sending Immigration and Customs Enforcement agents to the Winter Olympics in Italy.",
+      "date_published": "2026-01-27T20:02:12.000Z"
+    },
+    {
+      "id": "3f713906-a29c-47a8-a850-88fe0d750090",
+      "url": "https://www.smh.com.au/lifestyle/king-charles-meets-holocaust-survivors-20260128-p5nxiz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "King Charles meets Holocaust survivors",
+      "content_html": "Survivor of the Holocaust told to 'let go of the King's hand' during Buckingham Palace event on Holocaust Memorial Day.",
+      "content_text": "Survivor of the Holocaust told to 'let go of the King's hand' during Buckingham Palace event on Holocaust Memorial Day.",
+      "date_published": "2026-01-27T19:52:11.000Z"
+    },
+    {
       "id": "688e7e3c-163b-42a9-8085-f67c8e60aa1f",
       "url": "https://www.smh.com.au/world/investigators-reveal-new-details-in-washington-dc-air-crash-20260128-p5nxil.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Investigators reveal new details in Washington DC air crash",

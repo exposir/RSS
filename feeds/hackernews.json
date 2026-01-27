@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46784263",
+      "url": "https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office",
+      "title": "U.S. government has lost more than 10k STEM PhDs since Trump took office",
+      "content_html": "<p>Article URL: <a href=\"https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office\">https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784263\">https://news.ycombinator.com/item?id=46784263</a></p>\n<p>Points: 286</p>\n<p># Comments: 183</p>",
+      "content_text": "Article URL: https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office\nComments URL: https://news.ycombinator.com/item?id=46784263\nPoints: 286\n# Comments: 183",
+      "date_published": "2026-01-27T18:35:33.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46781516",
       "url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
       "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",

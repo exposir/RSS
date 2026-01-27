@@ -6,12 +6,28 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/articles/c0lx2z9e363o#7",
+      "url": "https://www.bbc.com/sport/football/articles/c0lx2z9e363o?at_medium=RSS&at_campaign=rss",
+      "title": "Conte reunion a sharp reminder of Chelsea's fall",
+      "content_html": "Chelsea have not won the Premier League since Antonio Conte led them to the title in 2017 - and now they face the Italian's Napoli side in the Champions League.",
+      "content_text": "Chelsea have not won the Premier League since Antonio Conte led them to the title in 2017 - and now they face the Italian's Napoli side in the Champions League.",
+      "date_published": "2026-01-27T19:58:23.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cly9p153kv9o#0",
       "url": "https://www.bbc.com/news/articles/cly9p153kv9o?at_medium=RSS&at_campaign=rss",
       "title": "British Army officer dies after incident during fire training",
       "content_html": "The 25-year-old died on Sunday after the incident at an army training site in Northumberland.",
       "content_text": "The 25-year-old died on Sunday after the incident at an army training site in Northumberland.",
       "date_published": "2026-01-27T19:25:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c9dv3x5yep4o#0",
+      "url": "https://www.bbc.com/news/articles/c9dv3x5yep4o?at_medium=RSS&at_campaign=rss",
+      "title": "Workers Party of Britain pick by-election candidate",
+      "content_html": "Shahbaz Sarwar currently represents the party on Manchester City Council.",
+      "content_text": "Shahbaz Sarwar currently represents the party on Manchester City Council.",
+      "date_published": "2026-01-27T19:11:35.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/cricket/articles/clympvp6l1no#7",
@@ -76,6 +92,14 @@
       "content_html": "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google.",
       "content_text": "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google.",
       "date_published": "2026-01-27T17:31:54.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4gr06y3n9zo#3",
+      "url": "https://www.bbc.com/news/articles/c4gr06y3n9zo?at_medium=RSS&at_campaign=rss",
+      "title": "GB News presenter unveiled as Reform by-election candidate",
+      "content_html": "The Greater Manchester seat of Gorton and Denton became vacant after Andrew Gwynne stepped down for health reasons.",
+      "content_text": "The Greater Manchester seat of Gorton and Denton became vacant after Andrew Gwynne stepped down for health reasons.",
+      "date_published": "2026-01-27T17:31:02.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c4gr06y3n9zo#0",
