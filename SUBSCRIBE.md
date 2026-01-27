@@ -12,3 +12,4 @@
 | 华尔街见闻  | https://exposir.github.io/RSS/feeds/wallstreetcn.json    |
 | 爱范儿      | https://exposir.github.io/RSS/feeds/ifanr.json           |
 | 差评X.PIN   | https://exposir.github.io/RSS/feeds/chaping.json         |
+| 联合早报    | https://exposir.github.io/RSS/feeds/zaobao.json          |
