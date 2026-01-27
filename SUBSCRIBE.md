@@ -34,3 +34,5 @@
 | 虎嗅网       | https://exposir.github.io/RSS/feeds/huxiu.json           |
 | 36氪         | https://exposir.github.io/RSS/feeds/36kr.json            |
 | 机核         | https://exposir.github.io/RSS/feeds/gcores.json          |
+| IT之家       | https://exposir.github.io/RSS/feeds/ithome.json          |
+| TechCrunch   | https://exposir.github.io/RSS/feeds/techcrunch.json      |
