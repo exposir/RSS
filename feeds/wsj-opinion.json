@@ -6,6 +6,38 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "SB11930060785218553820404592642252251230334",
+      "url": "https://www.wsj.com/opinion/generation-zs-battle-of-the-sexes-abbabd48",
+      "title": "Generation Z&#x2019;s Battle of the Sexes",
+      "content_html": "Students discuss the divide between men and women on public affairs and culture.",
+      "content_text": "Students discuss the divide between men and women on public affairs and culture.",
+      "date_published": "2026-01-27T22:51:00.000Z"
+    },
+    {
+      "id": "SB11930060785218553820404592642191136699860",
+      "url": "https://www.wsj.com/opinion/social-media-lawsuits-trial-lawyers-google-tiktok-meta-dd2a8730",
+      "title": "A Big Social-Media Shakedown",
+      "content_html": "The plaintiff bar says media platforms are liable for adolescent ills.",
+      "content_text": "The plaintiff bar says media platforms are liable for adolescent ills.",
+      "date_published": "2026-01-27T22:49:00.000Z"
+    },
+    {
+      "id": "SB11930060785218553820404592644440239091200",
+      "url": "https://www.wsj.com/opinion/u-s-immigration-population-census-bureau-46dfac4a",
+      "title": "America&#x2019;s Immigration Labor Shock",
+      "content_html": "The Census Bureau says the U.S. is on a path to net negative migration.",
+      "content_text": "The Census Bureau says the U.S. is on a path to net negative migration.",
+      "date_published": "2026-01-27T22:46:00.000Z"
+    },
+    {
+      "id": "SB10284598294439164115704592630482496854926",
+      "url": "https://www.wsj.com/opinion/mikie-sherrill-new-jersey-power-electricity-utilities-4edb62c2",
+      "title": "Mikie Sherrill&#x2019;s New Jersey Power Play",
+      "content_html": "The new Governor wants price controls that will reduce energy supply.",
+      "content_text": "The new Governor wants price controls that will reduce energy supply.",
+      "date_published": "2026-01-27T22:45:00.000Z"
+    },
+    {
       "id": "SB10381197850595854896404592643791977473050",
       "url": "https://www.wsj.com/opinion/theres-only-one-renewal-democrat-909dd548",
       "title": "There&#x2019;s Only One &#x2018;Renewal Democrat&#x2019;",

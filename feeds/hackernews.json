@@ -14,6 +14,14 @@
       "date_published": "2026-01-27T18:35:33.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46783752",
+      "url": "https://openai.com/index/introducing-prism",
+      "title": "Prism",
+      "content_html": "<p>Article URL: <a href=\"https://openai.com/index/introducing-prism\">https://openai.com/index/introducing-prism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46783752\">https://news.ycombinator.com/item?id=46783752</a></p>\n<p>Points: 266</p>\n<p># Comments: 166</p>",
+      "content_text": "Article URL: https://openai.com/index/introducing-prism\nComments URL: https://news.ycombinator.com/item?id=46783752\nPoints: 266\n# Comments: 166",
+      "date_published": "2026-01-27T18:03:10.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46783254",
       "url": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
       "title": "FBI is investigating Minnesota Signal chats tracking ICE",

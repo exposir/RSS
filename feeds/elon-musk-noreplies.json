@@ -6,6 +6,14 @@
   "description": "Twitter @Elon Musk - Powered by RSSHub",
   "items": [
     {
+      "id": "https://twitter.com/elonmusk/status/2016286222335787284",
+      "url": "https://x.com/elonmusk/status/2016286222335787284",
+      "title": "RT SpaceX: Crew-12 completed training in California this past week. Falcon 9 is targeted to launch Dragon and the crew to the @Space_Station in Februa...",
+      "content_html": "RT SpaceX<br>Crew-12 completed training in California this past week. Falcon 9 is targeted to launch Dragon and the crew to the @Space_Station in February<br><img width=\"2048\" height=\"1365\" style=\"\" src=\"https://pbs.twimg.com/media/G_tFLkRWkAArxny?format=jpg&name=orig\" referrerpolicy=\"no-referrer\"><br><img width=\"2048\" height=\"1520\" style=\"\" src=\"https://pbs.twimg.com/media/G_tFQy7XAAAPoT3?format=jpg&name=orig\" referrerpolicy=\"no-referrer\"><br><img width=\"2048\" height=\"1273\" style=\"\" src=\"https://pbs.twimg.com/media/G_tFQy3XMAEmmJG?format=jpg&name=orig\" referrerpolicy=\"no-referrer\">",
+      "content_text": "RT SpaceXCrew-12 completed training in California this past week. Falcon 9 is targeted to launch Dragon and the crew to the @Space_Station in February",
+      "date_published": "2026-01-27T22:45:39.000Z"
+    },
+    {
       "id": "https://twitter.com/elonmusk/status/2016221768088801682",
       "url": "https://x.com/elonmusk/status/2016221768088801682",
       "title": "Good question",

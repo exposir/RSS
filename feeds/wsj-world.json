@@ -6,6 +6,22 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003286908",
+      "url": "https://www.wsj.com/world/europe/europe-got-tough-with-trump-but-it-needs-the-u-s-as-much-as-ever-20a3220e",
+      "title": "Europe Got Tough With Trump, but It Needs the U.S. as Much as Ever",
+      "content_html": "The Continent&#x2019;s dependence on America runs deep and belies attempts to replace it with new alliances.",
+      "content_text": "The Continent&#x2019;s dependence on America runs deep and belies attempts to replace it with new alliances.",
+      "date_published": "2026-01-27T23:00:00.000Z"
+    },
+    {
+      "id": "SB10381197850595854896404592644131142647586",
+      "url": "https://www.wsj.com/opinion/keir-starmer-china-mega-embassy-london-jimmy-lai-xi-jinping-581ff137",
+      "title": "Opinion | Keir Starmer Goes to China",
+      "content_html": "Beijing got its mega-embassy in London. Will it free Jimmy Lai?",
+      "content_text": "Beijing got its mega-embassy in London. Will it free Jimmy Lai?",
+      "date_published": "2026-01-27T22:44:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003287273",
       "url": "https://www.wsj.com/world/middle-east/trump-warns-iraq-against-reinstalling-nouri-al-maliki-as-prime-minister-4cd9e5c5",
       "title": "Trump Warns Iraq Against Reinstalling Nouri al-Maliki as Prime Minister",

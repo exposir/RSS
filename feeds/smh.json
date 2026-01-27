@@ -6,6 +6,62 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "cf2e6bb9-d5a4-4102-837b-6b616c6078e2",
+      "url": "https://www.smh.com.au/goodfood/vic-good-food-guide/bandit-20260127-p5nxbc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Bandit",
+      "content_html": "One-man-show serving epic toasties in the heart of town.",
+      "content_text": "One-man-show serving epic toasties in the heart of town.",
+      "date_published": "2026-01-27T23:11:11.000Z"
+    },
+    {
+      "id": "9b69a4dc-7db5-4e06-a35f-c7f4fada4eb9",
+      "url": "https://www.smh.com.au/national/western-australia/perth-tipped-to-outpace-rest-of-the-country-in-2026-property-prices-20260128-p5nxko.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Perth tipped to outpace rest of the country in 2026 property prices",
+      "content_html": "Perth is again expected to be the strongest performer in the property market this year, with house values tipped to increase by a further 12.8 per cent.",
+      "content_text": "Perth is again expected to be the strongest performer in the property market this year, with house values tipped to increase by a further 12.8 per cent.",
+      "date_published": "2026-01-27T23:10:00.000Z"
+    },
+    {
+      "id": "a7b8f49b-0f0d-4f5a-a5e0-15237bb659ff",
+      "url": "https://www.smh.com.au/world/melania-trailer-20260128-p5nxl7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "'Melania' trailer",
+      "content_html": "The trailer for the upcoming documentary 'Melania', about First Lady Melania Trump.",
+      "content_text": "The trailer for the upcoming documentary 'Melania', about First Lady Melania Trump.",
+      "date_published": "2026-01-27T23:06:49.000Z"
+    },
+    {
+      "id": "2e249814-5d77-4ff7-ae54-74ee3dc6cf2e",
+      "url": "https://www.smh.com.au/sport/dickson-time-with-swans-helped-with-nfl-dream-20260128-p5nxl2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Dickson: Time with Swans helped with NFL dream",
+      "content_html": "Michael Dickson will play in his first Super Bowl in February and reflected upon his journey.",
+      "content_text": "Michael Dickson will play in his first Super Bowl in February and reflected upon his journey.",
+      "date_published": "2026-01-27T23:03:04.000Z"
+    },
+    {
+      "id": "fbc5e8c7-d74c-48f9-a255-e54ecf760a76",
+      "url": "https://www.smh.com.au/politics/victoria/david-southwick-returns-as-deputy-liberal-leader-in-election-year-20260128-p5nxk3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "David Southwick returns as deputy Liberal leader in election year",
+      "content_html": "Liberal MPs conducted another leadership ballot in Sam Remo on Wednesday morning after Sam Groth announced he would quit politics at the November election.",
+      "content_text": "Liberal MPs conducted another leadership ballot in Sam Remo on Wednesday morning after Sam Groth announced he would quit politics at the November election.",
+      "date_published": "2026-01-27T23:01:08.000Z"
+    },
+    {
+      "id": "45c3a9fc-df29-42c4-afff-f6642c940856",
+      "url": "https://www.smh.com.au/national/gold-coast-cop-tackles-e-bike-thief-20260128-p5nxkx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Gold Coast cop tackles e-bike thief",
+      "content_html": "Stunning footage has shown a Gold Coast cop tackling an e-bike thief to the ground.",
+      "content_text": "Stunning footage has shown a Gold Coast cop tackling an e-bike thief to the ground.",
+      "date_published": "2026-01-27T22:58:00.000Z"
+    },
+    {
+      "id": "ea5b0456-443e-4909-b430-36d9ce5cea7a",
+      "url": "https://www.smh.com.au/national/police-issue-back-to-school-photo-warning-20260128-p5nxkw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Police issue back-to-school photo warning",
+      "content_html": "Police have warned parents over posting back-to-school photos online.",
+      "content_text": "Police have warned parents over posting back-to-school photos online.",
+      "date_published": "2026-01-27T22:57:31.000Z"
+    },
+    {
       "id": "e5898bbb-30ef-42c0-8ea5-2541527b1b29",
       "url": "https://www.smh.com.au/culture/movies/aussie-trio-backs-up-oscar-nominations-with-bafta-nods-20260128-p5nxjk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Aussie trio backs up Oscar nominations with BAFTA nods",
