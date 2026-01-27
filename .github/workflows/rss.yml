@@ -22,20 +22,6 @@ jobs:
           feed_url: "https://plink.anyfeeder.com/people/politics"
           file_path: "feeds/people-politics.json"
 
-      - name: Fetch 36氪
-        continue-on-error: true
-        uses: Promptly-Technologies-LLC/rss-fetch-action@v2
-        with:
-          feed_url: "https://plink.anyfeeder.com/36kr/news/latest"
-          file_path: "feeds/36kr.json"
-
-      - name: Fetch IT之家
-        continue-on-error: true
-        uses: Promptly-Technologies-LLC/rss-fetch-action@v2
-        with:
-          feed_url: "https://plink.anyfeeder.com/ithome/rss"
-          file_path: "feeds/ithome.json"
-
       - name: Auto-Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
