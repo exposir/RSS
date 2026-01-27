@@ -9,3 +9,4 @@
 | 腾讯科技    | https://exposir.github.io/RSS/feeds/qqtech.json          |
 | 新智元      | https://exposir.github.io/RSS/feeds/ai-era.json          |
 | 人民日报    | https://exposir.github.io/RSS/feeds/people-daily.json    |
+| 华尔街见闻  | https://exposir.github.io/RSS/feeds/wallstreetcn.json    |

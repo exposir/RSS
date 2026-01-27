@@ -21,3 +21,7 @@ feeds:
   - name: 人民日报
     url: https://plink.anyfeeder.com/people-daily
     output: feeds/people-daily.json
+
+  - name: 华尔街见闻
+    url: https://plink.anyfeeder.com/weixin/wallstreetcn
+    output: feeds/wallstreetcn.json
