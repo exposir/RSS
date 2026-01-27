@@ -39,6 +39,16 @@ function cleanHtml(html) {
   // 移除 input 标签
   content = content.replace(/<input[^>]*>/gi, '');
   
+  // 使用图片代理绕过防盗链（针对微信公众号等）
+  content = content.replace(/<img([^>]*)src=["']([^"']+)["']([^>]*)>/gi, (match, before, src, after) => {
+    // 微信公众号图片使用代理
+    if (src.includes('mmbiz.qpic.cn') || src.includes('mmbiz.qlogo.cn')) {
+      const proxyUrl = `https://images.weserv.nl/?url=${encodeURIComponent(src)}`;
+      return `<img${before}src="${proxyUrl}"${after}>`;
+    }
+    return match;
+  });
+  
   return content.trim();
 }
 
