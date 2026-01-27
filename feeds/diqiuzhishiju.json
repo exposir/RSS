@@ -1,0 +1,44 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "地球知识局",
+  "home_page_url": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E5%9C%B0%E7%90%83%E7%9F%A5%E8%AF%86%E5%B1%80",
+  "feed_url": "https://raw.githubusercontent.com/exposir/RSS/main/feeds/diqiuzhishiju.json",
+  "description": "人文+地理+设计，全球视野新三观",
+  "items": [
+    {
+      "id": "0a7c48d69dc2a92721954d83f0716202",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%9C%B0%E7%90%83%E7%9F%A5%E8%AF%86%E5%B1%80+%E5%B7%B4%E8%A5%BF%EF%BC%8C%E7%AA%81%E7%84%B6%E8%A6%81%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%8D%E7%AD%BE%E4%BA%86%EF%BC%81",
+      "title": "巴西，突然要对中国免签了！",
+      "content_text": "文字 | 乞力马扎罗的雪 地图：果 / 校稿：通麦 /...",
+      "date_published": "2026-01-24T00:58:00.000Z"
+    },
+    {
+      "id": "21cadf3504dcf694e35b41590cf64b13",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%9C%B0%E7%90%83%E7%9F%A5%E8%AF%86%E5%B1%80+%E6%97%A5%E6%9C%AC%E8%B6%B3%E7%90%83%EF%BC%8C%E6%A2%A6%E6%83%B3%E5%80%BC%E5%BE%97%E8%A2%AB%E5%B0%8A%E9%87%8D",
+      "title": "日本足球，梦想值得被尊重",
+      "content_text": "点击下方封面图即可查看日本足球，梦想值得被尊重▼                                         阅读原文                                 文章原文",
+      "date_published": "2026-01-24T16:57:00.000Z"
+    },
+    {
+      "id": "db9e7c58431273758332c49b6a07f44e",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%9C%B0%E7%90%83%E7%9F%A5%E8%AF%86%E5%B1%80+%E4%B8%AD%E5%9B%BDU23%E2%80%9C%E6%83%9C%E8%B4%A5%E2%80%9D%E6%97%A5%E6%9C%AC%EF%BC%8C%E4%BE%9D%E7%84%B6%E6%98%AF%E5%8F%B2%E6%97%A0%E5%89%8D%E4%BE%8B",
+      "title": "中国U23“惜败”日本，依然是史无前例",
+      "content_text": "地球知识局 文字 | 朝乾校对 | 朝乾  编辑 |...",
+      "date_published": "2026-01-24T16:57:00.000Z"
+    },
+    {
+      "id": "30910ece90d54d4b69f7f4754fcd4b3a",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%9C%B0%E7%90%83%E7%9F%A5%E8%AF%86%E5%B1%80+%E6%9C%BA%E5%99%A8%E5%A4%A7%E5%86%9B%E5%85%A8%E9%9D%A2%E6%89%A9%E5%BC%A0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%BF%91%E5%8D%83%E4%B8%87%E5%8E%A8%E5%B8%88%E5%8D%B1%E4%BA%86%EF%BC%9F",
+      "title": "机器大军全面扩张，中国近千万厨师危了？",
+      "content_text": "最近贾国龙重新发声，又让去年“预制菜”风波重回公众视野。去年引发全国民众怒火的，是有些餐饮品牌明明标榜自己是现做的，却在背地里用预制菜糊弄了事，被抓包了还嘴硬，说自己的预制菜标准和大众的不一样。可在大众眼里，冻了几年的冻货化冻后现做照样不能接受，按照商家灵活标准，打开料理包装盘扔微波炉里两分钟也算“现做”，这种预制菜的模糊标准，全靠商家解释，显然让消费者一下子失去了对预制菜的信任。这个时候，仍然坚持真现做的餐厅，显得难能可贵，很多人抛弃预制菜后的第一选择就是这些真现炒现做的餐厅。然而现做也...",
+      "date_published": "2026-01-26T11:44:00.000Z"
+    },
+    {
+      "id": "b01013f2980c995ccd569694d1ed2c90",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%9C%B0%E7%90%83%E7%9F%A5%E8%AF%86%E5%B1%80+%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%EF%BC%8C%E5%A4%A7%E6%B4%97%E7%89%8C%2B1%EF%BC%81",
+      "title": "中国高铁，大洗牌+1！",
+      "content_text": "文字 | 杔格校对 | 凯尔希  编辑 |...",
+      "date_published": "2026-01-26T11:44:00.000Z"
+    }
+  ]
+}
