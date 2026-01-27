@@ -36,3 +36,4 @@
 | 机核         | https://exposir.github.io/RSS/feeds/gcores.json          |
 | IT之家       | https://exposir.github.io/RSS/feeds/ithome.json          |
 | TechCrunch   | https://exposir.github.io/RSS/feeds/techcrunch.json      |
+| Hacker News  | https://exposir.github.io/RSS/feeds/hackernews.json      |

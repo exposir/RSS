@@ -129,3 +129,7 @@ feeds:
   - name: TechCrunch
     url: https://techcrunch.com/feed/
     output: feeds/techcrunch.json
+
+  - name: Hacker News
+    url: https://hnrss.org/best
+    output: feeds/hackernews.json
