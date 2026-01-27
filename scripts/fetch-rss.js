@@ -48,22 +48,12 @@ function cleanHtml(html) {
   // 移除 input 标签
   content = content.replace(/<input[^>]*>/gi, '');
   
-  // 移除垃圾文本
-  content = content.replace(/\/enpproperty-->/g, '');
+  // 移除脚本代码
   content = content.replace(/document\.write\([^)]*\);?/g, '');
   content = content.replace(/function\s+\w+\s*\([^)]*\)\s*\{[\s\S]*?\}/g, '');
   content = content.replace(/var\s+\w+\s*=[\s\S]*?;/g, '');
-  content = content.replace(/updateMetaRmrb[\s\S]*$/g, '');
-  content = content.replace(/showMetaRmrb[\s\S]*$/g, '');
   content = content.replace(/\/\/.*$/gm, '');
-  content = content.replace(/人\s*民\s*网\s*版\s*权[\s\S]*?all rights reserved/gi, '');
-  content = content.replace(/Copyright[\s\S]*?reserved/gi, '');
-  content = content.replace(/获取更多RSS[\s\S]*$/gi, '');
-  content = content.replace(/https?:\/\/feedx\.(net|site)/gi, '');
-  content = content.replace(/\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}:\d+/g, '');
-  content = content.replace(/http:\/\/paper\.people\.com\.cn\/rmrb\/[^\s"'<>]+/g, '');
-  content = content.replace(/\d{10,}/g, '');
-  content = content.replace(/\s+http:?\s*$/g, '');
+  
   
   
   // 清理无用标签但保留结构
