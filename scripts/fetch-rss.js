@@ -2,12 +2,12 @@ import fs from 'fs';
 import yaml from 'js-yaml';
 import { XMLParser } from 'fast-xml-parser';
 
-// 清理 HTML 内容，保留格式和图片
-function cleanHtml(html) {
+// 解码 HTML 实体
+function decodeHtmlEntities(html) {
   if (!html) return '';
   
-  // 解码 HTML 实体（多次解码处理嵌套）
   let content = html;
+  // 多次解码处理嵌套实体
   for (let i = 0; i < 3; i++) {
     content = content
       .replace(/&lt;/g, '<')
@@ -18,23 +18,14 @@ function cleanHtml(html) {
       .replace(/&#039;/g, "'")
       .replace(/&copy;/g, '©');
   }
+  return content;
+}
+
+// 清理 HTML 内容
+function cleanHtml(html) {
+  if (!html) return '';
   
-  // 先提取图片并替换为占位符
-  const images = [];
-  content = content.replace(/<img[^>]*src="([^"]+)"[^>]*>/gi, (match, src) => {
-    if (src.includes('go_top') || src.includes('template') || src.includes('webdig')) {
-      return '';
-    }
-    // 修复相对路径
-    if (src.startsWith('../')) {
-      src = 'http://paper.people.com.cn/rmrb/pc/' + src.replace(/\.\.\//g, '');
-    }
-    // 保留图片 URL
-    src = src.replace(/\.jpg\.\d+$/, '.jpg');
-    src = src.replace(/\.png\.\d+$/, '.png');
-    images.push(src);
-    return `__IMG_${images.length - 1}__`;
-  });
+  let content = decodeHtmlEntities(html);
   
   // 移除 script 标签及内容
   content = content.replace(/<script[\s\S]*?<\/script>/gi, '');
@@ -42,58 +33,11 @@ function cleanHtml(html) {
   // 移除 style 标签及内容
   content = content.replace(/<style[\s\S]*?<\/style>/gi, '');
   
-  // 移除注释
+  // 移除 HTML 注释
   content = content.replace(/<!--[\s\S]*?-->/g, '');
   
   // 移除 input 标签
   content = content.replace(/<input[^>]*>/gi, '');
-  
-  // 移除脚本代码
-  content = content.replace(/document\.write\([^)]*\);?/g, '');
-  content = content.replace(/function\s+\w+\s*\([^)]*\)\s*\{[\s\S]*?\}/g, '');
-  content = content.replace(/var\s+\w+\s*=[\s\S]*?;/g, '');
-  content = content.replace(/\/\/.*$/gm, '');
-  
-  
-  
-  // 清理无用标签但保留结构
-  content = content.replace(/<(div|span)[^>]*>\s*<\/\1>/gi, '');
-  
-  // 将 div 转为 p
-  content = content.replace(/<div[^>]*id="ozoom"[^>]*>/gi, '');
-  content = content.replace(/<div[^>]*>/gi, '<p>');
-  content = content.replace(/<\/div>/gi, '</p>');
-  
-  // 移除空段落
-  content = content.replace(/<p>\s*<\/p>/g, '');
-  content = content.replace(/(<p>\s*){2,}/g, '<p>');
-  content = content.replace(/<\/p>\s*<\/p>/g, '</p>');
-  
-  // 移除无意义的 span
-  content = content.replace(/<span[^>]*>/gi, '');
-  content = content.replace(/<\/span>/gi, '');
-  
-  // 清理空白
-  content = content.replace(/\t+/g, ' ');
-  content = content.replace(/  +/g, ' ');
-  content = content.replace(/\n\s*\n\s*\n/g, '\n\n');
-  
-  // 恢复图片
-  images.forEach((src, i) => {
-    content = content.replace(`__IMG_${i}__`, `</p><p><img src="${src}" style="max-width:100%;" /></p><p>`);
-  });
-  
-  // 最后清理连续的 p 标签
-  content = content.replace(/<p>\s*<\/p>/g, '');
-  content = content.replace(/<p>\s*<p>/g, '<p>');
-  
-  // 清理换行符
-  content = content.replace(/\\n/g, '');
-  
-  // 清理残留的引号和标签
-  content = content.replace(/">/g, '');
-  content = content.replace(/<p[^>]*style[^>]*><\/p>/g, '');
-  content = content.replace(/<p>\s*<\/p>/g, '');
   
   return content.trim();
 }
@@ -140,7 +84,8 @@ async function fetchRss(url) {
       id: item.guid || item.link,
       title: item.title,
       link: item.link,
-      description: item.description,
+      // 优先使用 content:encoded，其次用 description
+      description: item['content:encoded'] || item.description || '',
       published: item.pubDate ? new Date(item.pubDate).toISOString() : null
     }))
   };
