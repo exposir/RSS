@@ -17,28 +17,27 @@ jobs:
 
       - name: Fetch 人民网-政治
         continue-on-error: true
-        uses: nahuelhds/rss-entries-fetch-action@v0.3.0
+        uses: nahuelhds/rss-fetch-action@v0.0.10
         with:
           feed_urls: "https://plink.anyfeeder.com/people/politics"
           destination_folder: "feeds"
 
       - name: Fetch 36氪
         continue-on-error: true
-        uses: nahuelhds/rss-entries-fetch-action@v0.3.0
+        uses: nahuelhds/rss-fetch-action@v0.0.10
         with:
           feed_urls: "https://plink.anyfeeder.com/36kr/news/latest"
           destination_folder: "feeds"
 
       - name: Fetch IT之家
         continue-on-error: true
-        uses: nahuelhds/rss-entries-fetch-action@v0.3.0
+        uses: nahuelhds/rss-fetch-action@v0.0.10
         with:
           feed_urls: "https://plink.anyfeeder.com/ithome/rss"
           destination_folder: "feeds"
 
       - name: Auto-Commit Changes
-        # 这个 Action 专门负责把生成的文件 Push 回仓库，完全不用写 git 命令
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 自动更新 RSS 全文内容"
+          commit_message: "🤖 自动更新 RSS"
           file_pattern: "feeds/*"
