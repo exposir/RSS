@@ -173,3 +173,11 @@ feeds:
   - name: WSJ Opinion
     url: https://feeds.content.dowjones.io/public/rss/RSSOpinion
     output: feeds/wsj-opinion.json
+
+  - name: 财新文章
+    url: https://expo-rsshub.zeabur.app/caixin/article
+    output: feeds/caixin-article.json
+
+  - name: 财新最新
+    url: https://expo-rsshub.zeabur.app/caixin/latest
+    output: feeds/caixin-latest.json
