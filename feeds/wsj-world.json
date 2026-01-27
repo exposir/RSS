@@ -6,6 +6,30 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003287273",
+      "url": "https://www.wsj.com/world/middle-east/trump-warns-iraq-against-reinstalling-nouri-al-maliki-as-prime-minister-4cd9e5c5",
+      "title": "Trump Warns Iraq Against Reinstalling Nouri al-Maliki as Prime Minister",
+      "content_html": "The president says he will cut off U.S. support if the country returns the Iran-backed Shiite political leader to power.",
+      "content_text": "The president says he will cut off U.S. support if the country returns the Iran-backed Shiite political leader to power.",
+      "date_published": "2026-01-27T21:38:00.000Z"
+    },
+    {
+      "id": "SB11336906705384833482504592643883876195966",
+      "url": "https://www.wsj.com/opinion/trumps-regression-to-the-mean-011c8056",
+      "title": "Opinion | Trump&#x2019;s Regression to the Mean",
+      "content_html": "&#x2018;Fight, fight, fight&#x2019; isn&#x2019;t a presidential coalition built to achieve anything.",
+      "content_text": "&#x2018;Fight, fight, fight&#x2019; isn&#x2019;t a presidential coalition built to achieve anything.",
+      "date_published": "2026-01-27T21:35:00.000Z"
+    },
+    {
+      "id": "SB12264937453160404360904592632153120747654",
+      "url": "https://www.wsj.com/opinion/venezuela-can-learn-from-an-iraq-mistake-03d3fa78",
+      "title": "Opinion | Venezuela Can Learn From an Iraq Mistake",
+      "content_html": "The Pentagon rejected our plan to pay Iraqis an oil dividend.",
+      "content_text": "The Pentagon rejected our plan to pay Iraqis an oil dividend.",
+      "date_published": "2026-01-27T21:33:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003286431",
       "url": "https://www.wsj.com/world/asia/u-s-warns-korea-against-targeting-american-tech-firms-amid-trade-escalation-7a8a5a3a",
       "title": "U.S. Warns Korea Against Targeting American Tech Firms Amid Trade Escalation",

@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "4e689fa2-6038-4432-9a35-dde481271b44",
+      "url": "https://www.smh.com.au/world/europe/french-mp-recounts-trauma-in-trial-of-ex-senator-accused-of-drugging-her-with-mdma-20260128-p5nxj7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "French MP recounts trauma in trial of ex-senator accused of drugging her with MDMA",
+      "content_html": "The trial follows the landmark drugging-and-rape case that turned Gisèle Pelicot into a global icon in the fight against sexual violence.",
+      "content_text": "The trial follows the landmark drugging-and-rape case that turned Gisèle Pelicot into a global icon in the fight against sexual violence.",
+      "date_published": "2026-01-27T21:30:34.000Z"
+    },
+    {
+      "id": "38104142-0241-4219-ae9c-206dd827a1a9",
+      "url": "https://www.smh.com.au/sport/tennis/de-minaur-frustrated-after-alcaraz-loss-20260128-p5nxjo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "De Minaur frustrated after Alcaraz loss",
+      "content_html": "Footage from the Australian's locker room gave an insight into the world No.6's frustration over repeated failures against Carlos Alcaraz.",
+      "content_text": "Footage from the Australian's locker room gave an insight into the world No.6's frustration over repeated failures against Carlos Alcaraz.",
+      "date_published": "2026-01-27T21:24:26.000Z"
+    },
+    {
       "id": "2e23b69f-07f0-42f3-9c5b-ae6c84fe0508",
       "url": "https://www.smh.com.au/national/queensland/pilot-identified-after-fiery-plane-crash-south-of-brisbane-20260127-p5nx7g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Pilot identified after fiery plane crash south of Brisbane",

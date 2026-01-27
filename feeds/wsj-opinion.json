@@ -6,6 +6,30 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "SB11336906705384833482504592643883876195966",
+      "url": "https://www.wsj.com/opinion/trumps-regression-to-the-mean-011c8056",
+      "title": "Trump&#x2019;s Regression to the Mean",
+      "content_html": "&#x2018;Fight, fight, fight&#x2019; isn&#x2019;t a presidential coalition built to achieve anything.",
+      "content_text": "&#x2018;Fight, fight, fight&#x2019; isn&#x2019;t a presidential coalition built to achieve anything.",
+      "date_published": "2026-01-27T21:35:00.000Z"
+    },
+    {
+      "id": "SB12264937453160404360904592632153120747654",
+      "url": "https://www.wsj.com/opinion/venezuela-can-learn-from-an-iraq-mistake-03d3fa78",
+      "title": "Venezuela Can Learn From an Iraq Mistake",
+      "content_html": "The Pentagon rejected our plan to pay Iraqis an oil dividend.",
+      "content_text": "The Pentagon rejected our plan to pay Iraqis an oil dividend.",
+      "date_published": "2026-01-27T21:33:00.000Z"
+    },
+    {
+      "id": "SB10381197850595854896404592644183949415676",
+      "url": "https://www.wsj.com/opinion/trump-can-quit-while-hes-ahead-on-immigration-6ceb14ca",
+      "title": "Trump Can Quit While He&#x2019;s Ahead on Immigration",
+      "content_html": "He fulfilled his promise to&#xa0;close the border, but heavy-handed, massive enforcement is unpopular.",
+      "content_text": "He fulfilled his promise to&#xa0;close the border, but heavy-handed, massive enforcement is unpopular.",
+      "date_published": "2026-01-27T21:33:00.000Z"
+    },
+    {
       "id": "SB10381197850595854896404592642001644761524",
       "url": "https://www.wsj.com/opinion/winter-storm-fern-proves-grid-reliability-a-necessity-7d1a0ac8",
       "title": "Winter Storm Fern Proves Grid Reliability a Necessity",

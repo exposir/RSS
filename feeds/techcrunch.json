@@ -6,6 +6,22 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3086636",
+      "url": "https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/",
+      "title": "Bluesky teases 2026 roadmap: a better Discover feed, real-time features and more",
+      "content_html": "Bluesky is teasing new features  and improvements ranging from the Discover feed to video support.",
+      "content_text": "Bluesky is teasing new features  and improvements ranging from the Discover feed to video support.",
+      "date_published": "2026-01-27T21:32:18.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086766",
+      "url": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+      "title": "Anthropic reportedly upped its latest raise to $20B",
+      "content_html": "Anthropic looks to raise $20 billion at more than $300 billion valuation, according to reports.",
+      "content_text": "Anthropic looks to raise $20 billion at more than $300 billion valuation, according to reports.",
+      "date_published": "2026-01-27T21:16:10.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3086721",
       "url": "https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/",
       "title": "Amazon agrees to pay consumers $309M in returns policy settlement",
