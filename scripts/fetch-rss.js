@@ -14,7 +14,9 @@ async function main() {
     console.log(`\n正在抓取: ${feed.name}`);
 
     try {
-      const result = await extract(feed.url);
+      const result = await extract(feed.url, {
+        descriptionMaxLen: 50000  // 保留更多内容
+      });
       const newEntries = result.entries || [];
 
       console.log(`  抓取到 ${newEntries.length} 条新闻`);
@@ -47,11 +49,26 @@ async function main() {
       for (const entry of newEntries) {
         const id = entry.id || entry.link;
         if (!existingIds.has(id)) {
+          // 清理 HTML，提取纯文本
+          let content = entry.description || "";
+          // 移除 HTML 标签
+          content = content.replace(/<[^>]+>/g, ' ');
+          // 移除多余空白
+          content = content.replace(/\s+/g, ' ').trim();
+          // 解码 HTML 实体
+          content = content.replace(/&lt;/g, '<')
+                          .replace(/&gt;/g, '>')
+                          .replace(/&amp;/g, '&')
+                          .replace(/&nbsp;/g, ' ')
+                          .replace(/&quot;/g, '"')
+                          .replace(/&#039;/g, "'");
+          
           const item = {
             id: id,
             url: entry.link,
             title: entry.title,
-            content_text: entry.description || "",
+            content_html: entry.description || "",  // 保留原始 HTML
+            content_text: content,
             date_published: entry.published || new Date().toISOString()
           };
           archive.items.unshift(item);
