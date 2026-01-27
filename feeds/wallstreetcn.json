@@ -1,0 +1,44 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "华尔街见闻",
+  "home_page_url": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB",
+  "feed_url": "https://exposir.github.io/RSS/feeds/wallstreetcn.json",
+  "description": "追踪全球财经热点，精选影响您财富的资讯，投资理财必备神器！",
+  "items": [
+    {
+      "id": "bc21c5d2f1153fd09484ad5e7cd6c232",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E6%9E%81%E8%87%B4%E7%8B%82%E7%83%AD%EF%BC%9F%E7%99%BD%E9%93%B6%E4%B8%80%E5%BA%A6%E6%9A%B4%E6%B6%A814%25%E5%90%8E%EF%BC%8C%E8%B7%B3%E6%B0%B4%E5%88%B01%25",
+      "title": "极致狂热？白银一度暴涨14%后，跳水到1%",
+      "content_text": "图片由AI生成白银在纽约中午刷新历史高位至接近118美元的水平，随后快速回吐涨幅。分析认为，白银这轮抛物线式上涨已经明显显露出疲态，价格走势越来越像一次“冲顶式见顶”。美东时间周一，白银价格亚太盘初以来持续走高，北京时间02:03刷新历史高位至117.7132美元，涨幅一度多达14%，创下自2008年以来的最大单日涨幅。但随后的回落来得非常突然：在周一美股收盘后不久，白银几乎回吐了当天全部涨幅，随后仅出现非常有限的反弹，当日最终涨幅不到1%。COMEX白银期货涨1.45%，报102.790...",
+      "date_published": "2026-01-27T03:09:00.000Z"
+    },
+    {
+      "id": "5da55d7e0e177e201796a955b5931838",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E4%BB%8E%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%E9%87%8C%E7%9A%84%E7%AE%97%E5%8A%9B%E8%AF%B4%E8%B5%B7",
+      "title": "从一杯咖啡里的算力说起",
+      "content_text": "在北京朝阳区一家繁忙的连锁咖啡店里，早高峰的节奏正如精密齿轮般运转。一位店员熟练地接过订单，与此同时，吧台角落那颗不起眼的摄像头正捕捉着客流数据；后台的库存系统在实时监测咖啡、牛奶等物料的消耗量。支撑这一系列井然有序场景的正是天数智芯的国产边端AI算力产品。事实上，这不仅是一家咖啡店的日常，更是国产AI算力设备在现实商业中扎根生长的典型横切面。将视线从这间咖啡店拉升，我们看到的是一片更为壮阔的商业前景。弗若斯特沙利文预计到2029年中国通用GPU市场规模有望攀升至7153亿元，未来5年复合...",
+      "date_published": "2026-01-27T09:53:00.000Z"
+    },
+    {
+      "id": "36ec10741d667d94a9c5e49542bedb43",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+DeepSeek-OCR+2%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%AD%A6%E4%BC%9A%E2%80%9C%E4%BA%BA%E7%B1%BB%E8%A7%86%E8%A7%89%E9%80%BB%E8%BE%91%E2%80%9D%EF%BC%8C%E4%BB%A5%E5%9B%A0%E6%9E%9C%E6%B5%81%E8%A7%A3%E8%AF%BB%E5%9B%BE%E7%89%87",
+      "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+      "content_text": "DeepSeek发布新一代光学字符识别系统，通过让AI以类似人类的逻辑顺序理解图像，在视觉识别领域实现技术突破。这一进展可能重塑文档处理、图表分析等依赖复杂视觉理解的应用场景。27日，DeepSeek发布了DeepSeek-OCR 2系统。该系统采用名为DeepEncoder V2的新方法，使AI能够像人类一样按照逻辑顺序“看”图像。这项技术的核心创新在于改变了传统AI处理图像的方式。DeepEncoder...",
+      "date_published": "2026-01-27T09:53:00.000Z"
+    },
+    {
+      "id": "d14229d4260b3e5a34fbd7023f76557f",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E9%87%91%E5%B1%9E%E5%92%8C%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%E2%80%9C%E5%8F%8C%E6%9D%80%E2%80%9D%EF%BC%81%E7%91%9E%E9%93%B6%EF%BC%9A%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%BC%81%E5%88%A9%E6%B6%A6%E5%B0%86%E5%AE%8C%E5%85%A8%E8%A2%AB%E5%90%9E%E5%99%AC",
+      "title": "金属和内存涨价“双杀”！瑞银：电动车企利润将完全被吞噬",
+      "content_text": "AI图片瑞银警告称，一场关于车企成本的“完美风暴”正在形成。1月27日，据追风交易台消息，瑞银在最新研报中称，随着2026年初刺激政策的全面退潮和5%购置税的征收，需求端本就疲软。然而，供给端却迎来了大宗商品（铜、铝、锂）和关键零部件（存储芯片DRAM）价格的剧烈反弹。据该行测算，一辆典型的中型智能电动车的成本通胀高达人民币4000至7000元。瑞银称，在当前竞争激烈、利润微薄的市场环境下，由于车企很难将这部分成本转嫁给消费者，这波成本上涨足以将车企的利润完全吞噬（fully erode...",
+      "date_published": "2026-01-27T09:53:00.000Z"
+    },
+    {
+      "id": "660f1e32cad9b422a1dbb10c9a635a8c",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%A3%85%E5%B8%83%E5%B1%80%E2%80%9C%E6%9C%8D%E5%8A%A1%E5%99%A8CPU%E2%80%9D%EF%BC%8C%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E5%B0%86%E6%8E%A8%E5%87%BAVera+CPU",
+      "title": "英伟达重磅布局“服务器CPU”，黄仁勋：将推出Vera CPU",
+      "content_text": "AI图片英伟达正通过重磅布局服务器CPU领域，进一步巩固其在AI基础设施市场的统治地位。公司CEO黄仁勋确认将推出代号为“Vera”的全新CPU，并首次将其作为独立产品推向市场，旨在消除AI供应链中的算力瓶颈，全面支持代理人工智能（Agentic AI）的发展。1月26日，据彭博报道，英伟达已承诺向新兴云服务商CoreWeave追加20亿美元投资，CoreWeave将成为首家部署Vera CPU作为独立基础设施选项的客户。黄仁勋在接受彭博Ed...",
+      "date_published": "2026-01-27T09:53:00.000Z"
+    }
+  ]
+}
