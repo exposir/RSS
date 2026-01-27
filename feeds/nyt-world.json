@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
+      "title": "How Computer Warfare Is Becoming Part of the Pentagon’s Arsenal",
+      "content_html": "The military tested a new approach in Venezuela and during strikes on Iranian nuclear facilities.",
+      "content_text": "The military tested a new approach in Venezuela and during strikes on Iranian nuclear facilities.",
+      "date_published": "2026-01-27T19:10:37.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html",
       "url": "https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html",
       "title": "Board of Peace Set to Hand Trump Sweeping Powers Over Gaza",

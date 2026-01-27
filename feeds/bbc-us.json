@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cly9p153kv9o#0",
+      "url": "https://www.bbc.com/news/articles/cly9p153kv9o?at_medium=RSS&at_campaign=rss",
+      "title": "British Army officer dies after incident during fire training",
+      "content_html": "The 25-year-old died on Sunday after the incident at an army training site in Northumberland.",
+      "content_text": "The 25-year-old died on Sunday after the incident at an army training site in Northumberland.",
+      "date_published": "2026-01-27T19:25:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/cricket/articles/clympvp6l1no#7",
+      "url": "https://www.bbc.com/sport/cricket/articles/clympvp6l1no?at_medium=RSS&at_campaign=rss",
+      "title": "Don't take Brook's WWE beer celebration wrong way - Root",
+      "content_html": "Joe Root hopes Harry Brook's 'beer smash' celebration will be \"received the right way\".",
+      "content_text": "Joe Root hopes Harry Brook's 'beer smash' celebration will be \"received the right way\".",
+      "date_published": "2026-01-27T19:04:09.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/cricket/articles/c77k56xl6n4o#7",
       "url": "https://www.bbc.com/sport/cricket/articles/c77k56xl6n4o?at_medium=RSS&at_campaign=rss",
       "title": "Why England legend Root is so effective in Asia",

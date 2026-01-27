@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "688e7e3c-163b-42a9-8085-f67c8e60aa1f",
+      "url": "https://www.smh.com.au/world/investigators-reveal-new-details-in-washington-dc-air-crash-20260128-p5nxil.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Investigators reveal new details in Washington DC air crash",
+      "content_html": "Multiple errors behind Washington DC air crash that killed 67 people, US investigators reveal.",
+      "content_text": "Multiple errors behind Washington DC air crash that killed 67 people, US investigators reveal.",
+      "date_published": "2026-01-27T19:11:57.000Z"
+    },
+    {
+      "id": "f8baccdd-1237-4ab0-9031-e32762379111",
+      "url": "https://www.smh.com.au/national/new-poll-brings-fresh-pain-for-liberal-party-20260128-p5nxim.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "New poll brings fresh pain for Liberal Party",
+      "content_html": "One Nation's Pauline Hanson leads Liberal leader Sussan Ley as preferred prime minister, according to a new poll today.",
+      "content_text": "One Nation's Pauline Hanson leads Liberal leader Sussan Ley as preferred prime minister, according to a new poll today.",
+      "date_published": "2026-01-27T19:11:52.000Z"
+    },
+    {
+      "id": "832e2669-cf63-4c82-88f7-52fee6a52361",
+      "url": "https://www.smh.com.au/world/death-toll-rises-in-us-winter-storm-20260128-p5nxih.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Death toll rises in US winter storm",
+      "content_html": "Three brothers aged under 10 years have become the latest fatalaties in the giant US snowstorm.",
+      "content_text": "Three brothers aged under 10 years have become the latest fatalaties in the giant US snowstorm.",
+      "date_published": "2026-01-27T19:07:08.000Z"
+    },
+    {
       "id": "6fb9becd-9eec-4412-a193-5fbab0b1f0d0",
       "url": "https://www.smh.com.au/national/bushfire-emergency-continues-in-victoria-20260128-p5nxid.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Bushfire emergency continues in Victoria",
