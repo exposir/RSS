@@ -50,10 +50,6 @@ feeds:
     url: https://plink.anyfeeder.com/jiemian/finance
     output: feeds/jiemian.json
 
-  - name: 酷壳
-    url: https://coolshell.cn/feed
-    output: feeds/coolshell.json
-
   - name: 美团技术
     url: https://tech.meituan.com/feed/
     output: feeds/meituan.json
@@ -65,10 +61,6 @@ feeds:
   - name: 少数派
     url: https://sspai.com/feed
     output: feeds/sspai.json
-
-  - name: 思想花火
-    url: https://wechat2rss.xlab.app/feed/5b925323244e9737c39285596c53e3a2f4a30774.xml
-    output: feeds/sixianghuahuo.json
 
   - name: 悉尼先驱晨报
     url: https://www.smh.com.au/rss/feed.xml
@@ -93,10 +85,6 @@ feeds:
   - name: BBC中文
     url: https://plink.anyfeeder.com/bbc/cn
     output: feeds/bbc.json
-
-  - name: 华尔街日报
-    url: https://plink.anyfeeder.com/wsj/cn
-    output: feeds/wsj.json
 
   - name: 新华社
     url: https://plink.anyfeeder.com/newscn/whxw
@@ -154,22 +142,6 @@ feeds:
     url: http://www.bbc.co.uk/zhongwen/trad/index.xml
     output: feeds/bbc-zh-home.json
 
-  - name: BBC中文-國際
-    url: http://www.bbc.co.uk/zhongwen/trad/world/index.xml
-    output: feeds/bbc-zh-world.json
-
-  - name: BBC中文-兩岸三地
-    url: http://www.bbc.co.uk/zhongwen/trad/china/index.xml
-    output: feeds/bbc-zh-china.json
-
-  - name: BBC中文-英國
-    url: http://www.bbc.co.uk/zhongwen/trad/uk/index.xml
-    output: feeds/bbc-zh-uk.json
-
-  - name: BBC中文-財經
-    url: http://www.bbc.co.uk/zhongwen/trad/business/index.xml
-    output: feeds/bbc-zh-business.json
-
   - name: Reuters新闻
     url: https://ir.thomsonreuters.com/rss/news-releases.xml?items=15
     output: feeds/reuters-news.json
@@ -189,10 +161,6 @@ feeds:
   - name: 南华早报China
     url: https://www.scmp.com/rss/4/feed/
     output: feeds/scmp-china.json
-
-  - name: Caixin Global
-    url: https://rss.libsyn.com/shows/139631/destinations/873362.xml
-    output: feeds/caixin-global.json
 
   - name: NYT World
     url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
