@@ -1,0 +1,11 @@
+# 订阅源配置
+# 格式：名称: RSS地址
+
+feeds:
+  - name: 人民网-政治
+    url: https://plink.anyfeeder.com/people/politics
+    output: feeds/people-politics.json
+
+  - name: 地球知识局
+    url: https://plink.anyfeeder.com/weixin/diqiuzhishiju
+    output: feeds/diqiuzhishiju.json
