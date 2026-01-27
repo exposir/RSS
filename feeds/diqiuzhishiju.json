@@ -2,7 +2,7 @@
   "version": "https://jsonfeed.org/version/1.1",
   "title": "地球知识局",
   "home_page_url": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E5%9C%B0%E7%90%83%E7%9F%A5%E8%AF%86%E5%B1%80",
-  "feed_url": "https://raw.githubusercontent.com/exposir/RSS/main/feeds/diqiuzhishiju.json",
+  "feed_url": "https://exposir.github.io/RSS/feeds/diqiuzhishiju.json",
   "description": "人文+地理+设计，全球视野新三观",
   "items": [
     {

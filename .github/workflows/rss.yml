@@ -23,13 +23,8 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Fetch 人民网-政治
-        continue-on-error: true
-        run: node scripts/fetch-rss.js "https://plink.anyfeeder.com/people/politics" "feeds/people-politics.json"
-
-      - name: Fetch 地球知识局
-        continue-on-error: true
-        run: node scripts/fetch-rss.js "https://plink.anyfeeder.com/weixin/diqiuzhishiju" "feeds/diqiuzhishiju.json"
+      - name: Fetch All Feeds
+        run: node scripts/fetch-rss.js
 
       - name: Auto-Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
