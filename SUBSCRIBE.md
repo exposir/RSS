@@ -30,7 +30,7 @@
 | 华尔街日报    | https://exposir.github.io/RSS/feeds/wsj.json             | https://plink.anyfeeder.com/wsj/cn                                            | ❌ 2024 |
 | 新华社        | https://exposir.github.io/RSS/feeds/xinhua.json          | https://plink.anyfeeder.com/newscn/whxw                                       | ✅      |
 | iDaily        | https://exposir.github.io/RSS/feeds/idaily.json          | https://plink.anyfeeder.com/idaily/today                                      | ✅      |
-| Randy's Blog  | https://exposir.github.io/RSS/feeds/randy.json           | https://lutaonan.com/rss.xml                                                  | ❌ 2014 |
+| Randy's Blog  | https://exposir.github.io/RSS/feeds/randy.json           | https://lutaonan.com/rss.xml | ⚠️ 2025 |
 | 虎嗅网        | https://exposir.github.io/RSS/feeds/huxiu.json           | https://www.huxiu.com/rss/0.xml                                               | ✅      |
 | 36氪          | https://exposir.github.io/RSS/feeds/36kr.json            | https://36kr.com/feed                                                         | ✅      |
 | 机核          | https://exposir.github.io/RSS/feeds/gcores.json          | https://www.gcores.com/rss                                                    | ✅      |

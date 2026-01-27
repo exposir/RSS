@@ -6,68 +6,12 @@
   "description": "Thomson Reuters Events",
   "items": [
     {
-      "id": 31046,
-      "url": "https://ir.thomsonreuters.com/events/event-details/thomson-reuters-reports-fourth-quarter-and-full-year-2024-earnings",
-      "title": "February 6, 2025 8:00 AM EST : Thomson Reuters Reports Fourth Quarter and Full Year 2024 Earnings",
+      "id": 31726,
+      "url": "https://ir.thomsonreuters.com/events/event-details/thomson-reuters-reports-fourth-quarter-2025-earnings",
+      "title": "February 5, 2026 8:30 AM EST : Thomson Reuters Reports Fourth Quarter 2025 Earnings",
       "content_html": "",
       "content_text": "",
-      "date_published": "2025-02-06T13:00:00.000Z"
-    },
-    {
-      "id": 31201,
-      "url": "https://ir.thomsonreuters.com/events/event-details/scotiabank-tmt-conference-1",
-      "title": "March 4, 2025 1:30 PM EST : Scotiabank TMT Conference",
-      "content_html": "",
-      "content_text": "",
-      "date_published": "2025-03-04T18:30:00.000Z"
-    },
-    {
-      "id": 31516,
-      "url": "https://ir.thomsonreuters.com/events/event-details/thomson-reuters-reports-first-quarter-2025-earnings",
-      "title": "May 1, 2025 8:30 AM EDT : Thomson Reuters Reports First Quarter 2025 Earnings",
-      "content_html": "",
-      "content_text": "",
-      "date_published": "2025-05-01T12:30:00.000Z"
-    },
-    {
-      "id": 31521,
-      "url": "https://ir.thomsonreuters.com/events/event-details/barclays-americas-select-franchise-conference-0",
-      "title": "May 6, 2025 : Barclays Americas Select Franchise Conference",
-      "content_html": "",
-      "content_text": "",
-      "date_published": "2025-05-05T16:00:00.000Z"
-    },
-    {
-      "id": 31526,
-      "url": "https://ir.thomsonreuters.com/events/event-details/cibc-technology-innovation-conference-1",
-      "title": "May 22, 2025 : CIBC Technology & Innovation Conference",
-      "content_html": "",
-      "content_text": "",
-      "date_published": "2025-05-21T16:00:00.000Z"
-    },
-    {
-      "id": 31241,
-      "url": "https://ir.thomsonreuters.com/events/event-details/2025-annual-meeting-shareholders-thomson-reuters",
-      "title": "June 4, 2025 : 2025 Annual Meeting of Shareholders of Thomson Reuters",
-      "content_html": "",
-      "content_text": "",
-      "date_published": "2025-06-03T16:00:00.000Z"
-    },
-    {
-      "id": 31531,
-      "url": "https://ir.thomsonreuters.com/events/event-details/thomson-reuters-reports-second-quarter-2025-earnings",
-      "title": "August 6, 2025 8:30 AM EDT : Thomson Reuters Reports Second Quarter 2025 Earnings",
-      "content_html": "",
-      "content_text": "",
-      "date_published": "2025-08-06T12:30:00.000Z"
-    },
-    {
-      "id": 31611,
-      "url": "https://ir.thomsonreuters.com/events/event-details/thomson-reuters-reports-third-quarter-2025-earnings",
-      "title": "November 4, 2025 9:00 AM EST : Thomson Reuters Reports Third Quarter 2025 Earnings",
-      "content_html": "",
-      "content_text": "",
-      "date_published": "2025-11-04T14:00:00.000Z"
+      "date_published": "2026-02-05T13:30:00.000Z"
     },
     {
       "id": 31711,
@@ -78,12 +22,68 @@
       "date_published": "2025-11-18T16:00:00.000Z"
     },
     {
-      "id": 31726,
-      "url": "https://ir.thomsonreuters.com/events/event-details/thomson-reuters-reports-fourth-quarter-2025-earnings",
-      "title": "February 5, 2026 8:30 AM EST : Thomson Reuters Reports Fourth Quarter 2025 Earnings",
+      "id": 31611,
+      "url": "https://ir.thomsonreuters.com/events/event-details/thomson-reuters-reports-third-quarter-2025-earnings",
+      "title": "November 4, 2025 9:00 AM EST : Thomson Reuters Reports Third Quarter 2025 Earnings",
       "content_html": "",
       "content_text": "",
-      "date_published": "2026-02-05T13:30:00.000Z"
+      "date_published": "2025-11-04T14:00:00.000Z"
+    },
+    {
+      "id": 31531,
+      "url": "https://ir.thomsonreuters.com/events/event-details/thomson-reuters-reports-second-quarter-2025-earnings",
+      "title": "August 6, 2025 8:30 AM EDT : Thomson Reuters Reports Second Quarter 2025 Earnings",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-08-06T12:30:00.000Z"
+    },
+    {
+      "id": 31241,
+      "url": "https://ir.thomsonreuters.com/events/event-details/2025-annual-meeting-shareholders-thomson-reuters",
+      "title": "June 4, 2025 : 2025 Annual Meeting of Shareholders of Thomson Reuters",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-06-03T16:00:00.000Z"
+    },
+    {
+      "id": 31526,
+      "url": "https://ir.thomsonreuters.com/events/event-details/cibc-technology-innovation-conference-1",
+      "title": "May 22, 2025 : CIBC Technology & Innovation Conference",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-05-21T16:00:00.000Z"
+    },
+    {
+      "id": 31521,
+      "url": "https://ir.thomsonreuters.com/events/event-details/barclays-americas-select-franchise-conference-0",
+      "title": "May 6, 2025 : Barclays Americas Select Franchise Conference",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-05-05T16:00:00.000Z"
+    },
+    {
+      "id": 31516,
+      "url": "https://ir.thomsonreuters.com/events/event-details/thomson-reuters-reports-first-quarter-2025-earnings",
+      "title": "May 1, 2025 8:30 AM EDT : Thomson Reuters Reports First Quarter 2025 Earnings",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-05-01T12:30:00.000Z"
+    },
+    {
+      "id": 31201,
+      "url": "https://ir.thomsonreuters.com/events/event-details/scotiabank-tmt-conference-1",
+      "title": "March 4, 2025 1:30 PM EST : Scotiabank TMT Conference",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-03-04T18:30:00.000Z"
+    },
+    {
+      "id": 31046,
+      "url": "https://ir.thomsonreuters.com/events/event-details/thomson-reuters-reports-fourth-quarter-and-full-year-2024-earnings",
+      "title": "February 6, 2025 8:00 AM EST : Thomson Reuters Reports Fourth Quarter and Full Year 2024 Earnings",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-02-06T13:00:00.000Z"
     }
   ]
 }

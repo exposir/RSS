@@ -1,166 +1,187 @@
-import fs from 'fs';
-import yaml from 'js-yaml';
-import { XMLParser } from 'fast-xml-parser';
+import fs from "fs";
+import yaml from "js-yaml";
+import { XMLParser } from "fast-xml-parser";
 
 // 解码 HTML 实体
 function decodeHtmlEntities(html) {
-  if (!html) return '';
-  
+  if (!html) return "";
+
   let content = html;
   // 多次解码处理嵌套实体
   for (let i = 0; i < 3; i++) {
     content = content
-      .replace(/&lt;/g, '<')
-      .replace(/&gt;/g, '>')
-      .replace(/&amp;/g, '&')
-      .replace(/&nbsp;/g, ' ')
+      .replace(/&lt;/g, "<")
+      .replace(/&gt;/g, ">")
+      .replace(/&amp;/g, "&")
+      .replace(/&nbsp;/g, " ")
       .replace(/&quot;/g, '"')
       .replace(/&#039;/g, "'")
-      .replace(/&copy;/g, '©');
+      .replace(/&copy;/g, "©");
   }
   return content;
 }
 
 // 清理 HTML 内容
 function cleanHtml(html) {
-  if (!html) return '';
-  
+  if (!html) return "";
+
   let content = decodeHtmlEntities(html);
-  
+
   // 移除 script 标签及内容
-  content = content.replace(/<script[\s\S]*?<\/script>/gi, '');
-  
+  content = content.replace(/<script[\s\S]*?<\/script>/gi, "");
+
   // 移除 style 标签及内容
-  content = content.replace(/<style[\s\S]*?<\/style>/gi, '');
-  
+  content = content.replace(/<style[\s\S]*?<\/style>/gi, "");
+
   // 移除 HTML 注释
-  content = content.replace(/<!--[\s\S]*?-->/g, '');
-  
+  content = content.replace(/<!--[\s\S]*?-->/g, "");
+
   // 移除 input 标签
-  content = content.replace(/<input[^>]*>/gi, '');
-  
+  content = content.replace(/<input[^>]*>/gi, "");
+
   // 使用图片代理绕过防盗链
-  content = content.replace(/<img([^>]*)src=["']([^"']+)["']([^>]*)>/gi, (match, before, src, after) => {
-    // 过滤模板/装饰图片
-    if (src.includes('go_top') || src.includes('template') || src.includes('webdig')) {
-      return '';
-    }
-    // 修复 .jpg.2 等后缀
-    src = src.replace(/\.(jpg|png|gif)\.\d+$/i, '.$1');
-    // HTTP 图片使用代理
-    if (src.startsWith('http://')) {
-      const proxyUrl = `https://images.weserv.nl/?url=${encodeURIComponent(src)}`;
-      return `<img${before}src="${proxyUrl}"${after}>`;
-    }
-    return match;
-  });
-  
+  content = content.replace(
+    /<img([^>]*)src=["']([^"']+)["']([^>]*)>/gi,
+    (match, before, src, after) => {
+      // 过滤模板/装饰图片
+      if (
+        src.includes("go_top") ||
+        src.includes("template") ||
+        src.includes("webdig")
+      ) {
+        return "";
+      }
+      // 修复 .jpg.2 等后缀
+      src = src.replace(/\.(jpg|png|gif)\.\d+$/i, ".$1");
+      // HTTP 图片使用代理
+      if (src.startsWith("http://")) {
+        const proxyUrl = `https://images.weserv.nl/?url=${encodeURIComponent(src)}`;
+        return `<img${before}src="${proxyUrl}"${after}>`;
+      }
+      return match;
+    },
+  );
+
   return content.trim();
 }
 
 // 提取纯文本（只移除 HTML 标签）
 function extractText(html) {
-  if (!html) return '';
-  return html.replace(/<[^>]+>/g, '').trim();
+  if (!html) return "";
+  return html.replace(/<[^>]+>/g, "").trim();
 }
 
 async function fetchRss(url) {
   const response = await fetch(url);
   const xml = await response.text();
-  
+
   const parser = new XMLParser({
     ignoreAttributes: false,
-    attributeNamePrefix: '@_'
+    attributeNamePrefix: "@_",
   });
-  
+
   const result = parser.parse(xml);
-  
+
   // 支持 RSS 格式
   if (result.rss?.channel) {
     const channel = result.rss.channel;
-    const items = Array.isArray(channel.item) ? channel.item : [channel.item].filter(Boolean);
-    
+    const items = Array.isArray(channel.item)
+      ? channel.item
+      : [channel.item].filter(Boolean);
+
     return {
       title: channel.title,
       link: channel.link,
       description: channel.description,
-      entries: items.map(item => {
+      entries: items.map((item) => {
         let id = item.guid;
-        if (id && typeof id === 'object') {
-          id = id['#text'] || id._ || JSON.stringify(id);
+        if (id && typeof id === "object") {
+          id = id["#text"] || id._ || JSON.stringify(id);
         }
         id = id || item.link;
-        
+
         return {
           id: id,
           title: item.title,
           link: item.link,
-          description: item['content:encoded'] || item.description || '',
-          published: item.pubDate ? new Date(item.pubDate).toISOString() : null
+          description: item["content:encoded"] || item.description || "",
+          published: item.pubDate ? new Date(item.pubDate).toISOString() : null,
         };
-      })
+      }),
     };
   }
-  
+
   // 支持 Atom 格式
   if (result.feed) {
     const feed = result.feed;
-    const entries = Array.isArray(feed.entry) ? feed.entry : [feed.entry].filter(Boolean);
-    
+    const entries = Array.isArray(feed.entry)
+      ? feed.entry
+      : [feed.entry].filter(Boolean);
+
     return {
       title: feed.title,
-      link: feed.link?.['@_href'] || feed.link,
-      description: feed.subtitle || '',
-      entries: entries.map(entry => {
+      link: feed.link?.["@_href"] || feed.link,
+      description: feed.subtitle || "",
+      entries: entries.map((entry) => {
         let link = entry.link;
-        if (link && typeof link === 'object') {
-          link = link['@_href'] || link.href;
+        if (link && typeof link === "object") {
+          link = link["@_href"] || link.href;
         }
         if (Array.isArray(link)) {
-          link = link[0]?.['@_href'] || link[0];
+          link = link[0]?.["@_href"] || link[0];
         }
-        
-        let desc = entry.content || entry.summary || '';
-        if (desc && typeof desc === 'object') {
-          desc = desc['#text'] || desc._ || '';
+
+        let desc = entry.content || entry.summary || "";
+        if (desc && typeof desc === "object") {
+          desc = desc["#text"] || desc._ || "";
         }
-        
+
         return {
           id: entry.id || link,
-          title: typeof entry.title === 'object' ? entry.title['#text'] : entry.title,
+          title:
+            typeof entry.title === "object"
+              ? entry.title["#text"]
+              : entry.title,
           link: link,
           description: desc,
-          published: entry.published || entry.updated ? new Date(entry.published || entry.updated).toISOString() : null
+          published:
+            entry.published || entry.updated
+              ? new Date(entry.published || entry.updated).toISOString()
+              : null,
         };
-      })
+      }),
     };
   }
-  
+
   // 支持 RDF 1.0 格式（如德国之声）
-  if (result['rdf:RDF']) {
-    const rdf = result['rdf:RDF'];
+  if (result["rdf:RDF"]) {
+    const rdf = result["rdf:RDF"];
     const channel = rdf.channel;
-    const items = Array.isArray(rdf.item) ? rdf.item : [rdf.item].filter(Boolean);
-    
+    const items = Array.isArray(rdf.item)
+      ? rdf.item
+      : [rdf.item].filter(Boolean);
+
     return {
-      title: channel?.title || '',
-      link: channel?.link || '',
-      description: channel?.description || '',
-      entries: items.map(item => ({
+      title: channel?.title || "",
+      link: channel?.link || "",
+      description: channel?.description || "",
+      entries: items.map((item) => ({
         id: item.link,
         title: item.title,
         link: item.link,
-        description: item['content:encoded'] || item.description || '',
-        published: item['dc:date'] ? new Date(item['dc:date']).toISOString() : null
-      }))
+        description: item["content:encoded"] || item.description || "",
+        published: item["dc:date"]
+          ? new Date(item["dc:date"]).toISOString()
+          : null,
+      })),
     };
   }
-  
-  throw new Error('Invalid RSS/Atom format');
+
+  throw new Error("Invalid RSS/Atom format");
 }
 
 async function main() {
-  const config = yaml.load(fs.readFileSync('feeds.yml', 'utf8'));
+  const config = yaml.load(fs.readFileSync("feeds.yml", "utf8"));
   const feeds = config.feeds || [];
 
   console.log(`读取到 ${feeds.length} 个订阅源`);
@@ -180,21 +201,21 @@ async function main() {
         home_page_url: result.link || "",
         feed_url: `https://exposir.github.io/RSS/${feed.output}`,
         description: result.description || "",
-        items: []
+        items: [],
       };
 
       if (fs.existsSync(feed.output)) {
         try {
-          const existing = JSON.parse(fs.readFileSync(feed.output, 'utf8'));
+          const existing = JSON.parse(fs.readFileSync(feed.output, "utf8"));
           if (existing.items) {
             archive.items = existing.items;
           }
         } catch (e) {
-          console.log('  现有存档文件损坏，将创建新的');
+          console.log("  现有存档文件损坏，将创建新的");
         }
       }
 
-      const existingIds = new Set(archive.items.map(e => e.id));
+      const existingIds = new Set(archive.items.map((e) => e.id));
 
       let addedCount = 0;
       for (const entry of newEntries) {
@@ -202,14 +223,14 @@ async function main() {
         if (!existingIds.has(id)) {
           const cleanedHtml = cleanHtml(entry.description || "");
           const plainText = extractText(cleanedHtml);
-          
+
           const item = {
             id: id,
             url: entry.link,
             title: entry.title,
             content_html: cleanedHtml,
             content_text: plainText,
-            date_published: entry.published || new Date().toISOString()
+            date_published: entry.published || new Date().toISOString(),
           };
           archive.items.unshift(item);
           existingIds.add(id);
@@ -217,23 +238,29 @@ async function main() {
         }
       }
 
-      const dir = feed.output.substring(0, feed.output.lastIndexOf('/'));
+      // 按日期排序，最新的在前面
+      archive.items.sort(
+        (a, b) => new Date(b.date_published) - new Date(a.date_published),
+      );
+
+      const dir = feed.output.substring(0, feed.output.lastIndexOf("/"));
       if (dir && !fs.existsSync(dir)) {
         fs.mkdirSync(dir, { recursive: true });
       }
 
       fs.writeFileSync(feed.output, JSON.stringify(archive, null, 2));
-      console.log(`  ✅ 新增 ${addedCount} 条，总共 ${archive.items.length} 条`);
-
+      console.log(
+        `  ✅ 新增 ${addedCount} 条，总共 ${archive.items.length} 条`,
+      );
     } catch (err) {
       console.error(`  ❌ 抓取失败: ${err.message}`);
     }
   }
 
-  console.log('\n全部完成！');
+  console.log("\n全部完成！");
 }
 
-main().catch(err => {
-  console.error('脚本执行失败:', err.message);
+main().catch((err) => {
+  console.error("脚本执行失败:", err.message);
   process.exit(1);
 });

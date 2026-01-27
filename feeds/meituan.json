@@ -6,12 +6,60 @@
   "description": "美团技术团队最近更新内容。",
   "items": [
     {
-      "id": "https://tech.meituan.com/2025/12/05/ai-coding-unit-testing.html",
-      "url": "https://tech.meituan.com/2025/12/05/ai-coding-unit-testing.html",
-      "title": "AI Coding与单元测试的协同进化：从验证到驱动",
-      "content_html": "AI生成代码质量难以把控！本文分享来自美团的技术实践，三大策略破解AI编程痛点。单测快速验证逻辑正确性，安全网保护存量代码演进，TDD模式精准传递需求。告别「看起来没问题」的错觉，构建AI时代的代码质量保障体系。",
-      "content_text": "AI生成代码质量难以把控！本文分享来自美团的技术实践，三大策略破解AI编程痛点。单测快速验证逻辑正确性，安全网保护存量代码演进，TDD模式精准传递需求。告别「看起来没问题」的错觉，构建AI时代的代码质量保障体系。",
-      "date_published": "2025-12-05T00:00:00.000Z"
+      "id": "https://tech.meituan.com/2026/01/26/evocua.html",
+      "url": "https://tech.meituan.com/2026/01/26/evocua.html",
+      "title": "美团 EvoCUA 刷新开源 SOTA，会用电脑还会持续进化的智能体！",
+      "content_html": "美团技术团队推出了 EvoCUA 模型并在 Github、Huggingface 开源，通过构建可验证数据合成引擎与十万级并发的交互沙盒，将训练范式从传统的“静态轨迹模仿”转变为高效的“经验进化学习”。",
+      "content_text": "美团技术团队推出了 EvoCUA 模型并在 Github、Huggingface 开源，通过构建可验证数据合成引擎与十万级并发的交互沙盒，将训练范式从传统的“静态轨迹模仿”转变为高效的“经验进化学习”。",
+      "date_published": "2026-01-26T00:00:00.000Z"
+    },
+    {
+      "id": "https://tech.meituan.com/2026/01/20/longcat-flash-thinking-2601.html",
+      "url": "https://tech.meituan.com/2026/01/20/longcat-flash-thinking-2601.html",
+      "title": "美团 LongCat-Flash-Thinking-2601 发布，工具调用能力登顶开源 SOTA！",
+      "content_html": "美团 LongCat 团队正式对外发布并开源 LongCat-Flash-Thinking-2601。作为已发布的 LongCat-Flash-Thinking 模型的升级版，LongCat-Flash-Thinking-2601 在 Agentic Search（智能体搜索）、Agentic Tool Use（智能体工具调用）、TIR（工具交互推理）等核心评测基准上，均达到开源模型 SOTA 水平。",
+      "content_text": "美团 LongCat 团队正式对外发布并开源 LongCat-Flash-Thinking-2601。作为已发布的 LongCat-Flash-Thinking 模型的升级版，LongCat-Flash-Thinking-2601 在 Agentic Search（智能体搜索）、Agentic Tool Use（智能体工具调用）、TIR（工具交互推理）等核心评测基准上，均达到开源模型 SOTA 水平。",
+      "date_published": "2026-01-20T00:00:00.000Z"
+    },
+    {
+      "id": "https://tech.meituan.com/2026/01/13/kuitest-ui.html",
+      "url": "https://tech.meituan.com/2026/01/13/kuitest-ui.html",
+      "title": "KuiTest：基于大模型通识的 UI 交互遍历测试",
+      "content_html": "美团质效技术部联合复旦大学周扬帆教授团队推出 KuiTest——零规则 UI 功能性异常测试工具。KuiTest 通过将“人类预期”直接用作 Test Oracle，解决了长期以来 UI 测试 Oracle 泛化性差的自动化痛点。实验表明，KuiTest 异常召回率达 86%，误报率仅 1.2%，已在执行 21 万+测试用例，发现百余例有效缺陷，大幅降低人工成本并提升测试覆盖率。",
+      "content_text": "美团质效技术部联合复旦大学周扬帆教授团队推出 KuiTest——零规则 UI 功能性异常测试工具。KuiTest 通过将“人类预期”直接用作 Test Oracle，解决了长期以来 UI 测试 Oracle 泛化性差的自动化痛点。实验表明，KuiTest 异常召回率达 86%，误报率仅 1.2%，已在执行 21 万+测试用例，发现百余例有效缺陷，大幅降低人工成本并提升测试覆盖率。",
+      "date_published": "2026-01-13T00:00:00.000Z"
+    },
+    {
+      "id": "https://tech.meituan.com/2026/01/12/aaai-2026.html",
+      "url": "https://tech.meituan.com/2026/01/12/aaai-2026.html",
+      "title": "AAAI 2026 | 美团技术团队学术论文精选",
+      "content_html": "AAAI 是人工智能领域顶级的国际学术会议，本文精选了美团技术团队被收录的8篇学术论文（附下载链接），覆盖大模型推理、 退火策略、过程奖励模型、强化学习、视觉文本渲染等多个技术领域，希望这些论文能对大家有所帮助或启发。",
+      "content_text": "AAAI 是人工智能领域顶级的国际学术会议，本文精选了美团技术团队被收录的8篇学术论文（附下载链接），覆盖大模型推理、 退火策略、过程奖励模型、强化学习、视觉文本渲染等多个技术领域，希望这些论文能对大家有所帮助或启发。",
+      "date_published": "2026-01-12T00:00:00.000Z"
+    },
+    {
+      "id": "https://tech.meituan.com/2025/12/29/2025-annual-review.html",
+      "url": "https://tech.meituan.com/2025/12/29/2025-annual-review.html",
+      "title": "2025 | 美团技术团队热门技术文章汇总",
+      "content_html": "感谢这一路上，每一位伙伴的并肩前行与坚定支持。今年，美团技术团队在持续深耕中涌现出不少值得分享的实践与开源产品&服务。我们从中精选了18篇具有代表性的技术文章，内容涵盖大模型开源、研发技能、产品服务三大方向。",
+      "content_text": "感谢这一路上，每一位伙伴的并肩前行与坚定支持。今年，美团技术团队在持续深耕中涌现出不少值得分享的实践与开源产品&服务。我们从中精选了18篇具有代表性的技术文章，内容涵盖大模型开源、研发技能、产品服务三大方向。",
+      "date_published": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "id": "https://tech.meituan.com/2025/12/23/longcat-video-avatar.html",
+      "url": "https://tech.meituan.com/2025/12/23/longcat-video-avatar.html",
+      "title": "美团 LongCat-Video-Avatar 正式发布，实现开源 SOTA 级拟真表现",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2025-12-23T00:00:00.000Z"
+    },
+    {
+      "id": "https://tech.meituan.com/2025/12/19/longcat-interaction-denoiserotator.html",
+      "url": "https://tech.meituan.com/2025/12/19/longcat-interaction-denoiserotator.html",
+      "title": "大模型剪枝新范式：先浓缩，再剪枝——DenoiseRotator技术解读",
+      "content_html": "美团 LongCat Interaction 团队联合上海交通大学听觉认知与计算声学实验室，以及香港科技大学的研究者，共同完成了大模型剪枝方法的创新研究，提出了名为 DenoiseRotator 的新技术。通过首先对参数矩阵进行变换，“将知识和推理能力浓缩到由少量参数组成的子网络内”，“再裁剪掉子网络外的参数”，实现了大模型剪枝的新范式。",
+      "content_text": "美团 LongCat Interaction 团队联合上海交通大学听觉认知与计算声学实验室，以及香港科技大学的研究者，共同完成了大模型剪枝方法的创新研究，提出了名为 DenoiseRotator 的新技术。通过首先对参数矩阵进行变换，“将知识和推理能力浓缩到由少量参数组成的子网络内”，“再裁剪掉子网络外的参数”，实现了大模型剪枝的新范式。",
+      "date_published": "2025-12-19T00:00:00.000Z"
     },
     {
       "id": "https://tech.meituan.com/2025/12/09/longcat-image-model.html",
@@ -30,60 +78,12 @@
       "date_published": "2025-12-09T00:00:00.000Z"
     },
     {
-      "id": "https://tech.meituan.com/2025/12/19/longcat-interaction-denoiserotator.html",
-      "url": "https://tech.meituan.com/2025/12/19/longcat-interaction-denoiserotator.html",
-      "title": "大模型剪枝新范式：先浓缩，再剪枝——DenoiseRotator技术解读",
-      "content_html": "美团 LongCat Interaction 团队联合上海交通大学听觉认知与计算声学实验室，以及香港科技大学的研究者，共同完成了大模型剪枝方法的创新研究，提出了名为 DenoiseRotator 的新技术。通过首先对参数矩阵进行变换，“将知识和推理能力浓缩到由少量参数组成的子网络内”，“再裁剪掉子网络外的参数”，实现了大模型剪枝的新范式。",
-      "content_text": "美团 LongCat Interaction 团队联合上海交通大学听觉认知与计算声学实验室，以及香港科技大学的研究者，共同完成了大模型剪枝方法的创新研究，提出了名为 DenoiseRotator 的新技术。通过首先对参数矩阵进行变换，“将知识和推理能力浓缩到由少量参数组成的子网络内”，“再裁剪掉子网络外的参数”，实现了大模型剪枝的新范式。",
-      "date_published": "2025-12-19T00:00:00.000Z"
-    },
-    {
-      "id": "https://tech.meituan.com/2025/12/23/longcat-video-avatar.html",
-      "url": "https://tech.meituan.com/2025/12/23/longcat-video-avatar.html",
-      "title": "美团 LongCat-Video-Avatar 正式发布，实现开源 SOTA 级拟真表现",
-      "content_html": "",
-      "content_text": "",
-      "date_published": "2025-12-23T00:00:00.000Z"
-    },
-    {
-      "id": "https://tech.meituan.com/2025/12/29/2025-annual-review.html",
-      "url": "https://tech.meituan.com/2025/12/29/2025-annual-review.html",
-      "title": "2025 | 美团技术团队热门技术文章汇总",
-      "content_html": "感谢这一路上，每一位伙伴的并肩前行与坚定支持。今年，美团技术团队在持续深耕中涌现出不少值得分享的实践与开源产品&服务。我们从中精选了18篇具有代表性的技术文章，内容涵盖大模型开源、研发技能、产品服务三大方向。",
-      "content_text": "感谢这一路上，每一位伙伴的并肩前行与坚定支持。今年，美团技术团队在持续深耕中涌现出不少值得分享的实践与开源产品&服务。我们从中精选了18篇具有代表性的技术文章，内容涵盖大模型开源、研发技能、产品服务三大方向。",
-      "date_published": "2025-12-29T00:00:00.000Z"
-    },
-    {
-      "id": "https://tech.meituan.com/2026/01/12/aaai-2026.html",
-      "url": "https://tech.meituan.com/2026/01/12/aaai-2026.html",
-      "title": "AAAI 2026 | 美团技术团队学术论文精选",
-      "content_html": "AAAI 是人工智能领域顶级的国际学术会议，本文精选了美团技术团队被收录的8篇学术论文（附下载链接），覆盖大模型推理、 退火策略、过程奖励模型、强化学习、视觉文本渲染等多个技术领域，希望这些论文能对大家有所帮助或启发。",
-      "content_text": "AAAI 是人工智能领域顶级的国际学术会议，本文精选了美团技术团队被收录的8篇学术论文（附下载链接），覆盖大模型推理、 退火策略、过程奖励模型、强化学习、视觉文本渲染等多个技术领域，希望这些论文能对大家有所帮助或启发。",
-      "date_published": "2026-01-12T00:00:00.000Z"
-    },
-    {
-      "id": "https://tech.meituan.com/2026/01/13/kuitest-ui.html",
-      "url": "https://tech.meituan.com/2026/01/13/kuitest-ui.html",
-      "title": "KuiTest：基于大模型通识的 UI 交互遍历测试",
-      "content_html": "美团质效技术部联合复旦大学周扬帆教授团队推出 KuiTest——零规则 UI 功能性异常测试工具。KuiTest 通过将“人类预期”直接用作 Test Oracle，解决了长期以来 UI 测试 Oracle 泛化性差的自动化痛点。实验表明，KuiTest 异常召回率达 86%，误报率仅 1.2%，已在执行 21 万+测试用例，发现百余例有效缺陷，大幅降低人工成本并提升测试覆盖率。",
-      "content_text": "美团质效技术部联合复旦大学周扬帆教授团队推出 KuiTest——零规则 UI 功能性异常测试工具。KuiTest 通过将“人类预期”直接用作 Test Oracle，解决了长期以来 UI 测试 Oracle 泛化性差的自动化痛点。实验表明，KuiTest 异常召回率达 86%，误报率仅 1.2%，已在执行 21 万+测试用例，发现百余例有效缺陷，大幅降低人工成本并提升测试覆盖率。",
-      "date_published": "2026-01-13T00:00:00.000Z"
-    },
-    {
-      "id": "https://tech.meituan.com/2026/01/20/longcat-flash-thinking-2601.html",
-      "url": "https://tech.meituan.com/2026/01/20/longcat-flash-thinking-2601.html",
-      "title": "美团 LongCat-Flash-Thinking-2601 发布，工具调用能力登顶开源 SOTA！",
-      "content_html": "美团 LongCat 团队正式对外发布并开源 LongCat-Flash-Thinking-2601。作为已发布的 LongCat-Flash-Thinking 模型的升级版，LongCat-Flash-Thinking-2601 在 Agentic Search（智能体搜索）、Agentic Tool Use（智能体工具调用）、TIR（工具交互推理）等核心评测基准上，均达到开源模型 SOTA 水平。",
-      "content_text": "美团 LongCat 团队正式对外发布并开源 LongCat-Flash-Thinking-2601。作为已发布的 LongCat-Flash-Thinking 模型的升级版，LongCat-Flash-Thinking-2601 在 Agentic Search（智能体搜索）、Agentic Tool Use（智能体工具调用）、TIR（工具交互推理）等核心评测基准上，均达到开源模型 SOTA 水平。",
-      "date_published": "2026-01-20T00:00:00.000Z"
-    },
-    {
-      "id": "https://tech.meituan.com/2026/01/26/evocua.html",
-      "url": "https://tech.meituan.com/2026/01/26/evocua.html",
-      "title": "美团 EvoCUA 刷新开源 SOTA，会用电脑还会持续进化的智能体！",
-      "content_html": "美团技术团队推出了 EvoCUA 模型并在 Github、Huggingface 开源，通过构建可验证数据合成引擎与十万级并发的交互沙盒，将训练范式从传统的“静态轨迹模仿”转变为高效的“经验进化学习”。",
-      "content_text": "美团技术团队推出了 EvoCUA 模型并在 Github、Huggingface 开源，通过构建可验证数据合成引擎与十万级并发的交互沙盒，将训练范式从传统的“静态轨迹模仿”转变为高效的“经验进化学习”。",
-      "date_published": "2026-01-26T00:00:00.000Z"
+      "id": "https://tech.meituan.com/2025/12/05/ai-coding-unit-testing.html",
+      "url": "https://tech.meituan.com/2025/12/05/ai-coding-unit-testing.html",
+      "title": "AI Coding与单元测试的协同进化：从验证到驱动",
+      "content_html": "AI生成代码质量难以把控！本文分享来自美团的技术实践，三大策略破解AI编程痛点。单测快速验证逻辑正确性，安全网保护存量代码演进，TDD模式精准传递需求。告别「看起来没问题」的错觉，构建AI时代的代码质量保障体系。",
+      "content_text": "AI生成代码质量难以把控！本文分享来自美团的技术实践，三大策略破解AI编程痛点。单测快速验证逻辑正确性，安全网保护存量代码演进，TDD模式精准传递需求。告别「看起来没问题」的错觉，构建AI时代的代码质量保障体系。",
+      "date_published": "2025-12-05T00:00:00.000Z"
     }
   ]
 }

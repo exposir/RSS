@@ -6,212 +6,20 @@
   "description": "",
   "items": [
     {
-      "id": "https://www.nytimes.com/2026/01/23/world/europe/julio-iglesias-abuse-investigation.html",
-      "url": "https://www.nytimes.com/2026/01/23/world/europe/julio-iglesias-abuse-investigation.html",
-      "title": "Prosecutors in Spain End Investigation Into Julio Iglesias",
-      "content_html": "Two women accused the singer, 82, of abusing them in the Caribbean and filed a complaint in Spain, but Spanish officials said that they did not have jurisdiction over the claim.",
-      "content_text": "Two women accused the singer, 82, of abusing them in the Caribbean and filed a complaint in Spain, but Spanish officials said that they did not have jurisdiction over the claim.",
-      "date_published": "2026-01-23T18:17:18.000Z"
+      "id": "https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html",
+      "url": "https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html",
+      "title": "Board of Peace Set to Hand Trump Sweeping Powers Over Gaza",
+      "content_html": "A draft resolution revealed some of the plans for the new international body, which met for the first time last week amid criticism from some U.S. allies.",
+      "content_text": "A draft resolution revealed some of the plans for the new international body, which met for the first time last week amid criticism from some U.S. allies.",
+      "date_published": "2026-01-27T18:03:37.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/23/world/europe/trump-putin-russia-us-greenland.html",
-      "url": "https://www.nytimes.com/2026/01/23/world/europe/trump-putin-russia-us-greenland.html",
-      "title": "Trump’s Push to Take Greenland Holds Promise and Peril for Putin",
-      "content_html": "If the United States under President Trump starts acting as if it’s Russia, where does that leave President Vladimir V. Putin?",
-      "content_text": "If the United States under President Trump starts acting as if it’s Russia, where does that leave President Vladimir V. Putin?",
-      "date_published": "2026-01-23T18:57:37.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/23/world/africa/nelson-mandela-memorabilia-auction.html",
-      "url": "https://www.nytimes.com/2026/01/23/world/africa/nelson-mandela-memorabilia-auction.html",
-      "title": "Court Dismisses Bid to Prevent Auction of Nelson Mandela Memorabilia",
-      "content_html": "The anti-apartheid leader’s eldest daughter won the right to sell some of his personal items after a two-year legal battle.",
-      "content_text": "The anti-apartheid leader’s eldest daughter won the right to sell some of his personal items after a two-year legal battle.",
-      "date_published": "2026-01-23T19:35:52.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/23/us/politics/trumps-greenland-power.html",
-      "url": "https://www.nytimes.com/2026/01/23/us/politics/trumps-greenland-power.html",
-      "title": "Trump’s Turnabout on Greenland Shows the Limits of His Coercive Powers",
-      "content_html": "President Trump’s faith in his ability to wring concessions by taking maximalist positions was on full display this week. So were the costs, as he splintered NATO and then undercut his credibility by climbing down from his threats.",
-      "content_text": "President Trump’s faith in his ability to wring concessions by taking maximalist positions was on full display this week. So were the costs, as he splintered NATO and then undercut his credibility by climbing down from his threats.",
-      "date_published": "2026-01-23T22:08:28.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/23/world/americas/venezuela-trump-ice-deportation-flights.html",
-      "url": "https://www.nytimes.com/2026/01/23/world/americas/venezuela-trump-ice-deportation-flights.html",
-      "title": "Under Pressure from Trump, Venezuela Agrees to Accept More U.S. Deportation Flights",
-      "content_html": "Venezuela’s interim government, in another sign of its willingness to placate the Trump administration, is receiving more deportation flights. Three flights arrived this week.",
-      "content_text": "Venezuela’s interim government, in another sign of its willingness to placate the Trump administration, is receiving more deportation flights. Three flights arrived this week.",
-      "date_published": "2026-01-24T00:26:30.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/23/world/europe/denmark-greenland-prime-minister-trump.html",
-      "url": "https://www.nytimes.com/2026/01/23/world/europe/denmark-greenland-prime-minister-trump.html",
-      "title": "Prime Minister Mette Frederiksen of Denmark Visits Greenland",
-      "content_html": "The trip by Prime Minister Mette Frederiksen to the Danish territory came amid pressure from President Trump and appeared to have been meant as reassurance to Greenlanders.",
-      "content_text": "The trip by Prime Minister Mette Frederiksen to the Danish territory came amid pressure from President Trump and appeared to have been meant as reassurance to Greenlanders.",
-      "date_published": "2026-01-23T21:53:15.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/23/us/politics/military-western-hemisphere-leaders.html",
-      "url": "https://www.nytimes.com/2026/01/23/us/politics/military-western-hemisphere-leaders.html",
-      "title": "Joint Chiefs Chairman Issues Rare Invitation to Foreign Military Heads",
-      "content_html": "Top military leaders from 34 countries plan to discuss improving efforts in the Western Hemisphere to fight drug trafficking and transnational criminal organizations.",
-      "content_text": "Top military leaders from 34 countries plan to discuss improving efforts in the Western Hemisphere to fight drug trafficking and transnational criminal organizations.",
-      "date_published": "2026-01-23T23:03:53.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/23/world/europe/russia-jails-american-sailor-chuck-zimmerman.html",
-      "url": "https://www.nytimes.com/2026/01/23/world/europe/russia-jails-american-sailor-chuck-zimmerman.html",
-      "title": "Russia Jails U.S. Navy Veteran for Five Years",
-      "content_html": "Charles Wayne Zimmerman, who had been fulfilling his dream to sail around the world, appears to be the latest American imprisoned as part of Russia’s “hostage diplomacy.”",
-      "content_text": "Charles Wayne Zimmerman, who had been fulfilling his dream to sail around the world, appears to be the latest American imprisoned as part of Russia’s “hostage diplomacy.”",
-      "date_published": "2026-01-23T23:07:26.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/europe/sovereignty-european-union-nato.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/europe/sovereignty-european-union-nato.html",
-      "title": "What Europe Learned From the Greenland Crisis",
-      "content_html": "Territorial integrity is a core tenet of Europe that is at risk from Russian and American imperialism. Brussels has fought back.",
-      "content_text": "Territorial integrity is a core tenet of Europe that is at risk from Russian and American imperialism. Brussels has fought back.",
-      "date_published": "2026-01-24T08:49:49.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/asia/crypto-innovation-afghanistan.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/asia/crypto-innovation-afghanistan.html",
-      "title": "An Unlikely Source of Crypto Innovation: Afghanistan",
-      "content_html": "The repressive Taliban government is suspicious of the internet. But a start-up in the country is building blockchain-based tools to transform humanitarian aid.",
-      "content_text": "The repressive Taliban government is suspicious of the internet. But a start-up in the country is building blockchain-based tools to transform humanitarian aid.",
-      "date_published": "2026-01-24T05:01:08.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
-      "title": "Xi’s Purge of China’s Military Brings Its Top General Down",
-      "content_html": "The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks “the total annihilation of the high command,” one analyst said.",
-      "content_text": "The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks “the total annihilation of the high command,” one analyst said.",
-      "date_published": "2026-01-25T16:22:02.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/australia/australia-shark-attack-boy-dead.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/australia/australia-shark-attack-boy-dead.html",
-      "title": "Australian Boy, 12, Dies After Shark Attack Near Sydney",
-      "content_html": "Nico Antic died in a hospital after a shark bit him in the legs, the first of several recent shark attacks along Australia’s southeastern coast.",
-      "content_text": "Nico Antic died in a hospital after a shark bit him in the legs, the first of several recent shark attacks along Australia’s southeastern coast.",
-      "date_published": "2026-01-24T09:00:39.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/middleeast/iran-protests-ayatollah-revolutionary-guards.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/middleeast/iran-protests-ayatollah-revolutionary-guards.html",
-      "title": "Iran’s Leadership Stumbles After War and Unrest",
-      "content_html": "The bloody crackdown offers hints about growing tensions inside the country’s ruling system as the cleric’s rule comes under strain.",
-      "content_text": "The bloody crackdown offers hints about growing tensions inside the country’s ruling system as the cleric’s rule comes under strain.",
-      "date_published": "2026-01-24T15:50:28.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/americas/venezuela-arrests-repression.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/americas/venezuela-arrests-repression.html",
-      "title": "How a Water Balloon Fight in Venezuela Ended in Charges of Treason",
-      "content_html": "Venezuela’s interim government has been praised by President Trump. It has also maintained its state security apparatus to stamp out any perceived dissent.",
-      "content_text": "Venezuela’s interim government has been praised by President Trump. It has also maintained its state security apparatus to stamp out any perceived dissent.",
-      "date_published": "2026-01-24T10:01:06.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/europe/trump-uk-changes.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/europe/trump-uk-changes.html",
-      "title": "How a Year of Trump Changed Britain",
-      "content_html": "Prime Minister Keir Starmer stood firm over Greenland. But his center-left government and the country as a whole have been buffeted by President Trump.",
-      "content_text": "Prime Minister Keir Starmer stood firm over Greenland. But his center-left government and the country as a whole have been buffeted by President Trump.",
-      "date_published": "2026-01-24T10:01:53.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/us/politics/trump-china-russia-greenland.html",
-      "url": "https://www.nytimes.com/2026/01/24/us/politics/trump-china-russia-greenland.html",
-      "title": "Despite Trump’s Words, China and Russia Are Not Threatening Greenland",
-      "content_html": "U.S. and European officials say they are unaware of any intelligence that shows China and Russia are endangering the island, which is protected by the NATO security umbrella.",
-      "content_text": "U.S. and European officials say they are unaware of any intelligence that shows China and Russia are endangering the island, which is protected by the NATO security umbrella.",
-      "date_published": "2026-01-24T13:19:05.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/insider/how-a-photographer-stumbled-upon-a-key-picture-of-the-spain-train-crash.html",
-      "url": "https://www.nytimes.com/2026/01/24/insider/how-a-photographer-stumbled-upon-a-key-picture-of-the-spain-train-crash.html",
-      "title": "How a Photographer Stumbled Upon a Key Picture of the Spain Train Crash",
-      "content_html": "While seeking views of the disaster, a photographer on assignment for The Times captured an image of wreckage that could provide clues to what went wrong.",
-      "content_text": "While seeking views of the disaster, a photographer on assignment for The Times captured an image of wreckage that could provide clues to what went wrong.",
-      "date_published": "2026-01-24T10:02:13.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/canada/carney-trump-us-greenland.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/canada/carney-trump-us-greenland.html",
-      "title": "Mark Carney Takes On Donald Trump and Emerges as a Global Political Star",
-      "content_html": "At the World Economic Forum in Davos, Switzerland, the prime minister was praised for his blunt talk about the president’s irrevocable “rupture” in the world order.",
-      "content_text": "At the World Economic Forum in Davos, Switzerland, the prime minister was praised for his blunt talk about the president’s irrevocable “rupture” in the world order.",
-      "date_published": "2026-01-24T11:00:08.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/briefing/cold-comfort.html",
-      "url": "https://www.nytimes.com/2026/01/24/briefing/cold-comfort.html",
-      "title": "Cold Comfort",
-      "content_html": "How can the perpetually shivering warm up to winter?",
-      "content_text": "How can the perpetually shivering warm up to winter?",
-      "date_published": "2026-01-24T18:32:55.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
-      "title": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
-      "content_html": "President Volodymyr Zelensky of Ukraine said that rare three-way negotiations between Ukrainian, Russian and American teams in Abu Dhabi had been “constructive.”",
-      "content_text": "President Volodymyr Zelensky of Ukraine said that rare three-way negotiations between Ukrainian, Russian and American teams in Abu Dhabi had been “constructive.”",
-      "date_published": "2026-01-24T22:18:30.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
-      "title": "Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues",
-      "content_html": "President Trump said he would impose tariffs if Canada made “a deal with China,” though there is no sign that those countries are discussing a broad trade agreement.",
-      "content_text": "President Trump said he would impose tariffs if Canada made “a deal with China,” though there is no sign that those countries are discussing a broad trade agreement.",
-      "date_published": "2026-01-25T02:26:47.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/world/middleeast/syria-kurdish-militia.html",
-      "url": "https://www.nytimes.com/2026/01/24/world/middleeast/syria-kurdish-militia.html",
-      "title": "Syria Announces Cease-Fire Extension, Hours After Truce With Kurds Expired",
-      "content_html": "Syria’s government and Kurdish-led forces in the country’s northeast have clashed as President Ahmed al-Sharaa seeks to extend his authority across the entire country.",
-      "content_text": "Syria’s government and Kurdish-led forces in the country’s northeast have clashed as President Ahmed al-Sharaa seeks to extend his authority across the entire country.",
-      "date_published": "2026-01-24T21:52:39.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/24/us/william-h-foege-dead.html",
-      "url": "https://www.nytimes.com/2026/01/24/us/william-h-foege-dead.html",
-      "title": "William H. Foege, Key Figure in the Eradication of Smallpox, Dies at 89",
-      "content_html": "His containment strategy helped wipe out the disease in the 1970s, one of the world’s greatest public health triumphs. He also led the C.D.C. and promoted childhood vaccination worldwide.",
-      "content_text": "His containment strategy helped wipe out the disease in the 1970s, one of the world’s greatest public health triumphs. He also led the C.D.C. and promoted childhood vaccination worldwide.",
-      "date_published": "2026-01-25T02:21:41.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
-      "url": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
-      "title": "The Podcaster Poking at France’s Biggest Secrets",
-      "content_html": "Philippe Collin makes intricate series that are reshaping how French people understand uncomfortable parts of their history. Millions are tuning in.",
-      "content_text": "Philippe Collin makes intricate series that are reshaping how French people understand uncomfortable parts of their history. Millions are tuning in.",
-      "date_published": "2026-01-25T16:04:34.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
-      "url": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
-      "title": "The Woman Who Stands Between Donald Trump and Greenland",
-      "content_html": "Mette Frederiksen, Denmark’s leader, has taken big risks standing up to Mr. Trump. It might just be working — for now.",
-      "content_text": "Mette Frederiksen, Denmark’s leader, has taken big risks standing up to Mr. Trump. It might just be working — for now.",
-      "date_published": "2026-01-26T06:47:20.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
-      "url": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
-      "title": "Why Japan’s Leader Won’t Enter the Male-Dominated Sumo Ring",
-      "content_html": "Sanae Takaichi, the first woman to lead Japan as prime minister, skipped a sumo awards ceremony, reflecting her cautious approach to gender issues.",
-      "content_text": "Sanae Takaichi, the first woman to lead Japan as prime minister, skipped a sumo awards ceremony, reflecting her cautious approach to gender issues.",
-      "date_published": "2026-01-25T15:49:56.000Z"
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
+      "title": "Troop Casualties in Ukraine War Near 2 Million, Study Finds",
+      "content_html": "The number of deaths, injuries and missing is approaching a grim milestone after nearly four years of fighting.",
+      "content_text": "The number of deaths, injuries and missing is approaching a grim milestone after nearly four years of fighting.",
+      "date_published": "2026-01-27T17:54:10.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-how-crackdown-was-done.html",
@@ -222,116 +30,12 @@
       "date_published": "2026-01-27T17:19:44.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
-      "url": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
-      "title": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
-      "content_html": "Even as dozens of political prisoners have been freed, at least 66 people taken by state authorities and never heard from again remain missing, relatives and rights groups say.",
-      "content_text": "Even as dozens of political prisoners have been freed, at least 66 people taken by state authorities and never heard from again remain missing, relatives and rights groups say.",
-      "date_published": "2026-01-26T05:04:27.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-internet.html",
-      "url": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-internet.html",
-      "title": "Amid Two-Week Internet Blackout, Some Iranians Are Getting Back Online",
-      "content_html": "Many in Iran are gaining brief and unexplained windows of online connectivity, offering a widening glimpse of the extent of the government crackdown.",
-      "content_text": "Many in Iran are gaining brief and unexplained windows of online connectivity, offering a widening glimpse of the extent of the government crackdown.",
-      "date_published": "2026-01-25T17:36:02.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/25/world/minneapolis-ice-shooting-press-freedom.html",
-      "url": "https://www.nytimes.com/2026/01/25/world/minneapolis-ice-shooting-press-freedom.html",
-      "title": "Another Fatal Shooting in Minneapolis",
-      "content_html": "Events like this, where eyewitness video and independent reporting contradict the government’s account, highlight the importance of press freedom.",
-      "content_text": "Events like this, where eyewitness video and independent reporting contradict the government’s account, highlight the importance of press freedom.",
-      "date_published": "2026-01-26T05:31:09.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/25/world/asia/philippines-ferry-sinks-basilan.html",
-      "url": "https://www.nytimes.com/2026/01/25/world/asia/philippines-ferry-sinks-basilan.html",
-      "title": "At Least 18 Dead After Ferry Carrying 350 Sinks in the Philippines",
-      "content_html": "Two dozen people were still missing after the vessel sank early Monday morning in Basilan Province.",
-      "content_text": "Two dozen people were still missing after the vessel sank early Monday morning in Basilan Province.",
-      "date_published": "2026-01-26T14:17:36.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/25/world/americas/toronto-snow-winter-storm.html",
-      "url": "https://www.nytimes.com/2026/01/25/world/americas/toronto-snow-winter-storm.html",
-      "title": "Winter Storm Pummels Toronto With Record Snowfall",
-      "content_html": "Canada’s biggest city got roughly 22 inches, and giant snow banks are unlikely to melt soon because of colder than usual temperatures.",
-      "content_text": "Canada’s biggest city got roughly 22 inches, and giant snow banks are unlikely to melt soon because of colder than usual temperatures.",
-      "date_published": "2026-01-26T18:46:45.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/americas/mexico-shooting-salamanca-cartels.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/americas/mexico-shooting-salamanca-cartels.html",
-      "title": "Gunmen Kill 11 After Soccer Match in Mexico",
-      "content_html": "The mass shooting occurred in an area fought over by drug cartels, just as the Mexican government has sought to show Washington that it is combating criminal groups.",
-      "content_text": "The mass shooting occurred in an area fought over by drug cartels, just as the Mexican government has sought to show Washington that it is combating criminal groups.",
-      "date_published": "2026-01-26T18:12:07.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/business/storm-flight-cancellations-delays.html",
-      "url": "https://www.nytimes.com/2026/01/26/business/storm-flight-cancellations-delays.html",
-      "title": "Thousands of Flights Canceled Monday After Snowstorm",
-      "content_html": "Delays and cancellations persisted a day after more than 11,000 flights were canceled. Airports in the Northeastern U.S. were hit the hardest.",
-      "content_text": "Delays and cancellations persisted a day after more than 11,000 flights were canceled. Airports in the Northeastern U.S. were hit the hardest.",
-      "date_published": "2026-01-26T21:42:32.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/europe/russia-ukraine-war-peace-talks.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/europe/russia-ukraine-war-peace-talks.html",
-      "title": "Russia Says Talks to End War in Ukraine Will Continue",
-      "content_html": "Ukrainian and Russian officials left rare direct talks last weekend in a somewhat optimistic mood. But Russia may be simply stalling for time, analysts said.",
-      "content_text": "Ukrainian and Russian officials left rare direct talks last weekend in a somewhat optimistic mood. But Russia may be simply stalling for time, analysts said.",
-      "date_published": "2026-01-26T17:25:44.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/china-xi-military-purge-israel-hostage-gaza.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/china-xi-military-purge-israel-hostage-gaza.html",
-      "title": "Xi’s Purge of the Chinese Military",
-      "content_html": "The ousting of China’s most senior general has set off fevered speculation.",
-      "content_text": "The ousting of China’s most senior general has set off fevered speculation.",
-      "date_published": "2026-01-27T05:42:45.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/europe/nato-chief-europe-greenland-trump-us.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/europe/nato-chief-europe-greenland-trump-us.html",
-      "title": "NATO Chief Says Europe Is ‘Dreaming’ if It Thinks It Can Defend Itself Without U.S.",
-      "content_html": "Mark Rutte, the secretary general of the alliance, told members of the European Parliament that President Trump was “doing a lot of good stuff.”",
-      "content_text": "Mark Rutte, the secretary general of the alliance, told members of the European Parliament that President Trump was “doing a lot of good stuff.”",
-      "date_published": "2026-01-26T23:30:41.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/asia/japan-pandas-china.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/asia/japan-pandas-china.html",
-      "title": "Chinese Pandas Leave Japanese Zoo",
-      "content_html": "As Japan and China feud, an animal long used in Chinese diplomacy has been summoned back home.",
-      "content_text": "As Japan and China feud, an animal long used in Chinese diplomacy has been summoned back home.",
-      "date_published": "2026-01-26T21:59:41.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/canada/canada-marineland-beluga-whales.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/canada/canada-marineland-beluga-whales.html",
-      "title": "Canada’s Marineland Whales Could Find New Homes in U.S.",
-      "content_html": "Marineland, a closed aquatic park in Ontario, had threatened to euthanize its whales after the government denied an application to send them to China.",
-      "content_text": "Marineland, a closed aquatic park in Ontario, had threatened to euthanize its whales after the government denied an application to send them to China.",
-      "date_published": "2026-01-27T02:29:31.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/us/politics/trump-reports-iran-government.html",
-      "url": "https://www.nytimes.com/2026/01/26/us/politics/trump-reports-iran-government.html",
-      "title": "Trump Briefed on Intelligence Saying Iran’s Government Is Weaker",
-      "content_html": "Protests that erupted late last year shook elements of the Iranian government, according to the reports.",
-      "content_text": "Protests that erupted late last year shook elements of the Iranian government, according to the reports.",
-      "date_published": "2026-01-26T23:44:29.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/27/business/economy/government-debt-bonds.html",
-      "url": "https://www.nytimes.com/2026/01/27/business/economy/government-debt-bonds.html",
-      "title": "Record Debt in the World’s Richest Nations Threatens Global Growth",
-      "content_html": "The cost of borrowing is already choking crucial public spending in many developing economies. Now it’s raising broader alarms.",
-      "content_text": "The cost of borrowing is already choking crucial public spending in many developing economies. Now it’s raising broader alarms.",
-      "date_published": "2026-01-27T14:34:56.000Z"
+      "id": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html",
+      "url": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html",
+      "title": "ICE Agents Will Join Olympics Delegation in Italy. Many Italians are Angry.",
+      "content_html": "The Italian government said it had requested clarification from American diplomats after D.H.S. said that ICE agents would help secure the U.S. Olympic delegation next week in northern Italy.",
+      "content_text": "The Italian government said it had requested clarification from American diplomats after D.H.S. said that ICE agents would help secure the U.S. Olympic delegation next week in northern Italy.",
+      "date_published": "2026-01-27T17:04:12.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/27/us/politics/trinidad-wrongful-death-lawsuit-boat-strike.html",
@@ -350,78 +54,6 @@
       "date_published": "2026-01-27T16:29:55.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
-      "url": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
-      "title": "Troop Casualties in Ukraine War Near 2 Million, Study Finds",
-      "content_html": "The number of deaths, injuries and missing is approaching a grim milestone after nearly four years of fighting.",
-      "content_text": "The number of deaths, injuries and missing is approaching a grim milestone after nearly four years of fighting.",
-      "date_published": "2026-01-27T17:54:10.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html",
-      "url": "https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html",
-      "title": "Board of Peace Set to Hand Trump Sweeping Powers Over Gaza",
-      "content_html": "A draft resolution revealed some of the plans for the new international body, which met for the first time last week amid criticism from some U.S. allies.",
-      "content_text": "A draft resolution revealed some of the plans for the new international body, which met for the first time last week amid criticism from some U.S. allies.",
-      "date_published": "2026-01-27T18:03:37.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/asia/taliban-afghanistan-prisoners.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/asia/taliban-afghanistan-prisoners.html",
-      "title": "The Taliban Say They’re Ready to Release U.S. Prisoners. But Which Ones?",
-      "content_html": "Top Afghan officials say they want two American detainees released “as soon as possible,” but the Trump administration says a third one should be included.",
-      "content_text": "Top Afghan officials say they want two American detainees released “as soon as possible,” but the Trump administration says a third one should be included.",
-      "date_published": "2026-01-26T20:41:34.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/asia/china-xi-zhang-youxia-military.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/asia/china-xi-zhang-youxia-military.html",
-      "title": "In Xi’s China, Top General’s Fall Shows Precariousness of Power",
-      "content_html": "A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping’s military. Now he has been accused of disloyalty to Mr. Xi.",
-      "content_text": "A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping’s military. Now he has been accused of disloyalty to Mr. Xi.",
-      "date_published": "2026-01-26T16:52:35.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
-      "title": "Israel Says It Will Reopen Gaza-Egypt Border Crossing in Days",
-      "content_html": "The Rafah crossing will open at the end of Israel’s search for the remains of the last captive in Gaza.",
-      "content_text": "The Rafah crossing will open at the end of Israel’s search for the remains of the last captive in Gaza.",
-      "date_published": "2026-01-26T22:19:17.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/europe/ukraine-russia-winter-snow-donetsk-dnipro.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/europe/ukraine-russia-winter-snow-donetsk-dnipro.html",
-      "title": "Shift to Drone Fighting in Ukraine War Means No Winter Lull",
-      "content_html": "Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields.",
-      "content_text": "Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields.",
-      "date_published": "2026-01-26T14:37:16.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/americas/venezuela-economy-rodriguez.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/americas/venezuela-economy-rodriguez.html",
-      "title": "In Venezuela, Freeing the Economy, but Nothing Else",
-      "content_html": "Interim leader Delcy Rodríguez is liberalizing the economy without dismantling her predecessor’s repressive apparatus, raising questions about her aims.",
-      "content_text": "Interim leader Delcy Rodríguez is liberalizing the economy without dismantling her predecessor’s repressive apparatus, raising questions about her aims.",
-      "date_published": "2026-01-26T16:22:08.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html",
-      "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
-      "content_html": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
-      "content_text": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
-      "date_published": "2026-01-26T20:50:47.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/26/world/middleeast/gaza-hostage-returned-israel.html",
-      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/gaza-hostage-returned-israel.html",
-      "title": "Israel Recovers Body of Ran Gvili From Gaza, Closing a Chapter",
-      "content_html": "The recovery of Master Sgt. Ran Gvili’s body paves the way for the next stage of the Gaza cease-fire plan, though the path forward is unclear.",
-      "content_text": "The recovery of Master Sgt. Ran Gvili’s body paves the way for the next stage of the Gaza cease-fire plan, though the path forward is unclear.",
-      "date_published": "2026-01-26T23:00:52.000Z"
-    },
-    {
       "id": "https://www.nytimes.com/2026/01/27/world/europe/mette-frederiksen-greenland-us-ally.html",
       "url": "https://www.nytimes.com/2026/01/27/world/europe/mette-frederiksen-greenland-us-ally.html",
       "title": "As Trump Eyes Greenland, Denmark’s Leader Is Unsure How Long U.S. Will Be an Ally",
@@ -430,12 +62,20 @@
       "date_published": "2026-01-27T15:58:22.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html",
-      "url": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html",
-      "title": "ICE Agents Will Join Olympics Delegation in Italy. Many Italians are Angry.",
-      "content_html": "The Italian government said it had requested clarification from American diplomats after D.H.S. said that ICE agents would help secure the U.S. Olympic delegation next week in northern Italy.",
-      "content_text": "The Italian government said it had requested clarification from American diplomats after D.H.S. said that ICE agents would help secure the U.S. Olympic delegation next week in northern Italy.",
-      "date_published": "2026-01-27T17:04:12.000Z"
+      "id": "https://www.nytimes.com/2026/01/27/world/europe/albania-ai-corruption-graft.html",
+      "url": "https://www.nytimes.com/2026/01/27/world/europe/albania-ai-corruption-graft.html",
+      "title": "Albania Created an ‘A.I. Minister’ to Curb Corruption. Then Its Developers Were Accused of Graft.",
+      "content_html": "The Albanian avatar known as Diella, a public anticorruption crusader, has been described as the world’s first government minister created by artificial intelligence.",
+      "content_text": "The Albanian avatar known as Diella, a public anticorruption crusader, has been described as the world’s first government minister created by artificial intelligence.",
+      "date_published": "2026-01-27T15:57:00.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/economy/government-debt-bonds.html",
+      "url": "https://www.nytimes.com/2026/01/27/business/economy/government-debt-bonds.html",
+      "title": "Record Debt in the World’s Richest Nations Threatens Global Growth",
+      "content_html": "The cost of borrowing is already choking crucial public spending in many developing economies. Now it’s raising broader alarms.",
+      "content_text": "The cost of borrowing is already choking crucial public spending in many developing economies. Now it’s raising broader alarms.",
+      "date_published": "2026-01-27T14:34:56.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/27/world/asia/korea-trump-higher-tariff.html",
@@ -446,12 +86,12 @@
       "date_published": "2026-01-27T12:01:27.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/27/world/europe/uk-china-visit-starmer-trade.html",
-      "url": "https://www.nytimes.com/2026/01/27/world/europe/uk-china-visit-starmer-trade.html",
-      "title": "UK Seeks Trade With China Without Triggering Trump’s Fury",
-      "content_html": "Prime Minister Keir Starmer hopes to boost his country’s lagging economy with a trip to Beijing. But he must carefully navigate between two superpowers.",
-      "content_text": "Prime Minister Keir Starmer hopes to boost his country’s lagging economy with a trip to Beijing. But he must carefully navigate between two superpowers.",
-      "date_published": "2026-01-27T05:01:21.000Z"
+      "id": "https://www.nytimes.com/2026/01/27/world/europe/trump-liability-europe-far-right-populists.html",
+      "url": "https://www.nytimes.com/2026/01/27/world/europe/trump-liability-europe-far-right-populists.html",
+      "title": "How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right",
+      "content_html": "Europe’s nationalist leaders once saw President Trump as an ideological ally. Now, as he threatens European sovereignty, they are seeking distance — at least for the moment.",
+      "content_text": "Europe’s nationalist leaders once saw President Trump as an ideological ally. Now, as he threatens European sovereignty, they are seeking distance — at least for the moment.",
+      "date_published": "2026-01-27T10:39:34.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/27/world/asia/myanmar-concert-zat-pwe-war.html",
@@ -462,20 +102,380 @@
       "date_published": "2026-01-27T06:44:52.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/27/world/europe/trump-liability-europe-far-right-populists.html",
-      "url": "https://www.nytimes.com/2026/01/27/world/europe/trump-liability-europe-far-right-populists.html",
-      "title": "How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right",
-      "content_html": "Europe’s nationalist leaders once saw President Trump as an ideological ally. Now, as he threatens European sovereignty, they are seeking distance — at least for the moment.",
-      "content_text": "Europe’s nationalist leaders once saw President Trump as an ideological ally. Now, as he threatens European sovereignty, they are seeking distance — at least for the moment.",
-      "date_published": "2026-01-27T10:39:34.000Z"
+      "id": "https://www.nytimes.com/2026/01/26/world/china-xi-military-purge-israel-hostage-gaza.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/china-xi-military-purge-israel-hostage-gaza.html",
+      "title": "Xi’s Purge of the Chinese Military",
+      "content_html": "The ousting of China’s most senior general has set off fevered speculation.",
+      "content_text": "The ousting of China’s most senior general has set off fevered speculation.",
+      "date_published": "2026-01-27T05:42:45.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/27/world/europe/albania-ai-corruption-graft.html",
-      "url": "https://www.nytimes.com/2026/01/27/world/europe/albania-ai-corruption-graft.html",
-      "title": "Albania Created an ‘A.I. Minister’ to Curb Corruption. Then Its Developers Were Accused of Graft.",
-      "content_html": "The Albanian avatar known as Diella, a public anticorruption crusader, has been described as the world’s first government minister created by artificial intelligence.",
-      "content_text": "The Albanian avatar known as Diella, a public anticorruption crusader, has been described as the world’s first government minister created by artificial intelligence.",
-      "date_published": "2026-01-27T15:57:00.000Z"
+      "id": "https://www.nytimes.com/2026/01/27/world/europe/uk-china-visit-starmer-trade.html",
+      "url": "https://www.nytimes.com/2026/01/27/world/europe/uk-china-visit-starmer-trade.html",
+      "title": "UK Seeks Trade With China Without Triggering Trump’s Fury",
+      "content_html": "Prime Minister Keir Starmer hopes to boost his country’s lagging economy with a trip to Beijing. But he must carefully navigate between two superpowers.",
+      "content_text": "Prime Minister Keir Starmer hopes to boost his country’s lagging economy with a trip to Beijing. But he must carefully navigate between two superpowers.",
+      "date_published": "2026-01-27T05:01:21.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/canada/canada-marineland-beluga-whales.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/canada/canada-marineland-beluga-whales.html",
+      "title": "Canada’s Marineland Whales Could Find New Homes in U.S.",
+      "content_html": "Marineland, a closed aquatic park in Ontario, had threatened to euthanize its whales after the government denied an application to send them to China.",
+      "content_text": "Marineland, a closed aquatic park in Ontario, had threatened to euthanize its whales after the government denied an application to send them to China.",
+      "date_published": "2026-01-27T02:29:31.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/us/politics/trump-reports-iran-government.html",
+      "url": "https://www.nytimes.com/2026/01/26/us/politics/trump-reports-iran-government.html",
+      "title": "Trump Briefed on Intelligence Saying Iran’s Government Is Weaker",
+      "content_html": "Protests that erupted late last year shook elements of the Iranian government, according to the reports.",
+      "content_text": "Protests that erupted late last year shook elements of the Iranian government, according to the reports.",
+      "date_published": "2026-01-26T23:44:29.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/europe/nato-chief-europe-greenland-trump-us.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/europe/nato-chief-europe-greenland-trump-us.html",
+      "title": "NATO Chief Says Europe Is ‘Dreaming’ if It Thinks It Can Defend Itself Without U.S.",
+      "content_html": "Mark Rutte, the secretary general of the alliance, told members of the European Parliament that President Trump was “doing a lot of good stuff.”",
+      "content_text": "Mark Rutte, the secretary general of the alliance, told members of the European Parliament that President Trump was “doing a lot of good stuff.”",
+      "date_published": "2026-01-26T23:30:41.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/middleeast/gaza-hostage-returned-israel.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/gaza-hostage-returned-israel.html",
+      "title": "Israel Recovers Body of Ran Gvili From Gaza, Closing a Chapter",
+      "content_html": "The recovery of Master Sgt. Ran Gvili’s body paves the way for the next stage of the Gaza cease-fire plan, though the path forward is unclear.",
+      "content_text": "The recovery of Master Sgt. Ran Gvili’s body paves the way for the next stage of the Gaza cease-fire plan, though the path forward is unclear.",
+      "date_published": "2026-01-26T23:00:52.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
+      "title": "Israel Says It Will Reopen Gaza-Egypt Border Crossing in Days",
+      "content_html": "The Rafah crossing will open at the end of Israel’s search for the remains of the last captive in Gaza.",
+      "content_text": "The Rafah crossing will open at the end of Israel’s search for the remains of the last captive in Gaza.",
+      "date_published": "2026-01-26T22:19:17.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/asia/japan-pandas-china.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/asia/japan-pandas-china.html",
+      "title": "Chinese Pandas Leave Japanese Zoo",
+      "content_html": "As Japan and China feud, an animal long used in Chinese diplomacy has been summoned back home.",
+      "content_text": "As Japan and China feud, an animal long used in Chinese diplomacy has been summoned back home.",
+      "date_published": "2026-01-26T21:59:41.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/storm-flight-cancellations-delays.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/storm-flight-cancellations-delays.html",
+      "title": "Thousands of Flights Canceled Monday After Snowstorm",
+      "content_html": "Delays and cancellations persisted a day after more than 11,000 flights were canceled. Airports in the Northeastern U.S. were hit the hardest.",
+      "content_text": "Delays and cancellations persisted a day after more than 11,000 flights were canceled. Airports in the Northeastern U.S. were hit the hardest.",
+      "date_published": "2026-01-26T21:42:32.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html",
+      "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
+      "content_html": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
+      "content_text": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
+      "date_published": "2026-01-26T20:50:47.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/asia/taliban-afghanistan-prisoners.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/asia/taliban-afghanistan-prisoners.html",
+      "title": "The Taliban Say They’re Ready to Release U.S. Prisoners. But Which Ones?",
+      "content_html": "Top Afghan officials say they want two American detainees released “as soon as possible,” but the Trump administration says a third one should be included.",
+      "content_text": "Top Afghan officials say they want two American detainees released “as soon as possible,” but the Trump administration says a third one should be included.",
+      "date_published": "2026-01-26T20:41:34.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/world/americas/toronto-snow-winter-storm.html",
+      "url": "https://www.nytimes.com/2026/01/25/world/americas/toronto-snow-winter-storm.html",
+      "title": "Winter Storm Pummels Toronto With Record Snowfall",
+      "content_html": "Canada’s biggest city got roughly 22 inches, and giant snow banks are unlikely to melt soon because of colder than usual temperatures.",
+      "content_text": "Canada’s biggest city got roughly 22 inches, and giant snow banks are unlikely to melt soon because of colder than usual temperatures.",
+      "date_published": "2026-01-26T18:46:45.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/americas/mexico-shooting-salamanca-cartels.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/americas/mexico-shooting-salamanca-cartels.html",
+      "title": "Gunmen Kill 11 After Soccer Match in Mexico",
+      "content_html": "The mass shooting occurred in an area fought over by drug cartels, just as the Mexican government has sought to show Washington that it is combating criminal groups.",
+      "content_text": "The mass shooting occurred in an area fought over by drug cartels, just as the Mexican government has sought to show Washington that it is combating criminal groups.",
+      "date_published": "2026-01-26T18:12:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/europe/russia-ukraine-war-peace-talks.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/europe/russia-ukraine-war-peace-talks.html",
+      "title": "Russia Says Talks to End War in Ukraine Will Continue",
+      "content_html": "Ukrainian and Russian officials left rare direct talks last weekend in a somewhat optimistic mood. But Russia may be simply stalling for time, analysts said.",
+      "content_text": "Ukrainian and Russian officials left rare direct talks last weekend in a somewhat optimistic mood. But Russia may be simply stalling for time, analysts said.",
+      "date_published": "2026-01-26T17:25:44.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/asia/china-xi-zhang-youxia-military.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/asia/china-xi-zhang-youxia-military.html",
+      "title": "In Xi’s China, Top General’s Fall Shows Precariousness of Power",
+      "content_html": "A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping’s military. Now he has been accused of disloyalty to Mr. Xi.",
+      "content_text": "A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping’s military. Now he has been accused of disloyalty to Mr. Xi.",
+      "date_published": "2026-01-26T16:52:35.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/americas/venezuela-economy-rodriguez.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/americas/venezuela-economy-rodriguez.html",
+      "title": "In Venezuela, Freeing the Economy, but Nothing Else",
+      "content_html": "Interim leader Delcy Rodríguez is liberalizing the economy without dismantling her predecessor’s repressive apparatus, raising questions about her aims.",
+      "content_text": "Interim leader Delcy Rodríguez is liberalizing the economy without dismantling her predecessor’s repressive apparatus, raising questions about her aims.",
+      "date_published": "2026-01-26T16:22:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/world/europe/ukraine-russia-winter-snow-donetsk-dnipro.html",
+      "url": "https://www.nytimes.com/2026/01/26/world/europe/ukraine-russia-winter-snow-donetsk-dnipro.html",
+      "title": "Shift to Drone Fighting in Ukraine War Means No Winter Lull",
+      "content_html": "Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields.",
+      "content_text": "Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields.",
+      "date_published": "2026-01-26T14:37:16.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/world/asia/philippines-ferry-sinks-basilan.html",
+      "url": "https://www.nytimes.com/2026/01/25/world/asia/philippines-ferry-sinks-basilan.html",
+      "title": "At Least 18 Dead After Ferry Carrying 350 Sinks in the Philippines",
+      "content_html": "Two dozen people were still missing after the vessel sank early Monday morning in Basilan Province.",
+      "content_text": "Two dozen people were still missing after the vessel sank early Monday morning in Basilan Province.",
+      "date_published": "2026-01-26T14:17:36.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
+      "url": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
+      "title": "The Woman Who Stands Between Donald Trump and Greenland",
+      "content_html": "Mette Frederiksen, Denmark’s leader, has taken big risks standing up to Mr. Trump. It might just be working — for now.",
+      "content_text": "Mette Frederiksen, Denmark’s leader, has taken big risks standing up to Mr. Trump. It might just be working — for now.",
+      "date_published": "2026-01-26T06:47:20.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/world/minneapolis-ice-shooting-press-freedom.html",
+      "url": "https://www.nytimes.com/2026/01/25/world/minneapolis-ice-shooting-press-freedom.html",
+      "title": "Another Fatal Shooting in Minneapolis",
+      "content_html": "Events like this, where eyewitness video and independent reporting contradict the government’s account, highlight the importance of press freedom.",
+      "content_text": "Events like this, where eyewitness video and independent reporting contradict the government’s account, highlight the importance of press freedom.",
+      "date_published": "2026-01-26T05:31:09.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
+      "url": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
+      "title": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
+      "content_html": "Even as dozens of political prisoners have been freed, at least 66 people taken by state authorities and never heard from again remain missing, relatives and rights groups say.",
+      "content_text": "Even as dozens of political prisoners have been freed, at least 66 people taken by state authorities and never heard from again remain missing, relatives and rights groups say.",
+      "date_published": "2026-01-26T05:04:27.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-internet.html",
+      "url": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-internet.html",
+      "title": "Amid Two-Week Internet Blackout, Some Iranians Are Getting Back Online",
+      "content_html": "Many in Iran are gaining brief and unexplained windows of online connectivity, offering a widening glimpse of the extent of the government crackdown.",
+      "content_text": "Many in Iran are gaining brief and unexplained windows of online connectivity, offering a widening glimpse of the extent of the government crackdown.",
+      "date_published": "2026-01-25T17:36:02.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
+      "title": "Xi’s Purge of China’s Military Brings Its Top General Down",
+      "content_html": "The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks “the total annihilation of the high command,” one analyst said.",
+      "content_text": "The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks “the total annihilation of the high command,” one analyst said.",
+      "date_published": "2026-01-25T16:22:02.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
+      "url": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
+      "title": "The Podcaster Poking at France’s Biggest Secrets",
+      "content_html": "Philippe Collin makes intricate series that are reshaping how French people understand uncomfortable parts of their history. Millions are tuning in.",
+      "content_text": "Philippe Collin makes intricate series that are reshaping how French people understand uncomfortable parts of their history. Millions are tuning in.",
+      "date_published": "2026-01-25T16:04:34.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
+      "url": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
+      "title": "Why Japan’s Leader Won’t Enter the Male-Dominated Sumo Ring",
+      "content_html": "Sanae Takaichi, the first woman to lead Japan as prime minister, skipped a sumo awards ceremony, reflecting her cautious approach to gender issues.",
+      "content_text": "Sanae Takaichi, the first woman to lead Japan as prime minister, skipped a sumo awards ceremony, reflecting her cautious approach to gender issues.",
+      "date_published": "2026-01-25T15:49:56.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
+      "title": "Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues",
+      "content_html": "President Trump said he would impose tariffs if Canada made “a deal with China,” though there is no sign that those countries are discussing a broad trade agreement.",
+      "content_text": "President Trump said he would impose tariffs if Canada made “a deal with China,” though there is no sign that those countries are discussing a broad trade agreement.",
+      "date_published": "2026-01-25T02:26:47.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/us/william-h-foege-dead.html",
+      "url": "https://www.nytimes.com/2026/01/24/us/william-h-foege-dead.html",
+      "title": "William H. Foege, Key Figure in the Eradication of Smallpox, Dies at 89",
+      "content_html": "His containment strategy helped wipe out the disease in the 1970s, one of the world’s greatest public health triumphs. He also led the C.D.C. and promoted childhood vaccination worldwide.",
+      "content_text": "His containment strategy helped wipe out the disease in the 1970s, one of the world’s greatest public health triumphs. He also led the C.D.C. and promoted childhood vaccination worldwide.",
+      "date_published": "2026-01-25T02:21:41.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
+      "title": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
+      "content_html": "President Volodymyr Zelensky of Ukraine said that rare three-way negotiations between Ukrainian, Russian and American teams in Abu Dhabi had been “constructive.”",
+      "content_text": "President Volodymyr Zelensky of Ukraine said that rare three-way negotiations between Ukrainian, Russian and American teams in Abu Dhabi had been “constructive.”",
+      "date_published": "2026-01-24T22:18:30.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/middleeast/syria-kurdish-militia.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/middleeast/syria-kurdish-militia.html",
+      "title": "Syria Announces Cease-Fire Extension, Hours After Truce With Kurds Expired",
+      "content_html": "Syria’s government and Kurdish-led forces in the country’s northeast have clashed as President Ahmed al-Sharaa seeks to extend his authority across the entire country.",
+      "content_text": "Syria’s government and Kurdish-led forces in the country’s northeast have clashed as President Ahmed al-Sharaa seeks to extend his authority across the entire country.",
+      "date_published": "2026-01-24T21:52:39.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/briefing/cold-comfort.html",
+      "url": "https://www.nytimes.com/2026/01/24/briefing/cold-comfort.html",
+      "title": "Cold Comfort",
+      "content_html": "How can the perpetually shivering warm up to winter?",
+      "content_text": "How can the perpetually shivering warm up to winter?",
+      "date_published": "2026-01-24T18:32:55.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/middleeast/iran-protests-ayatollah-revolutionary-guards.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/middleeast/iran-protests-ayatollah-revolutionary-guards.html",
+      "title": "Iran’s Leadership Stumbles After War and Unrest",
+      "content_html": "The bloody crackdown offers hints about growing tensions inside the country’s ruling system as the cleric’s rule comes under strain.",
+      "content_text": "The bloody crackdown offers hints about growing tensions inside the country’s ruling system as the cleric’s rule comes under strain.",
+      "date_published": "2026-01-24T15:50:28.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/us/politics/trump-china-russia-greenland.html",
+      "url": "https://www.nytimes.com/2026/01/24/us/politics/trump-china-russia-greenland.html",
+      "title": "Despite Trump’s Words, China and Russia Are Not Threatening Greenland",
+      "content_html": "U.S. and European officials say they are unaware of any intelligence that shows China and Russia are endangering the island, which is protected by the NATO security umbrella.",
+      "content_text": "U.S. and European officials say they are unaware of any intelligence that shows China and Russia are endangering the island, which is protected by the NATO security umbrella.",
+      "date_published": "2026-01-24T13:19:05.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/canada/carney-trump-us-greenland.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/canada/carney-trump-us-greenland.html",
+      "title": "Mark Carney Takes On Donald Trump and Emerges as a Global Political Star",
+      "content_html": "At the World Economic Forum in Davos, Switzerland, the prime minister was praised for his blunt talk about the president’s irrevocable “rupture” in the world order.",
+      "content_text": "At the World Economic Forum in Davos, Switzerland, the prime minister was praised for his blunt talk about the president’s irrevocable “rupture” in the world order.",
+      "date_published": "2026-01-24T11:00:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/insider/how-a-photographer-stumbled-upon-a-key-picture-of-the-spain-train-crash.html",
+      "url": "https://www.nytimes.com/2026/01/24/insider/how-a-photographer-stumbled-upon-a-key-picture-of-the-spain-train-crash.html",
+      "title": "How a Photographer Stumbled Upon a Key Picture of the Spain Train Crash",
+      "content_html": "While seeking views of the disaster, a photographer on assignment for The Times captured an image of wreckage that could provide clues to what went wrong.",
+      "content_text": "While seeking views of the disaster, a photographer on assignment for The Times captured an image of wreckage that could provide clues to what went wrong.",
+      "date_published": "2026-01-24T10:02:13.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/europe/trump-uk-changes.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/europe/trump-uk-changes.html",
+      "title": "How a Year of Trump Changed Britain",
+      "content_html": "Prime Minister Keir Starmer stood firm over Greenland. But his center-left government and the country as a whole have been buffeted by President Trump.",
+      "content_text": "Prime Minister Keir Starmer stood firm over Greenland. But his center-left government and the country as a whole have been buffeted by President Trump.",
+      "date_published": "2026-01-24T10:01:53.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/americas/venezuela-arrests-repression.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/americas/venezuela-arrests-repression.html",
+      "title": "How a Water Balloon Fight in Venezuela Ended in Charges of Treason",
+      "content_html": "Venezuela’s interim government has been praised by President Trump. It has also maintained its state security apparatus to stamp out any perceived dissent.",
+      "content_text": "Venezuela’s interim government has been praised by President Trump. It has also maintained its state security apparatus to stamp out any perceived dissent.",
+      "date_published": "2026-01-24T10:01:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/australia/australia-shark-attack-boy-dead.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/australia/australia-shark-attack-boy-dead.html",
+      "title": "Australian Boy, 12, Dies After Shark Attack Near Sydney",
+      "content_html": "Nico Antic died in a hospital after a shark bit him in the legs, the first of several recent shark attacks along Australia’s southeastern coast.",
+      "content_text": "Nico Antic died in a hospital after a shark bit him in the legs, the first of several recent shark attacks along Australia’s southeastern coast.",
+      "date_published": "2026-01-24T09:00:39.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/europe/sovereignty-european-union-nato.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/europe/sovereignty-european-union-nato.html",
+      "title": "What Europe Learned From the Greenland Crisis",
+      "content_html": "Territorial integrity is a core tenet of Europe that is at risk from Russian and American imperialism. Brussels has fought back.",
+      "content_text": "Territorial integrity is a core tenet of Europe that is at risk from Russian and American imperialism. Brussels has fought back.",
+      "date_published": "2026-01-24T08:49:49.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/world/asia/crypto-innovation-afghanistan.html",
+      "url": "https://www.nytimes.com/2026/01/24/world/asia/crypto-innovation-afghanistan.html",
+      "title": "An Unlikely Source of Crypto Innovation: Afghanistan",
+      "content_html": "The repressive Taliban government is suspicious of the internet. But a start-up in the country is building blockchain-based tools to transform humanitarian aid.",
+      "content_text": "The repressive Taliban government is suspicious of the internet. But a start-up in the country is building blockchain-based tools to transform humanitarian aid.",
+      "date_published": "2026-01-24T05:01:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/world/americas/venezuela-trump-ice-deportation-flights.html",
+      "url": "https://www.nytimes.com/2026/01/23/world/americas/venezuela-trump-ice-deportation-flights.html",
+      "title": "Under Pressure from Trump, Venezuela Agrees to Accept More U.S. Deportation Flights",
+      "content_html": "Venezuela’s interim government, in another sign of its willingness to placate the Trump administration, is receiving more deportation flights. Three flights arrived this week.",
+      "content_text": "Venezuela’s interim government, in another sign of its willingness to placate the Trump administration, is receiving more deportation flights. Three flights arrived this week.",
+      "date_published": "2026-01-24T00:26:30.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/world/europe/russia-jails-american-sailor-chuck-zimmerman.html",
+      "url": "https://www.nytimes.com/2026/01/23/world/europe/russia-jails-american-sailor-chuck-zimmerman.html",
+      "title": "Russia Jails U.S. Navy Veteran for Five Years",
+      "content_html": "Charles Wayne Zimmerman, who had been fulfilling his dream to sail around the world, appears to be the latest American imprisoned as part of Russia’s “hostage diplomacy.”",
+      "content_text": "Charles Wayne Zimmerman, who had been fulfilling his dream to sail around the world, appears to be the latest American imprisoned as part of Russia’s “hostage diplomacy.”",
+      "date_published": "2026-01-23T23:07:26.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/us/politics/military-western-hemisphere-leaders.html",
+      "url": "https://www.nytimes.com/2026/01/23/us/politics/military-western-hemisphere-leaders.html",
+      "title": "Joint Chiefs Chairman Issues Rare Invitation to Foreign Military Heads",
+      "content_html": "Top military leaders from 34 countries plan to discuss improving efforts in the Western Hemisphere to fight drug trafficking and transnational criminal organizations.",
+      "content_text": "Top military leaders from 34 countries plan to discuss improving efforts in the Western Hemisphere to fight drug trafficking and transnational criminal organizations.",
+      "date_published": "2026-01-23T23:03:53.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/us/politics/trumps-greenland-power.html",
+      "url": "https://www.nytimes.com/2026/01/23/us/politics/trumps-greenland-power.html",
+      "title": "Trump’s Turnabout on Greenland Shows the Limits of His Coercive Powers",
+      "content_html": "President Trump’s faith in his ability to wring concessions by taking maximalist positions was on full display this week. So were the costs, as he splintered NATO and then undercut his credibility by climbing down from his threats.",
+      "content_text": "President Trump’s faith in his ability to wring concessions by taking maximalist positions was on full display this week. So were the costs, as he splintered NATO and then undercut his credibility by climbing down from his threats.",
+      "date_published": "2026-01-23T22:08:28.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/world/europe/denmark-greenland-prime-minister-trump.html",
+      "url": "https://www.nytimes.com/2026/01/23/world/europe/denmark-greenland-prime-minister-trump.html",
+      "title": "Prime Minister Mette Frederiksen of Denmark Visits Greenland",
+      "content_html": "The trip by Prime Minister Mette Frederiksen to the Danish territory came amid pressure from President Trump and appeared to have been meant as reassurance to Greenlanders.",
+      "content_text": "The trip by Prime Minister Mette Frederiksen to the Danish territory came amid pressure from President Trump and appeared to have been meant as reassurance to Greenlanders.",
+      "date_published": "2026-01-23T21:53:15.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/world/africa/nelson-mandela-memorabilia-auction.html",
+      "url": "https://www.nytimes.com/2026/01/23/world/africa/nelson-mandela-memorabilia-auction.html",
+      "title": "Court Dismisses Bid to Prevent Auction of Nelson Mandela Memorabilia",
+      "content_html": "The anti-apartheid leader’s eldest daughter won the right to sell some of his personal items after a two-year legal battle.",
+      "content_text": "The anti-apartheid leader’s eldest daughter won the right to sell some of his personal items after a two-year legal battle.",
+      "date_published": "2026-01-23T19:35:52.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/world/europe/trump-putin-russia-us-greenland.html",
+      "url": "https://www.nytimes.com/2026/01/23/world/europe/trump-putin-russia-us-greenland.html",
+      "title": "Trump’s Push to Take Greenland Holds Promise and Peril for Putin",
+      "content_html": "If the United States under President Trump starts acting as if it’s Russia, where does that leave President Vladimir V. Putin?",
+      "content_text": "If the United States under President Trump starts acting as if it’s Russia, where does that leave President Vladimir V. Putin?",
+      "date_published": "2026-01-23T18:57:37.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/world/europe/julio-iglesias-abuse-investigation.html",
+      "url": "https://www.nytimes.com/2026/01/23/world/europe/julio-iglesias-abuse-investigation.html",
+      "title": "Prosecutors in Spain End Investigation Into Julio Iglesias",
+      "content_html": "Two women accused the singer, 82, of abusing them in the Caribbean and filed a complaint in Spain, but Spanish officials said that they did not have jurisdiction over the claim.",
+      "content_text": "Two women accused the singer, 82, of abusing them in the Caribbean and filed a complaint in Spain, but Spanish officials said that they did not have jurisdiction over the claim.",
+      "date_published": "2026-01-23T18:17:18.000Z"
     }
   ]
 }
