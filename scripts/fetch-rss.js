@@ -86,14 +86,23 @@ async function fetchRss(url) {
     title: channel.title,
     link: channel.link,
     description: channel.description,
-    entries: items.map(item => ({
-      id: item.guid || item.link,
-      title: item.title,
-      link: item.link,
-      // 优先使用 content:encoded，其次用 description
-      description: item['content:encoded'] || item.description || '',
-      published: item.pubDate ? new Date(item.pubDate).toISOString() : null
-    }))
+    entries: items.map(item => {
+      // guid 可能是字符串或对象（带属性）
+      let id = item.guid;
+      if (id && typeof id === 'object') {
+        id = id['#text'] || id._ || JSON.stringify(id);
+      }
+      id = id || item.link;
+      
+      return {
+        id: id,
+        title: item.title,
+        link: item.link,
+        // 优先使用 content:encoded，其次用 description
+        description: item['content:encoded'] || item.description || '',
+        published: item.pubDate ? new Date(item.pubDate).toISOString() : null
+      };
+    })
   };
 }
 
