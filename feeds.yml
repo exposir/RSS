@@ -9,3 +9,7 @@ feeds:
   - name: 地球知识局
     url: https://plink.anyfeeder.com/weixin/diqiuzhishiju
     output: feeds/diqiuzhishiju.json
+
+  - name: 腾讯科技
+    url: https://plink.anyfeeder.com/weixin/qqtech
+    output: feeds/qqtech.json
