@@ -14,14 +14,12 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch and Extract Fulltext
-        # 这是核心：它自带爬虫和全文提取逻辑
-        uses: nahuelhds/rss-fetch-action@v0.0.10
+        # 这是核心：它会自动遍历 RSS entries 并提取全文
+        uses: nahuelhds/rss-entries-fetch-action@v0.3.0
         with:
-          # 填入你的 RSSHub 链接，多个用逗号隔开
+          # 填入你的 RSS 链接，多个用逗号隔开
           feed_urls: "https://rsshub.app/v2ex/topics/hot,https://rsshub.app/zhihu/daily,https://plink.anyfeeder.com/people/politics"
-          destination_folder: "feeds" # 抓取后的文件存哪
-          # 如果你要输出 JSON Feed (NetNewsWire 最爱)，设为 true
-          output_format: "json"
+          destination_folder: "feeds" # 抓取后的全文内容存哪
 
       - name: Auto-Commit Changes
         # 这个 Action 专门负责把生成的文件 Push 回仓库，完全不用写 git 命令
