@@ -10,31 +10,31 @@ jobs:
   rss-job:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 必须开，否则机器人没法 Push 更新
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Fetch 人民网-政治
         continue-on-error: true
-        uses: nahuelhds/rss-fetch-action@v0.0.10
+        uses: Promptly-Technologies-LLC/rss-fetch-action@v2
         with:
-          feed_urls: "https://plink.anyfeeder.com/people/politics"
-          destination_folder: "feeds"
+          feed_url: "https://plink.anyfeeder.com/people/politics"
+          file_path: "feeds/people-politics.json"
 
       - name: Fetch 36氪
         continue-on-error: true
-        uses: nahuelhds/rss-fetch-action@v0.0.10
+        uses: Promptly-Technologies-LLC/rss-fetch-action@v2
         with:
-          feed_urls: "https://plink.anyfeeder.com/36kr/news/latest"
-          destination_folder: "feeds"
+          feed_url: "https://plink.anyfeeder.com/36kr/news/latest"
+          file_path: "feeds/36kr.json"
 
       - name: Fetch IT之家
         continue-on-error: true
-        uses: nahuelhds/rss-fetch-action@v0.0.10
+        uses: Promptly-Technologies-LLC/rss-fetch-action@v2
         with:
-          feed_urls: "https://plink.anyfeeder.com/ithome/rss"
-          destination_folder: "feeds"
+          feed_url: "https://plink.anyfeeder.com/ithome/rss"
+          file_path: "feeds/ithome.json"
 
       - name: Auto-Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
