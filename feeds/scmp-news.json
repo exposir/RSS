@@ -6,6 +6,14 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/world/article/3341467/doomsday-clock-moves-closer-midnight-year-trump-term?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/article/3341467/doomsday-clock-moves-closer-midnight-year-trump-term?utm_source=rss_feed",
+      "title": "Doomsday Clock moves closer to midnight, a year into Trump term",
+      "content_html": "The “Doomsday Clock” representing how near humanity is to catastrophe moved closer than ever to midnight on Tuesday as concerns grow on nuclear weapons, climate change and disinformation.\nThe Bulletin of the Atomic Scientists, which set up the metaphorical clock at the start of the Cold War, moved its time to 85 seconds to midnight – four seconds closer than a year ago.\nThe announcement comes a year into US President Donald Trump’s second term in which he has shattered global norms including by...",
+      "content_text": "The “Doomsday Clock” representing how near humanity is to catastrophe moved closer than ever to midnight on Tuesday as concerns grow on nuclear weapons, climate change and disinformation.\nThe Bulletin of the Atomic Scientists, which set up the metaphorical clock at the start of the Cold War, moved its time to 85 seconds to midnight – four seconds closer than a year ago.\nThe announcement comes a year into US President Donald Trump’s second term in which he has shattered global norms including by...",
+      "date_published": "2026-01-27T19:03:34.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/article/3341466/chinas-cmoc-makes-us1-billion-brazil-gold-push-bullion-jumps-rising-global-risks?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/article/3341466/chinas-cmoc-makes-us1-billion-brazil-gold-push-bullion-jumps-rising-global-risks?utm_source=rss_feed",
       "title": "China’s CMOC makes US$1 billion Brazil gold push as bullion jumps on rising global risks",
