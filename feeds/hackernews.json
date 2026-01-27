@@ -6,6 +6,22 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46778341",
+      "url": "https://tonystr.net/blog/git_immitation",
+      "title": "I made my own Git",
+      "content_html": "<p>Article URL: <a href=\"https://tonystr.net/blog/git_immitation\">https://tonystr.net/blog/git_immitation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46778341\">https://news.ycombinator.com/item?id=46778341</a></p>\n<p>Points: 254</p>\n<p># Comments: 103</p>",
+      "content_text": "Article URL: https://tonystr.net/blog/git_immitation\nComments URL: https://news.ycombinator.com/item?id=46778341\nPoints: 254\n# Comments: 103",
+      "date_published": "2026-01-27T10:55:37.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46781516",
+      "url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
+      "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
+      "content_html": "<p>Article URL: <a href=\"https://tech.lgbt/@JadedBlueEyes/115967791152135761\">https://tech.lgbt/@JadedBlueEyes/115967791152135761</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46781516\">https://news.ycombinator.com/item?id=46781516</a></p>\n<p>Points: 267</p>\n<p># Comments: 116</p>",
+      "content_text": "Article URL: https://tech.lgbt/@JadedBlueEyes/115967791152135761\nComments URL: https://news.ycombinator.com/item?id=46781516\nPoints: 267\n# Comments: 116",
+      "date_published": "2026-01-27T15:45:45.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46755734",
       "url": "https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/",
       "title": "White House alters arrest photo of ICE protester, says \"the memes will continue\"",

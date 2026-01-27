@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cwyn2gqwx9ro#3",
+      "url": "https://www.bbc.com/news/articles/cwyn2gqwx9ro?at_medium=RSS&at_campaign=rss",
+      "title": "One Battle After Another leads Bafta nominations",
+      "content_html": "The political thriller has 14 nominations, with Sinners, Hamnet and Marty Supreme also recognised.",
+      "content_text": "The political thriller has 14 nominations, with Sinners, Hamnet and Marty Supreme also recognised.",
+      "date_published": "2026-01-27T12:15:13.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cedwp8w1j24o#3",
       "url": "https://www.bbc.com/news/articles/cedwp8w1j24o?at_medium=RSS&at_campaign=rss",
       "title": "Tearful Carol Kirkwood announces she is to leave BBC",
