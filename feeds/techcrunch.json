@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3086633",
+      "url": "https://techcrunch.com/2026/01/27/amid-trump-attacks-and-weaponized-sanctions-europeans-look-to-rely-less-on-us-tech/",
+      "title": "Amid Trump attacks and weaponized sanctions, Europeans look to rely less on US tech",
+      "content_html": "European governments are looking to move away from U.S. tech and reclaim their digital sovereignty at a time of unpredictability and volatility in the United States.",
+      "content_text": "European governments are looking to move away from U.S. tech and reclaim their digital sovereignty at a time of unpredictability and volatility in the United States.",
+      "date_published": "2026-01-27T17:56:47.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3085854",
       "url": "https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/",
       "title": "South Korea’s Edenlux set for U.S. debut of eye-strain wellness device",
