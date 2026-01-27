@@ -1,7 +1,7 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "人民网-国内新闻",
-  "home_page_url": "http://politics.people.cn/",
+  "home_page_url": "http://politics.people.cn",
   "feed_url": "https://exposir.github.io/RSS/feeds/people-politics.json",
   "description": "时政新闻",
   "items": [

@@ -1,21 +1,42 @@
 import fs from 'fs';
 import yaml from 'js-yaml';
+import { XMLParser } from 'fast-xml-parser';
 
-// 清理 HTML 内容
+// 清理 HTML 内容，保留格式和图片
 function cleanHtml(html) {
   if (!html) return '';
   
-  // 解码 HTML 实体
-  let content = html
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&amp;/g, '&')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&quot;/g, '"')
-    .replace(/&#039;/g, "'")
-    .replace(/&copy;/g, '©');
+  // 解码 HTML 实体（多次解码处理嵌套）
+  let content = html;
+  for (let i = 0; i < 3; i++) {
+    content = content
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&')
+      .replace(/&nbsp;/g, ' ')
+      .replace(/&quot;/g, '"')
+      .replace(/&#039;/g, "'")
+      .replace(/&copy;/g, '©');
+  }
   
-  // 移除 script 标签及内容（包括被转义的）
+  // 先提取图片并替换为占位符
+  const images = [];
+  content = content.replace(/<img[^>]*src="([^"]+)"[^>]*>/gi, (match, src) => {
+    if (src.includes('go_top') || src.includes('template') || src.includes('webdig')) {
+      return '';
+    }
+    // 修复相对路径
+    if (src.startsWith('../')) {
+      src = 'http://paper.people.com.cn/rmrb/pc/' + src.replace(/\.\.\//g, '');
+    }
+    // 保留图片 URL
+    src = src.replace(/\.jpg\.\d+$/, '.jpg');
+    src = src.replace(/\.png\.\d+$/, '.png');
+    images.push(src);
+    return `__IMG_${images.length - 1}__`;
+  });
+  
+  // 移除 script 标签及内容
   content = content.replace(/<script[\s\S]*?<\/script>/gi, '');
   
   // 移除 style 标签及内容
@@ -24,7 +45,10 @@ function cleanHtml(html) {
   // 移除注释
   content = content.replace(/<!--[\s\S]*?-->/g, '');
   
-  // 移除特定的垃圾内容
+  // 移除 input 标签
+  content = content.replace(/<input[^>]*>/gi, '');
+  
+  // 移除垃圾文本
   content = content.replace(/\/enpproperty-->/g, '');
   content = content.replace(/document\.write\([^)]*\);?/g, '');
   content = content.replace(/function\s+\w+\s*\([^)]*\)\s*\{[\s\S]*?\}/g, '');
@@ -32,57 +56,109 @@ function cleanHtml(html) {
   content = content.replace(/updateMetaRmrb[\s\S]*$/g, '');
   content = content.replace(/showMetaRmrb[\s\S]*$/g, '');
   content = content.replace(/\/\/.*$/gm, '');
-  
-  // 移除版权等无关内容
   content = content.replace(/人\s*民\s*网\s*版\s*权[\s\S]*?all rights reserved/gi, '');
   content = content.replace(/Copyright[\s\S]*?reserved/gi, '');
   content = content.replace(/获取更多RSS[\s\S]*$/gi, '');
   content = content.replace(/https?:\/\/feedx\.(net|site)/gi, '');
-  
-  // 移除 URL 和元数据垃圾
   content = content.replace(/\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}:\d+/g, '');
-  content = content.replace(/http:\/\/paper\.people\.com\.cn[\w\/.]+/g, '');
-  content = content.replace(/\d{10,}/g, ''); // 长数字串
-  content = content.replace(/\s+http:?\s*$/g, ''); // 末尾残留的 http:
+  content = content.replace(/http:\/\/paper\.people\.com\.cn\/rmrb\/[^\s"'<>]+/g, '');
+  content = content.replace(/\d{10,}/g, '');
+  content = content.replace(/\s+http:?\s*$/g, '');
   
-  // 清理 HTML 标签，只保留内容相关的
-  // 提取 img 标签
-  const images = [];
-  content.replace(/<img[^>]+src=["']([^"']+)["'][^>]*>/gi, (match, src) => {
-    if (src && !src.includes('go_top') && !src.includes('template')) {
-      images.push(`<img src="${src}" />`);
-    }
-    return '';
-  });
+  // 移除开头日期
+  content = content.replace(/^\s*\d{4}年\d{2}月\d{2}日\s*/g, '');
   
-  // 移除所有 HTML 标签
-  content = content.replace(/<[^>]+>/g, ' ');
+  // 清理无用标签但保留结构
+  content = content.replace(/<(div|span)[^>]*>\s*<\/\1>/gi, '');
+  
+  // 将 div 转为 p
+  content = content.replace(/<div[^>]*id="ozoom"[^>]*>/gi, '');
+  content = content.replace(/<div[^>]*>/gi, '<p>');
+  content = content.replace(/<\/div>/gi, '</p>');
+  
+  // 移除空段落
+  content = content.replace(/<p>\s*<\/p>/g, '');
+  content = content.replace(/(<p>\s*){2,}/g, '<p>');
+  content = content.replace(/<\/p>\s*<\/p>/g, '</p>');
+  
+  // 移除无意义的 span
+  content = content.replace(/<span[^>]*>/gi, '');
+  content = content.replace(/<\/span>/gi, '');
   
   // 清理空白
-  content = content.replace(/\s+/g, ' ').trim();
+  content = content.replace(/\t+/g, ' ');
+  content = content.replace(/  +/g, ' ');
+  content = content.replace(/\n\s*\n\s*\n/g, '\n\n');
   
-  // 移除开头的日期
-  content = content.replace(/^\d{4}年\d{2}月\d{2}日\s*/, '');
+  // 恢复图片
+  images.forEach((src, i) => {
+    content = content.replace(`__IMG_${i}__`, `</p><p><img src="${src}" style="max-width:100%;" /></p><p>`);
+  });
   
-  // 添加图片
-  if (images.length > 0) {
-    content = images.join('\n') + '\n\n' + content;
-  }
+  // 最后清理连续的 p 标签
+  content = content.replace(/<p>\s*<\/p>/g, '');
+  content = content.replace(/<p>\s*<p>/g, '<p>');
   
-  return content;
+  // 清理日期行
+  content = content.replace(/<p>\d{4}年\d{2}月\d{2}日<\/p>/g, '');
+  
+  // 清理换行符
+  content = content.replace(/\\n/g, '');
+  
+  // 清理残留的引号和标签
+  content = content.replace(/">/g, '');
+  content = content.replace(/<p[^>]*style[^>]*><\/p>/g, '');
+  content = content.replace(/<p>\s*<\/p>/g, '');
+  
+  return content.trim();
 }
 
 // 提取纯文本
 function extractText(html) {
   if (!html) return '';
   
-  // 移除图片标签
-  let text = html.replace(/<img[^>]*>/gi, '');
-  
-  // 清理空白
-  text = text.replace(/\s+/g, ' ').trim();
+  let text = html
+    .replace(/<img[^>]*>/gi, '')
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<\/p>/gi, '\n\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/\n{3,}/g, '\n\n')
+    .replace(/  +/g, ' ')
+    .trim();
   
   return text;
+}
+
+async function fetchRss(url) {
+  const response = await fetch(url);
+  const xml = await response.text();
+  
+  const parser = new XMLParser({
+    ignoreAttributes: false,
+    attributeNamePrefix: '@_'
+  });
+  
+  const result = parser.parse(xml);
+  const channel = result.rss?.channel;
+  
+  if (!channel) {
+    throw new Error('Invalid RSS format');
+  }
+  
+  const items = Array.isArray(channel.item) ? channel.item : [channel.item].filter(Boolean);
+  
+  return {
+    title: channel.title,
+    link: channel.link,
+    description: channel.description,
+    entries: items.map(item => ({
+      id: item.guid || item.link,
+      title: item.title,
+      link: item.link,
+      description: item.description,
+      published: item.pubDate ? new Date(item.pubDate).toISOString() : null
+    }))
+  };
 }
 
 async function main() {
@@ -91,15 +167,11 @@ async function main() {
 
   console.log(`读取到 ${feeds.length} 个订阅源`);
 
-  const { extract } = await import('@extractus/feed-extractor');
-
   for (const feed of feeds) {
     console.log(`\n正在抓取: ${feed.name}`);
 
     try {
-      const result = await extract(feed.url, {
-        descriptionMaxLen: 100000
-      });
+      const result = await fetchRss(feed.url);
       const newEntries = result.entries || [];
 
       console.log(`  抓取到 ${newEntries.length} 条新闻`);
@@ -130,14 +202,14 @@ async function main() {
       for (const entry of newEntries) {
         const id = entry.id || entry.link;
         if (!existingIds.has(id)) {
-          const cleanedContent = cleanHtml(entry.description || "");
-          const plainText = extractText(cleanedContent);
+          const cleanedHtml = cleanHtml(entry.description || "");
+          const plainText = extractText(cleanedHtml);
           
           const item = {
             id: id,
             url: entry.link,
             title: entry.title,
-            content_html: cleanedContent,
+            content_html: cleanedHtml,
             content_text: plainText,
             date_published: entry.published || new Date().toISOString()
           };
