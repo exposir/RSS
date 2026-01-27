@@ -1,0 +1,11 @@
+{
+  "name": "rss-archive",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-rss.js"
+  },
+  "dependencies": {
+    "@extractus/feed-extractor": "^7.0.0"
+  }
+}
