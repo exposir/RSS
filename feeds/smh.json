@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "9753e999-f219-4524-9ea7-2e480cdac97d",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-advances-a-eyes-us70c-20260128-p5nxi8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "ASX set to rise as Wall Street advances; $A eyes US70c",
+      "content_html": "Wall Street is flirting with a record, as stocks zigzag under the market’s surface following mixed profit reports from UnitedHealth, General Motors and other big companies.",
+      "content_text": "Wall Street is flirting with a record, as stocks zigzag under the market’s surface following mixed profit reports from UnitedHealth, General Motors and other big companies.",
+      "date_published": "2026-01-27T18:23:14.000Z"
+    },
+    {
       "id": "196ce354-57ed-496e-aa43-7585de20ac4c",
       "url": "https://www.smh.com.au/national/school-for-my-bright-son-has-been-heartbreaking-too-many-teachers-think-kids-need-to-try-harder-20251208-p5nlyt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "School for my bright son has been heartbreaking. Too many teachers think kids need to ‘try harder’",
