@@ -133,3 +133,11 @@ feeds:
   - name: Hacker News
     url: https://hnrss.org/best
     output: feeds/hackernews.json
+
+  - name: 纽约时报中文
+    url: https://cn.nytimes.com/rss.html
+    output: feeds/nytimes.json
+
+  - name: 德国之声
+    url: https://rss.dw.com/rdf/rss-chi-all
+    output: feeds/dw.json

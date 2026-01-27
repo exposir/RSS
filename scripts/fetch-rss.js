@@ -136,6 +136,26 @@ async function fetchRss(url) {
     };
   }
   
+  // 支持 RDF 1.0 格式（如德国之声）
+  if (result['rdf:RDF']) {
+    const rdf = result['rdf:RDF'];
+    const channel = rdf.channel;
+    const items = Array.isArray(rdf.item) ? rdf.item : [rdf.item].filter(Boolean);
+    
+    return {
+      title: channel?.title || '',
+      link: channel?.link || '',
+      description: channel?.description || '',
+      entries: items.map(item => ({
+        id: item.link,
+        title: item.title,
+        link: item.link,
+        description: item['content:encoded'] || item.description || '',
+        published: item['dc:date'] ? new Date(item['dc:date']).toISOString() : null
+      }))
+    };
+  }
+  
   throw new Error('Invalid RSS/Atom format');
 }
 
