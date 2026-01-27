@@ -35,7 +35,7 @@ feeds:
     output: feeds/chaping.json
 
   - name: 联合早报
-    url: https://plink.anyfeeder.com/zaobao/realtime/china
+    url: https://expo-rsshub.zeabur.app/zaobao/realtime/china
     output: feeds/zaobao.json
 
   - name: 财新网
