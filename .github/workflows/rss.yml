@@ -27,6 +27,10 @@ jobs:
         continue-on-error: true
         run: node scripts/fetch-rss.js "https://plink.anyfeeder.com/people/politics" "feeds/people-politics.json"
 
+      - name: Fetch 地球知识局
+        continue-on-error: true
+        run: node scripts/fetch-rss.js "https://plink.anyfeeder.com/weixin/diqiuzhishiju" "feeds/diqiuzhishiju.json"
+
       - name: Auto-Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
