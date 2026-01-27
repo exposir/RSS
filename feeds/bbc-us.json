@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cedwp8w1j24o#3",
+      "url": "https://www.bbc.com/news/articles/cedwp8w1j24o?at_medium=RSS&at_campaign=rss",
+      "title": "Tearful Carol Kirkwood announces she is to leave BBC",
+      "content_html": "The 63-year-old said it had been an \"absolute privilege\" to bring viewers the weather every day.",
+      "content_text": "The 63-year-old said it had been an \"absolute privilege\" to bring viewers the weather every day.",
+      "date_published": "2026-01-27T10:56:42.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/ce3epjw2x20o#0",
+      "url": "https://www.bbc.com/news/articles/ce3epjw2x20o?at_medium=RSS&at_campaign=rss",
+      "title": "King and Queen meet Holocaust survivors at Palace ",
+      "content_html": "King Charles III hosted the reception to mark Holocaust Memorial Day with survivors honoured in a series of specially commissioned portraits.",
+      "content_text": "King Charles III hosted the reception to mark Holocaust Memorial Day with survivors honoured in a series of specially commissioned portraits.",
+      "date_published": "2026-01-27T17:56:39.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy8y2jxx9ppo#0",
+      "url": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
+      "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
+      "content_html": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
+      "content_text": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
+      "date_published": "2026-01-27T17:38:09.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/ckgy04negdjo#7",
       "url": "https://www.bbc.com/sport/football/articles/ckgy04negdjo?at_medium=RSS&at_campaign=rss",
       "title": "Guardiola apologises to ref Hallam but 'defends' outburst",
