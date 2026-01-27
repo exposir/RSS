@@ -1,0 +1,89 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "少数派",
+  "home_page_url": "https://sspai.com",
+  "feed_url": "https://exposir.github.io/RSS/feeds/sspai.json",
+  "description": "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质",
+  "items": [
+    {
+      "id": "https://sspai.com/post/105482",
+      "url": "https://sspai.com/post/105482",
+      "title": "从 triple j 到「字母汤」：澳洲音乐电台指北",
+      "content_html": "人未至，但耳朵可以先过去「溜达溜达」。<a href=\"https://sspai.com/post/105482\" target=\"_blank\">查看全文</a>",
+      "content_text": "人未至，但耳朵可以先过去「溜达溜达」。查看全文",
+      "date_published": "2026-01-25T06:17:04.000Z"
+    },
+    {
+      "id": "https://sspai.com/post/105741",
+      "url": "https://sspai.com/post/105741",
+      "title": "派早报：高铁客服和专家回应「高铁二氧化碳超标」",
+      "content_html": "<p>高铁客服和专家回应「高铁二氧化碳超标」</p><p>因不堪 AI 骚扰，cURL 将终止漏洞赏金计划</p><p>联通推出「果粉」卡套餐</p><p>微软证实向 FBI 移交 BitLocker 加密密钥</p><p>Meta 裁员引发「VR 寒冬」担忧</p><p>初代宝可梦成为流行 AI 测试方法</p><p>看看就行的小道消息</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/105741\" target=\"_blank\">查看全文</a>",
+      "content_text": "高铁客服和专家回应「高铁二氧化碳超标」因不堪 AI 骚扰，cURL 将终止漏洞赏金计划联通推出「果粉」卡套餐微软证实向 FBI 移交 BitLocker 加密密钥Meta 裁员引发「VR 寒冬」担忧初代宝可梦成为流行 AI 测试方法看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文",
+      "date_published": "2026-01-26T00:57:40.000Z"
+    },
+    {
+      "id": "https://sspai.com/post/105506",
+      "url": "https://sspai.com/post/105506",
+      "title": "NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站",
+      "content_html": "像 TrendRadar 这类应用，或许才是许多公司和工作室采购 NAS 的原因之一。NAS 并非只能在家用环境中保存照片、挂挂 PT，更是能通过持久稳定工作，帮助用户圈出一块清醒的自留地，把实现各种功能的主动权重新握在自己手里。<a href=\"https://sspai.com/post/105506\" target=\"_blank\">查看全文</a>",
+      "content_text": "像 TrendRadar 这类应用，或许才是许多公司和工作室采购 NAS 的原因之一。NAS 并非只能在家用环境中保存照片、挂挂 PT，更是能通过持久稳定工作，帮助用户圈出一块清醒的自留地，把实现各种功能的主动权重新握在自己手里。查看全文",
+      "date_published": "2026-01-26T03:36:45.000Z"
+    },
+    {
+      "id": "https://sspai.com/post/105685",
+      "url": "https://sspai.com/post/105685",
+      "title": "Kindle Paperwhite 3 杂谈：为什么它是我高中生涯最值的电子产品？",
+      "content_html": "对于高中生来说，在还不能够完全掌握自己的生活之前，KPW3也许是他第一次尝试用科技手段解决传统问题的美好体验。<a href=\"https://sspai.com/post/105685\" target=\"_blank\">查看全文</a>",
+      "content_text": "对于高中生来说，在还不能够完全掌握自己的生活之前，KPW3也许是他第一次尝试用科技手段解决传统问题的美好体验。查看全文",
+      "date_published": "2026-01-26T07:24:45.000Z"
+    },
+    {
+      "id": "https://sspai.com/prime/story/the-state-of-ios-background-tasks",
+      "url": "https://sspai.com/prime/story/the-state-of-ios-background-tasks",
+      "title": "从「墓碑」到见机行事：iOS 后台机制现状分析",
+      "content_html": "在 WWDC25 的主题演讲上，Apple 提到 iPadOS 26（同时适用于 iOS 26）提供了一个新的后台 API。这个 API 旨在为计算密集型任务提供后台能力，调用时会显示一个实时活动（Live Activity），让用户了解并完全控制当前运行的内容。而到了 iOS 26.1，新的「相册后台备份」API 还允许第三方应用在后台上传照片等资源文件。由此观察，iOS 的后台机制，似乎已经相比于早年那种被称为「墓碑」的假后台发生了很大变化。<a href=\"https://sspai.com/prime/story/the-state-of-ios-background-tasks\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+      "content_text": "在 WWDC25 的主题演讲上，Apple 提到 iPadOS 26（同时适用于 iOS 26）提供了一个新的后台 API。这个 API 旨在为计算密集型任务提供后台能力，调用时会显示一个实时活动（Live Activity），让用户了解并完全控制当前运行的内容。而到了 iOS 26.1，新的「相册后台备份」API 还允许第三方应用在后台上传照片等资源文件。由此观察，iOS 的后台机制，似乎已经相比于早年那种被称为「墓碑」的假后台发生了很大变化。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "date_published": "2026-01-26T07:46:07.000Z"
+    },
+    {
+      "id": "https://sspai.com/post/105782",
+      "url": "https://sspai.com/post/105782",
+      "title": "派评 | 近期值得关注的 App",
+      "content_html": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/105782\" target=\"_blank\">查看全文</a>",
+      "content_text": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+      "date_published": "2026-01-26T09:53:55.000Z"
+    },
+    {
+      "id": "https://sspai.com/post/105792",
+      "url": "https://sspai.com/post/105792",
+      "title": "派早报：Adobe 系列应用原生支持 Windows on ARM 等",
+      "content_html": "少数派的近期动态我们正在优化并改进新的首页版式，如果你在使用过程中发现了任何问题或者有改进建议，请通过反馈表单告知我们。首页反馈收集将设计装进耳朵：少数派×飞傲联名CD机盖板设计大赛已经开始啦。了解详 ...<a href=\"https://sspai.com/post/105792\" target=\"_blank\">查看全文</a>",
+      "content_text": "少数派的近期动态我们正在优化并改进新的首页版式，如果你在使用过程中发现了任何问题或者有改进建议，请通过反馈表单告知我们。首页反馈收集将设计装进耳朵：少数派×飞傲联名CD机盖板设计大赛已经开始啦。了解详 ...查看全文",
+      "date_published": "2026-01-27T00:19:13.000Z"
+    },
+    {
+      "id": "https://sspai.com/post/105500",
+      "url": "https://sspai.com/post/105500",
+      "title": "打开血糖盲盒：跟踪 14 个普通日夜里的血液足迹",
+      "content_html": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/105500\" target=\"_blank\">查看全文</a>",
+      "content_text": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "date_published": "2026-01-27T03:09:06.000Z"
+    },
+    {
+      "id": "https://sspai.com/post/105584",
+      "url": "https://sspai.com/post/105584",
+      "title": "软件工程师的 AI Coding 进化论",
+      "content_html": "2026 年你依然可以 Happy Coding。<a href=\"https://sspai.com/post/105584\" target=\"_blank\">查看全文</a>",
+      "content_text": "2026 年你依然可以 Happy Coding。查看全文",
+      "date_published": "2026-01-27T07:09:12.000Z"
+    },
+    {
+      "id": "https://sspai.com/post/105807",
+      "url": "https://sspai.com/post/105807",
+      "title": "社区速递 127 | 派友的 12 月剁手清单、8 年不换电池的温湿度计",
+      "content_html": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🖊️季度创作 ...<a href=\"https://sspai.com/post/105807\" target=\"_blank\">查看全文</a>",
+      "content_text": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🖊️季度创作 ...查看全文",
+      "date_published": "2026-01-27T08:48:20.000Z"
+    }
+  ]
+}

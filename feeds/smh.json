@@ -1,0 +1,169 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sydney Morning Herald - Latest News",
+  "home_page_url": "https://www.smh.com.au/rss/feed.xml",
+  "feed_url": "https://exposir.github.io/RSS/feeds/smh.json",
+  "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
+  "items": [
+    {
+      "id": "453b6479-a8fd-45ac-83af-7667fb03d679",
+      "url": "https://www.smh.com.au/national/nsw/weekend-at-davo-s-20260127-p5nx7a.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Weekend at Davo’s",
+      "content_html": "And a partnership with Batman.",
+      "content_text": "And a partnership with Batman.",
+      "date_published": "2026-01-27T10:00:00.000Z"
+    },
+    {
+      "id": "433545a0-22ad-4920-b2ce-d688bae4f500",
+      "url": "https://www.smh.com.au/sport/tennis/crowd-roars-to-another-demon-break-20260127-p5nxhi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Crowd roars to another Demon break",
+      "content_html": "Alex de Minaur breaks the serve of Carlos Alcaraz to save the set.",
+      "content_text": "Alex de Minaur breaks the serve of Carlos Alcaraz to save the set.",
+      "date_published": "2026-01-27T10:15:53.000Z"
+    },
+    {
+      "id": "2e166445-4e6d-4ccd-954c-3fb21965c42c",
+      "url": "https://www.smh.com.au/sport/tennis/alcarazs-sportsmanship-after-time-violation-20260127-p5nxhj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz's sportsmanship after time violation",
+      "content_html": "Carlos Alcaraz shows good sportsmanship after Alex de Minaur was hit with a time violation.",
+      "content_text": "Carlos Alcaraz shows good sportsmanship after Alex de Minaur was hit with a time violation.",
+      "date_published": "2026-01-27T10:28:10.000Z"
+    },
+    {
+      "id": "fc6b3f4c-4c28-4c3f-a63c-4dbf26152422",
+      "url": "https://www.smh.com.au/sport/tennis/trophy-or-nothing-forget-the-bling-the-endorsements-and-the-millions-aryna-ony-cares-for-one-thing-20260127-p5nxf0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Gauff says ‘certain moments’ shouldn’t be broadcast as camera catches her smashing a racquet",
+      "content_html": "Coco Cauff’s bid for a third grand slam title went up in smoke with a 1-6, 2-6 defeat at the hands of Ukrainian Elina Svitolina in under an hour.",
+      "content_text": "Coco Cauff’s bid for a third grand slam title went up in smoke with a 1-6, 2-6 defeat at the hands of Ukrainian Elina Svitolina in under an hour.",
+      "date_published": "2026-01-27T10:40:56.000Z"
+    },
+    {
+      "id": "29427f0f-960d-45e7-8a02-a0b98e3de06b",
+      "url": "https://www.smh.com.au/national/teacher-who-gave-birth-admits-to-sexually-abusing-student-for-over-a-year-20260127-p5nxgq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Teacher who gave birth admits to sexually abusing student for over a year",
+      "content_html": "A teacher who allegedly gave birth to a 13-year-old student's baby has admitted to sexually abusing the boy for more than a year.",
+      "content_text": "A teacher who allegedly gave birth to a 13-year-old student's baby has admitted to sexually abusing the boy for more than a year.",
+      "date_published": "2026-01-27T10:54:12.000Z"
+    },
+    {
+      "id": "31686fea-78b9-4f21-bfb5-fad0daecca2d",
+      "url": "https://www.smh.com.au/national/vision-of-moment-homemade-bomb-allegedly-thrown-into-invasion-day-crowd-20260127-p5nxh0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Vision of moment homemade bomb allegedly thrown into Invasion Day crowd",
+      "content_html": "WA Police have released vision of the moment a homemade bomb was allegedly thrown into a crowd of thousands at a Perth Invasion Day rally",
+      "content_text": "WA Police have released vision of the moment a homemade bomb was allegedly thrown into a crowd of thousands at a Perth Invasion Day rally",
+      "date_published": "2026-01-27T10:55:42.000Z"
+    },
+    {
+      "id": "02f15bdf-7e19-425b-ab01-703f511c946b",
+      "url": "https://www.smh.com.au/sport/soccer/forever-my-hero-former-a-league-title-winning-coach-rado-vidosic-dies-aged-64-20260127-p5nxh7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Forever my hero’: Former A-League title-winning coach Rado Vidosic dies aged 64",
+      "content_html": "Vidosic, a former assistant to Ange Postecoglou, had been working as the head of women’s and girls coaching at Brighton & Hove Albion alongside his son, Dario.",
+      "content_text": "Vidosic, a former assistant to Ange Postecoglou, had been working as the head of women’s and girls coaching at Brighton & Hove Albion alongside his son, Dario.",
+      "date_published": "2026-01-27T10:56:01.000Z"
+    },
+    {
+      "id": "adc3c050-374a-418b-b39e-1728589cef08",
+      "url": "https://www.smh.com.au/politics/federal/best-of-cartoons-january-28-2026-20260127-p5nxgd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Best of cartoons, January 28, 2026",
+      "content_html": "The news of the day as interpreted by our talented artists, illustrators and cartoonists.",
+      "content_text": "The news of the day as interpreted by our talented artists, illustrators and cartoonists.",
+      "date_published": "2026-01-27T10:57:02.000Z"
+    },
+    {
+      "id": "ebeb9755-22c8-48b0-ae5c-372fb6359a4e",
+      "url": "https://www.smh.com.au/national/poll-puts-pauline-hanson-ahead-of-sussan-ley-as-preferred-pm-20260127-p5nxhl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Poll puts Pauline Hanson ahead of Sussan Ley as preferred PM",
+      "content_html": "The latest Capital Brief/Demos AU poll places the One Nation leader 10 percentage points ahead of the Liberal boss as preferred PM.",
+      "content_text": "The latest Capital Brief/Demos AU poll places the One Nation leader 10 percentage points ahead of the Liberal boss as preferred PM.",
+      "date_published": "2026-01-27T11:01:45.000Z"
+    },
+    {
+      "id": "00ddd684-5f22-4f8c-89bf-8198035a1ea8",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-hurts-de-minaur-with-superhuman-point-20260127-p5nxhn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz hurts de Minaur with 'superhuman' point",
+      "content_html": "Carlos Alcaraz hits a brilliant backhand to continue his dominance.",
+      "content_text": "Carlos Alcaraz hits a brilliant backhand to continue his dominance.",
+      "date_published": "2026-01-27T11:16:50.000Z"
+    },
+    {
+      "id": "c08396a1-5b51-4f79-a93c-38049115ae8e",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-takes-firm-grip-on-quarter-final-20260127-p5nxho.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz takes 'firm grip on quarter-final'",
+      "content_html": "Alex de Minaur can't beat the net as he gifts Carlos Alcaraz the second set.",
+      "content_text": "Alex de Minaur can't beat the net as he gifts Carlos Alcaraz the second set.",
+      "date_published": "2026-01-27T11:21:46.000Z"
+    },
+    {
+      "id": "0029baa3-8d39-485c-865e-29fc1dd2e83d",
+      "url": "https://www.smh.com.au/sport/tennis/de-minaur-smacks-ball-down-after-break-20260127-p5nxhp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "De Minaur smacks ball down after break",
+      "content_html": "Alex de Minaur's frustration starts to show during the quarter-final.",
+      "content_text": "Alex de Minaur's frustration starts to show during the quarter-final.",
+      "date_published": "2026-01-27T11:27:48.000Z"
+    },
+    {
+      "id": "8916d8fd-5542-4585-8ca5-54e5142fece7",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-sends-aussie-favourite-packing-20260127-p5nxhr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz sends Aussie favourite packing",
+      "content_html": "Carlos Alcaraz nails an ace to eliminate Australia's Alex de Minaur from his home grand slam in the quarter finals.",
+      "content_text": "Carlos Alcaraz nails an ace to eliminate Australia's Alex de Minaur from his home grand slam in the quarter finals.",
+      "date_published": "2026-01-27T11:52:44.000Z"
+    },
+    {
+      "id": "ecf85a7c-b25b-4d1a-8a33-9c8756a1b0db",
+      "url": "https://www.smh.com.au/national/superquiz-wednesday-january-28-20260127-p5nx7z.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Superquiz, Wednesday, January 28",
+      "content_html": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "content_text": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "date_published": "2026-01-27T12:59:00.000Z"
+    },
+    {
+      "id": "7d55200b-a0ed-485a-bb17-9d9fb1880618",
+      "url": "https://www.smh.com.au/property/news/how-far-property-prices-will-rise-in-2026-20260127-p5nxcy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How far property prices will rise in 2026",
+      "content_html": "First home buyer assistance and a shortfall in new home building are tipped to push prices higher, despite the path of interest rates.",
+      "content_text": "First home buyer assistance and a shortfall in new home building are tipped to push prices higher, despite the path of interest rates.",
+      "date_published": "2026-01-27T13:01:00.000Z"
+    },
+    {
+      "id": "2dc06784-4cab-4df1-a79a-e7f33ad3ef16",
+      "url": "https://www.smh.com.au/sport/tennis/australian-open-2026-live-updates-demon-in-alcaraz-showdown-us-teen-challenges-sabalenka-gates-open-early-on-sweltering-day-20260126-p5nx3m.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australian Open as it happened: Awesome Alcaraz ousts De Minaur; Svitolina says mental health break fuelled her run",
+      "content_html": "Carlos Alcaraz charged into the Australian Open semi-finals for the first time with an eye-catching 7-5, 6-2, 6-1 victory over local favourite Alex de Minaur. Follow the action live.",
+      "content_text": "Carlos Alcaraz charged into the Australian Open semi-finals for the first time with an eye-catching 7-5, 6-2, 6-1 victory over local favourite Alex de Minaur. Follow the action live.",
+      "date_published": "2026-01-27T13:21:00.000Z"
+    },
+    {
+      "id": "61ebd861-e388-4524-aa8a-2ac08b51dddc",
+      "url": "https://www.smh.com.au/sport/tennis/you-feel-quite-deflated-de-minaur-reflects-after-his-quarter-final-loss-to-freakishly-good-alcaraz-20260127-p5nxc7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘You feel quite deflated’: De Minaur reflects after his quarter-final loss to ‘freakishly good’ Alcaraz",
+      "content_html": "Alex de Minaur was undeniably brave, and played an aggressive brand of tennis, but he has now won only one set from his seven major quarter-finals so far.",
+      "content_text": "Alex de Minaur was undeniably brave, and played an aggressive brand of tennis, but he has now won only one set from his seven major quarter-finals so far.",
+      "date_published": "2026-01-27T14:17:59.000Z"
+    },
+    {
+      "id": "a3bbdfca-bb7f-42ed-b00a-6f987323ad30",
+      "url": "https://www.smh.com.au/sport/tennis/woodbridge-explains-demons-negative-thoughts-with-team-20260127-p5nxhv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Woodbridge explains Demon's 'negative thoughts' with team",
+      "content_html": "Todd Woodbridge gives an insight into Alex de Minaur's frustrated chat with his team.",
+      "content_text": "Todd Woodbridge gives an insight into Alex de Minaur's frustrated chat with his team.",
+      "date_published": "2026-01-27T14:28:15.000Z"
+    },
+    {
+      "id": "869f37a9-eb1f-4490-8362-963665bad4cc",
+      "url": "https://www.smh.com.au/world/europe/ice-agents-to-support-security-at-winter-olympics-stirring-anger-in-italy-20260128-p5nxi2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "ICE agents to support security at Winter Olympics, stirring anger in Italy",
+      "content_html": "ICE and Border Patrol agents have come under heavy criticism in the United States after two citizens were shot dead in separate incidents in Minnesota.",
+      "content_text": "ICE and Border Patrol agents have come under heavy criticism in the United States after two citizens were shot dead in separate incidents in Minnesota.",
+      "date_published": "2026-01-27T17:30:00.000Z"
+    },
+    {
+      "id": "3d7da476-27fe-42f1-857a-d90c2b303ded",
+      "url": "https://www.smh.com.au/politics/federal/not-even-in-with-a-look-nationals-face-senate-wipeout-if-liberal-split-continues-20260127-p5nxdp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Not even in with a look’: Nationals face Senate wipeout if Liberal split continues",
+      "content_html": "Two of the rebel Nationals whose votes led to the historic Coalition split face losing their jobs at the next federal election, with senior Liberals warning the junior Coalition partner will struggle to claim a quota and retain senators in Victoria and New South Wales.",
+      "content_text": "Two of the rebel Nationals whose votes led to the historic Coalition split face losing their jobs at the next federal election, with senior Liberals warning the junior Coalition partner will struggle to claim a quota and retain senators in Victoria and New South Wales.",
+      "date_published": "2026-01-27T17:30:00.000Z"
+    }
+  ]
+}

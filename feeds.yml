@@ -49,3 +49,31 @@ feeds:
   - name: 界面财经
     url: https://plink.anyfeeder.com/jiemian/finance
     output: feeds/jiemian.json
+
+  - name: 酷壳
+    url: https://coolshell.cn/feed
+    output: feeds/coolshell.json
+
+  - name: 美团技术
+    url: https://tech.meituan.com/feed/
+    output: feeds/meituan.json
+
+  - name: 阮一峰
+    url: https://www.ruanyifeng.com/blog/atom.xml
+    output: feeds/ruanyifeng.json
+
+  - name: 少数派
+    url: https://sspai.com/feed
+    output: feeds/sspai.json
+
+  - name: 思想花火
+    url: https://wechat2rss.xlab.app/feed/5b925323244e9737c39285596c53e3a2f4a30774.xml
+    output: feeds/sixianghuahuo.json
+
+  - name: 悉尼先驱晨报
+    url: https://www.smh.com.au/rss/feed.xml
+    output: feeds/smh.json
+
+  - name: V2EX
+    url: https://v2ex.com/index.xml
+    output: feeds/v2ex.json

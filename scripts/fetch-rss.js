@@ -74,36 +74,69 @@ async function fetchRss(url) {
   });
   
   const result = parser.parse(xml);
-  const channel = result.rss?.channel;
   
-  if (!channel) {
-    throw new Error('Invalid RSS format');
+  // 支持 RSS 格式
+  if (result.rss?.channel) {
+    const channel = result.rss.channel;
+    const items = Array.isArray(channel.item) ? channel.item : [channel.item].filter(Boolean);
+    
+    return {
+      title: channel.title,
+      link: channel.link,
+      description: channel.description,
+      entries: items.map(item => {
+        let id = item.guid;
+        if (id && typeof id === 'object') {
+          id = id['#text'] || id._ || JSON.stringify(id);
+        }
+        id = id || item.link;
+        
+        return {
+          id: id,
+          title: item.title,
+          link: item.link,
+          description: item['content:encoded'] || item.description || '',
+          published: item.pubDate ? new Date(item.pubDate).toISOString() : null
+        };
+      })
+    };
   }
   
-  const items = Array.isArray(channel.item) ? channel.item : [channel.item].filter(Boolean);
+  // 支持 Atom 格式
+  if (result.feed) {
+    const feed = result.feed;
+    const entries = Array.isArray(feed.entry) ? feed.entry : [feed.entry].filter(Boolean);
+    
+    return {
+      title: feed.title,
+      link: feed.link?.['@_href'] || feed.link,
+      description: feed.subtitle || '',
+      entries: entries.map(entry => {
+        let link = entry.link;
+        if (link && typeof link === 'object') {
+          link = link['@_href'] || link.href;
+        }
+        if (Array.isArray(link)) {
+          link = link[0]?.['@_href'] || link[0];
+        }
+        
+        let desc = entry.content || entry.summary || '';
+        if (desc && typeof desc === 'object') {
+          desc = desc['#text'] || desc._ || '';
+        }
+        
+        return {
+          id: entry.id || link,
+          title: typeof entry.title === 'object' ? entry.title['#text'] : entry.title,
+          link: link,
+          description: desc,
+          published: entry.published || entry.updated ? new Date(entry.published || entry.updated).toISOString() : null
+        };
+      })
+    };
+  }
   
-  return {
-    title: channel.title,
-    link: channel.link,
-    description: channel.description,
-    entries: items.map(item => {
-      // guid 可能是字符串或对象（带属性）
-      let id = item.guid;
-      if (id && typeof id === 'object') {
-        id = id['#text'] || id._ || JSON.stringify(id);
-      }
-      id = id || item.link;
-      
-      return {
-        id: id,
-        title: item.title,
-        link: item.link,
-        // 优先使用 content:encoded，其次用 description
-        description: item['content:encoded'] || item.description || '',
-        published: item.pubDate ? new Date(item.pubDate).toISOString() : null
-      };
-    })
-  };
+  throw new Error('Invalid RSS/Atom format');
 }
 
 async function main() {
