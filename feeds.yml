@@ -17,3 +17,7 @@ feeds:
   - name: 新智元
     url: https://plink.anyfeeder.com/weixin/AI_era
     output: feeds/ai-era.json
+
+  - name: 人民日报
+    url: https://plink.anyfeeder.com/people-daily
+    output: feeds/people-daily.json
