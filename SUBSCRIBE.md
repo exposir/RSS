@@ -23,3 +23,14 @@
 | 思想花火     | https://exposir.github.io/RSS/feeds/sixianghuahuo.json   |
 | 悉尼先驱晨报 | https://exposir.github.io/RSS/feeds/smh.json             |
 | V2EX         | https://exposir.github.io/RSS/feeds/v2ex.json            |
+| 阑夕         | https://exposir.github.io/RSS/feeds/lanxi.json           |
+| 光明日报     | https://exposir.github.io/RSS/feeds/guangming.json       |
+| 央视新闻     | https://exposir.github.io/RSS/feeds/cctv.json            |
+| BBC中文      | https://exposir.github.io/RSS/feeds/bbc.json             |
+| 华尔街日报   | https://exposir.github.io/RSS/feeds/wsj.json             |
+| 新华社       | https://exposir.github.io/RSS/feeds/xinhua.json          |
+| iDaily       | https://exposir.github.io/RSS/feeds/idaily.json          |
+| Randy's Blog | https://exposir.github.io/RSS/feeds/randy.json           |
+| 虎嗅网       | https://exposir.github.io/RSS/feeds/huxiu.json           |
+| 36氪         | https://exposir.github.io/RSS/feeds/36kr.json            |
+| 机核         | https://exposir.github.io/RSS/feeds/gcores.json          |

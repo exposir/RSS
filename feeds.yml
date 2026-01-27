@@ -77,3 +77,47 @@ feeds:
   - name: V2EX
     url: https://v2ex.com/index.xml
     output: feeds/v2ex.json
+
+  - name: 阑夕
+    url: https://plink.anyfeeder.com/weixin/techread
+    output: feeds/lanxi.json
+
+  - name: 光明日报
+    url: https://plink.anyfeeder.com/guangmingribao
+    output: feeds/guangming.json
+
+  - name: 央视新闻
+    url: https://plink.anyfeeder.com/weixin/cctvnewscenter
+    output: feeds/cctv.json
+
+  - name: BBC中文
+    url: https://plink.anyfeeder.com/bbc/cn
+    output: feeds/bbc.json
+
+  - name: 华尔街日报
+    url: https://plink.anyfeeder.com/wsj/cn
+    output: feeds/wsj.json
+
+  - name: 新华社
+    url: https://plink.anyfeeder.com/newscn/whxw
+    output: feeds/xinhua.json
+
+  - name: iDaily
+    url: https://plink.anyfeeder.com/idaily/today
+    output: feeds/idaily.json
+
+  - name: Randy's Blog
+    url: https://lutaonan.com/rss.xml
+    output: feeds/randy.json
+
+  - name: 虎嗅网
+    url: https://www.huxiu.com/rss/0.xml
+    output: feeds/huxiu.json
+
+  - name: 36氪
+    url: https://36kr.com/feed
+    output: feeds/36kr.json
+
+  - name: 机核
+    url: https://www.gcores.com/rss
+    output: feeds/gcores.json
