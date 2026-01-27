@@ -1,4 +1,4 @@
-name: Auto-RSS-Fulltext
+name: RSS Sync
 on:
   schedule:
     - cron: "*/15 * * * *" # 每 15 分钟自动运行
