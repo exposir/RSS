@@ -7,3 +7,4 @@
 | 人民网-政治 | https://exposir.github.io/RSS/feeds/people-politics.json |
 | 地球知识局  | https://exposir.github.io/RSS/feeds/diqiuzhishiju.json   |
 | 腾讯科技    | https://exposir.github.io/RSS/feeds/qqtech.json          |
+| 新智元      | https://exposir.github.io/RSS/feeds/ai-era.json          |

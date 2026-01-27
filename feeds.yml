@@ -13,3 +13,7 @@ feeds:
   - name: 腾讯科技
     url: https://plink.anyfeeder.com/weixin/qqtech
     output: feeds/qqtech.json
+
+  - name: 新智元
+    url: https://plink.anyfeeder.com/weixin/AI_era
+    output: feeds/ai-era.json
