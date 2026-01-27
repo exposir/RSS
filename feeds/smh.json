@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "1be2d84f-b017-4da9-8685-8949ca4f9e5c",
+      "url": "https://www.smh.com.au/national/western-australia/wa-news-live-identity-of-invasion-day-rally-bombmaker-to-be-kept-secret-20260127-p5nxh9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "WA news LIVE: Identity of Invasion Day rally ‘bombmaker’ to be kept secret",
+      "content_html": "Follow our live coverage here.",
+      "content_text": "Follow our live coverage here.",
+      "date_published": "2026-01-27T23:37:43.000Z"
+    },
+    {
+      "id": "895d5630-3fdb-4dde-a291-6d3e3c76fa9e",
+      "url": "https://www.smh.com.au/lifestyle/aryna-sabalenkas-dazzling-australian-open-jewellery-20260128-p5nxls.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Aryna Sabalenka's dazzling Australian Open jewellery",
+      "content_html": "Jelena Dokic dares to try on Aryna Sabalenka's watch, part of her dazzling Australian Open jewellery",
+      "content_text": "Jelena Dokic dares to try on Aryna Sabalenka's watch, part of her dazzling Australian Open jewellery",
+      "date_published": "2026-01-27T23:35:15.000Z"
+    },
+    {
+      "id": "d09a8fac-ccec-4f0c-86a4-c4dd56233394",
+      "url": "https://www.smh.com.au/national/nt-students-required-to-sing-national-anthem-20260128-p5nxlj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "NT students required to sing national anthem",
+      "content_html": "The Northern Territory is requiring public school students to sing the national anthem at assemblies under a new mandate.",
+      "content_text": "The Northern Territory is requiring public school students to sing the national anthem at assemblies under a new mandate.",
+      "date_published": "2026-01-27T23:20:10.000Z"
+    },
+    {
       "id": "cf2e6bb9-d5a4-4102-837b-6b616c6078e2",
       "url": "https://www.smh.com.au/goodfood/vic-good-food-guide/bandit-20260127-p5nxbc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Bandit",
