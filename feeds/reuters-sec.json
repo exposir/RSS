@@ -1,0 +1,89 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Thomson Reuters SEC Filings",
+  "home_page_url": "https://ir.thomsonreuters.com/",
+  "feed_url": "https://exposir.github.io/RSS/feeds/reuters-sec.json",
+  "description": "Thomson Reuters SEC Filings",
+  "items": [
+    {
+      "id": 31481,
+      "url": "https://ir.thomsonreuters.com/sec-filings/sec-filing/144/0001969223-25-000581",
+      "title": "144: Filed by \"insiders\" prior intended sale of restricted stock. Non-EDGAR filing",
+      "content_html": "THOMSON REUTERS CORP /CAN/",
+      "content_text": "THOMSON REUTERS CORP /CAN/",
+      "date_published": "2025-08-07T21:14:13.000Z"
+    },
+    {
+      "id": 31491,
+      "url": "https://ir.thomsonreuters.com/sec-filings/sec-filing/6-k/0001193125-25-181253",
+      "title": "6-K: Report of foreign issuer rules 13a-16 and 15d-16 of the Securities Exchange Act",
+      "content_html": "THOMSON REUTERS CORP /CAN/",
+      "content_text": "THOMSON REUTERS CORP /CAN/",
+      "date_published": "2025-08-15T10:58:44.000Z"
+    },
+    {
+      "id": 31581,
+      "url": "https://ir.thomsonreuters.com/sec-filings/sec-filing/6-k/0001193125-25-195340",
+      "title": "6-K: Report of foreign issuer rules 13a-16 and 15d-16 of the Securities Exchange Act",
+      "content_html": "THOMSON REUTERS CORP /CAN/",
+      "content_text": "THOMSON REUTERS CORP /CAN/",
+      "date_published": "2025-09-04T11:21:15.000Z"
+    },
+    {
+      "id": 31661,
+      "url": "https://ir.thomsonreuters.com/sec-filings/sec-filing/6-k/0001193125-25-263537",
+      "title": "6-K: Report of foreign issuer rules 13a-16 and 15d-16 of the Securities Exchange Act",
+      "content_html": "THOMSON REUTERS CORP /CAN/",
+      "content_text": "THOMSON REUTERS CORP /CAN/",
+      "date_published": "2025-11-04T12:09:32.000Z"
+    },
+    {
+      "id": 31676,
+      "url": "https://ir.thomsonreuters.com/sec-filings/sec-filing/6-k/0001193125-25-267009",
+      "title": "6-K: Report of foreign issuer rules 13a-16 and 15d-16 of the Securities Exchange Act",
+      "content_html": "THOMSON REUTERS CORP /CAN/",
+      "content_text": "THOMSON REUTERS CORP /CAN/",
+      "date_published": "2025-11-05T21:20:20.000Z"
+    },
+    {
+      "id": 31681,
+      "url": "https://ir.thomsonreuters.com/sec-filings/sec-filing/144/0001969223-25-000914",
+      "title": "144: Filed by \"insiders\" prior intended sale of restricted stock.",
+      "content_html": "THOMSON REUTERS CORP /CAN/",
+      "content_text": "THOMSON REUTERS CORP /CAN/",
+      "date_published": "2025-11-05T21:53:17.000Z"
+    },
+    {
+      "id": 31686,
+      "url": "https://ir.thomsonreuters.com/sec-filings/sec-filing/schedule-13da/0001140361-25-041444",
+      "title": "SCHEDULE 13D/A: SCHEDULE 13D/A - Description",
+      "content_html": "THOMSON REUTERS CORP /CAN/",
+      "content_text": "THOMSON REUTERS CORP /CAN/",
+      "date_published": "2025-11-11T02:19:32.000Z"
+    },
+    {
+      "id": 31701,
+      "url": "https://ir.thomsonreuters.com/sec-filings/sec-filing/6-k/0001193125-25-283010",
+      "title": "6-K: Report of foreign issuer rules 13a-16 and 15d-16 of the Securities Exchange Act",
+      "content_html": "THOMSON REUTERS CORP /CAN/",
+      "content_text": "THOMSON REUTERS CORP /CAN/",
+      "date_published": "2025-11-14T21:19:47.000Z"
+    },
+    {
+      "id": 31716,
+      "url": "https://ir.thomsonreuters.com/sec-filings/sec-filing/144/0001140361-25-043729",
+      "title": "144: Filed by \"insiders\" prior intended sale of restricted stock.",
+      "content_html": "THOMSON REUTERS CORP /CAN/",
+      "content_text": "THOMSON REUTERS CORP /CAN/",
+      "date_published": "2025-12-01T13:50:46.000Z"
+    },
+    {
+      "id": 31721,
+      "url": "https://ir.thomsonreuters.com/sec-filings/sec-filing/144/0001969223-25-001095",
+      "title": "144: Filed by \"insiders\" prior intended sale of restricted stock.",
+      "content_html": "THOMSON REUTERS CORP /CAN/",
+      "content_text": "THOMSON REUTERS CORP /CAN/",
+      "date_published": "2025-12-15T22:06:10.000Z"
+    }
+  ]
+}

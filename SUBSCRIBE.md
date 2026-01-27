@@ -46,3 +46,6 @@
 | BBC中文-兩岸 | https://exposir.github.io/RSS/feeds/bbc-zh-china.json    |
 | BBC中文-英國 | https://exposir.github.io/RSS/feeds/bbc-zh-uk.json       |
 | BBC中文-財經 | https://exposir.github.io/RSS/feeds/bbc-zh-business.json |
+| Reuters新闻  | https://exposir.github.io/RSS/feeds/reuters-news.json    |
+| Reuters活动  | https://exposir.github.io/RSS/feeds/reuters-events.json  |
+| Reuters SEC  | https://exposir.github.io/RSS/feeds/reuters-sec.json     |

@@ -169,3 +169,15 @@ feeds:
   - name: BBC中文-財經
     url: http://www.bbc.co.uk/zhongwen/trad/business/index.xml
     output: feeds/bbc-zh-business.json
+
+  - name: Reuters新闻
+    url: https://ir.thomsonreuters.com/rss/news-releases.xml?items=15
+    output: feeds/reuters-news.json
+
+  - name: Reuters活动
+    url: https://ir.thomsonreuters.com/rss/events.xml?items=15
+    output: feeds/reuters-events.json
+
+  - name: Reuters SEC
+    url: https://ir.thomsonreuters.com/rss/sec-filings.xml?items=15
+    output: feeds/reuters-sec.json

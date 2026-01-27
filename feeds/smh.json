@@ -6,6 +6,166 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "4920b873-8cd3-4ae5-9e58-4f8f827d6693",
+      "url": "https://www.smh.com.au/business/the-economy/higher-immigration-is-an-economic-fix-but-it-s-not-a-panacea-20260127-p5nxci.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Higher immigration is an economic fix, but it’s not a panacea",
+      "content_html": "There’s a cost to taking in more people, but there’s also a significant price to pay if we pull up the drawbridge.",
+      "content_text": "There’s a cost to taking in more people, but there’s also a significant price to pay if we pull up the drawbridge.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "29cff24c-cc2c-45dc-831e-954747520699",
+      "url": "https://www.smh.com.au/traveller/inspiration/i-d-been-to-bangkok-a-dozen-times-before-i-discovered-this-highlight-20260127-p5nxch.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "I’d been to Bangkok a dozen times before I discovered this highlight",
+      "content_html": "Bangkok can be an oppressive city. Sometimes, you need an escape. But don’t go looking for it in its air-conditioned shopping centres: come to this island.",
+      "content_text": "Bangkok can be an oppressive city. Sometimes, you need an escape. But don’t go looking for it in its air-conditioned shopping centres: come to this island.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "0b3713cc-cadd-4b6b-8d8a-3df9f7471126",
+      "url": "https://www.smh.com.au/business/companies/the-missing-piece-amazon-will-deliver-fresh-food-for-the-first-time-20260127-p5nxbj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘The missing piece’: Amazon will deliver fresh food for the first time",
+      "content_html": "The US juggernaut’s partnership with premium grocery chain Harris Farm addresses a major gap – and intensifies competition for Coles and Woolworths.",
+      "content_text": "The US juggernaut’s partnership with premium grocery chain Harris Farm addresses a major gap – and intensifies competition for Coles and Woolworths.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "9cc41695-b332-4ff9-8e33-8cade0771cd5",
+      "url": "https://www.smh.com.au/traveller/reviews-and-advice/no-thanks-11-popular-foreign-dishes-i-just-don-t-get-20260127-p5nx9u.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "No, thanks: 11 popular foreign dishes I just don’t get",
+      "content_html": "I won’t say I don’t like these much-loved and sometimes iconic national dishes. Let’s just say I’m still learning to like them.",
+      "content_text": "I won’t say I don’t like these much-loved and sometimes iconic national dishes. Let’s just say I’m still learning to like them.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "dc4acddf-c224-4eee-b75a-7738a16f3dc5",
+      "url": "https://www.smh.com.au/culture/books/dennis-altman-s-essays-chronicle-his-deeply-political-life-20260127-p5nx9c.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Dennis Altman’s essays chronicle his deeply political life",
+      "content_html": "At the age of 80, the acclaimed professor of politics and gay rights activist’s essays are an account of the changing times.",
+      "content_text": "At the age of 80, the acclaimed professor of politics and gay rights activist’s essays are an account of the changing times.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "0d665b78-df1a-4d42-9a12-f1e6a42793b0",
+      "url": "https://www.smh.com.au/culture/opera/pirates-of-penzance-victorian-opera-20260127-p5nx97.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "What is it about this show that can prompt a lifetime of obsession?",
+      "content_html": "This month Victorian Opera will present the umpteenth staging of The Pirates of Penzance. And for the umpteenth time, it’ll be a hit.",
+      "content_text": "This month Victorian Opera will present the umpteenth staging of The Pirates of Penzance. And for the umpteenth time, it’ll be a hit.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "8c03676a-7b8c-4a98-85bb-696a3c855e33",
+      "url": "https://www.smh.com.au/traveller/travel-news/donald-wants-a-trump-tower-in-australia-that-s-the-last-thing-we-need-20260126-p5nx5m.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Donald wants a Trump Tower in Australia. That’s the last thing we need",
+      "content_html": "Reports the Trumps are in talks for a giant tower on the Gold Coast should set off alarm bells.",
+      "content_text": "Reports the Trumps are in talks for a giant tower on the Gold Coast should set off alarm bells.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "9a26a83d-ed52-4870-9198-8700d8daef54",
+      "url": "https://www.smh.com.au/national/nsw/suspended-sydney-millionaire-surgeon-found-guilty-of-serious-misconduct-20260126-p5nx40.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Suspended Sydney millionaire surgeon found guilty of serious misconduct",
+      "content_html": "Hotel mogul Jerry Schwartz said he planned to appeal the decision after a tribunal found he breached restrictions on his cosmetic practice by giving patients fentanyl.",
+      "content_text": "Hotel mogul Jerry Schwartz said he planned to appeal the decision after a tribunal found he breached restrictions on his cosmetic practice by giving patients fentanyl.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "2f939aa0-79ec-458e-ae3a-c5cce67b0b6a",
+      "url": "https://www.smh.com.au/goodfood/melbourne-eating-out/eleven-new-cbd-spots-for-lunch-treats-and-coffee-plus-a-bistro-where-everything-is-14-20260126-p5nx2k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Eleven new CBD spots for lunch, treats and coffee (plus a bistro where everything is $14)",
+      "content_html": "Beat the back-to-work blues with mid-morning breaks geared around cake and coffee, bargain lunch plates and iced matcha.",
+      "content_text": "Beat the back-to-work blues with mid-morning breaks geared around cake and coffee, bargain lunch plates and iced matcha.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "7ec9cdf0-efbf-4ec6-bd18-c00acbd45867",
+      "url": "https://www.smh.com.au/politics/victoria/the-high-stakes-game-of-chicken-highlighted-by-a-median-strip-fire-20260126-p5nx2d.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The high-stakes ‘game of chicken’ highlighted by a median-strip fire",
+      "content_html": "A grass fire along Hoddle Street has exposed the danger of overgrown state-owned median strips and verges.",
+      "content_text": "A grass fire along Hoddle Street has exposed the danger of overgrown state-owned median strips and verges.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "a3914edc-78d7-4369-a7c0-5b57be4e927c",
+      "url": "https://www.smh.com.au/national/nsw/attorney-general-tells-imams-new-hate-speech-laws-won-t-silence-criticisms-of-foreign-governments-20260126-p5nwyl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Attorney-general tells imams new hate speech laws won’t silence criticisms of foreign governments",
+      "content_html": "Attorney-General Michelle Rowland has written to the Australian National Imams Council to tamp down concerns of unintended consequences of the federal government’s hate laws.",
+      "content_text": "Attorney-General Michelle Rowland has written to the Australian National Imams Council to tamp down concerns of unintended consequences of the federal government’s hate laws.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "1c5e12ee-6cd4-4526-9803-f8d591b1afe2",
+      "url": "https://www.smh.com.au/national/the-paedophiles-paying-aussie-kids-to-produce-abuse-material-20260122-p5nw32.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The paedophiles paying Aussie kids to produce abuse material",
+      "content_html": "Financial data has been used to identify transactions by 10 suspected paedophiles, including a teacher, who have been paying children in Australia.",
+      "content_text": "Financial data has been used to identify transactions by 10 suspected paedophiles, including a teacher, who have been paying children in Australia.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "bf69a415-eaae-4d9e-bfc6-e05b5ff2902b",
+      "url": "https://www.smh.com.au/business/companies/adult-men-s-faces-can-verify-teen-girls-snapchat-accounts-in-major-loophole-20260122-p5nw2v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Adult men’s faces can verify teen girls’ Snapchat accounts in major loophole",
+      "content_html": "The tech giant has implemented its “reasonable steps” to prevent under-age users from having accounts. But an “intentional design choice” means banned users can continue accessing the app.",
+      "content_text": "The tech giant has implemented its “reasonable steps” to prevent under-age users from having accounts. But an “intentional design choice” means banned users can continue accessing the app.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "ce2d56a6-0378-4af1-b210-93c5041819ef",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/my-17-year-old-is-trying-to-find-a-part-time-job-are-trial-shifts-legal-20260121-p5nvyn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "My 17-year-old is trying to find a part-time job. Are ‘trial’ shifts legal?",
+      "content_html": "Young workers are particularly vulnerable to this kind of exploitation because they’re keen, inexperienced and unlikely to push back.",
+      "content_text": "Young workers are particularly vulnerable to this kind of exploitation because they’re keen, inexperienced and unlikely to push back.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "02a9aff7-a82e-458a-9572-2f67a174463a",
+      "url": "https://www.smh.com.au/national/nsw/walking-on-this-sydney-street-felt-like-a-traffic-sewer-not-any-more-20260120-p5nveh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Walking on this Sydney street felt like a ‘traffic sewer’. Not any more",
+      "content_html": "Foot traffic has more than tripled in some areas on George Street while nosediving on Pitt Street – but there’s still a way to go.",
+      "content_text": "Foot traffic has more than tripled in some areas on George Street while nosediving on Pitt Street – but there’s still a way to go.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "8b4d8037-e7d0-4f9a-a80f-8f8f4561fd79",
+      "url": "https://www.smh.com.au/culture/music/chrissy-amphlett-wrote-a-show-in-which-she-was-a-crow-years-after-her-death-her-vision-lives-on-20260114-p5ntwu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Chrissy Amphlett wrote a show in which she was a crow. Years after her death, her vision lives on",
+      "content_html": "Sheridan Harbridge has created the show the late Divinyls legend never got to make.",
+      "content_text": "Sheridan Harbridge has created the show the late Divinyls legend never got to make.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "b06559d1-c08f-4d0d-8817-38947ca28d9b",
+      "url": "https://www.smh.com.au/goodfood/recipes/adam-liaw-reveals-the-one-secret-to-a-better-caprese-salad-20260112-p5ntgs.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Adam Liaw reveals the one secret to a better Caprese salad",
+      "content_html": "With so few ingredients, every element must work twice as hard. The key to this classic dish isn’t adding more – it’s better curation.",
+      "content_text": "With so few ingredients, every element must work twice as hard. The key to this classic dish isn’t adding more – it’s better curation.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "9fe8acbd-4077-4f50-8124-014ef106ba21",
+      "url": "https://www.smh.com.au/money/planning-and-budgeting/i-don-t-want-to-do-the-maths-how-single-women-are-funding-their-fertility-20260127-p5nx8e.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘I don’t want to do the maths’: How single women are funding their fertility",
+      "content_html": "There are no guarantees or refunds with fertility treatments, and the costs can stretch into the tens of thousands.",
+      "content_text": "There are no guarantees or refunds with fertility treatments, and the costs can stretch into the tens of thousands.",
+      "date_published": "2026-01-27T18:01:00.000Z"
+    },
+    {
+      "id": "c4db2dc9-e733-49ee-b8dd-ebc10efe598b",
+      "url": "https://www.smh.com.au/money/super-and-retirement/the-seven-biggest-money-worries-for-australian-retirees-explained-20260127-p5nx9j.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The seven biggest money worries for Australian retirees explained",
+      "content_html": "Here’s what more than 3000 people say are their most pressing issues as they move from work to retirement, and some information to help put your mind at ease.",
+      "content_text": "Here’s what more than 3000 people say are their most pressing issues as they move from work to retirement, and some information to help put your mind at ease.",
+      "date_published": "2026-01-27T18:03:00.000Z"
+    },
+    {
+      "id": "17e4d736-9eb1-4e14-bee8-939190bc8eb2",
+      "url": "https://www.smh.com.au/money/planning-and-budgeting/i-m-60-and-retired-should-i-start-spending-my-super-yet-20260127-p5nx7q.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "I’m 60 and retired. Should I start spending my super yet?",
+      "content_html": "Moving your super from accumulation mode to pension mode has many benefits, and you can still add to it again later.",
+      "content_text": "Moving your super from accumulation mode to pension mode has many benefits, and you can still add to it again later.",
+      "date_published": "2026-01-27T18:03:00.000Z"
+    },
+    {
       "id": "453b6479-a8fd-45ac-83af-7667fb03d679",
       "url": "https://www.smh.com.au/national/nsw/weekend-at-davo-s-20260127-p5nx7a.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Weekend at Davo’s",
