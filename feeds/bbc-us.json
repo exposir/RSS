@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/golf/articles/c1m72xxk2p8o#7",
+      "url": "https://www.bbc.com/sport/golf/articles/c1m72xxk2p8o?at_medium=RSS&at_campaign=rss",
+      "title": "Koepka 'rang Woods first' over PGA Tour return",
+      "content_html": "Five-time major winner Brooks Koepka says Tiger Woods was the first person he called to discuss a return to the PGA Tour after leaving the LIV Golf circuit.",
+      "content_text": "Five-time major winner Brooks Koepka says Tiger Woods was the first person he called to discuss a return to the PGA Tour after leaving the LIV Golf circuit.",
+      "date_published": "2026-01-27T20:14:35.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/c0lx2z9e363o#7",
       "url": "https://www.bbc.com/sport/football/articles/c0lx2z9e363o?at_medium=RSS&at_campaign=rss",
       "title": "Conte reunion a sharp reminder of Chelsea's fall",

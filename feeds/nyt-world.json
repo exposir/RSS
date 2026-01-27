@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/27/world/europe/spain-undocumented-migrants-residency.html",
+      "url": "https://www.nytimes.com/2026/01/27/world/europe/spain-undocumented-migrants-residency.html",
+      "title": "Spain Offers Undocumented Migrants a Legal Way to Stay",
+      "content_html": "The measure, unexpectedly approved, comes as other countries are cracking down on immigration.",
+      "content_text": "The measure, unexpectedly approved, comes as other countries are cracking down on immigration.",
+      "date_published": "2026-01-27T20:33:20.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
       "url": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
       "title": "How Computer Warfare Is Becoming Part of the Pentagon’s Arsenal",
