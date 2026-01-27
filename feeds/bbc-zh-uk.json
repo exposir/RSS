@@ -1,0 +1,1017 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {
+    "#text": "bbcchinese.com | 英國",
+    "@_xml:lang": "zh-Hant"
+  },
+  "home_page_url": "http://www.bbc.co.uk/zhongwen/trad/uk/index.xml",
+  "feed_url": "https://exposir.github.io/RSS/feeds/bbc-zh-uk.json",
+  "description": "",
+  "items": [
+    {
+      "id": "tag:www.bbcchinese.com,2013-06-24:25472111",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/standards/law/article/art20130702112134117",
+      "title": "版權問題",
+      "content_html": "版權問題",
+      "content_text": "版權問題",
+      "date_published": "2013-06-24T11:09:50.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2013-06-24:25472172",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/how-to/mobile/article/art20130702112134080",
+      "title": "如何為手機平台寫新聞",
+      "content_html": "如何為手機平台寫新聞",
+      "content_text": "如何為手機平台寫新聞",
+      "date_published": "2013-06-24T11:11:24.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2013-06-24:25472190",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/language/style/article/art20130702112134103",
+      "title": "新聞寫作風格",
+      "content_html": "新聞寫作風格",
+      "content_text": "新聞寫作風格",
+      "date_published": "2013-06-24T11:12:14.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2013-06-24:25472165",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/standards/truth-accuracy/article/art20130702112134131",
+      "title": "真實性和凖確性",
+      "content_html": "真實性和凖確性",
+      "content_text": "真實性和凖確性",
+      "date_published": "2013-06-24T11:10:36.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2013-06-24:25472225",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/language/web-writing/article/art20130702112134107",
+      "title": "視頻：BBC中文網網絡寫作介紹",
+      "content_html": "視頻：BBC中文網網絡寫作介紹",
+      "content_text": "視頻：BBC中文網網絡寫作介紹",
+      "date_published": "2013-06-24T11:13:02.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2013-06-24:25472079",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/standards/social-media/article/art20130702112134125",
+      "title": "視頻：中文社交媒體的影響",
+      "content_html": "視頻：中文社交媒體的影響",
+      "content_text": "視頻：中文社交媒體的影響",
+      "date_published": "2013-06-24T11:08:59.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2013-07-01:25606943",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/language/web-writing/article/art20130702112134105",
+      "title": "視頻：在報道敏感材料時如何使用適當語言",
+      "content_html": "視頻：在報道敏感材料時如何使用適當語言",
+      "content_text": "視頻：在報道敏感材料時如何使用適當語言",
+      "date_published": "2013-07-01T09:44:26.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2013-08-30:26765051",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/article/art20130816115010497",
+      "title": "記者如何避免在報道時被指蔑視法庭？",
+      "content_html": "記者如何避免在報道時被指蔑視法庭？",
+      "content_text": "記者如何避免在報道時被指蔑視法庭？",
+      "date_published": "2013-08-30T12:41:52.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2013-08-30:26765110",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/standards/law/article/art20130830112605706",
+      "title": "記者報道法庭審訊應注意事項",
+      "content_html": "記者報道法庭審訊應注意事項",
+      "content_text": "記者報道法庭審訊應注意事項",
+      "date_published": "2013-08-30T12:44:24.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2013-09-19:27173417",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/article/art20130702112134089",
+      "title": "檢查公眾提供材料的真偽",
+      "content_html": "檢查公眾提供材料的真偽",
+      "content_text": "檢查公眾提供材料的真偽",
+      "date_published": "2013-09-19T14:41:35.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-01-28:29794174",
+      "url": "http://www.bbc.co.uk/academy/chinese-trad/article/art20140128073946231",
+      "title": "BBC新聞學院再推出四個新語言網站",
+      "content_html": "BBC新聞學院再推出四個新語言網站",
+      "content_text": "BBC新聞學院再推出四個新語言網站",
+      "date_published": "2014-01-28T09:55:02.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-02-05:29963055",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/article/art20140205080333589",
+      "title": "保護你的廣播嗓音",
+      "content_html": "保護你的廣播嗓音",
+      "content_text": "保護你的廣播嗓音",
+      "date_published": "2014-02-05T08:58:02.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-02-24:30354985",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/article/art20140224090052053",
+      "title": "指引：如何對待受訪嘉賓",
+      "content_html": "指引：如何對待受訪嘉賓",
+      "content_text": "指引：如何對待受訪嘉賓",
+      "date_published": "2014-02-24T09:30:58.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-03-12:30694222",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/standards/public-interest/article/art20130702112134123",
+      "title": "確保新聞報道以公眾利益為依歸的幾個考慮點",
+      "content_html": "如何確保新聞報道以公眾利益為依歸？",
+      "content_text": "如何確保新聞報道以公眾利益為依歸？",
+      "date_published": "2014-03-12T09:51:38.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-03-17:30797212",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/article/art20140317104248037",
+      "title": "視頻：核實新聞材料的辦法與實例",
+      "content_html": "視頻：核實新聞材料的辦法與實例",
+      "content_text": "視頻：核實新聞材料的辦法與實例",
+      "date_published": "2014-03-17T14:10:22.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-04-02:31116250",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/article/art20140402081801970",
+      "title": "做深入調查報道所需注意事項",
+      "content_html": "做深入調查報道所需注意事項",
+      "content_text": "做深入調查報道所需注意事項",
+      "date_published": "2014-04-02T08:00:47.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-06-02:32394946",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/article/art20140530131145371",
+      "title": "為什麼BBC避免使用「恐怖襲擊」的字眼？",
+      "content_html": "為什麼BBC避免使用「恐怖襲擊」的字眼？",
+      "content_text": "為什麼BBC避免使用「恐怖襲擊」的字眼？",
+      "date_published": "2014-06-02T14:32:29.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-07-08:33227501",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/article/art20140708081933528",
+      "title": "蘇格蘭獨立公投與BBC的媒體責任",
+      "content_html": "蘇格蘭獨立公投與BBC的媒體責任",
+      "content_text": "蘇格蘭獨立公投與BBC的媒體責任",
+      "date_published": "2014-07-08T07:43:14.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-08-14:34010095",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/article/art20140804141958616",
+      "title": "BBC新聞學院英語網站免費提供給讀者",
+      "content_html": "BBC新聞學院英語網站全面免費提供給讀者",
+      "content_text": "BBC新聞學院英語網站全面免費提供給讀者",
+      "date_published": "2014-08-14T12:25:00.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-10:34599297",
+      "url": "http://www.bbc.co.uk/academy/chinese-simp/how-to/production/article/art20140910075758872",
+      "title": "廣播時如何使用Skype",
+      "content_html": "廣播時如何使用Skype",
+      "content_text": "廣播時如何使用Skype",
+      "date_published": "2014-09-10T07:25:03.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-12:34659039",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140912_vid_taiwan_trade.shtml",
+      "title": "視頻：兩岸貿易協議前景難料",
+      "content_html": "雖然台灣商人急於與中國簽訂貿易協議，爭取在韓國之前取得免關稅優惠，但是島內政治的糾纏卻難以看好。",
+      "content_text": "雖然台灣商人急於與中國簽訂貿易協議，爭取在韓國之前取得免關稅優惠，但是島內政治的糾纏卻難以看好。",
+      "date_published": "2014-09-12T13:44:52.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-12:34653987",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140912_vid_nomad_games.shtml",
+      "title": "視頻：看看遊牧民族如何「追女孩」",
+      "content_html": "吉爾吉斯斯坦舉行世界首個遊牧民族運動會，推廣亞洲遊牧民族的傳統和文化。",
+      "content_text": "吉爾吉斯斯坦舉行世界首個遊牧民族運動會，推廣亞洲遊牧民族的傳統和文化。",
+      "date_published": "2014-09-12T11:05:20.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-15:34714170",
+      "title": "視頻回放：移民如何看蘇格蘭獨立公投？",
+      "content_html": "BBC東亞、非洲和南亞區聯手於9月15日舉行Google Hangouts（谷歌環聊）視頻討論，嘉賓來自亞洲、非洲和北美。",
+      "content_text": "BBC東亞、非洲和南亞區聯手於9月15日舉行Google Hangouts（谷歌環聊）視頻討論，嘉賓來自亞洲、非洲和北美。",
+      "date_published": "2014-09-15T13:23:44.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-15:34715979",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140915_vid_scottish_cantonese_intvs.shtml",
+      "title": "視頻：蘇格蘭香港移民看獨立公投（粵語）",
+      "content_html": "兩名在蘇格蘭居住了三十年的華人接受BBC粵語節目《時事一周》電話採訪，講述他們對918獨立公投的看法。",
+      "content_text": "兩名在蘇格蘭居住了三十年的華人接受BBC粵語節目《時事一周》電話採訪，講述他們對918獨立公投的看法。",
+      "date_published": "2014-09-15T14:24:03.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-16:34737944",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140916_vid_pavement_explosion.shtml",
+      "title": "視頻：小心倫敦街頭的死亡陷阱",
+      "content_html": "倫敦街頭在今年至今已經發生過64起沙井爆炸，走在倫敦請小心一點。",
+      "content_text": "倫敦街頭在今年至今已經發生過64起沙井爆炸，走在倫敦請小心一點。",
+      "date_published": "2014-09-16T13:17:00.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-16:34739979",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140916_vid_alibaba.shtml",
+      "title": "視頻：阿里巴巴快在紐約上市了",
+      "content_html": "中國網上銷售巨頭阿里巴巴即將在美國紐約上市集資，阿里巴巴創辦人馬雲可不簡單。這裏介紹一下。",
+      "content_text": "中國網上銷售巨頭阿里巴巴即將在美國紐約上市集資，阿里巴巴創辦人馬雲可不簡單。這裏介紹一下。",
+      "date_published": "2014-09-16T14:31:52.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-16:34733635",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140916_vid_new_scotland_explainer.shtml",
+      "title": "新聞圖解：蘇格蘭公投對大不列顛的震蕩",
+      "content_html": "距離蘇格蘭獨立公投還有三天的時間。如果蘇格蘭真的獨立，對大不列顛意味著什麼呢？",
+      "content_text": "距離蘇格蘭獨立公投還有三天的時間。如果蘇格蘭真的獨立，對大不列顛意味著什麼呢？",
+      "date_published": "2014-09-16T10:43:25.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-17:34760371",
+      "title": "視頻：愛丁堡糕餅店公投蛋糕熱賣",
+      "content_html": "918蘇格蘭公投在即，愛丁堡一家糕餅店以統、獨、未決定題材做紙杯蛋糕作為非正式民調。",
+      "content_text": "918蘇格蘭公投在即，愛丁堡一家糕餅店以統、獨、未決定題材做紙杯蛋糕作為非正式民調。",
+      "date_published": "2014-09-17T12:15:23.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-18:34787401",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140918_vid_alibaba_shopping.shtml",
+      "title": "視頻：阿里巴巴和中國網上購物革命",
+      "content_html": "中國網上購物的興起意味著在電腦上動動指頭就能招徠顧客。",
+      "content_text": "中國網上購物的興起意味著在電腦上動動指頭就能招徠顧客。",
+      "date_published": "2014-09-18T12:46:38.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-19:34819439",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140919_vid_scotland_decided.shtml",
+      "title": "視頻：蘇格蘭獨立公投結果反對派勝出",
+      "content_html": "蘇格蘭獨立公投結果反對獨立一派獲勝。",
+      "content_text": "蘇格蘭獨立公投結果反對獨立一派獲勝。",
+      "date_published": "2014-09-19T15:19:45.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-22:34871372",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140922_iv_chankingcheung.shtml",
+      "title": "音頻：陳景祥解讀習近平接見香港工商精英",
+      "content_html": "音頻：陳景祥解讀習近平接見香港工商精英",
+      "content_text": "音頻：陳景祥解讀習近平接見香港工商精英",
+      "date_published": "2014-09-22T12:47:08.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-23:34898372",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140923_vid_war_bus_b.shtml",
+      "title": "視頻：參與一次大戰倫敦公交車重新上路",
+      "content_html": "一輛曾參與一次世界大戰在歐洲戰場運送士兵的倫敦公交車重新裝扮，紀念大戰一百週年。",
+      "content_text": "一輛曾參與一次世界大戰在歐洲戰場運送士兵的倫敦公交車重新裝扮，紀念大戰一百週年。",
+      "date_published": "2014-09-23T14:12:18.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-23:34887006",
+      "title": "音頻：李方平談伊力哈木案一審判決",
+      "content_html": "中國學者伊力哈木•土赫提「分裂國家」案一審判處無期徒刑。代表律師李方平向BBC中文網講解宣判情況。",
+      "content_text": "中國學者伊力哈木•土赫提「分裂國家」案一審判處無期徒刑。代表律師李方平向BBC中文網講解宣判情況。",
+      "date_published": "2014-09-23T08:17:23.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-23:34891803",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/multimedia/2014/09/140923_vid_ilham.shtml",
+      "title": "視頻：維吾爾族敢言學者被判無期徒刑",
+      "content_html": "向來言論溫和的維吾爾族學者伊力哈木被判無期徒刑。",
+      "content_text": "向來言論溫和的維吾爾族學者伊力哈木被判無期徒刑。",
+      "date_published": "2014-09-23T10:52:13.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-22:34862329",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/interactive/2014/09/140922_pic_hk_students_protests.shtml",
+      "title": "圖輯： 香港大專學生開始罷課五天",
+      "content_html": "香港高校學生抗議北京政改決定的罷課行動展開，BBC中文網現場報導罷課情況。",
+      "content_text": "香港高校學生抗議北京政改決定的罷課行動展開，BBC中文網現場報導罷課情況。",
+      "date_published": "2014-09-22T06:51:03.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-03:34445187",
+      "title": "英35億英鎊訂購近600輛新型裝甲車",
+      "content_html": "英國國防部宣佈，英國將斥資35億英鎊訂購近600輛新型裝甲車。",
+      "content_text": "英國國防部宣佈，英國將斥資35億英鎊訂購近600輛新型裝甲車。",
+      "date_published": "2014-09-03T09:59:44.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-03:34445593",
+      "title": "記者來鴻：吃蟲子—心服容易口服難",
+      "content_html": "油炸蜘蛛、蟋蟀餅幹？專家建議多吃昆蟲。但是，和盤中餐面面相覷、四目對視？",
+      "content_text": "油炸蜘蛛、蟋蟀餅幹？專家建議多吃昆蟲。但是，和盤中餐面面相覷、四目對視？",
+      "date_published": "2014-09-03T10:13:40.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-03:34448260",
+      "title": "西非感染埃博拉 英國志願者痊癒出院",
+      "content_html": "在西非感染埃博拉病毒的第一個英國人在倫敦經過治療後，已經痊癒出院。",
+      "content_text": "在西非感染埃博拉病毒的第一個英國人在倫敦經過治療後，已經痊癒出院。",
+      "date_published": "2014-09-03T11:25:36.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-03:34450826",
+      "title": "蘇格蘭獨立公投：貨幣、北海原油、財政",
+      "content_html": "公投對許多人來說，最不確定的是蘇格蘭未來能不能有穩定的經濟和光明的未來。",
+      "content_text": "公投對許多人來說，最不確定的是蘇格蘭未來能不能有穩定的經濟和光明的未來。",
+      "date_published": "2014-09-03T12:48:52.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-03:34452203",
+      "title": "全球競爭力排名榜 英國名列第9位",
+      "content_html": "世界經濟論壇發表全球競爭力排名榜，英國排名第9，比去年上升一位。",
+      "content_text": "世界經濟論壇發表全球競爭力排名榜，英國排名第9，比去年上升一位。",
+      "date_published": "2014-09-03T13:31:17.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-03:34452293",
+      "title": "幾經周折 英國患癌男童與父母團聚",
+      "content_html": "英國12萬人在網上聯署，要求警方和首相卡梅倫幫助一名患腦癌的男童和父母盡快團聚。",
+      "content_text": "英國12萬人在網上聯署，要求警方和首相卡梅倫幫助一名患腦癌的男童和父母盡快團聚。",
+      "date_published": "2014-09-03T13:33:24.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-04:34471300",
+      "title": "白金漢宮衛兵搞笑動作娛樂遊人自惹麻煩",
+      "content_html": "白金漢宮衛兵以嚴肅著稱，可是其中一人以「傻步操」娛樂遊人，現在卻可能有麻煩。",
+      "content_text": "白金漢宮衛兵以嚴肅著稱，可是其中一人以「傻步操」娛樂遊人，現在卻可能有麻煩。",
+      "date_published": "2014-09-04T09:33:28.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-04:34472238",
+      "title": "記者來鴻：澳大利亞向誰緊閉國門？",
+      "content_html": "移民國家不再歡迎移民，對船民更是緊閉大門。強硬政策招徠國際微詞，在國內卻頗有人緣。",
+      "content_text": "移民國家不再歡迎移民，對船民更是緊閉大門。強硬政策招徠國際微詞，在國內卻頗有人緣。",
+      "date_published": "2014-09-04T10:16:40.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-04:34473089",
+      "title": "北倫敦兩米寬狹窄房屋天價求售",
+      "content_html": "倫敦北部一棟房子只有2.1米寬，僅可容身，出售價格卻高達20多萬英鎊。",
+      "content_text": "倫敦北部一棟房子只有2.1米寬，僅可容身，出售價格卻高達20多萬英鎊。",
+      "date_published": "2014-09-04T10:39:19.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-04:34480403",
+      "title": "全歐之最：倫敦建遠距離自行車隔離道",
+      "content_html": "倫敦市長約翰遜公布建造兩條新大型自行車隔離道計劃，但遭質疑是否物有所值。",
+      "content_text": "倫敦市長約翰遜公布建造兩條新大型自行車隔離道計劃，但遭質疑是否物有所值。",
+      "date_published": "2014-09-04T14:23:33.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-04:34481841",
+      "title": "專訪：為英國設計生肖紀念幣的華裔藝術家",
+      "content_html": "BBC英倫網專訪設計英國生肖紀念幣的華裔藝術家何文津，暢談其創作歷程。",
+      "content_text": "BBC英倫網專訪設計英國生肖紀念幣的華裔藝術家何文津，暢談其創作歷程。",
+      "date_published": "2014-09-04T15:03:14.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-05:34495983",
+      "title": "記者來鴻：我的頭巾誰做主？",
+      "content_html": "BBC女記者回憶自己戴頭巾、摘頭巾、再戴頭巾的心路、歷程，反思穆斯林女性的頭巾糾結。",
+      "content_text": "BBC女記者回憶自己戴頭巾、摘頭巾、再戴頭巾的心路、歷程，反思穆斯林女性的頭巾糾結。",
+      "date_published": "2014-09-05T08:14:00.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-05:34498589",
+      "title": "研究：說電子香煙不好是「危言聳聽」",
+      "content_html": "倫敦大學學院UCL的研究認為，增加電子香煙的使用反而能夠救命。",
+      "content_text": "倫敦大學學院UCL的研究認為，增加電子香煙的使用反而能夠救命。",
+      "date_published": "2014-09-05T10:26:10.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-05:34499475",
+      "title": "部分英國聖戰者後悔去中東想回家",
+      "content_html": "一組前往中東與伊斯蘭激進分子併肩作戰的英國聖戰者說，他們意識到自己犯了錯誤，想要回家，但又擔心被關起來。",
+      "content_text": "一組前往中東與伊斯蘭激進分子併肩作戰的英國聖戰者說，他們意識到自己犯了錯誤，想要回家，但又擔心被關起來。",
+      "date_published": "2014-09-05T11:06:33.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-05:34500011",
+      "title": "倫敦八旬老婦在自家花園慘遭「斬首」",
+      "content_html": "一位82歲的倫敦婦女在自家花園裏被人「斬首」砍死後，一名男子被警方拘留。",
+      "content_text": "一位82歲的倫敦婦女在自家花園裏被人「斬首」砍死後，一名男子被警方拘留。",
+      "date_published": "2014-09-05T11:24:16.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-08:34551559",
+      "title": "英王室又要添丁 首相率先賀喜",
+      "content_html": "英國王室宣佈，劍橋公爵夫人凱特懷孕，劍橋公爵威廉王子夫婦將再添寶寶。",
+      "content_text": "英國王室宣佈，劍橋公爵夫人凱特懷孕，劍橋公爵威廉王子夫婦將再添寶寶。",
+      "date_published": "2014-09-08T09:44:06.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-08:34550881",
+      "title": "英國患癌男童阿什亞•金「將赴捷克就醫」",
+      "content_html": "引國際關注的英國五歲腦癌患者阿什亞•金獲捷克一家醫院收治，他將到該醫院接受質子治療。",
+      "content_text": "引國際關注的英國五歲腦癌患者阿什亞•金獲捷克一家醫院收治，他將到該醫院接受質子治療。",
+      "date_published": "2014-09-08T09:08:35.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-08:34551082",
+      "title": "擋不住偷渡潮 英向法提供北約鋼牆",
+      "content_html": "警方拘捕了一位34歲的男子，他涉嫌過失殺人以及走私人口罪。",
+      "content_text": "警方拘捕了一位34歲的男子，他涉嫌過失殺人以及走私人口罪。",
+      "date_published": "2014-09-08T09:21:57.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-08:34551104",
+      "title": "蘇格蘭公投：獨派民調趕超改變競選勢頭",
+      "content_html": "民調顯示聯合派失去領先優勢後，英國財相許諾蘇格蘭若不獨立會得到更多自治權。",
+      "content_text": "民調顯示聯合派失去領先優勢後，英國財相許諾蘇格蘭若不獨立會得到更多自治權。",
+      "date_published": "2014-09-08T09:22:58.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-08:34553483",
+      "title": "記者來鴻：「冰島龐貝」重見天日",
+      "content_html": "41年前火山爆發吞噬的小城遺跡重見天日，火山灰下的博物館靜靜地講述著那個恐怖瞬間。",
+      "content_text": "41年前火山爆發吞噬的小城遺跡重見天日，火山灰下的博物館靜靜地講述著那個恐怖瞬間。",
+      "date_published": "2014-09-08T10:46:18.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-08:34553809",
+      "title": "階級鴻溝依舊 現代英國似「唐頓莊園」",
+      "content_html": "英國工會領導人警告，英國的社會流動「出現逆轉」，正在形成「唐頓莊元」式社會。",
+      "content_text": "英國工會領導人警告，英國的社會流動「出現逆轉」，正在形成「唐頓莊元」式社會。",
+      "date_published": "2014-09-08T10:55:24.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-08:34551466",
+      "title": "英國面臨分裂？蘇獨民調首度領先",
+      "content_html": "蘇格蘭公投逐漸成為英國各大媒體的報道焦點。從最新民調結果看，統獨兩大陣營支持者相當，很難預測結果。",
+      "content_text": "蘇格蘭公投逐漸成為英國各大媒體的報道焦點。從最新民調結果看，統獨兩大陣營支持者相當，很難預測結果。",
+      "date_published": "2014-09-08T09:41:12.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-08:34558433",
+      "title": "環保組織敦促英國發揮全球減排領導作用",
+      "content_html": "英國環境保護組織要求政府敦促世界各國效仿英國率先採取的行動，制定目標，朝著溫室效應氣體零排放的方向努力。",
+      "content_text": "英國環境保護組織要求政府敦促世界各國效仿英國率先採取的行動，制定目標，朝著溫室效應氣體零排放的方向努力。",
+      "date_published": "2014-09-08T13:07:56.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-08:34561395",
+      "title": "倫敦魯頓機場發現「可疑行李」疏散旅客",
+      "content_html": "倫敦魯頓機場（Luton Airport）在發現「可疑行李」後，緊急疏散了機場旅客。",
+      "content_text": "倫敦魯頓機場（Luton Airport）在發現「可疑行李」後，緊急疏散了機場旅客。",
+      "date_published": "2014-09-08T14:36:10.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-09:34575534",
+      "title": "記者來鴻：普京翻臉「圍城」心態作祟？",
+      "content_html": "剛上台時與西方還算親密，後來漸行漸遠。從牽手走向對立，原因？要從「克里姆林」說起……",
+      "content_text": "剛上台時與西方還算親密，後來漸行漸遠。從牽手走向對立，原因？要從「克里姆林」說起……",
+      "date_published": "2014-09-09T08:32:53.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-09:34577407",
+      "title": "蘇格蘭獨立：三大「統一派」政黨齊發聲",
+      "content_html": "蘇格蘭支持和英國保持統一的工黨、保守黨和自民黨三黨領導人共同宣佈支持為蘇格蘭爭取更多地方權力。",
+      "content_text": "蘇格蘭支持和英國保持統一的工黨、保守黨和自民黨三黨領導人共同宣佈支持為蘇格蘭爭取更多地方權力。",
+      "date_published": "2014-09-09T09:48:32.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-09:34581084",
+      "title": "英國工業產出出現半年來最大升幅",
+      "content_html": "英國官方數字顯示，七月份的英國工業產出出現六個月以來的最大每月增長。",
+      "content_text": "英國官方數字顯示，七月份的英國工業產出出現六個月以來的最大每月增長。",
+      "date_published": "2014-09-09T11:59:06.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-09:34584077",
+      "title": "巧克力茶壺「還真有點用」",
+      "content_html": "英國專家嘗試製作一把以巧克力做成的茶壺，用來泡茶。",
+      "content_text": "英國專家嘗試製作一把以巧克力做成的茶壺，用來泡茶。",
+      "date_published": "2014-09-09T13:47:56.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-09:34584838",
+      "title": "英三大黨領袖親赴蘇格蘭力挺統一",
+      "content_html": "英國三大政黨領袖將於周三（10日）前往蘇格蘭，在獨立公投前為統一陣營鼓氣。",
+      "content_text": "英國三大政黨領袖將於周三（10日）前往蘇格蘭，在獨立公投前為統一陣營鼓氣。",
+      "date_published": "2014-09-09T14:10:37.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-10:34601503",
+      "title": "記者來鴻：青奧會少女與自行車的傳奇",
+      "content_html": "南京傳出一段好故事：自行車給少女帶來夢寐以求的人生機會。記者到盧旺達去追蹤尋源……",
+      "content_text": "南京傳出一段好故事：自行車給少女帶來夢寐以求的人生機會。記者到盧旺達去追蹤尋源……",
+      "date_published": "2014-09-10T09:15:47.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-10:34602525",
+      "title": "研究：焦慮與睡眠藥物與患老年癡呆有關",
+      "content_html": "研究發現長期服用治療焦慮和睡眠障礙的藥物與阿爾茲海默症有關。",
+      "content_text": "研究發現長期服用治療焦慮和睡眠障礙的藥物與阿爾茲海默症有關。",
+      "date_published": "2014-09-10T09:59:44.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-10:34603081",
+      "title": "白金漢宮：女王無意影響蘇格蘭公投結果",
+      "content_html": "近日有報道說，女王對蘇格蘭獨立的前景非常擔憂。對此，白金漢宮強調，女王「超越政治」，無意影響公投結果。",
+      "content_text": "近日有報道說，女王對蘇格蘭獨立的前景非常擔憂。對此，白金漢宮強調，女王「超越政治」，無意影響公投結果。",
+      "date_published": "2014-09-10T10:20:29.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-10:34603966",
+      "title": "默多克：《太陽報》3版女郎過時了",
+      "content_html": "傳媒巨頭默多克稱，《太陽報》第3版的裸胸女郎應該開始著裝了。",
+      "content_text": "傳媒巨頭默多克稱，《太陽報》第3版的裸胸女郎應該開始著裝了。",
+      "date_published": "2014-09-10T10:52:44.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-10:34610883",
+      "title": "卡梅倫：國家若分裂 我將會心碎",
+      "content_html": "英國首相卡梅倫在愛丁堡發表演講，呼籲蘇格蘭不要選擇獨立，而是留在聯合王國之內。",
+      "content_text": "英國首相卡梅倫在愛丁堡發表演講，呼籲蘇格蘭不要選擇獨立，而是留在聯合王國之內。",
+      "date_published": "2014-09-10T14:44:03.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-10:34610736",
+      "url": "http://www.bbc.co.uk/ukchina/simp/uk_life/2014/09/140910_life_surgery.shtml",
+      "title": "為什麼有些病人在全麻手術過程中甦醒？",
+      "content_html": "英國和愛爾蘭每年有三百多病人在全麻手術過程中甦醒過來。",
+      "content_text": "英國和愛爾蘭每年有三百多病人在全麻手術過程中甦醒過來。",
+      "date_published": "2014-09-10T14:38:57.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-11:34626389",
+      "title": "蘇格蘭皇家銀行擬將總部「遷往倫敦」",
+      "content_html": "蘇格蘭皇家銀行確認他們已經制定應急計劃，如果公投贊成獨立，他們將把總部從蘇格蘭遷往倫敦。",
+      "content_text": "蘇格蘭皇家銀行確認他們已經制定應急計劃，如果公投贊成獨立，他們將把總部從蘇格蘭遷往倫敦。",
+      "date_published": "2014-09-11T09:22:37.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-11:34627456",
+      "title": "記者來鴻：從烤鴨看中國的博物館熱",
+      "content_html": "北京又呈上一道文化大餐：烤鴨博物館。中國博物館「發燒」原因何在？能否持續？有何糾結？",
+      "content_text": "北京又呈上一道文化大餐：烤鴨博物館。中國博物館「發燒」原因何在？能否持續？有何糾結？",
+      "date_published": "2014-09-11T09:58:26.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-11:34631191",
+      "title": "薩蒙德：蘇格蘭處於創造歷史的風口浪尖",
+      "content_html": "蘇格蘭首席部長薩蒙德稱，贊成獨立的投票將把蘇格蘭置於「創造歷史的風口浪尖」。",
+      "content_text": "蘇格蘭首席部長薩蒙德稱，贊成獨立的投票將把蘇格蘭置於「創造歷史的風口浪尖」。",
+      "date_published": "2014-09-11T11:45:19.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-11:34634533",
+      "title": "募集善款 阿伯丁海豚藝術雕像被拍賣",
+      "content_html": "蘇格蘭阿伯丁市的一組深受公眾歡迎的海豚藝術彩雕被拍賣，為慈善機構籌集53萬1000英鎊。",
+      "content_text": "蘇格蘭阿伯丁市的一組深受公眾歡迎的海豚藝術彩雕被拍賣，為慈善機構籌集53萬1000英鎊。",
+      "date_published": "2014-09-11T13:49:49.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-11:34637622",
+      "title": "英媒：西方人為何偏愛中國明朝？",
+      "content_html": "英國藝術評論家喬納森•瓊斯說，西方人對明代瓷器著迷的背後，隱藏著一個傲慢的偏見。",
+      "content_text": "英國藝術評論家喬納森•瓊斯說，西方人對明代瓷器著迷的背後，隱藏著一個傲慢的偏見。",
+      "date_published": "2014-09-11T15:17:34.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-12:34651088",
+      "title": "記者來鴻：巴黎與海明威情緣漸盡？",
+      "content_html": "在海明威筆下，巴黎是伴你一生一世的「流動盛宴」。現在，巴黎為什麼淡忘了海明威？",
+      "content_text": "在海明威筆下，巴黎是伴你一生一世的「流動盛宴」。現在，巴黎為什麼淡忘了海明威？",
+      "date_published": "2014-09-12T08:55:53.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-12:34652915",
+      "url": "http://www.bbc.co.uk/ukchina/simp/uk_life/2014/09/140912_life_ice_bucket_britons.shtml",
+      "title": "冰桶挑戰：「六分之一英國人參與」",
+      "content_html": "慈善機構的一項調查稱，六分之一的英國人參與了冰桶挑戰，為慈善募捐。",
+      "content_text": "慈善機構的一項調查稱，六分之一的英國人參與了冰桶挑戰，為慈善募捐。",
+      "date_published": "2014-09-12T10:18:31.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-12:34660528",
+      "title": "北愛爾蘭前政治強人伊恩•佩斯利去世",
+      "content_html": "北愛爾蘭前首席部長、北愛最大政黨民主統一黨前領袖伊恩•佩斯利（Ian Paisley）去世，享年88歲。",
+      "content_text": "北愛爾蘭前首席部長、北愛最大政黨民主統一黨前領袖伊恩•佩斯利（Ian Paisley）去世，享年88歲。",
+      "date_published": "2014-09-12T14:36:06.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-12:34661088",
+      "title": "英國埃博拉痊癒護士將重返非洲",
+      "content_html": "感染埃博拉病毒的第一個英國人說，他將在幾周內重返非洲，幫助當地人應對疫情。",
+      "content_text": "感染埃博拉病毒的第一個英國人說，他將在幾周內重返非洲，幫助當地人應對疫情。",
+      "date_published": "2014-09-12T14:53:27.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-14:34691001",
+      "title": "紅軍的生意經：讓更多球迷掏錢",
+      "content_html": "利物浦俱樂部執行總裁艾爾到現在還對紅軍2005年奪取冠軍杯後，俱樂部商店備貨不足而「頓足捶胸」。",
+      "content_text": "利物浦俱樂部執行總裁艾爾到現在還對紅軍2005年奪取冠軍杯後，俱樂部商店備貨不足而「頓足捶胸」。",
+      "date_published": "2014-09-14T11:22:54.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-15:34708593",
+      "title": "蘇格蘭公投倒計時：卡梅倫薩蒙德窮追選民",
+      "content_html": "蘇格蘭獨立公投剩下不到四天，首相卡梅倫和蘇格蘭第一部長薩蒙德四處游說作最後努力。",
+      "content_text": "蘇格蘭獨立公投剩下不到四天，首相卡梅倫和蘇格蘭第一部長薩蒙德四處游說作最後努力。",
+      "date_published": "2014-09-15T10:16:43.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-15:34709719",
+      "title": "英國八旬老嫗鄉間小徑獨力擊退攔路歹徒",
+      "content_html": "英國一名年過八十的婦女出門溜狗時遭到一名身著黑色套頭衫盜賊的襲擊，她勇猛擊退搶劫者。",
+      "content_text": "英國一名年過八十的婦女出門溜狗時遭到一名身著黑色套頭衫盜賊的襲擊，她勇猛擊退搶劫者。",
+      "date_published": "2014-09-15T11:01:49.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-15:34712575",
+      "title": "記者來鴻：和普京親密接觸",
+      "content_html": "等了14年總算有了這一天，一對一挑戰普京。近距離觀察，硬漢普京居然讓記者想起小精靈！",
+      "content_text": "等了14年總算有了這一天，一對一挑戰普京。近距離觀察，硬漢普京居然讓記者想起小精靈！",
+      "date_published": "2014-09-15T12:32:24.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-15:34716837",
+      "title": "英國零售商『馬莎』介入網上課程",
+      "content_html": "英國零售商馬莎和利茲大學合作，發行了一個大型的網上免費商業課程。",
+      "content_text": "英國零售商馬莎和利茲大學合作，發行了一個大型的網上免費商業課程。",
+      "date_published": "2014-09-15T14:48:36.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-16:34730822",
+      "title": "記者來鴻：政府機關「驅鬼記」",
+      "content_html": "吃空餉並非中國特色。公務部門「鬼魂」成群、鬼式服務泛濫，肯尼亞總統動用高科技……",
+      "content_text": "吃空餉並非中國特色。公務部門「鬼魂」成群、鬼式服務泛濫，肯尼亞總統動用高科技……",
+      "date_published": "2014-09-16T08:58:01.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-16:34731049",
+      "title": "卡梅倫稱英格蘭也可以獲得更多下放權力",
+      "content_html": "英國首相卡梅倫在接受BBC採訪時說，英國政府距離建立一個英格蘭議會的計劃「並不遙遠」。",
+      "content_text": "英國首相卡梅倫在接受BBC採訪時說，英國政府距離建立一個英格蘭議會的計劃「並不遙遠」。",
+      "date_published": "2014-09-16T09:10:31.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-16:34731087",
+      "title": "英朝野政黨領袖呼籲蘇格蘭向獨立說NO",
+      "content_html": "英朝野政黨領袖聯署了一封承諾書，向蘇格蘭人保證，如果他們選擇留在英國將會享有更大的自治權。",
+      "content_text": "英朝野政黨領袖聯署了一封承諾書，向蘇格蘭人保證，如果他們選擇留在英國將會享有更大的自治權。",
+      "date_published": "2014-09-16T09:12:08.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-16:34731173",
+      "title": "蘇格蘭獨立公投倒計時：戰鼓擂旌旗不飄",
+      "content_html": "蘇格蘭獨立公投倒計時，三天之後蘇格蘭會是如何？現在只能說請君拭目以待。",
+      "content_text": "蘇格蘭獨立公投倒計時，三天之後蘇格蘭會是如何？現在只能說請君拭目以待。",
+      "date_published": "2014-09-16T09:17:36.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-16:34731063",
+      "title": "蘇格蘭公投成為臉書熱門話題",
+      "content_html": "Facebook\"臉書\"表示，在8月至9月的五個星期內，臉書出現超過1000萬個關於蘇格蘭獨立公投的信息、讚以及分享。",
+      "content_text": "Facebook\"臉書\"表示，在8月至9月的五個星期內，臉書出現超過1000萬個關於蘇格蘭獨立公投的信息、讚以及分享。",
+      "date_published": "2014-09-16T09:11:00.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-16:34735707",
+      "title": "英國25%以上成人受鄰居噪音干擾",
+      "content_html": "去年英國有四分之一以上的成年人受到吵鬧的鄰居干擾。",
+      "content_text": "去年英國有四分之一以上的成年人受到吵鬧的鄰居干擾。",
+      "date_published": "2014-09-16T11:54:48.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-16:34739599",
+      "title": "研究：少吃糖有利健康並省下治牙費",
+      "content_html": "研究說，進一步減少食糖攝入量不僅有利健康，還能省下看牙醫的錢。",
+      "content_text": "研究說，進一步減少食糖攝入量不僅有利健康，還能省下看牙醫的錢。",
+      "date_published": "2014-09-16T14:16:43.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-16:34739564",
+      "title": "《唐頓莊園》拍攝地舉辦夏洛特王后舞會",
+      "content_html": "英國夏洛特王后舞會日前在著名歷史劇《唐頓莊園》的拍攝地海克利爾城堡舉行，各國名流出席，且首次出現中國賓客的身影。",
+      "content_text": "英國夏洛特王后舞會日前在著名歷史劇《唐頓莊園》的拍攝地海克利爾城堡舉行，各國名流出席，且首次出現中國賓客的身影。",
+      "date_published": "2014-09-16T14:15:14.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34754974",
+      "title": "二戰秘密：英國特工難過的「美人關」",
+      "content_html": "解密檔案顯示英國情報部門曾雇金髮女郎「菲菲」考驗新特工能否守口如瓶。",
+      "content_text": "解密檔案顯示英國情報部門曾雇金髮女郎「菲菲」考驗新特工能否守口如瓶。",
+      "date_published": "2014-09-17T09:01:21.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34754797",
+      "title": "一批英軍將領對蘇格蘭獨立發出警告",
+      "content_html": "英國軍隊的一批高級將領警告說，蘇格蘭獨立將讓英國更容易受到攻擊。",
+      "content_text": "英國軍隊的一批高級將領警告說，蘇格蘭獨立將讓英國更容易受到攻擊。",
+      "date_published": "2014-09-17T08:54:06.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34757010",
+      "title": "蘇格蘭獨立公投：統獨辯論雙方最後衝刺",
+      "content_html": "蘇格蘭獨立公投的挺獨和反獨雙方正在展開投票前最後一天的競選努力。",
+      "content_text": "蘇格蘭獨立公投的挺獨和反獨雙方正在展開投票前最後一天的競選努力。",
+      "date_published": "2014-09-17T10:29:02.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34755347",
+      "title": "英國開始抗埃博拉病毒疫苗人體試驗",
+      "content_html": "抗埃博拉病毒疫苗試驗將在英國牛津開始。第一批60名健康的志願者將接受疫苗注射。",
+      "content_text": "抗埃博拉病毒疫苗試驗將在英國牛津開始。第一批60名健康的志願者將接受疫苗注射。",
+      "date_published": "2014-09-17T09:17:27.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34758179",
+      "title": "倫敦觀賞新年焰火將開始收費",
+      "content_html": "倫敦計劃首次設立現場觀看辭舊迎新新年煙花的收費觀賞區，可容納10萬人，每人收費10英鎊。",
+      "content_text": "倫敦計劃首次設立現場觀看辭舊迎新新年煙花的收費觀賞區，可容納10萬人，每人收費10英鎊。",
+      "date_published": "2014-09-17T11:00:06.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34756256",
+      "title": "肥皂清水洗不淨 五種頑固病菌需防範",
+      "content_html": "有五種病毒和病菌人容易在游泳池、更衣室甚至橄欖球賽場受到感染。",
+      "content_text": "有五種病毒和病菌人容易在游泳池、更衣室甚至橄欖球賽場受到感染。",
+      "date_published": "2014-09-17T10:02:56.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34763495",
+      "title": "西班牙總理說蘇格蘭獨立公投會損害歐盟",
+      "content_html": "西班牙總理拉霍伊警告說，蘇格蘭舉行獨立公投，就好比向歐盟一體化發射的魚雷。",
+      "content_text": "西班牙總理拉霍伊警告說，蘇格蘭舉行獨立公投，就好比向歐盟一體化發射的魚雷。",
+      "date_published": "2014-09-17T13:38:15.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34763102",
+      "url": "http://www.bbc.co.uk/ukchina/simp/uk_life/2014/09/140917_fooc_life_and_death.shtml",
+      "title": "記者來鴻：黃泉路漫漫",
+      "content_html": "以色列為什麼有這麼多人常年靠呼吸機維持生命？親人生死兩茫茫，家屬怎樣直面？",
+      "content_text": "以色列為什麼有這麼多人常年靠呼吸機維持生命？親人生死兩茫茫，家屬怎樣直面？",
+      "date_published": "2014-09-17T13:26:45.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34763286",
+      "title": "蘇格蘭獨立公投：預計投票人數眾多",
+      "content_html": "蘇格蘭32個行政區的地方議會正在為周四的獨立公投作最後的後勤凖備工作，以確保投票順利進行。",
+      "content_text": "蘇格蘭32個行政區的地方議會正在為周四的獨立公投作最後的後勤凖備工作，以確保投票順利進行。",
+      "date_published": "2014-09-17T13:31:47.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34761522",
+      "title": "葡萄牙學者倫敦生活感悟：英國人「髒」",
+      "content_html": "執教於倫敦帝國理工的葡萄牙裔物理學家馬古悠出書斥責英國人「骯髒」。",
+      "content_text": "執教於倫敦帝國理工的葡萄牙裔物理學家馬古悠出書斥責英國人「骯髒」。",
+      "date_published": "2014-09-17T12:43:49.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34765071",
+      "title": "蘇格蘭公投：統獨兩派投票前大規模集會",
+      "content_html": "蘇格蘭獨立公投的獨統兩派在投票日到來前一天分別舉行大規模集會，爭取中間選民。",
+      "content_text": "蘇格蘭獨立公投的獨統兩派在投票日到來前一天分別舉行大規模集會，爭取中間選民。",
+      "date_published": "2014-09-17T14:21:12.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-18:34781480",
+      "title": "蘇格蘭歷史性公投開始投票",
+      "content_html": "歷史性的蘇格蘭獨立公投在當地32個行政區開始投票，預料投票率將高達80%。",
+      "content_text": "歷史性的蘇格蘭獨立公投在當地32個行政區開始投票，預料投票率將高達80%。",
+      "date_published": "2014-09-18T09:18:18.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-18:34781036",
+      "title": "記者來鴻：葵花田間的地獄",
+      "content_html": "世外桃源瞬間變成人間地獄，不是心痛、而是心碎。馬航MH17成了許多人一生的分水嶺。",
+      "content_text": "世外桃源瞬間變成人間地獄，不是心痛、而是心碎。馬航MH17成了許多人一生的分水嶺。",
+      "date_published": "2014-09-18T09:06:22.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-17:34766960",
+      "title": "研究：理查三世死於頭蓋骨和骨盆受傷",
+      "content_html": "最新科學調查發現，英格蘭國王理查三世 極為可能是死於兩次在頭部的重擊和一次在盆骨上的擊打。",
+      "content_text": "最新科學調查發現，英格蘭國王理查三世 極為可能是死於兩次在頭部的重擊和一次在盆骨上的擊打。",
+      "date_published": "2014-09-17T15:03:13.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-18:34783294",
+      "title": "劍橋公爵夫人凱特因懷孕取消馬耳他之行",
+      "content_html": "英國王室表示，劍橋公爵夫人凱特將遵醫囑在本周末不會前往馬耳他訪問。",
+      "content_text": "英國王室表示，劍橋公爵夫人凱特將遵醫囑在本周末不會前往馬耳他訪問。",
+      "date_published": "2014-09-18T10:26:13.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-18:34783418",
+      "title": "伊斯蘭國與性侵醜聞助長英國極右勢力",
+      "content_html": "英國內政部顧問說，伊斯蘭國極端武裝組織以及英國北部的大規模兒童性侵事件，已經引起極右勢力反彈。",
+      "content_text": "英國內政部顧問說，伊斯蘭國極端武裝組織以及英國北部的大規模兒童性侵事件，已經引起極右勢力反彈。",
+      "date_published": "2014-09-18T10:32:32.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-18:34787834",
+      "title": "英國兩名遊客泰國遇害 警方查無線索",
+      "content_html": "兩名年輕英國遊客在泰國一個海島上遇害。泰國警方承認，調查沒有線索，進展不利。",
+      "content_text": "兩名年輕英國遊客在泰國一個海島上遇害。泰國警方承認，調查沒有線索，進展不利。",
+      "date_published": "2014-09-18T12:59:54.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-18:34791091",
+      "title": "「肥胖像抽煙一樣導致超高醫療費用」",
+      "content_html": "NHS說，肥胖已經像抽煙一樣有損健康和導致超高的醫療費用。",
+      "content_text": "NHS說，肥胖已經像抽煙一樣有損健康和導致超高的醫療費用。",
+      "date_published": "2014-09-18T15:02:59.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34806889",
+      "url": "http://www.bbc.co.uk/ukchina/simp/uk_life/2014/09/140919_fooc_ww1_trenches.shtml",
+      "title": "記者來鴻：飛行棋與德國魂",
+      "content_html": "一戰戰壕內走紅的遊戲至今依然風行世界，敢與電子遊戲拼高下，盡顯獨一無二的德國精神。",
+      "content_text": "一戰戰壕內走紅的遊戲至今依然風行世界，敢與電子遊戲拼高下，盡顯獨一無二的德國精神。",
+      "date_published": "2014-09-19T08:55:14.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34808728",
+      "title": "卡梅倫發表聲明承諾給予蘇格蘭更大權力",
+      "content_html": "卡梅倫承諾給蘇格蘭更多權力，但稱英格蘭也應獲得公正平衡待遇。",
+      "content_text": "卡梅倫承諾給蘇格蘭更多權力，但稱英格蘭也應獲得公正平衡待遇。",
+      "date_published": "2014-09-19T09:54:06.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34808991",
+      "title": "蘇格蘭公投：反獨派獲勝 英鎊呈漲幅",
+      "content_html": "分析人士說，獨立公投不確定因素消除，英鎊的漲幅仍有空間。",
+      "content_text": "分析人士說，獨立公投不確定因素消除，英鎊的漲幅仍有空間。",
+      "date_published": "2014-09-19T10:05:10.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34809865",
+      "title": "漫談英倫：文明—蘇格蘭公投真正贏家",
+      "content_html": "文明是尊重結果、文明是尊重選擇，文明也可以是「無所謂」。",
+      "content_text": "文明是尊重結果、文明是尊重選擇，文明也可以是「無所謂」。",
+      "date_published": "2014-09-19T10:34:42.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34809074",
+      "title": "網友投稿：為何我比英格蘭人在乎蘇格蘭",
+      "content_html": "回看蘇格蘭公投這一路的情緒動蕩，我分明比英格蘭人更在乎公投。",
+      "content_text": "回看蘇格蘭公投這一路的情緒動蕩，我分明比英格蘭人更在乎公投。",
+      "date_published": "2014-09-19T10:08:09.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34804470",
+      "title": "蘇格蘭公投結束 五成選民否決獨立",
+      "content_html": "蘇格蘭獨立公投點票結束，「反獨」陣營勝出，蘇格蘭繼續留在英國。",
+      "content_text": "蘇格蘭獨立公投點票結束，「反獨」陣營勝出，蘇格蘭繼續留在英國。",
+      "date_published": "2014-09-19T07:06:34.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34810867",
+      "title": "威爾士開學熱季 大學教職員工罷工四天",
+      "content_html": "阿伯里斯特威斯大學的教輔人員舉行罷工，新生入學將會連續4天受到干擾。",
+      "content_text": "阿伯里斯特威斯大學的教輔人員舉行罷工，新生入學將會連續4天受到干擾。",
+      "date_published": "2014-09-19T10:57:10.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34813389",
+      "title": "蘇格蘭公投：政界各派對結果做出反應",
+      "content_html": "蘇格蘭公投反獨陣營勝出，英國各派領導人對公投結果做出反應。",
+      "content_text": "蘇格蘭公投反獨陣營勝出，英國各派領導人對公投結果做出反應。",
+      "date_published": "2014-09-19T12:11:09.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34815656",
+      "title": "蘇格蘭不獨立 歐盟各國「鬆口氣」",
+      "content_html": "蘇格蘭公投結果出來後，歐盟和北約毫不掩飾地大鬆了一口氣。",
+      "content_text": "蘇格蘭公投結果出來後，歐盟和北約毫不掩飾地大鬆了一口氣。",
+      "date_published": "2014-09-19T13:35:37.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34817500",
+      "title": "蘇格蘭公投結果將深刻影響英國政治",
+      "content_html": "蘇格蘭選民在公投中選擇不從英國獨立出去，但公投結果決不是維持現狀。",
+      "content_text": "蘇格蘭選民在公投中選擇不從英國獨立出去，但公投結果決不是維持現狀。",
+      "date_published": "2014-09-19T14:18:21.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-19:34814526",
+      "title": "蘇格蘭獨立公投：盤點贏家和輸家",
+      "content_html": "公投揭曉，勝負已定，我們來盤點蘇格蘭獨立公投的贏家和輸家。",
+      "content_text": "公投揭曉，勝負已定，我們來盤點蘇格蘭獨立公投的贏家和輸家。",
+      "date_published": "2014-09-19T12:55:54.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-21:34850036",
+      "title": "自由潛水者與鯨共舞為研究",
+      "content_html": "鯨是一種極其害羞的動物，就算在它們自己的棲息地進行研究也非易事。但是，有一群海洋科學家通過無器械自由潛水方式，與座頭鯨、和抹香鯨近距離接觸。",
+      "content_text": "鯨是一種極其害羞的動物，就算在它們自己的棲息地進行研究也非易事。但是，有一群海洋科學家通過無器械自由潛水方式，與座頭鯨、和抹香鯨近距離接觸。",
+      "date_published": "2014-09-21T12:32:38.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-22:34865185",
+      "title": "皇家鑄幣廠推網上黃金交易服務吸引投資客",
+      "content_html": "一天24小時隨時交易，黃金保安由英國國防部承擔。",
+      "content_text": "一天24小時隨時交易，黃金保安由英國國防部承擔。",
+      "date_published": "2014-09-22T09:29:01.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-22:34865409",
+      "title": "記者來鴻：性、謊言和培訓班",
+      "content_html": "女人從早忙到晚、孩子一個接一個，老公夜不歸宿去尋歡？科特迪瓦推出教育男人新對策。",
+      "content_text": "女人從早忙到晚、孩子一個接一個，老公夜不歸宿去尋歡？科特迪瓦推出教育男人新對策。",
+      "date_published": "2014-09-22T09:40:52.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-22:34866735",
+      "title": "倫敦「幽靈」地鐵隧道將公開招商競投",
+      "content_html": "倫敦政府即將公開招商，希望將數百段如幽靈般的廢棄地鐵站和隧道變為地下創收寶藏。",
+      "content_text": "倫敦政府即將公開招商，希望將數百段如幽靈般的廢棄地鐵站和隧道變為地下創收寶藏。",
+      "date_published": "2014-09-22T10:25:41.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-22:34873588",
+      "title": "股市興旺 名牌Jimmy Choo欲上市",
+      "content_html": "世界著名高檔品牌Jimmy Choo計劃將25%的股份上市，籌集資金。",
+      "content_text": "世界著名高檔品牌Jimmy Choo計劃將25%的股份上市，籌集資金。",
+      "date_published": "2014-09-22T13:59:05.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-23:34887080",
+      "title": "記者來鴻：歐洲夢不斷？",
+      "content_html": "夾在歐洲和俄國之間，又成了東西爭奪的前線。烏克蘭「城門失火」，愛沙尼亞人也緊張了。",
+      "content_text": "夾在歐洲和俄國之間，又成了東西爭奪的前線。烏克蘭「城門失火」，愛沙尼亞人也緊張了。",
+      "date_published": "2014-09-23T08:20:44.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-22:34871582",
+      "url": "http://www.bbc.co.uk/ukchina/simp/uk_life/2014/09/140922_uk_bbcukchina_new_version.shtml",
+      "title": "BBC英倫網改版啟事",
+      "content_html": "BBC英倫網改版了!",
+      "content_text": "BBC英倫網改版了!",
+      "date_published": "2014-09-22T12:51:24.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-23:34891278",
+      "title": "穆雷為支持蘇格蘭獨立推文做出解釋",
+      "content_html": "英國網球明星穆雷支持蘇格蘭獨立的推文引起軒然大波，隨後為自己的行為做了解釋。",
+      "content_text": "英國網球明星穆雷支持蘇格蘭獨立的推文引起軒然大波，隨後為自己的行為做了解釋。",
+      "date_published": "2014-09-23T10:40:56.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-23:34896170",
+      "title": "倫敦清潔工贏得450萬鎊彩票頭獎",
+      "content_html": "懷廷無法相信自己的運氣，在早上5點鐘照常上班清掃了街道。",
+      "content_text": "懷廷無法相信自己的運氣，在早上5點鐘照常上班清掃了街道。",
+      "date_published": "2014-09-23T12:57:57.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-23:34896277",
+      "title": "蘋果「仍是英國最酷品牌」",
+      "content_html": "最新年度最酷品牌榜單出爐，蘋果依然高踞榜首，但推特首次跌出前20名。",
+      "content_text": "最新年度最酷品牌榜單出爐，蘋果依然高踞榜首，但推特首次跌出前20名。",
+      "date_published": "2014-09-23T13:04:00.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-23:34898685",
+      "title": "英老婦花園長出大麻 自己全然不知",
+      "content_html": "休伊森太太在花園發現不明植物之後決定向BBC園藝節目求助，結果引起警察的注意。",
+      "content_text": "休伊森太太在花園發現不明植物之後決定向BBC園藝節目求助，結果引起警察的注意。",
+      "date_published": "2014-09-23T14:18:37.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-24:34913319",
+      "title": "記者來鴻：誰也別碰我？",
+      "content_html": "埃博拉式握手不難、親吻難度就太大了。病毒衝擊西非人生活，彷彿抽走了社區的「魂」。",
+      "content_text": "埃博拉式握手不難、親吻難度就太大了。病毒衝擊西非人生活，彷彿抽走了社區的「魂」。",
+      "date_published": "2014-09-24T08:40:28.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-24:34918288",
+      "title": "民調：對威爾士獨立支持率降至歷史最低",
+      "content_html": "民調顯示，蘇格蘭獨立公投結束後，對威爾士獨立的支持率下降到歷史最低點。",
+      "content_text": "民調顯示，蘇格蘭獨立公投結束後，對威爾士獨立的支持率下降到歷史最低點。",
+      "date_published": "2014-09-24T12:04:53.000Z"
+    },
+    {
+      "id": "tag:www.bbcukchina.com,2014-09-24:34921944",
+      "url": "http://www.bbc.co.uk/ukchina/simp/uk_life/2014/09/140924_life_strikes.shtml",
+      "title": "英公共部門十月中旬舉行多次全國大罷工",
+      "content_html": "英國公共部門工會投票決定十月中旬舉行一系列全國大罷工。",
+      "content_text": "英國公共部門工會投票決定十月中旬舉行一系列全國大罷工。",
+      "date_published": "2014-09-24T14:19:41.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-23:34895658",
+      "title": "歐洲國際交換生「四成日後定居海外」",
+      "content_html": "最新研究顯示，英國大學生就讀期間作為交換生到國外的大學學習，這一人生經歷對他們日後的人生道路選擇有重大影響。",
+      "content_text": "最新研究顯示，英國大學生就讀期間作為交換生到國外的大學學習，這一人生經歷對他們日後的人生道路選擇有重大影響。",
+      "date_published": "2014-09-23T12:45:38.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-23:34896175",
+      "url": "http://www.bbc.co.uk/zhongwen/trad/uk/2014/09/140923_musical_lion_king.shtml",
+      "title": "《獅子王》被評為「歷來最成功音樂劇」",
+      "content_html": "音樂劇《獅子王》（The Lion King）比任何其他的舞台表演或電影公映贏得了更多的票房收入。",
+      "content_text": "音樂劇《獅子王》（The Lion King）比任何其他的舞台表演或電影公映贏得了更多的票房收入。",
+      "date_published": "2014-09-23T12:58:01.000Z"
+    },
+    {
+      "id": "tag:www.bbcchinese.com,2014-09-23:34896321",
+      "title": "穆雷為支持蘇格蘭獨立推文做出解釋",
+      "content_html": "英國頭號網球明星穆雷支持蘇格蘭獨立的推文引起軒然大波，隨後為自己的行為做了解釋。",
+      "content_text": "英國頭號網球明星穆雷支持蘇格蘭獨立的推文引起軒然大波，隨後為自己的行為做了解釋。",
+      "date_published": "2014-09-23T13:07:22.000Z"
+    }
+  ]
+}

@@ -17,6 +17,14 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-27:/t/1188884",
+      "url": "https://www.v2ex.com/t/1188884#reply0",
+      "title": "[Codex] 用 codex 做了一个 windows 静态相册集",
+      "content_html": "<p>先上地址： <a href=\"https://github.com/vtjj3213/windows-album-viewer/tree/main\" rel=\"nofollow\">https://github.com/vtjj3213/windows-album-viewer/tree/main</a>\n背景：\n1 几年的时候百度很多图片网站，又完全不防爬的，所以当时我就爬了一个网站所有的小姐姐图片下载，想着有朝一日自己也弄一个小姐姐网站，但是最终由于囊中羞涩，图片网站太费流量了，没搞成。\n这台电脑也闲置了很久，最近重新打开的时候无意中发现这十几 G 图片，但是这些图片如果在 windows 系统上真的太难快速预览了，所以之前存下来就一直没翻开过。最近趁着 vibe coding 的春风，指挥 AI 搞了一个本地静态相册集。完全按照自己的想法实现，可以快速寻找感兴趣的小姐姐的相册，找到相册之后可以快速定位最精彩的构图。</p>\n<p>其他用法：根据操作指导处理下图片和相册可以作为一个简单的本地相册。</p>\n<p>遗憾的地方：也用 codex 搞过 AI 识别,下载模型，让 AI 分类，哪些才是最 NSFW （最精彩的），奈何没显卡，用 CPU 分类太慢了，遂作罢。</p>",
+      "content_text": "先上地址： https://github.com/vtjj3213/windows-album-viewer/tree/main\n背景：\n1 几年的时候百度很多图片网站，又完全不防爬的，所以当时我就爬了一个网站所有的小姐姐图片下载，想着有朝一日自己也弄一个小姐姐网站，但是最终由于囊中羞涩，图片网站太费流量了，没搞成。\n这台电脑也闲置了很久，最近重新打开的时候无意中发现这十几 G 图片，但是这些图片如果在 windows 系统上真的太难快速预览了，所以之前存下来就一直没翻开过。最近趁着 vibe coding 的春风，指挥 AI 搞了一个本地静态相册集。完全按照自己的想法实现，可以快速寻找感兴趣的小姐姐的相册，找到相册之后可以快速定位最精彩的构图。\n其他用法：根据操作指导处理下图片和相册可以作为一个简单的本地相册。\n遗憾的地方：也用 codex 搞过 AI 识别,下载模型，让 AI 分类，哪些才是最 NSFW （最精彩的），奈何没显卡，用 CPU 分类太慢了，遂作罢。",
+      "date_published": "2026-01-27T18:01:52.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-27:/t/1188813",
       "url": "https://www.v2ex.com/t/1188813#reply0",
       "title": "[分享创造] 在 Antigravity 下 Vibe Coding 了一个分析赛艇或者划船机 FIT 文件的 skill",

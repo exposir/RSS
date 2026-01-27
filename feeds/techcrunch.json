@@ -6,6 +6,22 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3086665",
+      "url": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
+      "title": "OpenAI launches Prism, a new AI workspace for scientists",
+      "content_html": "OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.",
+      "content_text": "OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086571",
+      "url": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
+      "title": "Google&#8217;s more affordable AI Plus plan rolls out to all markets, including the U.S.",
+      "content_html": "Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.",
+      "content_text": "Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.",
+      "date_published": "2026-01-27T18:00:39.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3086633",
       "url": "https://techcrunch.com/2026/01/27/amid-trump-attacks-and-weaponized-sanctions-europeans-look-to-rely-less-on-us-tech/",
       "title": "Amid Trump attacks and weaponized sanctions, Europeans look to rely less on US tech",
