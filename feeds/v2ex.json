@@ -17,6 +17,14 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-27:/t/1188886",
+      "url": "https://www.v2ex.com/t/1188886#reply0",
+      "title": "[分享创造] WSL Dashboard v0.2.0 开源发布，众多实用功能更新， Rust 开发的 WSL2 可视化管理面板",
+      "content_html": "软件基于 Rust 和 Slint 构建，提供高级的原生体验。文件仅 8 兆多，运行内存 80 兆左右。<br /><br /><br />更新日志：<br />1 、将发行版移动到指定目录。<br />2 、如果该发行版不支持 VS Code 功能，则会显示安装提示。<br />3 、导出、克隆、移动 Linux 发行版：添加全局互斥锁。<br />4 、发行版设置：设置为默认发行版； Windows 开机自动启动（发行版启动脚本挂钩:例如可以实现自动启动 docker 服务等）；终端目录设置； VS Code 工作目录设置。<br />5 、发行版安装期间的日志下载显示优化信息。<br />6 、删除发行版时，使用 Remove-AppxPackage 命令清理 Appx 包。<br /><br />项目主页：<br /><a target=\"_blank\" href=\"https://github.com/owu/wsl-dashboard\" rel=\"nofollow noopener\">https://github.com/owu/wsl-dashboard</a><br /><br />如果您有任何建议或需求可以在主题下方评论 或者 访问 github 提交 issue 。<br /><br /><br />如果这个项目对您有帮助，请访问 github 帮我加一个星标，您的认可是我持续开发的动力！<br /><br /><br />B 站 v0.2.0 演示视频：<br /><a target=\"_blank\" href=\"https://www.bilibili.com/video/BV1CT65BLEP9/\" rel=\"nofollow noopener\">https://www.bilibili.com/video/BV1CT65BLEP9/</a><br /><br /><br />感谢大家对 v0.1.1 版本的支持； <a target=\"_blank\" href=\"https://www.v2ex.com/t/1187374\" rel=\"nofollow noopener\">https://www.v2ex.com/t/1187374</a> （上一个版本 V 站的主题）",
+      "content_text": "软件基于 Rust 和 Slint 构建，提供高级的原生体验。文件仅 8 兆多，运行内存 80 兆左右。更新日志：1 、将发行版移动到指定目录。2 、如果该发行版不支持 VS Code 功能，则会显示安装提示。3 、导出、克隆、移动 Linux 发行版：添加全局互斥锁。4 、发行版设置：设置为默认发行版； Windows 开机自动启动（发行版启动脚本挂钩:例如可以实现自动启动 docker 服务等）；终端目录设置； VS Code 工作目录设置。5 、发行版安装期间的日志下载显示优化信息。6 、删除发行版时，使用 Remove-AppxPackage 命令清理 Appx 包。项目主页：https://github.com/owu/wsl-dashboard如果您有任何建议或需求可以在主题下方评论 或者 访问 github 提交 issue 。如果这个项目对您有帮助，请访问 github 帮我加一个星标，您的认可是我持续开发的动力！B 站 v0.2.0 演示视频：https://www.bilibili.com/video/BV1CT65BLEP9/感谢大家对 v0.1.1 版本的支持； https://www.v2ex.com/t/1187374 （上一个版本 V 站的主题）",
+      "date_published": "2026-01-27T18:29:57.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-27:/t/1188885",
       "url": "https://www.v2ex.com/t/1188885#reply0",
       "title": "[分享创造] [开源] AgentVerse：多智能体群聊与自治对话实验",

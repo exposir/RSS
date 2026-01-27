@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/cricket/articles/c77k56xl6n4o#7",
+      "url": "https://www.bbc.com/sport/cricket/articles/c77k56xl6n4o?at_medium=RSS&at_campaign=rss",
+      "title": "Why England legend Root is so effective in Asia",
+      "content_html": "After another masterclass in Asian conditions, BBC Sport breaks down how Joe Root stands out as a brilliant player of spin bowling.",
+      "content_text": "After another masterclass in Asian conditions, BBC Sport breaks down how Joe Root stands out as a brilliant player of spin bowling.",
+      "date_published": "2026-01-27T18:39:07.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/formula1/articles/cn0yprv1pr2o#7",
       "url": "https://www.bbc.com/sport/formula1/articles/cn0yprv1pr2o?at_medium=RSS&at_campaign=rss",
       "title": "Hadjar crashes new Red Bull in F1 testing",
@@ -60,6 +68,14 @@
       "content_html": "The Greater Manchester seat of Gorton and Denton became vacant after Andrew Gwynne stepped down for health reasons.",
       "content_text": "The Greater Manchester seat of Gorton and Denton became vacant after Andrew Gwynne stepped down for health reasons.",
       "date_published": "2026-01-27T17:31:02.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c1dk2xp137zo#0",
+      "url": "https://www.bbc.com/news/articles/c1dk2xp137zo?at_medium=RSS&at_campaign=rss",
+      "title": "Growing number of adults avoid booze, says NHS survey",
+      "content_html": "Almost a quarter of adults in England do not drink alcohol, according to new figures from a health survey.",
+      "content_text": "Almost a quarter of adults in England do not drink alcohol, according to new figures from a health survey.",
+      "date_published": "2026-01-27T17:29:56.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cvgxzeyywp1o#3",
@@ -140,6 +156,14 @@
       "content_html": "Harry Kane is entering the final 18 months of his Bayern Munich contract, and the German champions are eager to keep the prolific striker, as German football writer Constantin Eckner explains.",
       "content_text": "Harry Kane is entering the final 18 months of his Bayern Munich contract, and the German champions are eager to keep the prolific striker, as German football writer Constantin Eckner explains.",
       "date_published": "2026-01-27T15:35:26.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd7zpg19pwdo#3",
+      "url": "https://www.bbc.com/news/articles/cd7zpg19pwdo?at_medium=RSS&at_campaign=rss",
+      "title": "Former MP Conor McGinn charged with sexual assault",
+      "content_html": "McGinn served as MP for St Helens North from 2015 but was suspended by the Labour Party in 2022.",
+      "content_text": "McGinn served as MP for St Helens North from 2015 but was suspended by the Labour Party in 2022.",
+      "date_published": "2026-01-27T14:52:52.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cd7zpg19pwdo#0",

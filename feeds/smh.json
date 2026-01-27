@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "67a7a2d8-f537-431b-8c10-54bdb2c8475e",
+      "url": "https://www.smh.com.au/national/victoria/teachers-will-fight-to-double-the-number-of-student-free-days-20260127-p5nxb6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Teachers will fight to double the number of student-free days",
+      "content_html": "The teachers’ union says more curriculum days are vital for educators to get on top of their workloads, but others say it will place an extra burden on families.",
+      "content_text": "The teachers’ union says more curriculum days are vital for educators to get on top of their workloads, but others say it will place an extra burden on families.",
+      "date_published": "2026-01-27T18:50:00.000Z"
+    },
+    {
+      "id": "ae290a5b-e553-42e6-bfef-f4a76bbd052e",
+      "url": "https://www.smh.com.au/sport/tennis/alex-de-minaur-lost-another-major-quarter-final-he-s-already-thinking-of-how-to-get-better-20260128-p5nxhx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Demon lost another major quarter-final. He’s already thinking of how to get better",
+      "content_html": "The Australian played bigger and more fearlessly than ever before, and broke world No.1 Carlos Alcaraz’s serve twice in the opening set. Yet, the result was the same.",
+      "content_text": "The Australian played bigger and more fearlessly than ever before, and broke world No.1 Carlos Alcaraz’s serve twice in the opening set. Yet, the result was the same.",
+      "date_published": "2026-01-27T18:30:00.000Z"
+    },
+    {
+      "id": "18cc37d8-15c9-46ba-8a33-5e8918133a4f",
+      "url": "https://www.smh.com.au/sport/afl/do-the-lions-have-unfair-access-to-top-talent-this-is-fagan-s-case-against-20260127-p5nxad.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Do the Lions have unfair access to top talent? This is Fagan’s case against",
+      "content_html": "Brisbane Lions coach Chris Fagan has given a detailed presentation to the AFL Commission and a key part of it was about his club’s access to father-son and academy talent.",
+      "content_text": "Brisbane Lions coach Chris Fagan has given a detailed presentation to the AFL Commission and a key part of it was about his club’s access to father-son and academy talent.",
+      "date_published": "2026-01-27T18:30:00.000Z"
+    },
+    {
+      "id": "f8ce0a97-13de-4e0b-be5b-a4e4df0dc899",
+      "url": "https://www.smh.com.au/culture/books/why-the-backyard-dunny-is-australia-s-most-important-literary-setting-20260126-p5nx34.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Why the backyard dunny is Australia’s most important literary setting",
+      "content_html": "It turns out the Great Australian Novel was born in a corrugated iron shack where the flies are fast and the soul-searching is mandatory.",
+      "content_text": "It turns out the Great Australian Novel was born in a corrugated iron shack where the flies are fast and the soul-searching is mandatory.",
+      "date_published": "2026-01-27T18:30:00.000Z"
+    },
+    {
+      "id": "8b015cd9-44de-4eb5-9a20-4d287ecb2b44",
+      "url": "https://www.smh.com.au/culture/movies/baz-luhrmann-gives-elvis-the-world-tour-he-never-got-to-have-20251217-p5nojp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Baz Luhrmann gives Elvis ‘the world tour he never got to have’",
+      "content_html": "Ahead of his new film on Joan of Arc, the Australian director is back in cinemas with EPIC: Elvis Presley in Concert and a double soundtrack album.",
+      "content_text": "Ahead of his new film on Joan of Arc, the Australian director is back in cinemas with EPIC: Elvis Presley in Concert and a double soundtrack album.",
+      "date_published": "2026-01-27T18:30:00.000Z"
+    },
+    {
       "id": "9753e999-f219-4524-9ea7-2e480cdac97d",
       "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-advances-a-eyes-us70c-20260128-p5nxi8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "ASX set to rise as Wall Street advances; $A eyes US70c",
