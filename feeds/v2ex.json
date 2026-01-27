@@ -17,6 +17,14 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-27:/t/1188889",
+      "url": "https://www.v2ex.com/t/1188889#reply0",
+      "title": "[程序员] 发现个好玩的网站，把地图做成海报",
+      "content_html": "<p>这个网站可以把地图生成漂亮的海报，d 发朋友圈做屏保都很漂亮。用的是 openmap 的数据源，包含全世界所有城市，配 17 个模板，很多选择。我老家德州的我生成海报发到老家群里，炸了。<a href=\"http://www.printcityroad.uk\" rel=\"nofollow\">www.printcityroad.uk</a> 块去看看自己家乡的海报漂亮漂亮不。</p>",
+      "content_text": "这个网站可以把地图生成漂亮的海报，d 发朋友圈做屏保都很漂亮。用的是 openmap 的数据源，包含全世界所有城市，配 17 个模板，很多选择。我老家德州的我生成海报发到老家群里，炸了。www.printcityroad.uk 块去看看自己家乡的海报漂亮漂亮不。",
+      "date_published": "2026-01-27T22:35:57.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-27:/t/1188887",
       "url": "https://www.v2ex.com/t/1188887#reply0",
       "title": "[宽带症候群] 内网需要限速？",

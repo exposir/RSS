@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cy8p2re7gj5o#0",
+      "url": "https://www.bbc.com/news/articles/cy8p2re7gj5o?at_medium=RSS&at_campaign=rss",
+      "title": "Prime minister flies to China for three-day visit",
+      "content_html": "He is the first British prime minister to travel to Beijing since Theresa May in 2018.",
+      "content_text": "He is the first British prime minister to travel to Beijing since Theresa May in 2018.",
+      "date_published": "2026-01-27T22:31:51.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy8p1mn3j29o#0",
+      "url": "https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss",
+      "title": "Former French senator found guilty of drugging MP",
+      "content_html": "Joel Guerriau received a four-year prison sentence, 18 months of which are to be served behind bars.",
+      "content_text": "Joel Guerriau received a four-year prison sentence, 18 months of which are to be served behind bars.",
+      "date_published": "2026-01-27T22:04:40.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy8p2rjeyveo#1",
+      "url": "https://www.bbc.com/news/articles/cy8p2rjeyveo?at_medium=RSS&at_campaign=rss",
+      "title": "Famous Up Helly Aa festival sets Shetland's skies ablaze",
+      "content_html": "During the event local \"guizers\" throw their torches at a replica of a Viking long ship until it is consumed by flames.",
+      "content_text": "During the event local \"guizers\" throw their torches at a replica of a Viking long ship until it is consumed by flames.",
+      "date_published": "2026-01-27T21:59:40.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/golf/articles/c1m72xxk2p8o#7",
       "url": "https://www.bbc.com/sport/golf/articles/c1m72xxk2p8o?at_medium=RSS&at_campaign=rss",
       "title": "Koepka 'rang Woods first' over PGA Tour return",
@@ -76,6 +100,14 @@
       "content_html": "King Charles III hosted the reception to mark Holocaust Memorial Day with survivors honoured in a series of specially commissioned portraits.",
       "content_text": "King Charles III hosted the reception to mark Holocaust Memorial Day with survivors honoured in a series of specially commissioned portraits.",
       "date_published": "2026-01-27T17:56:39.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cn56pkdl6lvo#3",
+      "url": "https://www.bbc.com/news/articles/cn56pkdl6lvo?at_medium=RSS&at_campaign=rss",
+      "title": "UK has removed 281 migrants under France deal, minister says",
+      "content_html": "The home secretary says there are \"practical issues\" around how quickly people can be detained.",
+      "content_text": "The home secretary says there are \"practical issues\" around how quickly people can be detained.",
+      "date_published": "2026-01-27T17:44:38.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cn56pkdl6lvo#0",
