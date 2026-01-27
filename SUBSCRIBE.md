@@ -39,3 +39,5 @@
 | Hacker News  | https://exposir.github.io/RSS/feeds/hackernews.json      |
 | 纽约时报中文 | https://exposir.github.io/RSS/feeds/nytimes.json         |
 | 德国之声     | https://exposir.github.io/RSS/feeds/dw.json              |
+| BBC UK       | https://exposir.github.io/RSS/feeds/bbc-uk.json          |
+| BBC US       | https://exposir.github.io/RSS/feeds/bbc-us.json          |

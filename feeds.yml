@@ -141,3 +141,11 @@ feeds:
   - name: 德国之声
     url: https://rss.dw.com/rdf/rss-chi-all
     output: feeds/dw.json
+
+  - name: BBC UK
+    url: https://feeds.bbci.co.uk/news/rss.xml?edition=uk
+    output: feeds/bbc-uk.json
+
+  - name: BBC US
+    url: https://feeds.bbci.co.uk/news/rss.xml?edition=us
+    output: feeds/bbc-us.json
