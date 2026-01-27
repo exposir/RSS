@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003286431",
+      "url": "https://www.wsj.com/world/asia/u-s-warns-korea-against-targeting-american-tech-firms-amid-trade-escalation-7a8a5a3a",
+      "title": "U.S. Warns Korea Against Targeting American Tech Firms Amid Trade Escalation",
+      "content_html": "JD Vance warned Prime Minister Kim Min-seok against pursuing penalties and regulations on U.S.-based firms like Coupang",
+      "content_text": "JD Vance warned Prime Minister Kim Min-seok against pursuing penalties and regulations on U.S.-based firms like Coupang",
+      "date_published": "2026-01-27T18:53:00.000Z"
+    },
+    {
       "id": "SB11930060785218553820404592640870780017952",
       "url": "https://www.wsj.com/opinion/can-israel-move-past-netanyahu-12dc9f03",
       "title": "Opinion | Can Israel Move Past Netanyahu?",

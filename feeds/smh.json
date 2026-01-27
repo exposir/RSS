@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "6fb9becd-9eec-4412-a193-5fbab0b1f0d0",
+      "url": "https://www.smh.com.au/national/bushfire-emergency-continues-in-victoria-20260128-p5nxid.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Bushfire emergency continues in Victoria",
+      "content_html": "The bushfire emergency continues today in Victoria, with temperatures in some parts to exceed 40 degrees.",
+      "content_text": "The bushfire emergency continues today in Victoria, with temperatures in some parts to exceed 40 degrees.",
+      "date_published": "2026-01-27T19:02:02.000Z"
+    },
+    {
+      "id": "50095347-2f5a-4612-9a10-37e5fed2483a",
+      "url": "https://www.smh.com.au/national/north-queensland-residents-brace-for-further-downpour-20260128-p5nxie.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "North Queensland residents brace for further downpour",
+      "content_html": "Residents in North Queensland remain on high alert today as torrential rain lashes the coast and pushes inland.",
+      "content_text": "Residents in North Queensland remain on high alert today as torrential rain lashes the coast and pushes inland.",
+      "date_published": "2026-01-27T19:01:42.000Z"
+    },
+    {
+      "id": "76b3456c-fab3-4be5-8bf1-34472ae2b7df",
+      "url": "https://www.smh.com.au/national/queensland/brisbane-riverwalk-to-reopen-next-month-after-three-year-closure-20260123-p5nwl4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Brisbane Riverwalk to reopen next month after three-year closure",
+      "content_html": "The 256-metre stretch has been off-limits since 2023, forcing long detours for the city’s cyclists and pedestrians.",
+      "content_text": "The 256-metre stretch has been off-limits since 2023, forcing long detours for the city’s cyclists and pedestrians.",
+      "date_published": "2026-01-27T19:00:00.000Z"
+    },
+    {
+      "id": "66925fd7-6803-433b-bf72-78af782e852b",
+      "url": "https://www.smh.com.au/national/queensland/the-unsung-state-school-where-seven-students-got-perfect-scores-last-year-20251106-p5n8ee.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The unsung state school where seven students got perfect scores last year",
+      "content_html": "The selective-entry Brisbane school specialises in STEM, but students say its secret sauce is a curriculum that lets them pursue their passions.",
+      "content_text": "The selective-entry Brisbane school specialises in STEM, but students say its secret sauce is a curriculum that lets them pursue their passions.",
+      "date_published": "2026-01-27T19:00:00.000Z"
+    },
+    {
+      "id": "3903b4f4-c680-4df0-a499-850a0cc44299",
+      "url": "https://www.smh.com.au/national/victoria/victoria-heatwave-live-state-swelters-through-record-breaking-heatwave-as-otways-fire-grows-20260127-p5nxg9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Victoria heatwave LIVE: State swelters through record-breaking heatwave as Otways fire grows",
+      "content_html": "The last time Victoria experienced such a prolonged heatwave was 2009, when Black Saturday saw the Mallee record 12 days above 40 degrees. Follow our rolling coverage.",
+      "content_text": "The last time Victoria experienced such a prolonged heatwave was 2009, when Black Saturday saw the Mallee record 12 days above 40 degrees. Follow our rolling coverage.",
+      "date_published": "2026-01-27T18:56:57.000Z"
+    },
+    {
       "id": "67a7a2d8-f537-431b-8c10-54bdb2c8475e",
       "url": "https://www.smh.com.au/national/victoria/teachers-will-fight-to-double-the-number-of-student-free-days-20260127-p5nxb6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Teachers will fight to double the number of student-free days",
