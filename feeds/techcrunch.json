@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3086813",
+      "url": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
+      "title": "Anduril has invented a wild new drone flying contest where jobs are the prize",
+      "content_html": "This is a race series for software programmers and the brainchild of founder Palmer Luckey, he tells TechCrunch.",
+      "content_text": "This is a race series for software programmers and the brainchild of founder Palmer Luckey, he tells TechCrunch.",
+      "date_published": "2026-01-27T21:54:38.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3086636",
       "url": "https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/",
       "title": "Bluesky teases 2026 roadmap: a better Discover feed, real-time features and more",

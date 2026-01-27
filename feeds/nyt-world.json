@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html",
+      "url": "https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html",
+      "title": "Former French Senator Convicted of Drugging a Colleague, Intending to Assault Her",
+      "content_html": "The trial took on special resonance in France, a year after a court found Dominique Pelicot and dozens of other men guilty of raping Gisèle Pelicot while she was sedated.",
+      "content_text": "The trial took on special resonance in France, a year after a court found Dominique Pelicot and dozens of other men guilty of raping Gisèle Pelicot while she was sedated.",
+      "date_published": "2026-01-27T22:05:14.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/27/world/iran-protests-crackdown-eu-india-trade.html",
       "url": "https://www.nytimes.com/2026/01/27/world/iran-protests-crackdown-eu-india-trade.html",
       "title": "How Iran Crushed an Uprising",

@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "e5898bbb-30ef-42c0-8ea5-2541527b1b29",
+      "url": "https://www.smh.com.au/culture/movies/aussie-trio-backs-up-oscar-nominations-with-bafta-nods-20260128-p5nxjk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Aussie trio backs up Oscar nominations with BAFTA nods",
+      "content_html": "Awards season is in full flight and hopes are high for Rose Byrne, Jacob Elordi and Fiona Crombie.",
+      "content_text": "Awards season is in full flight and hopes are high for Rose Byrne, Jacob Elordi and Fiona Crombie.",
+      "date_published": "2026-01-27T22:15:51.000Z"
+    },
+    {
+      "id": "52edff1e-40ac-47c4-b7b1-8517e0d2b6ed",
+      "url": "https://www.smh.com.au/sport/tennis/australian-open-2026-live-updates-swiatek-anisimova-djokovic-sinner-in-star-studded-quarters-aussies-in-doubles-quarters-semis-action-20260127-p5nxf5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australian Open 2026 LIVE updates: Swiatek, Anisimova, Djokovic, Sinner in star-studded quarters; Aussies in doubles quarters, semis action",
+      "content_html": "Follow live as we bring you all the action from day 11 of the year’s first grand slam.",
+      "content_text": "Follow live as we bring you all the action from day 11 of the year’s first grand slam.",
+      "date_published": "2026-01-27T22:10:57.000Z"
+    },
+    {
       "id": "4e689fa2-6038-4432-9a35-dde481271b44",
       "url": "https://www.smh.com.au/world/europe/french-mp-recounts-trauma-in-trial-of-ex-senator-accused-of-drugging-her-with-mdma-20260128-p5nxj7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "French MP recounts trauma in trial of ex-senator accused of drugging her with MDMA",

@@ -14,6 +14,22 @@
       "date_published": "2026-01-27T18:35:33.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46783254",
+      "url": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
+      "title": "FBI is investigating Minnesota Signal chats tracking ICE",
+      "content_html": "<p>Article URL: <a href=\"https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041\">https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46783254\">https://news.ycombinator.com/item?id=46783254</a></p>\n<p>Points: 301</p>\n<p># Comments: 297</p>",
+      "content_text": "Article URL: https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041\nComments URL: https://news.ycombinator.com/item?id=46783254\nPoints: 301\n# Comments: 297",
+      "date_published": "2026-01-27T17:32:05.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46781530",
+      "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
+      "content_html": "<p><a href=\"https://archive.ph/mHlUT\" rel=\"nofollow\">https://archive.ph/mHlUT</a><p><a href=\"https://apnews.com/article/oldest-wooden-tools-marathousa-1-6e07cfc79f6d8ba648138f805531b933\" rel=\"nofollow\">https://apnews.com/article/oldest-wooden-tools-marathousa-1-...</a><p><a href=\"https://archaeologymag.com/2026/01/430000-year-old-wooden-tools-marathousa/\" rel=\"nofollow\">https://archaeologymag.com/2026/01/430000-year-old-wooden-to...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46781530\">https://news.ycombinator.com/item?id=46781530</a></p>\n<p>Points: 277</p>\n<p># Comments: 152</p>",
+      "content_text": "https://archive.ph/mHlUThttps://apnews.com/article/oldest-wooden-tools-marathousa-1-...https://archaeologymag.com/2026/01/430000-year-old-wooden-to...\n\nComments URL: https://news.ycombinator.com/item?id=46781530\nPoints: 277\n# Comments: 152",
+      "date_published": "2026-01-27T15:46:29.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46781516",
       "url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
       "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
