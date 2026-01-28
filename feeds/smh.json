@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "2955fcfa-a566-49c6-a863-843f8cb2d430",
+      "url": "https://www.smh.com.au/business/companies/great-southern-unlocks-fresh-upside-at-shallow-wa-gold-play-20260128-p5nxr1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Great Southern unlocks fresh upside at shallow WA gold play",
+      "content_html": "Great Southern Mining has unveiled shallow gold hits at its Mon Ami project in Laverton, Western Australia, hinting at a potentially new parallel lode.",
+      "content_text": "Great Southern Mining has unveiled shallow gold hits at its Mon Ami project in Laverton, Western Australia, hinting at a potentially new parallel lode.",
+      "date_published": "2026-01-28T04:53:16.000Z"
+    },
+    {
       "id": "ddd5a228-37ea-4e52-9fdd-acd30be54640",
       "url": "https://www.smh.com.au/national/nsw/undersea-cable-ship-off-sydney-20260128-p5nxr2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Undersea cable ship off Sydney",
