@@ -54,6 +54,7 @@
 | Donald Trump       | https://exposir.github.io/RSS/feeds/trump.json               | https://expo-rsshub.zeabur.app/twitter/user/realDonaldTrump                   | ⏳ 待验证 |
 | 微博热搜           | https://exposir.github.io/RSS/feeds/weibo-hot.json           | https://expo-rsshub.zeabur.app/weibo/search/hot                               | ⏳ 待验证 |
 | 草榴技术讨论       | https://exposir.github.io/RSS/feeds/t66y.json                | https://expo-rsshub.zeabur.app/t66y/20/2                                      | ⏳ 待验证 |
+| YouTube趋势        | https://exposir.github.io/RSS/feeds/youtube-trending.json    | https://expo-rsshub.zeabur.app/youtube/charts/TrendingVideos                  | ⏳ 待验证 |
 
 ## 状态说明
 

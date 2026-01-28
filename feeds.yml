@@ -201,3 +201,7 @@ feeds:
   - name: 草榴技术讨论
     url: https://expo-rsshub.zeabur.app/t66y/20/2
     output: feeds/t66y.json
+
+  - name: YouTube趋势
+    url: https://expo-rsshub.zeabur.app/youtube/charts/TrendingVideos
+    output: feeds/youtube-trending.json
