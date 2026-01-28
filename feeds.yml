@@ -193,3 +193,7 @@ feeds:
   - name: Donald Trump
     url: https://expo-rsshub.zeabur.app/twitter/user/realDonaldTrump
     output: feeds/trump.json
+
+  - name: 微博热搜
+    url: https://expo-rsshub.zeabur.app/weibo/search/hot
+    output: feeds/weibo-hot.json

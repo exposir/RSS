@@ -52,6 +52,7 @@
 | Elon Musk          | https://exposir.github.io/RSS/feeds/elon-musk.json           | https://expo-rsshub.zeabur.app/twitter/user/elonmusk                          | ⏳ 待验证 |
 | Elon Musk (无回复) | https://exposir.github.io/RSS/feeds/elon-musk-noreplies.json | https://expo-rsshub.zeabur.app/twitter/user/elonmusk/includeReplies=0         | ⏳ 待验证 |
 | Donald Trump       | https://exposir.github.io/RSS/feeds/trump.json               | https://expo-rsshub.zeabur.app/twitter/user/realDonaldTrump                   | ⏳ 待验证 |
+| 微博热搜           | https://exposir.github.io/RSS/feeds/weibo-hot.json           | https://expo-rsshub.zeabur.app/weibo/search/hot                               | ⏳ 待验证 |
 
 ## 状态说明
 
