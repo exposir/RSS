@@ -6,6 +6,14 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/military/article/3341534/china-urged-follow-us-lead-developing-low-cost-munitions?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/military/article/3341534/china-urged-follow-us-lead-developing-low-cost-munitions?utm_source=rss_feed",
+      "title": "China urged to follow US lead in developing low-cost munitions",
+      "content_html": "The United States is seeking low-cost guided munitions to counter future warfare involving large numbers of drones, and China should also invest in this area, according to a Chinese military magazine.\nOrdnance Science and Technology published an analysis article this month, arguing that the US was finding its advanced munitions too costly and unsustainable in dealing with Houthi drone harassment in the Red Sea and in supporting Ukraine against large-scale low-cost Russian air strikes.\nThe...",
+      "content_text": "The United States is seeking low-cost guided munitions to counter future warfare involving large numbers of drones, and China should also invest in this area, according to a Chinese military magazine.\nOrdnance Science and Technology published an analysis article this month, arguing that the US was finding its advanced munitions too costly and unsustainable in dealing with Houthi drone harassment in the Red Sea and in supporting Ukraine against large-scale low-cost Russian air strikes.\nThe...",
+      "date_published": "2026-01-28T09:00:09.000Z"
+    },
+    {
       "id": "https://www.scmp.com/opinion/china-opinion/article/3341418/ev-targets-europe-should-take-page-chinas-playbook?utm_source=rss_feed",
       "url": "https://www.scmp.com/opinion/china-opinion/article/3341418/ev-targets-europe-should-take-page-chinas-playbook?utm_source=rss_feed",
       "title": "On EV targets, Europe should take a page from China’s playbook",

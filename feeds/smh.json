@@ -6,6 +6,70 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "e0d3b686-5442-4feb-ad59-08ed1b64c254",
+      "url": "https://www.smh.com.au/national/man-struck-by-machete-and-tree-branch-during-alleged-home-invasion-20260128-p5nxtd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man struck by machete and tree branch during alleged home invasion",
+      "content_html": "A man says he has been struck with a machete and a tree branch as he defended his home from a group of six masked invaders in Adelaide.",
+      "content_text": "A man says he has been struck with a machete and a tree branch as he defended his home from a group of six masked invaders in Adelaide.",
+      "date_published": "2026-01-28T09:29:19.000Z"
+    },
+    {
+      "id": "64c2af41-abb9-4574-b4e3-d65a649915b5",
+      "url": "https://www.smh.com.au/national/queensland/chinese-team-heads-to-brisbane-to-help-solve-mystery-of-burnt-baby-20260128-p5nxsz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Chinese team heads to Brisbane to help solve mystery of burnt baby",
+      "content_html": "Almost 18 months after a man allegedly scalded baby Luka in a Brisbane park and fled the country, China’s ambassador confirms a “serious” new push for justice.",
+      "content_text": "Almost 18 months after a man allegedly scalded baby Luka in a Brisbane park and fled the country, China’s ambassador confirms a “serious” new push for justice.",
+      "date_published": "2026-01-28T09:18:39.000Z"
+    },
+    {
+      "id": "b57e812f-21b0-4dbd-af8a-e5b7e9ccd529",
+      "url": "https://www.smh.com.au/national/man-arrested-after-allegedly-threatening-paramedics-patient-20260128-p5nxtb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man arrested after allegedly threatening paramedics, patient",
+      "content_html": "A Victorian man has been arrested in Adelaide after he allegedly threatened paramedics and a stabbing victim in the back of an ambulance, sparking a police manhunt.",
+      "content_text": "A Victorian man has been arrested in Adelaide after he allegedly threatened paramedics and a stabbing victim in the back of an ambulance, sparking a police manhunt.",
+      "date_published": "2026-01-28T09:17:38.000Z"
+    },
+    {
+      "id": "4af8d3db-73e7-4c5a-b312-af3aa24d9f75",
+      "url": "https://www.smh.com.au/sport/nrl/suaalii-sends-message-to-nrl-stars-20260128-p5nxta.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Suaalii sends message to NRL stars",
+      "content_html": "Joseph Suaalii sends a message to the code he made his name in after the latest rugby union convert.",
+      "content_text": "Joseph Suaalii sends a message to the code he made his name in after the latest rugby union convert.",
+      "date_published": "2026-01-28T09:14:55.000Z"
+    },
+    {
+      "id": "c54c6461-3182-4a93-9d8c-c22449433905",
+      "url": "https://www.smh.com.au/sport/tennis/sinners-miracle-going-to-the-highlight-reel-20260128-p5nxt9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sinner's miracle 'going to the highlight reel'",
+      "content_html": "Jannik Sinner hits a winning shot around the net against Ben Shelton.",
+      "content_text": "Jannik Sinner hits a winning shot around the net against Ben Shelton.",
+      "date_published": "2026-01-28T09:02:06.000Z"
+    },
+    {
+      "id": "65dd85b4-562f-4127-b4ae-dd716d5192a7",
+      "url": "https://www.smh.com.au/sport/tennis/tennis-players-or-animals-in-the-zoo-ta-defends-behind-the-scenes-cameras-after-swiatek-backs-gauff-20260128-p5nxro.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Tennis players or animals in the zoo?’ TA defends behind-the-scenes cameras after Swiatek backs Gauff",
+      "content_html": "Broadcasters want more access to what happens beyond the court because people want personality as much as they want the actual sport.",
+      "content_text": "Broadcasters want more access to what happens beyond the court because people want personality as much as they want the actual sport.",
+      "date_published": "2026-01-28T08:56:03.000Z"
+    },
+    {
+      "id": "1112d679-15a4-4a0e-ba04-ead72eb0b401",
+      "url": "https://www.smh.com.au/sport/tennis/shelton-hits-fastest-serve-of-the-australian-open-20260128-p5nxt8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Shelton hits fastest serve of the Australian Open",
+      "content_html": "Ben Shelton sends down a thunderbolt to Jannik Sinner.",
+      "content_text": "Ben Shelton sends down a thunderbolt to Jannik Sinner.",
+      "date_published": "2026-01-28T08:52:03.000Z"
+    },
+    {
+      "id": "e949c8e3-1bae-4870-b3b3-d2cdba9ff544",
+      "url": "https://www.smh.com.au/sport/tennis/sinner-distressed-as-shelton-earns-break-point-20260128-p5nxt7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sinner 'distressed' as Shelton earns break point",
+      "content_html": "Jannik Sinner shows some concern during the first game against Ben Shelton.",
+      "content_text": "Jannik Sinner shows some concern during the first game against Ben Shelton.",
+      "date_published": "2026-01-28T08:51:57.000Z"
+    },
+    {
       "id": "544b9de0-8be2-48d7-8872-6a7aa950014f",
       "url": "https://www.smh.com.au/national/tourists-rescued-from-roof-of-car-in-queensland-floods-20260128-p5nxt4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Tourists rescued from roof of car in Queensland floods",
