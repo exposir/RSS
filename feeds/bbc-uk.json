@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/rugby-union/articles/cp3zp0d9gevo#7",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cp3zp0d9gevo?at_medium=RSS&at_campaign=rss",
+      "title": "France prop Atonio retires after 'cardiac event'",
+      "content_html": "France prop Uini Atonio is forced to retire after he was admitted to an intensive care unit following a \"cardiac event\".",
+      "content_text": "France prop Uini Atonio is forced to retire after he was admitted to an intensive care unit following a \"cardiac event\".",
+      "date_published": "2026-01-28T09:38:42.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/czx32yxnvzro#0",
+      "url": "https://www.bbc.com/news/articles/czx32yxnvzro?at_medium=RSS&at_campaign=rss",
+      "title": "Rwanda seeks £100m from UK over axed asylum deal",
+      "content_html": "The African nation argues it is owed payments but the Home Office says it will fight the case.",
+      "content_text": "The African nation argues it is owed payments but the Home Office says it will fight the case.",
+      "date_published": "2026-01-28T09:25:31.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/golf/articles/crlepwwdyjwo#7",
       "url": "https://www.bbc.com/sport/golf/articles/crlepwwdyjwo?at_medium=RSS&at_campaign=rss",
       "title": "Lack of mixed indoor league 'an unbelievable miss'",

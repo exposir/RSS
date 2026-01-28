@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "2b0cb9e5-9b26-44f2-9f55-96f8709500b0",
+      "url": "https://www.smh.com.au/national/nsw/you-can-t-hold-a-candle-to-sydney-tourism-20260128-p5nxja.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "You can’t hold a candle to Sydney tourism",
+      "content_html": "Life’s like that.",
+      "content_text": "Life’s like that.",
+      "date_published": "2026-01-28T10:00:00.000Z"
+    },
+    {
       "id": "e0d3b686-5442-4feb-ad59-08ed1b64c254",
       "url": "https://www.smh.com.au/national/man-struck-by-machete-and-tree-branch-during-alleged-home-invasion-20260128-p5nxtd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Man struck by machete and tree branch during alleged home invasion",

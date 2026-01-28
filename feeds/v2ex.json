@@ -17,6 +17,54 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189099",
+      "url": "https://www.v2ex.com/t/1189099#reply0",
+      "title": "[程序员] 元宝派 是怎么一回事～",
+      "content_html": "<p>有人内测了么～～拉一下，看看是咋么一回事</p>",
+      "content_text": "有人内测了么～～拉一下，看看是咋么一回事",
+      "date_published": "2026-01-28T09:59:05.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189098",
+      "url": "https://www.v2ex.com/t/1189098#reply0",
+      "title": "[VPS] CCS 无限流量补货",
+      "content_html": "<p>CCS 黑五无限流量机器补货–$11.00/年</p>\n<p>解锁能力挺好的（也看运气），主流流媒体和 AI 都能解锁，IP 可能会变脏(无限流量被拿去开鸡场了)。     </p>\n<p>Specials - 2GB RAM Black Friday - CVPS Custom<br/>\n2GB RAM<br/>\n1vCPU<br/>\n30GB SSD<br/>\n1Gbps<br/>\n1 x IPv4       </p>\n<p>CPU 比较弱，线路无优化      </p>\n<p>发工单，可以无限流量             </p>\n<p><a href=\"https://i.260512.xyz/ccswxll95\" rel=\"nofollow\">购买地址</a></p>",
+      "content_text": "CCS 黑五无限流量机器补货–$11.00/年\n解锁能力挺好的（也看运气），主流流媒体和 AI 都能解锁，IP 可能会变脏(无限流量被拿去开鸡场了)。     \nSpecials - 2GB RAM Black Friday - CVPS Custom\n2GB RAM\n1vCPU\n30GB SSD\n1Gbps\n1 x IPv4       \nCPU 比较弱，线路无优化      \n发工单，可以无限流量             \n购买地址",
+      "date_published": "2026-01-28T09:58:30.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189096",
+      "url": "https://www.v2ex.com/t/1189096#reply0",
+      "title": "[Claude Code] 💰 [节点数据分享] 感谢大家的活跃，以后会定期贴图给大家！节点金库怎么玩？",
+      "content_html": "<p>❤️ 感谢大家在 Claude Code 节点里分享和交流，以后会定期贴管理截图给大家！  </p>\n<p>💰 另外在思考：<strong>“节点金库里的余额有什么有趣的玩法？”</strong> </p>\n<p>🤔 目前的一些想法是：通过<strong>感谢</strong>和<strong>打赏</strong>？通过<strong>定期抽奖</strong>？大家有啥点子吗？欢迎贡献你的奇思妙想～</p>\n<ul>\n<li>节点金库余额：9 银币 81 铜币</li>\n<li>节点创建天数：19</li>\n<li>节点帖子数量：36 </li>\n<li>过去 30 天查看次数：42696</li>\n</ul>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/z9u6WAXI.png\"/></p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/2C24Xys6.png\"/></p>",
+      "content_text": "❤️ 感谢大家在 Claude Code 节点里分享和交流，以后会定期贴管理截图给大家！  \n💰 另外在思考：“节点金库里的余额有什么有趣的玩法？” \n🤔 目前的一些想法是：通过感谢和打赏？通过定期抽奖？大家有啥点子吗？欢迎贡献你的奇思妙想～\n\n节点金库余额：9 银币 81 铜币\n节点创建天数：19\n节点帖子数量：36 \n过去 30 天查看次数：42696",
+      "date_published": "2026-01-28T09:53:54.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189095",
+      "url": "https://www.v2ex.com/t/1189095#reply1",
+      "title": "[问与答] 貌似 windows 越来越不注重用户体验了？（重开）",
+      "content_html": "<h1>由于上一篇中出现了不友好的发言，导致帖子被放入其他类别。故，创建一个新的帖子来去讨论 windows 目前的问题。请各位友善发言，不要出现 aggressive 的言论。</h1>\n<p>只是说下安装 windows 时候遇到的恶心事情，每个问题我都知道有办法绕过，不是来问各位解决方案的）</p>\n<p>昨天安装了 windows11 ，发现安装过程本身有很多反人类的行为啊。</p>\n<p>我是通过 winPE 中 winNT32Setup （大概是这个名字）安装的 windows ，nvme 部署 windows image 的速度很快，好不夸张的说，我端起杯子喝了一口水，把杯子放回桌上，部署已经完成了 95%，整个过程 30 秒差不多，相当舒适。</p>\n<p>重启后进入 windows oobe 阶段，麻烦来了。找不到网卡驱动，这是预料之内的，因为我是 10Gbps PCIe 光卡，找不到很正常。但此时有些版本的系统会在下方提供 i don't have internet 的选项，有些则不会。因为接口很多，懒得后面再进计算机管理手动安装驱动，所以这步我选择了安装驱动。</p>\n<p>oobe 阶段有网和没网是两个东西，如果没有网，各种设置完成，你能在 3-5 分钟内进入桌面。可我选择了联网，当我点击下一步后，windows 开始了更新。。。这一步占了 oobe 的大头，原来 5 分钟能进去桌面，就因为更新，卡在这步有 45 分钟。各位也知道国内网络不稳，曾经有出现过我把网断了，下载进度条一段时候还走的情况，甚至都触发不了超时。</p>\n<p>我全新安装的系统，在 oobe 阶段开始联网更新，要知道，账号信息都没设置，只能干等着他更新完，颇有种全新仅大修的感觉。是，我知道我 iso 是 22h2 ，不是最新的 25h2 ，但至少让我先进去桌面再更新吧？更新 windows 也不是什么必须的事情，为什么要在 oobe 阶段做这个事情？我不反对 windows 更新，也希望我的机器保持最新，但 oobe 阶段更新，意味着我所有后续设置都不能做，只能等着他完成。</p>\n<p>45 分钟后，windows 更新完成了，重启了两次，和我再次重装了系统一样。下一步，设置账户，我安装的是 pro for workstation ，在登陆界面，我选择登陆选项，改成了加入 ad 域控，绕开了登录账号。</p>\n<p>我自己的机器，为什么必须要登陆微软的账号呢？再说，我买的机器，不可以全家一起用么？这么想来全家都用我的账号也不合适吧，而且也没有必要分开建立单独的账号啊。</p>\n<p>oobe 阶段结束，进入了桌面，windows 更新提示我，有 5-10 个系统更新。嗯？我不李姐，刚刚不是才结束了全新仅大修？花了 45 分钟更新之后的系统，又提示我要更新。</p>\n<p>又更新完重启了一次，正常进去桌面。菜单里看到一堆 app 被安装了，onedrive ，copilot ，etc 。尤其是 onedrive ，默认安装，435MB ，想当于 0.5GB 的应用，我完全不用，为什么要预装。</p>\n<p>==========</p>\n<p>想想当年的 windows10 ，windows7 ，哪个里面有广告性质的程序，以及疯了一样的 windows 更新？明明可以在 oobe 结束后更新来提升用户体验，反而做了最恶心的事情。</p>\n<p>日常我都在使用 macOS 和 ubuntu ，用 windows 唯一的原因是打游戏，这个避不开，Linux proton 支持了大部分 steam 游戏，但这仅限于单机游戏，至于国内经常玩的网游，全都由于反作弊的原因没有一个能上 linux 的，只要反作弊这个问题不解决，那么游戏永远依赖 windows 。</p>\n<p>微软把 windows 弄的这么恶心，我却没有丝毫办法。至于怎么绕过以上种种那是后话，这种事情就不该出现在一个操作系统上。</p>\n<p>等我哪天不打网游了，ubuntu 可以完美替代 win ，他将会只活在我记忆当中。</p>",
+      "content_text": "由于上一篇中出现了不友好的发言，导致帖子被放入其他类别。故，创建一个新的帖子来去讨论 windows 目前的问题。请各位友善发言，不要出现 aggressive 的言论。\n只是说下安装 windows 时候遇到的恶心事情，每个问题我都知道有办法绕过，不是来问各位解决方案的）\n昨天安装了 windows11 ，发现安装过程本身有很多反人类的行为啊。\n我是通过 winPE 中 winNT32Setup （大概是这个名字）安装的 windows ，nvme 部署 windows image 的速度很快，好不夸张的说，我端起杯子喝了一口水，把杯子放回桌上，部署已经完成了 95%，整个过程 30 秒差不多，相当舒适。\n重启后进入 windows oobe 阶段，麻烦来了。找不到网卡驱动，这是预料之内的，因为我是 10Gbps PCIe 光卡，找不到很正常。但此时有些版本的系统会在下方提供 i don't have internet 的选项，有些则不会。因为接口很多，懒得后面再进计算机管理手动安装驱动，所以这步我选择了安装驱动。\noobe 阶段有网和没网是两个东西，如果没有网，各种设置完成，你能在 3-5 分钟内进入桌面。可我选择了联网，当我点击下一步后，windows 开始了更新。。。这一步占了 oobe 的大头，原来 5 分钟能进去桌面，就因为更新，卡在这步有 45 分钟。各位也知道国内网络不稳，曾经有出现过我把网断了，下载进度条一段时候还走的情况，甚至都触发不了超时。\n我全新安装的系统，在 oobe 阶段开始联网更新，要知道，账号信息都没设置，只能干等着他更新完，颇有种全新仅大修的感觉。是，我知道我 iso 是 22h2 ，不是最新的 25h2 ，但至少让我先进去桌面再更新吧？更新 windows 也不是什么必须的事情，为什么要在 oobe 阶段做这个事情？我不反对 windows 更新，也希望我的机器保持最新，但 oobe 阶段更新，意味着我所有后续设置都不能做，只能等着他完成。\n45 分钟后，windows 更新完成了，重启了两次，和我再次重装了系统一样。下一步，设置账户，我安装的是 pro for workstation ，在登陆界面，我选择登陆选项，改成了加入 ad 域控，绕开了登录账号。\n我自己的机器，为什么必须要登陆微软的账号呢？再说，我买的机器，不可以全家一起用么？这么想来全家都用我的账号也不合适吧，而且也没有必要分开建立单独的账号啊。\noobe 阶段结束，进入了桌面，windows 更新提示我，有 5-10 个系统更新。嗯？我不李姐，刚刚不是才结束了全新仅大修？花了 45 分钟更新之后的系统，又提示我要更新。\n又更新完重启了一次，正常进去桌面。菜单里看到一堆 app 被安装了，onedrive ，copilot ，etc 。尤其是 onedrive ，默认安装，435MB ，想当于 0.5GB 的应用，我完全不用，为什么要预装。\n==========\n想想当年的 windows10 ，windows7 ，哪个里面有广告性质的程序，以及疯了一样的 windows 更新？明明可以在 oobe 结束后更新来提升用户体验，反而做了最恶心的事情。\n日常我都在使用 macOS 和 ubuntu ，用 windows 唯一的原因是打游戏，这个避不开，Linux proton 支持了大部分 steam 游戏，但这仅限于单机游戏，至于国内经常玩的网游，全都由于反作弊的原因没有一个能上 linux 的，只要反作弊这个问题不解决，那么游戏永远依赖 windows 。\n微软把 windows 弄的这么恶心，我却没有丝毫办法。至于怎么绕过以上种种那是后话，这种事情就不该出现在一个操作系统上。\n等我哪天不打网游了，ubuntu 可以完美替代 win ，他将会只活在我记忆当中。",
+      "date_published": "2026-01-28T09:48:58.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189094",
+      "url": "https://www.v2ex.com/t/1189094#reply0",
+      "title": "[Apple] iPhone 13 pro 无法关闭 siri 锁屏建议",
+      "content_html": "<p>如图所示，在上次使用的 app 中使用一会后锁屏，过一会点击屏幕在底部就能看到这无聊的 siri 建议，很烦人</p>\n<p>似乎是 iOS15 升级到 iOS16 时出现的问题，后面多次刷机也不能解决，和 siri 相关的通知都关闭了，siri 也关闭通知权限了，搜索建议也关闭了都无法解决!。</p>\n<p>问了各种 AI 也解决不了</p>\n<p><img alt=\"img\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://core.xuanyuanhuangdi.org/ScreenShot_2026-01-28_172926_014.png\"/></p>",
+      "content_text": "如图所示，在上次使用的 app 中使用一会后锁屏，过一会点击屏幕在底部就能看到这无聊的 siri 建议，很烦人\n似乎是 iOS15 升级到 iOS16 时出现的问题，后面多次刷机也不能解决，和 siri 相关的通知都关闭了，siri 也关闭通知权限了，搜索建议也关闭了都无法解决!。\n问了各种 AI 也解决不了",
+      "date_published": "2026-01-28T09:42:46.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189093",
+      "url": "https://www.v2ex.com/t/1189093#reply0",
+      "title": "[程序员] 用了两个 Cursor Ultra 订阅, 给 AI 做了一个浏览器沙盒",
+      "content_html": "<p>支持 Windows, MacOS 和 Linux. 欢迎大家给我一点内测的建议！因为全是 AI 写的代码，开源还在整理中。</p>\n<p><a href=\"https://deeptask.ai/\" rel=\"nofollow\">https://deeptask.ai/</a></p>\n<p>要什么工作流，要什么 Skills ，脚本才是王道啊！</p>",
+      "content_text": "支持 Windows, MacOS 和 Linux. 欢迎大家给我一点内测的建议！因为全是 AI 写的代码，开源还在整理中。\nhttps://deeptask.ai/\n要什么工作流，要什么 Skills ，脚本才是王道啊！",
+      "date_published": "2026-01-28T09:42:41.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1189092",
       "url": "https://www.v2ex.com/t/1189092#reply0",
       "title": "[问与答] 求助，我有香港银行卡，能接受香港号码短信，身份认证已经通过，但没有税务信息，注册香港 apple 开发者能走通吗？",

@@ -6,6 +6,22 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/tech/article/3341516/price-rises-horizon-chinese-cloud-firms-after-google-and-aws-set-new-rates?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/article/3341516/price-rises-horizon-chinese-cloud-firms-after-google-and-aws-set-new-rates?utm_source=rss_feed",
+      "title": "Price rises on the horizon for Chinese cloud firms after Google and AWS set new rates",
+      "content_html": "Several Chinese cloud service providers are “evaluating price increases”, according to analysts, following recent moves by Google and Amazon Web Services (AWS), as the explosive growth of artificial intelligence drives demand.\nGoogle on Tuesday announced price rises of up to 100 per cent for certain services, effective May 1. For example, North American users of the CDN Interconnect, Direct Peering, and Carrier Peering services will pay US$0.08 per gigabyte, double the current rate. In Asia, the...",
+      "content_text": "Several Chinese cloud service providers are “evaluating price increases”, according to analysts, following recent moves by Google and Amazon Web Services (AWS), as the explosive growth of artificial intelligence drives demand.\nGoogle on Tuesday announced price rises of up to 100 per cent for certain services, effective May 1. For example, North American users of the CDN Interconnect, Direct Peering, and Carrier Peering services will pay US$0.08 per gigabyte, double the current rate. In Asia, the...",
+      "date_published": "2026-01-28T10:00:25.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/people-culture/trending-china/article/3340677/china-couple-102-born-same-day-gain-online-attention-credit-longevity-respecting-privacy?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3340677/china-couple-102-born-same-day-gain-online-attention-credit-longevity-respecting-privacy?utm_source=rss_feed",
+      "title": "China couple, 102, born on same day, gain online attention, credit longevity to respecting privacy",
+      "content_html": "A centenarian Chinese couple have gone viral for being born on the exact same day, month and year and revealing their simple secret to longevity.\nNumerous netizens have been captivated by the 102-year-old couple’s remedy for a long life, which is minding your own business.\nThe couple went viral after a family portrait surfaced showing Yuan Guanjin and his wife Yin Hezhen wearing white shirts and red jumpers, sitting with their children and grandchildren.\n\nThe heartwarming photograph, taken on...",
+      "content_text": "A centenarian Chinese couple have gone viral for being born on the exact same day, month and year and revealing their simple secret to longevity.\nNumerous netizens have been captivated by the 102-year-old couple’s remedy for a long life, which is minding your own business.\nThe couple went viral after a family portrait surfaced showing Yuan Guanjin and his wife Yin Hezhen wearing white shirts and red jumpers, sitting with their children and grandchildren.\n\nThe heartwarming photograph, taken on...",
+      "date_published": "2026-01-28T10:00:09.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/asia/east-asia/article/3341546/south-koreas-metropolitan-visa-shipbuilding-worth-cost-foreign-labour?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/asia/east-asia/article/3341546/south-koreas-metropolitan-visa-shipbuilding-worth-cost-foreign-labour?utm_source=rss_feed",
       "title": "Is South Korea’s ‘metropolitan visa’ for shipbuilding worth the cost of foreign labour?",
