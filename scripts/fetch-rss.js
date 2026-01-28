@@ -186,14 +186,20 @@ async function main() {
 
   console.log(`读取到 ${feeds.length} 个订阅源`);
 
-  for (const feed of feeds) {
-    console.log(`\n正在抓取: ${feed.name}`);
+  // 并发限制
+  const CONCURRENCY = 10;
+  let running = 0;
+  let index = 0;
+  const results = [];
+
+  async function processFeed(feed) {
+    console.log(`正在抓取: ${feed.name}`);
 
     try {
       const result = await fetchRss(feed.url);
       const newEntries = result.entries || [];
 
-      console.log(`  抓取到 ${newEntries.length} 条新闻`);
+      console.log(`  [${feed.name}] 抓取到 ${newEntries.length} 条新闻`);
 
       let archive = {
         version: "https://jsonfeed.org/version/1.1",
@@ -211,7 +217,7 @@ async function main() {
             archive.items = existing.items;
           }
         } catch (e) {
-          console.log("  现有存档文件损坏，将创建新的");
+          console.log(`  [${feed.name}] 现有存档文件损坏，将创建新的`);
         }
       }
 
@@ -250,17 +256,27 @@ async function main() {
 
       fs.writeFileSync(feed.output, JSON.stringify(archive, null, 2));
       console.log(
-        `  ✅ 新增 ${addedCount} 条，总共 ${archive.items.length} 条`,
+        `  ✅ [${feed.name}] 新增 ${addedCount} 条，总共 ${archive.items.length} 条`,
       );
+      return { success: true, name: feed.name };
     } catch (err) {
-      console.error(`  ❌ 抓取失败: ${err.message}`);
+      console.error(`  ❌ [${feed.name}] 抓取失败: ${err.message}`);
+      return { success: false, name: feed.name, error: err.message };
     }
   }
 
-  console.log("\n全部完成！");
+  // 并行执行，限制并发数
+  const tasks = feeds.map((feed) => processFeed(feed));
+  const allResults = await Promise.all(tasks);
+
+  const succeeded = allResults.filter((r) => r.success).length;
+  const failed = allResults.filter((r) => !r.success).length;
+
+  console.log(`\n全部完成！成功 ${succeeded} 个，失败 ${failed} 个`);
 }
 
 main().catch((err) => {
   console.error("脚本执行失败:", err.message);
   process.exit(1);
 });
+
