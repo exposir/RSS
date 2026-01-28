@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "0220a104-e027-4af8-b376-7889a24489b4",
+      "url": "https://www.smh.com.au/sport/tennis/crowd-roars-as-shelton-saves-service-game-20260128-p5nxtl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Crowd roars as Shelton saves service game",
+      "content_html": "Ben Shelton fires up himself and the crowd in a tight set.",
+      "content_text": "Ben Shelton fires up himself and the crowd in a tight set.",
+      "date_published": "2026-01-28T10:46:52.000Z"
+    },
+    {
+      "id": "a67378d4-3532-4aef-b0d7-cf60551f29c1",
+      "url": "https://www.smh.com.au/national/calls-grow-for-invasion-day-bomb-scare-to-be-labelled-terrorism-20260128-p5nxtj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Calls grow for Invasion Day bomb scare to be labelled terrorism",
+      "content_html": "The Western Australia Joint Counter Terrorism Team has confirmed it is investigating the incident as a \"potential terrorist act\".",
+      "content_text": "The Western Australia Joint Counter Terrorism Team has confirmed it is investigating the incident as a \"potential terrorist act\".",
+      "date_published": "2026-01-28T10:41:26.000Z"
+    },
+    {
+      "id": "cbb32d85-aca6-42ee-9323-a1d737652a96",
+      "url": "https://www.smh.com.au/national/triple-zero-problems-for-some-telstra-iphones-20260128-p5nxti.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Triple zero problems for some Telstra iPhones",
+      "content_html": "Some older iPhones are facing 30-second delays getting through to the emergency number while others aren’t connecting at all.",
+      "content_text": "Some older iPhones are facing 30-second delays getting through to the emergency number while others aren’t connecting at all.",
+      "date_published": "2026-01-28T10:36:52.000Z"
+    },
+    {
+      "id": "70587e55-5b93-4e15-871c-98b42e309f73",
+      "url": "https://www.smh.com.au/national/western-australia/teenage-rider-in-fatal-edgewater-e-motorbike-crash-to-fight-manslaughter-charge-20260128-p5nxtc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Teenage rider in fatal Edgewater e-motorbike crash to fight manslaughter charge",
+      "content_html": "A teenager who fatally mowed down a pedestrian in Edgewater on an electric motorbike in July last year has pleaded guilty to dangerous driving but not a charge of manslaughter.",
+      "content_text": "A teenager who fatally mowed down a pedestrian in Edgewater on an electric motorbike in July last year has pleaded guilty to dangerous driving but not a charge of manslaughter.",
+      "date_published": "2026-01-28T10:36:15.000Z"
+    },
+    {
+      "id": "aa3b7a56-8931-4327-aa89-8643c849e3ef",
+      "url": "https://www.smh.com.au/sport/tennis/sinners-odd-look-after-uncharacteristic-points-20260128-p5nxth.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sinner's 'odd look' after uncharacteristic points",
+      "content_html": "Jannik Sinner grabs at his eyes after hitting a shot wide and a prior double fault.",
+      "content_text": "Jannik Sinner grabs at his eyes after hitting a shot wide and a prior double fault.",
+      "date_published": "2026-01-28T10:21:41.000Z"
+    },
+    {
       "id": "2b0cb9e5-9b26-44f2-9f55-96f8709500b0",
       "url": "https://www.smh.com.au/national/nsw/you-can-t-hold-a-candle-to-sydney-tourism-20260128-p5nxja.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "You can’t hold a candle to Sydney tourism",

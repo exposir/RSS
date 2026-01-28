@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
+      "url": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
+      "title": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
+      "content_html": "The e-commerce giant has been cutting costs in part to redirect money into building data centers to compete in the race to dominate artificial intelligence.",
+      "content_text": "The e-commerce giant has been cutting costs in part to redirect money into building data centers to compete in the race to dominate artificial intelligence.",
+      "date_published": "2026-01-28T10:48:25.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
       "url": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
       "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",

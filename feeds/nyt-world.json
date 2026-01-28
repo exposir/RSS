@@ -6,6 +6,38 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html",
+      "title": "Iran Killed Thousands of Protesters. Here Are Five of Their Stories.",
+      "content_html": "“He went out for freedom,” said the cousin of one of those who was killed when Iranian authorities mounted a deadly crackdown on protests across the country.",
+      "content_text": "“He went out for freedom,” said the cousin of one of those who was killed when Iranian authorities mounted a deadly crackdown on protests across the country.",
+      "date_published": "2026-01-28T10:40:14.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/europe/kherson-ukraine-drones-russia.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/europe/kherson-ukraine-drones-russia.html",
+      "title": "In Kherson, Ukraine, Every Step Outside Risks Death by Drone",
+      "content_html": "Russian attacks on civilians in Kherson, in southern Ukraine, have forced important aspects of life to go underground, offering a vision of a postapocalyptic future.",
+      "content_text": "Russian attacks on civilians in Kherson, in southern Ukraine, have forced important aspects of life to go underground, offering a vision of a postapocalyptic future.",
+      "date_published": "2026-01-28T10:26:24.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/africa/south-africa-iran-navy-drills-trump.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/africa/south-africa-iran-navy-drills-trump.html",
+      "title": "After Naval Drills With Iran, South Africa Faces New U.S. Attacks",
+      "content_html": "The exercises were the second time in six months that President Cyril Ramaphosa appeared to be blindsided by his own military regarding relations with Tehran.",
+      "content_text": "The exercises were the second time in six months that President Cyril Ramaphosa appeared to be blindsided by his own military regarding relations with Tehran.",
+      "date_published": "2026-01-28T10:02:16.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/africa/nigeria-catholic-bishop-muslims-trump.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/africa/nigeria-catholic-bishop-muslims-trump.html",
+      "title": "In Nigeria, a Catholic Bishop Tries to Tone Down the Uproar After U.S. Missile Strikes",
+      "content_html": "Bishop Matthew Hassan Kukah, often called “the conscience of the nation,” has been trying to tone down the uproar after President Trump bombed a region in his diocese.",
+      "content_text": "Bishop Matthew Hassan Kukah, often called “the conscience of the nation,” has been trying to tone down the uproar after President Trump bombed a region in his diocese.",
+      "date_published": "2026-01-28T10:00:43.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",
       "url": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",
       "title": "The Rise and Fall of South Korean First Lady Kim Keon Hee",

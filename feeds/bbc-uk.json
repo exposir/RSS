@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cvg1z091melo#0",
+      "url": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
+      "title": "Three brothers die after falling in frozen Texas pond",
+      "content_html": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
+      "content_text": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
+      "date_published": "2026-01-28T10:18:57.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/rugby-union/articles/cp3zp0d9gevo#7",
       "url": "https://www.bbc.com/sport/rugby-union/articles/cp3zp0d9gevo?at_medium=RSS&at_campaign=rss",
       "title": "France prop Atonio retires after 'cardiac event'",
@@ -94,6 +102,14 @@
       "date_published": "2026-01-28T06:30:23.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cn0kpz14884o#3",
+      "url": "https://www.bbc.com/news/articles/cn0kpz14884o?at_medium=RSS&at_campaign=rss",
+      "title": "Puffins struggle to survive as Storm Chandra sweeps country",
+      "content_html": "The Scottish SPCA has urged people not to touch any puffins found on beaches and instead call the charity for advice.",
+      "content_text": "The Scottish SPCA has urged people not to touch any puffins found on beaches and instead call the charity for advice.",
+      "date_published": "2026-01-28T06:29:18.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c87r3wyep8no#1",
       "url": "https://www.bbc.com/news/articles/c87r3wyep8no?at_medium=RSS&at_campaign=rss",
       "title": "What happens when eight million Universal visitors need the loo?",
@@ -156,6 +172,14 @@
       "content_html": "The message was apparently sent in error hours before workers were expecting thousands of job cuts to be announced.",
       "content_text": "The message was apparently sent in error hours before workers were expecting thousands of job cuts to be announced.",
       "date_published": "2026-01-28T03:19:23.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cz7y2gy4p24o#0",
+      "url": "https://www.bbc.com/news/articles/cz7y2gy4p24o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexico president asks South Korea for more BTS concerts",
+      "content_html": "About a million fans were vying for 150,000 concert tickets, which sold out in less than 40 minutes.",
+      "content_text": "About a million fans were vying for 150,000 concert tickets, which sold out in less than 40 minutes.",
+      "date_published": "2026-01-28T03:07:18.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cz7y2gy4p24o#3",

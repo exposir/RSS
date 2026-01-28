@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
+      "url": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
+      "title": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
+      "content_html": "The e-commerce giant has been cutting costs in part to redirect money into building data centers to compete in the race to dominate artificial intelligence.",
+      "content_text": "The e-commerce giant has been cutting costs in part to redirect money into building data centers to compete in the race to dominate artificial intelligence.",
+      "date_published": "2026-01-28T10:46:12.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/opinion/clinton-epstein-house-contempt.html",
+      "url": "https://www.nytimes.com/2026/01/28/opinion/clinton-epstein-house-contempt.html",
+      "title": "These Democrats Want Clinton to Answer for Epstein. Good.",
+      "content_html": "As Democrats work to regain the public trust and to shed their image as the party of elites, they cannot be seen as treating elites in their party as above the law.",
+      "content_text": "As Democrats work to regain the public trust and to shed their image as the party of elites, they cannot be seen as treating elites in their party as above the law.",
+      "date_published": "2026-01-28T10:02:57.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/opinion/esther-perel-ai-chatbots-romance.html",
+      "url": "https://www.nytimes.com/2026/01/28/opinion/esther-perel-ai-chatbots-romance.html",
+      "title": "Esther Perel on Why A.I. Intimacy Feels Safe but Isn’t Real",
+      "content_html": "Perel, a renowned psychotherapist, doesn’t really think society can — or should — fall in love with a machine.",
+      "content_text": "Perel, a renowned psychotherapist, doesn’t really think society can — or should — fall in love with a machine.",
+      "date_published": "2026-01-28T10:02:08.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",
       "url": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",
       "title": "The Rise and Fall of South Korean First Lady Kim Keon Hee",

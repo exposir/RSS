@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3087102",
+      "url": "https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/",
+      "title": "Google pitches Gemini to students studying for India&#8217;s most competitive college entrance exam",
+      "content_html": "Google's launch of practice tests for JEE follows its recent move to offer full-length SAT practice tests in Gemini.",
+      "content_text": "Google's launch of practice tests for JEE follows its recent move to offer full-length SAT practice tests in Gemini.",
+      "date_published": "2026-01-28T10:00:00.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087077",
       "url": "https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/",
       "title": "Google Photos brings its prompt-based editing feature to India, Australia and Japan",
