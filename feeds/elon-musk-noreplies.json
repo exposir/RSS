@@ -6,6 +6,22 @@
   "description": "Twitter @Elon Musk - Powered by RSSHub",
   "items": [
     {
+      "id": "https://twitter.com/elonmusk/status/2016319238344933706",
+      "url": "https://x.com/elonmusk/status/2016319238344933706",
+      "title": "Cool",
+      "content_html": "Cool<div class=\"rsshub-quote\"><br><br>Brian Roemmele: I now have moved all my clients AI models to only use Grokipedia as a reference and citations for run-time inference and links.<br><br>This includes 100s of companies including some Fortune 500 firms.<br><br>This includes 3 countries I advise.<br><br>No more Wikipedia Politburo, its over.<br></div>",
+      "content_text": "CoolBrian Roemmele: I now have moved all my clients AI models to only use Grokipedia as a reference and citations for run-time inference and links.This includes 100s of companies including some Fortune 500 firms.This includes 3 countries I advise.No more Wikipedia Politburo, its over.",
+      "date_published": "2026-01-28T01:15:42.000Z"
+    },
+    {
+      "id": "https://twitter.com/elonmusk/status/2016304825860845967",
+      "url": "https://x.com/elonmusk/status/2016304825860845967",
+      "title": "This is why",
+      "content_html": "This is why<div class=\"rsshub-quote\"><br><br>Jeffery Mead: This is why Democrats are panicking about immigration enforcement. <br><br>The Electoral College baseline favors Republicans, census math is shifting EVs to red states, and Democrats are losing voter registration ground. <br><br>Remove illegal immigration from the equation and the math gets<br><br><video width=\"1080\" height=\"1920\" src=\"https://video.twimg.com/amplify_video/2016239117865021440/vid/avc1/1080x1920/IuK89dGXxfyJ0pGr.mp4?tag=21\" controls=\"controls\" poster=\"https://pbs.twimg.com/amplify_video_thumb/2016239117865021440/img/XddgdZTHP-wjwWbu.jpg\"></video></div>",
+      "content_text": "This is whyJeffery Mead: This is why Democrats are panicking about immigration enforcement. The Electoral College baseline favors Republicans, census math is shifting EVs to red states, and Democrats are losing voter registration ground. Remove illegal immigration from the equation and the math gets",
+      "date_published": "2026-01-28T00:18:26.000Z"
+    },
+    {
       "id": "https://twitter.com/elonmusk/status/2016286222335787284",
       "url": "https://x.com/elonmusk/status/2016286222335787284",
       "title": "RT SpaceX: Crew-12 completed training in California this past week. Falcon 9 is targeted to launch Dragon and the crew to the @Space_Station in Februa...",

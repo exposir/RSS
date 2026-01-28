@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003287977",
+      "url": "https://www.wsj.com/world/middle-east/key-gulf-allies-say-they-wont-aid-u-s-in-an-iran-strike-limiting-trumps-options-47e1ce3d",
+      "title": "Key Gulf Allies Say They Won&#x2019;t Aid U.S. in an Iran Strike, Limiting Trump&#x2019;s Options",
+      "content_html": "Saudi Arabia and the U.A.E. say Washington can&#x2019;t use their airspace for a military operation against Tehran.",
+      "content_text": "Saudi Arabia and the U.A.E. say Washington can&#x2019;t use their airspace for a military operation against Tehran.",
+      "date_published": "2026-01-28T00:15:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003286908",
       "url": "https://www.wsj.com/world/europe/europe-got-tough-with-trump-but-it-needs-the-u-s-as-much-as-ever-20a3220e",
       "title": "Europe Got Tough With Trump, but It Needs the U.S. as Much as Ever",

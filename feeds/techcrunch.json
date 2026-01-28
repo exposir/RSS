@@ -6,6 +6,22 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3086417",
+      "url": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
+      "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
+      "content_html": "Personal AI assistant Moltbot —formerly Clawdbot — has gone viral in a matter of weeks. But there’s more you should know before jumping on the bandwagon.",
+      "content_text": "Personal AI assistant Moltbot —formerly Clawdbot — has gone viral in a matter of weeks. But there’s more you should know before jumping on the bandwagon.",
+      "date_published": "2026-01-28T00:12:43.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086578",
+      "url": "https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/",
+      "title": "Fashion rental app By Rotation and Uber partner to help deliver ski clothing",
+      "content_html": "By Rotation, one of the U.K.’s most popular peer-to-peer fashion rental platforms, is partnering with Uber to deliver ski clothes.",
+      "content_text": "By Rotation, one of the U.K.’s most popular peer-to-peer fashion rental platforms, is partnering with Uber to deliver ski clothes.",
+      "date_published": "2026-01-28T00:00:00.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3086813",
       "url": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
       "title": "Anduril has invented a wild new drone flying contest where jobs are the prize",

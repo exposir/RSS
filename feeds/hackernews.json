@@ -86,6 +86,14 @@
       "date_published": "2026-01-27T03:24:13.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46771564",
+      "url": "https://twitter.com/karpathy/status/2015883857489522876",
+      "title": "A few random notes from Claude coding quite a bit last few weeks",
+      "content_html": "<p><a href=\"https://xcancel.com/karpathy/status/2015883857489522876\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2015883857489522876</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46771564\">https://news.ycombinator.com/item?id=46771564</a></p>\n<p>Points: 275</p>\n<p># Comments: 300</p>",
+      "content_text": "https://xcancel.com/karpathy/status/2015883857489522876\n\nComments URL: https://news.ycombinator.com/item?id=46771564\nPoints: 275\n# Comments: 300",
+      "date_published": "2026-01-26T21:09:19.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46770221",
       "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
       "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",

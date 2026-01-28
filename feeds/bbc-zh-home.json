@@ -6,6 +6,22 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/c3ve6n56npxo/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/c3ve6n56npxo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "紅色通緝令：吹哨人指俄羅斯濫用國際刑警組織通緝名單打擊異見人士",
+      "content_html": "國際刑警組織一名舉報人提供的數千份文件首次揭露了俄羅斯濫用該組織打擊海外異見人士的程度。",
+      "content_text": "國際刑警組織一名舉報人提供的數千份文件首次揭露了俄羅斯濫用該組織打擊海外異見人士的程度。",
+      "date_published": "2026-01-28T00:10:41.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c93vxlny11do/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/c93vxlny11do/trad?at_medium=RSS&at_campaign=rss",
+      "title": "印度能在電腦芯片產業佔一席之地嗎？",
+      "content_html": "印度正投入數以億計美元，致力於建立本國的電腦芯片產業。",
+      "content_text": "印度正投入數以億計美元，致力於建立本國的電腦芯片產業。",
+      "date_published": "2026-01-28T00:10:14.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/cp80pl999gjo/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/cp80pl999gjo/trad?at_medium=RSS&at_campaign=rss",
       "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
@@ -20,6 +36,14 @@
       "content_html": "隨著槍擊事件的各種影片在網上流傳，官方說辭與美國民眾所見的事實矛盾，這引發了強烈反彈。一些共和黨人與反對派民主黨人一起，呼籲對事件進行全面調查。",
       "content_text": "隨著槍擊事件的各種影片在網上流傳，官方說辭與美國民眾所見的事實矛盾，這引發了強烈反彈。一些共和黨人與反對派民主黨人一起，呼籲對事件進行全面調查。",
       "date_published": "2026-01-27T11:37:16.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/cevnpg297r3o/trad#1",
+      "url": "https://www.bbc.com/zhongwen/articles/cevnpg297r3o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "法國向15歲以下禁用社交媒體邁出重大一步，馬克龍支持",
+      "content_html": "馬克龍說：「我們不能將孩子的心理與情緒健康交給那些一心只想從他們身上賺錢的人。」",
+      "content_text": "馬克龍說：「我們不能將孩子的心理與情緒健康交給那些一心只想從他們身上賺錢的人。」",
+      "date_published": "2026-01-27T07:17:40.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/cevnpg297r3o/trad#0",
@@ -110,6 +134,14 @@
       "date_published": "2026-01-26T07:38:26.000Z"
     },
     {
+      "id": "https://www.bbc.com/zhongwen/articles/cr4kkydv75ro/trad#1",
+      "url": "https://www.bbc.com/zhongwen/articles/cr4kkydv75ro/trad?at_medium=RSS&at_campaign=rss",
+      "title": "中國生育率破1新生數回到乾隆年間水平  預測失準後的斷崖式下跌",
+      "content_html": "十餘年前，官方預測中國人口將在2033年達到15億的峰值。如今，不僅峰值提前了12年到來，而且比預測少了將近1億人。",
+      "content_text": "十餘年前，官方預測中國人口將在2033年達到15億的峰值。如今，不僅峰值提前了12年到來，而且比預測少了將近1億人。",
+      "date_published": "2026-01-26T03:06:42.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/cr4kkydv75ro/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/cr4kkydv75ro/trad?at_medium=RSS&at_campaign=rss",
       "title": "中國生育率破1新生數回到乾隆年間水平  預測失準後的斷崖式下跌",
@@ -124,6 +156,14 @@
       "content_html": "所謂的「男性網紅」戴著智慧眼鏡接近女性，然後將影片發布到TikTok和Instagram 上。",
       "content_text": "所謂的「男性網紅」戴著智慧眼鏡接近女性，然後將影片發布到TikTok和Instagram 上。",
       "date_published": "2026-01-26T00:30:11.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/clym200gemeo/trad#3",
+      "url": "https://www.bbc.com/zhongwen/articles/clym200gemeo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "特朗普指加拿大試圖成為中國商品轉運港，威脅加徵100%關稅",
+      "content_html": "特朗普表示：「如果加拿大與中國達成協議，所有進入美國的加拿大商品和產品將立即被徵收100%的關稅。」加拿大否認尋求與中國達成自貿協議。",
+      "content_text": "特朗普表示：「如果加拿大與中國達成協議，所有進入美國的加拿大商品和產品將立即被徵收100%的關稅。」加拿大否認尋求與中國達成自貿協議。",
+      "date_published": "2026-01-25T10:07:09.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/clym200gemeo/trad#1",
@@ -148,6 +188,14 @@
       "content_html": "現年75歲的張又俠是除習近平之外，中國解放軍中實際排名最高的將領。他的父親張宗遜是中共開國上將，曾與習近平的父親並肩作戰。",
       "content_text": "現年75歲的張又俠是除習近平之外，中國解放軍中實際排名最高的將領。他的父親張宗遜是中共開國上將，曾與習近平的父親並肩作戰。",
       "date_published": "2026-01-25T08:21:34.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c8e5gz0zn8po/trad#6",
+      "url": "https://www.bbc.com/zhongwen/articles/c8e5gz0zn8po/trad?at_medium=RSS&at_campaign=rss",
+      "title": "中國正在悄悄贏得AI競賽嗎？",
+      "content_html": "斯坦福大學上月發布的一份報告指出，中國的AI模型「似乎已趕上甚至超越」全球對手。",
+      "content_text": "斯坦福大學上月發布的一份報告指出，中國的AI模型「似乎已趕上甚至超越」全球對手。",
+      "date_published": "2026-01-25T05:33:59.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/c8e5gz0zn8po/trad#1",

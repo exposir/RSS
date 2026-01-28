@@ -6,12 +6,68 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/czejjr7wz6ko#1",
+      "url": "https://www.bbc.com/news/articles/czejjr7wz6ko?at_medium=RSS&at_campaign=rss",
+      "title": "'What if I just started shouting?' - when to worry about intrusive thoughts",
+      "content_html": "Dr Nina Higson-Sweeney, who was diagnosed with OCD when she was 10, explains when you should seek help.",
+      "content_text": "Dr Nina Higson-Sweeney, who was diagnosed with OCD when she was 10, explains when you should seek help.",
+      "date_published": "2026-01-28T01:18:01.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cddgp9jgjz1o#0",
+      "url": "https://www.bbc.com/news/articles/cddgp9jgjz1o?at_medium=RSS&at_campaign=rss",
+      "title": "EasyJet warned over 'misleading' £5.99 cabin bag fee",
+      "content_html": "The airline said the fact there were no bags available for less than £5.99 meant the claim was not misleading.",
+      "content_text": "The airline said the fact there were no bags available for less than £5.99 meant the claim was not misleading.",
+      "date_published": "2026-01-28T00:07:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c33827k6elxo#0",
+      "url": "https://www.bbc.com/news/articles/c33827k6elxo?at_medium=RSS&at_campaign=rss",
+      "title": "Vulnerable missing out on benefits due to online tool",
+      "content_html": "Benefits calculators can leave some people confused and in a dire financial state, say campaigners.",
+      "content_text": "Benefits calculators can leave some people confused and in a dire financial state, say campaigners.",
+      "date_published": "2026-01-28T00:06:29.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cr57p2ve8glo#1",
+      "url": "https://www.bbc.com/news/articles/cr57p2ve8glo?at_medium=RSS&at_campaign=rss",
+      "title": "AI boom will produce victors and carnage, tech boss warns",
+      "content_html": "Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.",
+      "content_text": "Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.",
+      "date_published": "2026-01-28T00:01:19.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c74wdw5n4e5o#7",
+      "url": "https://www.bbc.com/sport/football/articles/c74wdw5n4e5o?at_medium=RSS&at_campaign=rss",
+      "title": "Two fans in hospital as Chelsea urge caution after Naples 'incident'",
+      "content_html": "Travelling Chelsea fans in Naples for Wednesday's Champions League game are told to \"exercise extreme caution\" after two supporters suffer injuries.",
+      "content_text": "Travelling Chelsea fans in Naples for Wednesday's Champions League game are told to \"exercise extreme caution\" after two supporters suffer injuries.",
+      "date_published": "2026-01-27T23:58:39.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cj3vpe8zme8o#1",
+      "url": "https://www.bbc.com/news/articles/cj3vpe8zme8o?at_medium=RSS&at_campaign=rss",
+      "title": "A string of scandals and luxury handbags: Who is South Korea's former first lady?",
+      "content_html": "The wife of disgraced former president Yoon Suk Yeol is facing court on a raft of her own charges.",
+      "content_text": "The wife of disgraced former president Yoon Suk Yeol is facing court on a raft of her own charges.",
+      "date_published": "2026-01-27T23:11:38.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cy8p2re7gj5o#0",
       "url": "https://www.bbc.com/news/articles/cy8p2re7gj5o?at_medium=RSS&at_campaign=rss",
       "title": "Prime minister flies to China for three-day visit",
       "content_html": "He is the first British prime minister to travel to Beijing since Theresa May in 2018.",
       "content_text": "He is the first British prime minister to travel to Beijing since Theresa May in 2018.",
       "date_published": "2026-01-27T22:31:51.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd7zpgn5n47o#0",
+      "url": "https://www.bbc.com/news/articles/cd7zpgn5n47o?at_medium=RSS&at_campaign=rss",
+      "title": "Vets may have to publish prices of common pet treatments",
+      "content_html": "The government sets out proposals as data finds vet prices rose at nearly twice the inflation rate.",
+      "content_text": "The government sets out proposals as data finds vet prices rose at nearly twice the inflation rate.",
+      "date_published": "2026-01-27T22:30:20.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cy8p1mn3j29o#0",
@@ -52,6 +108,14 @@
       "content_html": "The 25-year-old died on Sunday after the incident at an army training site in Northumberland.",
       "content_text": "The 25-year-old died on Sunday after the incident at an army training site in Northumberland.",
       "date_published": "2026-01-27T19:25:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c9dv3x5yep4o#3",
+      "url": "https://www.bbc.com/news/articles/c9dv3x5yep4o?at_medium=RSS&at_campaign=rss",
+      "title": "Workers Party of Britain pick by-election candidate",
+      "content_html": "Shahbaz Sarwar currently represents the party on Manchester City Council.",
+      "content_text": "Shahbaz Sarwar currently represents the party on Manchester City Council.",
+      "date_published": "2026-01-27T19:11:35.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c9dv3x5yep4o#0",
@@ -156,6 +220,14 @@
       "content_html": "The Greater Manchester seat of Gorton and Denton became vacant after Andrew Gwynne stepped down for health reasons.",
       "content_text": "The Greater Manchester seat of Gorton and Denton became vacant after Andrew Gwynne stepped down for health reasons.",
       "date_published": "2026-01-27T17:31:02.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c1dk2xp137zo#3",
+      "url": "https://www.bbc.com/news/articles/c1dk2xp137zo?at_medium=RSS&at_campaign=rss",
+      "title": "Growing number of adults avoid booze, says NHS survey",
+      "content_html": "Almost a quarter of adults in England do not drink alcohol, according to new figures from a health survey.",
+      "content_text": "Almost a quarter of adults in England do not drink alcohol, according to new figures from a health survey.",
+      "date_published": "2026-01-27T17:29:56.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c1dk2xp137zo#0",
