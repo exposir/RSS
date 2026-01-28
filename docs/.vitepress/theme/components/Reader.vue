@@ -125,6 +125,30 @@ const selectedFeed = ref('all')
 const selectedArticle = ref<Article | null>(null)
 const searchQuery = ref('')
 
+onMounted(() => {
+  // 从 URL 读取搜索参数
+  if (typeof window !== 'undefined') {
+    const urlParams = new URLSearchParams(window.location.search)
+    const query = urlParams.get('search')
+    if (query) {
+      searchQuery.value = query
+    }
+  }
+})
+
+// 同步搜索关键词到 URL
+watch(searchQuery, (newVal) => {
+  if (typeof window !== 'undefined') {
+    const url = new URL(window.location.href)
+    if (newVal) {
+      url.searchParams.set('search', newVal)
+    } else {
+      url.searchParams.delete('search')
+    }
+    window.history.replaceState({}, '', url)
+  }
+})
+
 // 监听 selectedFeed 变化，调试用
 watch(selectedFeed, (newVal, oldVal) => {
   console.log('selectedFeed changed:', { from: oldVal, to: newVal })

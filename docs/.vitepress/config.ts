@@ -14,12 +14,7 @@ export default defineConfig({
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/exposir/RSS' }
-    ],
-
-    // 开启本地搜索
-    search: {
-      provider: 'local'
-    }
+    ]
   },
 
   // 优化构建配置
