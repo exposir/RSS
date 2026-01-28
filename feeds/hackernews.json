@@ -78,6 +78,14 @@
       "date_published": "2026-01-27T13:25:53.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46779522",
+      "url": "https://emsh.cat/one-human-one-agent-one-browser/",
+      "title": "Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC",
+      "content_html": "<p>Related: <a href=\"https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/\" rel=\"nofollow\">https://simonwillison.net/2026/Jan/27/one-human-one-agent-on...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779522\">https://news.ycombinator.com/item?id=46779522</a></p>\n<p>Points: 250</p>\n<p># Comments: 116</p>",
+      "content_text": "Related: https://simonwillison.net/2026/Jan/27/one-human-one-agent-on...\n\nComments URL: https://news.ycombinator.com/item?id=46779522\nPoints: 250\n# Comments: 116",
+      "date_published": "2026-01-27T13:13:56.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46778341",
       "url": "https://tonystr.net/blog/git_immitation",
       "title": "I made my own Git",

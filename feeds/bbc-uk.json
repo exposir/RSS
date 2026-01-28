@@ -6,12 +6,60 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c4g40k40xndo#0",
+      "url": "https://www.bbc.com/news/articles/c4g40k40xndo?at_medium=RSS&at_campaign=rss",
+      "title": "Ecuador says ICE agent attempted to enter its Minneapolis consulate",
+      "content_html": "A complaint has been filed by Ecuador, whose consular staff prevented the agent from entering.",
+      "content_text": "A complaint has been filed by Ecuador, whose consular staff prevented the agent from entering.",
+      "date_published": "2026-01-28T11:43:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/rugby-union/articles/cvgpzyv5y7no#7",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cvgpzyv5y7no?at_medium=RSS&at_campaign=rss",
+      "title": "Ireland replace Aki for 'disciplinary reasons'",
+      "content_html": "Bundee Aki is not with the Ireland squad for their Six Nations camp in Portugal with the Connacht centre the subject of a misconduct complaint after his side's URC defeat by Leinster on Saturday.",
+      "content_text": "Bundee Aki is not with the Ireland squad for their Six Nations camp in Portugal with the Connacht centre the subject of a misconduct complaint after his side's URC defeat by Leinster on Saturday.",
+      "date_published": "2026-01-28T11:36:28.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cx2ywzxlxnlo#0",
+      "url": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
+      "title": "Amazon confirms 16,000 job cuts after accidental email",
+      "content_html": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error.",
+      "content_text": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error.",
+      "date_published": "2026-01-28T11:21:38.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c5y5rdl1739o#7",
+      "url": "https://www.bbc.com/sport/football/articles/c5y5rdl1739o?at_medium=RSS&at_campaign=rss",
+      "title": "West Ham sign winger Traore from Fulham",
+      "content_html": "West Ham sign winger Adama Traore from Fulham on a permanent basis for an undisclosed fee.",
+      "content_text": "West Ham sign winger Adama Traore from Fulham on a permanent basis for an undisclosed fee.",
+      "date_published": "2026-01-28T11:18:49.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cn8jjz2zp5lo#3",
+      "url": "https://www.bbc.com/news/articles/cn8jjz2zp5lo?at_medium=RSS&at_campaign=rss",
+      "title": "Mum's scabies 'nightmare' as reports of parasitic infestations rise",
+      "content_html": "Jane Grandon, who was misdiagnosed several times, said the experience had a “really bad impact” on her.",
+      "content_text": "Jane Grandon, who was misdiagnosed several times, said the experience had a “really bad impact” on her.",
+      "date_published": "2026-01-28T11:03:53.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cvg1z091melo#0",
       "url": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
       "title": "Three brothers die after falling in frozen Texas pond",
       "content_html": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
       "content_text": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
       "date_published": "2026-01-28T10:18:57.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/cx2p1172n5lo#0",
+      "url": "https://www.bbc.com/sport/tennis/articles/cx2p1172n5lo?at_medium=RSS&at_campaign=rss",
+      "title": "Are we tennis players or zoo animals? - Swiatek on cameras",
+      "content_html": "Six-time major champion Iga Swiatek says the behind-the-scenes cameras at the Australian Open are watching players \"like animals in the zoo\".",
+      "content_text": "Six-time major champion Iga Swiatek says the behind-the-scenes cameras at the Australian Open are watching players \"like animals in the zoo\".",
+      "date_published": "2026-01-28T10:01:32.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/rugby-union/articles/cp3zp0d9gevo#7",
@@ -260,6 +308,14 @@
       "content_html": "Dr Nina Higson-Sweeney, who was diagnosed with OCD when she was 10, explains when you should seek help.",
       "content_text": "Dr Nina Higson-Sweeney, who was diagnosed with OCD when she was 10, explains when you should seek help.",
       "date_published": "2026-01-28T01:18:01.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy8y2jxx9ppo#3",
+      "url": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
+      "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
+      "content_html": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
+      "content_text": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
+      "date_published": "2026-01-28T00:46:53.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cddgp9jgjz1o#0",
