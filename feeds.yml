@@ -261,3 +261,7 @@ feeds:
   - name: 新闻联播
     url: https://expo-rsshub.zeabur.app/cctv/tv/lm/xwlb
     output: feeds/xwlb.json
+
+  - name: 彭博商业周刊
+    url: https://expo-rsshub.zeabur.app/bloomberg/bbiz
+    output: feeds/bloomberg.json
