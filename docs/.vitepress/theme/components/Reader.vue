@@ -51,8 +51,9 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed } from 'vue'
+import { ref, computed, watch } from 'vue'
 import { useFeeds } from '../composables/useFeeds'
+import type { Article } from '../composables/useFeeds'
 import FeedList from './FeedList.vue'
 import ArticleList from './ArticleList.vue'
 
@@ -70,6 +71,13 @@ const {
 
 const selectedFeed = ref('all')
 
+// 监听 selectedFeed 变化，调试用
+watch(selectedFeed, (newVal, oldVal) => {
+  console.log('selectedFeed changed:', { from: oldVal, to: newVal })
+  console.log('feeds.value.has:', newVal === 'all' ? 'all' : feeds.value.has(newVal))
+  console.log('feeds.value.size:', feeds.value.size)
+})
+
 const selectedFeedName = computed(() => {
   if (selectedFeed.value === 'all') {
     return '全部文章'
@@ -79,6 +87,8 @@ const selectedFeedName = computed(() => {
 })
 
 const filteredArticles = computed(() => {
+  console.log('filteredArticles computed, selectedFeed:', selectedFeed.value)
+
   // 直接在 computed 内部实现过滤逻辑,确保响应式追踪
   const articles: Article[] = []
 
@@ -101,6 +111,8 @@ const filteredArticles = computed(() => {
     const feedInfo = feedIndex.value.find(f => f.id === selectedFeed.value)
     const feed = feeds.value.get(selectedFeed.value)
 
+    console.log('filtering for feedId:', selectedFeed.value, 'feed exists:', !!feed, 'items:', feed?.items?.length || 0)
+
     if (feed && feed.items && feedInfo) {
       feed.items.forEach(item => {
         articles.push({
@@ -111,6 +123,8 @@ const filteredArticles = computed(() => {
       })
     }
   }
+
+  console.log('filteredArticles result count:', articles.length)
 
   // 按日期倒序排列
   return articles.sort((a, b) =>
