@@ -80,6 +80,10 @@
 | WSJ市场动态        | https://exposir.github.io/RSS/feeds/wsj-markets.json         | https://feeds.a.dj.com/rss/RSSMarketsMain.xml                                 | ⏳ 待验证 |
 | WSJ科技频道        | https://exposir.github.io/RSS/feeds/wsj-tech.json            | https://feeds.a.dj.com/rss/RSSWSJD.xml                                        | ⏳ 待验证 |
 | WSJ中文            | https://exposir.github.io/RSS/feeds/wsj-chinese.json         | https://expo-rsshub.zeabur.app/wsj/zh-cn/chinese                              | ⏳ 待验证 |
+| NYT今日头条        | https://exposir.github.io/RSS/feeds/nyt-homepage.json        | https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml                     | ⏳ 待验证 |
+| NYT商业新闻        | https://exposir.github.io/RSS/feeds/nyt-business.json        | https://rss.nytimes.com/services/xml/rss/nyt/Business.xml                     | ⏳ 待验证 |
+| NYT科技频道        | https://exposir.github.io/RSS/feeds/nyt-technology.json      | https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml                   | ⏳ 待验证 |
+| NYT科学频道        | https://exposir.github.io/RSS/feeds/nyt-science.json         | https://rss.nytimes.com/services/xml/rss/nyt/Science.xml                      | ⏳ 待验证 |
 
 ## 状态说明
 

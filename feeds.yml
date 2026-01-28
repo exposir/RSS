@@ -305,3 +305,19 @@ feeds:
   - name: WSJ中文
     url: https://expo-rsshub.zeabur.app/wsj/zh-cn/chinese
     output: feeds/wsj-chinese.json
+
+  - name: NYT今日头条
+    url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+    output: feeds/nyt-homepage.json
+
+  - name: NYT商业新闻
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+    output: feeds/nyt-business.json
+
+  - name: NYT科技频道
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    output: feeds/nyt-technology.json
+
+  - name: NYT科学频道
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
+    output: feeds/nyt-science.json
