@@ -440,12 +440,24 @@ async function handleRefresh() {
   color: var(--vp-c-text-3);
   display: flex;
   align-items: center;
+  flex-wrap: wrap; /* 允许元数据换行，适配翻译后变长的情况 */
   gap: 0.5rem;
 }
 
 .article-item-source {
   color: var(--vp-c-text-2);
   font-weight: 500;
+  /* 允许来源内部换行 */
+  display: block;
+  width: 100%; /* 让来源独占一行（可选，如果不希望日期挤在旁边）或者保持 flex 行为 */
+}
+
+/* 强制来源和日期的翻译内容换行 */
+.article-item-meta :deep(font),
+.article-item-meta :deep(span[lang]) {
+  display: block;
+  margin-top: 2px;
+  width: 100%;
 }
 
 .load-more {
