@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/cricket/articles/clyep2g5dplo#7",
+      "url": "https://www.bbc.com/sport/cricket/articles/clyep2g5dplo?at_medium=RSS&at_campaign=rss",
+      "title": "Moeen lauds anti-racism steps as he joins Yorkshire",
+      "content_html": "Former England all-rounder Moeen Ali says there was \"no doubt in my mind\" about joining Yorkshire despite historical racism, as he abandons his retirement from county cricket.",
+      "content_text": "Former England all-rounder Moeen Ali says there was \"no doubt in my mind\" about joining Yorkshire despite historical racism, as he abandons his retirement from county cricket.",
+      "date_published": "2026-01-28T06:30:23.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c98prmd0jl0o#3",
+      "url": "https://www.bbc.com/news/articles/c98prmd0jl0o?at_medium=RSS&at_campaign=rss",
+      "title": "Maharashtra deputy chief minister dies in plane crash",
+      "content_html": "The plane had five people on board, and no-one is believed to have survived, India's aviation regulator says.",
+      "content_text": "The plane had five people on board, and no-one is believed to have survived, India's aviation regulator says.",
+      "date_published": "2026-01-28T05:29:19.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c98prmd0jl0o#0",
       "url": "https://www.bbc.com/news/articles/c98prmd0jl0o?at_medium=RSS&at_campaign=rss",
       "title": "Maharashtra deputy chief minister dies in plane crash",
@@ -44,6 +60,14 @@
       "content_html": "The message was apparently sent in error hours before workers were expecting thousands of job cuts to be announced.",
       "content_text": "The message was apparently sent in error hours before workers were expecting thousands of job cuts to be announced.",
       "date_published": "2026-01-28T03:19:23.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cz7y2gy4p24o#3",
+      "url": "https://www.bbc.com/news/articles/cz7y2gy4p24o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexico president asks South Korea for more BTS concerts",
+      "content_html": "About a million fans were vying for 150,000 concert tickets, which sold out in less than 40 minutes.",
+      "content_text": "About a million fans were vying for 150,000 concert tickets, which sold out in less than 40 minutes.",
+      "date_published": "2026-01-28T03:07:18.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/tennis/articles/c3ve27yq3y4o#7",

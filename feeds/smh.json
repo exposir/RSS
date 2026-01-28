@@ -6,6 +6,126 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "3903ea79-b16d-4e8f-a94e-5a618520a0ba",
+      "url": "https://www.smh.com.au/politics/federal/littleproud-wanted-to-end-ley-s-leadership-but-he-has-jeopardised-his-own-20260128-p5nxpx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Littleproud wanted to end Ley’s leadership. But he has jeopardised his own",
+      "content_html": "Since becoming Nationals leader, Littleproud has lost three MPs from his party room. Even if he survives next week’s challenge, he might lose another. His leadership is looking terminal.",
+      "content_text": "Since becoming Nationals leader, Littleproud has lost three MPs from his party room. Even if he survives next week’s challenge, he might lose another. His leadership is looking terminal.",
+      "date_published": "2026-01-28T06:45:00.000Z"
+    },
+    {
+      "id": "25bf52a3-b6e1-42fc-86f6-7ab505c4c05d",
+      "url": "https://www.smh.com.au/sport/tennis/musetti-calls-for-medical-timeout-20260128-p5nxs8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Musetti calls for medical timeout",
+      "content_html": "Lorenzo Musetti undergoes treatment for a leg issue during his clash against Novak Djokovic.",
+      "content_text": "Lorenzo Musetti undergoes treatment for a leg issue during his clash against Novak Djokovic.",
+      "date_published": "2026-01-28T06:41:58.000Z"
+    },
+    {
+      "id": "c95b1ede-b62a-4e1d-a1cc-07c89b65cb5b",
+      "url": "https://www.smh.com.au/sport/tennis/world-no-2-calls-for-more-privacy-20260128-p5nxs5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "World No.2 calls for more privacy",
+      "content_html": "Iga Swiatek joins calls for players to receive more privacy when floating around behind the scenes in the grand slam arena.",
+      "content_text": "Iga Swiatek joins calls for players to receive more privacy when floating around behind the scenes in the grand slam arena.",
+      "date_published": "2026-01-28T06:36:44.000Z"
+    },
+    {
+      "id": "127d088b-ca59-4b6e-9dc7-37de72a17e87",
+      "url": "https://www.smh.com.au/national/victoria/bushfires-could-run-again-as-locals-told-to-stay-vigilant-20260128-p5nxl4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Bushfires could ‘run again’, as locals told to stay vigilant",
+      "content_html": "As crews try to contain blazes in the Otways, Victoria’s fire chief has warned over the tinder-dry conditions.",
+      "content_text": "As crews try to contain blazes in the Otways, Victoria’s fire chief has warned over the tinder-dry conditions.",
+      "date_published": "2026-01-28T06:35:21.000Z"
+    },
+    {
+      "id": "46113671-8ecb-458a-b8e5-3109c9b378d9",
+      "url": "https://www.smh.com.au/sport/tennis/djokovic-gets-patched-up-20260128-p5nxs3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic gets patched up",
+      "content_html": "Novak Djokovic receives medical treatment for a blister during his Australian Open quarter final.",
+      "content_text": "Novak Djokovic receives medical treatment for a blister during his Australian Open quarter final.",
+      "date_published": "2026-01-28T06:31:42.000Z"
+    },
+    {
+      "id": "b853a77e-10fd-4ab6-872e-11f098dee0ae",
+      "url": "https://www.smh.com.au/national/queensland/crisafulli-issues-health-funding-ultimatum-ahead-of-national-cabinet-talks-20260128-p5nxoz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Crisafulli issues health funding ultimatum ahead of national cabinet talks",
+      "content_html": "The premier warns he will not sign a hospital deal unless the Commonwealth significantly boosts its offer and fixes the aged care crisis.",
+      "content_text": "The premier warns he will not sign a hospital deal unless the Commonwealth significantly boosts its offer and fixes the aged care crisis.",
+      "date_published": "2026-01-28T06:28:40.000Z"
+    },
+    {
+      "id": "f36a4c63-9860-49df-bed4-8cfb7903d4dd",
+      "url": "https://www.smh.com.au/sport/tennis/novaks-show-of-true-sportsmanship-20260128-p5nxs0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Novak's show of true sportsmanship",
+      "content_html": "Novak Djokovic alerts the umpire to say he touched the ball against Lorenzo Musetti before it went out.",
+      "content_text": "Novak Djokovic alerts the umpire to say he touched the ball against Lorenzo Musetti before it went out.",
+      "date_published": "2026-01-28T06:21:32.000Z"
+    },
+    {
+      "id": "854d6a8a-a54e-4a89-9332-951309a7d41c",
+      "url": "https://www.smh.com.au/goodfood/recipes/15-refreshing-freezer-desserts-for-when-it-s-too-hot-to-cook-20260126-p5nx17.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "15 refreshing freezer desserts for when it’s too hot to cook",
+      "content_html": "Elevate summer entertaining with these shimmering granita recipes. Icy, elegant, and effortlessly refined, these no-churn desserts are pure class.",
+      "content_text": "Elevate summer entertaining with these shimmering granita recipes. Icy, elegant, and effortlessly refined, these no-churn desserts are pure class.",
+      "date_published": "2026-01-28T06:18:17.000Z"
+    },
+    {
+      "id": "2899d7c7-99f9-46b4-b55c-f2aaef32f967",
+      "url": "https://www.smh.com.au/national/nsw/watchdog-confirms-senior-police-under-investigation-in-brothel-probe-20260128-p5nxr9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Watchdog confirms senior police under investigation in brothel probe",
+      "content_html": "The Herald has reported the officers are under scrutiny over allegations they accepted services from Sydney brothel owner Eddie Hayson.",
+      "content_text": "The Herald has reported the officers are under scrutiny over allegations they accepted services from Sydney brothel owner Eddie Hayson.",
+      "date_published": "2026-01-28T06:07:40.000Z"
+    },
+    {
+      "id": "dd92bcf0-0518-41fe-a000-c51fb2a20568",
+      "url": "https://www.smh.com.au/goodfood/brisbane-eating-out/classic-brisbane-vegetarian-restaurant-returns-for-one-night-only-20260128-p5nxre.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Classic Brisbane vegetarian restaurant returns, for one night only",
+      "content_html": "It’s moving back into its beautiful Luchetti Krelle-designed digs for a good time, not a long time, serving Middle Eastern-inspired favourites.",
+      "content_text": "It’s moving back into its beautiful Luchetti Krelle-designed digs for a good time, not a long time, serving Middle Eastern-inspired favourites.",
+      "date_published": "2026-01-28T06:07:04.000Z"
+    },
+    {
+      "id": "fe3d9144-935d-46f5-a097-2b7a9b1f622d",
+      "url": "https://www.smh.com.au/sport/tennis/body-is-giving-out-concern-for-djokovic-20260128-p5nxrs.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "'Body is giving out': Concern for Djokovic",
+      "content_html": "John McEnroe questions whether Novak Djokovic's body is holding up in his quarter final against Lorenzo Musetti.",
+      "content_text": "John McEnroe questions whether Novak Djokovic's body is holding up in his quarter final against Lorenzo Musetti.",
+      "date_published": "2026-01-28T06:06:12.000Z"
+    },
+    {
+      "id": "a595f042-1b1c-43cc-a00e-a85c1c60388a",
+      "url": "https://www.smh.com.au/culture/movies/movies-to-watch-this-week-castaway-hell-paris-hilton-doco-iranian-thriller-and-a-tribute-to-a-composer-20260128-p5nxn5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Movies to watch this week: Castaway hell, Paris Hilton doco, Iranian thriller and a tribute to a composer",
+      "content_html": "Welcome to our weekly wrap of what’s new in cinemas.",
+      "content_text": "Welcome to our weekly wrap of what’s new in cinemas.",
+      "date_published": "2026-01-28T06:05:34.000Z"
+    },
+    {
+      "id": "f64200d0-f8f9-4a4f-a13a-74724310d405",
+      "url": "https://www.smh.com.au/sport/racing/daughter-of-lonhro-out-to-make-perfect-start-to-race-career-20260128-p5nxob.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Daughter of Lonhro out to make Perfect start to race career",
+      "content_html": "The latest three-year-old excitement machine facing the starter for the first time is set to steal the show at Thursday’s Scone meeting.",
+      "content_text": "The latest three-year-old excitement machine facing the starter for the first time is set to steal the show at Thursday’s Scone meeting.",
+      "date_published": "2026-01-28T06:00:00.000Z"
+    },
+    {
+      "id": "e73ab997-a515-4335-b190-96f213e2f08d",
+      "url": "https://www.smh.com.au/sport/racing/race-by-race-preview-and-tips-for-scone-on-thursday-20260128-p5nxn8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Race-by-race preview and tips for Scone on Thursday",
+      "content_html": "All the information you need for Thursday’s NSW country meeting.",
+      "content_text": "All the information you need for Thursday’s NSW country meeting.",
+      "date_published": "2026-01-28T06:00:00.000Z"
+    },
+    {
+      "id": "f7966320-4df3-48f5-9cca-6feeabb81079",
+      "url": "https://www.smh.com.au/national/western-australia/mafs-star-flies-west-for-season-launch-in-perth-20260128-p5nxr4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "MAFS star flies west for season launch in Perth",
+      "content_html": "Nine Perth celebrated the return of Married At First Sight on Tuesday night, giving media and influencers an intimate screening of the season 13 premiere, as well as a Q&A with expert John Aiken.",
+      "content_text": "Nine Perth celebrated the return of Married At First Sight on Tuesday night, giving media and influencers an intimate screening of the season 13 premiere, as well as a Q&A with expert John Aiken.",
+      "date_published": "2026-01-28T05:52:28.000Z"
+    },
+    {
       "id": "39800282-40b1-40a0-9181-a5f8b5443e8b",
       "url": "https://www.smh.com.au/sport/tennis/djokovic-complains-after-time-violation-20260128-p5nxrj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Djokovic complains after time violation",
