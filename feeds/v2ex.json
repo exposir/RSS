@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188984",
+      "url": "https://www.v2ex.com/t/1188984#reply0",
+      "title": "[问与答] 有没有这种基于 Cli 的 Agent 管理工具",
+      "content_html": "<p>基于 tmux / tui 的，比如我同时用 codex 、gemini 、cc ，我可以三个 agent 来回切，每个 agent 支持绑定多个 api key （比如，不同目录下，单独配置 ANTHROPIC_KEY 和 ANTHROPIC_BASE_URL ）</p>",
+      "content_text": "基于 tmux / tui 的，比如我同时用 codex 、gemini 、cc ，我可以三个 agent 来回切，每个 agent 支持绑定多个 api key （比如，不同目录下，单独配置 ANTHROPIC_KEY 和 ANTHROPIC_BASE_URL ）",
+      "date_published": "2026-01-28T04:26:42.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188983",
+      "url": "https://www.v2ex.com/t/1188983#reply0",
+      "title": "[汽车] 比亚迪秦 plus dmi 怎么买最实惠",
+      "content_html": "<p>书接 <a href=\"https://www.v2ex.com/t/1187840\" rel=\"nofollow\">求懂车的兄弟姐妹帮忙支招：可以买二手车吗，怎么买合适</a></p>\n<p>感觉在新车里，上面帖子推荐的起亚奕跑，秦 plus dmi 都是不错的选择，但是找当地经销商询价，后者(128km 版)在没有旧车可置换的情况下落地要 9w 元，前者只要 6.5-7w</p>\n<p>想知道这个时点购车，在手里没有旧车的前提下，有什么比较划算的方式吗（坐标浙江）</p>\n<p>补充故事：\n我妈本来有个 7000 块收的二手车，开了一年，被她朋友半忽悠着 3000 块收走了，现在想来如果拿来置换补贴就好了😢</p>",
+      "content_text": "书接 求懂车的兄弟姐妹帮忙支招：可以买二手车吗，怎么买合适\n感觉在新车里，上面帖子推荐的起亚奕跑，秦 plus dmi 都是不错的选择，但是找当地经销商询价，后者(128km 版)在没有旧车可置换的情况下落地要 9w 元，前者只要 6.5-7w\n想知道这个时点购车，在手里没有旧车的前提下，有什么比较划算的方式吗（坐标浙江）\n补充故事：\n我妈本来有个 7000 块收的二手车，开了一年，被她朋友半忽悠着 3000 块收走了，现在想来如果拿来置换补贴就好了😢",
+      "date_published": "2026-01-28T04:25:57.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1188982",
       "url": "https://www.v2ex.com/t/1188982#reply0",
       "title": "[Solana] 求教, 手上有一点 eth, 想换一些到 sol, 改怎么操作损失最小",
