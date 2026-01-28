@@ -71,6 +71,10 @@
 | 新闻联播           | https://exposir.github.io/RSS/feeds/xwlb.json                | https://expo-rsshub.zeabur.app/cctv/tv/lm/xwlb                                | ⏳ 待验证 |
 | 彭博商业周刊       | https://exposir.github.io/RSS/feeds/bloomberg.json           | https://expo-rsshub.zeabur.app/bloomberg/bbiz                                 | ⏳ 待验证 |
 | 财联社深度         | https://exposir.github.io/RSS/feeds/cls-depth.json           | https://expo-rsshub.zeabur.app/cls/depth/1000                                 | ⏳ 待验证 |
+| 财联社电报         | https://exposir.github.io/RSS/feeds/cls-telegraph.json       | https://expo-rsshub.zeabur.app/cls/telegraph                                  | ⏳ 待验证 |
+| 财联社电报红       | https://exposir.github.io/RSS/feeds/cls-telegraph-red.json   | https://expo-rsshub.zeabur.app/cls/telegraph/red                              | ⏳ 待验证 |
+| 财联社电报看       | https://exposir.github.io/RSS/feeds/cls-telegraph-watch.json | https://expo-rsshub.zeabur.app/cls/telegraph/watch                            | ⏳ 待验证 |
+| 财联社热门         | https://exposir.github.io/RSS/feeds/cls-hot.json             | https://expo-rsshub.zeabur.app/cls/hot                                        | ⏳ 待验证 |
 
 ## 状态说明
 

@@ -269,3 +269,19 @@ feeds:
   - name: 财联社深度
     url: https://expo-rsshub.zeabur.app/cls/depth/1000
     output: feeds/cls-depth.json
+
+  - name: 财联社电报
+    url: https://expo-rsshub.zeabur.app/cls/telegraph
+    output: feeds/cls-telegraph.json
+
+  - name: 财联社电报红
+    url: https://expo-rsshub.zeabur.app/cls/telegraph/red
+    output: feeds/cls-telegraph-red.json
+
+  - name: 财联社电报看
+    url: https://expo-rsshub.zeabur.app/cls/telegraph/watch
+    output: feeds/cls-telegraph-watch.json
+
+  - name: 财联社热门
+    url: https://expo-rsshub.zeabur.app/cls/hot
+    output: feeds/cls-hot.json
