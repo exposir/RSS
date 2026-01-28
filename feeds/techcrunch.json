@@ -6,6 +6,46 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3086608",
+      "url": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+      "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta&#8217;s Llama",
+      "content_html": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a US company.",
+      "content_text": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a US company.",
+      "date_published": "2026-01-28T17:30:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087205",
+      "url": "https://techcrunch.com/2026/01/28/elon-musk-reportedly-wants-a-june-spacex-ipo-to-align-with-his-birthday-the-planets/",
+      "title": "Elon Musk reportedly wants a June SpaceX IPO to align with his birthday, the planets",
+      "content_html": "SpaceX eyes June for IPO to align with Musk's birthday and the planets.",
+      "content_text": "SpaceX eyes June for IPO to align with Musk's birthday and the planets.",
+      "date_published": "2026-01-28T17:12:38.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087197",
+      "url": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
+      "title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
+      "content_html": "Apple’s Creator Studio Pro leverages AI to help creators with tedious tasks—like finding clips or building slides—without trying to do the work for them",
+      "content_text": "Apple’s Creator Studio Pro leverages AI to help creators with tedious tasks—like finding clips or building slides—without trying to do the work for them",
+      "date_published": "2026-01-28T17:04:50.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086198",
+      "url": "https://techcrunch.com/2026/01/28/san-francisco-police-department-investigating-zoox-collision-with-a-parked-car/",
+      "title": "San Francisco Police Department investigating Zoox collision with a parked car",
+      "content_html": "The investigation is looking into a January 17 crash where a Zoox robotaxi hit the driver's side door of a parked car, which Zoox said was \"suddenly opened.\"",
+      "content_text": "The investigation is looking into a January 17 crash where a Zoox robotaxi hit the driver's side door of a parked car, which Zoox said was \"suddenly opened.\"",
+      "date_published": "2026-01-28T17:04:12.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087226",
+      "url": "https://techcrunch.com/2026/01/28/modelence-raises-13-million-to-smooth-out-the-vibe-coding-stack/",
+      "title": "Modelence raises $13 million to smooth out the vibe-coding stack",
+      "content_html": "How do you build tooling for the AI software stack? A company called Modelence has an interesting answer.",
+      "content_text": "How do you build tooling for the AI software stack? A company called Modelence has an interesting answer.",
+      "date_published": "2026-01-28T17:00:00.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087194",
       "url": "https://techcrunch.com/2026/01/28/allbirds-closing-last-store-san-francisco/",
       "title": "Allbirds is closing its last brick-and-mortar store in San Francisco",

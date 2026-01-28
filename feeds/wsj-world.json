@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003289937",
+      "url": "https://www.wsj.com/world/middle-east/talking-or-fighting-all-of-irans-options-are-bad-c3527c0a",
+      "title": "Talking or Fighting, All of Iran&#x2019;s Options Are Bad",
+      "content_html": "Trump&#x2019;s new threats highlight how the regime is in its most dire position in decades.",
+      "content_text": "Trump&#x2019;s new threats highlight how the regime is in its most dire position in decades.",
+      "date_published": "2026-01-28T17:42:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003289978",
       "url": "https://www.wsj.com/world/europe/spain-moves-to-legalize-migrants-defying-europes-anti-immigration-trend-3781a49f",
       "title": "Spain Moves to Legalize Migrants, Defying Europe&#x2019;s Anti-Immigration Trend",

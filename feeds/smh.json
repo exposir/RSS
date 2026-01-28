@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "b9138b13-f910-440e-a871-07fd82e9e28e",
+      "url": "https://www.smh.com.au/politics/federal/deeply-damaging-aly-says-morrison-s-islam-speech-risks-inflaming-tensions-20260128-p5nxrx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Deeply damaging’: Aly says Morrison’s Islam speech risks inflaming tensions",
+      "content_html": "The comments follow a fresh rift that former PM Scott Morrison opened with Australian Muslims when he gave a speech in Israel on Tuesday night.",
+      "content_text": "The comments follow a fresh rift that former PM Scott Morrison opened with Australian Muslims when he gave a speech in Israel on Tuesday night.",
+      "date_published": "2026-01-28T17:28:00.000Z"
+    },
+    {
       "id": "e45d4c43-91a3-4edc-9ae9-6f3d1c4f6fe6",
       "url": "https://www.smh.com.au/sport/tennis/epic-late-night-quarter-final-ends-badly-for-aussies-20260129-p5nxu1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Epic late-night quarter-final ends badly for Aussies",

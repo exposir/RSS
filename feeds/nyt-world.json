@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
+      "url": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
+      "title": "Camping on Thwaites Glacier",
+      "content_html": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them.",
+      "content_text": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them.",
+      "date_published": "2026-01-28T17:03:50.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",
       "url": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",
       "title": "Iraq’s Nominee for Prime Minister Rejects Trump Threats",

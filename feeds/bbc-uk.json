@@ -6,6 +6,38 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c62wepw43k3o#0",
+      "url": "https://www.bbc.com/news/articles/c62wepw43k3o?at_medium=RSS&at_campaign=rss",
+      "title": "King's film reveals his personal philosophy",
+      "content_html": "King Charles explains his philosophy of harmony in a film for Amazon Prime Video.",
+      "content_text": "King Charles explains his philosophy of harmony in a film for Amazon Prime Video.",
+      "date_published": "2026-01-28T17:30:28.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c5yx015nkplo#0",
+      "url": "https://www.bbc.com/news/articles/c5yx015nkplo?at_medium=RSS&at_campaign=rss",
+      "title": "'Don't take us to a hospital': Iran protesters treated in secret to avoid arrest",
+      "content_html": "Wounded demonstrators tell the BBC they are relying on medics willing to risk their own safety by treating them at their homes.",
+      "content_text": "Wounded demonstrators tell the BBC they are relying on medics willing to risk their own safety by treating them at their homes.",
+      "date_published": "2026-01-28T17:28:08.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cp80p875pdko#3",
+      "url": "https://www.bbc.com/news/articles/cp80p875pdko?at_medium=RSS&at_campaign=rss",
+      "title": "Chagos discussions with US continue, says Starmer",
+      "content_html": "The prime minister says he has discussed the deal with Donald Trump, but there are concerns in Whitehall the US could withdraw support for the agreement.",
+      "content_text": "The prime minister says he has discussed the deal with Donald Trump, but there are concerns in Whitehall the US could withdraw support for the agreement.",
+      "date_published": "2026-01-28T17:00:10.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cgjwpq4pggjo#0",
+      "url": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
+      "title": "Passenger tells BBC of moment of Russian drone strike on crowded train",
+      "content_html": "Five people died in the attack in northeastern Ukraine when three drones targeted the train.",
+      "content_text": "Five people died in the attack in northeastern Ukraine when three drones targeted the train.",
+      "date_published": "2026-01-28T16:59:02.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/czx32xkd7d7o#3",
       "url": "https://www.bbc.com/news/articles/czx32xkd7d7o?at_medium=RSS&at_campaign=rss",
       "title": "Kaba family 'devastated' as misconduct case paused",
@@ -54,6 +86,14 @@
       "date_published": "2026-01-28T15:36:11.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c4gw47prew7o#3",
+      "url": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss",
+      "title": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
+      "content_html": "The prime minister seeks to strengthen ties with China but faces fierce criticism from opponents at home.",
+      "content_text": "The prime minister seeks to strengthen ties with China but faces fierce criticism from opponents at home.",
+      "date_published": "2026-01-28T15:27:40.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/ceqzp4zjwpdo#7",
       "url": "https://www.bbc.com/sport/football/articles/ceqzp4zjwpdo?at_medium=RSS&at_campaign=rss",
       "title": "West Ham agree £35.5m sale of Paqueta to Flamengo",
@@ -78,6 +118,14 @@
       "date_published": "2026-01-28T14:58:04.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cd6wpdpylj1o#3",
+      "url": "https://www.bbc.com/news/articles/cd6wpdpylj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Man guilty of assault after Barron Trump reported attack to UK police",
+      "content_html": "Donald Trump's son told officers he had seen the victim being beaten up during a video call in January 2025.",
+      "content_text": "Donald Trump's son told officers he had seen the victim being beaten up during a video call in January 2025.",
+      "date_published": "2026-01-28T14:54:59.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cd6wpdpylj1o#0",
       "url": "https://www.bbc.com/news/articles/cd6wpdpylj1o?at_medium=RSS&at_campaign=rss",
       "title": "Man guilty of assault after Barron Trump reported attack to UK police",
@@ -100,6 +148,14 @@
       "content_html": "Aston Villa midfielder Youri Tielemans is been ruled out for up to 10 weeks, Unai Emery has confirmed.",
       "content_text": "Aston Villa midfielder Youri Tielemans is been ruled out for up to 10 weeks, Unai Emery has confirmed.",
       "date_published": "2026-01-28T14:39:59.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/videos/czx329dzn26o#1",
+      "url": "https://www.bbc.com/news/videos/czx329dzn26o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Giant pandas play in Washington DC snowstorm",
+      "content_html": "The video shows Bao Li and Qing Bao tumbling, climbing trees and running through the snow that fell across wide swaths of the US.",
+      "content_text": "The video shows Bao Li and Qing Bao tumbling, climbing trees and running through the snow that fell across wide swaths of the US.",
+      "date_published": "2026-01-28T14:10:32.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/rugby-union/articles/cdexp8pdnxlo#7",
@@ -180,6 +236,14 @@
       "content_html": "Ghana's foreign minister says the influencer is a \"worthy ambassador\", but some Ghanaians criticised the move.",
       "content_text": "Ghana's foreign minister says the influencer is a \"worthy ambassador\", but some Ghanaians criticised the move.",
       "date_published": "2026-01-28T13:25:56.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/ckgjp51ej01o#3",
+      "url": "https://www.bbc.com/news/articles/ckgjp51ej01o?at_medium=RSS&at_campaign=rss",
+      "title": "Harry Styles to break Wembley Stadium record with 12 shows",
+      "content_html": "The star will break records set by Coldplay and Taylor Swift by staging a 12-night residency.",
+      "content_text": "The star will break records set by Coldplay and Taylor Swift by staging a 12-night residency.",
+      "date_published": "2026-01-28T13:18:53.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/ckgjp51ej01o#0",

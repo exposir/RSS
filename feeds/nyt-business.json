@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/business/economy/economy-hiring-inflation-federal-reserve.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/economy/economy-hiring-inflation-federal-reserve.html",
+      "title": "The Fed Is Waiting and Watching an Uncertain Economy",
+      "content_html": "Inflation is elevated but steady and the job market is holding up, leading economists to predict that the Federal Reserve will keep interest rates at current levels.",
+      "content_text": "Inflation is elevated but steady and the job market is holding up, leading economists to predict that the Federal Reserve will keep interest rates at current levels.",
+      "date_published": "2026-01-28T17:07:42.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/business/silver-gold-prices.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/silver-gold-prices.html",
+      "title": "Silver Prices Are Surging Even Faster Than Gold",
+      "content_html": "Silver has risen roughly 60 percent this month alone. What is going on?",
+      "content_text": "Silver has risen roughly 60 percent this month alone. What is going on?",
+      "date_published": "2026-01-28T16:58:15.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/travel/5-stylish-hotels-for-city-lovers.html",
       "url": "https://www.nytimes.com/2026/01/28/travel/5-stylish-hotels-for-city-lovers.html",
       "title": "5 New Stylish Hotels for City Lovers",
