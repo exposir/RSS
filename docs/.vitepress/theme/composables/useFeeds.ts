@@ -111,14 +111,15 @@ export function useFeeds() {
   function getAllArticles(): Article[] {
     const articles: Article[] = []
 
-    feedIndex.value.forEach((feedInfo) => {
-      const feed = feeds.value.get(feedInfo.id)
-      if (feed && feed.items) {
+    // 遍历 Map 以确保响应式追踪
+    Array.from(feeds.value.entries()).forEach(([feedId, feed]) => {
+      const feedInfo = feedIndex.value.find(f => f.id === feedId)
+      if (feed && feed.items && feedInfo) {
         feed.items.forEach((item) => {
           articles.push({
             ...item,
             source: feed.title || feedInfo.name,
-            feedId: feedInfo.id
+            feedId: feedId
           })
         })
       }
@@ -134,6 +135,7 @@ export function useFeeds() {
     const feedInfo = feedIndex.value.find(f => f.id === feedId)
     if (!feedInfo) return []
 
+    // 直接访问 Map 以确保响应式追踪
     const feed = feeds.value.get(feedId)
     if (!feed || !feed.items) return []
 
