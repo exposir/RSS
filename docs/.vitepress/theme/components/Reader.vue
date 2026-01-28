@@ -58,10 +58,6 @@
             </div>
           </li>
         </ul>
-
-        <div v-if="hasMore" class="load-more">
-          <button @click="loadMore" class="load-more-btn">加载更多</button>
-        </div>
       </div>
 
       <!-- 右侧：文章详情 -->
@@ -112,8 +108,6 @@ const {
 
 const selectedFeed = ref('all')
 const selectedArticle = ref<Article | null>(null)
-const displayCount = ref(50)
-const LOAD_MORE_COUNT = 30
 
 // 监听 selectedFeed 变化，调试用
 watch(selectedFeed, (newVal, oldVal) => {
@@ -121,9 +115,8 @@ watch(selectedFeed, (newVal, oldVal) => {
   console.log('feeds.value.has:', newVal === 'all' ? 'all' : feeds.value.has(newVal))
   console.log('feeds.value.size:', feeds.value.size)
 
-  // 切换订阅源时重置选中文章和显示数量
+  // 切换订阅源时重置选中文章
   selectedArticle.value = null
-  displayCount.value = 50
 })
 
 const selectedFeedName = computed(() => {
@@ -219,20 +212,12 @@ const filteredArticles = computed(() => {
 })
 
 const displayedArticles = computed(() => {
-  return filteredArticles.value.slice(0, displayCount.value)
-})
-
-const hasMore = computed(() => {
-  return filteredArticles.value.length > displayCount.value
+  return filteredArticles.value
 })
 
 const isLoading = computed(() => {
   return loadedCount.value < feedIndex.value.length
 })
-
-function loadMore() {
-  displayCount.value += LOAD_MORE_COUNT
-}
 
 function formatDate(dateStr: string) {
   const date = new Date(dateStr)
@@ -271,7 +256,6 @@ async function handleRefresh() {
 
   // 重置状态
   selectedArticle.value = null
-  displayCount.value = 50
 
   // 重新加载所有数据
   await loadAllFeeds()
