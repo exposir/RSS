@@ -417,13 +417,9 @@ async function handleRefresh() {
   font-size: 0.95rem;
   font-weight: 500;
   line-height: 1.4;
-  margin: 0 0 0.4rem 0;
+  margin: 0 0 0.2rem 0; /* 减小标题下边距 */
   color: var(--vp-c-text-1);
   /* 移除行数限制以适配沉浸式翻译 */
-  /* display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden; */
   display: block;
   word-wrap: break-word;
 }
@@ -432,16 +428,24 @@ async function handleRefresh() {
 .article-item-title :deep(font),
 .article-item-title :deep(span[lang]) {
   display: block;
-  margin-top: 2px;
+  margin-top: 0; /* 移除额外的顶部间距 */
+  font-size: 0.9em; /* 稍微调小翻译字体 */
+  opacity: 0.9;
+  line-height: 1.3;
+}
+
+/* 隐藏翻译插件可能注入的 br 标签，防止产生过大间距 */
+.article-item-title :deep(br) {
+  display: none;
 }
 
 .article-item-meta {
   font-size: 0.8rem;
   color: var(--vp-c-text-3);
   display: flex;
-  align-items: center;
-  flex-wrap: wrap; /* 允许元数据换行，适配翻译后变长的情况 */
-  gap: 0.5rem;
+  align-items: flex-start; /* 顶对齐，避免高度差异导致对齐问题 */
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem; /* 减小间距 */
 }
 
 .article-item-source {
@@ -449,15 +453,21 @@ async function handleRefresh() {
   font-weight: 500;
   /* 允许来源内部换行 */
   display: block;
-  width: 100%; /* 让来源独占一行（可选，如果不希望日期挤在旁边）或者保持 flex 行为 */
+  /* width: 100%; 移除独占一行，让布局更紧凑 */
 }
 
 /* 强制来源和日期的翻译内容换行 */
 .article-item-meta :deep(font),
 .article-item-meta :deep(span[lang]) {
   display: block;
-  margin-top: 2px;
+  margin-top: 0;
   width: 100%;
+  line-height: 1.2;
+}
+
+/* 隐藏元数据里的 br */
+.article-item-meta :deep(br) {
+  display: none;
 }
 
 .load-more {
