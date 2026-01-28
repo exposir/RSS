@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "bca27397-076e-4542-af9b-7ac31788e76f",
+      "url": "https://www.smh.com.au/world/north-america/democrat-congresswoman-targeted-by-trump-sprayed-with-mystery-substance-20260128-p5nxoy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Democrat congresswoman targeted by Trump sprayed with mystery substance",
+      "content_html": "The incident came as Donald Trump’s hardline homeland security adviser Stephen Miller conceded Border Patrol agents may have broken protocol during the operation in which Alex Pretti was shot and killed.",
+      "content_text": "The incident came as Donald Trump’s hardline homeland security adviser Stephen Miller conceded Border Patrol agents may have broken protocol during the operation in which Alex Pretti was shot and killed.",
+      "date_published": "2026-01-28T04:40:47.000Z"
+    },
+    {
       "id": "81440064-11aa-4424-9d79-9ea78050f7f3",
       "url": "https://www.smh.com.au/business/companies/true-north-beefs-up-queensland-copper-gold-stash-20260128-p5nxqi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "True North beefs up Queensland copper-gold stash",
