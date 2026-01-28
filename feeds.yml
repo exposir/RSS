@@ -241,3 +241,11 @@ feeds:
   - name: Readhub
     url: https://rsshub.app/readhub
     output: feeds/readhub.json
+
+  - name: 雪球用户8790885129
+    url: https://expo-rsshub.zeabur.app/xueqiu/user/8790885129
+    output: feeds/xueqiu-8790885129.json
+
+  - name: 雪球用户1247347556
+    url: https://expo-rsshub.zeabur.app/xueqiu/user/1247347556
+    output: feeds/xueqiu-1247347556.json

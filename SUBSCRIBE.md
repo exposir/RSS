@@ -64,6 +64,8 @@
 | GitHub Trending JS | https://exposir.github.io/RSS/feeds/github-trending-js.json  | https://rsshub.app/github/trending/daily/javascript/en                        | ⏳ 待验证 |
 | Readhub每日早报    | https://exposir.github.io/RSS/feeds/readhub-daily.json       | https://rsshub.app/readhub/daily                                              | ⏳ 待验证 |
 | Readhub            | https://exposir.github.io/RSS/feeds/readhub.json             | https://rsshub.app/readhub                                                    | ⏳ 待验证 |
+| 雪球8790885129     | https://exposir.github.io/RSS/feeds/xueqiu-8790885129.json   | https://expo-rsshub.zeabur.app/xueqiu/user/8790885129                         | ⏳ 待验证 |
+| 雪球1247347556     | https://exposir.github.io/RSS/feeds/xueqiu-1247347556.json   | https://expo-rsshub.zeabur.app/xueqiu/user/1247347556                         | ⏳ 待验证 |
 
 ## 状态说明
 
