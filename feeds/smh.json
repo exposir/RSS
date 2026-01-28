@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "9dfb73d4-ec18-49ec-9c59-1d82e62f3f6a",
+      "url": "https://www.smh.com.au/national/e-bikes-wreak-havoc-on-sydney-golf-course-20260128-p5nxsp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "E-bikes wreak havoc on Sydney golf course",
+      "content_html": "A Cronulla golf club has become the latest victim of e-bike hoons, with several holes defaced and tens of thousands of dollars in damage caused.",
+      "content_text": "A Cronulla golf club has become the latest victim of e-bike hoons, with several holes defaced and tens of thousands of dollars in damage caused.",
+      "date_published": "2026-01-28T07:52:46.000Z"
+    },
+    {
+      "id": "9efe5e69-64e3-477a-ac25-4b0a9923d6bc",
+      "url": "https://www.smh.com.au/national/man-charged-for-antisemitic-attack-claims-he-is-a-changed-man-20260128-p5nxso.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man charged for antisemitic attack claims he is a changed man",
+      "content_html": "The man behind an antisemitic attack at Woollahra lans to appeal his sentence, claiming he's a changed man.",
+      "content_text": "The man behind an antisemitic attack at Woollahra lans to appeal his sentence, claiming he's a changed man.",
+      "date_published": "2026-01-28T07:52:32.000Z"
+    },
+    {
+      "id": "7de31a69-cdd4-45d4-a889-0bf3678511ab",
+      "url": "https://www.smh.com.au/national/search-for-alleged-triple-killer-in-nsw-continues-20260128-p5nxsn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Search for alleged triple-killer in NSW continues",
+      "content_html": "The search for an alleged triple-killer in the NSW central west has moved more than 100 kilometres in the opposite direction from a possible sighting of Julian Ingram.",
+      "content_text": "The search for an alleged triple-killer in the NSW central west has moved more than 100 kilometres in the opposite direction from a possible sighting of Julian Ingram.",
+      "date_published": "2026-01-28T07:47:47.000Z"
+    },
+    {
+      "id": "817e5138-867f-4bbb-ae16-180b57f52842",
+      "url": "https://www.smh.com.au/national/shock-inflation-numbers-set-households-up-for-pricey-year-20260128-p5nxsm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Shock inflation numbers set households up for pricey year",
+      "content_html": "Shock inflation numbers have set Australian households up for a more painful 2026 than anticipated.",
+      "content_text": "Shock inflation numbers have set Australian households up for a more painful 2026 than anticipated.",
+      "date_published": "2026-01-28T07:47:25.000Z"
+    },
+    {
+      "id": "35fdd9bd-44db-4b45-9192-4b949809131c",
+      "url": "https://www.smh.com.au/sport/tennis/aussies-reach-back-to-back-finals-20260128-p5nxsl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Aussies reach back-to-back finals",
+      "content_html": "Olivia Gadecki and John Peers give themselves the chance to go back-to-back in the mixed doubles.",
+      "content_text": "Olivia Gadecki and John Peers give themselves the chance to go back-to-back in the mixed doubles.",
+      "date_published": "2026-01-28T07:43:30.000Z"
+    },
+    {
       "id": "60120644-7c91-4ab2-abdd-bc41a2cfa5b9",
       "url": "https://www.smh.com.au/culture/comedy/are-podcasts-the-new-men-s-therapy-welcome-to-the-modern-manosphere-20260122-p5nw4w.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Are podcasts the new men’s therapy? Welcome to the modern manosphere",

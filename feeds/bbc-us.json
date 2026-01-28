@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/articles/c4g06vj2zg1o#7",
+      "url": "https://www.bbc.com/sport/football/articles/c4g06vj2zg1o?at_medium=RSS&at_campaign=rss",
+      "title": "'We don't want to be that team' - how can Newcastle cure travel sickness?",
+      "content_html": "Newcastle United have only won three away games in all competitions this season and head coach Eddie Howe wants his side to rise to the challenge as they face European champions Paris St-Germain in the Champions League on Wednesday.",
+      "content_text": "Newcastle United have only won three away games in all competitions this season and head coach Eddie Howe wants his side to rise to the challenge as they face European champions Paris St-Germain in the Champions League on Wednesday.",
+      "date_published": "2026-01-28T07:33:43.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cevnppplkjjo#3",
       "url": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
       "title": "South Korea's ex-first lady jailed 20 months for bribery",
@@ -36,6 +44,14 @@
       "content_html": "European champions PSG face Newcastle in the Champions League on Wednesday - but why have Luis Enrique's side not been at their best so far this term?",
       "content_text": "European champions PSG face Newcastle in the Champions League on Wednesday - but why have Luis Enrique's side not been at their best so far this term?",
       "date_published": "2026-01-28T06:42:38.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd7zpg3z723o#3",
+      "url": "https://www.bbc.com/news/articles/cd7zpg3z723o?at_medium=RSS&at_campaign=rss",
+      "title": "'I think she'd be flattered' - Claudia Winkleman model appears on garden fence",
+      "content_html": "The Traitors presenter becomes an artist's latest creation in Stowmarket, Suffolk.",
+      "content_text": "The Traitors presenter becomes an artist's latest creation in Stowmarket, Suffolk.",
+      "date_published": "2026-01-28T06:40:35.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/cricket/articles/clyep2g5dplo#7",
