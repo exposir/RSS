@@ -78,6 +78,14 @@
       "date_published": "2026-01-27T09:38:59.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46776155",
+      "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
+      "title": "Doing the thing is doing the thing",
+      "content_html": "<p>Article URL: <a href=\"https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing\">https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46776155\">https://news.ycombinator.com/item?id=46776155</a></p>\n<p>Points: 259</p>\n<p># Comments: 97</p>",
+      "content_text": "Article URL: https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing\nComments URL: https://news.ycombinator.com/item?id=46776155\nPoints: 259\n# Comments: 97",
+      "date_published": "2026-01-27T06:17:46.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46775961",
       "url": "https://www.kimi.com/blog/kimi-k2-5.html",
       "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",

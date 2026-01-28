@@ -17,6 +17,102 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188974",
+      "url": "https://www.v2ex.com/t/1188974#reply0",
+      "title": "[问与答] 大家手里的首饰金现在怎么处理？",
+      "content_html": "<p>大家手里的首饰金现在怎么处理？继续持有吗</p>",
+      "content_text": "大家手里的首饰金现在怎么处理？继续持有吗",
+      "date_published": "2026-01-28T04:00:34.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188973",
+      "url": "https://www.v2ex.com/t/1188973#reply0",
+      "title": "[酷工作] 远程 AI 美术资产总监 (AI Art Director)\n远程 LLM 交互架构师 (LLM Interaction Architect)\n远程 模型微调/Lora 训练师\n远程 Aigc 视频生成主管",
+      "content_html": "AI 美术资产总监<br />薪资范围：20-30k+奖金<br />------<br />1 审美高：对光影、骨架、构图有极高的敏感度。<br />2 工具熟： 精通 ComfyUI 工作流，及生图模型的生成特点及能力边界。<br />3 加分项： 有二次元 nsfw 高质量素材集，会制作动画分镜。\"\t<br /><br />\"远程，上班时间 12 小时制，20 - 30k 人民币，具体薪资待定<br />• 岗位核心： 能运用开源及闭源模型和手绘/ps 的方式，生成复合公司要求的高质量二次元图片。<br /> • 你将负责：<br /> 1 确立产品的美术风格，并收集/生成素材，清洗数据，建立标准数据集。<br /> 2 指令库构建：建立基于不同底模的提示词模板，提示词库。\"<br />--------<br />另有 Java 架构，web 前端架构，PHP ，Python ，安卓，软件测试，全栈开发，IOS ，Golang ，SRE 运维等岗位<br />可直接添加 TG：Skyewen20251<br />有意向投递简历到 Email 邮箱： zygs2151@gmail.com",
+      "content_text": "AI 美术资产总监薪资范围：20-30k+奖金------1 审美高：对光影、骨架、构图有极高的敏感度。2 工具熟： 精通 ComfyUI 工作流，及生图模型的生成特点及能力边界。3 加分项： 有二次元 nsfw 高质量素材集，会制作动画分镜。\"\t\"远程，上班时间 12 小时制，20 - 30k 人民币，具体薪资待定• 岗位核心： 能运用开源及闭源模型和手绘/ps 的方式，生成复合公司要求的高质量二次元图片。 • 你将负责： 1 确立产品的美术风格，并收集/生成素材，清洗数据，建立标准数据集。 2 指令库构建：建立基于不同底模的提示词模板，提示词库。\"--------另有 Java 架构，web 前端架构，PHP ，Python ，安卓，软件测试，全栈开发，IOS ，Golang ，SRE 运维等岗位可直接添加 TG：Skyewen20251有意向投递简历到 Email 邮箱： zygs2151@gmail.com",
+      "date_published": "2026-01-28T03:58:45.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188970",
+      "url": "https://www.v2ex.com/t/1188970#reply0",
+      "title": "[OpenWrt] 两台路由器交换位置对测速的影响很大",
+      "content_html": "<h4>主路由一台，子路由一台。子路由通过无线扫描方式中继主路由的信号。</h4>\n<p>第一次测速，宽带可以达到 500Mbs</p>\n<h4>交换主副路由的位置，其他设定不变。宽带测速明显下降，只有 300Mbps</h4>\n<p>两台路由器的 cpu 配置相同，内存一个 256m ，一个 512m 。两次路由器的摆放位置严格限定。</p>\n<p>5G 部分一个 4t4r ，一个 2t2r 。</p>\n<p>两台路由器型号为：小米路由器 r3g ，京东云路由器一代。</p>\n<p><strong>我原以为反正都是这两台路由器，哪个主，哪个副，应该都是一样的。</strong></p>\n<p><strong>并且，按照我的理解，4t4r 的路由器做主路由会更有优势，</strong></p>\n<p><strong>但测试结果相反，2t2r 的做主路由，4t4r 的做副路由，带宽测试结果更好。</strong></p>",
+      "content_text": "主路由一台，子路由一台。子路由通过无线扫描方式中继主路由的信号。\n第一次测速，宽带可以达到 500Mbs\n交换主副路由的位置，其他设定不变。宽带测速明显下降，只有 300Mbps\n两台路由器的 cpu 配置相同，内存一个 256m ，一个 512m 。两次路由器的摆放位置严格限定。\n5G 部分一个 4t4r ，一个 2t2r 。\n两台路由器型号为：小米路由器 r3g ，京东云路由器一代。\n我原以为反正都是这两台路由器，哪个主，哪个副，应该都是一样的。\n并且，按照我的理解，4t4r 的路由器做主路由会更有优势，\n但测试结果相反，2t2r 的做主路由，4t4r 的做副路由，带宽测试结果更好。",
+      "date_published": "2026-01-28T03:51:14.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188968",
+      "url": "https://www.v2ex.com/t/1188968#reply3",
+      "title": "[Apple] iPhone 迁移体验最好的 app 是微信",
+      "content_html": "<p>iPhone air 到了，从 15pm 迁移到 air 上<br/>\n使用方式是 icloud 恢复<br/>\n恢复完成后因为微信设置了 passkey 登录，用 passkey 一键登录之后聊天记录也同步好了<br/>\n目前有类似体验的没几个 app：</p>\n<ul>\n<li>ins （无需登录，传输了用户信息）</li>\n<li>claude （无需登录）</li>\n<li>paste （无需登录，无需恢复订阅，无需单独设置键盘）</li>\n<li>小宇宙（无需登录）</li>\n</ul>\n<p>其他的 app ，包括购物、工具、娱乐等（国内国外都是），都需要单独登录一遍</p>",
+      "content_text": "iPhone air 到了，从 15pm 迁移到 air 上\n使用方式是 icloud 恢复\n恢复完成后因为微信设置了 passkey 登录，用 passkey 一键登录之后聊天记录也同步好了\n目前有类似体验的没几个 app：\n\nins （无需登录，传输了用户信息）\nclaude （无需登录）\npaste （无需登录，无需恢复订阅，无需单独设置键盘）\n小宇宙（无需登录）\n\n其他的 app ，包括购物、工具、娱乐等（国内国外都是），都需要单独登录一遍",
+      "date_published": "2026-01-28T03:43:24.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188967",
+      "url": "https://www.v2ex.com/t/1188967#reply2",
+      "title": "[分享创造] [送积分] 个人开发的小游戏抖音版上线了",
+      "content_html": "<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://p.sda1.dev/30/ace893ea946bf11c3d302f0d215104df/jietu.jpg\"/></p>\n<p>哈啰 v 友们，中午好。接上篇<a href=\"https://v2ex.com/t/1187822\" rel=\"nofollow\">/t/1187822</a> 小游戏《潜艇进击》抖音版也发布了。</p>\n<p>这次继续送积分，大家在空间复制 UID 放下面，后台我给大家每人发 500 积分。可以去商店使用积分兑换特种武器，胜率更高，非常好玩。</p>\n<p>放下抖音小游戏码，扫码可以直达（或者抖音直接搜索“潜艇进击”）。</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://p.sda1.dev/30/c51a8be260b062314f5604fae63b84b4/qrcode.jpg\"/></p>\n<p>期待可以得到大家的试玩，十分感谢。</p>",
+      "content_text": "哈啰 v 友们，中午好。接上篇/t/1187822 小游戏《潜艇进击》抖音版也发布了。\n这次继续送积分，大家在空间复制 UID 放下面，后台我给大家每人发 500 积分。可以去商店使用积分兑换特种武器，胜率更高，非常好玩。\n放下抖音小游戏码，扫码可以直达（或者抖音直接搜索“潜艇进击”）。\n\n期待可以得到大家的试玩，十分感谢。",
+      "date_published": "2026-01-28T03:42:41.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188966",
+      "url": "https://www.v2ex.com/t/1188966#reply0",
+      "title": "[问与答] 有没有人实际用了 Clawdbot ？ Token 消耗如何？",
+      "content_html": "<p>这两天又被 Clawdbot （现在改名 Moltbot ）刷屏了，都在宣传各种强大、各种自动化能力、各种 App 支持。</p>\n<p>AI 圈现在是学完这个学完那个 学完那个学另一个，手忙脚乱地眼睛都看累了。</p>\n<p>想问问有没有人<strong>真实</strong>跑起来过这个项目的：</p>\n<p>🔗 <a href=\"https://github.com/moltbot/moltbot\" rel=\"nofollow\">https://github.com/moltbot/moltbot</a></p>\n<p>想了解一下：</p>\n<ol>\n<li>实际跑起来主要用在什么<strong>场景/任务</strong>？</li>\n<li>最重要的一点：<strong>token 消耗情况如何？成本感受怎么样？</strong></li>\n</ol>\n<p>求真实使用经验分享，不要只靠宣传文案 😄</p>",
+      "content_text": "这两天又被 Clawdbot （现在改名 Moltbot ）刷屏了，都在宣传各种强大、各种自动化能力、各种 App 支持。\nAI 圈现在是学完这个学完那个 学完那个学另一个，手忙脚乱地眼睛都看累了。\n想问问有没有人真实跑起来过这个项目的：\n🔗 https://github.com/moltbot/moltbot\n想了解一下：\n\n实际跑起来主要用在什么场景/任务？\n最重要的一点：token 消耗情况如何？成本感受怎么样？\n\n求真实使用经验分享，不要只靠宣传文案 😄",
+      "date_published": "2026-01-28T03:42:02.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188965",
+      "url": "https://www.v2ex.com/t/1188965#reply0",
+      "title": "[分享发现] 全网征求 Clawdbot 闯过最大的祸",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T03:28:17.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188964",
+      "url": "https://www.v2ex.com/t/1188964#reply0",
+      "title": "[宽带症候群] 2025 如何拯救韩国甲骨文？装个 clawdbot！",
+      "content_html": "<p>既然搭梯子不好使了，那就干点别的</p>\n<p>一键 curl -fsSL <a href=\"https://clawd.bot/install.sh\" rel=\"nofollow\">https://clawd.bot/install.sh</a> | bash</p>\n<p>模型选 qwen-coder ，免费</p>\n<p>剩下的自由发挥，有好的 skill 大家可以回复一下，我也试试</p>",
+      "content_text": "既然搭梯子不好使了，那就干点别的\n一键 curl -fsSL https://clawd.bot/install.sh | bash\n模型选 qwen-coder ，免费\n剩下的自由发挥，有好的 skill 大家可以回复一下，我也试试",
+      "date_published": "2026-01-28T03:27:58.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188963",
+      "url": "https://www.v2ex.com/t/1188963#reply1",
+      "title": "[问与答] C 端社媒爬虫小产品上线 3 个多月，只赚 4 位数出头",
+      "content_html": "<p>是不是废了。</p>\n<p>本身产品是因为我自己经常有爬社媒这个需求，就做成独立产品来看看有没有跟我相同需求的用户。</p>\n<p>但目前有很多问题：</p>\n<ol>\n<li>\n<p>一个是有这个需求的 C 端用户不多，我感觉是 B 端为主，但 B 端容易吃官司，不想折腾</p>\n</li>\n<li>\n<p>在做视频推广的时候非常费劲，我对做视频没经验，没有超级爆款，然后不做视频没人下载</p>\n</li>\n<li>\n<p>插件安装人数是 200+用户装过，但很多使用过一次就跑路的，甚至是用都没用就跑路（使用流程是，插件和桌面端应用结合）</p>\n</li>\n</ol>\n<p>ps：除了开发成本之外没啥成本，开发 85%是 ai 开发</p>",
+      "content_text": "是不是废了。\n本身产品是因为我自己经常有爬社媒这个需求，就做成独立产品来看看有没有跟我相同需求的用户。\n但目前有很多问题：\n\n\n一个是有这个需求的 C 端用户不多，我感觉是 B 端为主，但 B 端容易吃官司，不想折腾\n\n\n在做视频推广的时候非常费劲，我对做视频没经验，没有超级爆款，然后不做视频没人下载\n\n\n插件安装人数是 200+用户装过，但很多使用过一次就跑路的，甚至是用都没用就跑路（使用流程是，插件和桌面端应用结合）\n\n\nps：除了开发成本之外没啥成本，开发 85%是 ai 开发",
+      "date_published": "2026-01-28T03:27:21.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188960",
+      "url": "https://www.v2ex.com/t/1188960#reply2",
+      "title": "[Apple] kernel_task 进程经常占用率飙升",
+      "content_html": "目前的电脑配置是 m1+16G+512G ，目前做一些前端开发基本够用。 <br />当我运行某个大型前端项目时，经常遇到 kernel_task 进程占用率飙升的情况，内存要占用掉十几个 G ，导致其他操作巨卡无比。这时唯一的解决办法就是重启，重启后问题解决。<br />问了 chatgpt ，说是系统的自我保护功能，不是很理解，为什么越保护越卡？<br />如果升级到更高的配置，是不是就不会出现 kernel_task 进程占用率飙升的情况？有没有过来人分享下经验",
+      "content_text": "目前的电脑配置是 m1+16G+512G ，目前做一些前端开发基本够用。 当我运行某个大型前端项目时，经常遇到 kernel_task 进程占用率飙升的情况，内存要占用掉十几个 G ，导致其他操作巨卡无比。这时唯一的解决办法就是重启，重启后问题解决。问了 chatgpt ，说是系统的自我保护功能，不是很理解，为什么越保护越卡？如果升级到更高的配置，是不是就不会出现 kernel_task 进程占用率飙升的情况？有没有过来人分享下经验",
+      "date_published": "2026-01-28T03:22:51.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188959",
+      "url": "https://www.v2ex.com/t/1188959#reply12",
+      "title": "[问与答] 大家都有开山姆超市会员吗?值得开吗?有啥推荐的东西吗?",
+      "content_html": "<p>我在济南,现在开卡送 4 个月线上会员,但是还在纠结开不开\n现在两个人住,父母偶尔会来\n大家有在山姆买过什么好东西吗\n谢谢解答啦</p>",
+      "content_text": "我在济南,现在开卡送 4 个月线上会员,但是还在纠结开不开\n现在两个人住,父母偶尔会来\n大家有在山姆买过什么好东西吗\n谢谢解答啦",
+      "date_published": "2026-01-28T03:20:49.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188958",
+      "url": "https://www.v2ex.com/t/1188958#reply10",
+      "title": "[问与答] 最近 V 站让你印象最深的帖子或者用户是哪个？",
+      "content_html": "<p>有没有人懂操 b 哥的 无论什么帖子下面评论都在操 意外耿直的很搞笑</p>",
+      "content_text": "有没有人懂操 b 哥的 无论什么帖子下面评论都在操 意外耿直的很搞笑",
+      "date_published": "2026-01-28T03:19:30.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1188957",
       "url": "https://www.v2ex.com/t/1188957#reply0",
       "title": "[生活] 过年开车回老家，几号出发不堵？",

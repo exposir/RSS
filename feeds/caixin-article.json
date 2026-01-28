@@ -6,6 +6,14 @@
   "description": "财新网 - 首页 - Powered by RSSHub",
   "items": [
     {
+      "id": "https://cxdata.caixin.com/GeoFinAtlas/?id=cd19d5157cbf4ddc92c705ee31d4a674",
+      "url": "https://cxdata.caixin.com/GeoFinAtlas/?id=cd19d5157cbf4ddc92c705ee31d4a674",
+      "title": "【地缘图志】特朗普“唱空”美元金银再涨，谷歌云服务涨价A股联动",
+      "content_html": "<img src=\"https://img.caixin.com//2024-07-11/172066931547445.jpg\" referrerpolicy=\"no-referrer\"><br>",
+      "content_text": "",
+      "date_published": "2026-01-28T03:43:57.000Z"
+    },
+    {
       "id": "https://database.caixin.com/2026-01-28/102408765.html",
       "url": "https://database.caixin.com/2026-01-28/102408765.html",
       "title": "【权益周观察】年报预告陆续披露 哪些板块业绩可能超预期？",

@@ -6,6 +6,46 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c89q3keee79o#0",
+      "url": "https://www.bbc.com/news/articles/c89q3keee79o?at_medium=RSS&at_campaign=rss",
+      "title": "Five IPP prisoners to be referred to Court of Appeal",
+      "content_html": "New IPP sentences were scrapped in 2012, but remain in place for around 2,800 people.",
+      "content_text": "New IPP sentences were scrapped in 2012, but remain in place for around 2,800 people.",
+      "date_published": "2026-01-28T03:51:43.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/crmlpl0w2z2o#3",
+      "url": "https://www.bbc.com/news/articles/crmlpl0w2z2o?at_medium=RSS&at_campaign=rss",
+      "title": "Neil Young offers Greenlanders free access to his archives",
+      "content_html": "Young says he hopes the offer will \"ease some of the unwarranted stress and threats\" Greenlanders feel over Trump's threats to the territory.",
+      "content_text": "Young says he hopes the offer will \"ease some of the unwarranted stress and threats\" Greenlanders feel over Trump's threats to the territory.",
+      "date_published": "2026-01-28T03:34:43.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cn9zpee3llxo#0",
+      "url": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
+      "title": "Minnesota congresswoman Ilhan Omar attacked with 'unknown liquid' during town hall",
+      "content_html": "Omar was uninjured and continued to speak at the event following the incident.",
+      "content_text": "Omar was uninjured and continued to speak at the event following the incident.",
+      "date_published": "2026-01-28T03:25:28.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cx2ywzxlxnlo#3",
+      "url": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
+      "title": "Amazon accidentally sends email confirming layoffs",
+      "content_html": "The message was apparently sent in error hours before workers were expecting thousands of job cuts to be announced.",
+      "content_text": "The message was apparently sent in error hours before workers were expecting thousands of job cuts to be announced.",
+      "date_published": "2026-01-28T03:19:23.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/c3ve27yq3y4o#7",
+      "url": "https://www.bbc.com/sport/tennis/articles/c3ve27yq3y4o?at_medium=RSS&at_campaign=rss",
+      "title": "Swiatek's career Grand Slam attempt ended by Rybakina",
+      "content_html": "Iga Swiatek's bid to complete a clean sweep of the four majors at this year's Australian Open is ended by Elena Rybakina in the quarter-finals.",
+      "content_text": "Iga Swiatek's bid to complete a clean sweep of the four majors at this year's Australian Open is ended by Elena Rybakina in the quarter-finals.",
+      "date_published": "2026-01-28T03:04:24.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cj3vp84j1l3o#1",
       "url": "https://www.bbc.com/news/articles/cj3vp84j1l3o?at_medium=RSS&at_campaign=rss",
       "title": "Republicans criticise immigration force but steer clear of Trump attacks",
@@ -116,6 +156,14 @@
       "content_html": "During the event local \"guizers\" throw their torches at a replica of a Viking long ship until it is consumed by flames.",
       "content_text": "During the event local \"guizers\" throw their torches at a replica of a Viking long ship until it is consumed by flames.",
       "date_published": "2026-01-27T21:59:40.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cjw1pn4lwjqo#1",
+      "url": "https://www.bbc.com/news/articles/cjw1pn4lwjqo?at_medium=RSS&at_campaign=rss",
+      "title": "Who is Tom Homan, Trump's 'border tsar' deployed to Minneapolis?",
+      "content_html": "The US border tsar has long been a ferocious defender of Donald Trump's immigration policies.",
+      "content_text": "The US border tsar has long been a ferocious defender of Donald Trump's immigration policies.",
+      "date_published": "2026-01-27T21:17:35.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cjw1pn4lwjqo#0",

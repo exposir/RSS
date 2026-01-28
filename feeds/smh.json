@@ -6,6 +6,94 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "4c0ce08e-d79d-409d-be03-a2aaae15db39",
+      "url": "https://www.smh.com.au/national/western-australia/wa-invasion-day-rally-organisers-claim-several-threats-were-made-before-bomb-scare-20260128-p5nxom.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "WA Invasion Day rally organisers claim ‘several threats’ were made before bomb scare",
+      "content_html": "Organisers were scathing of WA Police’s response to the incident, and claimed the force had failed to take seriously threats levelled at the rally in the lead-up.",
+      "content_text": "Organisers were scathing of WA Police’s response to the incident, and claimed the force had failed to take seriously threats levelled at the rally in the lead-up.",
+      "date_published": "2026-01-28T03:54:16.000Z"
+    },
+    {
+      "id": "2527a73f-f1b0-44c6-8d61-ad7377368845",
+      "url": "https://www.smh.com.au/goodfood/recipes/indian-mint-and-chilli-steaks-with-potato-pea-and-chickpea-salad-20251222-p5nplw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Indian mint and chilli steaks with potato, pea and chickpea salad",
+      "content_html": "Ideal for balmy nights, these grilled steaks are paired with a hearty potato, pea and chickpea salad, all brought to life by a punchy mint-chilli dressing.",
+      "content_text": "Ideal for balmy nights, these grilled steaks are paired with a hearty potato, pea and chickpea salad, all brought to life by a punchy mint-chilli dressing.",
+      "date_published": "2026-01-28T03:50:44.000Z"
+    },
+    {
+      "id": "53e4c3ef-39b7-41a5-b616-ba5df581e544",
+      "url": "https://www.smh.com.au/goodfood/melbourne-eating-out/find-russian-cold-cuts-and-eastern-european-groceries-at-an-old-school-carnegie-deli-20260128-p5nxq4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Find Russian cold cuts and Eastern European groceries at an old-school Carnegie deli",
+      "content_html": "Russian Tidbits sells house-made smallgoods, pantry items and confectionary.",
+      "content_text": "Russian Tidbits sells house-made smallgoods, pantry items and confectionary.",
+      "date_published": "2026-01-28T03:50:39.000Z"
+    },
+    {
+      "id": "a99e35a7-e59e-431a-9f45-0366a263e354",
+      "url": "https://www.smh.com.au/business/consumer-affairs/coles-hires-new-pr-guru-amid-face-off-over-alleged-price-gouging-20260128-p5nxks.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Coles hires new PR guru amid face-off over alleged price gouging",
+      "content_html": "The retailer has tapped a former editor of The Australian to run its communications as it goes toe to toe with the federal consumer protection agency.",
+      "content_text": "The retailer has tapped a former editor of The Australian to run its communications as it goes toe to toe with the federal consumer protection agency.",
+      "date_published": "2026-01-28T03:49:26.000Z"
+    },
+    {
+      "id": "70706fde-2868-44bf-835c-dd4afd6da13f",
+      "url": "https://www.smh.com.au/business/companies/more-insight-than-q-a-david-speers-to-host-abc-s-new-town-hall-show-20260128-p5nxov.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "More Insight than Q+A: David Speers to host ABC’s new town hall show",
+      "content_html": "The first episode will focus on issues arising from the Bondi massacre on December 14 and the lives and experiences of Jewish Australians.",
+      "content_text": "The first episode will focus on issues arising from the Bondi massacre on December 14 and the lives and experiences of Jewish Australians.",
+      "date_published": "2026-01-28T03:33:29.000Z"
+    },
+    {
+      "id": "b3c91625-9eb9-49ed-b569-e464a20444f1",
+      "url": "https://www.smh.com.au/world/china-displays-its-military-strength-in-a-parade-on-the-80th-anniversary-of-the-end-of-wwii-20260128-p5nxpz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "China displays its military strength in a parade on the 80th anniversary of the end of WWII",
+      "content_html": "China has been increasing its military capability. Does it have a Taiwan invasion in mind? And if so, by when?",
+      "content_text": "China has been increasing its military capability. Does it have a Taiwan invasion in mind? And if so, by when?",
+      "date_published": "2026-01-28T03:29:50.000Z"
+    },
+    {
+      "id": "01f8cb9f-f4e8-448b-b1b4-0ce1345bbc62",
+      "url": "https://www.smh.com.au/world/man-sprays-unknown-substance-on-rep-ilhan-omar-and-is-tackled-at-minneapolis-town-hall-20260128-p5nxpw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man sprays unknown substance on Rep. Ilhan Omar and is tackled at Minneapolis town hall",
+      "content_html": "Man sprays unknown substance on Rep. Ilhan Omar and is tackled at Minneapolis town hall",
+      "content_text": "Man sprays unknown substance on Rep. Ilhan Omar and is tackled at Minneapolis town hall",
+      "date_published": "2026-01-28T03:25:20.000Z"
+    },
+    {
+      "id": "ae5e8acc-3504-449d-b4b1-e6f878d96346",
+      "url": "https://www.smh.com.au/world/man-tackled-to-ground-after-spraying-unknown-substance-on-rep-ilhan-omar-at-town-hall-in-minneapolis-20260128-p5nxpv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man tackled to ground after spraying unknown substance on Rep. Ilhan Omar at town hall in Minneapolis",
+      "content_html": "Man tackled to ground after spraying unknown substance on Rep. Ilhan Omar at town hall in Minneapolis",
+      "content_text": "Man tackled to ground after spraying unknown substance on Rep. Ilhan Omar at town hall in Minneapolis",
+      "date_published": "2026-01-28T03:25:02.000Z"
+    },
+    {
+      "id": "0595b876-994f-42b4-a6d5-e4e69f71aba3",
+      "url": "https://www.smh.com.au/goodfood/melbourne-eating-out/a-hawthorn-cafe-pouring-specialty-chinese-coffee-opens-a-new-cbd-location-20260128-p5nxpm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "A Hawthorn cafe pouring specialty Chinese coffee opens a new CBD location",
+      "content_html": "Four Kilo Fish is now even more accessible with its second outpost on Little Collins Street.",
+      "content_text": "Four Kilo Fish is now even more accessible with its second outpost on Little Collins Street.",
+      "date_published": "2026-01-28T03:22:49.000Z"
+    },
+    {
+      "id": "aee0ab9d-61c0-40d6-83c5-544e634a663f",
+      "url": "https://www.smh.com.au/politics/federal/israeli-president-visit-confirmed-sparking-expectations-of-mass-protests-20260128-p5nxk4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Israeli president visit confirmed, sparking expectations of mass protests",
+      "content_html": "Israeli President Isaac Herzog will depart for Australia on February 8 for a five-day trip to meet with senior Australian politicians and survivors of the Bondi Beach massacre.",
+      "content_text": "Israeli President Isaac Herzog will depart for Australia on February 8 for a five-day trip to meet with senior Australian politicians and survivors of the Bondi Beach massacre.",
+      "date_published": "2026-01-28T03:20:28.000Z"
+    },
+    {
+      "id": "eb782af7-7630-4c23-9571-c17fc3949d3e",
+      "url": "https://www.smh.com.au/traveller/travel-news/new-life-for-ultra-luxury-wolgan-valley-retreat-that-was-left-for-dead-20260126-p5nx3c.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Emirates to re-open its ultra-luxury Australian lodge after ‘dark age’ of closure",
+      "content_html": "After a series of disasters, from bushfires in 2019 to a catastrophic landslide in 2022, Emirates Wolgan Valley is preparing for a super-luxe revival.",
+      "content_text": "After a series of disasters, from bushfires in 2019 to a catastrophic landslide in 2022, Emirates Wolgan Valley is preparing for a super-luxe revival.",
+      "date_published": "2026-01-28T03:19:52.000Z"
+    },
+    {
       "id": "46497752-838e-4a86-be7d-f667b35043cc",
       "url": "https://www.smh.com.au/business/companies/geochem-clues-steer-red-metal-along-wa-hemi-gold-corridor-20260128-p5nxpj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Geochem clues steer Red Metal along WA Hemi gold corridor",

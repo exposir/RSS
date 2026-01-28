@@ -6,6 +6,14 @@
   "description": "Twitter @Elon Musk - Powered by RSSHub",
   "items": [
     {
+      "id": "https://twitter.com/elonmusk/status/2016360109413105831",
+      "url": "https://x.com/elonmusk/status/2016360109413105831",
+      "title": "RT xAI Memphis: Spent the morning shoveling out our neighborhood schools.",
+      "content_html": "RT xAI Memphis<br>Spent the morning shoveling out our neighborhood schools.<br><img width=\"1536\" height=\"2048\" style=\"\" src=\"https://pbs.twimg.com/media/G_t1ZtEWcAEnk2j?format=jpg&name=orig\" referrerpolicy=\"no-referrer\"><br><img width=\"1536\" height=\"2048\" style=\"\" src=\"https://pbs.twimg.com/media/G_t1ZtCXIAAMEzE?format=jpg&name=orig\" referrerpolicy=\"no-referrer\">",
+      "content_text": "RT xAI MemphisSpent the morning shoveling out our neighborhood schools.",
+      "date_published": "2026-01-28T02:15:45.000Z"
+    },
+    {
       "id": "https://twitter.com/elonmusk/status/2016319238344933706",
       "url": "https://x.com/elonmusk/status/2016319238344933706",
       "title": "Cool",
