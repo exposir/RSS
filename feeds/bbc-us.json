@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c98prmd0jl0o#0",
+      "url": "https://www.bbc.com/news/articles/c98prmd0jl0o?at_medium=RSS&at_campaign=rss",
+      "title": "Maharashtra deputy chief minister dies in plane crash",
+      "content_html": "The plane had five people on board, and no-one is believed to have survived, India's aviation regulator says.",
+      "content_text": "The plane had five people on board, and no-one is believed to have survived, India's aviation regulator says.",
+      "date_published": "2026-01-28T05:29:19.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c89q3keee79o#0",
       "url": "https://www.bbc.com/news/articles/c89q3keee79o?at_medium=RSS&at_campaign=rss",
       "title": "Five IPP prisoners to be referred to Court of Appeal",

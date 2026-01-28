@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46787521",
+      "url": "https://www.web3isgoinggreat.com/single/lick-theft",
+      "title": "Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son",
+      "content_html": "<p>Article URL: <a href=\"https://www.web3isgoinggreat.com/single/lick-theft\">https://www.web3isgoinggreat.com/single/lick-theft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46787521\">https://news.ycombinator.com/item?id=46787521</a></p>\n<p>Points: 260</p>\n<p># Comments: 56</p>",
+      "content_text": "Article URL: https://www.web3isgoinggreat.com/single/lick-theft\nComments URL: https://news.ycombinator.com/item?id=46787521\nPoints: 260\n# Comments: 56",
+      "date_published": "2026-01-27T21:54:29.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46784572",
       "url": "https://amutable.com/about",
       "title": "Lennart Poettering, Christian Brauner founded a new company",

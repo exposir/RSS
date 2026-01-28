@@ -6,6 +6,62 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "39800282-40b1-40a0-9181-a5f8b5443e8b",
+      "url": "https://www.smh.com.au/sport/tennis/djokovic-complains-after-time-violation-20260128-p5nxrj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic complains after time violation",
+      "content_html": "Novak Djokovic asks the umpire why he wasn't warned to hurry before being slapped with a time violation.",
+      "content_text": "Novak Djokovic asks the umpire why he wasn't warned to hurry before being slapped with a time violation.",
+      "date_published": "2026-01-28T05:42:56.000Z"
+    },
+    {
+      "id": "0e1f9cc2-be41-4cd7-b9eb-d4f9eaafebf5",
+      "url": "https://www.smh.com.au/business/companies/venus-maps-out-multi-million-tonne-zinc-indium-prize-in-wa-20260128-p5nxrd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Venus maps out multi-million-tonne zinc-indium prize in WA",
+      "content_html": "Venus Metals has unveiled a hefty zinc–indium exploration target of up to 12Mt in WA, with shallow potential and drilling locked in to hunt down a maiden resource.",
+      "content_text": "Venus Metals has unveiled a hefty zinc–indium exploration target of up to 12Mt in WA, with shallow potential and drilling locked in to hunt down a maiden resource.",
+      "date_published": "2026-01-28T05:30:35.000Z"
+    },
+    {
+      "id": "0cdb15e6-6e6a-4e01-ba16-9f6f6b89eb70",
+      "url": "https://www.smh.com.au/world/north-america/how-the-shooting-of-alex-pretti-unfolded-20260126-p5nx3z.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How the shooting of Alex Pretti unfolded",
+      "content_html": "Video footage shared on social media captured the moments around the killing of 37-year-old Minneapolis man Alex Pretti by federal immigration officers.",
+      "content_text": "Video footage shared on social media captured the moments around the killing of 37-year-old Minneapolis man Alex Pretti by federal immigration officers.",
+      "date_published": "2026-01-28T05:18:55.000Z"
+    },
+    {
+      "id": "d6ffe090-a762-4601-8817-032eeaca5f3c",
+      "url": "https://www.smh.com.au/culture/lisa-millars-pet-project-20260128-p5nxrb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Lisa Millar's pet project",
+      "content_html": "The ABC star reveals why dogs make the best co-stars.",
+      "content_text": "The ABC star reveals why dogs make the best co-stars.",
+      "date_published": "2026-01-28T05:17:28.000Z"
+    },
+    {
+      "id": "ddbc94da-b305-473a-9b7e-e0002c33aa4a",
+      "url": "https://www.smh.com.au/sport/rugby-union/rugby-australia-secures-jorgensen-on-five-year-multimillion-dollar-deal-20260128-p5nxny.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rugby Australia secures Jorgensen on five-year, multimillion-dollar deal",
+      "content_html": "Young Wallabies star Max Jorgensen has turned down interest from the NRL and R360 to sign one of the longest deals in Australian rugby history.",
+      "content_text": "Young Wallabies star Max Jorgensen has turned down interest from the NRL and R360 to sign one of the longest deals in Australian rugby history.",
+      "date_published": "2026-01-28T05:13:53.000Z"
+    },
+    {
+      "id": "b367e4b1-a2d8-4381-a2ca-987ae8aaf758",
+      "url": "https://www.smh.com.au/sport/tennis/djokovics-horror-missed-smash-20260128-p5nxr8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic's horror missed smash",
+      "content_html": "Novak Djokovic mishits a regulation smash that goes long and gifts his opponent a break point.",
+      "content_text": "Novak Djokovic mishits a regulation smash that goes long and gifts his opponent a break point.",
+      "date_published": "2026-01-28T05:06:24.000Z"
+    },
+    {
+      "id": "92c60a3d-d11e-4268-ac04-82f4de7053e8",
+      "url": "https://www.smh.com.au/culture/movies/rose-byrne-on-her-surreal-journey-to-the-oscars-20260128-p5nxr5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rose Byrne on her surreal journey to the Oscars",
+      "content_html": "The Oscar-nominated Australian actress tells Karl Quinn about the lessons she has learnt in the lead-up to the Academy Awards.",
+      "content_text": "The Oscar-nominated Australian actress tells Karl Quinn about the lessons she has learnt in the lead-up to the Academy Awards.",
+      "date_published": "2026-01-28T05:05:43.000Z"
+    },
+    {
       "id": "001c6a44-ab18-4362-b90c-5a552dceef74",
       "url": "https://www.smh.com.au/culture/books/bestselling-memoirist-jennette-mccurdy-returns-to-make-us-uncomfortable-again-20260126-p5nx3j.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Bestselling memoirist Jennette McCurdy returns to make us uncomfortable again",
