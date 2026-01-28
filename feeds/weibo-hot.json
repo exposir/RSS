@@ -6,6 +6,30 @@
   "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
   "items": [
     {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%8C%E5%B9%B3%E7%BB%9F%E4%B8%80%E5%B0%86%E7%BB%99%E5%8F%B0%E6%B9%BE%E5%88%9B%E9%80%A0%E5%B7%A8%E5%A4%A7%E6%9C%BA%E9%81%87",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%92%8C%E5%B9%B3%E7%BB%9F%E4%B8%80%E5%B0%86%E7%BB%99%E5%8F%B0%E6%B9%BE%E5%88%9B%E9%80%A0%E5%B7%A8%E5%A4%A7%E6%9C%BA%E9%81%87",
+      "title": "和平统一将给台湾创造巨大机遇",
+      "content_html": "和平统一将给台湾创造巨大机遇",
+      "content_text": "和平统一将给台湾创造巨大机遇",
+      "date_published": "2026-01-28T04:59:02.670Z"
+    },
+    {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D4.5%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D4.5%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6",
+      "title": "4.5天工作制",
+      "content_html": "4.5天工作制",
+      "content_text": "4.5天工作制",
+      "date_published": "2026-01-28T04:59:02.670Z"
+    },
+    {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%96400%E5%85%8B%E9%87%91%E6%9D%A1%E5%80%9F%E9%92%B1%E5%90%8E%E6%8C%89%E9%BB%84%E9%87%91%E7%8E%B0%E5%80%BC%E7%B4%A2%E8%BF%98",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%96400%E5%85%8B%E9%87%91%E6%9D%A1%E5%80%9F%E9%92%B1%E5%90%8E%E6%8C%89%E9%BB%84%E9%87%91%E7%8E%B0%E5%80%BC%E7%B4%A2%E8%BF%98",
+      "title": "卖400克金条借钱后按黄金现值索还",
+      "content_html": "卖400克金条借钱后按黄金现值索还",
+      "content_text": "卖400克金条借钱后按黄金现值索还",
+      "date_published": "2026-01-28T04:59:02.670Z"
+    },
+    {
       "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%81%E7%A8%8B%E9%91%AB%E6%9C%B1%E5%BF%97%E9%91%AB%E5%B7%A6%E8%88%AA%20%E5%B7%B2%E4%BA%89%E6%B0%94%E4%BA%89%E6%B0%94%E5%86%8D%E4%BA%89%E6%B0%94",
       "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%81%E7%A8%8B%E9%91%AB%E6%9C%B1%E5%BF%97%E9%91%AB%E5%B7%A6%E8%88%AA%20%E5%B7%B2%E4%BA%89%E6%B0%94%E4%BA%89%E6%B0%94%E5%86%8D%E4%BA%89%E6%B0%94",
       "title": "丁程鑫朱志鑫左航 已争气争气再争气",

@@ -6,6 +6,14 @@
   "description": "财新网 - 最新文章 - Powered by RSSHub",
   "items": [
     {
+      "id": "caixin:latest:https://database.caixin.com/2026-01-28/102408824.html",
+      "url": "https://database.caixin.com/2026-01-28/102408824.html",
+      "title": "【今日热点】金价迭创新高黄金股持续活跃 资源品强势爆发",
+      "content_html": "<blockquote><p>国际金价创下记录新高，黄金、白银股强势；存储芯片历经涨价潮，国内产业链公司业绩预告亮眼，存储芯片再度活跃，AI应用和光通信板块冲高回落</p></blockquote><br>",
+      "content_text": "国际金价创下记录新高，黄金、白银股强势；存储芯片历经涨价潮，国内产业链公司业绩预告亮眼，存储芯片再度活跃，AI应用和光通信板块冲高回落",
+      "date_published": "2026-01-28T04:56:31.000Z"
+    },
+    {
       "id": "caixin:latest:https://www.caixin.com/2026-01-28/102408817.html",
       "url": "https://www.caixin.com/2026-01-28/102408817.html",
       "title": "月之暗面新模型增强多模态能力 主打智能体功能",
