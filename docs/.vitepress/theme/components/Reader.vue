@@ -419,10 +419,20 @@ async function handleRefresh() {
   line-height: 1.4;
   margin: 0 0 0.4rem 0;
   color: var(--vp-c-text-1);
-  display: -webkit-box;
+  /* 移除行数限制以适配沉浸式翻译 */
+  /* display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
-  overflow: hidden;
+  overflow: hidden; */
+  display: block;
+  word-wrap: break-word;
+}
+
+/* 尝试强制换行翻译内容（适配常见的翻译插件） */
+.article-item-title :deep(font),
+.article-item-title :deep(span[lang]) {
+  display: block;
+  margin-top: 2px;
 }
 
 .article-item-meta {
