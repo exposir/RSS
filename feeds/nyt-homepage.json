@@ -6,12 +6,68 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/briefing/agents-leave-trump-iran-fbi-georgia.html",
+      "url": "https://www.nytimes.com/2026/01/28/briefing/agents-leave-trump-iran-fbi-georgia.html",
+      "title": "Agents Who Shot Alex Pretti Are Put on Leave",
+      "content_html": "Also, the F.B.I. searched a Georgia election center. Here’s the latest at the end of Wednesday.",
+      "content_text": "Also, the F.B.I. searched a Georgia election center. Here’s the latest at the end of Wednesday.",
+      "date_published": "2026-01-28T23:08:53.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/canada/norad-us-canada-security-agreement.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/canada/norad-us-canada-security-agreement.html",
+      "title": "Why the NORAD Cold War Pact Between the U.S. and Canada Is News",
+      "content_html": "The State Department clarified comments made by the U.S. Ambassador to Canada that NORAD would be “altered” if that country did not purchase American F-35 jets.",
+      "content_text": "The State Department clarified comments made by the U.S. Ambassador to Canada that NORAD would be “altered” if that country did not purchase American F-35 jets.",
+      "date_published": "2026-01-28T23:08:21.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/nyregion/mamdani-budget.html",
+      "url": "https://www.nytimes.com/2026/01/28/nyregion/mamdani-budget.html",
+      "title": "Mamdani Blames Rivals for Leaving New York With a ‘Poisoned’ Budget",
+      "content_html": "Mayor Zohran Mamdani said the only way to close a more than $12 billion budget gap was to raise taxes on the wealthy and corporations.",
+      "content_text": "Mayor Zohran Mamdani said the only way to close a more than $12 billion budget gap was to raise taxes on the wealthy and corporations.",
+      "date_published": "2026-01-28T22:55:24.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/middleeast/hillary-clinton-tucker-carlson-riyadh.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/middleeast/hillary-clinton-tucker-carlson-riyadh.html",
+      "title": "Hillary Clinton and Tucker Carlson Speak at Saudi Business Forum",
+      "content_html": "The Democrat and the hard-right commentator found at least one thing to agree upon as they spoke at a conference in Riyadh.",
+      "content_text": "The Democrat and the hard-right commentator found at least one thing to agree upon as they spoke at a conference in Riyadh.",
+      "date_published": "2026-01-28T22:53:37.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/nyregion/iranian-dissident-murder-plot-sentencing.html",
+      "url": "https://www.nytimes.com/2026/01/28/nyregion/iranian-dissident-murder-plot-sentencing.html",
+      "title": "Man Sentenced to 15 Years for Role in Plot to Kill Iranian Dissident",
+      "content_html": "Carlisle Rivera became the third person to be sentenced for playing a role in trying to kill Masih Alinejad, an activist and a critic of the Iranian government.",
+      "content_text": "Carlisle Rivera became the third person to be sentenced for playing a role in trying to kill Masih Alinejad, an activist and a critic of the Iranian government.",
+      "date_published": "2026-01-28T22:45:31.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/us/politics/tennessee-mississippi-louisiana-power-outages.html",
       "url": "https://www.nytimes.com/2026/01/28/us/politics/tennessee-mississippi-louisiana-power-outages.html",
       "title": "Tens of Thousands in Tennessee, Mississippi and Louisiana Without Power After Storm",
       "content_html": "Across Tennessee, Mississippi and Louisiana, hundreds of power lines and poles remained damaged after freezing rain and low temperatures coated much of the region in ice over the weekend.",
       "content_text": "Across Tennessee, Mississippi and Louisiana, hundreds of power lines and poles remained damaged after freezing rain and low temperatures coated much of the region in ice over the weekend.",
       "date_published": "2026-01-28T22:42:33.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/ilhan-omar-trump-attack.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/ilhan-omar-trump-attack.html",
+      "title": "Attack on Ilhan Omar Follows Years of Trump’s Targeting Her",
+      "content_html": "President Trump has spent years demonizing and dehumanizing the Somali-born Democrat from Minnesota, fueling escalating threats against her.",
+      "content_text": "President Trump has spent years demonizing and dehumanizing the Somali-born Democrat from Minnesota, fueling escalating threats against her.",
+      "date_published": "2026-01-28T22:34:17.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/ilhan-omar-attacker-what-we-know.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/ilhan-omar-attacker-what-we-know.html",
+      "title": "Who Is the Man Who Sprayed Liquid on Representative Ilhan Omar?",
+      "content_html": "Anthony J. Kazmierczak frequently posted online about conservative issues. He told a neighbor that he was going to get arrested at an event hosted by Ms. Omar.",
+      "content_text": "Anthony J. Kazmierczak frequently posted online about conservative issues. He told a neighbor that he was going to get arrested at an event hosted by Ms. Omar.",
+      "date_published": "2026-01-28T22:20:56.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/technology/meta-earnings-ai-spending.html",

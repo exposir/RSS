@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/videos/cj6wgelw62do#0",
+      "url": "https://www.bbc.com/news/videos/cj6wgelw62do?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: How Alex Pretti shooting led Trump to shift course in Minneapolis",
+      "content_html": "BBC analysis editor Ros Atkins looks at why tensions have been running so high in the city - and how we got here.",
+      "content_text": "BBC analysis editor Ros Atkins looks at why tensions have been running so high in the city - and how we got here.",
+      "date_published": "2026-01-28T23:10:05.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o#7",
       "url": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o?at_medium=RSS&at_campaign=rss",
       "title": "Watch Benfica keeper score stoppage-time goal against Real Madrid",
@@ -452,6 +460,14 @@
       "content_html": "The government sets out proposals as data finds vet prices rose at nearly twice the inflation rate.",
       "content_text": "The government sets out proposals as data finds vet prices rose at nearly twice the inflation rate.",
       "date_published": "2026-01-28T12:31:39.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c3wz2x7ppz7o#1",
+      "url": "https://www.bbc.com/news/articles/c3wz2x7ppz7o?at_medium=RSS&at_campaign=rss",
+      "title": "Why China views the UK visit as part of something bigger",
+      "content_html": "Sir Keir Starmer is one of a number of world leaders heading to Beijing",
+      "content_text": "Sir Keir Starmer is one of a number of world leaders heading to Beijing",
+      "date_published": "2026-01-28T12:16:59.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c3wz2x7ppz7o#0",

@@ -6,6 +6,30 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "SB11930060785218553820404592646441282433960",
+      "url": "https://www.wsj.com/opinion/guan-heng-asylum-ruling-china-uyghurs-charles-ouslander-department-of-homeland-security-b70be0c8",
+      "title": "Guan Heng Gets U.S. Asylum",
+      "content_html": "A judge grants refuge to a worthy dissident, no thanks to DHS.",
+      "content_text": "A judge grants refuge to a worthy dissident, no thanks to DHS.",
+      "date_published": "2026-01-28T22:54:00.000Z"
+    },
+    {
+      "id": "SB11930060785218553820404592646063462138178",
+      "url": "https://www.wsj.com/opinion/donald-trump-weak-dollar-economy-exchange-rates-101b278a",
+      "title": "The Perils of a Falling Trump Dollar",
+      "content_html": "He says he&#x2019;s OK with a weaker currency. Voters may feel differently.",
+      "content_text": "He says he&#x2019;s OK with a weaker currency. Voters may feel differently.",
+      "date_published": "2026-01-28T22:54:00.000Z"
+    },
+    {
+      "id": "SB12264937453160404360904592630040365624200",
+      "url": "https://www.wsj.com/opinion/diego-garcia-u-k-china-u-s-mauritius-military-base-donald-trump-01ad7f2f",
+      "title": "Why the U.S. Needs Diego Garcia",
+      "content_html": "Trump can block the U.K. deal to hand the Chagos Islands to a friend of China.",
+      "content_text": "Trump can block the U.K. deal to hand the Chagos Islands to a friend of China.",
+      "date_published": "2026-01-28T22:47:00.000Z"
+    },
+    {
       "id": "SB11930060785218553820404592644293011069480",
       "url": "https://www.wsj.com/opinion/ups-layoffs-teamsters-union-sean-o-brien-carol-tome-5dcdd7b6",
       "title": "More Teamster Job Casualties",

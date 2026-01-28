@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "3d27e70c-d66d-4051-8555-37c1be356f34",
+      "url": "https://www.smh.com.au/national/western-australia/wildcats-upset-phoenix-to-congest-nbl-top-five-20260129-p5nxxx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Wildcats upset Phoenix to congest NBL top-five",
+      "content_html": "Perth have overcome a slow start that cost them an Ignite Cup final spot to beat South East Melbourne and spice up the top-four race in the run towards the NBL’s finals series.",
+      "content_text": "Perth have overcome a slow start that cost them an Ignite Cup final spot to beat South East Melbourne and spice up the top-four race in the run towards the NBL’s finals series.",
+      "date_published": "2026-01-28T23:32:43.000Z"
+    },
+    {
+      "id": "c88d4d9d-18ef-4508-87e7-f1805cdf26a2",
+      "url": "https://www.smh.com.au/sport/soccer/goalkeeper-scores-vital-champions-league-goal-20260129-p5nxxo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Goalkeeper scores vital Champions League goal",
+      "content_html": "Goalkeeper Anatoliy Trubin scored a 98th-minute header as Benfica defeated Real Madrid 4-2 to secure a Champions League knockout place.",
+      "content_text": "Goalkeeper Anatoliy Trubin scored a 98th-minute header as Benfica defeated Real Madrid 4-2 to secure a Champions League knockout place.",
+      "date_published": "2026-01-28T23:22:10.000Z"
+    },
+    {
+      "id": "4dca0c2b-f198-4acb-aa8f-31eb82660d04",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/my-frequently-flying-friend-had-a-gripe-if-only-he-d-seen-the-news-20260122-p5nw48.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "My frequently flying friend had a gripe. If only he’d seen the news",
+      "content_html": "The woman from United Airlines was not as attentive as he would have liked. Later, he realised why.",
+      "content_text": "The woman from United Airlines was not as attentive as he would have liked. Later, he realised why.",
+      "date_published": "2026-01-28T23:14:03.000Z"
+    },
+    {
+      "id": "edec9c47-9182-4ebc-8811-4499b74f6994",
+      "url": "https://www.smh.com.au/business/companies/problem-gambler-allowed-to-open-account-in-just-two-minutes-as-six-companies-breach-self-exclusion-rules-20260129-p5nxwa.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Problem gambler allowed to open account in just two minutes as six companies breach self-exclusion rules",
+      "content_html": "Tabcorp has been hit with a $100,000 fine after failing to comply with a scheme intended to help gambling addicts while PickleBet let a man rapidly create an account despite being banned.",
+      "content_text": "Tabcorp has been hit with a $100,000 fine after failing to comply with a scheme intended to help gambling addicts while PickleBet let a man rapidly create an account despite being banned.",
+      "date_published": "2026-01-28T23:07:02.000Z"
+    },
+    {
       "id": "3d5981de-e310-4352-acc8-0a39af395624",
       "url": "https://www.smh.com.au/national/police-officer-allegedly-bitten-at-adelaide-kfc-20260129-p5nxwr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Police officer allegedly bitten at Adelaide KFC",

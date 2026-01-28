@@ -6,6 +6,22 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3087558",
+      "url": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
+      "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
+      "content_html": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"",
+      "content_text": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"",
+      "date_published": "2026-01-28T23:16:02.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087510",
+      "url": "https://techcrunch.com/2026/01/28/trump-energy-department-loosens-rules-on-nuclear-safety/",
+      "title": "Trump energy department loosens rules on nuclear safety",
+      "content_html": "The new rules apply to nuclear reactors built on Department of Energy property, which includes several currently being developed by startups.",
+      "content_text": "The new rules apply to nuclear reactors built on Department of Energy property, which includes several currently being developed by startups.",
+      "date_published": "2026-01-28T22:50:18.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087517",
       "url": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
       "title": "Microsoft gained $7.6 billion from OpenAI last quarter",

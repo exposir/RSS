@@ -6,6 +6,22 @@
   "description": "World News",
   "items": [
     {
+      "id": "SB11930060785218553820404592646441282433960",
+      "url": "https://www.wsj.com/opinion/guan-heng-asylum-ruling-china-uyghurs-charles-ouslander-department-of-homeland-security-b70be0c8",
+      "title": "Opinion | Guan Heng Gets U.S. Asylum",
+      "content_html": "A judge grants refuge to a worthy dissident, no thanks to DHS.",
+      "content_text": "A judge grants refuge to a worthy dissident, no thanks to DHS.",
+      "date_published": "2026-01-28T22:54:00.000Z"
+    },
+    {
+      "id": "SB12264937453160404360904592630040365624200",
+      "url": "https://www.wsj.com/opinion/diego-garcia-u-k-china-u-s-mauritius-military-base-donald-trump-01ad7f2f",
+      "title": "Opinion | Why the U.S. Needs Diego Garcia",
+      "content_html": "Trump can block the U.K. deal to hand the Chagos Islands to a friend of China.",
+      "content_text": "Trump can block the U.K. deal to hand the Chagos Islands to a friend of China.",
+      "date_published": "2026-01-28T22:47:00.000Z"
+    },
+    {
       "id": "SB12803691161524744757004592622362295746778",
       "url": "https://www.wsj.com/opinion/does-qatar-fund-antisemitism-at-american-campuses-2218c9fe",
       "title": "Opinion | Does Qatar Fund Antisemitism at American Campuses?",
