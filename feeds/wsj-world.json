@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "SB11336906705384833482504592642114192315428",
+      "url": "https://www.wsj.com/opinion/the-eu-india-trade-deal-is-boring-and-thats-a-good-thing-6360575e",
+      "title": "Opinion | The EU-India Trade Deal Is Boring, and That&#x2019;s a Good Thing",
+      "content_html": "It helps both parties contend with Chinese competition and American unpredictability.",
+      "content_text": "It helps both parties contend with Chinese competition and American unpredictability.",
+      "date_published": "2026-01-28T19:28:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003289937",
       "url": "https://www.wsj.com/world/middle-east/talking-or-fighting-all-of-irans-options-are-bad-c3527c0a",
       "title": "Talking or Fighting, All of Iran&#x2019;s Options Are Bad",

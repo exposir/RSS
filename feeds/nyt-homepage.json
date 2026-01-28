@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/business/silver-gold-prices.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/silver-gold-prices.html",
+      "title": "Silver Prices Are Surging Even Faster Than Gold",
+      "content_html": "Silver has risen roughly 60 percent this month alone. What is going on?",
+      "content_text": "Silver has risen roughly 60 percent this month alone. What is going on?",
+      "date_published": "2026-01-28T19:08:48.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/business/media/amazon-melania-trump-film-critics.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/media/amazon-melania-trump-film-critics.html",
+      "title": "Amazon’s $35 Million ‘Melania’ Promotion Has Critics Questioning Its Motives",
+      "content_html": "The tech giant is spending $35 million to promote its film about the first lady, far more than is typical for documentaries.",
+      "content_text": "The tech giant is spending $35 million to promote its film about the first lady, far more than is typical for documentaries.",
+      "date_published": "2026-01-28T19:04:52.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/us/politics/trump-iran-armada.html",
       "url": "https://www.nytimes.com/2026/01/28/us/politics/trump-iran-armada.html",
       "title": "Trump Threatens Iran With ‘Massive Armada’ and Presses a Set of Demands",
@@ -156,6 +172,14 @@
       "content_html": "“It’s hard not to feel a disturbance in the force,” said Ethan Hawke, whose acting career took off after his early movies appeared at the Utah festival in the 1990s.",
       "content_text": "“It’s hard not to feel a disturbance in the force,” said Ethan Hawke, whose acting career took off after his early movies appeared at the Utah festival in the 1990s.",
       "date_published": "2026-01-28T10:02:52.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/movies/oscars-best-actor-timothee-chalamet-leonardo-dicaprio-michael-b-jordan.html",
+      "url": "https://www.nytimes.com/2026/01/28/movies/oscars-best-actor-timothee-chalamet-leonardo-dicaprio-michael-b-jordan.html",
+      "title": "Who Will Win the Best Actor Oscar?",
+      "content_html": "In an exceptionally strong field, Timothée Chalamet, Leonardo DiCaprio, Ethan Hawke, Michael B. Jordan and Wagner Moura each have a way to triumph.",
+      "content_text": "In an exceptionally strong field, Timothée Chalamet, Leonardo DiCaprio, Ethan Hawke, Michael B. Jordan and Wagner Moura each have a way to triumph.",
+      "date_published": "2026-01-28T10:02:47.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/world/africa/south-africa-iran-navy-drills-trump.html",

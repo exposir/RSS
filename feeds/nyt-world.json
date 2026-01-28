@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/europe/sicily-town-landslide.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/europe/sicily-town-landslide.html",
+      "title": "Landslide Leaves Town in Sicily Perched on a Cliff’s Edge",
+      "content_html": "“We are in a movie, in a horror film,” said a resident of Niscemi, where a widening chasm is threatening the town’s historic center.",
+      "content_text": "“We are in a movie, in a horror film,” said a resident of Niscemi, where a widening chasm is threatening the town’s historic center.",
+      "date_published": "2026-01-28T19:37:22.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/africa/melania-trump-documentary-south-africa-cancel.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/africa/melania-trump-documentary-south-africa-cancel.html",
+      "title": "South Africa Cancels Release of ‘Melania’ Documentary",
+      "content_html": "The distributor, which was set to release the film on Friday, said it had canceled the theatrical premiere because of “recent developments,” but declined to specify.",
+      "content_text": "The distributor, which was set to release the film on Friday, said it had canceled the theatrical premiere because of “recent developments,” but declined to specify.",
+      "date_published": "2026-01-28T19:32:05.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
       "url": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
       "title": "Camping on Thwaites Glacier",

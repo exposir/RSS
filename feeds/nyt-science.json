@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/health/texas-lawsuit-delaware-abortion-pills.html",
+      "url": "https://www.nytimes.com/2026/01/28/health/texas-lawsuit-delaware-abortion-pills.html",
+      "title": "Texas Sues Delaware Nurse Practitioner for Mailing Abortion Pills to the State",
+      "content_html": "The case is the latest action taken by a state with an abortion ban against providers in states that support abortion rights.",
+      "content_text": "The case is the latest action taken by a state with an abortion ban against providers in states that support abortion rights.",
+      "date_published": "2026-01-28T19:34:58.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
       "url": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
       "title": "Camping on Thwaites Glacier",

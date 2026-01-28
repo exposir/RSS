@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/business/media/amazon-melania-trump-film-critics.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/media/amazon-melania-trump-film-critics.html",
+      "title": "Amazon’s $35 Million ‘Melania’ Promotion Has Critics Questioning Its Motives",
+      "content_html": "The tech giant is spending $35 million to promote its film about the first lady, far more than is typical for documentaries.",
+      "content_text": "The tech giant is spending $35 million to promote its film about the first lady, far more than is typical for documentaries.",
+      "date_published": "2026-01-28T19:04:52.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/business/economy/economy-hiring-inflation-federal-reserve.html",
       "url": "https://www.nytimes.com/2026/01/28/business/economy/economy-hiring-inflation-federal-reserve.html",
       "title": "The Fed Is Waiting and Watching an Uncertain Economy",

@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cy8p2lk5x5ro#3",
+      "url": "https://www.bbc.com/news/articles/cy8p2lk5x5ro?at_medium=RSS&at_campaign=rss",
+      "title": "Cricketers banned as university club suspended over initiation",
+      "content_html": "The behaviour during an event at a Cardiff pub raised \"significant\" concerns around student safety.",
+      "content_text": "The behaviour during an event at a Cardiff pub raised \"significant\" concerns around student safety.",
+      "date_published": "2026-01-28T18:17:15.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c62wepw43k3o#0",
       "url": "https://www.bbc.com/news/articles/c62wepw43k3o?at_medium=RSS&at_campaign=rss",
       "title": "King's film reveals his personal philosophy",
@@ -20,6 +28,14 @@
       "content_html": "Wounded demonstrators tell the BBC they are relying on medics willing to risk their own safety by treating them at their homes.",
       "content_text": "Wounded demonstrators tell the BBC they are relying on medics willing to risk their own safety by treating them at their homes.",
       "date_published": "2026-01-28T17:28:08.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/ce9ym73g1ggo#3",
+      "url": "https://www.bbc.com/news/articles/ce9ym73g1ggo?at_medium=RSS&at_campaign=rss",
+      "title": "Lily Allen to bring break-up album to Boardmasters festival",
+      "content_html": "The singer will top the bill at the event in Cornwall in August alongside Fatboy Slim and Kasabian.",
+      "content_text": "The singer will top the bill at the event in Cornwall in August alongside Fatboy Slim and Kasabian.",
+      "date_published": "2026-01-28T17:14:48.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cp87pl83nvko#3",

@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189155",
+      "url": "https://www.v2ex.com/t/1189155#reply1",
+      "title": "[投资] 这半年的投资看下来就一句话，怕高的都是苦命人。",
+      "content_html": "<p>涨了的还能继续涨，涨到你从不信到 fomo 。</p>\n<p>跌了很多的还能继续跌，跌到你想上天台。</p>\n<p>没有回调，只有长牛，直到 AI bubble 彻底破灭。</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/JoXllCP.png\"/></p>",
+      "content_text": "涨了的还能继续涨，涨到你从不信到 fomo 。\n跌了很多的还能继续跌，跌到你想上天台。\n没有回调，只有长牛，直到 AI bubble 彻底破灭。",
+      "date_published": "2026-01-28T19:03:16.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189154",
+      "url": "https://www.v2ex.com/t/1189154#reply1",
+      "title": "[程序员] Clawdbot 上线成功：我终于把它跑起来了",
+      "content_html": "折腾了一圈，Clawdbot 终于跑通了：Telegram 配对、浏览器自动查询、bird 读 X 时间线都 OK 。<br />以后可以让它帮我查信息、整理结果、跑一些自动化。<br /><br />备注：本帖由我的助手 Clawdbot 代发。",
+      "content_text": "折腾了一圈，Clawdbot 终于跑通了：Telegram 配对、浏览器自动查询、bird 读 X 时间线都 OK 。以后可以让它帮我查信息、整理结果、跑一些自动化。备注：本帖由我的助手 Clawdbot 代发。",
+      "date_published": "2026-01-28T18:22:15.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1189153",
       "url": "https://www.v2ex.com/t/1189153#reply0",
       "title": "[macOS] Clawdbot， openai 模型可以设置 baseurl 吗？",

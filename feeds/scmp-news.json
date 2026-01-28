@@ -6,6 +6,14 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/world/united-states-canada/article/3341596/us-federal-reserve-holds-interest-rates-steady-defying-trump-pressure?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3341596/us-federal-reserve-holds-interest-rates-steady-defying-trump-pressure?utm_source=rss_feed",
+      "title": "US Federal Reserve holds interest rates steady, defying Trump pressure",
+      "content_html": "The US Federal Reserve held interest rates steady on Wednesday at its first policy gathering this year, citing robust economic growth, as the central bank resists President US Donald Trump’s mounting pressure for cuts.\nThe Fed’s 10-2 vote maintains rates at a range between 3.50 per cent and 3.75 per cent, an outcome that was widely expected as officials await more data on the world’s biggest economy.\nIn a statement on its decision, policymakers flagged that economic activity has been “expanding...",
+      "content_text": "The US Federal Reserve held interest rates steady on Wednesday at its first policy gathering this year, citing robust economic growth, as the central bank resists President US Donald Trump’s mounting pressure for cuts.\nThe Fed’s 10-2 vote maintains rates at a range between 3.50 per cent and 3.75 per cent, an outcome that was widely expected as officials await more data on the world’s biggest economy.\nIn a statement on its decision, policymakers flagged that economic activity has been “expanding...",
+      "date_published": "2026-01-28T19:23:17.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/us/economy-trade-business/article/3341595/us-treasury-chief-bessent-cautions-canada-says-hes-disappointed-eu-india-deal?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/us/economy-trade-business/article/3341595/us-treasury-chief-bessent-cautions-canada-says-hes-disappointed-eu-india-deal?utm_source=rss_feed",
       "title": "US Treasury chief Bessent cautions Canada, says he’s disappointed by EU-India deal",

@@ -6,6 +6,142 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "67dd4ba7-d601-491a-a7a5-3f4f7ce55e08",
+      "url": "https://www.smh.com.au/business/the-economy/federal-reserve-keeps-rates-on-hold-despite-trump-push-20260129-p5nxut.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Federal Reserve keeps rates on hold despite Trump pressure",
+      "content_html": "Two officials with strong ties to Trump voted to cut rates, but the central bank stayed on hold. Chair Jerome Powell will speak at 6.30am AEDT.",
+      "content_text": "Two officials with strong ties to Trump voted to cut rates, but the central bank stayed on hold. Chair Jerome Powell will speak at 6.30am AEDT.",
+      "date_published": "2026-01-28T19:21:09.000Z"
+    },
+    {
+      "id": "f1e27e53-8c45-48d0-9cd1-db03089505f2",
+      "url": "https://www.smh.com.au/environment/weather/national-weather-forecast-for-thursday-january-28-20260129-p5nxup.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "National weather forecast for Thursday January 28",
+      "content_html": "National weather forecast for Thursday January 28.",
+      "content_text": "National weather forecast for Thursday January 28.",
+      "date_published": "2026-01-28T19:05:03.000Z"
+    },
+    {
+      "id": "ebb1b6d2-f8ae-4bff-a14c-740371fb86f6",
+      "url": "https://www.smh.com.au/world/trump-threatens-major-attack-on-iran-20260129-p5nxun.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Trump threatens major attack on Iran",
+      "content_html": "Donald Trump has sent a huge naval force to Iran, warning the country must make a nuclear deal.",
+      "content_text": "Donald Trump has sent a huge naval force to Iran, warning the country must make a nuclear deal.",
+      "date_published": "2026-01-28T19:04:59.000Z"
+    },
+    {
+      "id": "5eef157d-ad48-495d-9469-58cca97258d1",
+      "url": "https://www.smh.com.au/national/search-for-armed-thieves-who-broke-into-gold-coast-home-20260129-p5nxuo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Search for armed thieves who broke into Gold Coast home",
+      "content_html": "Security camera footage shows thieves, including one armed with a pistol, attempting to break into a Gold Coast home.",
+      "content_text": "Security camera footage shows thieves, including one armed with a pistol, attempting to break into a Gold Coast home.",
+      "date_published": "2026-01-28T19:04:13.000Z"
+    },
+    {
+      "id": "83279824-4461-49fc-83f7-6cb2215c04f9",
+      "url": "https://www.smh.com.au/national/gold-coast-apartment-complex-fire-20260129-p5nxum.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Gold Coast apartment complex fire",
+      "content_html": "Up to 100 residents have been evacuated after an overnight apartment fire on the Gold Coast.",
+      "content_text": "Up to 100 residents have been evacuated after an overnight apartment fire on the Gold Coast.",
+      "date_published": "2026-01-28T19:04:04.000Z"
+    },
+    {
+      "id": "7dc520e3-729d-4985-9279-97bb10a7462e",
+      "url": "https://www.smh.com.au/business/markets/asx-set-for-flat-start-wall-street-steady-ahead-of-fed-decision-20260129-p5nxu7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "ASX set for flat start, Wall Street steady as Fed keeps rates on hold",
+      "content_html": "The US stock market is drifting around its all-time high on Wednesday, while the US dollar’s value stabilises against other currencies after falling to its lowest level in nearly four years.",
+      "content_text": "The US stock market is drifting around its all-time high on Wednesday, while the US dollar’s value stabilises against other currencies after falling to its lowest level in nearly four years.",
+      "date_published": "2026-01-28T19:03:06.000Z"
+    },
+    {
+      "id": "2b883897-a978-46f6-920a-8a82c8839477",
+      "url": "https://www.smh.com.au/national/queensland/top-brisbane-girls-school-joins-push-to-secure-more-students-and-future-fees-20260128-p5nxkf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Top Brisbane girls school joins push to secure more students – and future fees",
+      "content_html": "A new $30 million junior campus extends the elite school’s footprint and reach to families looking to secure a place.",
+      "content_text": "A new $30 million junior campus extends the elite school’s footprint and reach to families looking to secure a place.",
+      "date_published": "2026-01-28T19:00:00.000Z"
+    },
+    {
+      "id": "3cd86437-6b0e-4d76-b6ea-17d94d66d0c1",
+      "url": "https://www.smh.com.au/national/queensland/the-mystery-behind-a-huge-spike-in-brisbane-plaque-thefts-20260121-p5nvv6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The mystery behind a huge spike in Brisbane plaque thefts",
+      "content_html": "Historical Brisbane plaques are going missing at an alarming rate, with fears the markers are being sold on the black market for scrap.",
+      "content_text": "Historical Brisbane plaques are going missing at an alarming rate, with fears the markers are being sold on the black market for scrap.",
+      "date_published": "2026-01-28T19:00:00.000Z"
+    },
+    {
+      "id": "24091b87-97c5-4945-85b6-3c899f379f61",
+      "url": "https://www.smh.com.au/national/victorias-bushfire-emergency-slightly-eases-20260129-p5nxul.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Victoria's bushfire emergency slightly eases",
+      "content_html": "Victoria's bushfire disaster has slightly eased, with the Otways blaze in the state's south-west downgraded to a watch and act.",
+      "content_text": "Victoria's bushfire disaster has slightly eased, with the Otways blaze in the state's south-west downgraded to a watch and act.",
+      "date_published": "2026-01-28T18:57:34.000Z"
+    },
+    {
+      "id": "ee4748cc-8f58-4f1d-9579-9767b3d9800a",
+      "url": "https://www.smh.com.au/national/man-arrested-over-death-in-victoria-20260129-p5nxuk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man arrested over death in Victoria",
+      "content_html": "A homeless man has been arrested after a woman was found dead on a beach in Geelong.",
+      "content_text": "A homeless man has been arrested after a woman was found dead on a beach in Geelong.",
+      "date_published": "2026-01-28T18:57:10.000Z"
+    },
+    {
+      "id": "362ec223-868a-4c90-be12-e020d3576502",
+      "url": "https://www.smh.com.au/world/north-america/time-is-running-out-trump-says-massive-us-armada-is-ready-to-strike-iran-20260129-p5nxu5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Time is running out’: Trump says massive US armada is ready to strike Iran",
+      "content_html": "A strike group led by the USS Abraham Lincoln aircraft carrier has arrived in the Middle East. It was ready to act “with speed and violence if necessary”, the US president warned.",
+      "content_text": "A strike group led by the USS Abraham Lincoln aircraft carrier has arrived in the Middle East. It was ready to act “with speed and violence if necessary”, the US president warned.",
+      "date_published": "2026-01-28T18:35:49.000Z"
+    },
+    {
+      "id": "830c1854-02fd-45ee-af59-53c5741d1167",
+      "url": "https://www.smh.com.au/culture/art-and-design/how-the-battle-for-sydney-s-hollywood-north-has-stepped-up-20260127-p5nx89.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How the battle for Sydney’s ‘Hollywood north’ has stepped up",
+      "content_html": "The $259 million film and entertainment precinct pitch is competing with three other studio projects in the running for a big slice of government funding.",
+      "content_text": "The $259 million film and entertainment precinct pitch is competing with three other studio projects in the running for a big slice of government funding.",
+      "date_published": "2026-01-28T18:33:00.000Z"
+    },
+    {
+      "id": "22696080-472e-4554-9603-3404212f4322",
+      "url": "https://www.smh.com.au/sport/soccer/from-nrl-wooden-spooners-to-title-contenders-former-wests-tigers-bosses-crack-a-new-code-20260128-p5nxnh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "From NRL wooden spooners to title contenders: Former Wests Tigers bosses crack a new code",
+      "content_html": "They were much maligned and ultimately sacked by the Tigers. But now Lee Hagipantelis and Justin Pascoe are kicking goals with a new venture.",
+      "content_text": "They were much maligned and ultimately sacked by the Tigers. But now Lee Hagipantelis and Justin Pascoe are kicking goals with a new venture.",
+      "date_published": "2026-01-28T18:30:00.000Z"
+    },
+    {
+      "id": "39942b7a-606d-4691-a023-55b841a2443c",
+      "url": "https://www.smh.com.au/culture/tv-and-radio/this-england-kenneth-bragh-boris-johnson-politicians-20260125-p5nwu5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Playing a politician? You need more than a good wig",
+      "content_html": "Like all the greats before him, Kenneth Branagh goes beyond mimicry as Boris Johnson in this pandemic-era series.",
+      "content_text": "Like all the greats before him, Kenneth Branagh goes beyond mimicry as Boris Johnson in this pandemic-era series.",
+      "date_published": "2026-01-28T18:30:00.000Z"
+    },
+    {
+      "id": "f84e1e42-0a45-403e-9136-551c3e0e4b29",
+      "url": "https://www.smh.com.au/culture/tv-and-radio/excel-world-championship-spreadsheet-champions-documentary-20260122-p5nwcu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The ‘weird, wonderful’ competition that sent this Aussie around the world",
+      "content_html": "Melbourne filmmaker Kristina Kraskov wants to put Microsoft Excel nerds on the map.",
+      "content_text": "Melbourne filmmaker Kristina Kraskov wants to put Microsoft Excel nerds on the map.",
+      "date_published": "2026-01-28T18:30:00.000Z"
+    },
+    {
+      "id": "528f7eec-f1a7-4428-8a98-eca2850d60fb",
+      "url": "https://www.smh.com.au/culture/tv-and-radio/married-at-first-sight-experts-new-season-wall-punch-20260120-p5nvej.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Do you regret any matches? MAFS experts reflect on last year’s big controversy",
+      "content_html": "John Aiken and Alessandra Rampolla tell all ahead of a new season of the hit reality show.",
+      "content_text": "John Aiken and Alessandra Rampolla tell all ahead of a new season of the hit reality show.",
+      "date_published": "2026-01-28T18:30:00.000Z"
+    },
+    {
+      "id": "2b0e9daa-35d0-4e99-b316-44021c63beaf",
+      "url": "https://www.smh.com.au/culture/tv-and-radio/dog-park-abc-celia-pacquola-interview-leon-ford-20260120-p5nvei.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "This new ABC show is Celia Pacquola’s dream gig (just don’t ask about Bluey)",
+      "content_html": "“I wasn’t even asked to audition. I asked to audition … I don’t know if I manifested it, but if I did, good on me.”",
+      "content_text": "“I wasn’t even asked to audition. I asked to audition … I don’t know if I manifested it, but if I did, good on me.”",
+      "date_published": "2026-01-28T18:30:00.000Z"
+    },
+    {
       "id": "060cc33c-bfaa-4a86-af18-071bdc6bcc8b",
       "url": "https://www.smh.com.au/national/is-ralph-lauren-s-era-at-australian-open-over-20260128-p5nxqv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Is Ralph Lauren’s era at Australian Open over?",
