@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "42f7b24a-b578-410e-88b9-33a7086e106d",
+      "url": "https://www.smh.com.au/national/nsw/two-huge-ships-are-floating-off-the-coast-of-sydney-this-is-what-they-re-doing-20260128-p5nxlr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Two huge ships are floating off the coast of Sydney. This is what they’re doing",
+      "content_html": "One of the ships will be gone within 24 hours. What they leave behind could be vital for Australia’s future.",
+      "content_text": "One of the ships will be gone within 24 hours. What they leave behind could be vital for Australia’s future.",
+      "date_published": "2026-01-28T04:30:00.000Z"
+    },
+    {
+      "id": "72dfdf05-b763-4d62-b9da-5c66429267c7",
+      "url": "https://www.smh.com.au/culture/movies/it-s-classified-the-valuable-lesson-rose-byrne-has-learnt-on-her-shock-oscars-journey-20260128-p5nxln.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘It’s classified’: The valuable lesson Rose Byrne has learnt on her shock Oscars journey",
+      "content_html": "Rose Byrne talks about how it feels to have landed her first Oscar nomination … and to have said too much.",
+      "content_text": "Rose Byrne talks about how it feels to have landed her first Oscar nomination … and to have said too much.",
+      "date_published": "2026-01-28T04:30:00.000Z"
+    },
+    {
+      "id": "eec867f3-4cc7-4992-9b22-c83b4b93380a",
+      "url": "https://www.smh.com.au/sport/tennis/shriver-files-complaint-against-tennis-coach-who-was-engaged-to-teen-player-20260128-p5nxlu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Shriver files complaint against tennis coach who was engaged to teen player",
+      "content_html": "Tennis great Pam Shriver has reportedly put in a complaint to the governing body of women’s tennis about the past behaviour of controversial tennis coach Rafael Font de Mora, who was back at the Australian Open this year.",
+      "content_text": "Tennis great Pam Shriver has reportedly put in a complaint to the governing body of women’s tennis about the past behaviour of controversial tennis coach Rafael Font de Mora, who was back at the Australian Open this year.",
+      "date_published": "2026-01-28T04:29:54.000Z"
+    },
+    {
       "id": "2f9eb0d6-e9d6-4413-96de-9201bd17918f",
       "url": "https://www.smh.com.au/sport/tennis/pegula-advances-to-semi-finals-20260128-p5nxqs.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Pegula advances to semi finals",
