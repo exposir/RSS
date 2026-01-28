@@ -51,6 +51,7 @@
 | 财新最新           | https://exposir.github.io/RSS/feeds/caixin-latest.json       | https://expo-rsshub.zeabur.app/caixin/latest                                  | ⏳ 待验证 |
 | Elon Musk          | https://exposir.github.io/RSS/feeds/elon-musk.json           | https://expo-rsshub.zeabur.app/twitter/user/elonmusk                          | ⏳ 待验证 |
 | Elon Musk (无回复) | https://exposir.github.io/RSS/feeds/elon-musk-noreplies.json | https://expo-rsshub.zeabur.app/twitter/user/elonmusk/includeReplies=0         | ⏳ 待验证 |
+| Donald Trump       | https://exposir.github.io/RSS/feeds/trump.json               | https://expo-rsshub.zeabur.app/twitter/user/realDonaldTrump                   | ⏳ 待验证 |
 
 ## 状态说明
 

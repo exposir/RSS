@@ -189,3 +189,7 @@ feeds:
   - name: Elon Musk (无回复)
     url: https://expo-rsshub.zeabur.app/twitter/user/elonmusk/includeReplies=0
     output: feeds/elon-musk-noreplies.json
+
+  - name: Donald Trump
+    url: https://expo-rsshub.zeabur.app/twitter/user/realDonaldTrump
+    output: feeds/trump.json
