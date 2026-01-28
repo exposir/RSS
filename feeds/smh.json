@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "ae9a3269-ee16-43a1-b080-f681902e6ecc",
+      "url": "https://www.smh.com.au/culture/tv-and-radio/lord-of-the-flies-official-trailer-20260129-p5nxw7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Lord of the Flies official trailer",
+      "content_html": "Watch the official trailer for Lord of the Flies, premiering February 8 only on Stan.",
+      "content_text": "Watch the official trailer for Lord of the Flies, premiering February 8 only on Stan.",
+      "date_published": "2026-01-28T21:52:37.000Z"
+    },
+    {
       "id": "ddeb86c7-350a-42d0-a62f-1a572d50724e",
       "url": "https://www.smh.com.au/sport/golf/liv-golf-hit-hard-as-another-major-winner-jumps-ship-20260129-p5nxvi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "LIV Golf hit hard as another major winner jumps ship",
