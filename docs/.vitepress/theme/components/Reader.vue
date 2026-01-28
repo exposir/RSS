@@ -104,7 +104,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, watch } from 'vue'
+import { ref, computed, watch, onMounted } from 'vue'
 import { useFeeds } from '../composables/useFeeds'
 import type { Article } from '../composables/useFeeds'
 import FeedList from './FeedList.vue'
