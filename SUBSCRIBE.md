@@ -55,6 +55,7 @@
 | 微博热搜           | https://exposir.github.io/RSS/feeds/weibo-hot.json           | https://expo-rsshub.zeabur.app/weibo/search/hot                               | ⏳ 待验证 |
 | 草榴技术讨论       | https://exposir.github.io/RSS/feeds/t66y.json                | https://expo-rsshub.zeabur.app/t66y/20/2                                      | ⏳ 待验证 |
 | YouTube趋势        | https://exposir.github.io/RSS/feeds/youtube-trending.json    | https://expo-rsshub.zeabur.app/youtube/charts/TrendingVideos                  | ⏳ 待验证 |
+| 知乎热榜           | https://exposir.github.io/RSS/feeds/zhihu-hot.json           | https://expo-rsshub.zeabur.app/zhihu/hot                                      | ⏳ 待验证 |
 
 ## 状态说明
 

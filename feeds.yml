@@ -205,3 +205,7 @@ feeds:
   - name: YouTube趋势
     url: https://expo-rsshub.zeabur.app/youtube/charts/TrendingVideos
     output: feeds/youtube-trending.json
+
+  - name: 知乎热榜
+    url: https://expo-rsshub.zeabur.app/zhihu/hot
+    output: feeds/zhihu-hot.json
