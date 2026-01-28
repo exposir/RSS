@@ -20,23 +20,38 @@
       <!-- 中间：文章标题列表 -->
       <div class="article-list-panel">
         <div class="panel-header">
-          <h2 class="panel-title">{{ selectedFeedName }}</h2>
-          <button
-            v-if="isLoading"
-            class="loading-indicator"
-            @click="handleRefresh"
-            title="点击重新加载"
-          >
-            🔄 加载中 ({{ loadedCount }}/{{ feedIndex.length }})
-          </button>
-          <button
-            v-else
-            class="refresh-btn"
-            @click="handleRefresh"
-            title="重新加载所有订阅源"
-          >
-            🔄 刷新
-          </button>
+          <div class="header-top">
+            <h2 class="panel-title">{{ selectedFeedName }}</h2>
+            <div class="header-actions">
+              <button
+                v-if="isLoading"
+                class="loading-indicator"
+                @click="handleRefresh"
+                title="点击重新加载"
+              >
+                🔄 加载中 ({{ loadedCount }}/{{ feedIndex.length }})
+              </button>
+              <button
+                v-else
+                class="refresh-btn"
+                @click="handleRefresh"
+                title="重新加载所有订阅源"
+              >
+                🔄 刷新
+              </button>
+            </div>
+          </div>
+
+          <div class="search-bar">
+            <span class="search-icon">🔍</span>
+            <input
+              v-model="searchQuery"
+              type="text"
+              placeholder="搜索文章标题或来源..."
+              class="search-input"
+            />
+            <button v-if="searchQuery" @click="searchQuery = ''" class="clear-search" title="清空搜索">✕</button>
+          </div>
         </div>
 
         <div v-if="filteredArticles.length === 0 && !isLoading" class="empty-hint">
@@ -108,6 +123,7 @@ const {
 
 const selectedFeed = ref('all')
 const selectedArticle = ref<Article | null>(null)
+const searchQuery = ref('')
 
 // 监听 selectedFeed 变化，调试用
 watch(selectedFeed, (newVal, oldVal) => {
@@ -117,6 +133,8 @@ watch(selectedFeed, (newVal, oldVal) => {
 
   // 切换订阅源时重置选中文章
   selectedArticle.value = null
+  // 切换订阅源时也可以选择是否重置搜索，这里暂不重置，方便在不同源下搜同一个词
+  // searchQuery.value = ''
 })
 
 const selectedFeedName = computed(() => {
@@ -205,8 +223,18 @@ const filteredArticles = computed(() => {
     })))
   }
 
+  // 搜索过滤
+  let result = articles
+  if (searchQuery.value.trim()) {
+    const query = searchQuery.value.toLowerCase().trim()
+    result = result.filter(article =>
+      article.title.toLowerCase().includes(query) ||
+      article.source.toLowerCase().includes(query)
+    )
+  }
+
   // 按日期倒序排列
-  return articles.sort((a, b) =>
+  return result.sort((a, b) =>
     new Date(b.date_published).getTime() - new Date(a.date_published).getTime()
   )
 })
@@ -321,6 +349,12 @@ async function handleRefresh() {
   border-bottom: 1px solid var(--vp-c-divider);
   flex-shrink: 0;
   display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.header-top {
+  display: flex;
   align-items: center;
   justify-content: space-between;
 }
@@ -336,6 +370,62 @@ async function handleRefresh() {
   font-size: 0.85rem;
   color: var(--vp-c-text-3);
   margin: 0;
+}
+
+/* 搜索框样式 */
+.search-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.4rem 2rem 0.4rem 2rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  background: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-1);
+  font-size: 0.9rem;
+  transition: all 0.2s;
+  -webkit-appearance: none; /* 移除 iOS 默认样式 */
+}
+
+.search-input:focus {
+  border-color: var(--vp-c-brand);
+  background: var(--vp-c-bg);
+  outline: none;
+}
+
+.search-icon {
+  position: absolute;
+  left: 0.6rem;
+  font-size: 0.9rem;
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.clear-search {
+  position: absolute;
+  right: 0.5rem;
+  background: transparent;
+  border: none;
+  color: var(--vp-c-text-3);
+  cursor: pointer;
+  font-size: 0.8rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.2s;
+}
+
+.clear-search:hover {
+  background: var(--vp-c-bg-mute);
+  color: var(--vp-c-text-1);
 }
 
 .loading-indicator {
