@@ -285,3 +285,23 @@ feeds:
   - name: 财联社热门
     url: https://expo-rsshub.zeabur.app/cls/hot
     output: feeds/cls-hot.json
+
+  - name: WSJ世界新闻
+    url: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+    output: feeds/wsj-world-news.json
+
+  - name: WSJ美国商业
+    url: https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml
+    output: feeds/wsj-us-business.json
+
+  - name: WSJ市场动态
+    url: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+    output: feeds/wsj-markets.json
+
+  - name: WSJ科技频道
+    url: https://feeds.a.dj.com/rss/RSSWSJD.xml
+    output: feeds/wsj-tech.json
+
+  - name: WSJ中文
+    url: https://expo-rsshub.zeabur.app/wsj/zh-cn/chinese
+    output: feeds/wsj-chinese.json

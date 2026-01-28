@@ -75,6 +75,11 @@
 | 财联社电报红       | https://exposir.github.io/RSS/feeds/cls-telegraph-red.json   | https://expo-rsshub.zeabur.app/cls/telegraph/red                              | ⏳ 待验证 |
 | 财联社电报看       | https://exposir.github.io/RSS/feeds/cls-telegraph-watch.json | https://expo-rsshub.zeabur.app/cls/telegraph/watch                            | ⏳ 待验证 |
 | 财联社热门         | https://exposir.github.io/RSS/feeds/cls-hot.json             | https://expo-rsshub.zeabur.app/cls/hot                                        | ⏳ 待验证 |
+| WSJ世界新闻        | https://exposir.github.io/RSS/feeds/wsj-world-news.json      | https://feeds.a.dj.com/rss/RSSWorldNews.xml                                   | ⏳ 待验证 |
+| WSJ美国商业        | https://exposir.github.io/RSS/feeds/wsj-us-business.json     | https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml                               | ⏳ 待验证 |
+| WSJ市场动态        | https://exposir.github.io/RSS/feeds/wsj-markets.json         | https://feeds.a.dj.com/rss/RSSMarketsMain.xml                                 | ⏳ 待验证 |
+| WSJ科技频道        | https://exposir.github.io/RSS/feeds/wsj-tech.json            | https://feeds.a.dj.com/rss/RSSWSJD.xml                                        | ⏳ 待验证 |
+| WSJ中文            | https://exposir.github.io/RSS/feeds/wsj-chinese.json         | https://expo-rsshub.zeabur.app/wsj/zh-cn/chinese                              | ⏳ 待验证 |
 
 ## 状态说明
 
