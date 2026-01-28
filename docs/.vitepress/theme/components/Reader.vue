@@ -429,9 +429,9 @@ async function handleRefresh() {
 .article-item-title :deep(span[lang]) {
   display: block;
   margin-top: 0; /* 移除额外的顶部间距 */
-  font-size: 0.9em; /* 稍微调小翻译字体 */
-  opacity: 0.9;
-  line-height: 1.3;
+  font-size: 1em; /* 保持与原文一致的字号 */
+  opacity: 1; /* 保持不透明，提高清晰度 */
+  line-height: 1.4;
 }
 
 /* 隐藏翻译插件可能注入的 br 标签，防止产生过大间距 */
