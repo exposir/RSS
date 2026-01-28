@@ -6,6 +6,14 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "WP-WSJO-0000245849",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-e1af553b",
+      "title": "Pepper&#x2026;and Salt",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T05:00:00.000Z"
+    },
+    {
       "id": "WP-WSJO-0000245604",
       "url": "https://www.wsj.com/opinion/when-will-democrats-regret-their-affordability-pose-f1ecc188",
       "title": "When Will Democrats Regret Their Affordability Pose?",
