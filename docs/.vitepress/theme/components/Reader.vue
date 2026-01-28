@@ -79,6 +79,9 @@ const selectedFeedName = computed(() => {
 })
 
 const filteredArticles = computed(() => {
+  // 强制追踪 feeds Map 的变化
+  const feedsSize = feeds.value.size
+
   if (selectedFeed.value === 'all') {
     return getAllArticles()
   }
