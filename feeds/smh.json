@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "aa16fc2b-52c6-4df5-828e-588c622373bd",
+      "url": "https://www.smh.com.au/lifestyle/why-photos-of-prince-harry-and-meghan-at-kris-jenners-party-were-deleted-20260129-p5nxuz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Why photos of Prince Harry and Meghan at Kris Jenner's party were deleted",
+      "content_html": "Khloé and Kim Kardashian lift the lid on why photos of Prince Harry and Meghan were deleted after Kris Jenner's 70th birthday party.",
+      "content_text": "Khloé and Kim Kardashian lift the lid on why photos of Prince Harry and Meghan were deleted after Kris Jenner's 70th birthday party.",
+      "date_published": "2026-01-28T19:51:28.000Z"
+    },
+    {
+      "id": "6db6c2cb-3c70-4941-8150-e52a21fefd53",
+      "url": "https://www.smh.com.au/national/australia-news-live-minister-warns-morrison-and-bragg-s-islam-remarks-risk-inflaming-division-ley-s-rivals-to-meet-today-in-melbourne-20260129-p5nxur.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australia news LIVE: Minister warns Morrison and Bragg’s Islam remarks risk inflaming division; Ley’s rivals to meet today in Melbourne",
+      "content_html": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+      "content_text": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+      "date_published": "2026-01-28T19:46:19.000Z"
+    },
+    {
       "id": "67dd4ba7-d601-491a-a7a5-3f4f7ce55e08",
       "url": "https://www.smh.com.au/business/the-economy/federal-reserve-keeps-rates-on-hold-despite-trump-push-20260129-p5nxut.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Federal Reserve keeps rates on hold despite Trump pressure",

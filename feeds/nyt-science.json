@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/climate/netherlands-bonaire-climate-ruling.html",
+      "url": "https://www.nytimes.com/2026/01/28/climate/netherlands-bonaire-climate-ruling.html",
+      "title": "Dutch Court Orders Netherlands to Protect Bonaire From Climate Change",
+      "content_html": "Bonaire, a Dutch overseas territory, deserves the same protections as Europe, the ruling said. The decision adds to a growing body of precedent worldwide.",
+      "content_text": "Bonaire, a Dutch overseas territory, deserves the same protections as Europe, the ruling said. The decision adds to a growing body of precedent worldwide.",
+      "date_published": "2026-01-28T19:49:22.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/health/texas-lawsuit-delaware-abortion-pills.html",
       "url": "https://www.nytimes.com/2026/01/28/health/texas-lawsuit-delaware-abortion-pills.html",
       "title": "Texas Sues Delaware Nurse Practitioner for Mailing Abortion Pills to the State",

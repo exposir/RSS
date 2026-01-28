@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c1dk2vp27d0o#3",
+      "url": "https://www.bbc.com/news/articles/c1dk2vp27d0o?at_medium=RSS&at_campaign=rss",
+      "title": "Campaigners upset over errors in learning disability deaths report",
+      "content_html": "A review had found that 39% of deaths with a known cause had been avoidable. The figure has now been revised to 40%.",
+      "content_text": "A review had found that 39% of deaths with a known cause had been avoidable. The figure has now been revised to 40%.",
+      "date_published": "2026-01-28T19:47:42.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cy8p2lk5x5ro#3",
       "url": "https://www.bbc.com/news/articles/cy8p2lk5x5ro?at_medium=RSS&at_campaign=rss",
       "title": "Cricketers banned as university club suspended over initiation",
