@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "3d5981de-e310-4352-acc8-0a39af395624",
+      "url": "https://www.smh.com.au/national/police-officer-allegedly-bitten-at-adelaide-kfc-20260129-p5nxwr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Police officer allegedly bitten at Adelaide KFC",
+      "content_html": "A police officer was allegedly punched in the face and bitten on the ear while confronting a person at an Adelaide KFC.",
+      "content_text": "A police officer was allegedly punched in the face and bitten on the ear while confronting a person at an Adelaide KFC.",
+      "date_published": "2026-01-28T22:31:48.000Z"
+    },
+    {
+      "id": "08ac69a0-7710-4407-8064-75da3e0387b4",
+      "url": "https://www.smh.com.au/world/ilhan-omar-sprayed-with-unknown-substance-20260129-p5nxwl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Ilhan Omar sprayed with unknown substance",
+      "content_html": "A protester has sprayed Democratic Congresswoman Ilhan Omar with an unknown substance at an event in Minneapolis.",
+      "content_text": "A protester has sprayed Democratic Congresswoman Ilhan Omar with an unknown substance at an event in Minneapolis.",
+      "date_published": "2026-01-28T22:21:12.000Z"
+    },
+    {
       "id": "ae9a3269-ee16-43a1-b080-f681902e6ecc",
       "url": "https://www.smh.com.au/culture/tv-and-radio/lord-of-the-flies-official-trailer-20260129-p5nxw7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Lord of the Flies official trailer",

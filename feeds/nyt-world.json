@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/americas/colombian-plane-politicians-missing.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/americas/colombian-plane-politicians-missing.html",
+      "title": "Plane Carrying Colombian Politicians Crashes in Area Contested by Rebels",
+      "content_html": "The aircraft was carrying 15 people, and the authorities said there were no survivors.",
+      "content_text": "The aircraft was carrying 15 people, and the authorities said there were no survivors.",
+      "date_published": "2026-01-28T22:39:20.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/middleeast/hillary-clinton-tucker-carlson-riyadh.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/middleeast/hillary-clinton-tucker-carlson-riyadh.html",
+      "title": "Hillary Clinton and Tucker Carlson Speak at Saudi Business Forum",
+      "content_html": "The Democrat and the hard-right commentator found at least one thing to agree upon as they spoke at a conference in Riyadh.",
+      "content_text": "The Democrat and the hard-right commentator found at least one thing to agree upon as they spoke at a conference in Riyadh.",
+      "date_published": "2026-01-28T22:26:42.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/canada-tariffs-trump-iran-threats.html",
       "url": "https://www.nytimes.com/2026/01/28/world/canada-tariffs-trump-iran-threats.html",
       "title": "Canada’s New Reality",

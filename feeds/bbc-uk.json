@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o#7",
+      "url": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch Benfica keeper score stoppage-time goal against Real Madrid",
+      "content_html": "Goalkeeper Anatoliy Trubin scores in the 98th minute to give Benfica a 4-2 win over Real Madrid - a goal which also secured Jose Mourinho's side a place in the last 16 play-offs of the Champions League on goal difference.",
+      "content_text": "Goalkeeper Anatoliy Trubin scores in the 98th minute to give Benfica a 4-2 win over Real Madrid - a goal which also secured Jose Mourinho's side a place in the last 16 play-offs of the Champions League on goal difference.",
+      "date_published": "2026-01-28T22:22:55.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c205yl3kvzmo#0",
+      "url": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss",
+      "title": "At least five killed after Storm Kristin hits Portugal",
+      "content_html": "The storm toppled trees, damaged homes and left more than 800,000 people without power.",
+      "content_text": "The storm toppled trees, damaged homes and left more than 800,000 people without power.",
+      "date_published": "2026-01-28T22:16:01.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvgnq54v79xo#0",
+      "url": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
+      "title": "Colombia launches search for missing plane carrying 15 people",
+      "content_html": "Contact with the aircraft was lost just minutes before it was due to land in northern Colombia, state airline Satena says.",
+      "content_text": "Contact with the aircraft was lost just minutes before it was due to land in northern Colombia, state airline Satena says.",
+      "date_published": "2026-01-28T21:54:32.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c1evy87qd1no#1",
       "url": "https://www.bbc.com/news/articles/c1evy87qd1no?at_medium=RSS&at_campaign=rss",
       "title": "During heated hearing, Rubio insists US action in Venezuela will lead to prosperity and security",
@@ -172,6 +196,14 @@
       "content_html": "It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.",
       "content_text": "It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.",
       "date_published": "2026-01-28T16:03:22.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/videos/c04120yqdq5o#3",
+      "url": "https://www.bbc.com/news/videos/c04120yqdq5o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Moment BA plane to London loses wheel after take-off in Vegas",
+      "content_html": "Dramatic footage shows wheel falling off a British Airways aircraft shortly after take-off from Harry Reid International airport.",
+      "content_text": "Dramatic footage shows wheel falling off a British Airways aircraft shortly after take-off from Harry Reid International airport.",
+      "date_published": "2026-01-28T16:00:39.000Z"
     },
     {
       "id": "https://www.bbc.com/news/videos/c04120yqdq5o#0",

@@ -6,6 +6,30 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3087517",
+      "url": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
+      "title": "Microsoft gained $7.6 billion from OpenAI last quarter",
+      "content_html": "Microsoft, one of OpenAI's major investors, is benefiting greatly from the AI lab's growth.",
+      "content_text": "Microsoft, one of OpenAI's major investors, is benefiting greatly from the AI lab's growth.",
+      "date_published": "2026-01-28T22:47:24.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087635",
+      "url": "https://techcrunch.com/2026/01/28/tesla-is-killing-off-the-model-s-and-model-x/",
+      "title": "Tesla is killing off the Model S and Model X",
+      "content_html": "The company will stop making the pioneering EVs in the second quarter of 2026, CEO Elon Musk announced Wednesday.",
+      "content_text": "The company will stop making the pioneering EVs in the second quarter of 2026, CEO Elon Musk announced Wednesday.",
+      "date_published": "2026-01-28T22:40:53.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087229",
+      "url": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
+      "title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’",
+      "content_html": "Take Zuckerberg's outlook with a grain of salt. After all, he thought we'd all be hanging out in the metaverse by now.",
+      "content_text": "Take Zuckerberg's outlook with a grain of salt. After all, he thought we'd all be hanging out in the metaverse by now.",
+      "date_published": "2026-01-28T22:31:20.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087539",
       "url": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
       "title": "Tesla invested $2B in Elon Musk&#8217;s xAI",
