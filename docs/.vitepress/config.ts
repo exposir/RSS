@@ -6,6 +6,7 @@ export default defineConfig({
   base: '/RSS/',
   outDir: '../dist',
   cleanUrls: true,
+  appearance: true, // 启用自动暗色模式（跟随系统）
 
   themeConfig: {
     nav: [
