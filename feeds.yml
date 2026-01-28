@@ -213,3 +213,7 @@ feeds:
   - name: Pornhub中文
     url: https://expo-rsshub.zeabur.app/pornhub/category/chinese
     output: feeds/pornhub-chinese.json
+
+  - name: Pornhub国产
+    url: https://expo-rsshub.zeabur.app/pornhub/search/%E5%9B%BD%E4%BA%A7
+    output: feeds/pornhub-guochan.json
