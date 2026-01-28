@@ -6,6 +6,14 @@
   "description": "财新网 - 首页 - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.caixin.com/2026-01-28/102408817.html",
+      "url": "https://www.caixin.com/2026-01-28/102408817.html",
+      "title": "月之暗面新模型增强多模态能力 主打智能体功能",
+      "content_html": "<audio src=\"https://audio.caixin.com/caixin/817/5ytV2XXASdZ1jS1rcUHk.mp3\" controls=\"\"></audio><br><blockquote><p>智能体落地应用是大模型公司主战场</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-01-28/176957466918267_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-01-28/176957466918267_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>1月27日，国内头部AI大模型创业公司月之暗面发布并开源K2.5模型，该模型首次支持了视频理解，并强化了在处理智能体、代码、图像和视频等通用任务上的表现。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b>随着AI大模型进入智能体应用下半场，技术竞赛从语言智能转向多模态。1月27日，国内头部AI大模型创业公司月之暗面发布并开源K2.5模型，该模型首次支持了视频理解，并强化了在处理智能体、代码、图像和视频等通用任务上的表现。该模型当日上线了月之暗面的网站、Kimi智能助手App、API调用平台和编程产品Kimi Code。</p>\n<p>　　月之暗面提供的榜单测评成绩显示，在处理智能体任务时新模型得分已经超过了OpenAI、Anthropic和谷歌的最新模型。而代码能力也与OpenAI的GPT-5.2相近，但略逊于业界公认代码能力最强Anthropic的Claude Opus 4.5模型。图像和视频能力也和谷歌的Gemini 3 Pro相近。</p>",
+      "content_text": "智能体落地应用是大模型公司主战场\n    \n     \n     1月27日，国内头部AI大模型创业公司月之暗面发布并开源K2.5模型，该模型首次支持了视频理解，并强化了在处理智能体、代码、图像和视频等通用任务上的表现。图：视觉中国\n    \n   \n       　　【财新网】随着AI大模型进入智能体应用下半场，技术竞赛从语言智能转向多模态。1月27日，国内头部AI大模型创业公司月之暗面发布并开源K2.5模型，该模型首次支持了视频理解，并强化了在处理智能体、代码、图像和视频等通用任务上的表现。该模型当日上线了月之暗面的网站、Kimi智能助手App、API调用平台和编程产品Kimi Code。\n　　月之暗面提供的榜单测评成绩显示，在处理智能体任务时新模型得分已经超过了OpenAI、Anthropic和谷歌的最新模型。而代码能力也与OpenAI的GPT-5.2相近，但略逊于业界公认代码能力最强Anthropic的Claude Opus 4.5模型。图像和视频能力也和谷歌的Gemini 3 Pro相近。",
+      "date_published": "2026-01-28T04:33:41.000Z"
+    },
+    {
       "id": "https://datanews.caixin.com/2026-01-28/102408809.html",
       "url": "https://datanews.caixin.com/2026-01-28/102408809.html",
       "title": "时间线｜大连肉食企业础明20年股东拉锯",

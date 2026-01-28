@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "a8d9c879-12f9-4502-9539-d616aff884db",
+      "url": "https://www.smh.com.au/national/victoria/daylesford-driver-who-killed-five-ordered-to-appear-at-inquest-20260128-p5nxju.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Daylesford driver who killed five ordered to appear at inquest",
+      "content_html": "The driver who crashed into diners outside a Daylesford pub during a medical episode will be compelled to testify at an inquest after trying to avoid it.",
+      "content_text": "The driver who crashed into diners outside a Daylesford pub during a medical episode will be compelled to testify at an inquest after trying to avoid it.",
+      "date_published": "2026-01-28T04:33:15.000Z"
+    },
+    {
       "id": "42f7b24a-b578-410e-88b9-33a7086e106d",
       "url": "https://www.smh.com.au/national/nsw/two-huge-ships-are-floating-off-the-coast-of-sydney-this-is-what-they-re-doing-20260128-p5nxlr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Two huge ships are floating off the coast of Sydney. This is what they’re doing",
