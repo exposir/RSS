@@ -253,3 +253,7 @@ feeds:
   - name: 91porn
     url: https://expo-rsshub.zeabur.app/91porn
     output: feeds/91porn.json
+
+  - name: 晚点LatePost
+    url: https://expo-rsshub.zeabur.app/latepost
+    output: feeds/latepost.json
