@@ -6,6 +6,14 @@
   "description": "虎嗅网RSS订阅",
   "items": [
     {
+      "id": "http://www.huxiu.com/article/4830214.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4830214.html?f=wangzhan",
+      "title": "黄金要涨到5400美元？连续18个月买入，黄金是谁的避险资产？",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/27/210123312803.png\"/>\n<p data-check-id=\"866840\">这个世界真是越来越疯狂了，高盛最新的报告中把黄金的预期价格大幅上调到了5400美元每盎司。那到底是谁开启了这个乱世？黄金涨了跟我们有啥关系？是谁有这么大的本领让黄金说涨就涨？</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "这个世界真是越来越疯狂了，高盛最新的报告中把黄金的预期价格大幅上调到了5400美元每盎司。那到底是谁开启了这个乱世？黄金涨了跟我们有啥关系？是谁有这么大的本领让黄金说涨就涨？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-28T07:30:00.000Z"
+    },
+    {
       "id": "http://www.huxiu.com/article/4830047.html?f=wangzhan",
       "url": "http://www.huxiu.com/article/4830047.html?f=wangzhan",
       "title": "70万亿存款到期，A股充满想象？",

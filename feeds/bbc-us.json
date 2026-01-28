@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/golf/articles/crlepwwdyjwo#7",
+      "url": "https://www.bbc.com/sport/golf/articles/crlepwwdyjwo?at_medium=RSS&at_campaign=rss",
+      "title": "Lack of mixed indoor league 'an unbelievable miss'",
+      "content_html": "World number two Nelly Korda says a mixed gender indoor virtual league \"would have been revolutionary\" following the launch of a women's competition backed by Tiger Woods and Rory McIlroy.",
+      "content_text": "World number two Nelly Korda says a mixed gender indoor virtual league \"would have been revolutionary\" following the launch of a women's competition backed by Tiger Woods and Rory McIlroy.",
+      "date_published": "2026-01-28T08:18:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/crkrpl4ngdzo#0",
+      "url": "https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky condemns Russian drone strike that killed five on passenger train",
+      "content_html": "Drones targeted a packed train in north-eastern Ukraine, officials say.",
+      "content_text": "Drones targeted a packed train in north-eastern Ukraine, officials say.",
+      "date_published": "2026-01-28T08:04:36.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/c4g06vj2zg1o#7",
       "url": "https://www.bbc.com/sport/football/articles/c4g06vj2zg1o?at_medium=RSS&at_campaign=rss",
       "title": "'We don't want to be that team' - how can Newcastle cure travel sickness?",
@@ -84,6 +100,14 @@
       "content_html": "New IPP sentences were scrapped in 2012, but remain in place for around 2,800 people.",
       "content_text": "New IPP sentences were scrapped in 2012, but remain in place for around 2,800 people.",
       "date_published": "2026-01-28T03:51:43.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/crmlpl0w2z2o#0",
+      "url": "https://www.bbc.com/news/articles/crmlpl0w2z2o?at_medium=RSS&at_campaign=rss",
+      "title": "Neil Young offers Greenlanders free access to his archives",
+      "content_html": "Young says he hopes the offer will \"ease some of the unwarranted stress and threats\" Greenlanders feel over Trump's threats to the territory.",
+      "content_text": "Young says he hopes the offer will \"ease some of the unwarranted stress and threats\" Greenlanders feel over Trump's threats to the territory.",
+      "date_published": "2026-01-28T03:34:43.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/crmlpl0w2z2o#3",
@@ -174,12 +198,28 @@
       "date_published": "2026-01-28T00:07:18.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c33827k6elxo#3",
+      "url": "https://www.bbc.com/news/articles/c33827k6elxo?at_medium=RSS&at_campaign=rss",
+      "title": "Vulnerable people missing out on benefits because of online tool",
+      "content_html": "Benefits calculators can leave some people confused and in a dire financial state, say campaigners.",
+      "content_text": "Benefits calculators can leave some people confused and in a dire financial state, say campaigners.",
+      "date_published": "2026-01-28T00:06:29.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c33827k6elxo#0",
       "url": "https://www.bbc.com/news/articles/c33827k6elxo?at_medium=RSS&at_campaign=rss",
       "title": "Vulnerable missing out on benefits due to online tool",
       "content_html": "Benefits calculators can leave some people confused and in a dire financial state, say campaigners.",
       "content_text": "Benefits calculators can leave some people confused and in a dire financial state, say campaigners.",
       "date_published": "2026-01-28T00:06:29.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cr57p2ve8glo#3",
+      "url": "https://www.bbc.com/news/articles/cr57p2ve8glo?at_medium=RSS&at_campaign=rss",
+      "title": "AI boom will produce victors and carnage, tech boss warns",
+      "content_html": "Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.",
+      "content_text": "Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.",
+      "date_published": "2026-01-28T00:01:19.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cr57p2ve8glo#1",
@@ -228,6 +268,14 @@
       "content_html": "Joel Guerriau received a four-year prison sentence, 18 months of which are to be served behind bars.",
       "content_text": "Joel Guerriau received a four-year prison sentence, 18 months of which are to be served behind bars.",
       "date_published": "2026-01-27T22:04:40.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy8p2rjeyveo#3",
+      "url": "https://www.bbc.com/news/articles/cy8p2rjeyveo?at_medium=RSS&at_campaign=rss",
+      "title": "Famous Up Helly Aa festival sets Shetland's skies ablaze",
+      "content_html": "During the event local \"guizers\" throw their torches at a replica of a Viking long ship until it is consumed by flames.",
+      "content_text": "During the event local \"guizers\" throw their torches at a replica of a Viking long ship until it is consumed by flames.",
+      "date_published": "2026-01-27T21:59:40.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cy8p2rjeyveo#1",

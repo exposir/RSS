@@ -6,6 +6,134 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "544b9de0-8be2-48d7-8872-6a7aa950014f",
+      "url": "https://www.smh.com.au/national/tourists-rescued-from-roof-of-car-in-queensland-floods-20260128-p5nxt4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Tourists rescued from roof of car in Queensland floods",
+      "content_html": "Three tourists have found themselves trapped on the roof of a submerged vehicle in Queensland’s north.",
+      "content_text": "Three tourists have found themselves trapped on the roof of a submerged vehicle in Queensland’s north.",
+      "date_published": "2026-01-28T08:36:40.000Z"
+    },
+    {
+      "id": "b26ff7d6-8231-4771-a950-6a32dfbf8968",
+      "url": "https://www.smh.com.au/national/tributes-for-sydney-grandfather-after-plane-crash-20260128-p5nxt5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Tributes for Sydney grandfather after plane crash",
+      "content_html": "Tributes are flowing for a Sydney grandfather who died in a light plane crash in Woongoolba, south of Brisbane.",
+      "content_text": "Tributes are flowing for a Sydney grandfather who died in a light plane crash in Woongoolba, south of Brisbane.",
+      "date_published": "2026-01-28T08:36:26.000Z"
+    },
+    {
+      "id": "133c49ed-1038-46a9-bed8-645f4c759ef4",
+      "url": "https://www.smh.com.au/sport/nrl/why-the-rabbitohs-have-trademarked-random-souths-guy-20260128-p5nxoh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Why the Rabbitohs have trademarked ‘Random Souths Guy’",
+      "content_html": "Random Souths Guy is proof that the best marketing campaigns are born organically. Now the Pride of the League has moved to protect the social phenomenon.",
+      "content_text": "Random Souths Guy is proof that the best marketing campaigns are born organically. Now the Pride of the League has moved to protect the social phenomenon.",
+      "date_published": "2026-01-28T08:30:00.000Z"
+    },
+    {
+      "id": "58da41ca-e1df-47aa-83cd-6c8ba63e1763",
+      "url": "https://www.smh.com.au/world/asia/what-to-know-about-the-deadly-nipah-virus-as-outbreak-hits-india-20260128-p5nxnp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "What to know about the deadly Nipah virus as outbreak hits India",
+      "content_html": "Airports in South-East Asia are on alert after an outbreak of the disease, which has a 40 to 70 per cent fatality rate.",
+      "content_text": "Airports in South-East Asia are on alert after an outbreak of the disease, which has a 40 to 70 per cent fatality rate.",
+      "date_published": "2026-01-28T08:30:00.000Z"
+    },
+    {
+      "id": "62aba456-0726-4dee-9aa1-11665e704c60",
+      "url": "https://www.smh.com.au/business/companies/international-airfares-spiked-by-a-quarter-for-the-holiday-season-20260127-p5nxf7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "International airfares spiked by a quarter for the holiday season",
+      "content_html": "Between November and December last year, international travel prices jumped a whopping a 24.4 per cent in what is an unusually high surge even for the holiday season.",
+      "content_text": "Between November and December last year, international travel prices jumped a whopping a 24.4 per cent in what is an unusually high surge even for the holiday season.",
+      "date_published": "2026-01-28T08:30:00.000Z"
+    },
+    {
+      "id": "4b442a16-3059-47c9-8f1a-3bd47a4dba14",
+      "url": "https://www.smh.com.au/national/nsw/after-the-culture-wars-ruby-and-51-other-girls-start-at-newington-20260121-p5nvw5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "After the culture wars, Ruby and 51 other girls start at Newington",
+      "content_html": "Newington College has welcomed 52 girls this year as it embarks on its transition to co-education.",
+      "content_text": "Newington College has welcomed 52 girls this year as it embarks on its transition to co-education.",
+      "date_published": "2026-01-28T08:30:00.000Z"
+    },
+    {
+      "id": "ff84a938-e3b7-47c5-b528-413e35778df3",
+      "url": "https://www.smh.com.au/national/art-jewellery-worth-400-000-stolen-from-womans-home-20260128-p5nxt0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Art, jewellery worth $400,000 stolen from woman's home",
+      "content_html": "Almost half a million dollars worth of artwork, jewellery and belongings have been stolen from a home in Melbourne's east.",
+      "content_text": "Almost half a million dollars worth of artwork, jewellery and belongings have been stolen from a home in Melbourne's east.",
+      "date_published": "2026-01-28T08:26:17.000Z"
+    },
+    {
+      "id": "3a991574-943d-4a16-8f9b-b7c228fe67ea",
+      "url": "https://www.smh.com.au/national/rise-in-quarterly-inflation-heaps-pressure-on-rba-20260128-p5nxsy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rise in quarterly inflation heaps pressure on RBA",
+      "content_html": "The Reserve Bank is almost certain to hike interest rates when it meets next week following a disappointing spike in inflation.",
+      "content_text": "The Reserve Bank is almost certain to hike interest rates when it meets next week following a disappointing spike in inflation.",
+      "date_published": "2026-01-28T08:22:45.000Z"
+    },
+    {
+      "id": "482a9103-40e9-4a3d-9233-ed41f153248f",
+      "url": "https://www.smh.com.au/national/diabetic-driver-ordered-to-give-evidence-at-inquest-into-crash-20260128-p5nxsw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Diabetic driver ordered to give evidence at inquest into crash",
+      "content_html": "The diabetic driver who crashed into a Daylesford beer garden, killing five people, has been ordered to give evidence at an inquest.",
+      "content_text": "The diabetic driver who crashed into a Daylesford beer garden, killing five people, has been ordered to give evidence at an inquest.",
+      "date_published": "2026-01-28T08:22:06.000Z"
+    },
+    {
+      "id": "6895b973-37ae-499d-ac8d-577d98f9c20b",
+      "url": "https://www.smh.com.au/national/woman-found-dead-at-popular-victorian-beach-20260128-p5nxsx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Woman found dead at popular Victorian beach",
+      "content_html": "Homicide detectives are investigating the death of a woman found at a popular beach south-west of Melbourne.",
+      "content_text": "Homicide detectives are investigating the death of a woman found at a popular beach south-west of Melbourne.",
+      "date_published": "2026-01-28T08:20:51.000Z"
+    },
+    {
+      "id": "1d191239-2fc7-4226-86d3-fdcb38799845",
+      "url": "https://www.smh.com.au/business/companies/killed-the-ability-to-call-000-iphone-update-backfires-on-telstra-users-20260128-p5nxsc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Killed the ability to call 000’: iPhone update backfires on Telstra users",
+      "content_html": "A software update intended to fix a Triple Zero issue has left users of some older iPhones unable to receive or make calls on the country’s largest network.",
+      "content_text": "A software update intended to fix a Triple Zero issue has left users of some older iPhones unable to receive or make calls on the country’s largest network.",
+      "date_published": "2026-01-28T08:20:00.000Z"
+    },
+    {
+      "id": "f803f319-fbd1-4d6d-b31a-18a1ce8f400f",
+      "url": "https://www.smh.com.au/national/couple-held-at-gunpoint-during-violent-home-invasion-20260128-p5nxsv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Couple held at gunpoint during violent home invasion",
+      "content_html": "A couple has described being held at gunpoint in a violent home invasion in Melbourne's south-east.",
+      "content_text": "A couple has described being held at gunpoint in a violent home invasion in Melbourne's south-east.",
+      "date_published": "2026-01-28T08:18:15.000Z"
+    },
+    {
+      "id": "2db51d62-9d87-418e-831f-699d75c8ec1c",
+      "url": "https://www.smh.com.au/national/chinese-officials-searching-for-man-who-attacked-baby-with-hot-coffee-20260128-p5nxsu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Chinese officials searching for man who attacked baby with hot coffee",
+      "content_html": "Chinese officials are being sent to Brisbane in the next steps to find a man who poured hot coffee on a baby more than a year ago.",
+      "content_text": "Chinese officials are being sent to Brisbane in the next steps to find a man who poured hot coffee on a baby more than a year ago.",
+      "date_published": "2026-01-28T08:17:42.000Z"
+    },
+    {
+      "id": "1c92505d-92eb-4d10-b746-c06a4b6813ff",
+      "url": "https://www.smh.com.au/national/amazon-and-harris-farms-team-up-for-essential-grocery-delivery-20260128-p5nxsq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Amazon and Harris Farms team up for essential grocery delivery",
+      "content_html": "Amazon Australia takes first steps in fresh food delivery after teaming up with a major supermarket.",
+      "content_text": "Amazon Australia takes first steps in fresh food delivery after teaming up with a major supermarket.",
+      "date_published": "2026-01-28T08:01:56.000Z"
+    },
+    {
+      "id": "9fbaadf6-dcee-47aa-b67f-8617bf923bf6",
+      "url": "https://www.smh.com.au/politics/victoria/ignorance-and-stupidity-labor-luminary-slams-planned-vichealth-closure-20260128-p5nxqb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Ignorance and stupidity’: Labor luminary slams planned VicHealth closure",
+      "content_html": "The Labor and Liberal figures who secured support for the establishment of the health promotions body have urged the Allan government to abandon plans to scrap it.",
+      "content_text": "The Labor and Liberal figures who secured support for the establishment of the health promotions body have urged the Allan government to abandon plans to scrap it.",
+      "date_published": "2026-01-28T08:00:00.000Z"
+    },
+    {
+      "id": "37d81d0c-a243-43f1-a9eb-0d432564211a",
+      "url": "https://www.smh.com.au/world/middle-east/a-force-for-truth-and-hope-has-turned-into-my-doomscroll-of-death-20260127-p5nxfg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "I thought I was in control of the algorithm. Then came the dreams of blood-soaked streets",
+      "content_html": "Social media has the power to draw us into dark places. That same force sucked me into a doomscroll of violence.",
+      "content_text": "Social media has the power to draw us into dark places. That same force sucked me into a doomscroll of violence.",
+      "date_published": "2026-01-28T08:00:00.000Z"
+    },
+    {
       "id": "9dfb73d4-ec18-49ec-9c59-1d82e62f3f6a",
       "url": "https://www.smh.com.au/national/e-bikes-wreak-havoc-on-sydney-golf-course-20260128-p5nxsp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "E-bikes wreak havoc on Sydney golf course",

@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003288945",
+      "url": "https://www.wsj.com/tech/ai/china-approves-purchases-of-nvidias-h200-chip-easing-tension-with-u-s-daa1ec84",
+      "title": "China Approves Purchases of Nvidia&#x2019;s H200 Chip, Easing Tension With U.S.",
+      "content_html": "Beijing gave the green light to Alibaba and others, but is keeping in place limits intended to encourage purchases of local chips.",
+      "content_text": "Beijing gave the green light to Alibaba and others, but is keeping in place limits intended to encourage purchases of local chips.",
+      "date_published": "2026-01-28T07:59:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003287534",
       "url": "https://www.wsj.com/world/americas/venezuelans-suddenly-have-hope-for-the-economy-less-so-for-democracy-b39ea3e7",
       "title": "Venezuelans Suddenly Have Hope for the Economy. Less So for Democracy.",
