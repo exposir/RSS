@@ -209,3 +209,7 @@ feeds:
   - name: 知乎热榜
     url: https://expo-rsshub.zeabur.app/zhihu/hot
     output: feeds/zhihu-hot.json
+
+  - name: Pornhub中文
+    url: https://expo-rsshub.zeabur.app/pornhub/category/chinese
+    output: feeds/pornhub-chinese.json
