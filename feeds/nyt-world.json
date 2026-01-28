@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/asia/india-plane-crash.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/asia/india-plane-crash.html",
+      "title": "Veteran Indian Politician Among 5 Killed in Plane Crash",
+      "content_html": "Ajit Pawar, the deputy chief minister of Maharashtra State, was on board a charter jet that crashed as it was coming in to land.",
+      "content_text": "Ajit Pawar, the deputy chief minister of Maharashtra State, was on board a charter jet that crashed as it was coming in to land.",
+      "date_published": "2026-01-28T10:52:13.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html",
       "url": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html",
       "title": "Iran Killed Thousands of Protesters. Here Are Five of Their Stories.",

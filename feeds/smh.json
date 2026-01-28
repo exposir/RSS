@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "f7ad6fbb-dd68-4831-89e0-13fc70a2b215",
+      "url": "https://www.smh.com.au/sport/tennis/sinner-going-day-by-day-with-fitness-20260128-p5nxtq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sinner going 'day-by-day' with fitness",
+      "content_html": "Jannik Sinner addresses his fitness concerns after the quarter-final victory.",
+      "content_text": "Jannik Sinner addresses his fitness concerns after the quarter-final victory.",
+      "date_published": "2026-01-28T11:24:33.000Z"
+    },
+    {
+      "id": "95002d7e-14fd-42b2-9ce4-bce5cefca040",
+      "url": "https://www.smh.com.au/sport/tennis/sinner-sails-through-in-straight-sets-20260128-p5nxtp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sinner 'sails through' in straight sets",
+      "content_html": "Jannik Sinner wins an entertaining final rally to set up a semi-final clash against Novak Djokovic.",
+      "content_text": "Jannik Sinner wins an entertaining final rally to set up a semi-final clash against Novak Djokovic.",
+      "date_published": "2026-01-28T11:12:08.000Z"
+    },
+    {
+      "id": "7f5dac2a-52c5-41dc-815c-cb660d42b239",
+      "url": "https://www.smh.com.au/politics/federal/best-of-cartoons-january-29-2026-20260128-p5nxqz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Best of cartoons, January 29, 2026",
+      "content_html": "The news of the day as interpreted by our talented artists, illustrators and cartoonists.",
+      "content_text": "The news of the day as interpreted by our talented artists, illustrators and cartoonists.",
+      "date_published": "2026-01-28T11:02:53.000Z"
+    },
+    {
+      "id": "2def01f7-6d1a-42a0-8c85-83f482f3057f",
+      "url": "https://www.smh.com.au/politics/federal/the-latest-illustrations-from-artist-cathy-wilcox-20230608-p5df54.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The latest illustrations from artist Cathy Wilcox",
+      "content_html": "The latest work by the acclaimed Sydney Morning Herald editorial cartoonist.",
+      "content_text": "The latest work by the acclaimed Sydney Morning Herald editorial cartoonist.",
+      "date_published": "2026-01-28T11:02:42.000Z"
+    },
+    {
+      "id": "b17b2235-dae7-4139-8ff8-413cdc6ead00",
+      "url": "https://www.smh.com.au/politics/federal/cartoons-of-the-week-20260123-p5nwkl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Cartoons of the week",
+      "content_html": "The best Herald artworks of the week from across the board.",
+      "content_text": "The best Herald artworks of the week from across the board.",
+      "date_published": "2026-01-28T11:01:23.000Z"
+    },
+    {
       "id": "0220a104-e027-4af8-b376-7889a24489b4",
       "url": "https://www.smh.com.au/sport/tennis/crowd-roars-as-shelton-saves-service-game-20260128-p5nxtl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Crowd roars as Shelton saves service game",

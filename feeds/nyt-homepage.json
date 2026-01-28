@@ -6,12 +6,52 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html",
+      "title": "Iran Killed Thousands of Protesters. Here Are Five of Their Stories.",
+      "content_html": "“He went out for freedom,” said the cousin of one of those who was killed when Iranian authorities mounted a deadly crackdown on protests across the country.",
+      "content_text": "“He went out for freedom,” said the cousin of one of those who was killed when Iranian authorities mounted a deadly crackdown on protests across the country.",
+      "date_published": "2026-01-28T11:10:37.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/podcasts/the-headlines/democrats-impeach-noem-ilhan-omar-attacked.html",
+      "url": "https://www.nytimes.com/2026/01/28/podcasts/the-headlines/democrats-impeach-noem-ilhan-omar-attacked.html",
+      "title": "Democrats Push to Impeach Kristi Noem, and Ilhan Omar Is Attacked in Minneapolis",
+      "content_html": "Plus, the woman who helped make GPS possible.",
+      "content_text": "Plus, the woman who helped make GPS possible.",
+      "date_published": "2026-01-28T11:00:12.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
       "url": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
       "title": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
       "content_html": "The e-commerce giant has been cutting costs in part to redirect money into building data centers to compete in the race to dominate artificial intelligence.",
       "content_text": "The e-commerce giant has been cutting costs in part to redirect money into building data centers to compete in the race to dominate artificial intelligence.",
       "date_published": "2026-01-28T10:46:12.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/europe/kherson-ukraine-drones-russia.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/europe/kherson-ukraine-drones-russia.html",
+      "title": "In Kherson, Ukraine, Every Step Outside Risks Death by Drone",
+      "content_html": "Russian attacks on civilians in Kherson, in southern Ukraine, have forced important aspects of life to go underground, offering a vision of a postapocalyptic future.",
+      "content_text": "Russian attacks on civilians in Kherson, in southern Ukraine, have forced important aspects of life to go underground, offering a vision of a postapocalyptic future.",
+      "date_published": "2026-01-28T10:26:24.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/business/economy/fed-trump-powell-interest-rates.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/economy/fed-trump-powell-interest-rates.html",
+      "title": "Fed Meeting Comes at Pivotal Moment for Central Bank’s Independence",
+      "content_html": "The Trump administration has unleashed a barrage of attacks on the Federal Reserve, including a criminal investigation into its chair, Jerome H. Powell.",
+      "content_text": "The Trump administration has unleashed a barrage of attacks on the Federal Reserve, including a criminal investigation into its chair, Jerome H. Powell.",
+      "date_published": "2026-01-28T10:04:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/business/economy/fed-interest-rates.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/economy/fed-interest-rates.html",
+      "title": "What to Watch as the Federal Reserve Meets",
+      "content_html": "The central bank is expected to hold interest rates steady on Wednesday after a series of reductions in the latter half of 2025. The big question is how long the pause will last.",
+      "content_text": "The central bank is expected to hold interest rates steady on Wednesday after a series of reductions in the latter half of 2025. The big question is how long the pause will last.",
+      "date_published": "2026-01-28T10:03:01.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/opinion/clinton-epstein-house-contempt.html",
@@ -22,12 +62,76 @@
       "date_published": "2026-01-28T10:02:57.000Z"
     },
     {
+      "id": "https://www.nytimes.com/2026/01/28/business/media/sundance-film-festival-park-city-boulder.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/media/sundance-film-festival-park-city-boulder.html",
+      "title": "Sundance Film Festival Says Goodbye to Park City, Utah",
+      "content_html": "“It’s hard not to feel a disturbance in the force,” said Ethan Hawke, whose acting career took off after his early movies appeared at the Utah festival in the 1990s.",
+      "content_text": "“It’s hard not to feel a disturbance in the force,” said Ethan Hawke, whose acting career took off after his early movies appeared at the Utah festival in the 1990s.",
+      "date_published": "2026-01-28T10:02:52.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/africa/south-africa-iran-navy-drills-trump.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/africa/south-africa-iran-navy-drills-trump.html",
+      "title": "After Naval Drills With Iran, South Africa Faces New U.S. Attacks",
+      "content_html": "The exercises were the second time in six months that President Cyril Ramaphosa appeared to be blindsided by his own military regarding relations with Tehran.",
+      "content_text": "The exercises were the second time in six months that President Cyril Ramaphosa appeared to be blindsided by his own military regarding relations with Tehran.",
+      "date_published": "2026-01-28T10:02:16.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/opinion/esther-perel-ai-chatbots-romance.html",
       "url": "https://www.nytimes.com/2026/01/28/opinion/esther-perel-ai-chatbots-romance.html",
       "title": "Esther Perel on Why A.I. Intimacy Feels Safe but Isn’t Real",
       "content_html": "Perel, a renowned psychotherapist, doesn’t really think society can — or should — fall in love with a machine.",
       "content_text": "Perel, a renowned psychotherapist, doesn’t really think society can — or should — fall in love with a machine.",
       "date_published": "2026-01-28T10:02:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/minneapolis-ice-states.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/minneapolis-ice-states.html",
+      "title": "As Minneapolis Rages, Legislators Move to Restrict ICE in Their States",
+      "content_html": "Efforts to curtail federal law enforcement tactics began last year, but with the deaths of Alex Pretti and Renee Good, Democratic lawmakers are pushing harder.",
+      "content_text": "Efforts to curtail federal law enforcement tactics began last year, but with the deaths of Alex Pretti and Renee Good, Democratic lawmakers are pushing harder.",
+      "date_published": "2026-01-28T10:02:05.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/how-we-tracked-down-thousands-of-police-misconduct-files.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/how-we-tracked-down-thousands-of-police-misconduct-files.html",
+      "title": "How We Tracked Down Thousands of Police Misconduct Files",
+      "content_html": "Freedom of Information requests led to the discovery of varied offenses by officers around New York State.",
+      "content_text": "Freedom of Information requests led to the discovery of varied offenses by officers around New York State.",
+      "date_published": "2026-01-28T10:00:57.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/africa/nigeria-catholic-bishop-muslims-trump.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/africa/nigeria-catholic-bishop-muslims-trump.html",
+      "title": "In Nigeria, a Catholic Bishop Tries to Tone Down the Uproar After U.S. Missile Strikes",
+      "content_html": "Bishop Matthew Hassan Kukah, often called “the conscience of the nation,” has been trying to tone down the uproar after President Trump bombed a region in his diocese.",
+      "content_text": "Bishop Matthew Hassan Kukah, often called “the conscience of the nation,” has been trying to tone down the uproar after President Trump bombed a region in his diocese.",
+      "date_published": "2026-01-28T10:00:43.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/business/economy/municipal-debt-market.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/economy/municipal-debt-market.html",
+      "title": "A Municipal Debt Boom Is Driving Public Projects and Tax Breaks for Investors",
+      "content_html": "Municipal debt issuance surpassed $500 billion last year, a record that’s found a deep pool of buyers.",
+      "content_text": "Municipal debt issuance surpassed $500 billion last year, a record that’s found a deep pool of buyers.",
+      "date_published": "2026-01-28T10:00:36.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/how-the-online-sat-may-be-vulnerable-to-cheating.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/how-the-online-sat-may-be-vulnerable-to-cheating.html",
+      "title": "How the Online SAT May be Vulnerable to Cheating",
+      "content_html": "Sites in China are selling test questions, and online forums offer software that can bypass test protections, according to tutors and testing experts raising alarms.",
+      "content_text": "Sites in China are selling test questions, and online forums offer software that can bypass test protections, according to tutors and testing experts raising alarms.",
+      "date_published": "2026-01-28T10:00:30.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/new-york-state-police-discipline.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/new-york-state-police-discipline.html",
+      "title": "Loose Rules Let New York State Police Hand Out Lax Penalties for Serious Misconduct",
+      "content_html": "New York State troopers used the badge to settle personal scores and elicit favors. Still, they remained on the job, an investigation found.",
+      "content_text": "New York State troopers used the badge to settle personal scores and elicit favors. Still, they remained on the job, an investigation found.",
+      "date_published": "2026-01-28T10:00:26.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",
@@ -220,6 +324,14 @@
       "content_html": "The airline said its new policy, rolled out on Tuesday, responded to passengers’ preferences, but some customers said the scramble was part of the charm.",
       "content_text": "The airline said its new policy, rolled out on Tuesday, responded to passengers’ preferences, but some customers said the scramble was part of the charm.",
       "date_published": "2026-01-27T23:32:45.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/virginia-court-ruling-redistricting.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/virginia-court-ruling-redistricting.html",
+      "title": "Virginia Judge Blocks Democrats’ Efforts to Redraw Congressional Maps",
+      "content_html": "Democratic leaders vowed to appeal the lower court ruling, which found that the legislative process behind the redistricting push was improper.",
+      "content_text": "Democratic leaders vowed to appeal the lower court ruling, which found that the legislative process behind the redistricting push was improper.",
+      "date_published": "2026-01-27T23:25:47.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/27/climate/judge-offshore-wind-vineyard-massachusetts.html",

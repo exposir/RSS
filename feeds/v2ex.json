@@ -17,6 +17,38 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189115",
+      "url": "https://www.v2ex.com/t/1189115#reply0",
+      "title": "[站点状态] 20260128 - 节点管理的新选项：新主题通知",
+      "content_html": "默认关闭，如果打开，节点创建者会在每次节点里有新主题时收到通知。",
+      "content_text": "默认关闭，如果打开，节点创建者会在每次节点里有新主题时收到通知。",
+      "date_published": "2026-01-28T11:27:43.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189114",
+      "url": "https://www.v2ex.com/t/1189114#reply0",
+      "title": "[Java] 佬们有没有比较好的 Java 脚手架",
+      "content_html": "<ul>\n<li>类似 Spring Initializr ，比较干净（但是又太简单）。</li>\n<li>最好可以自己选架构模式，比如六边形 DDD 架构、经典分层等</li>\n</ul>",
+      "content_text": "类似 Spring Initializr ，比较干净（但是又太简单）。\n最好可以自己选架构模式，比如六边形 DDD 架构、经典分层等",
+      "date_published": "2026-01-28T11:22:43.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189113",
+      "url": "https://www.v2ex.com/t/1189113#reply0",
+      "title": "[分享创造] Trymusic.ai：基于 Suno 的 AI 音乐生成工具，欢迎免费试用传播",
+      "content_html": "<p>最近我们团队开发的新站 <a href=\"http://Trymusic.ai\" rel=\"nofollow\">Trymusic.ai</a> ，一款 AI 音乐在线生成工具，采用了 Suno 最新模型，可以通过文本输入生成高质量的封面和音乐，可以用来给视频配背景音乐。</p>\n<p>主要功能：\n1 、输入描述或歌词，AI 自动生成旋律和和声。\n2 、免费在线试用，可通过 google 直接登录（免注册）在线使用。</p>\n<p>体验地址：\n<a href=\"https://trymusic.ai\" rel=\"nofollow\">https://trymusic.ai</a></p>\n<p>我们网站上 AI 生成的歌曲我听了下感觉真可以，我在网站上用 AI 生成了一首歌叫做 Own Damn Hero ，现在基本上是单曲循环播一整天。</p>\n<p>如果你有谷歌账户欢迎登录试用并反馈意见！\n<img alt=\"trymusic AI screenshot\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://cdn.trymusic.ai/images/screenshot.webp\"/></p>",
+      "content_text": "最近我们团队开发的新站 Trymusic.ai ，一款 AI 音乐在线生成工具，采用了 Suno 最新模型，可以通过文本输入生成高质量的封面和音乐，可以用来给视频配背景音乐。\n主要功能：\n1 、输入描述或歌词，AI 自动生成旋律和和声。\n2 、免费在线试用，可通过 google 直接登录（免注册）在线使用。\n体验地址：\nhttps://trymusic.ai\n我们网站上 AI 生成的歌曲我听了下感觉真可以，我在网站上用 AI 生成了一首歌叫做 Own Damn Hero ，现在基本上是单曲循环播一整天。\n如果你有谷歌账户欢迎登录试用并反馈意见！",
+      "date_published": "2026-01-28T11:00:25.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189112",
+      "url": "https://www.v2ex.com/t/1189112#reply0",
+      "title": "[职场话题] 目前这种行情先入职还是继续苟等更好的 offer",
+      "content_html": "坐标深圳，LZ 大龄未婚，年底裸辞，1 月份在招聘软件上投了差不多 15 家，拿到了几个面试机会，但是太久没有背八股文和算法了，导致只拿到一个 offer ，待遇比上家有一点点涨幅，但是可以忽略不计，HR 跟我说整个公司差不多有 90 多个开发，成立了差不多 10 年了，规模一般般，社保公积金最低标准，就不知道年后的行情怎么样，毕竟现在年龄大了，前年 24 年的时候，怎么投都约不到面试，25 年下半年到现在感觉现在行情好很多了，这种情况下是不是可以继续苟着去等更好的 offer",
+      "content_text": "坐标深圳，LZ 大龄未婚，年底裸辞，1 月份在招聘软件上投了差不多 15 家，拿到了几个面试机会，但是太久没有背八股文和算法了，导致只拿到一个 offer ，待遇比上家有一点点涨幅，但是可以忽略不计，HR 跟我说整个公司差不多有 90 多个开发，成立了差不多 10 年了，规模一般般，社保公积金最低标准，就不知道年后的行情怎么样，毕竟现在年龄大了，前年 24 年的时候，怎么投都约不到面试，25 年下半年到现在感觉现在行情好很多了，这种情况下是不是可以继续苟着去等更好的 offer",
+      "date_published": "2026-01-28T10:57:27.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1189109",
       "url": "https://www.v2ex.com/t/1189109#reply0",
       "title": "[深圳] 谢霆锋深圳场价格",
