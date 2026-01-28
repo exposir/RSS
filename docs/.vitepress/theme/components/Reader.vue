@@ -21,14 +21,9 @@
       <div class="article-list-panel">
         <div class="panel-header">
           <h2 class="panel-title">{{ selectedFeedName }}</h2>
-          <p class="panel-count">
-            <span v-if="filteredArticles.length > 0">
-              {{ filteredArticles.length }} 篇
-            </span>
-            <span v-if="isLoading" class="loading-indicator">
-              · 加载中 ({{ loadedCount }}/{{ feedIndex.length }})
-            </span>
-          </p>
+          <span v-if="isLoading" class="loading-indicator">
+            加载中 ({{ loadedCount }}/{{ feedIndex.length }})
+          </span>
         </div>
 
         <div v-if="filteredArticles.length === 0 && !isLoading" class="empty-hint">
@@ -288,12 +283,15 @@ function formatDetailDate(dateStr: string) {
   padding: 1rem 1.25rem;
   border-bottom: 1px solid var(--vp-c-divider);
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .panel-title {
   font-size: 1.1rem;
   font-weight: 600;
-  margin: 0 0 0.25rem 0;
+  margin: 0;
   color: var(--vp-c-text-1);
 }
 
@@ -304,7 +302,9 @@ function formatDetailDate(dateStr: string) {
 }
 
 .loading-indicator {
+  font-size: 0.85rem;
   color: var(--vp-c-brand);
+  font-weight: 400;
 }
 
 .empty-hint {

@@ -1,6 +1,9 @@
 <template>
   <aside class="sidebar">
-    <h2 class="feed-list-title">订阅源</h2>
+    <div class="sidebar-header">
+      <h2 class="feed-list-title">订阅源</h2>
+      <span class="total-count" v-if="totalCount > 0">{{ totalCount }} 篇</span>
+    </div>
     <ul class="feed-list">
       <li
         class="feed-item"
@@ -61,12 +64,25 @@ function selectFeed(feedId: string) {
 </script>
 
 <style scoped>
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 0.75rem;
+  margin-bottom: 1rem;
+}
+
 .feed-list-title {
   font-size: 1.1rem;
   font-weight: 600;
-  margin: 0 0 1rem 0;
-  padding: 0 0.75rem;
+  margin: 0;
   color: var(--vp-c-text-1);
+}
+
+.total-count {
+  font-size: 0.85rem;
+  color: var(--vp-c-text-3);
+  font-weight: 400;
 }
 
 .feed-icon {
