@@ -10,9 +10,18 @@
         :class="{ active: selectedFeed === 'all' }"
         @click="selectFeed('all')"
       >
-        <span class="feed-icon">📰</span>
-        <span class="feed-name">全部</span>
-        <span class="feed-count" v-if="totalCount > 0">({{ totalCount }})</span>
+        <span class="feed-icon">📅</span>
+        <span class="feed-name">今日</span>
+        <span class="feed-count" v-if="todayCount > 0">({{ todayCount }})</span>
+      </li>
+      <li
+        class="feed-item"
+        :class="{ active: selectedFeed === 'yesterday' }"
+        @click="selectFeed('yesterday')"
+      >
+        <span class="feed-icon">⏮️</span>
+        <span class="feed-name">昨日</span>
+        <span class="feed-count" v-if="yesterdayCount > 0">({{ yesterdayCount }})</span>
       </li>
       <li
         v-for="feed in feedIndex"
@@ -49,6 +58,36 @@ const totalCount = computed(() => {
   let count = 0
   props.feeds.forEach(feed => {
     count += feed.items?.length || 0
+  })
+  return count
+})
+
+const todayCount = computed(() => {
+  let count = 0
+  const today = new Date().toDateString()
+
+  props.feeds.forEach(feed => {
+    feed.items?.forEach(item => {
+      if (new Date(item.date_published).toDateString() === today) {
+        count++
+      }
+    })
+  })
+  return count
+})
+
+const yesterdayCount = computed(() => {
+  let count = 0
+  const yesterday = new Date()
+  yesterday.setDate(yesterday.getDate() - 1)
+  const yesterdayStr = yesterday.toDateString()
+
+  props.feeds.forEach(feed => {
+    feed.items?.forEach(item => {
+      if (new Date(item.date_published).toDateString() === yesterdayStr) {
+        count++
+      }
+    })
   })
   return count
 })

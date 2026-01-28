@@ -73,8 +73,8 @@ export function useFeeds() {
     loading.value = true
     error.value = null
 
-    // 清空现有数据，准备重新加载
-    feeds.value.clear()
+    // 注意：不要清空 feeds.value.clear()，否则刷新时会导致 UI 空白
+    // 只重置计数器
     loadedCount.value = 0
 
     try {

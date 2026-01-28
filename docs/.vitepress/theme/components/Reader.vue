@@ -128,7 +128,10 @@ watch(selectedFeed, (newVal, oldVal) => {
 
 const selectedFeedName = computed(() => {
   if (selectedFeed.value === 'all') {
-    return '全部文章'
+    return '今日更新'
+  }
+  if (selectedFeed.value === 'yesterday') {
+    return '昨日回顾'
   }
   const feed = feedIndex.value.find(f => f.id === selectedFeed.value)
   return feed?.name || '未知订阅源'
@@ -141,16 +144,42 @@ const filteredArticles = computed(() => {
   const articles: Article[] = []
 
   if (selectedFeed.value === 'all') {
-    // 获取所有文章
+    const todayStr = new Date().toDateString()
+
+    // 获取所有今日更新的文章
     Array.from(feeds.value.entries()).forEach(([feedId, feed]) => {
       const feedInfo = feedIndex.value.find(f => f.id === feedId)
       if (feed && feed.items && feedInfo) {
         feed.items.forEach((item) => {
-          articles.push({
-            ...item,
-            source: feed.title || feedInfo.name,
-            feedId: feedId
-          })
+          // 只保留今天的文章
+          if (new Date(item.date_published).toDateString() === todayStr) {
+            articles.push({
+              ...item,
+              source: feed.title || feedInfo.name,
+              feedId: feedId
+            })
+          }
+        })
+      }
+    })
+  } else if (selectedFeed.value === 'yesterday') {
+    const yesterday = new Date()
+    yesterday.setDate(yesterday.getDate() - 1)
+    const yesterdayStr = yesterday.toDateString()
+
+    // 获取所有昨日更新的文章
+    Array.from(feeds.value.entries()).forEach(([feedId, feed]) => {
+      const feedInfo = feedIndex.value.find(f => f.id === feedId)
+      if (feed && feed.items && feedInfo) {
+        feed.items.forEach((item) => {
+          // 只保留昨天的文章
+          if (new Date(item.date_published).toDateString() === yesterdayStr) {
+            articles.push({
+              ...item,
+              source: feed.title || feedInfo.name,
+              feedId: feedId
+            })
+          }
         })
       }
     })
