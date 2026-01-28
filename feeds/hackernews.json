@@ -54,6 +54,14 @@
       "date_published": "2026-01-28T08:02:42.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46791742",
+      "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+      "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+      "content_html": "<p>Article URL: <a href=\"https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/\">https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791742\">https://news.ycombinator.com/item?id=46791742</a></p>\n<p>Points: 225</p>\n<p># Comments: 112</p>",
+      "content_text": "Article URL: https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/\nComments URL: https://news.ycombinator.com/item?id=46791742\nPoints: 225\n# Comments: 112",
+      "date_published": "2026-01-28T06:21:07.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46789961",
       "url": "https://monkeyball-online.pages.dev/",
       "title": "Super Monkey Ball ported to a website",
@@ -68,6 +76,14 @@
       "content_html": "<p>Article URL: <a href=\"https://www.web3isgoinggreat.com/single/lick-theft\">https://www.web3isgoinggreat.com/single/lick-theft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46787521\">https://news.ycombinator.com/item?id=46787521</a></p>\n<p>Points: 260</p>\n<p># Comments: 56</p>",
       "content_text": "Article URL: https://www.web3isgoinggreat.com/single/lick-theft\nComments URL: https://news.ycombinator.com/item?id=46787521\nPoints: 260\n# Comments: 56",
       "date_published": "2026-01-27T21:54:29.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46786183",
+      "url": "https://github.com/kangtastic/timestation",
+      "title": "Time Station Emulator",
+      "content_html": "<p>Article URL: <a href=\"https://github.com/kangtastic/timestation\">https://github.com/kangtastic/timestation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46786183\">https://news.ycombinator.com/item?id=46786183</a></p>\n<p>Points: 227</p>\n<p># Comments: 54</p>",
+      "content_text": "Article URL: https://github.com/kangtastic/timestation\nComments URL: https://news.ycombinator.com/item?id=46786183\nPoints: 227\n# Comments: 54",
+      "date_published": "2026-01-27T20:35:34.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46784572",

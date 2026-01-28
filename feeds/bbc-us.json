@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c1evy87qd1no#1",
+      "url": "https://www.bbc.com/news/articles/c1evy87qd1no?at_medium=RSS&at_campaign=rss",
+      "title": "During heated hearing, Rubio insists US action in Venezuela will lead to prosperity and security",
+      "content_html": "The US Secretary of State remained robustly on message when asked about the legality of Maduro's removal, plans for oil sales, and the future of Venezuela.",
+      "content_text": "The US Secretary of State remained robustly on message when asked about the legality of Maduro's removal, plans for oil sales, and the future of Venezuela.",
+      "date_published": "2026-01-28T21:05:52.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cr57j47811yo#0",
+      "url": "https://www.bbc.com/news/articles/cr57j47811yo?at_medium=RSS&at_campaign=rss",
+      "title": "Assisted dying bill 'no hope' of passing unless Lords change approach, warns peer",
+      "content_html": "Lord Falconer said the bill has \"absolutely no hope\" of passing without a \"fundamental change\" in approach.",
+      "content_text": "Lord Falconer said the bill has \"absolutely no hope\" of passing without a \"fundamental change\" in approach.",
+      "date_published": "2026-01-28T21:00:09.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c20gy48571po#3",
       "url": "https://www.bbc.com/news/articles/c20gy48571po?at_medium=RSS&at_campaign=rss",
       "title": "Starbucks scraps $250,000 cap on boss's use of company jet",
@@ -38,6 +54,14 @@
       "date_published": "2026-01-28T18:17:15.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cz7y2ddgl23o#1",
+      "url": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran's internet is returning - but not for everyone",
+      "content_html": "The country cut off internet access on 8 January following a government crackdown on protesters.",
+      "content_text": "The country cut off internet access on 8 January following a government crackdown on protesters.",
+      "date_published": "2026-01-28T17:54:08.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c62wepw43k3o#0",
       "url": "https://www.bbc.com/news/articles/c62wepw43k3o?at_medium=RSS&at_campaign=rss",
       "title": "King's film reveals his personal philosophy",
@@ -62,6 +86,14 @@
       "date_published": "2026-01-28T17:14:48.000Z"
     },
     {
+      "id": "https://www.bbc.com/weather/articles/c4g3413354qo#1",
+      "url": "https://www.bbc.com/weather/articles/c4g3413354qo?at_medium=RSS&at_campaign=rss",
+      "title": "When will it stop raining?",
+      "content_html": "Some areas have seen three times their average rainfall. Is there an end in sight to the sogginess? Stav Danaos has the answers.",
+      "content_text": "Some areas have seen three times their average rainfall. Is there an end in sight to the sogginess? Stav Danaos has the answers.",
+      "date_published": "2026-01-28T17:08:25.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cp87pl83nvko#3",
       "url": "https://www.bbc.com/news/articles/cp87pl83nvko?at_medium=RSS&at_campaign=rss",
       "title": "Starmer vows to push ahead with cuts to jury trials despite backlash",
@@ -84,6 +116,14 @@
       "content_html": "The prime minister says he has discussed the deal with Donald Trump, but there are concerns in Whitehall the US could withdraw support for the agreement.",
       "content_text": "The prime minister says he has discussed the deal with Donald Trump, but there are concerns in Whitehall the US could withdraw support for the agreement.",
       "date_published": "2026-01-28T17:00:10.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cgjwpq4pggjo#3",
+      "url": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
+      "title": "Passenger tells BBC of moment of Russian drone strike",
+      "content_html": "The BBC speaks to a person who was aboard a train on which five people died after it was targeted by drones.",
+      "content_text": "The BBC speaks to a person who was aboard a train on which five people died after it was targeted by drones.",
+      "date_published": "2026-01-28T16:59:02.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cgjwpq4pggjo#1",

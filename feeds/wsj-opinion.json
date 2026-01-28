@@ -6,6 +6,22 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "SB12803691161524744757004592622362295746778",
+      "url": "https://www.wsj.com/opinion/does-qatar-fund-antisemitism-at-american-campuses-2218c9fe",
+      "title": "Does Qatar Fund Antisemitism at American Campuses?",
+      "content_html": "A court order in a case against Carnegie Mellon illustrates the danger of&#xa0;foreign influence.",
+      "content_text": "A court order in a case against Carnegie Mellon illustrates the danger of&#xa0;foreign influence.",
+      "date_published": "2026-01-28T21:18:00.000Z"
+    },
+    {
+      "id": "SB10837990632460293328404592578692989750330",
+      "url": "https://www.wsj.com/opinion/were-planning-for-the-wrong-ai-job-disruption-2264d219",
+      "title": "We&#x2019;re Planning for the Wrong AI Job Disruption",
+      "content_html": "If artificial intelligence takes over some of your tasks, that doesn&#x2019;t render you unemployable.",
+      "content_text": "If artificial intelligence takes over some of your tasks, that doesn&#x2019;t render you unemployable.",
+      "date_published": "2026-01-28T21:18:00.000Z"
+    },
+    {
       "id": "SB11336906705384833482504592642114192315428",
       "url": "https://www.wsj.com/opinion/the-eu-india-trade-deal-is-boring-and-thats-a-good-thing-6360575e",
       "title": "The EU-India Trade Deal Is Boring, and That&#x2019;s a Good Thing",

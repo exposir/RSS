@@ -6,6 +6,38 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?post_type=tc_video&#038;p=3087562",
+      "url": "https://techcrunch.com/video/spacex-is-coming-to-the-public-markets-and-secondaries-are-already-on-fire/",
+      "title": "SpaceX is coming to the public markets, and secondaries are already on fire",
+      "content_html": "paceX is&#160;reportedly lining&#160;up&#160;four major Wall Street banks&#160;for a&#160;2026 IPO&#160;that could provide the&#160;reset&#160;the market needs.&#160; The company just completed a tender offer at an&#160;$800 billion&#160;valuation, and secondary market demand is through the roof. If SpaceX goes public anywhere near its&#160;rumored&#160;$1.5 trillion&#160;valuation, it&#160;could trigger&#160;an IPO cascade for&#160;other&#160;late-stage unicorns like OpenAI, Stripe, and Databricks.&#160; Watch as Equity host Rebecca Bellan [&#8230;]",
+      "content_text": "paceX is&#160;reportedly lining&#160;up&#160;four major Wall Street banks&#160;for a&#160;2026 IPO&#160;that could provide the&#160;reset&#160;the market needs.&#160; The company just completed a tender offer at an&#160;$800 billion&#160;valuation, and secondary market demand is through the roof. If SpaceX goes public anywhere near its&#160;rumored&#160;$1.5 trillion&#160;valuation, it&#160;could trigger&#160;an IPO cascade for&#160;other&#160;late-stage unicorns like OpenAI, Stripe, and Databricks.&#160; Watch as Equity host Rebecca Bellan [&#8230;]",
+      "date_published": "2026-01-28T21:35:29.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087428",
+      "url": "https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/",
+      "title": "AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman and other big names",
+      "content_html": "Outtake makes an agentic cybersecurity platform to help enterprises detect identity fraud. Its angel investors are a who's who.",
+      "content_text": "Outtake makes an agentic cybersecurity platform to help enterprises detect identity fraud. Its angel investors are a who's who.",
+      "date_published": "2026-01-28T21:18:52.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087513",
+      "url": "https://techcrunch.com/2026/01/28/tesla-earnings-profit-q4-2025/",
+      "title": "Tesla profit tanked 46% in 2025",
+      "content_html": "The company's sales fell for a second year in a row despite CEO Elon Musk spending years promising 50% annual growth.",
+      "content_text": "The company's sales fell for a second year in a row despite CEO Elon Musk spending years promising 50% annual growth.",
+      "date_published": "2026-01-28T21:16:11.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087398",
+      "url": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
+      "title": "ServiceNow inks another AI partnership, this time with Anthropic",
+      "content_html": "ServiceNow partners with Anthropic just a week after announcing a partnership with OpenAI as the company takes a multi-model approach.",
+      "content_text": "ServiceNow partners with Anthropic just a week after announcing a partnership with OpenAI as the company takes a multi-model approach.",
+      "date_published": "2026-01-28T21:13:00.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087141",
       "url": "https://techcrunch.com/2026/01/28/luminar-sale-approved-despite-last-minute-mystery-bid/",
       "title": "Luminar sale approved despite last-minute mystery bid",

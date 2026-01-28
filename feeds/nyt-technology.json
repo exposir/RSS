@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
+      "url": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
+      "title": "Microsoft Continues to Spend Big on A.I. While Profit Jumps 60 Percent",
+      "content_html": "The company said on Wednesday that revenue in the most recent quarter was $81.3 billion, but its share price dropped more than 5 percent in after-hours trading.",
+      "content_text": "The company said on Wednesday that revenue in the most recent quarter was $81.3 billion, but its share price dropped more than 5 percent in after-hours trading.",
+      "date_published": "2026-01-28T21:34:30.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
+      "title": "Tesla Profit Slumps, but Investors May Not Care",
+      "content_html": "The electric vehicle maker’s shares are near record highs as Wall Street focuses on the company’s plans for robots and self-driving cars.",
+      "content_text": "The electric vehicle maker’s shares are near record highs as Wall Street focuses on the company’s plans for robots and self-driving cars.",
+      "date_published": "2026-01-28T21:33:59.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/technology/meta-earnings-ai-spending.html",
+      "url": "https://www.nytimes.com/2026/01/28/technology/meta-earnings-ai-spending.html",
+      "title": "Meta Forecasts Spending of at Least $115 Billion This Year",
+      "content_html": "That would be a major jump from the $72 billion that the Silicon Valley tech giant shelled out last year, as it aims to compete in the artificial intelligence race.",
+      "content_text": "That would be a major jump from the $72 billion that the Silicon Valley tech giant shelled out last year, as it aims to compete in the artificial intelligence race.",
+      "date_published": "2026-01-28T21:26:23.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
       "url": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
       "title": "With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint",

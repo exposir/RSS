@@ -6,6 +6,22 @@
   "description": "World News",
   "items": [
     {
+      "id": "SB12803691161524744757004592622362295746778",
+      "url": "https://www.wsj.com/opinion/does-qatar-fund-antisemitism-at-american-campuses-2218c9fe",
+      "title": "Opinion | Does Qatar Fund Antisemitism at American Campuses?",
+      "content_html": "A court order in a case against Carnegie Mellon illustrates the danger of&#xa0;foreign influence.",
+      "content_text": "A court order in a case against Carnegie Mellon illustrates the danger of&#xa0;foreign influence.",
+      "date_published": "2026-01-28T21:18:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003290701",
+      "url": "https://www.wsj.com/articles/bank-of-canada-rate-outlook-could-pivot-on-north-american-trade-deal-4beac1cc",
+      "title": "Bank of Canada Rate Outlook Could Pivot on North American Trade Deal",
+      "content_html": "The central bank warned of uncertainty in the economy, including the outcome of Washington&#x2019;s review of the USMCA.",
+      "content_text": "The central bank warned of uncertainty in the economy, including the outcome of Washington&#x2019;s review of the USMCA.",
+      "date_published": "2026-01-28T21:01:00.000Z"
+    },
+    {
       "id": "SB11336906705384833482504592642114192315428",
       "url": "https://www.wsj.com/opinion/the-eu-india-trade-deal-is-boring-and-thats-a-good-thing-6360575e",
       "title": "Opinion | The EU-India Trade Deal Is Boring, and That&#x2019;s a Good Thing",

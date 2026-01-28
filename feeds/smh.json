@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "ddeb86c7-350a-42d0-a62f-1a572d50724e",
+      "url": "https://www.smh.com.au/sport/golf/liv-golf-hit-hard-as-another-major-winner-jumps-ship-20260129-p5nxvi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "LIV Golf hit hard as another major winner jumps ship",
+      "content_html": "Weeks after Brooks Koepka announced his days on the rebel golf league were over, another American star has said goodbye.",
+      "content_text": "Weeks after Brooks Koepka announced his days on the rebel golf league were over, another American star has said goodbye.",
+      "date_published": "2026-01-28T21:20:58.000Z"
+    },
+    {
+      "id": "5a00832b-4418-41ba-9f99-ee32126ab254",
+      "url": "https://www.smh.com.au/national/man-charged-over-hospital-assaults-20260129-p5nxvj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man charged over hospital assaults",
+      "content_html": "A man has been arrested in Adelaide after allegedly stabbing another man before following an ambulance to hospital.",
+      "content_text": "A man has been arrested in Adelaide after allegedly stabbing another man before following an ambulance to hospital.",
+      "date_published": "2026-01-28T20:58:31.000Z"
+    },
+    {
       "id": "62218c45-1818-4462-bade-d3ae56362042",
       "url": "https://www.smh.com.au/sport/tennis/djokovic-hits-back-at-disrespectful-question-20260129-p5nxvf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Djokovic hits back at 'disrespectful' question",

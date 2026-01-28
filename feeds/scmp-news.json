@@ -6,6 +6,14 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/opinion/world-opinion/article/3341509/ice-fatal-shootings-raise-fear-over-trumps-use-federal-authority?utm_source=rss_feed",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3341509/ice-fatal-shootings-raise-fear-over-trumps-use-federal-authority?utm_source=rss_feed",
+      "title": "ICE fatal shootings raise fear over Trump’s use of federal authority",
+      "content_html": "America has endured intense political polarisation before. What it has not faced is a presidency that has transformed a federal law-enforcement agency into a potential instrument of political power. During Donald Trump’s second term as president, the US Immigration and Customs Enforcement (ICE) risks becoming just that.\nCreated after 9/11 as a specialised arm of the Department of Homeland Security, ICE was meant to enforce immigration laws and combat transnational criminal networks. Its annual...",
+      "content_text": "America has endured intense political polarisation before. What it has not faced is a presidency that has transformed a federal law-enforcement agency into a potential instrument of political power. During Donald Trump’s second term as president, the US Immigration and Customs Enforcement (ICE) risks becoming just that.\nCreated after 9/11 as a specialised arm of the Department of Homeland Security, ICE was meant to enforce immigration laws and combat transnational criminal networks. Its annual...",
+      "date_published": "2026-01-28T21:30:07.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/world/united-states-canada/article/3341599/ilhan-omar-attack-suspect-kazmierczak-convicted-felon-who-made-pro-trump-posts?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3341599/ilhan-omar-attack-suspect-kazmierczak-convicted-felon-who-made-pro-trump-posts?utm_source=rss_feed",
       "title": "Ilhan Omar attack suspect Kazmierczak is a convicted felon who made pro-Trump posts",

@@ -6,6 +6,38 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
+      "title": "Tesla Profit Slumps, but Investors May Not Care",
+      "content_html": "The electric vehicle maker’s shares are near record highs as Wall Street focuses on the company’s plans for robots and self-driving cars.",
+      "content_text": "The electric vehicle maker’s shares are near record highs as Wall Street focuses on the company’s plans for robots and self-driving cars.",
+      "date_published": "2026-01-28T21:33:59.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/ice-funding-congress.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/ice-funding-congress.html",
+      "title": "Republicans Gave ICE a Slush Fund. Democrats Want to Limit It.",
+      "content_html": "The sweeping domestic policy law that Republicans muscled through Congress last year made ICE the highest-funded federal law enforcement agency in the country, with no strings attached.",
+      "content_text": "The sweeping domestic policy law that Republicans muscled through Congress last year made ICE the highest-funded federal law enforcement agency in the country, with no strings attached.",
+      "date_published": "2026-01-28T21:11:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/heng-guan-china-uyghurs-asylum.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/heng-guan-china-uyghurs-asylum.html",
+      "title": "Chinese National Heng Guan Who Documented Uyghurs’ Repression Wins Asylum",
+      "content_html": "Heng Guan, a Chinese national, will not be released immediately, as Homeland Security said it was reserving the right to appeal.",
+      "content_text": "Heng Guan, a Chinese national, will not be released immediately, as Homeland Security said it was reserving the right to appeal.",
+      "date_published": "2026-01-28T21:10:10.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/opinion/conservative-campus-politics.html",
+      "url": "https://www.nytimes.com/2026/01/28/opinion/conservative-campus-politics.html",
+      "title": "The Havoc That One Disgruntled Student Can Wreak on a University",
+      "content_html": "If college education is merely a transaction, educators — and facts — are vulnerable.",
+      "content_text": "If college education is merely a transaction, educators — and facts — are vulnerable.",
+      "date_published": "2026-01-28T20:56:46.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/nyregion/nyc-storm-victims-hospital.html",
       "url": "https://www.nytimes.com/2026/01/28/nyregion/nyc-storm-victims-hospital.html",
       "title": "Most N.Y.C. Storm Victims Believed to Have Died After Cold Exposure",
