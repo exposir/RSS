@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "f91631b3-4091-4f16-9a7c-8e934db8f5ea",
+      "url": "https://www.smh.com.au/business/markets/should-you-book-a-us-holiday-aussie-dollar-and-gold-hit-new-highs-20260128-p5nxll.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Should you book a US holiday? Aussie dollar and gold hit new highs",
+      "content_html": "The Australian dollar is at a three-year-high having broken through 70 cents against the US dollar, so you might want to seize the moment.",
+      "content_text": "The Australian dollar is at a three-year-high having broken through 70 cents against the US dollar, so you might want to seize the moment.",
+      "date_published": "2026-01-28T04:00:00.000Z"
+    },
+    {
       "id": "4c0ce08e-d79d-409d-be03-a2aaae15db39",
       "url": "https://www.smh.com.au/national/western-australia/wa-invasion-day-rally-organisers-claim-several-threats-were-made-before-bomb-scare-20260128-p5nxom.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "WA Invasion Day rally organisers claim ‘several threats’ were made before bomb scare",
