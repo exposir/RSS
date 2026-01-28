@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c0er7j820p0o#0",
+      "url": "https://www.bbc.com/news/articles/c0er7j820p0o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Spandau Ballet singer found guilty of rape",
+      "content_html": "Ross Davidson, known as Ross Wild on stage, was known for singing with the 80s band Spandau Ballet.",
+      "content_text": "Ross Davidson, known as Ross Wild on stage, was known for singing with the 80s band Spandau Ballet.",
+      "date_published": "2026-01-28T15:03:37.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cdjnpvl201yo#3",
+      "url": "https://www.bbc.com/news/articles/cdjnpvl201yo?at_medium=RSS&at_campaign=rss",
+      "title": "Top private school 'failed to protect pupils' from sexual and physical abuse",
+      "content_html": "Children at ex-prime minister Tony Blair's former school, Fettes College in Edinburgh, were  abused by both teachers and other pupils over decades.",
+      "content_text": "Children at ex-prime minister Tony Blair's former school, Fettes College in Edinburgh, were  abused by both teachers and other pupils over decades.",
+      "date_published": "2026-01-28T14:58:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd6wpdpylj1o#0",
+      "url": "https://www.bbc.com/news/articles/cd6wpdpylj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Man guilty of assault after Barron Trump reported attack to UK police",
+      "content_html": "Donald Trump's son told officers he had seen the victim being beaten up during a video call in January 2025.",
+      "content_text": "Donald Trump's son told officers he had seen the victim being beaten up during a video call in January 2025.",
+      "date_published": "2026-01-28T14:54:59.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c3dm27359xxo#0",
       "url": "https://www.bbc.com/news/articles/c3dm27359xxo?at_medium=RSS&at_campaign=rss",
       "title": "Mum says university 'failed' son who took his own life after grade error",
@@ -20,6 +44,14 @@
       "content_html": "Full-back Hugo Keenan has returned home from Ireland's Six Nations training camp in Portugal after sustaining a fractured thumb.",
       "content_text": "Full-back Hugo Keenan has returned home from Ireland's Six Nations training camp in Portugal after sustaining a fractured thumb.",
       "date_published": "2026-01-28T14:01:20.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c9wxezyvjz5o#3",
+      "url": "https://www.bbc.com/news/articles/c9wxezyvjz5o?at_medium=RSS&at_campaign=rss",
+      "title": "BBC director general to depart in April after resignation",
+      "content_html": "Tim Davie announced his resignation amid a storm about the way Panorama edited a Donald Trump speech.",
+      "content_text": "Tim Davie announced his resignation amid a storm about the way Panorama edited a Donald Trump speech.",
+      "date_published": "2026-01-28T13:54:24.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c9wxezyvjz5o#0",
@@ -76,6 +108,14 @@
       "content_html": "The star will break records set by Coldplay and Taylor Swift by staging a 12-night residency.",
       "content_text": "The star will break records set by Coldplay and Taylor Swift by staging a 12-night residency.",
       "date_published": "2026-01-28T13:18:53.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy8p2yey0gdo#3",
+      "url": "https://www.bbc.com/news/articles/cy8p2yey0gdo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds of flood warnings and alerts as Storm Chandra disruption continues",
+      "content_html": "A severe \"danger to life\" flood warning is issued for a residential park after the third named storm of the year.",
+      "content_text": "A severe \"danger to life\" flood warning is issued for a residential park after the third named storm of the year.",
+      "date_published": "2026-01-28T13:08:56.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cdjnpvl201yo#0",
@@ -156,6 +196,14 @@
       "content_html": "The online lessons give advice on things such as how to prompt chatbots or complete admin tasks.",
       "content_text": "The online lessons give advice on things such as how to prompt chatbots or complete admin tasks.",
       "date_published": "2026-01-28T11:50:21.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c20g2d38eg8o#3",
+      "url": "https://www.bbc.com/news/articles/c20g2d38eg8o?at_medium=RSS&at_campaign=rss",
+      "title": "Olivia Dean set to 'light up' Mobo Awards stage",
+      "content_html": "Hip-hop star Eve and comedian Eddie Kadi will host the ceremony being held in Manchester in March.",
+      "content_text": "Hip-hop star Eve and comedian Eddie Kadi will host the ceremony being held in Manchester in March.",
+      "date_published": "2026-01-28T11:44:03.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c20g2d38eg8o#1",

@@ -6,6 +6,14 @@
   "description": "CCTV 新闻联播 - Powered by RSSHub",
   "items": [
     {
+      "id": "https://tv.cctv.com/lm/xwlb/day/20260128.shtml",
+      "url": "https://tv.cctv.com/lm/xwlb/day/20260128.shtml",
+      "title": "新闻联播 2026/01/28",
+      "content_html": "<a href=\"https://tv.cctv.com/2026/01/28/VIDESGWBpt9EquTh7hucE0uS260128.shtml\">《新闻联播》 20260128 19:00 ⏱00:30:01</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDEHYWBeMuh8BFlQIYhQkMy260128.shtml\">[视频]习近平复信津巴布韦老战士 ⏱00:01:59</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDEcyYr0qnkgtmQ7w7JKNNZ260128.shtml\">[视频]【“十五五”开好局起好步】扎实推动西部大开发形成新格局 ⏱00:06:27</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDEZzkcAS7tlTkofk8peDFA260128.shtml\">[视频]全国统战部长会议在京召开 王沪宁出席并讲话 ⏱00:01:44</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDEnLoM0ZTE3PzyIKPUOEoC260128.shtml\">[视频]丁薛祥会见美国高盛集团董事长兼首席执行官 ⏱00:00:51</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDE3KbPqKkAERGcVfWkX6QA260128.shtml\">[视频]央企研发投入连续四年超万亿元 ⏱00:01:38</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDEhtQ3518Pbsvwf0BjOKte260128.shtml\">[视频]我国九大重点区域生态状况持续改善 ⏱00:01:09</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDE4fdJbxcgCRLqHnr2029A260128.shtml\">[视频]广东加快构建现代化产业体系 ⏱00:02:43</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDEaFMP5Sc68eL2W7NKsKVj260128.shtml\">[视频]拓展冰雪旅游新场景 激发消费活力 ⏱00:01:42</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDEXcitzvfQ7GXvisyLB8bt260128.shtml\">[视频]国内联播快讯 ⏱00:03:05</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDEAKWb1uay7QzmTnsRmz1w260128.shtml\">[视频]日本人士表示高市错误言论严重违背一个中国原则 ⏱00:01:38</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDExEdNehHz48DjKzRG4oYA260128.shtml\">[视频]伊朗总统与沙特王储通话 称美国威胁只会导致动荡 ⏱00:01:22</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDEOaGb0AmNf3K4owSB5YPV260128.shtml\">[视频]美明州普雷蒂遭枪击死亡事件调查报告与美国土安全部说法矛盾 ⏱00:01:26</a><br>\n<a href=\"https://tv.cctv.com/2026/01/28/VIDE9TnZrJ77S4AV7rYUTazM260128.shtml\">[视频]国际联播快讯 ⏱00:02:11</a>",
+      "content_text": "《新闻联播》 20260128 19:00 ⏱00:30:01\n[视频]习近平复信津巴布韦老战士 ⏱00:01:59\n[视频]【“十五五”开好局起好步】扎实推动西部大开发形成新格局 ⏱00:06:27\n[视频]全国统战部长会议在京召开 王沪宁出席并讲话 ⏱00:01:44\n[视频]丁薛祥会见美国高盛集团董事长兼首席执行官 ⏱00:00:51\n[视频]央企研发投入连续四年超万亿元 ⏱00:01:38\n[视频]我国九大重点区域生态状况持续改善 ⏱00:01:09\n[视频]广东加快构建现代化产业体系 ⏱00:02:43\n[视频]拓展冰雪旅游新场景 激发消费活力 ⏱00:01:42\n[视频]国内联播快讯 ⏱00:03:05\n[视频]日本人士表示高市错误言论严重违背一个中国原则 ⏱00:01:38\n[视频]伊朗总统与沙特王储通话 称美国威胁只会导致动荡 ⏱00:01:22\n[视频]美明州普雷蒂遭枪击死亡事件调查报告与美国土安全部说法矛盾 ⏱00:01:26\n[视频]国际联播快讯 ⏱00:02:11",
+      "date_published": "2026-01-28T11:00:00.000Z"
+    },
+    {
       "id": "https://tv.cctv.com/lm/xwlb/day/20260127.shtml",
       "url": "https://tv.cctv.com/lm/xwlb/day/20260127.shtml",
       "title": "新闻联播 2026/01/27",

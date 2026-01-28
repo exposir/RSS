@@ -6,6 +6,294 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-asml-seagate-starbucks-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-asml-seagate-starbucks-podcast",
+      "title": "Stock Movers: ASML, Seagate, Starbucks (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T15:13:55.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/s-p-500-spy-soars-above-7-000-as-stocks-rally-broadens-beyond-tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/s-p-500-spy-soars-above-7-000-as-stocks-rally-broadens-beyond-tech",
+      "title": "S&P 500 Climbs Above 7,000 as Tech Stocks Rally Before Fed",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T15:11:38.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/bezos-backed-blue-origin-plans-satellite-network-that-may-compete-with-amazon-s",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/bezos-backed-blue-origin-plans-satellite-network-that-may-compete-with-amazon-s",
+      "title": "Jeff Bezos Likes Satellite Networks So Much, He’s Launching a Second",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T15:01:56.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/s-p-500-hits-7-000-trump-warns-iran-minneapolis-tensions-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/s-p-500-hits-7-000-trump-warns-iran-minneapolis-tensions-more",
+      "title": "S&P 500 Hits 7,000, Trump Warns Iran, Minneapolis Tensions, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T14:38:08.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/private-equity-firms-refines-their-approach-to-china",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/private-equity-firms-refines-their-approach-to-china",
+      "title": "A Change of Approach for Private Equity in China",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T14:16:51.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/trump-wants-to-fix-the-broken-us-housing-market-can-he-succeed",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/trump-wants-to-fix-the-broken-us-housing-market-can-he-succeed",
+      "title": "Trump Wants to Fix the Broken US Housing Market. Can He Succeed?",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T14:07:22.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/eu-grows-wary-of-a-growing-reliance-on-us-energy",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/eu-grows-wary-of-a-growing-reliance-on-us-energy",
+      "title": "EU Grows Wary of a Growing Reliance on US Energy",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T14:00:01.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/omar-town-hall-attack-trump-warns-iran-amazon-cuts-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/omar-town-hall-attack-trump-warns-iran-amazon-cuts-more",
+      "title": "Omar Town Hall Attack, Trump Warns Iran, Amazon Cuts, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T13:46:28.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/telecom-italia-investors-approve-overhaul-of-share-structure",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/telecom-italia-investors-approve-overhaul-of-share-structure",
+      "title": "Telecom Italia Investors Approve Overhaul of Share Structure",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T13:25:28.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/esg-currents-how-ai-and-energy-are-reshaping-corporate-strategy",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/esg-currents-how-ai-and-energy-are-reshaping-corporate-strategy",
+      "title": "ESG Currents: How AI and Energy Are Reshaping Corporate Strategy",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T13:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/india-and-canada-to-anchor-trade-in-energy-critical-minerals",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/india-and-canada-to-anchor-trade-in-energy-critical-minerals",
+      "title": "India and Canada to Anchor Trade in Energy, Critical Minerals",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T12:56:04.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/amazon-job-cuts-minneapolis-tensions-trump-warns-iran-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/amazon-job-cuts-minneapolis-tensions-trump-warns-iran-more",
+      "title": "Amazon Job Cuts, Minneapolis Tensions, Trump Warns Iran, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T12:43:13.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-asml-amazon-ge-vernova-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-asml-amazon-ge-vernova-podcast",
+      "title": "Stock Movers: ASML, Amazon, GE Vernova (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T12:01:59.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/chernin-group-takes-stake-in-rest-is-history-podcast-network",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/chernin-group-takes-stake-in-rest-is-history-podcast-network",
+      "title": "Chernin Group Takes Stake in ‘Rest Is History’ Podcast Network",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T12:00:30.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/apollo-stung-by-asset-backed-loan-to-amazon-aggregator",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/apollo-stung-by-asset-backed-loan-to-amazon-aggregator",
+      "title": "Apollo Stung by Asset-Backed Loan to Amazon Aggregator",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T12:00:23.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/amazon-cuts-16-000-more-jobs-amid-rising-ai-competition",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/amazon-cuts-16-000-more-jobs-amid-rising-ai-competition",
+      "title": "Amazon Cuts 16,000 More Jobs Amid Rising AI Competition",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T12:00:09.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/india-eu-trade-deal-to-benefit-labor-intensive-sectors-offset-trump-tariffs",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/india-eu-trade-deal-to-benefit-labor-intensive-sectors-offset-trump-tariffs",
+      "title": "Modi Ramps Up Trade Deals as India Looks to Counter Trump Tariffs",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T11:43:15.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/trump-s-minnesota-de-escalation-fed-decision-day-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/trump-s-minnesota-de-escalation-fed-decision-day-more",
+      "title": "Trump's Minnesota De-Escalation, Fed Decision Day, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T11:23:40.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/buyout-firm-hg-sued-by-ex-director-in-10-million-equal-pay-case",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/buyout-firm-hg-sued-by-ex-director-in-10-million-equal-pay-case",
+      "title": "Hg Sued by Ex-Director in £10 Million Equal Pay Lawsuit",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T11:23:10.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/bluecrest-goes-to-uk-supreme-court-in-senior-trader-tax-dispute",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/bluecrest-goes-to-uk-supreme-court-in-senior-trader-tax-dispute",
+      "title": "BlueCrest Goes to Supreme Court in Senior Trader Tax Dispute",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T11:12:05.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/merryn-talks-money-how-much-insurance-do-you-need-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/merryn-talks-money-how-much-insurance-do-you-need-podcast",
+      "title": "Merryn Talks Money: How Much Insurance Do You Need? (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T10:37:38.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/trump-seeks-minnesota-de-escalation-fed-decision-preview-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/trump-seeks-minnesota-de-escalation-fed-decision-preview-more",
+      "title": "Trump Seeks Minnesota De-Escalation, Fed Decision Preview, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T10:30:19.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/surteco-is-said-to-weigh-sale-of-skirtings-profile-businesses",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/surteco-is-said-to-weigh-sale-of-skirtings-profile-businesses",
+      "title": "Surteco Is Said to Weigh Sale of Skirtings, Profile Businesses",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T10:26:20.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/bloomberg-daybreak-trump-seeks-calm-in-minnesota-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/bloomberg-daybreak-trump-seeks-calm-in-minnesota-podcast",
+      "title": "Bloomberg Daybreak: Trump Seeks Calm in Minnesota (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T10:24:02.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-asml-debenhams-societe-generale-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-asml-debenhams-societe-generale-podcast",
+      "title": "Stock Movers: ASML, Debenhams, Societe Generale (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T10:03:26.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/lng-still-too-pricey-for-indian-demand-boost-top-importer-says",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/lng-still-too-pricey-for-indian-demand-boost-top-importer-says",
+      "title": "LNG Still Too Pricey for Indian Demand Boost, Top Importer Says",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T09:59:38.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/asml-results-shine-trump-embraces-weaker-dollar-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/asml-results-shine-trump-embraces-weaker-dollar-more",
+      "title": "ASML Results Shine, Trump Embraces Weaker Dollar, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T09:26:21.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-asml-lvmh-volvo-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-asml-lvmh-volvo-podcast",
+      "title": "Stock Movers: ASML, LVMH, Volvo (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T09:05:15.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/investors-are-bracing-for-a-new-downtrend-in-the-dollar",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/investors-are-bracing-for-a-new-downtrend-in-the-dollar",
+      "title": "Investors Are Bracing for a New Downtrend in the Dollar",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T09:00:30.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/trump-deepens-dollar-woes-asml-shares-surge-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/trump-deepens-dollar-woes-asml-shares-surge-more",
+      "title": "Trump Deepens Dollar Woes, ASML Shares Surge, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T08:23:51.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/starmer-seeks-to-court-china-without-annoying-trump",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/starmer-seeks-to-court-china-without-annoying-trump",
+      "title": "Cautiously Courting China",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T08:15:17.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/dollar-slide-drives-gold-demand-asml-s-record-orders",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/dollar-slide-drives-gold-demand-asml-s-record-orders",
+      "title": "Dollar Slide Drives Gold Demand, ASML’s Record Orders",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T07:49:37.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/dollar-steadies-after-drop-uk-business-courts-china-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/dollar-steadies-after-drop-uk-business-courts-china-more",
+      "title": "Dollar Steadies After Drop, UK Business Courts China, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T06:49:16.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/bloomberg-daybreak-europe-trump-fuels-dollar-drop-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/bloomberg-daybreak-europe-trump-fuels-dollar-drop-podcast",
+      "title": "Bloomberg Daybreak Europe: Trump Fuels Dollar Drop (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T06:45:39.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/trump-says-he-s-not-concerned-about-dollar-slump",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/trump-says-he-s-not-concerned-about-dollar-slump",
+      "title": "Trump Says He’s Not Concerned About Dollar Slump",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T06:15:51.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-27/evergrande-property-said-to-expect-binding-offers-by-this-month",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-27/evergrande-property-said-to-expect-binding-offers-by-this-month",
+      "title": "Evergrande Property Expecting Binding Offers by This Month",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T06:09:22.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-28/gop-senators-call-for-noem-to-resign-trump-iowa-address-more",
       "url": "https://www.bloomberg.com/news/audio/2026-01-28/gop-senators-call-for-noem-to-resign-trump-iowa-address-more",
       "title": "GOP Senators Call for Noem to Resign, Trump Iowa Address, More",

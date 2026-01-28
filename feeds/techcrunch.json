@@ -6,6 +6,38 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3086905",
+      "url": "https://techcrunch.com/2026/01/28/standard-nuclear-raises-140m-as-nuclear-power-enters-its-gold-rush-era/",
+      "title": "Standard Nuclear raises $140M as nuclear power enters its gold rush era",
+      "content_html": "Investors including a16z are betting that nuclear industry suppliers will be the big winners of the AI demand-driven nuclear renaissance.",
+      "content_text": "Investors including a16z are betting that nuclear industry suppliers will be the big winners of the AI demand-driven nuclear renaissance.",
+      "date_published": "2026-01-28T15:07:37.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087128",
+      "url": "https://techcrunch.com/2026/01/28/linkedin-will-let-you-show-off-your-vibe-coding-chops-with-a-certificate/",
+      "title": "LinkedIn will let you show off your vibe coding chops with a certificate",
+      "content_html": "LinkedIn is partnering with Descript, Lovable, Replit, and Relay.app at launch",
+      "content_text": "LinkedIn is partnering with Descript, Lovable, Replit, and Relay.app at launch",
+      "date_published": "2026-01-28T15:06:27.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086897",
+      "url": "https://techcrunch.com/2026/01/28/the-conference-where-founders-scale-founder-summit-2026-tickets-are-now-live-at-the-lowest-prices/",
+      "title": "The conference where founders scale: TechCrunch Founder Summit 2026 tickets are now live at the lowest prices",
+      "content_html": "TechCrunch Founder Summit 2026 unites 1,100 founders and investors in Boston on June 23 for a day focused on real-world scaling insights and networking that pushes the needle. Save up to $300 on your ticket.",
+      "content_text": "TechCrunch Founder Summit 2026 unites 1,100 founders and investors in Boston on June 23 for a day focused on real-world scaling insights and networking that pushes the needle. Save up to $300 on your ticket.",
+      "date_published": "2026-01-28T15:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087119",
+      "url": "https://techcrunch.com/2026/01/28/samsung-teases-new-privacy-feature-to-hide-your-galaxy-phone-screen-from-onlookers/",
+      "title": "Samsung teases new privacy feature to hide your Galaxy phone screen from onlookers",
+      "content_html": "Samsung said that the upcoming feature will let you protect selected parts of the screen like notification popup area.",
+      "content_text": "Samsung said that the upcoming feature will let you protect selected parts of the screen like notification popup area.",
+      "date_published": "2026-01-28T14:44:18.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087124",
       "url": "https://techcrunch.com/2026/01/28/amazon-says-it-is-laying-off-16000-employees/",
       "title": "Amazon says it is laying off 16,000 employees",

@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/travel/5-stylish-hotels-for-city-lovers.html",
+      "url": "https://www.nytimes.com/2026/01/28/travel/5-stylish-hotels-for-city-lovers.html",
+      "title": "5 New Stylish Hotels for City Lovers",
+      "content_html": "New accommodations around the world allow you to soak up urban culture and immerse yourself in hotel creature comforts.",
+      "content_text": "New accommodations around the world allow you to soak up urban culture and immerse yourself in hotel creature comforts.",
+      "date_published": "2026-01-28T14:46:00.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/business/starbucks-sales-earnings-turnaround.html",
       "url": "https://www.nytimes.com/2026/01/28/business/starbucks-sales-earnings-turnaround.html",
       "title": "Starbucks Says Turnaround ‘Ahead of Schedule’ as Sales Rebound",

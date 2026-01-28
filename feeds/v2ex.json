@@ -17,6 +17,38 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189141",
+      "url": "https://www.v2ex.com/t/1189141#reply0",
+      "title": "[分享发现] 玩 newapi 部署中转站，切记，一定不要选免费二级域名啊，被搞死了🤣",
+      "content_html": "<p>用之前白嫖的永久免费域名 qzz . io 搭的</p>\n<p>Mac 完全没问题，因为对 SSL 要求低，</p>\n<p>这两天有一部分 win 兄弟，DNS 解析正确（ Cloudflare IP ），但 Windows SSL 握手失败。这是 Windows Schannel 的问题。</p>\n<p>各种办法依然没解决，也尝试了 Tunnel ，依然解不了。</p>\n<p>晚上换成了一级付费域名，立马解决。</p>\n<p>折腾了半个下午及小半个晚上🤣。</p>",
+      "content_text": "用之前白嫖的永久免费域名 qzz . io 搭的\nMac 完全没问题，因为对 SSL 要求低，\n这两天有一部分 win 兄弟，DNS 解析正确（ Cloudflare IP ），但 Windows SSL 握手失败。这是 Windows Schannel 的问题。\n各种办法依然没解决，也尝试了 Tunnel ，依然解不了。\n晚上换成了一级付费域名，立马解决。\n折腾了半个下午及小半个晚上🤣。",
+      "date_published": "2026-01-28T15:10:06.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189139",
+      "url": "https://www.v2ex.com/t/1189139#reply0",
+      "title": "[Cloudflare] CF 的 ai 反爬 robots.txt 似乎部分情况下跟 Pages 机制冲突？",
+      "content_html": "<h2>触发条件</h2>\n<ul>\n<li>Pages 有一个根域名（二级域名好像没这问题）的自定义域</li>\n<li>部署的 Pages 里没有 <code>404.html</code>，有正常的 <code>index.html</code></li>\n<li>仪表板的 AI Crawl Control => Robots.txt => Cloudflare managed 开着</li>\n</ul>\n<h2>现象</h2>\n<ul>\n<li>手动访问 <code><a href=\"http://xxx.com/robots.txt\" rel=\"nofollow\">xxx.com/robots.txt</a></code> 的时候 <code>index.html</code> 的文件内容会出现在 CF 的 robots.txt 模板下面，感觉像 Pages 默认回落的逻辑也跟着执行了。大概就像这样：</li>\n</ul>\n<pre><code># As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n...\n\n# BEGIN Cloudflare Managed content\n\nUser-agent: *\nContent-Signal: search=yes,ai-train=no\nAllow: /\n\n...\n\n# END Cloudflare Managed Content\n\n<!DOCTYPE html>\n<html lang=\"zh\">\n\t...\n</html>\n</code></pre>",
+      "content_text": "触发条件\n\nPages 有一个根域名（二级域名好像没这问题）的自定义域\n部署的 Pages 里没有 404.html，有正常的 index.html\n仪表板的 AI Crawl Control => Robots.txt => Cloudflare managed 开着\n\n现象\n\n手动访问 xxx.com/robots.txt 的时候 index.html 的文件内容会出现在 CF 的 robots.txt 模板下面，感觉像 Pages 默认回落的逻辑也跟着执行了。大概就像这样：\n\n# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n...\n\n# BEGIN Cloudflare Managed content\n\nUser-agent: *\nContent-Signal: search=yes,ai-train=no\nAllow: /\n\n...\n\n# END Cloudflare Managed Content\n\n\n\n\t...",
+      "date_published": "2026-01-28T14:48:30.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189138",
+      "url": "https://www.v2ex.com/t/1189138#reply0",
+      "title": "[问与答] 国内地区，想购买水果味的电子烟带尼古丁，不想找朋友买，每次都不收我钱，不好意思",
+      "content_html": "<p>更愿意自己花点钱都行，最好是大厂出品的，出口转内销，或者内部导出来这种。\n我抽的比较多的就是深圳爱奇迹这家公司的</p>",
+      "content_text": "更愿意自己花点钱都行，最好是大厂出品的，出口转内销，或者内部导出来这种。\n我抽的比较多的就是深圳爱奇迹这家公司的",
+      "date_published": "2026-01-28T14:47:24.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189137",
+      "url": "https://www.v2ex.com/t/1189137#reply0",
+      "title": "[DNS] FakeIP 莫名奇妙的问题",
+      "content_html": "之前一直用 Redir-host ，但是最近发现，openclash 默认推荐 FakeIP ，包括 Surge 也是用的 FakeIP ，尝试把 openclash 改成了 FakeIP 模式，感受是网页载入是要快一些。<br />结果问题接踵而来，最开始是 DDNS 全部失效，尝试把我的域名加入 FakeIP 加入到 FakeIP Filter 。ddns 暂时恢复。<br />接下来就是 Docker ，部署在 NAS Docker 里面的服务全部无法访问。NAS 也无法通过域名访问。<br />大家用的什么模式的代理方式呢？",
+      "content_text": "之前一直用 Redir-host ，但是最近发现，openclash 默认推荐 FakeIP ，包括 Surge 也是用的 FakeIP ，尝试把 openclash 改成了 FakeIP 模式，感受是网页载入是要快一些。结果问题接踵而来，最开始是 DDNS 全部失效，尝试把我的域名加入 FakeIP 加入到 FakeIP Filter 。ddns 暂时恢复。接下来就是 Docker ，部署在 NAS Docker 里面的服务全部无法访问。NAS 也无法通过域名访问。大家用的什么模式的代理方式呢？",
+      "date_published": "2026-01-28T14:46:07.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1189135",
       "url": "https://www.v2ex.com/t/1189135#reply0",
       "title": "[分享发现] 累计签到 1000 天😄",

@@ -6,6 +6,38 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/hong-kong/article/3341590/how-ai-model-predicts-heavy-rainstorms-4-hours-advance-satellite-data?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/article/3341590/how-ai-model-predicts-heavy-rainstorms-4-hours-advance-satellite-data?utm_source=rss_feed",
+      "title": "How AI model predicts heavy rainstorms 4 hours in advance with satellite data",
+      "content_html": "Hong Kong and mainland Chinese scholars have developed a pioneering AI model that uses satellite data to forecast heavy rainstorms up to four hours before they strike, much earlier than current predictions allow.\nThe model represented a “major advancement in atmospheric monitoring and severe weather early warnings, enabling faster and more accurate forecasts and strengthening regional disaster preparedness and response”, Dr Dai Kuai, a postdoctoral fellow in the University of Science and...",
+      "content_text": "Hong Kong and mainland Chinese scholars have developed a pioneering AI model that uses satellite data to forecast heavy rainstorms up to four hours before they strike, much earlier than current predictions allow.\nThe model represented a “major advancement in atmospheric monitoring and severe weather early warnings, enabling faster and more accurate forecasts and strengthening regional disaster preparedness and response”, Dr Dai Kuai, a postdoctoral fellow in the University of Science and...",
+      "date_published": "2026-01-28T15:13:55.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/world/united-states-canada/article/3341589/sp-500-hits-7000-first-time-nvidia-microsoft-and-ai-boom-drive-market-surge?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3341589/sp-500-hits-7000-first-time-nvidia-microsoft-and-ai-boom-drive-market-surge?utm_source=rss_feed",
+      "title": "S&P 500 hits 7,000 for first time as Nvidia, Microsoft and AI boom drive market surge",
+      "content_html": "The S&P 500 breached the 7,000-point mark for the first time on Wednesday, driven by unrelenting optimism over artificial ‌intelligence and expectations of strong Big Tech earnings as well as monetary ‍policy easing.\nThe benchmark index’s ascent between successive 1,000-point additions has quickened in recent years, reflecting mounting investor confidence in the US economy and corporate America.\nIt took about three years for the S&P 500 ⁠to rise to 5,000 points from 4,000, but only about nine...",
+      "content_text": "The S&P 500 breached the 7,000-point mark for the first time on Wednesday, driven by unrelenting optimism over artificial ‌intelligence and expectations of strong Big Tech earnings as well as monetary ‍policy easing.\nThe benchmark index’s ascent between successive 1,000-point additions has quickened in recent years, reflecting mounting investor confidence in the US economy and corporate America.\nIt took about three years for the S&P 500 ⁠to rise to 5,000 points from 4,000, but only about nine...",
+      "date_published": "2026-01-28T15:06:20.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/economy/global-economy/article/3341550/why-greenlands-rare-earth-riches-cannot-end-us-dependence-chinas-minerals?utm_source=rss_feed",
+      "url": "https://www.scmp.com/economy/global-economy/article/3341550/why-greenlands-rare-earth-riches-cannot-end-us-dependence-chinas-minerals?utm_source=rss_feed",
+      "title": "Why Greenland’s rare earth riches cannot end US dependence on China’s minerals",
+      "content_html": "Despite the United States pushing to acquire Greenland, geological and technical constraints have so far prevented any country – including China – from successfully extracting and processing one of the Danish territory’s main critical minerals, a New York-based mining investor said.\n“In the Arctic, one of the popular – the sort of commonly occurring mineral – is called eudialyte,” said Tomasz Nadrowski, portfolio manager at Amvest Terraden, an investment and corporate finance firm specialising...",
+      "content_text": "Despite the United States pushing to acquire Greenland, geological and technical constraints have so far prevented any country – including China – from successfully extracting and processing one of the Danish territory’s main critical minerals, a New York-based mining investor said.\n“In the Arctic, one of the popular – the sort of commonly occurring mineral – is called eudialyte,” said Tomasz Nadrowski, portfolio manager at Amvest Terraden, an investment and corporate finance firm specialising...",
+      "date_published": "2026-01-28T15:00:10.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/world/europe/article/3341587/caribbean-island-wins-climate-case-against-netherlands-forcing-dutch-action-rising-seas?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/europe/article/3341587/caribbean-island-wins-climate-case-against-netherlands-forcing-dutch-action-rising-seas?utm_source=rss_feed",
+      "title": "Caribbean island wins climate case against Netherlands forcing Dutch action on rising seas",
+      "content_html": "A court on Wednesday ordered the Dutch government to draw up a plan to protect residents on the tiny Caribbean island of Bonaire from the devastating effects of climate change – a sweeping victory for the islanders.\nThe Hague District Court, in a stunning rebuke of Dutch authorities, also ruled that the government discriminated against the island’s 20,000 inhabitants by not taking “timely and appropriate measures” to protect them from climate change before it is too late.\n“The island already...",
+      "content_text": "A court on Wednesday ordered the Dutch government to draw up a plan to protect residents on the tiny Caribbean island of Bonaire from the devastating effects of climate change – a sweeping victory for the islanders.\nThe Hague District Court, in a stunning rebuke of Dutch authorities, also ruled that the government discriminated against the island’s 20,000 inhabitants by not taking “timely and appropriate measures” to protect them from climate change before it is too late.\n“The island already...",
+      "date_published": "2026-01-28T14:50:37.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/hong-kong/transport/article/3341585/hong-kong-eyes-lowering-age-bar-health-checks-commercial-drivers-65?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/hong-kong/transport/article/3341585/hong-kong-eyes-lowering-age-bar-health-checks-commercial-drivers-65?utm_source=rss_feed",
       "title": "Hong Kong eyes lowering age bar for health checks on commercial drivers to 65",
