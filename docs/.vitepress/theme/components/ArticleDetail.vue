@@ -85,7 +85,7 @@ onUnmounted(() => {
 .article-detail-modal {
   background: var(--vp-c-bg);
   border-radius: 12px;
-  max-width: 900px;
+  max-width: 1000px;
   width: 100%;
   max-height: 90vh;
   display: flex;
@@ -99,14 +99,14 @@ onUnmounted(() => {
   align-items: flex-start;
   justify-content: space-between;
   gap: 1rem;
-  padding: 2rem 2rem 1rem;
+  padding: 1.5rem 2rem 0.75rem;
   border-bottom: 1px solid var(--vp-c-divider);
 }
 
 .modal-title {
-  font-size: 1.75rem;
+  font-size: 1.4rem;
   font-weight: 700;
-  line-height: 1.4;
+  line-height: 1.5;
   margin: 0;
   color: var(--vp-c-text-1);
   flex: 1;
@@ -138,8 +138,8 @@ onUnmounted(() => {
 }
 
 .modal-meta {
-  padding: 1rem 2rem;
-  font-size: 0.95rem;
+  padding: 0.75rem 2rem;
+  font-size: 0.9rem;
   color: var(--vp-c-text-2);
   border-bottom: 1px solid var(--vp-c-divider);
 }
@@ -151,27 +151,32 @@ onUnmounted(() => {
 .modal-content {
   flex: 1;
   overflow-y: auto;
-  padding: 2rem;
-  line-height: 1.8;
+  padding: 1.5rem 2rem;
+  line-height: 1.7;
   color: var(--vp-c-text-1);
+  font-size: 0.95rem;
 }
 
 .modal-content :deep(img) {
   max-width: 100%;
+  max-height: 500px;
   height: auto;
   border-radius: 8px;
-  margin: 1.5rem 0;
+  margin: 1.25rem 0;
+  object-fit: contain;
 }
 
 .modal-content :deep(p) {
-  margin: 1rem 0;
+  margin: 0.85rem 0;
 }
 
 .modal-content :deep(h1),
 .modal-content :deep(h2),
 .modal-content :deep(h3) {
-  margin: 2rem 0 1rem;
+  margin: 1.5rem 0 0.85rem;
   color: var(--vp-c-text-1);
+  font-size: 1.2rem;
+  line-height: 1.4;
 }
 
 .modal-content :deep(a) {
