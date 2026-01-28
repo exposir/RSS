@@ -60,10 +60,10 @@
 | Pornhub国产        | https://exposir.github.io/RSS/feeds/pornhub-guochan.json     | https://expo-rsshub.zeabur.app/pornhub/search/%E5%9B%BD%E4%BA%A7              | ⏳ 待验证 |
 | 财新周刊           | https://exposir.github.io/RSS/feeds/caixin-weekly.json       | https://expo-rsshub.zeabur.app/caixin/weekly                                  | ⏳ 待验证 |
 | 雪球热帖           | https://exposir.github.io/RSS/feeds/xueqiu-hot.json          | https://expo-rsshub.zeabur.app/xueqiu/hots                                    | ⏳ 待验证 |
-| 知乎热榜2          | https://exposir.github.io/RSS/feeds/zhihu-hot2.json          | https://rsshub.app/zhihu/hot                                                  | ⏳ 待验证 |
-| GitHub Trending JS | https://exposir.github.io/RSS/feeds/github-trending-js.json  | https://rsshub.app/github/trending/daily/javascript/en                        | ⏳ 待验证 |
-| Readhub每日早报    | https://exposir.github.io/RSS/feeds/readhub-daily.json       | https://rsshub.app/readhub/daily                                              | ⏳ 待验证 |
-| Readhub            | https://exposir.github.io/RSS/feeds/readhub.json             | https://rsshub.app/readhub                                                    | ⏳ 待验证 |
+| 知乎热榜2          | https://exposir.github.io/RSS/feeds/zhihu-hot2.json          | https://expo-rsshub.zeabur.app/zhihu/hot                                                  | ⏳ 待验证 |
+| GitHub Trending JS | https://exposir.github.io/RSS/feeds/github-trending-js.json  | https://expo-rsshub.zeabur.app/github/trending/daily/javascript/en                        | ⏳ 待验证 |
+| Readhub每日早报    | https://exposir.github.io/RSS/feeds/readhub-daily.json       | https://expo-rsshub.zeabur.app/readhub/daily                                              | ⏳ 待验证 |
+| Readhub            | https://exposir.github.io/RSS/feeds/readhub.json             | https://expo-rsshub.zeabur.app/readhub                                                    | ⏳ 待验证 |
 | 雪球8790885129     | https://exposir.github.io/RSS/feeds/xueqiu-8790885129.json   | https://expo-rsshub.zeabur.app/xueqiu/user/8790885129                         | ⏳ 待验证 |
 | 雪球1247347556     | https://exposir.github.io/RSS/feeds/xueqiu-1247347556.json   | https://expo-rsshub.zeabur.app/xueqiu/user/1247347556                         | ⏳ 待验证 |
 | 91porn             | https://exposir.github.io/RSS/feeds/91porn.json              | https://expo-rsshub.zeabur.app/91porn                                         | ⏳ 待验证 |
