@@ -217,3 +217,7 @@ feeds:
   - name: Pornhub国产
     url: https://expo-rsshub.zeabur.app/pornhub/search/%E5%9B%BD%E4%BA%A7
     output: feeds/pornhub-guochan.json
+
+  - name: 财新周刊
+    url: https://expo-rsshub.zeabur.app/caixin/weekly
+    output: feeds/caixin-weekly.json

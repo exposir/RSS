@@ -58,6 +58,7 @@
 | 知乎热榜           | https://exposir.github.io/RSS/feeds/zhihu-hot.json           | https://expo-rsshub.zeabur.app/zhihu/hot                                      | ⏳ 待验证 |
 | Pornhub中文        | https://exposir.github.io/RSS/feeds/pornhub-chinese.json     | https://expo-rsshub.zeabur.app/pornhub/category/chinese                       | ⏳ 待验证 |
 | Pornhub国产        | https://exposir.github.io/RSS/feeds/pornhub-guochan.json     | https://expo-rsshub.zeabur.app/pornhub/search/%E5%9B%BD%E4%BA%A7              | ⏳ 待验证 |
+| 财新周刊           | https://exposir.github.io/RSS/feeds/caixin-weekly.json       | https://expo-rsshub.zeabur.app/caixin/weekly                                  | ⏳ 待验证 |
 
 ## 状态说明
 
