@@ -70,6 +70,7 @@
 | 晚点LatePost       | https://exposir.github.io/RSS/feeds/latepost.json            | https://expo-rsshub.zeabur.app/latepost                                       | ⏳ 待验证 |
 | 新闻联播           | https://exposir.github.io/RSS/feeds/xwlb.json                | https://expo-rsshub.zeabur.app/cctv/tv/lm/xwlb                                | ⏳ 待验证 |
 | 彭博商业周刊       | https://exposir.github.io/RSS/feeds/bloomberg.json           | https://expo-rsshub.zeabur.app/bloomberg/bbiz                                 | ⏳ 待验证 |
+| 财联社深度         | https://exposir.github.io/RSS/feeds/cls-depth.json           | https://expo-rsshub.zeabur.app/cls/depth/1000                                 | ⏳ 待验证 |
 
 ## 状态说明
 

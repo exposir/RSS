@@ -265,3 +265,7 @@ feeds:
   - name: 彭博商业周刊
     url: https://expo-rsshub.zeabur.app/bloomberg/bbiz
     output: feeds/bloomberg.json
+
+  - name: 财联社深度
+    url: https://expo-rsshub.zeabur.app/cls/depth/1000
+    output: feeds/cls-depth.json
