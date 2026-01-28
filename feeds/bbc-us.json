@@ -6,6 +6,46 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/boxing/articles/c8x9wzw1vzyo#7",
+      "url": "https://www.bbc.com/sport/boxing/articles/c8x9wzw1vzyo?at_medium=RSS&at_campaign=rss",
+      "title": "Fury to face Makhmudov in April comeback fight",
+      "content_html": "Former heavyweight world champion Tyson Fury will face Arslanbek Makhmudov in the UK on 11 April as he ends his latest spell of retirement.",
+      "content_text": "Former heavyweight world champion Tyson Fury will face Arslanbek Makhmudov in the UK on 11 April as he ends his latest spell of retirement.",
+      "date_published": "2026-01-28T13:36:51.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cly5pd459gko#0",
+      "url": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
+      "title": "Trump warns Iran 'time is running out' as US military builds up in Gulf",
+      "content_html": "He says a \"massive Armada\" is \"moving quickly, with great power, enthusiasm, and purpose\" towards Iran.",
+      "content_text": "He says a \"massive Armada\" is \"moving quickly, with great power, enthusiasm, and purpose\" towards Iran.",
+      "date_published": "2026-01-28T13:36:34.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4gw47prew7o#0",
+      "url": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss",
+      "title": "China trip will bring benefits to UK, Starmer insists, as he lands in Beijing",
+      "content_html": "The prime minister seeks to strengthen ties with China but faces fierce criticism from opponents at home.",
+      "content_text": "The prime minister seeks to strengthen ties with China but faces fierce criticism from opponents at home.",
+      "date_published": "2026-01-28T13:32:07.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/czx12q8qnweo#3",
+      "url": "https://www.bbc.com/news/articles/czx12q8qnweo?at_medium=RSS&at_campaign=rss",
+      "title": "US YouTube star IShowSpeed to get Ghanaian passport as Africa tour ends",
+      "content_html": "Ghana's foreign minister says the influencer is a \"worthy ambassador\", but some Ghanaians criticised the move.",
+      "content_text": "Ghana's foreign minister says the influencer is a \"worthy ambassador\", but some Ghanaians criticised the move.",
+      "date_published": "2026-01-28T13:25:56.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/ckgjp51ej01o#0",
+      "url": "https://www.bbc.com/news/articles/ckgjp51ej01o?at_medium=RSS&at_campaign=rss",
+      "title": "Harry Styles to break Wembley Stadium record with 12 shows",
+      "content_html": "The star will break records set by Coldplay and Taylor Swift by staging a 12-night residency.",
+      "content_text": "The star will break records set by Coldplay and Taylor Swift by staging a 12-night residency.",
+      "date_published": "2026-01-28T13:18:53.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cdjnpvl201yo#0",
       "url": "https://www.bbc.com/news/articles/cdjnpvl201yo?at_medium=RSS&at_campaign=rss",
       "title": "Top private school 'failed to protect pupils' from sexual and physical abuse",
@@ -38,6 +78,14 @@
       "date_published": "2026-01-28T12:31:39.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c3wz2x7ppz7o#0",
+      "url": "https://www.bbc.com/news/articles/c3wz2x7ppz7o?at_medium=RSS&at_campaign=rss",
+      "title": "Why China views the UK visit as part of something bigger",
+      "content_html": "Sir Keir Starmer is one of a number of world leaders heading to Beijing",
+      "content_text": "Sir Keir Starmer is one of a number of world leaders heading to Beijing",
+      "date_published": "2026-01-28T12:16:59.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cvg1z091melo#3",
       "url": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
       "title": "'I couldn't save them' - US mum's horror as three sons die falling through pond ice",
@@ -52,6 +100,14 @@
       "content_html": "Novak Djokovic has only played 11 sets on his way to the Australian Open semi-finals, largely thanks to some good fortune. Does that help or hinder him?",
       "content_text": "Novak Djokovic has only played 11 sets on his way to the Australian Open semi-finals, largely thanks to some good fortune. Does that help or hinder him?",
       "date_published": "2026-01-28T11:53:43.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cp37prvp072o#3",
+      "url": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&at_campaign=rss",
+      "title": "Government offers UK adults free AI training for work",
+      "content_html": "The online lessons give advice on things such as how to prompt chatbots or complete admin tasks.",
+      "content_text": "The online lessons give advice on things such as how to prompt chatbots or complete admin tasks.",
+      "date_published": "2026-01-28T11:50:21.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cp37prvp072o#0",
@@ -156,6 +212,14 @@
       "content_html": "The African nation argues it is owed payments but the Home Office says it will fight the case.",
       "content_text": "The African nation argues it is owed payments but the Home Office says it will fight the case.",
       "date_published": "2026-01-28T09:25:31.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cddgp9jgjz1o#3",
+      "url": "https://www.bbc.com/news/articles/cddgp9jgjz1o?at_medium=RSS&at_campaign=rss",
+      "title": "EasyJet warned over 'misleading' £5.99 cabin bag fee",
+      "content_html": "The airline said the fact there were no bags available for less than £5.99 meant the claim was not misleading.",
+      "content_text": "The airline said the fact there were no bags available for less than £5.99 meant the claim was not misleading.",
+      "date_published": "2026-01-28T09:04:38.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/golf/articles/crlepwwdyjwo#7",

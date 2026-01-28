@@ -17,6 +17,30 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189132",
+      "url": "https://www.v2ex.com/t/1189132#reply0",
+      "title": "[问与答] wise 开的那个港户星展银行有什么用？",
+      "content_html": "前一段跟风开了，但不知道有什么用。<br />这个户能直接从官网或者 app 渠道登录吗？",
+      "content_text": "前一段跟风开了，但不知道有什么用。这个户能直接从官网或者 app 渠道登录吗？",
+      "date_published": "2026-01-28T13:31:29.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189131",
+      "url": "https://www.v2ex.com/t/1189131#reply0",
+      "title": "[Meteora] 1440",
+      "content_html": "一天有 1440 分钟。<br /><br />如果 1 分钟能产生 $2 的收益，那么一年就是 2 * 1440 * 365 = 1,051,200<br /><br />大约 1.05M 的年收益。<br /><br />如果 Pool 的费率是 0.20%，那么每 $1000 成交量能产生 $2 ，需要一天有 1000 * 1440 = 1,440,000<br /><br />大约 1.4M 的 daily volume 。",
+      "content_text": "一天有 1440 分钟。如果 1 分钟能产生 $2 的收益，那么一年就是 2 * 1440 * 365 = 1,051,200大约 1.05M 的年收益。如果 Pool 的费率是 0.20%，那么每 $1000 成交量能产生 $2 ，需要一天有 1000 * 1440 = 1,440,000大约 1.4M 的 daily volume 。",
+      "date_published": "2026-01-28T13:16:59.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189130",
+      "url": "https://www.v2ex.com/t/1189130#reply0",
+      "title": "[小散户的日常] 比特币交易日记：第八天复盘",
+      "content_html": "<p>以下内容仅为个人交易复盘，不构成投资建议。\n强烈不建议任何人入市参与。\n本人只是日内小仓位操作，纯练手，切勿抱有赚钱幻想。</p>\n<p>今日趋势由弱转强逐渐显明，主力不断在压力线附近出货吸筹，看好上升趋势。我经验比较少，很少做趋势，趋势主要是买入持有，下了 20%的仓位。</p>\n<p><img alt=\"d3227ee9fbfb4a0fd5e5400e9f82c216.jpeg\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.mji.rip/2026/01/28/d3227ee9fbfb4a0fd5e5400e9f82c216.jpeg\"/></p>",
+      "content_text": "以下内容仅为个人交易复盘，不构成投资建议。\n强烈不建议任何人入市参与。\n本人只是日内小仓位操作，纯练手，切勿抱有赚钱幻想。\n今日趋势由弱转强逐渐显明，主力不断在压力线附近出货吸筹，看好上升趋势。我经验比较少，很少做趋势，趋势主要是买入持有，下了 20%的仓位。",
+      "date_published": "2026-01-28T13:13:23.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1189129",
       "url": "https://www.v2ex.com/t/1189129#reply0",
       "title": "[分享创造] [分享] ToMic - 把你的手机变成电脑的高质量麦克风 (Win/Mac, 0 App 安装, 低延迟)",

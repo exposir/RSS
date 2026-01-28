@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/business/starbucks-sales-earnings-turnaround.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/starbucks-sales-earnings-turnaround.html",
+      "title": "Starbucks Says Turnaround ‘Ahead of Schedule’ as Sales Rebound",
+      "content_html": "The coffee chain’s stock jumped after a better-than-expected earnings report.",
+      "content_text": "The coffee chain’s stock jumped after a better-than-expected earnings report.",
+      "date_published": "2026-01-28T13:31:23.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/business/dealbook/powell-federal-reserve-rates.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/dealbook/powell-federal-reserve-rates.html",
+      "title": "Five Questions for Jerome Powell, the Fed Chair",
+      "content_html": "Succession drama, legal intrigue and political independence: These are top issues that DealBook would ask of the Federal Reserve chairman.",
+      "content_text": "Succession drama, legal intrigue and political independence: These are top issues that DealBook would ask of the Federal Reserve chairman.",
+      "date_published": "2026-01-28T13:20:13.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/business/dealbook/clay-start-up-tender-offers.html",
+      "url": "https://www.nytimes.com/2026/01/28/business/dealbook/clay-start-up-tender-offers.html",
+      "title": "Clay, an A.I. Sales Start-Up, Lets Employees Cash Out. Again.",
+      "content_html": "The company is part of a newer generation of software upstarts holding multiple tender offers where workers can sell stock before going public.",
+      "content_text": "The company is part of a newer generation of software upstarts holding multiple tender offers where workers can sell stock before going public.",
+      "date_published": "2026-01-28T13:15:59.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/business/economy/fed-trump-powell-interest-rates.html",
       "url": "https://www.nytimes.com/2026/01/28/business/economy/fed-trump-powell-interest-rates.html",
       "title": "Fed Meeting Comes at Pivotal Moment for Central Bank’s Independence",

@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "fc3f96fb-35e6-401b-8d71-befa89763245",
+      "url": "https://www.smh.com.au/sport/tennis/shocker-volley-allows-aussies-to-force-decider-20260129-p5nxtx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Shocker volley allows Aussies to force decider",
+      "content_html": "Kimberly Birrell and Talia Gibson take their quarter-final to the third set.",
+      "content_text": "Kimberly Birrell and Talia Gibson take their quarter-final to the third set.",
+      "date_published": "2026-01-28T13:23:23.000Z"
+    },
+    {
       "id": "981b763a-de20-40bd-8eb1-00a9aada64fb",
       "url": "https://www.smh.com.au/business/consumer-affairs/landmark-moment-renewables-record-surge-sends-power-prices-tumbling-20260128-p5nxmf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "‘Landmark moment’: Renewables’ record surge sends power prices tumbling",
