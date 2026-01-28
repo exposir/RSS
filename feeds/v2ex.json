@@ -17,6 +17,38 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189146",
+      "url": "https://www.v2ex.com/t/1189146#reply0",
+      "title": "[IPv6] 你们的家宽，给的 IPV6，会给 PPPoE 接口一个单独的 GUA 吗?",
+      "content_html": "<p>还是只获得一个 PD 前缀?<br/>\n我这里 ISP 只给个 PD,<br/>\n而事情的起因，是我想隐藏内网的一些设备，于是折腾一下 ULA+NAT66 出站，<br/>\nROUTEROS V6 如果接口有个 GUA 比较方便 NAT66 ，否则就要在 PD 里通过脚本举一个出来，需要脚本守护每次 PD 变化进行操作,<br/>\n于是就好奇问一下你们的情况?</p>",
+      "content_text": "还是只获得一个 PD 前缀?\n我这里 ISP 只给个 PD,\n而事情的起因，是我想隐藏内网的一些设备，于是折腾一下 ULA+NAT66 出站，\nROUTEROS V6 如果接口有个 GUA 比较方便 NAT66 ，否则就要在 PD 里通过脚本举一个出来，需要脚本守护每次 PD 变化进行操作,\n于是就好奇问一下你们的情况?",
+      "date_published": "2026-01-28T15:57:18.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189145",
+      "url": "https://www.v2ex.com/t/1189145#reply0",
+      "title": "[宽带症候群] 求推荐：上海电信太贵了，移动打客服问了也不便宜，联通小区没资源",
+      "content_html": "本来想办联通，结果客服说小区没有联通的资源。。<br />求推荐渠道，没有手机套餐的需求，要单宽。需求不高，电信或者移动哪个便宜用哪个",
+      "content_text": "本来想办联通，结果客服说小区没有联通的资源。。求推荐渠道，没有手机套餐的需求，要单宽。需求不高，电信或者移动哪个便宜用哪个",
+      "date_published": "2026-01-28T15:54:57.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189144",
+      "url": "https://www.v2ex.com/t/1189144#reply0",
+      "title": "[分享创造] AI 短视频和漫画制作工具",
+      "content_html": "<p>开源一个短视频和漫画制作工具,感兴趣的可以使用.</p>\n<p>基于 Gemini 的 nano banana 和 VEO. (需配置自己的 API_KEY, 支持第三方供应商的接口)</p>\n<p><a href=\"https://github.com/nolanzhao/creative_tools\" rel=\"nofollow\">https://github.com/nolanzhao/creative_tools</a></p>\n<p>本地部署,目前只在 mac 运行过;</p>\n<p>其他系统也支持,需自行调试;</p>\n<p>欢迎使用! 好用的话记得给个 Star ~</p>",
+      "content_text": "开源一个短视频和漫画制作工具,感兴趣的可以使用.\n基于 Gemini 的 nano banana 和 VEO. (需配置自己的 API_KEY, 支持第三方供应商的接口)\nhttps://github.com/nolanzhao/creative_tools\n本地部署,目前只在 mac 运行过;\n其他系统也支持,需自行调试;\n欢迎使用! 好用的话记得给个 Star ~",
+      "date_published": "2026-01-28T15:54:24.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189143",
+      "url": "https://www.v2ex.com/t/1189143#reply0",
+      "title": "[程序员] 我们打造了一款比 moltbot（clawdbot）更便宜、使用更简单、全天候 proactive agent",
+      "content_html": "<p>我们一直在思考，一个“真正 always-on 的 proactive agent”应该长什么样，于是做了<strong>memUbot</strong>的尝试。</p>\n<p>它会 24/7 运行，持续记录构建长期记忆，随着时间推移，它会逐渐理解你的习惯和上下文。不再只是等待 Prompt ，而是尝试推断你的意图，在你开口之前就主动行动。\n持续观察 → 记住 → 行动</p>\n<p>在工程上还有一个很现实的点：它被设计成“低成本运行”。\n通过把上下文放进记忆、尽量减少 LLM 调用，它相比 moltbot 使用的 token 要少得多，长期运行的成本也更低。</p>\n<p>你可以在这里直接下载体验： <a href=\"https://memu.bot/\" rel=\"nofollow\">https://memu.bot/</a></p>\n<p>如果你已经在用<strong>moltbot</strong>（原名 clawdbot ），不想迁移，也完全没问题。你可以把我们开源的记忆层<strong>memU</strong>接进去，升级它的 Memory ，让它真正变成一个 24/7 工作的 proactive agent：\n<a href=\"https://github.com/NevaMind-AI/memU\" rel=\"nofollow\">https://github.com/NevaMind-AI/memU</a></p>\n<p>也很欢迎正在做 Agent 或基础设施的朋友给我们一些反馈。</p>",
+      "content_text": "我们一直在思考，一个“真正 always-on 的 proactive agent”应该长什么样，于是做了memUbot的尝试。\n它会 24/7 运行，持续记录构建长期记忆，随着时间推移，它会逐渐理解你的习惯和上下文。不再只是等待 Prompt ，而是尝试推断你的意图，在你开口之前就主动行动。\n持续观察 → 记住 → 行动\n在工程上还有一个很现实的点：它被设计成“低成本运行”。\n通过把上下文放进记忆、尽量减少 LLM 调用，它相比 moltbot 使用的 token 要少得多，长期运行的成本也更低。\n你可以在这里直接下载体验： https://memu.bot/\n如果你已经在用moltbot（原名 clawdbot ），不想迁移，也完全没问题。你可以把我们开源的记忆层memU接进去，升级它的 Memory ，让它真正变成一个 24/7 工作的 proactive agent：\nhttps://github.com/NevaMind-AI/memU\n也很欢迎正在做 Agent 或基础设施的朋友给我们一些反馈。",
+      "date_published": "2026-01-28T15:52:44.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1189141",
       "url": "https://www.v2ex.com/t/1189141#reply0",
       "title": "[分享发现] 玩 newapi 部署中转站，切记，一定不要选免费二级域名啊，被搞死了🤣",
