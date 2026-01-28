@@ -197,3 +197,7 @@ feeds:
   - name: 微博热搜
     url: https://expo-rsshub.zeabur.app/weibo/search/hot
     output: feeds/weibo-hot.json
+
+  - name: 草榴技术讨论
+    url: https://expo-rsshub.zeabur.app/t66y/20/2
+    output: feeds/t66y.json
