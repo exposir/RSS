@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",
+      "title": "Iraq’s Nominee for Prime Minister Rejects Trump Threats",
+      "content_html": "Iraq’s former leader Nuri Kamal al-Maliki is nominated to be the next prime minister but President Trump said the United States would cut all support to the country if that went ahead.",
+      "content_text": "Iraq’s former leader Nuri Kamal al-Maliki is nominated to be the next prime minister but President Trump said the United States would cut all support to the country if that went ahead.",
+      "date_published": "2026-01-28T16:52:54.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/europe/ukraine-train-attack.html",
       "url": "https://www.nytimes.com/2026/01/28/world/europe/ukraine-train-attack.html",
       "title": "After Russian Strike Kills Five, Train Sheds Burned Cars and Carries On",

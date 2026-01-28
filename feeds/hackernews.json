@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46795864",
+      "url": "https://www.himthe.dev/blog/microsoft-to-linux",
+      "title": "Microsoft forced me to switch to Linux",
+      "content_html": "<p>Article URL: <a href=\"https://www.himthe.dev/blog/microsoft-to-linux\">https://www.himthe.dev/blog/microsoft-to-linux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46795864\">https://news.ycombinator.com/item?id=46795864</a></p>\n<p>Points: 355</p>\n<p># Comments: 270</p>",
+      "content_text": "Article URL: https://www.himthe.dev/blog/microsoft-to-linux\nComments URL: https://news.ycombinator.com/item?id=46795864\nPoints: 355\n# Comments: 270",
+      "date_published": "2026-01-28T14:28:21.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46794365",
       "url": "https://www.bmj.com/content/392/bmj.s168",
       "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
@@ -196,6 +204,14 @@
       "content_html": "<p>Article URL: <a href=\"https://nproject.io/blog/juicessh-give-me-back-my-pro-features/\">https://nproject.io/blog/juicessh-give-me-back-my-pro-features/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46768909\">https://news.ycombinator.com/item?id=46768909</a></p>\n<p>Points: 379</p>\n<p># Comments: 155</p>",
       "content_text": "Article URL: https://nproject.io/blog/juicessh-give-me-back-my-pro-features/\nComments URL: https://news.ycombinator.com/item?id=46768909\nPoints: 379\n# Comments: 155",
       "date_published": "2026-01-26T17:46:38.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46768257",
+      "url": "https://www.darioamodei.com/essay/the-adolescence-of-technology",
+      "title": "The Adolescence of Technology",
+      "content_html": "<p>Article URL: <a href=\"https://www.darioamodei.com/essay/the-adolescence-of-technology\">https://www.darioamodei.com/essay/the-adolescence-of-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46768257\">https://news.ycombinator.com/item?id=46768257</a></p>\n<p>Points: 245</p>\n<p># Comments: 146</p>",
+      "content_text": "Article URL: https://www.darioamodei.com/essay/the-adolescence-of-technology\nComments URL: https://news.ycombinator.com/item?id=46768257\nPoints: 245\n# Comments: 146",
+      "date_published": "2026-01-26T17:07:24.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46767668",

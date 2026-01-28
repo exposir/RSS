@@ -6,6 +6,22 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003289978",
+      "url": "https://www.wsj.com/world/europe/spain-moves-to-legalize-migrants-defying-europes-anti-immigration-trend-3781a49f",
+      "title": "Spain Moves to Legalize Migrants, Defying Europe&#x2019;s Anti-Immigration Trend",
+      "content_html": "Spaniards mostly view immigration as beneficial, although far-right opposition is rising.",
+      "content_text": "Spaniards mostly view immigration as beneficial, although far-right opposition is rising.",
+      "date_published": "2026-01-28T16:54:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003289739",
+      "url": "https://www.wsj.com/world/china/xi-jinping-is-stripping-down-his-military-command-and-starting-over-2e747c07",
+      "title": "Xi Jinping Is Stripping Down His Military Command and Starting Over",
+      "content_html": "Since mid-2023, at least 60 senior military officers and defense-industry executives have been placed under investigation, removed from public office or abruptly replaced.",
+      "content_text": "Since mid-2023, at least 60 senior military officers and defense-industry executives have been placed under investigation, removed from public office or abruptly replaced.",
+      "date_published": "2026-01-28T16:34:00.000Z"
+    },
+    {
       "id": "SB11930060785218553820404592640330611984946",
       "url": "https://www.wsj.com/opinion/trumps-greenland-gambit-was-a-once-in-70-years-moment-5b08255c",
       "title": "Opinion | Trump&#x2019;s Greenland Gambit Was a Once-in-70-Years Moment",

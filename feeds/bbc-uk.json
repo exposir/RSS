@@ -6,6 +6,38 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/czx32xkd7d7o#3",
+      "url": "https://www.bbc.com/news/articles/czx32xkd7d7o?at_medium=RSS&at_campaign=rss",
+      "title": "Kaba family 'devastated' as misconduct case paused",
+      "content_html": "The IOPC pauses misconduct proceedings against the officer who shot Chris Kaba, upsetting his family.",
+      "content_text": "The IOPC pauses misconduct proceedings against the officer who shot Chris Kaba, upsetting his family.",
+      "date_published": "2026-01-28T16:31:12.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/cm2yp21zjzqo#7",
+      "url": "https://www.bbc.com/sport/football/articles/cm2yp21zjzqo?at_medium=RSS&at_campaign=rss",
+      "title": "Sterling leaves Chelsea by mutual consent ",
+      "content_html": "Raheem Sterling leaves Chelsea by mutual consent after reaching an agreement on his departure.",
+      "content_text": "Raheem Sterling leaves Chelsea by mutual consent after reaching an agreement on his departure.",
+      "date_published": "2026-01-28T16:30:24.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/cly5ep60ypro#7",
+      "url": "https://www.bbc.com/sport/football/articles/cly5ep60ypro?at_medium=RSS&at_campaign=rss",
+      "title": "Fulham agree to sign Man City winger Bobb for £27m",
+      "content_html": "Fulham agree a £27million deal with Manchester City to sign Oscar Bobb.",
+      "content_text": "Fulham agree a £27million deal with Manchester City to sign Oscar Bobb.",
+      "date_published": "2026-01-28T16:17:02.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c39428dv18yo#3",
+      "url": "https://www.bbc.com/news/articles/c39428dv18yo?at_medium=RSS&at_campaign=rss",
+      "title": "AI model from Google's DeepMind could transform understanding of DNA",
+      "content_html": "It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.",
+      "content_text": "It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.",
+      "date_published": "2026-01-28T16:03:22.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/videos/c04120yqdq5o#0",
       "url": "https://www.bbc.com/news/videos/c04120yqdq5o?at_medium=RSS&at_campaign=rss",
       "title": "Moment BA plane to London loses wheel after take-off in Vegas",

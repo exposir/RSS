@@ -17,6 +17,30 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189153",
+      "url": "https://www.v2ex.com/t/1189153#reply0",
+      "title": "[macOS] Clawdbot， openai 模型可以设置 baseurl 吗？",
+      "content_html": "<p>想走中转站呀，自己有个号池，不想直接登大号</p>",
+      "content_text": "想走中转站呀，自己有个号池，不想直接登大号",
+      "date_published": "2026-01-28T16:45:31.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189152",
+      "url": "https://www.v2ex.com/t/1189152#reply0",
+      "title": "[程序员] [分享] MateBot - 用手机 Telegram 远程控制 Claude Code 编程",
+      "content_html": "<p>开源地址： <a href=\"https://github.com/aresbit/MateBot\" rel=\"nofollow\">https://github.com/aresbit/MateBot</a></p>\n<p>项目简介：\nMateBot （又称 MateCode ）是一个 Claude Code Telegram 桥接工具，对标 clawdbot ，专为 Kimi Code 会员打造。让你通过手机 Telegram 随时随地远程控制 Claude Code ，在通勤路上、咖啡厅里、甚至躺在沙发上都能高效编程。</p>\n<p>Demo</p>\n<p>核心特性：\n📱 手机 Telegram 与 Claude 自然对话\n🔄 智能会话管理（/clear 、/resume 、/continue_）\n📝 代码高亮和格式化回复\n🔒 纯 Polling 模式，无需公网 IP 或端口暴露\n⚡ 零依赖轻量架构，3 步启动</p>\n<p>技术亮点：</p>\n<p>纯 Python 标准库，无外部依赖\n30 秒长轮询，低延迟实时响应\n监控 Claude transcript 即时推送到手机\n纯出站连接，安全无需公网\n对标 clawdbot ，但更安全、更轻量、适合 Kimi Code 会员榨干你的会员权益。</p>",
+      "content_text": "开源地址： https://github.com/aresbit/MateBot\n项目简介：\nMateBot （又称 MateCode ）是一个 Claude Code Telegram 桥接工具，对标 clawdbot ，专为 Kimi Code 会员打造。让你通过手机 Telegram 随时随地远程控制 Claude Code ，在通勤路上、咖啡厅里、甚至躺在沙发上都能高效编程。\nDemo\n核心特性：\n📱 手机 Telegram 与 Claude 自然对话\n🔄 智能会话管理（/clear 、/resume 、/continue_）\n📝 代码高亮和格式化回复\n🔒 纯 Polling 模式，无需公网 IP 或端口暴露\n⚡ 零依赖轻量架构，3 步启动\n技术亮点：\n纯 Python 标准库，无外部依赖\n30 秒长轮询，低延迟实时响应\n监控 Claude transcript 即时推送到手机\n纯出站连接，安全无需公网\n对标 clawdbot ，但更安全、更轻量、适合 Kimi Code 会员榨干你的会员权益。",
+      "date_published": "2026-01-28T16:32:56.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189151",
+      "url": "https://www.v2ex.com/t/1189151#reply0",
+      "title": "[Apple] 外区 App Store 更新 app 时突然碰到了新问题",
+      "content_html": "先说下前提：港版 iPhone ，美区账号，地区是美国，中文系统，邮件里有国区账号<br /><br />今天像往常一样更新 app ，突然弹出提示说“App 不可用”<br />印象里，几乎没出现过这个问题，<br />然后一一排查，也试过开关梯子，都没用<br />而且发现只有字节家两个 app 不可以，飞书和汽水音乐（也可能有更多 只是我没用<br />就连爱优腾 都能正常更新<br />也一直想不通为什么<br />然后我去设置里把地域改成了中国大陆，再回到 App Store 就可以更新了😂<br />不知道这是什么新的 Feature 吗？以后更新 app 又要多个步骤？好烦琐<br /><br /><a target=\"_blank\" href=\"/i/8RG80ylj.png\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 8RG80ylj.png\"><img src=\"//i.v2ex.co/8RG80ylj.png\" class=\"embedded_image\"></a>",
+      "content_text": "先说下前提：港版 iPhone ，美区账号，地区是美国，中文系统，邮件里有国区账号今天像往常一样更新 app ，突然弹出提示说“App 不可用”印象里，几乎没出现过这个问题，然后一一排查，也试过开关梯子，都没用而且发现只有字节家两个 app 不可以，飞书和汽水音乐（也可能有更多 只是我没用就连爱优腾 都能正常更新也一直想不通为什么然后我去设置里把地域改成了中国大陆，再回到 App Store 就可以更新了😂不知道这是什么新的 Feature 吗？以后更新 app 又要多个步骤？好烦琐",
+      "date_published": "2026-01-28T16:27:54.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1189150",
       "url": "https://www.v2ex.com/t/1189150#reply0",
       "title": "[Claude] 使用中转 API,这些考虑是否没必要?",

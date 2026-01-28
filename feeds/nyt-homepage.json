@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/opinion/family-mental-health-homeless-schizophrenia.html",
+      "url": "https://www.nytimes.com/2026/01/28/opinion/family-mental-health-homeless-schizophrenia.html",
+      "title": "The Laws Designed to Protect My Son Could Very Well Kill Him",
+      "content_html": "We thought America would keep him safe.",
+      "content_text": "We thought America would keep him safe.",
+      "date_published": "2026-01-28T16:19:28.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
+      "url": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
+      "title": "With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint",
+      "content_html": "AlphaGenome is a leap forward in the ability to study the human blueprint. But the fine workings of our DNA are still largely a mystery.",
+      "content_text": "AlphaGenome is a leap forward in the ability to study the human blueprint. But the fine workings of our DNA are still largely a mystery.",
+      "date_published": "2026-01-28T16:00:26.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/europe/ukraine-train-attack.html",
       "url": "https://www.nytimes.com/2026/01/28/world/europe/ukraine-train-attack.html",
       "title": "After Russian Strike Kills Five, Train Sheds Burned Cars and Carries On",
@@ -20,6 +36,14 @@
       "content_html": "The comments by Mr. Miller, the influential White House deputy chief of staff, appeared to be a shift after days of blaming Alex Pretti, who was fatally shot by federal agents.",
       "content_text": "The comments by Mr. Miller, the influential White House deputy chief of staff, appeared to be a shift after days of blaming Alex Pretti, who was fatally shot by federal agents.",
       "date_published": "2026-01-28T14:21:45.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/upshot/poll-affordability-housing-prices.html",
+      "url": "https://www.nytimes.com/2026/01/28/upshot/poll-affordability-housing-prices.html",
+      "title": "What Americans Really Mean by ‘Affordability’",
+      "content_html": "A few key necessities are driving dissatisfaction, particularly among the young, our poll finds.",
+      "content_text": "A few key necessities are driving dissatisfaction, particularly among the young, our poll finds.",
+      "date_published": "2026-01-28T14:18:30.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/opinion/minneapolis-ice-trump-gettysburg.html",
