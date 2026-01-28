@@ -6,6 +6,78 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cdjnpvl201yo#0",
+      "url": "https://www.bbc.com/news/articles/cdjnpvl201yo?at_medium=RSS&at_campaign=rss",
+      "title": "Top private school 'failed to protect pupils' from sexual and physical abuse",
+      "content_html": "Children at ex-prime minister Tony Blair's former school in Edinburgh were  abused by both teachers and other pupils over decades.",
+      "content_text": "Children at ex-prime minister Tony Blair's former school in Edinburgh were  abused by both teachers and other pupils over decades.",
+      "date_published": "2026-01-28T13:04:23.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c62vrjyzyxlo#0",
+      "url": "https://www.bbc.com/news/articles/c62vrjyzyxlo?at_medium=RSS&at_campaign=rss",
+      "title": "Badenoch apologises for Braverman mental health claim",
+      "content_html": "But she branded defectors from the Conservative party \"drama queens\", saying people who did not agree with the direction she was taking the party \"need to get out the way\".",
+      "content_text": "But she branded defectors from the Conservative party \"drama queens\", saying people who did not agree with the direction she was taking the party \"need to get out the way\".",
+      "date_published": "2026-01-28T12:56:42.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c7v0948vm9go#0",
+      "url": "https://www.bbc.com/news/articles/c7v0948vm9go?at_medium=RSS&at_campaign=rss",
+      "title": "I will speak out on misogyny, first female Archbishop of Canterbury tells BBC",
+      "content_html": "The first woman to lead the Church of England in its history is officially confirmed at St Paul's Cathedral.",
+      "content_text": "The first woman to lead the Church of England in its history is officially confirmed at St Paul's Cathedral.",
+      "date_published": "2026-01-28T12:47:50.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd7zpgn5n47o#1",
+      "url": "https://www.bbc.com/news/articles/cd7zpgn5n47o?at_medium=RSS&at_campaign=rss",
+      "title": "My dog's treatment cost £1,600 - vet bills are shocking",
+      "content_html": "The government sets out proposals as data finds vet prices rose at nearly twice the inflation rate.",
+      "content_text": "The government sets out proposals as data finds vet prices rose at nearly twice the inflation rate.",
+      "date_published": "2026-01-28T12:31:39.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvg1z091melo#3",
+      "url": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
+      "title": "'I couldn't save them' - US mum's horror as three sons die falling through pond ice",
+      "content_html": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
+      "content_text": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
+      "date_published": "2026-01-28T12:06:27.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/c77k5y4v0m1o#7",
+      "url": "https://www.bbc.com/sport/tennis/articles/c77k5y4v0m1o?at_medium=RSS&at_campaign=rss",
+      "title": "Fresh or undercooked? Djokovic unsure where fortune leaves him",
+      "content_html": "Novak Djokovic has only played 11 sets on his way to the Australian Open semi-finals, largely thanks to some good fortune. Does that help or hinder him?",
+      "content_text": "Novak Djokovic has only played 11 sets on his way to the Australian Open semi-finals, largely thanks to some good fortune. Does that help or hinder him?",
+      "date_published": "2026-01-28T11:53:43.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cp37prvp072o#0",
+      "url": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&at_campaign=rss",
+      "title": "Government offers UK adults free AI training for work",
+      "content_html": "The online lessons give advice on things such as how to prompt chatbots or complete admin tasks.",
+      "content_text": "The online lessons give advice on things such as how to prompt chatbots or complete admin tasks.",
+      "date_published": "2026-01-28T11:50:21.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c20g2d38eg8o#1",
+      "url": "https://www.bbc.com/news/articles/c20g2d38eg8o?at_medium=RSS&at_campaign=rss",
+      "title": "Olivia Dean set to 'light up' Mobo Awards stage",
+      "content_html": "Hip-hop star Eve and comedian Eddie Kadi will host the ceremony being held in Manchester in March.",
+      "content_text": "Hip-hop star Eve and comedian Eddie Kadi will host the ceremony being held in Manchester in March.",
+      "date_published": "2026-01-28T11:44:03.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4g40k40xndo#3",
+      "url": "https://www.bbc.com/news/articles/c4g40k40xndo?at_medium=RSS&at_campaign=rss",
+      "title": "Ecuador says ICE agent attempted to enter its Minneapolis consulate",
+      "content_html": "A complaint has been filed by Ecuador, whose consular staff prevented the agent from entering.",
+      "content_text": "A complaint has been filed by Ecuador, whose consular staff prevented the agent from entering.",
+      "date_published": "2026-01-28T11:43:04.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c4g40k40xndo#0",
       "url": "https://www.bbc.com/news/articles/c4g40k40xndo?at_medium=RSS&at_campaign=rss",
       "title": "Ecuador says ICE agent attempted to enter its Minneapolis consulate",
@@ -68,6 +140,14 @@
       "content_html": "France prop Uini Atonio is forced to retire after he was admitted to an intensive care unit following a \"cardiac event\".",
       "content_text": "France prop Uini Atonio is forced to retire after he was admitted to an intensive care unit following a \"cardiac event\".",
       "date_published": "2026-01-28T09:38:42.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/czx32yxnvzro#3",
+      "url": "https://www.bbc.com/news/articles/czx32yxnvzro?at_medium=RSS&at_campaign=rss",
+      "title": "Rwanda seeks £100m from UK over axed asylum deal",
+      "content_html": "The African nation argues it is owed payments but the Home Office says it will fight the case.",
+      "content_text": "The African nation argues it is owed payments but the Home Office says it will fight the case.",
+      "date_published": "2026-01-28T09:25:31.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/czx32yxnvzro#0",

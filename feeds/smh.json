@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "981b763a-de20-40bd-8eb1-00a9aada64fb",
+      "url": "https://www.smh.com.au/business/consumer-affairs/landmark-moment-renewables-record-surge-sends-power-prices-tumbling-20260128-p5nxmf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Landmark moment’: Renewables’ record surge sends power prices tumbling",
+      "content_html": "Electricity prices in eastern Australia have fallen sharply amid record-breaking contributions from renewables and large-scale batteries.",
+      "content_text": "Electricity prices in eastern Australia have fallen sharply amid record-breaking contributions from renewables and large-scale batteries.",
+      "date_published": "2026-01-28T13:00:00.000Z"
+    },
+    {
+      "id": "bea4b75b-0c38-4e96-b830-4094afea3b52",
+      "url": "https://www.smh.com.au/national/superquiz-thursday-january-29-20260128-p5nxl5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Superquiz, Thursday, January 29",
+      "content_html": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "content_text": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "date_published": "2026-01-28T12:59:00.000Z"
+    },
+    {
+      "id": "a80559c4-2c53-4b34-838a-8a443dc960cb",
+      "url": "https://www.smh.com.au/sport/tennis/aussies-miss-out-in-first-set-20260128-p5nxtu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Aussies miss out in first set",
+      "content_html": "Kimberly Birrell and Talia Gibson lose the first set of their quarter-final against Vera Zvonareva﻿ and Ena Shibahara.",
+      "content_text": "Kimberly Birrell and Talia Gibson lose the first set of their quarter-final against Vera Zvonareva﻿ and Ena Shibahara.",
+      "date_published": "2026-01-28T12:18:13.000Z"
+    },
+    {
       "id": "f7ad6fbb-dd68-4831-89e0-13fc70a2b215",
       "url": "https://www.smh.com.au/sport/tennis/sinner-going-day-by-day-with-fitness-20260128-p5nxtq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Sinner going 'day-by-day' with fitness",

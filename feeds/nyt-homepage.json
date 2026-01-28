@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/europe/russia-putin-syria-al-sharaa-meeting.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/europe/russia-putin-syria-al-sharaa-meeting.html",
+      "title": "Putin, Still Harboring Assad, Welcomes New Syrian Leader to Moscow Again",
+      "content_html": "President Vladimir V. Putin and President Ahmed al-Sharaa are looking to build ties after the fall of the Russia-backed Syrian dictator Bashar al-Assad.",
+      "content_text": "President Vladimir V. Putin and President Ahmed al-Sharaa are looking to build ties after the fall of the Russia-backed Syrian dictator Bashar al-Assad.",
+      "date_published": "2026-01-28T12:14:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/briefing/welcome-to-spain.html",
+      "url": "https://www.nytimes.com/2026/01/28/briefing/welcome-to-spain.html",
+      "title": "Welcome to Spain",
+      "content_html": "Today we look into a country that’s handling the issue of undocumented migrants in a starkly different way.",
+      "content_text": "Today we look into a country that’s handling the issue of undocumented migrants in a starkly different way.",
+      "date_published": "2026-01-28T12:04:00.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html",
       "url": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html",
       "title": "Iran Killed Thousands of Protesters. Here Are Five of Their Stories.",
@@ -132,6 +148,14 @@
       "content_html": "New York State troopers used the badge to settle personal scores and elicit favors. Still, they remained on the job, an investigation found.",
       "content_text": "New York State troopers used the badge to settle personal scores and elicit favors. Still, they remained on the job, an investigation found.",
       "date_published": "2026-01-28T10:00:26.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/arts/television/greg-bovino-ice-late-night.html",
+      "url": "https://www.nytimes.com/2026/01/28/arts/television/greg-bovino-ice-late-night.html",
+      "title": "Desi Lydic Says Gregory Bovino Got ‘Iced Out’",
+      "content_html": "“We’re not throwing you under the bus — we’re throwing you onto a bus, and sending it far, far away,” the “Daily Show” host said of the recalled Border Patrol official.",
+      "content_text": "“We’re not throwing you under the bus — we’re throwing you onto a bus, and sending it far, far away,” the “Daily Show” host said of the recalled Border Patrol official.",
+      "date_published": "2026-01-28T07:26:49.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",

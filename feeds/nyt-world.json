@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/europe/russia-putin-syria-al-sharaa-meeting.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/europe/russia-putin-syria-al-sharaa-meeting.html",
+      "title": "Putin, Still Harboring Assad, Welcomes New Syrian Leader to Moscow Again",
+      "content_html": "President Vladimir V. Putin and President Ahmed al-Sharaa are looking to build ties after the fall of the Russia-backed Syrian dictator Bashar al-Assad.",
+      "content_text": "President Vladimir V. Putin and President Ahmed al-Sharaa are looking to build ties after the fall of the Russia-backed Syrian dictator Bashar al-Assad.",
+      "date_published": "2026-01-28T12:14:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/asia/us-citizen-missing-afghanistan-taliban.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/asia/us-citizen-missing-afghanistan-taliban.html",
+      "title": "Missing in Kabul: The U.S. Citizen Witnesses Say Was Held by the Taliban",
+      "content_html": "Taliban officials deny holding a U.S.-Afghan citizen, who witnesses and U.S. officials say was detained by Afghanistan’s intelligence services in 2022.",
+      "content_text": "Taliban officials deny holding a U.S.-Afghan citizen, who witnesses and U.S. officials say was detained by Afghanistan’s intelligence services in 2022.",
+      "date_published": "2026-01-28T11:58:31.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/doomsday-clock-2026.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/doomsday-clock-2026.html",
+      "title": "Doomsday Clock Ticks Closer Than Ever to Apocalypse",
+      "content_html": "Wars, climate change, disruptive technologies and the rise of autocracy over the past year prompted scientists to set the clock at 85 seconds to midnight.",
+      "content_text": "Wars, climate change, disruptive technologies and the rise of autocracy over the past year prompted scientists to set the clock at 85 seconds to midnight.",
+      "date_published": "2026-01-28T11:57:41.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/asia/india-plane-crash.html",
       "url": "https://www.nytimes.com/2026/01/28/world/asia/india-plane-crash.html",
       "title": "Veteran Indian Politician Among 5 Killed in Plane Crash",

@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46792370",
+      "url": "https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation",
+      "title": "ASML staffing changes could result in a net reduction of around 1700 positions",
+      "content_html": "<p>Article URL: <a href=\"https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation\">https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46792370\">https://news.ycombinator.com/item?id=46792370</a></p>\n<p>Points: 262</p>\n<p># Comments: 246</p>",
+      "content_text": "Article URL: https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation\nComments URL: https://news.ycombinator.com/item?id=46792370\nPoints: 262\n# Comments: 246",
+      "date_published": "2026-01-28T08:02:42.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46787521",
       "url": "https://www.web3isgoinggreat.com/single/lick-theft",
       "title": "Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son",
