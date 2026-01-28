@@ -7,18 +7,27 @@
       v-for="article in displayedArticles"
       :key="article.id"
       :article="article"
+      @open-detail="openDetail"
     />
     <div v-if="hasMore" class="load-more">
       <button @click="loadMore" class="load-more-btn">
         加载更多
       </button>
     </div>
+
+    <!-- 文章详情弹窗 -->
+    <ArticleDetail
+      v-if="selectedArticle"
+      :article="selectedArticle"
+      @close="selectedArticle = null"
+    />
   </div>
 </template>
 
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import ArticleCard from './ArticleCard.vue'
+import ArticleDetail from './ArticleDetail.vue'
 import type { Article } from '../composables/useFeeds'
 
 const props = defineProps<{
@@ -27,6 +36,7 @@ const props = defineProps<{
 
 const displayCount = ref(50)
 const LOAD_MORE_COUNT = 30
+const selectedArticle = ref<Article | null>(null)
 
 const displayedArticles = computed(() => {
   return props.articles.slice(0, displayCount.value)
@@ -38,6 +48,10 @@ const hasMore = computed(() => {
 
 function loadMore() {
   displayCount.value += LOAD_MORE_COUNT
+}
+
+function openDetail(article: Article) {
+  selectedArticle.value = article
 }
 </script>
 
