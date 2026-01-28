@@ -7,5 +7,5 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /reader
+      link: /reader.html
 ---
