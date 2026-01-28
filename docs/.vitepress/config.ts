@@ -5,6 +5,7 @@ export default defineConfig({
   description: 'My RSS Feed Reader',
   base: '/RSS/',
   outDir: '../dist',
+  cleanUrls: true,
 
   themeConfig: {
     nav: [
