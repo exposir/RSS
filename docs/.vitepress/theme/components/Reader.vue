@@ -79,13 +79,43 @@ const selectedFeedName = computed(() => {
 })
 
 const filteredArticles = computed(() => {
-  // 强制追踪 feeds Map 的变化
-  const feedsSize = feeds.value.size
+  // 直接在 computed 内部实现过滤逻辑,确保响应式追踪
+  const articles: Article[] = []
 
   if (selectedFeed.value === 'all') {
-    return getAllArticles()
+    // 获取所有文章
+    Array.from(feeds.value.entries()).forEach(([feedId, feed]) => {
+      const feedInfo = feedIndex.value.find(f => f.id === feedId)
+      if (feed && feed.items && feedInfo) {
+        feed.items.forEach((item) => {
+          articles.push({
+            ...item,
+            source: feed.title || feedInfo.name,
+            feedId: feedId
+          })
+        })
+      }
+    })
+  } else {
+    // 获取特定订阅源的文章
+    const feedInfo = feedIndex.value.find(f => f.id === selectedFeed.value)
+    const feed = feeds.value.get(selectedFeed.value)
+
+    if (feed && feed.items && feedInfo) {
+      feed.items.forEach(item => {
+        articles.push({
+          ...item,
+          source: feed.title || feedInfo.name,
+          feedId: selectedFeed.value
+        })
+      })
+    }
   }
-  return getArticlesByFeed(selectedFeed.value)
+
+  // 按日期倒序排列
+  return articles.sort((a, b) =>
+    new Date(b.date_published).getTime() - new Date(a.date_published).getTime()
+  )
 })
 
 const isLoading = computed(() => {
