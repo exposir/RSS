@@ -7,7 +7,7 @@
     "dev": "npm run fetch",
     "build": "npm run fetch",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs && cp -r feeds dist/",
+    "docs:build": "vitepress build docs && cp -r feeds dist/ && touch dist/.nojekyll",
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
