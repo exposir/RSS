@@ -21,9 +21,22 @@
       <div class="article-list-panel">
         <div class="panel-header">
           <h2 class="panel-title">{{ selectedFeedName }}</h2>
-          <span v-if="isLoading" class="loading-indicator">
-            加载中 ({{ loadedCount }}/{{ feedIndex.length }})
-          </span>
+          <button
+            v-if="isLoading"
+            class="loading-indicator"
+            @click="handleRefresh"
+            title="点击重新加载"
+          >
+            🔄 加载中 ({{ loadedCount }}/{{ feedIndex.length }})
+          </button>
+          <button
+            v-else
+            class="refresh-btn"
+            @click="handleRefresh"
+            title="重新加载所有订阅源"
+          >
+            🔄 刷新
+          </button>
         </div>
 
         <div v-if="filteredArticles.length === 0 && !isLoading" class="empty-hint">
@@ -223,6 +236,17 @@ function formatDetailDate(dateStr: string) {
     minute: '2-digit'
   })
 }
+
+async function handleRefresh() {
+  console.log('手动刷新：重新加载所有订阅源')
+
+  // 重置状态
+  selectedArticle.value = null
+  displayCount.value = 50
+
+  // 重新加载所有数据
+  await loadAllFeeds()
+}
 </script>
 
 <style scoped>
@@ -305,6 +329,44 @@ function formatDetailDate(dateStr: string) {
   font-size: 0.85rem;
   color: var(--vp-c-brand);
   font-weight: 400;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.loading-indicator:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+.refresh-btn {
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
+  font-weight: 400;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.refresh-btn:hover {
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-brand);
+}
+
+.refresh-btn:active,
+.loading-indicator:active {
+  transform: scale(0.95);
 }
 
 .empty-hint {

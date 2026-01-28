@@ -73,6 +73,10 @@ export function useFeeds() {
     loading.value = true
     error.value = null
 
+    // 清空现有数据，准备重新加载
+    feeds.value.clear()
+    loadedCount.value = 0
+
     try {
       // 先加载索引
       await loadFeedIndex()
