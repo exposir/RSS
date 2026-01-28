@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "ddd5a228-37ea-4e52-9fdd-acd30be54640",
+      "url": "https://www.smh.com.au/national/nsw/undersea-cable-ship-off-sydney-20260128-p5nxr2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Undersea cable ship off Sydney",
+      "content_html": "The Ile d’Yeu ship laying undersea cable off the coast near Maroubra. CREDIT: WOLTER PEETERS",
+      "content_text": "The Ile d’Yeu ship laying undersea cable off the coast near Maroubra. CREDIT: WOLTER PEETERS",
+      "date_published": "2026-01-28T04:49:03.000Z"
+    },
+    {
+      "id": "cd5a9a27-f386-4c71-95d1-216faca35419",
+      "url": "https://www.smh.com.au/politics/federal/we-will-see-beijing-hints-at-retaliation-over-port-of-darwin-lease-20260128-p5nxk2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘We will see’: Beijing hints at retaliation over Port of Darwin lease",
+      "content_html": "China’s ambassador has warned there was “no room for compromise” on Beijing’s position on Taiwan, as he cautioned against a forced sale of the Port of Darwin.",
+      "content_text": "China’s ambassador has warned there was “no room for compromise” on Beijing’s position on Taiwan, as he cautioned against a forced sale of the Port of Darwin.",
+      "date_published": "2026-01-28T04:47:50.000Z"
+    },
+    {
+      "id": "76142128-0f8b-47a4-a11f-d089ebaf42ef",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/parents-hate-your-partner-here-s-what-the-experts-say-you-should-do-20260126-p5nx1k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Parents hate your partner? Here’s what the experts say you should do",
+      "content_html": "The messy unravelling of the Beckham family begs the question: is there a better way to respond when your parents take a dislike to your significant other?",
+      "content_text": "The messy unravelling of the Beckham family begs the question: is there a better way to respond when your parents take a dislike to your significant other?",
+      "date_published": "2026-01-28T04:45:00.000Z"
+    },
+    {
       "id": "102dfbd1-066d-4a58-8d5a-45eff74d0b8d",
       "url": "https://www.smh.com.au/national/violations-of-social-media-ban-must-be-met-with-strong-action-20260128-p5nxng.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Violations of social media ban must be met with strong action",

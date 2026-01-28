@@ -1,0 +1,409 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "NYT > Business",
+  "home_page_url": "https://www.nytimes.com/section/business",
+  "feed_url": "https://exposir.github.io/RSS/feeds/nyt-business.json",
+  "description": "",
+  "items": [
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/dca-plane-collision-faa.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/dca-plane-collision-faa.html",
+      "title": "Safety Board Blames F.A.A. For Multiple Failures in D.C. Crash",
+      "content_html": "The National Transportation Safety Board found the probable causes of the midair collision last year included poorly designed flight routes and ignored warnings about risks.",
+      "content_text": "The National Transportation Safety Board found the probable causes of the midair collision last year included poorly designed flight routes and ignored warnings about risks.",
+      "date_published": "2026-01-28T04:29:30.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/trump-iowa-farms-tariffs.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/trump-iowa-farms-tariffs.html",
+      "title": "As Trump Promotes Economy in Iowa, Many Residents Feel Pain",
+      "content_html": "Farmers are critical to Iowa’s economy. They have been battered by President Trump’s tariffs and are not experiencing the “golden age” that the president promised.",
+      "content_text": "Farmers are critical to Iowa’s economy. They have been battered by President Trump’s tariffs and are not experiencing the “golden age” that the president promised.",
+      "date_published": "2026-01-27T23:49:52.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/travel/southwest-airlines-assigned-seating.html",
+      "url": "https://www.nytimes.com/2026/01/27/travel/southwest-airlines-assigned-seating.html",
+      "title": "Southwest Begins Assigned Seating, Scrapping a Signature Quirk",
+      "content_html": "The airline said its new policy, rolled out on Tuesday, responded to passengers’ preferences, but some customers said the scramble was part of the charm.",
+      "content_text": "The airline said its new policy, rolled out on Tuesday, responded to passengers’ preferences, but some customers said the scramble was part of the charm.",
+      "date_published": "2026-01-27T23:32:45.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
+      "url": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
+      "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
+      "content_html": "Driven by the artificial intelligence frenzy, Microsoft is internally projecting that water use at its data centers will more than double by 2030 from 2020, including in places that face shortages.",
+      "content_text": "Driven by the artificial intelligence frenzy, Microsoft is internally projecting that water use at its data centers will more than double by 2030 from 2020, including in places that face shortages.",
+      "date_published": "2026-01-27T23:30:19.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/media/bari-weiss-cbs-news-town-hall.html",
+      "url": "https://www.nytimes.com/2026/01/27/business/media/bari-weiss-cbs-news-town-hall.html",
+      "title": "Bari Weiss Urges CBS News to Think Like a ‘Start-Up’",
+      "content_html": "“We are not producing a product enough people want,” Ms. Weiss told employees at her first all-staff meeting at the network.",
+      "content_text": "“We are not producing a product enough people want,” Ms. Weiss told employees at her first all-staff meeting at the network.",
+      "date_published": "2026-01-27T22:59:24.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/ups-jobs-layoffs-2026.html",
+      "url": "https://www.nytimes.com/2026/01/27/business/ups-jobs-layoffs-2026.html",
+      "title": "UPS Will Cut Up to 30,000 Jobs in 2026",
+      "content_html": "The delivery company said it was planning the cuts this year because it expected to deliver fewer packages for Amazon, a large but unprofitable customer.",
+      "content_text": "The delivery company said it was planning the cuts this year because it expected to deliver fewer packages for Amazon, a large but unprofitable customer.",
+      "date_published": "2026-01-27T21:36:13.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/meta-data-center-ads.html",
+      "url": "https://www.nytimes.com/2026/01/27/technology/meta-data-center-ads.html",
+      "title": "Meta Campaigns to Change Opinions on Data Centers",
+      "content_html": "The tech giant has spent more than $6 million on TV ads in state capitals and Washington, with the message that data centers create jobs.",
+      "content_text": "The tech giant has spent more than $6 million on TV ads in state capitals and Washington, with the message that data centers create jobs.",
+      "date_published": "2026-01-27T21:23:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/dealbook/altman-openai-minnesota.html",
+      "url": "https://www.nytimes.com/2026/01/27/business/dealbook/altman-openai-minnesota.html",
+      "title": "OpenAI’s Altman and More C.E.O.s Weigh In on Minnesota",
+      "content_html": "The tech C.E.O. is the latest business leader to speak out about the immigration crackdown and the fatal shooting of two U.S. citizens.",
+      "content_text": "The tech C.E.O. is the latest business leader to speak out about the immigration crackdown and the fatal shooting of two U.S. citizens.",
+      "date_published": "2026-01-27T17:16:44.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/general-motors-earnings.html",
+      "url": "https://www.nytimes.com/2026/01/27/business/general-motors-earnings.html",
+      "title": "G.M. Shares Rise as Investors Are Encouraged by 2026 Prospects",
+      "content_html": "The automaker said that it would buy back stock worth up to $6 billion and that it expected profit to rise this year after it pulled back from electric vehicle production.",
+      "content_text": "The automaker said that it would buy back stock worth up to $6 billion and that it expected profit to rise this year after it pulled back from electric vehicle production.",
+      "date_published": "2026-01-27T15:22:39.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/economy/fed-rate-decision-outlook.html",
+      "url": "https://www.nytimes.com/2026/01/27/business/economy/fed-rate-decision-outlook.html",
+      "title": "Fed, Signaling Little Urgency, Prepares to Pause on Rate Cuts",
+      "content_html": "The Federal Reserve is expected to hold interest rates steady on Wednesday, despite relentless attacks from President Trump over borrowing costs.",
+      "content_text": "The Federal Reserve is expected to hold interest rates steady on Wednesday, despite relentless attacks from President Trump over borrowing costs.",
+      "date_published": "2026-01-27T14:55:58.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/jennifer-homendy-trump-transportation-safety-board.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/jennifer-homendy-trump-transportation-safety-board.html",
+      "title": "She’s the Face of Trump’s Aviation Safety Board, and She’s a Democrat",
+      "content_html": "Jennifer Homendy, the outspoken chairwoman of the National Transportation Safety Board, is reclaiming the spotlight at a meeting on Tuesday about the Washington, D.C., crash that killed 67.",
+      "content_text": "Jennifer Homendy, the outspoken chairwoman of the National Transportation Safety Board, is reclaiming the spotlight at a meeting on Tuesday about the Washington, D.C., crash that killed 67.",
+      "date_published": "2026-01-27T14:35:53.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/economy/government-debt-bonds.html",
+      "url": "https://www.nytimes.com/2026/01/27/business/economy/government-debt-bonds.html",
+      "title": "Record Debt in the World’s Richest Nations Threatens Global Growth",
+      "content_html": "The cost of borrowing is already choking crucial public spending in many developing economies. Now it’s raising broader alarms.",
+      "content_text": "The cost of borrowing is already choking crucial public spending in many developing economies. Now it’s raising broader alarms.",
+      "date_published": "2026-01-27T14:34:56.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/theater/outsiders-broadway-musical-profit.html",
+      "url": "https://www.nytimes.com/2026/01/27/theater/outsiders-broadway-musical-profit.html",
+      "title": "‘The Outsiders’ Musical Recoups on Broadway",
+      "content_html": "“The Outsiders” is the first new musical to open since 2022 to become profitable.",
+      "content_text": "“The Outsiders” is the first new musical to open since 2022 to become profitable.",
+      "date_published": "2026-01-27T14:00:09.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/europe-natural-gas-united-states-russia.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/europe-natural-gas-united-states-russia.html",
+      "title": "As Europe’s Reliance on U.S. Natural Gas Grows, So Does Trump’s Leverage",
+      "content_html": "Tension over Greenland has prompted worries that the Trump administration could turn the U.S. oil and gas industry into a way to pressure Europe.",
+      "content_text": "Tension over Greenland has prompted worries that the Trump administration could turn the U.S. oil and gas industry into a way to pressure Europe.",
+      "date_published": "2026-01-27T12:12:26.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/business/minnesota-target-general-mills-ceo-letter.html",
+      "url": "https://www.nytimes.com/2026/01/25/business/minnesota-target-general-mills-ceo-letter.html",
+      "title": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
+      "content_html": "The letter from chief executives at some of the state’s most recognizable companies like Target and Cargill stops short of condemning the recent killings by federal immigration agents.",
+      "content_text": "The letter from chief executives at some of the state’s most recognizable companies like Target and Cargill stops short of condemning the recent killings by federal immigration agents.",
+      "date_published": "2026-01-27T10:53:45.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/india-europe-trade-tariffs-trump.html",
+      "url": "https://www.nytimes.com/2026/01/27/business/india-europe-trade-tariffs-trump.html",
+      "title": "In Trump’s Shadow, India and the European Union Expand Trade Ties",
+      "content_html": "After nearly 20 years of negotiations, the two sides struck a far-reaching agreement that officials called “the mother of all trade deals.”",
+      "content_text": "After nearly 20 years of negotiations, the two sides struck a far-reaching agreement that officials called “the mother of all trade deals.”",
+      "date_published": "2026-01-27T09:05:04.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/us/politics/trump-rare-earth-howard-lutnick.html",
+      "url": "https://www.nytimes.com/2026/01/26/us/politics/trump-rare-earth-howard-lutnick.html",
+      "title": "Trump Administration Takes Another Stake in Rare Earth Sector",
+      "content_html": "The administration announced a $1.6 billion deal with USA Rare Earth. The firm also does business with Cantor Fitzgerald, which is run by the sons of President Trump’s commerce secretary.",
+      "content_text": "The administration announced a $1.6 billion deal with USA Rare Earth. The firm also does business with Cantor Fitzgerald, which is run by the sons of President Trump’s commerce secretary.",
+      "date_published": "2026-01-27T03:26:49.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/us/politics/reagan-national-airport-crash.html",
+      "url": "https://www.nytimes.com/2026/01/26/us/politics/reagan-national-airport-crash.html",
+      "title": "A Year After DC Plane Crash, Concerns About Airport’s Safety Continue",
+      "content_html": "The Federal Aviation Administration says it has reduced traffic in and out of the airport and designed safer routes. Crash victims’ families want more.",
+      "content_text": "The Federal Aviation Administration says it has reduced traffic in and out of the airport and designed safer routes. Crash victims’ families want more.",
+      "date_published": "2026-01-27T01:33:55.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/economy/trump-tariffs-south-korea.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/economy/trump-tariffs-south-korea.html",
+      "title": "Trump Says He Will Raise Tariffs on South Korea to 25%",
+      "content_html": "President Trump threatened to increase tariffs on South Korean exports, including cars, citing the country’s slow ratification of a trade deal.",
+      "content_text": "President Trump threatened to increase tariffs on South Korean exports, including cars, citing the country’s slow ratification of a trade deal.",
+      "date_published": "2026-01-27T01:12:25.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/us/chatgpt-delusions-psychosis.html",
+      "url": "https://www.nytimes.com/2026/01/26/us/chatgpt-delusions-psychosis.html",
+      "title": "How Bad Are A.I. Delusions? We Asked People Treating Them.",
+      "content_html": "Dozens of doctors and therapists said chatbots had led their patients to psychosis, isolation and unhealthy habits.",
+      "content_text": "Dozens of doctors and therapists said chatbots had led their patients to psychosis, isolation and unhealthy habits.",
+      "date_published": "2026-01-27T00:54:45.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/storm-flight-cancellations-delays.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/storm-flight-cancellations-delays.html",
+      "title": "Thousands of Flights Canceled Monday After Snowstorm",
+      "content_html": "Delays and cancellations persisted a day after more than 11,000 flights were canceled. Airports in the Northeastern U.S. were hit the hardest.",
+      "content_text": "Delays and cancellations persisted a day after more than 11,000 flights were canceled. Airports in the Northeastern U.S. were hit the hardest.",
+      "date_published": "2026-01-26T21:42:32.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/energy-environment/storm-electric-grid-power-outages.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/energy-environment/storm-electric-grid-power-outages.html",
+      "title": "Power Outages Could Rise as Freezing Temperatures Persist After Winter Storm",
+      "content_html": "Electrical grids appeared to have handled the storm over the weekend relatively well, but energy experts said the risk of more outages remained.",
+      "content_text": "Electrical grids appeared to have handled the storm over the weekend relatively well, but energy experts said the risk of more outages remained.",
+      "date_published": "2026-01-26T21:16:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/media/washington-post-olympics.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/media/washington-post-olympics.html",
+      "title": "Washington Post Reverses Decision on Olympics Coverage",
+      "content_html": "The newspaper will send a small team of reporters to cover the Olympics after it informed sports journalists on Friday that the paper would not send a group.",
+      "content_text": "The newspaper will send a small team of reporters to cover the Olympics after it informed sports journalists on Friday that the paper would not send a group.",
+      "date_published": "2026-01-26T19:57:22.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/media/npr-pbs-stations-funding.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/media/npr-pbs-stations-funding.html",
+      "title": "Public Media Holds Its Apocalypse at Bay, for Now",
+      "content_html": "Though Congress cut $500 million from NPR and PBS stations, vanishingly few have closed their doors. Angst about their long-term future remains.",
+      "content_text": "Though Congress cut $500 million from NPR and PBS stations, vanishingly few have closed their doors. Angst about their long-term future remains.",
+      "date_published": "2026-01-26T17:45:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/goodwill-sales-economy.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/goodwill-sales-economy.html",
+      "title": "Goodwill Thrives as Americans Stretch Their Dollars",
+      "content_html": "Consumers are still spending, but they’re looking for ways to stretch their dollars as far as possible.",
+      "content_text": "Consumers are still spending, but they’re looking for ways to stretch their dollars as far as possible.",
+      "date_published": "2026-01-26T17:02:25.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/media/brooklyn-beckham-victoria-feud-ai-videos-dancing.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/media/brooklyn-beckham-victoria-feud-ai-videos-dancing.html",
+      "title": "New Videos of the Beckham Feud Are Fake. Nobody Seems to Care.",
+      "content_html": "A.I.-generated content of Victoria Beckham has spread as wedding drama has engulfed the celebrity clan and the public has clamored for receipts (even fabricated ones).",
+      "content_text": "A.I.-generated content of Victoria Beckham has spread as wedding drama has engulfed the celebrity clan and the public has clamored for receipts (even fabricated ones).",
+      "date_published": "2026-01-26T15:32:53.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/gold-prices.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/gold-prices.html",
+      "title": "Gold Soars Beyond $5,000 as Global Tensions Grow",
+      "content_html": "The price of gold surged as investors sought shelter from geopolitical uncertainty.",
+      "content_text": "The price of gold surged as investors sought shelter from geopolitical uncertainty.",
+      "date_published": "2026-01-26T15:19:46.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/business/airlines-travel-storm.html",
+      "url": "https://www.nytimes.com/2026/01/23/business/airlines-travel-storm.html",
+      "title": "Airlines Cancel Hundreds of Flights In Anticipation of Powerful Winter Storm",
+      "content_html": "Airlines are canceling hundreds of flights over the weekend in anticipation of frigid weather and ice and snow across much of the country.",
+      "content_text": "Airlines are canceling hundreds of flights over the weekend in anticipation of frigid weather and ice and snow across much of the country.",
+      "date_published": "2026-01-26T14:47:54.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html",
+      "title": "Elon Musk’s X Faces EU Inquiry Over Sexualized AI Images Generated by Grok",
+      "content_html": "Regulators said the company’s lack of controls had led to the widespread use of deepfakes created with the chatbot Grok.",
+      "content_text": "Regulators said the company’s lack of controls had led to the widespread use of deepfakes created with the chatbot Grok.",
+      "date_published": "2026-01-26T14:16:42.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/dealbook/business-leaders-minnesota-ice.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/dealbook/business-leaders-minnesota-ice.html",
+      "title": "Business Leaders Face a Test in Minneapolis",
+      "content_html": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey Pretti and the immigration crackdown. But others have stayed silent.",
+      "content_text": "Some companies have begun to respond to the fatal shooting of Alex Jeffrey Pretti and the immigration crackdown. But others have stayed silent.",
+      "date_published": "2026-01-26T13:31:48.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/us/politics/affordability-poll.html",
+      "url": "https://www.nytimes.com/2026/01/26/us/politics/affordability-poll.html",
+      "title": "Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds",
+      "content_html": "Concerns about the affordability of education, housing, health care, having a family and retirement are driving economic anxieties, a New York Times/Siena poll found.",
+      "content_text": "Concerns about the affordability of education, housing, health care, having a family and retirement are driving economic anxieties, a New York Times/Siena poll found.",
+      "date_published": "2026-01-26T10:02:17.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/us/politics/trump-irs-taxes-bisignano.html",
+      "url": "https://www.nytimes.com/2026/01/26/us/politics/trump-irs-taxes-bisignano.html",
+      "title": "Trump Hobbled the I.R.S. This C.E.O. Now Has to Make It Work.",
+      "content_html": "Frank Bisignano is the first chief executive of the I.R.S., where there’s hope he will end a chaotic stretch at the agency. The tax filing season, which started Monday, is his first test.",
+      "content_text": "Frank Bisignano is the first chief executive of the I.R.S., where there’s hope he will end a chaotic stretch at the agency. The tax filing season, which started Monday, is his first test.",
+      "date_published": "2026-01-26T10:00:51.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/business/media/fox-news-minneapolis-shooting.html",
+      "url": "https://www.nytimes.com/2026/01/25/business/media/fox-news-minneapolis-shooting.html",
+      "title": "Most Fox News Reporting on Minneapolis Shooting Supports Official Version",
+      "content_html": "Fox anchors were laser focused on promoting the Trump administration’s narrative that the slain protester, Alex Pretti, had brought the violence upon himself.",
+      "content_text": "Fox anchors were laser focused on promoting the Trump administration’s narrative that the slain protester, Alex Pretti, had brought the violence upon himself.",
+      "date_published": "2026-01-25T23:31:25.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html",
+      "url": "https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html",
+      "title": "Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama",
+      "content_html": "Residents also oppose a data center the size of 18 Walmarts that is set to be built in pristine woodland outside Bessemer, Ala. “All this will be gone,” one said.",
+      "content_text": "Residents also oppose a data center the size of 18 Walmarts that is set to be built in pristine woodland outside Bessemer, Ala. “All this will be gone,” one said.",
+      "date_published": "2026-01-25T10:02:20.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/business/cannabis-thc-alcoholic-beverages.html",
+      "url": "https://www.nytimes.com/2026/01/25/business/cannabis-thc-alcoholic-beverages.html",
+      "title": "High January Is the New Dry January. Sales of THC Drinks Are Booming.",
+      "content_html": "Sales of beverages containing hemp-derived THC are rising as consumers look for the buzz without the booze. But a new federal law could push them off shelves.",
+      "content_text": "Sales of beverages containing hemp-derived THC are rising as consumers look for the buzz without the booze. But a new federal law could push them off shelves.",
+      "date_published": "2026-01-25T10:02:15.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/25/business/mississippi-delta-farmers-rice-prices.html",
+      "url": "https://www.nytimes.com/2026/01/25/business/mississippi-delta-farmers-rice-prices.html",
+      "title": "Hard Times in the Mississippi Delta as Farmers Consider Letting Crops Rot",
+      "content_html": "Prices for nearly every major U.S. crop are below what it costs to grow them. But a drop in rice prices means another blow to farmers in Mississippi’s agricultural belt.",
+      "content_text": "Prices for nearly every major U.S. crop are below what it costs to grow them. But a drop in rice prices means another blow to farmers in Mississippi’s agricultural belt.",
+      "date_published": "2026-01-25T10:00:20.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/business/general-motors-ford-canada-china.html",
+      "url": "https://www.nytimes.com/2026/01/24/business/general-motors-ford-canada-china.html",
+      "title": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
+      "content_html": "U.S. trade policy has devastated the Canadian auto industry and pushed the country to reach an agreement that will make it easier for Chinese companies to sell cars there.",
+      "content_text": "U.S. trade policy has devastated the Canadian auto industry and pushed the country to reach an agreement that will make it easier for Chinese companies to sell cars there.",
+      "date_published": "2026-01-24T22:28:00.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/business/energy-environment/storm-power-outages.html",
+      "url": "https://www.nytimes.com/2026/01/24/business/energy-environment/storm-power-outages.html",
+      "title": "Why the Power May Not Go Out Until After the Storm Has Passed",
+      "content_html": "The steady accumulation of snow and freezing rain and a rise in demand for electricity can cause problems long after the sky clears, energy experts said.",
+      "content_text": "The steady accumulation of snow and freezing rain and a rise in demand for electricity can cause problems long after the sky clears, energy experts said.",
+      "date_published": "2026-01-24T17:31:03.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/business/media/washington-post-winter-olympics.html",
+      "url": "https://www.nytimes.com/2026/01/24/business/media/washington-post-winter-olympics.html",
+      "title": "Washington Post Tears Up Plans to Cover Winter Olympics",
+      "content_html": "The abrupt change in direction came just weeks before the Olympic Games are set to begin in Italy.",
+      "content_text": "The abrupt change in direction came just weeks before the Olympic Games are set to begin in Italy.",
+      "date_published": "2026-01-24T16:40:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html",
+      "url": "https://www.nytimes.com/2026/01/24/business/dealbook/law-school-ai.html",
+      "title": "Interest in Law School Is Surging. A.I. Makes the Payoff Less Certain.",
+      "content_html": "The number of applicants has risen more than 40 percent over the last two years, despite new limits on student loans and uncertainty over how artificial intelligence will affect legal work.",
+      "content_text": "The number of applicants has risen more than 40 percent over the last two years, despite new limits on student loans and uncertainty over how artificial intelligence will affect legal work.",
+      "date_published": "2026-01-24T14:56:42.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/business/will-leaving-my-terrible-job-make-me-look-flaky.html",
+      "url": "https://www.nytimes.com/2026/01/24/business/will-leaving-my-terrible-job-make-me-look-flaky.html",
+      "title": "Will Leaving My Terrible Job Make Me Look Flaky?",
+      "content_html": "And, picking up the slack for a colleague with long Covid.",
+      "content_text": "And, picking up the slack for a colleague with long Covid.",
+      "date_published": "2026-01-24T10:01:57.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/us/politics/amtrak-dynamic-pricing-flying.html",
+      "url": "https://www.nytimes.com/2026/01/24/us/politics/amtrak-dynamic-pricing-flying.html",
+      "title": "Travel Math: When Flying Costs as Much as the Train, Who Wins?",
+      "content_html": "Amtrak says dynamic pricing has helped strengthen its finances, but travelers often grumble at the cost, especially for last-minute travel. Still, the train has a secret weapon: avoiding the airport.",
+      "content_text": "Amtrak says dynamic pricing has helped strengthen its finances, but travelers often grumble at the cost, especially for last-minute travel. Still, the train has a secret weapon: avoiding the airport.",
+      "date_published": "2026-01-24T10:00:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/business/yen-dollar-treasury-bessent.html",
+      "url": "https://www.nytimes.com/2026/01/23/business/yen-dollar-treasury-bessent.html",
+      "title": "Tremors in Japan Prompt Treasury to Weigh Currency Intervention",
+      "content_html": "New York Fed inquiries about the cost of exchanging yen for dollars signaled to traders on Friday that the U.S. government might make a large purchase of the Japanese currency.",
+      "content_text": "New York Fed inquiries about the cost of exchanging yen for dollars signaled to traders on Friday that the U.S. government might make a large purchase of the Japanese currency.",
+      "date_published": "2026-01-24T00:36:19.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/us/politics/sec-crypto-winklevoss.html",
+      "url": "https://www.nytimes.com/2026/01/23/us/politics/sec-crypto-winklevoss.html",
+      "title": "S.E.C. Drops Case Against Cryptocurrency Firm Founded by Winklevoss Twins",
+      "content_html": "The agency says that victims of an investment offering involving Gemini Trust got their money back, though after a regulatory action brought by the New York attorney general.",
+      "content_text": "The agency says that victims of an investment offering involving Gemini Trust got their money back, though after a regulatory action brought by the New York attorney general.",
+      "date_published": "2026-01-23T23:35:26.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/us/politics/saudi-arabia-liv-golf-trump.html",
+      "url": "https://www.nytimes.com/2026/01/23/us/politics/saudi-arabia-liv-golf-trump.html",
+      "title": "Saudi Arabia-Backed LIV Golf to Hold Tournament at the Trumps’ New Jersey Resort",
+      "content_html": "It will be the latest in at least half a dozen events that the breakaway league has held at Trump Organization resorts in the past four years.",
+      "content_text": "It will be the latest in at least half a dozen events that the breakaway league has held at Trump Organization resorts in the past four years.",
+      "date_published": "2026-01-23T22:21:19.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/business/media/tiktok-us-terms-conditions.html",
+      "url": "https://www.nytimes.com/2026/01/23/business/media/tiktok-us-terms-conditions.html",
+      "title": "TikTok Updates Its Terms and Conditions in the U.S.",
+      "content_html": "The changes came after the app’s Chinese parent company spun out an American entity to run TikTok in the United States.",
+      "content_text": "The changes came after the app’s Chinese parent company spun out an American entity to run TikTok in the United States.",
+      "date_published": "2026-01-23T20:33:33.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/arts/design/darren-walker-anonymous-content.html",
+      "url": "https://www.nytimes.com/2026/01/23/arts/design/darren-walker-anonymous-content.html",
+      "title": "For His Next Act, Darren Walker Is Heading to Hollywood",
+      "content_html": "Anonymous Content, a production company whose top investor is Laurene Powell Jobs’s Emerson Collective, has named Darren Walker as president and chief executive.",
+      "content_text": "Anonymous Content, a production company whose top investor is Laurene Powell Jobs’s Emerson Collective, has named Darren Walker as president and chief executive.",
+      "date_published": "2026-01-23T17:40:02.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/business/venezuela-sanctions.html",
+      "url": "https://www.nytimes.com/2026/01/23/business/venezuela-sanctions.html",
+      "title": "Trump Wants U.S. Investment in Venezuela, but Sanctions Still Complicate It",
+      "content_html": "With tight business restrictions still in place, companies may find it challenging to even assess what opportunities exist for them in the South American nation.",
+      "content_text": "With tight business restrictions still in place, companies may find it challenging to even assess what opportunities exist for them in the South American nation.",
+      "date_published": "2026-01-23T17:16:11.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/travel/greenland-tourism-trump.html",
+      "url": "https://www.nytimes.com/2026/01/23/travel/greenland-tourism-trump.html",
+      "title": "For Greenland Tourism, Trump’s Interest Creates Uncertainty",
+      "content_html": "Bookings to the island increased last year, and there are plans for two new airports. Threats from President Trump may change that.",
+      "content_text": "Bookings to the island increased last year, and there are plans for two new airports. Threats from President Trump may change that.",
+      "date_published": "2026-01-23T16:53:32.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/business/trump-fed-interest-rates-inflation.html",
+      "url": "https://www.nytimes.com/2026/01/23/business/trump-fed-interest-rates-inflation.html",
+      "title": "Low Rates Sound Great. But a Trump Fed Could Cause a Painful ‘Sugar High.’",
+      "content_html": "Dropping rates more than conditions warrant would stimulate the economy in the short term but could lead to trouble, our columnist says.",
+      "content_text": "Dropping rates more than conditions warrant would stimulate the economy in the short term but could lead to trouble, our columnist says.",
+      "date_published": "2026-01-23T14:00:06.000Z"
+    }
+  ]
+}

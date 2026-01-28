@@ -6,6 +6,38 @@
   "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
   "items": [
     {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%81%E7%A8%8B%E9%91%AB%E6%9C%B1%E5%BF%97%E9%91%AB%E5%B7%A6%E8%88%AA%20%E5%B7%B2%E4%BA%89%E6%B0%94%E4%BA%89%E6%B0%94%E5%86%8D%E4%BA%89%E6%B0%94",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%B8%81%E7%A8%8B%E9%91%AB%E6%9C%B1%E5%BF%97%E9%91%AB%E5%B7%A6%E8%88%AA%20%E5%B7%B2%E4%BA%89%E6%B0%94%E4%BA%89%E6%B0%94%E5%86%8D%E4%BA%89%E6%B0%94",
+      "title": "丁程鑫朱志鑫左航 已争气争气再争气",
+      "content_html": "丁程鑫朱志鑫左航 已争气争气再争气",
+      "content_text": "丁程鑫朱志鑫左航 已争气争气再争气",
+      "date_published": "2026-01-28T04:54:44.525Z"
+    },
+    {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%E9%A3%9E%E6%9C%BA%E6%9C%BA%E4%B8%8A%E4%BA%BA%E5%91%98%E5%85%A8%E9%81%87%E9%9A%BE",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%E9%A3%9E%E6%9C%BA%E6%9C%BA%E4%B8%8A%E4%BA%BA%E5%91%98%E5%85%A8%E9%81%87%E9%9A%BE",
+      "title": "印度坠毁飞机机上人员全遇难",
+      "content_html": "印度坠毁飞机机上人员全遇难",
+      "content_text": "印度坠毁飞机机上人员全遇难",
+      "date_published": "2026-01-28T04:54:44.525Z"
+    },
+    {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%B0%E6%88%91%E7%9D%BF",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%B0%E6%88%91%E7%9D%BF",
+      "title": "杰我睿",
+      "content_html": "杰我睿",
+      "content_text": "杰我睿",
+      "date_published": "2026-01-28T04:54:44.525Z"
+    },
+    {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B6%858000%E5%88%97%E5%8A%A8%E8%BD%A6%E7%BB%84%E6%8F%90%E4%BE%9B%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E6%9C%8D%E5%8A%A1",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B6%858000%E5%88%97%E5%8A%A8%E8%BD%A6%E7%BB%84%E6%8F%90%E4%BE%9B%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E6%9C%8D%E5%8A%A1",
+      "title": "超8000列动车组提供静音车厢服务",
+      "content_html": "超8000列动车组提供静音车厢服务",
+      "content_text": "超8000列动车组提供静音车厢服务",
+      "date_published": "2026-01-28T04:54:44.525Z"
+    },
+    {
       "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E8%A1%80%E7%97%85%E7%9A%84%E5%BE%81%E5%85%86",
       "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%99%BD%E8%A1%80%E7%97%85%E7%9A%84%E5%BE%81%E5%85%86",
       "title": "白血病的征兆",

@@ -1,0 +1,249 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "NYT > Top Stories",
+  "home_page_url": "https://www.nytimes.com",
+  "feed_url": "https://exposir.github.io/RSS/feeds/nyt-homepage.json",
+  "description": "",
+  "items": [
+    {
+      "id": "https://www.nytimes.com/2026/01/27/dining/yewande-komolafe-losing-limbs-different-kind-of-cook.html",
+      "url": "https://www.nytimes.com/2026/01/27/dining/yewande-komolafe-losing-limbs-different-kind-of-cook.html",
+      "title": "How Losing Her Limbs Turned Cooking Columnist Yewande Komolafe Into a Different Kind of Cook",
+      "content_html": "Two years ago, our cooking columnist Yewande Komolafe woke from a coma and soon learned her body would be profoundly altered. She recounts her journey back to the kitchen, and to herself.",
+      "content_text": "Two years ago, our cooking columnist Yewande Komolafe woke from a coma and soon learned her body would be profoundly altered. She recounts her journey back to the kitchen, and to herself.",
+      "date_published": "2026-01-28T04:41:43.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/dca-plane-collision-faa.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/dca-plane-collision-faa.html",
+      "title": "Safety Board Blames F.A.A. For Multiple Failures in D.C. Crash",
+      "content_html": "The National Transportation Safety Board found the probable causes of the midair collision last year included poorly designed flight routes and ignored warnings about risks.",
+      "content_text": "The National Transportation Safety Board found the probable causes of the midair collision last year included poorly designed flight routes and ignored warnings about risks.",
+      "date_published": "2026-01-28T04:29:30.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/nyregion/ice-protest-hilton-manhattan.html",
+      "url": "https://www.nytimes.com/2026/01/27/nyregion/ice-protest-hilton-manhattan.html",
+      "title": "Dozens Arrested After Anti-ICE Protest at a Manhattan Hilton",
+      "content_html": "The demonstration at the TriBeCa hotel followed a similar targeting of a Hilton property in Minneapolis on Sunday.",
+      "content_text": "The demonstration at the TriBeCa hotel followed a similar targeting of a Hilton property in Minneapolis on Sunday.",
+      "date_published": "2026-01-28T04:01:36.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/pretti-shooting-minneapolis-dhs-report.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/pretti-shooting-minneapolis-dhs-report.html",
+      "title": "D.H.S. Review Does Not Say Pretti Brandished Gun, As Noem Claimed",
+      "content_html": "An initial report from an internal agency watchdog says the Minneapolis man was shot by law enforcement after resisting arrest, but makes no mention of the allegations leveled by a Trump administration official.",
+      "content_text": "An initial report from an internal agency watchdog says the Minneapolis man was shot by law enforcement after resisting arrest, but makes no mention of the allegations leveled by a Trump administration official.",
+      "date_published": "2026-01-28T03:53:12.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/mountain-lion-san-francisco.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/mountain-lion-san-francisco.html",
+      "title": "Tails of the City: San Francisco’s Latest Animal Sensation Is a Mountain Lion",
+      "content_html": "The 2-year-old male was safely captured after he got stuck between two apartment buildings.",
+      "content_text": "The 2-year-old male was safely captured after he got stuck between two apartment buildings.",
+      "date_published": "2026-01-28T03:11:04.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/nyregion/mamdani-storm-deaths-homeless.html",
+      "url": "https://www.nytimes.com/2026/01/27/nyregion/mamdani-storm-deaths-homeless.html",
+      "title": "Storm Tests Mamdani as Dangerous Cold Grips New York",
+      "content_html": "The death toll from the storm has risen to 10.  As it emerged  that some of the dead had prior contact with social service workers, Mayor Zohran Mamdani vowed to do more to get people into shelters.",
+      "content_text": "The death toll from the storm has risen to 10.  As it emerged  that some of the dead had prior contact with social service workers, Mayor Zohran Mamdani vowed to do more to get people into shelters.",
+      "date_published": "2026-01-28T02:50:50.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/minnesota-house-special-elections.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/minnesota-house-special-elections.html",
+      "title": "Democrats Restore Minnesota House to Even Split Amid Immigration Turmoil",
+      "content_html": "In special elections on Tuesday, Democrats won two left-leaning districts, preventing Republicans from holding a majority in the State House of Representatives.",
+      "content_text": "In special elections on Tuesday, Democrats won two left-leaning districts, preventing Republicans from holding a majority in the State House of Representatives.",
+      "date_published": "2026-01-28T02:11:53.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/nyregion/epstein-files-release-bondi.html",
+      "url": "https://www.nytimes.com/2026/01/27/nyregion/epstein-files-release-bondi.html",
+      "title": "U.S. Expects to Finish Review of Epstein Files Soon, Bondi Says",
+      "content_html": "By law, the government was required to release its files on Jeffrey Epstein in December. Now the attorney general said they will be out “in the near term.”",
+      "content_text": "By law, the government was required to release its files on Jeffrey Epstein in December. Now the attorney general said they will be out “in the near term.”",
+      "date_published": "2026-01-28T02:09:40.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/trump-minneapolis-crackdown.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/trump-minneapolis-crackdown.html",
+      "title": "Trump Suggests He Will ‘De-Escalate’ in Minneapolis, Without Offering Details",
+      "content_html": "President Trump continued to put the blame on Alex Pretti for legally carrying a weapon with a permit, saying, “You can’t walk in with guns.”",
+      "content_text": "President Trump continued to put the blame on Alex Pretti for legally carrying a weapon with a permit, saying, “You can’t walk in with guns.”",
+      "date_published": "2026-01-28T01:53:54.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/border-shooting-arizona.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/border-shooting-arizona.html",
+      "title": "One Person Is Wounded in Shooting Involving U.S. Border Patrol in Arizona",
+      "content_html": "The man, Patrick Gary Schlegel, was in custody and expected to be charged after shooting at a federal helicopter, the authorities said. The shooting is under investigation.",
+      "content_text": "The man, Patrick Gary Schlegel, was in custody and expected to be charged after shooting at a federal helicopter, the authorities said. The shooting is under investigation.",
+      "date_published": "2026-01-28T01:08:31.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/opinion/iran-regime-killing-protesters.html",
+      "url": "https://www.nytimes.com/2026/01/27/opinion/iran-regime-killing-protesters.html",
+      "title": "Should Iran’s Executioners Go Unpunished?",
+      "content_html": "It’s left to the United States to impose meaningful consequences on the Iranian regime for one of the worst atrocities of this century.",
+      "content_text": "It’s left to the United States to impose meaningful consequences on the Iranian regime for one of the worst atrocities of this century.",
+      "date_published": "2026-01-28T00:52:00.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/trump-iraq-al-maliki.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/trump-iraq-al-maliki.html",
+      "title": "Trump Threatens to Pull U.S. Help From Iraq if Former Leader Returns",
+      "content_html": "Nuri Kamal al-Maliki, a former prime minister, has been nominated to the post by the main Shiite Muslim bloc in the Iraqi Parliament.",
+      "content_text": "Nuri Kamal al-Maliki, a former prime minister, has been nominated to the post by the main Shiite Muslim bloc in the Iraqi Parliament.",
+      "date_published": "2026-01-28T00:51:19.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/realestate/california-wildfires-damage-insurance.html",
+      "url": "https://www.nytimes.com/2026/01/27/realestate/california-wildfires-damage-insurance.html",
+      "title": "Who Decides When a Home Is Safe? A California Bill Says Science, Not Insurers.",
+      "content_html": "Following a Times investigation, a state lawmaker is proposing the first health-based standards for assessing smoke contamination after wildfires.",
+      "content_text": "Following a Times investigation, a state lawmaker is proposing the first health-based standards for assessing smoke contamination after wildfires.",
+      "date_published": "2026-01-28T00:45:42.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/opinion/ice-minneapolis-immigration-republicans.html",
+      "url": "https://www.nytimes.com/2026/01/27/opinion/ice-minneapolis-immigration-republicans.html",
+      "title": "Immigration Enforcement Is Unavoidably Upsetting. But This Is Something Else.",
+      "content_html": "Is this really the only way to enforce the law?",
+      "content_text": "Is this really the only way to enforce the law?",
+      "date_published": "2026-01-28T00:21:24.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/briefing/us-population-growth-fema-delays.html",
+      "url": "https://www.nytimes.com/2026/01/27/briefing/us-population-growth-fema-delays.html",
+      "title": "U.S. Population Growth Slows Sharply",
+      "content_html": "Also, some good news for a Broadway musical. Here’s the latest at the end of Tuesday.",
+      "content_text": "Also, some good news for a Broadway musical. Here’s the latest at the end of Tuesday.",
+      "date_published": "2026-01-28T00:20:00.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/trump-iowa-farms-tariffs.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/trump-iowa-farms-tariffs.html",
+      "title": "As Trump Promotes Economy in Iowa, Many Residents Feel Pain",
+      "content_html": "Farmers are critical to Iowa’s economy. They have been battered by President Trump’s tariffs and are not experiencing the “golden age” that the president promised.",
+      "content_text": "Farmers are critical to Iowa’s economy. They have been battered by President Trump’s tariffs and are not experiencing the “golden age” that the president promised.",
+      "date_published": "2026-01-27T23:49:52.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/ice-liam-ramos-minneapolis-deportation.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/ice-liam-ramos-minneapolis-deportation.html",
+      "title": "Judge Temporarily Blocks Deportation of 5-Year-Old Detained by ICE in Minnesota",
+      "content_html": "An image of the boy, wearing a Spider-Man backpack as he was detained by federal agents, became a symbol of the immigration crackdown in Minnesota.",
+      "content_text": "An image of the boy, wearing a Spider-Man backpack as he was detained by federal agents, became a symbol of the immigration crackdown in Minnesota.",
+      "date_published": "2026-01-27T23:40:19.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/kristi-noem-dhs-impeach-minneapolis.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/kristi-noem-dhs-impeach-minneapolis.html",
+      "title": "Democrats Push to Impeach DHS Secretary Kristi Noem After Minneapolis Shooting",
+      "content_html": "Following the fatal shooting in Minneapolis, a drive to impeach the homeland security secretary has drawn dozens more Democratic supporters, including the party’s top three leaders.",
+      "content_text": "Following the fatal shooting in Minneapolis, a drive to impeach the homeland security secretary has drawn dozens more Democratic supporters, including the party’s top three leaders.",
+      "date_published": "2026-01-27T23:38:26.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/travel/southwest-airlines-assigned-seating.html",
+      "url": "https://www.nytimes.com/2026/01/27/travel/southwest-airlines-assigned-seating.html",
+      "title": "Southwest Begins Assigned Seating, Scrapping a Signature Quirk",
+      "content_html": "The airline said its new policy, rolled out on Tuesday, responded to passengers’ preferences, but some customers said the scramble was part of the charm.",
+      "content_text": "The airline said its new policy, rolled out on Tuesday, responded to passengers’ preferences, but some customers said the scramble was part of the charm.",
+      "date_published": "2026-01-27T23:32:45.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/climate/judge-offshore-wind-vineyard-massachusetts.html",
+      "url": "https://www.nytimes.com/2026/01/27/climate/judge-offshore-wind-vineyard-massachusetts.html",
+      "title": "Judge Revives Wind Farm That Trump Halted Off Martha’s Vineyard",
+      "content_html": "The project, known as Vineyard Wind, was already 95 percent complete when the Trump administration ordered construction to stop.",
+      "content_text": "The project, known as Vineyard Wind, was already 95 percent complete when the Trump administration ordered construction to stop.",
+      "date_published": "2026-01-27T23:24:57.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/weather/next-winter-storm-forecast-snow-ice.html",
+      "url": "https://www.nytimes.com/2026/01/27/weather/next-winter-storm-forecast-snow-ice.html",
+      "title": "Another Weekend Winter Storm? Forecast Details and Updates.",
+      "content_html": "Meteorologists are watching another storm that could hit the East Coast this weekend.",
+      "content_text": "Meteorologists are watching another storm that could hit the East Coast this weekend.",
+      "date_published": "2026-01-27T23:13:36.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/science/gladys-west-dead.html",
+      "url": "https://www.nytimes.com/2026/01/27/science/gladys-west-dead.html",
+      "title": "Gladys West, Unsung Figure in Development of GPS, Dies at 95",
+      "content_html": "As a Navy mathematician in the 1950s and beyond, she played an unheralded but foundational role in making possible the global satellite-based mapping system.",
+      "content_text": "As a Navy mathematician in the 1950s and beyond, she played an unheralded but foundational role in making possible the global satellite-based mapping system.",
+      "date_published": "2026-01-27T23:13:16.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/media/bari-weiss-cbs-news-town-hall.html",
+      "url": "https://www.nytimes.com/2026/01/27/business/media/bari-weiss-cbs-news-town-hall.html",
+      "title": "Bari Weiss Urges CBS News to Think Like a ‘Start-Up’",
+      "content_html": "“We are not producing a product enough people want,” Ms. Weiss told employees at her first all-staff meeting at the network.",
+      "content_text": "“We are not producing a product enough people want,” Ms. Weiss told employees at her first all-staff meeting at the network.",
+      "date_published": "2026-01-27T22:59:24.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html",
+      "url": "https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html",
+      "title": "Former French Senator Convicted of Drugging a Colleague, Intending to Assault Her",
+      "content_html": "The trial took on special resonance in France, a year after a court found Dominique Pelicot and dozens of other men guilty of raping Gisèle Pelicot while she was sedated.",
+      "content_text": "The trial took on special resonance in France, a year after a court found Dominique Pelicot and dozens of other men guilty of raping Gisèle Pelicot while she was sedated.",
+      "date_published": "2026-01-27T22:05:14.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/world/europe/spain-undocumented-migrants-residency.html",
+      "url": "https://www.nytimes.com/2026/01/27/world/europe/spain-undocumented-migrants-residency.html",
+      "title": "Spain Offers Undocumented Migrants a Legal Way to Stay",
+      "content_html": "The measure, unexpectedly approved, comes as other countries are cracking down on immigration.",
+      "content_text": "The measure, unexpectedly approved, comes as other countries are cracking down on immigration.",
+      "date_published": "2026-01-27T21:03:10.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/texas-immigrants-h1b-visas.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/texas-immigrants-h1b-visas.html",
+      "title": "Texas Moves to Curtail H-1B Visas",
+      "content_html": "Gov. Greg Abbott said the state would investigate public agencies and universities that employ those with H-1B visas, a program the Trump administration has also targeted.",
+      "content_text": "Gov. Greg Abbott said the state would investigate public agencies and universities that employ those with H-1B visas, a program the Trump administration has also targeted.",
+      "date_published": "2026-01-27T20:47:32.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/nyregion/santos-murder-homeless-chintatown-trial.html",
+      "url": "https://www.nytimes.com/2026/01/27/nyregion/santos-murder-homeless-chintatown-trial.html",
+      "title": "Man Went on ‘Trial Run’ Before Killing 4 Homeless Men, Prosecutors Say",
+      "content_html": "Randy Rodriguez Santos faces four murder charges for the beating deaths of homeless men in Manhattan’s Chinatown in 2019. The killings left the city’s homeless population on edge.",
+      "content_text": "Randy Rodriguez Santos faces four murder charges for the beating deaths of homeless men in Manhattan’s Chinatown in 2019. The killings left the city’s homeless population on edge.",
+      "date_published": "2026-01-27T20:36:48.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
+      "title": "Troop Casualties in Ukraine War Near 2 Million, Study Finds",
+      "content_html": "The number of deaths, injuries and missing is approaching a grim milestone after nearly four years of fighting.",
+      "content_text": "The number of deaths, injuries and missing is approaching a grim milestone after nearly four years of fighting.",
+      "date_published": "2026-01-27T17:54:11.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/well/food-diet-nutrition-cancer-risk.html",
+      "url": "https://www.nytimes.com/2026/01/27/well/food-diet-nutrition-cancer-risk.html",
+      "title": "These Foods Might Lower Cancer Risk",
+      "content_html": "Decades of research suggests that your diet can influence the risk of various cancers. Here’s what we know.",
+      "content_text": "Decades of research suggests that your diet can influence the risk of various cancers. Here’s what we know.",
+      "date_published": "2026-01-27T17:32:09.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/jennifer-homendy-trump-transportation-safety-board.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/jennifer-homendy-trump-transportation-safety-board.html",
+      "title": "She’s the Face of Trump’s Aviation Safety Board, and She’s a Democrat",
+      "content_html": "Jennifer Homendy, the outspoken chairwoman of the National Transportation Safety Board, is reclaiming the spotlight at a meeting on Tuesday about the Washington, D.C., crash that killed 67.",
+      "content_text": "Jennifer Homendy, the outspoken chairwoman of the National Transportation Safety Board, is reclaiming the spotlight at a meeting on Tuesday about the Washington, D.C., crash that killed 67.",
+      "date_published": "2026-01-27T14:35:53.000Z"
+    }
+  ]
+}

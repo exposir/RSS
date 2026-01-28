@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188990",
+      "url": "https://www.v2ex.com/t/1188990#reply0",
+      "title": "[问与答] 请问 cursor 现在有办法使用第三方 API 吗？今天搞了很久都不行",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T04:52:08.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188989",
+      "url": "https://www.v2ex.com/t/1188989#reply0",
+      "title": "[分享创造] 受够了阿里云 Tablestore 的官方 Web 控制台，写了一个 GUI 客户端 (TablePilot)",
+      "content_html": "<h2>为什么做这个？</h2>\n<p>大家好，我是 TablePilot 的开发者。</p>\n<p>在日常开发中，阿里云的表格存储 (Tablestore) 是个好东西，但官方的 Web 控制台体验实在是一言难尽：搜索复杂、不支持多标签、编辑痛苦、界面丑……</p>\n<p>作为一个用户，我实在忍不了了，于是利用业余时间开发了 <strong>TablePilot</strong>。</p>\n<h2>TablePilot 是什么？</h2>\n<p>TablePilot 是一个跨平台的阿里云 Tablestore 图形化客户端。\n官网：<a href=\"https://www.tablepilot.cn\" rel=\"nofollow\">https://www.tablepilot.cn</a></p>\n<p>核心目标就一个：<strong>快，且优雅。</strong></p>\n<h2>它解决了什么问题？</h2>\n<ul>\n<li><strong>极速连接</strong>：告别 Web 控制台的 Loading ，本地直连。</li>\n<li><strong>多实例管理</strong>：支持保存多套 AK/SK ，生产、测试环境一键切换。</li>\n<li><strong>数据编辑体验</strong>：针对 OTS 的复杂类型做了优化，支持 JSON 格式化高亮，不再对着一坨字符串发愁。</li>\n<li><strong>极简 UI</strong>：没有多余的干扰元素，专注于数据本身。</li>\n</ul>\n<p><a href=\"https://postimg.cc/yW8XkVmP\" rel=\"nofollow\"><img alt=\"preview_0003.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.postimg.cc/zDnd2v39/preview_0003.png\"/></a>\n<a href=\"https://postimg.cc/NLj75g6D\" rel=\"nofollow\"><img alt=\"preview_0004.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.postimg.cc/xjKsp8qw/preview_0004.png\"/></a>\n<a href=\"https://postimg.cc/JtzcG1NK\" rel=\"nofollow\"><img alt=\"preview_0005.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.postimg.cc/66dHbqys/preview_0005.png\"/></a></p>\n<h2>现在的状态</h2>\n<p>目前发布了 v1.0 测试版，基本功能已经完善。\n后续打算加入更多高级查询和数据导入、导出功能。</p>\n<h2>体验</h2>\n<p>欢迎 V2EX 的朋友们下载体验，有任何 Bug 或建议，欢迎在这个帖子里留言，每一条我都会看！</p>",
+      "content_text": "为什么做这个？\n大家好，我是 TablePilot 的开发者。\n在日常开发中，阿里云的表格存储 (Tablestore) 是个好东西，但官方的 Web 控制台体验实在是一言难尽：搜索复杂、不支持多标签、编辑痛苦、界面丑……\n作为一个用户，我实在忍不了了，于是利用业余时间开发了 TablePilot。\nTablePilot 是什么？\nTablePilot 是一个跨平台的阿里云 Tablestore 图形化客户端。\n官网：https://www.tablepilot.cn\n核心目标就一个：快，且优雅。\n它解决了什么问题？\n\n极速连接：告别 Web 控制台的 Loading ，本地直连。\n多实例管理：支持保存多套 AK/SK ，生产、测试环境一键切换。\n数据编辑体验：针对 OTS 的复杂类型做了优化，支持 JSON 格式化高亮，不再对着一坨字符串发愁。\n极简 UI：没有多余的干扰元素，专注于数据本身。\n\n\n\n\n现在的状态\n目前发布了 v1.0 测试版，基本功能已经完善。\n后续打算加入更多高级查询和数据导入、导出功能。\n体验\n欢迎 V2EX 的朋友们下载体验，有任何 Bug 或建议，欢迎在这个帖子里留言，每一条我都会看！",
+      "date_published": "2026-01-28T04:51:08.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1188987",
       "url": "https://www.v2ex.com/t/1188987#reply1",
       "title": "[程序员] 我把 clawdbot 接入了飞书",

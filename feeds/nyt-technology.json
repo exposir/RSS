@@ -1,0 +1,193 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "NYT > Technology",
+  "home_page_url": "https://www.nytimes.com/section/technology",
+  "feed_url": "https://exposir.github.io/RSS/feeds/nyt-technology.json",
+  "description": "",
+  "items": [
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
+      "url": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
+      "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
+      "content_html": "Driven by the artificial intelligence frenzy, Microsoft is internally projecting that water use at its data centers will more than double by 2030 from 2020, including in places that face shortages.",
+      "content_text": "Driven by the artificial intelligence frenzy, Microsoft is internally projecting that water use at its data centers will more than double by 2030 from 2020, including in places that face shortages.",
+      "date_published": "2026-01-27T23:30:19.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/meta-data-center-ads.html",
+      "url": "https://www.nytimes.com/2026/01/27/technology/meta-data-center-ads.html",
+      "title": "Meta Campaigns to Change Opinions on Data Centers",
+      "content_html": "The tech giant has spent more than $6 million on TV ads in state capitals and Washington, with the message that data centers create jobs.",
+      "content_text": "The tech giant has spent more than $6 million on TV ads in state capitals and Washington, with the message that data centers create jobs.",
+      "date_published": "2026-01-27T21:23:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
+      "title": "How Computer Warfare Is Becoming Part of the Pentagon’s Arsenal",
+      "content_html": "The military tested a new approach in Venezuela and during strikes on Iranian nuclear facilities.",
+      "content_text": "The military tested a new approach in Venezuela and during strikes on Iranian nuclear facilities.",
+      "date_published": "2026-01-27T19:50:22.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/tiktok-settlement-social-media-addiction-lawsuit.html",
+      "url": "https://www.nytimes.com/2026/01/27/technology/tiktok-settlement-social-media-addiction-lawsuit.html",
+      "title": "TikTok Settles Social Media Addiction Lawsuit Ahead of a Landmark Trial",
+      "content_html": "The settlement means TikTok will avoid a trial where plaintiffs had planned to argue that social media platforms are inherently defective and subject to personal injury liability.",
+      "content_text": "The settlement means TikTok will avoid a trial where plaintiffs had planned to argue that social media platforms are inherently defective and subject to personal injury liability.",
+      "date_published": "2026-01-27T19:17:48.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/what-to-know-about-the-social-media-addiction-trials.html",
+      "url": "https://www.nytimes.com/2026/01/27/technology/what-to-know-about-the-social-media-addiction-trials.html",
+      "title": "The Social Media Addiction Trials: What to Know",
+      "content_html": "Landmark trials beginning this week will test a new legal strategy claiming that Meta, TikTok, Snap and YouTube caused personal injury through addictive products.",
+      "content_text": "Landmark trials beginning this week will test a new legal strategy claiming that Meta, TikTok, Snap and YouTube caused personal injury through addictive products.",
+      "date_published": "2026-01-27T17:01:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trial.html",
+      "url": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trial.html",
+      "title": "Social Media Giants Face Landmark Legal Tests on Child Safety",
+      "content_html": "Starting this week, a series of trials will test a new legal strategy claiming that Meta, TikTok, Snap and YouTube caused personal injury through addictive products.",
+      "content_text": "Starting this week, a series of trials will test a new legal strategy claiming that Meta, TikTok, Snap and YouTube caused personal injury through addictive products.",
+      "date_published": "2026-01-27T16:58:47.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/technology/ice-minnesota-protests-tech.html",
+      "url": "https://www.nytimes.com/2026/01/26/technology/ice-minnesota-protests-tech.html",
+      "title": "As Tech Chiefs Woo Trump, Silicon Valley Seethes Over Minneapolis Shootings",
+      "content_html": "Executives, investors and engineers are speaking out against the Trump administration after the killings of Alex Pretti and Renee Good in moves reminiscent of Silicon Valley a decade ago.",
+      "content_text": "Executives, investors and engineers are speaking out against the Trump administration after the killings of Alex Pretti and Renee Good in moves reminiscent of Silicon Valley a decade ago.",
+      "date_published": "2026-01-27T15:28:25.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/general-motors-earnings.html",
+      "url": "https://www.nytimes.com/2026/01/27/business/general-motors-earnings.html",
+      "title": "G.M. Shares Rise as Investors Are Encouraged by 2026 Prospects",
+      "content_html": "The automaker said that it would buy back stock worth up to $6 billion and that it expected profit to rise this year after it pulled back from electric vehicle production.",
+      "content_text": "The automaker said that it would buy back stock worth up to $6 billion and that it expected profit to rise this year after it pulled back from electric vehicle production.",
+      "date_published": "2026-01-27T15:22:39.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/media/brooklyn-beckham-victoria-feud-ai-videos-dancing.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/media/brooklyn-beckham-victoria-feud-ai-videos-dancing.html",
+      "title": "New Videos of the Beckham Feud Are Fake. Nobody Seems to Care.",
+      "content_html": "A.I.-generated content of Victoria Beckham has spread as wedding drama has engulfed the celebrity clan and the public has clamored for receipts (even fabricated ones).",
+      "content_text": "A.I.-generated content of Victoria Beckham has spread as wedding drama has engulfed the celebrity clan and the public has clamored for receipts (even fabricated ones).",
+      "date_published": "2026-01-26T15:32:53.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html",
+      "url": "https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html",
+      "title": "Elon Musk’s X Faces EU Inquiry Over Sexualized AI Images Generated by Grok",
+      "content_html": "Regulators said the company’s lack of controls had led to the widespread use of deepfakes created with the chatbot Grok.",
+      "content_text": "Regulators said the company’s lack of controls had led to the widespread use of deepfakes created with the chatbot Grok.",
+      "date_published": "2026-01-26T14:16:42.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/technology/recursive-ai-ricursive.html",
+      "url": "https://www.nytimes.com/2026/01/26/technology/recursive-ai-ricursive.html",
+      "title": "Silicon Valley Wants to Build A.I. That Can Improve A.I. on Its Own",
+      "content_html": "Ricursive Intelligence, founded by two former Google researchers and valued at $4 billion, is among several efforts to automate the creation of artificial intelligence.",
+      "content_text": "Ricursive Intelligence, founded by two former Google researchers and valued at $4 billion, is among several efforts to automate the creation of artificial intelligence.",
+      "date_published": "2026-01-26T10:02:25.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html",
+      "url": "https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html",
+      "title": "Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End",
+      "content_html": "Yann LeCun helped create the technology behind today’s chatbots. Now he says many tech companies are on the wrong path to creating intelligent machines.",
+      "content_text": "Yann LeCun helped create the technology behind today’s chatbots. Now he says many tech companies are on the wrong path to creating intelligent machines.",
+      "date_published": "2026-01-26T10:01:00.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/business/general-motors-ford-canada-china.html",
+      "url": "https://www.nytimes.com/2026/01/24/business/general-motors-ford-canada-china.html",
+      "title": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
+      "content_html": "U.S. trade policy has devastated the Canadian auto industry and pushed the country to reach an agreement that will make it easier for Chinese companies to sell cars there.",
+      "content_text": "U.S. trade policy has devastated the Canadian auto industry and pushed the country to reach an agreement that will make it easier for Chinese companies to sell cars there.",
+      "date_published": "2026-01-24T22:28:00.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/business/energy-environment/storm-power-outages.html",
+      "url": "https://www.nytimes.com/2026/01/24/business/energy-environment/storm-power-outages.html",
+      "title": "Why the Power May Not Go Out Until After the Storm Has Passed",
+      "content_html": "The steady accumulation of snow and freezing rain and a rise in demand for electricity can cause problems long after the sky clears, energy experts said.",
+      "content_text": "The steady accumulation of snow and freezing rain and a rise in demand for electricity can cause problems long after the sky clears, energy experts said.",
+      "date_published": "2026-01-24T17:31:03.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/technology/claude-code.html",
+      "url": "https://www.nytimes.com/2026/01/23/technology/claude-code.html",
+      "title": "Five Ways People Are Using Claude Code",
+      "content_html": "Claude Code generates computer code when people type prompts, so those with no coding experience can create their own programs and apps.",
+      "content_text": "Claude Code generates computer code when people type prompts, so those with no coding experience can create their own programs and apps.",
+      "date_published": "2026-01-24T00:40:42.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/technology/tiktok-deal-oracle-bytedance-china-us.html",
+      "url": "https://www.nytimes.com/2026/01/22/technology/tiktok-deal-oracle-bytedance-china-us.html",
+      "title": "TikTok Strikes Deal to Create New U.S. Entity and Loosen App’s Ties to China",
+      "content_html": "The Chinese parent company of the popular video app said a group of non-Chinese investors would create an American TikTok to avoid a federal ban.",
+      "content_text": "The Chinese parent company of the popular video app said a group of non-Chinese investors would create an American TikTok to avoid a federal ban.",
+      "date_published": "2026-01-24T00:30:54.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/us/politics/sec-crypto-winklevoss.html",
+      "url": "https://www.nytimes.com/2026/01/23/us/politics/sec-crypto-winklevoss.html",
+      "title": "S.E.C. Drops Case Against Cryptocurrency Firm Founded by Winklevoss Twins",
+      "content_html": "The agency says that victims of an investment offering involving Gemini Trust got their money back, though after a regulatory action brought by the New York attorney general.",
+      "content_text": "The agency says that victims of an investment offering involving Gemini Trust got their money back, though after a regulatory action brought by the New York attorney general.",
+      "date_published": "2026-01-23T23:35:26.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/podcasts/hardfork-chatgpt-ads-claude-constitution.html",
+      "url": "https://www.nytimes.com/2026/01/23/podcasts/hardfork-chatgpt-ads-claude-constitution.html",
+      "title": "Will ChatGPT Ads Change OpenAI? + Amanda Askell Explains Claude’s New Constitution",
+      "content_html": "“The question is not are these first couple of ads that we’re seeing from OpenAI going to be good or not? It’s whether two or three years from now, ChatGPT is being steered toward ad-friendly topics.”",
+      "content_text": "“The question is not are these first couple of ads that we’re seeing from OpenAI going to be good or not? It’s whether two or three years from now, ChatGPT is being steered toward ad-friendly topics.”",
+      "date_published": "2026-01-23T12:00:03.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/weather/weather-apps-forecast-apple-android.html",
+      "url": "https://www.nytimes.com/2026/01/22/weather/weather-apps-forecast-apple-android.html",
+      "title": "Why iPhone and Android Weather Apps Are Freaking Out About Winter Storm Forecasts",
+      "content_html": "A foot of snow in New York? Two feet? Well, it’s complicated.",
+      "content_text": "A foot of snow in New York? Two feet? Well, it’s complicated.",
+      "date_published": "2026-01-23T00:22:42.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html",
+      "url": "https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html",
+      "title": "The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley",
+      "content_html": "Defections, secret conversations, deal talks that fizzled and a battle for control: The turmoil at Thinking Machines Lab is the artificial intelligence industry’s latest drama.",
+      "content_text": "Defections, secret conversations, deal talks that fizzled and a battle for control: The turmoil at Thinking Machines Lab is the artificial intelligence industry’s latest drama.",
+      "date_published": "2026-01-22T16:59:29.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/technology/personaltech/how-to-deal-with-that-drawer-full-of-old-gadgets.html",
+      "url": "https://www.nytimes.com/2026/01/22/technology/personaltech/how-to-deal-with-that-drawer-full-of-old-gadgets.html",
+      "title": "How to Deal With That Drawer Full of Old Gadgets",
+      "content_html": "This month, resolve to revive or relinquish those old music players and point-and-shoot cameras — and retrieve any files trapped on the devices.",
+      "content_text": "This month, resolve to revive or relinquish those old music players and point-and-shoot cameras — and retrieve any files trapped on the devices.",
+      "date_published": "2026-01-22T10:00:48.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/technology/grok-x-ai-elon-musk-deepfakes.html",
+      "url": "https://www.nytimes.com/2026/01/22/technology/grok-x-ai-elon-musk-deepfakes.html",
+      "title": "Elon Musk’s Grok A.I. Chatbot Made Millions of Sexualized Images, New Estimates Show",
+      "content_html": "Over nine days, Elon Musk’s Grok chatbot generated and posted 4.4 million images, of which at least 41 percent were sexualized images of women.",
+      "content_text": "Over nine days, Elon Musk’s Grok chatbot generated and posted 4.4 million images, of which at least 41 percent were sexualized images of women.",
+      "date_published": "2026-01-22T10:00:40.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/21/travel/facial-recognition-airports.html",
+      "url": "https://www.nytimes.com/2026/01/21/travel/facial-recognition-airports.html",
+      "title": "At Check-In, Your Face Is Increasingly Your ID",
+      "content_html": "Facial recognition at security and immigration checkpoints and gates could ease airport hassles, even as the technology raises privacy concerns.",
+      "content_text": "Facial recognition at security and immigration checkpoints and gates could ease airport hassles, even as the technology raises privacy concerns.",
+      "date_published": "2026-01-21T15:47:45.000Z"
+    }
+  ]
+}

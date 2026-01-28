@@ -6,6 +6,14 @@
   "description": "Twitter @Elon Musk - Powered by RSSHub",
   "items": [
     {
+      "id": "https://twitter.com/elonmusk/status/2016373340059902269",
+      "url": "https://x.com/elonmusk/status/2016373340059902269",
+      "title": "Grok Imagine",
+      "content_html": "Grok Imagine<br><video width=\"464\" height=\"688\" src=\"https://video.twimg.com/ext_tw_video/2016197882899267585/pu/vid/avc1/464x688/fjeAJ-9HWIV2I75M.mp4?tag=21\" controls=\"controls\" poster=\"https://pbs.twimg.com/ext_tw_video_thumb/2016197882899267585/pu/img/ipbP2souSYui2plP.jpg\"></video>",
+      "content_text": "Grok Imagine",
+      "date_published": "2026-01-28T04:50:41.000Z"
+    },
+    {
       "id": "https://twitter.com/elonmusk/status/2016370891853087134",
       "url": "https://x.com/elonmusk/status/2016370891853087134",
       "title": "Epic movies this year",
@@ -236,6 +244,14 @@
       "content_html": "RT tetsuo<br>Grok<br><video width=\"832\" height=\"1504\" src=\"https://video.twimg.com/amplify_video/2016112635931197444/vid/avc1/472x856/bSslXaaCaoM_TFSK.mp4?tag=23\" controls=\"controls\" poster=\"https://pbs.twimg.com/amplify_video_thumb/2016112635931197444/img/egg492V-8hrsVL2T.jpg\"></video>",
       "content_text": "RT tetsuoGrok",
       "date_published": "2026-01-27T12:05:34.000Z"
+    },
+    {
+      "id": "https://twitter.com/elonmusk/status/2016372947754025320",
+      "url": "https://x.com/elonmusk/status/2016372947754025320",
+      "title": "RT Lacey: 🚨Grok Imagine just dropped 10 seconds and I tested it the only responsible way possible: By letting Deadpool absolutely lose his mind. Do...",
+      "content_html": "RT Lacey<br>🚨Grok Imagine just dropped 10 seconds and I tested it the only responsible way possible: <br><br>By letting Deadpool absolutely lose his mind. Do not blink.<br><br>This escalates fast.<br><br>🎬👇<br><video width=\"2048\" height=\"1152\" src=\"https://video.twimg.com/amplify_video/2016087597391523840/vid/avc1/3840x2160/IXGCHoLYqtpAodms.mp4?tag=21\" controls=\"controls\" poster=\"https://pbs.twimg.com/amplify_video_thumb/2016087597391523840/img/bP_d1xN-ldQljhMJ.jpg\"></video>",
+      "content_text": "RT Lacey🚨Grok Imagine just dropped 10 seconds and I tested it the only responsible way possible: By letting Deadpool absolutely lose his mind. Do not blink.This escalates fast.🎬👇",
+      "date_published": "2026-01-27T09:55:51.000Z"
     },
     {
       "id": "https://twitter.com/elonmusk/status/2016371423774670890",
