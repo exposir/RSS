@@ -84,6 +84,9 @@
 | NYT商业新闻        | https://exposir.github.io/RSS/feeds/nyt-business.json        | https://rss.nytimes.com/services/xml/rss/nyt/Business.xml                     | ⏳ 待验证 |
 | NYT科技频道        | https://exposir.github.io/RSS/feeds/nyt-technology.json      | https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml                   | ⏳ 待验证 |
 | NYT科学频道        | https://exposir.github.io/RSS/feeds/nyt-science.json         | https://rss.nytimes.com/services/xml/rss/nyt/Science.xml                      | ⏳ 待验证 |
+| Reuters世界新闻    | https://exposir.github.io/RSS/feeds/reuters-world.json       | https://www.reutersagency.com/feed/?best-types=world-news                     | ⏳ 待验证 |
+| Reuters商业新闻    | https://exposir.github.io/RSS/feeds/reuters-business.json    | https://www.reutersagency.com/feed/?best-types=business                       | ⏳ 待验证 |
+| Reuters科技快讯    | https://exposir.github.io/RSS/feeds/reuters-tech.json        | https://www.reutersagency.com/feed/?best-types=technology                     | ⏳ 待验证 |
 
 ## 状态说明
 

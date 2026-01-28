@@ -321,3 +321,15 @@ feeds:
   - name: NYT科学频道
     url: https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
     output: feeds/nyt-science.json
+
+  - name: Reuters世界新闻
+    url: https://www.reutersagency.com/feed/?best-types=world-news
+    output: feeds/reuters-world.json
+
+  - name: Reuters商业新闻
+    url: https://www.reutersagency.com/feed/?best-types=business
+    output: feeds/reuters-business.json
+
+  - name: Reuters科技快讯
+    url: https://www.reutersagency.com/feed/?best-types=technology
+    output: feeds/reuters-tech.json
