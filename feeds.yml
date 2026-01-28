@@ -221,3 +221,7 @@ feeds:
   - name: 财新周刊
     url: https://expo-rsshub.zeabur.app/caixin/weekly
     output: feeds/caixin-weekly.json
+
+  - name: 雪球热帖
+    url: https://expo-rsshub.zeabur.app/xueqiu/hots
+    output: feeds/xueqiu-hot.json
