@@ -68,6 +68,7 @@
 | 雪球1247347556     | https://exposir.github.io/RSS/feeds/xueqiu-1247347556.json   | https://expo-rsshub.zeabur.app/xueqiu/user/1247347556                         | ⏳ 待验证 |
 | 91porn             | https://exposir.github.io/RSS/feeds/91porn.json              | https://expo-rsshub.zeabur.app/91porn                                         | ⏳ 待验证 |
 | 晚点LatePost       | https://exposir.github.io/RSS/feeds/latepost.json            | https://expo-rsshub.zeabur.app/latepost                                       | ⏳ 待验证 |
+| 新闻联播           | https://exposir.github.io/RSS/feeds/xwlb.json                | https://expo-rsshub.zeabur.app/cctv/tv/lm/xwlb                                | ⏳ 待验证 |
 
 ## 状态说明
 
