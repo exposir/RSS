@@ -78,6 +78,14 @@
       "date_published": "2026-01-27T21:54:29.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46786196",
+      "url": "https://campedersen.com/vcad",
+      "title": "Parametric CAD in Rust",
+      "content_html": "<p>Article URL: <a href=\"https://campedersen.com/vcad\">https://campedersen.com/vcad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46786196\">https://news.ycombinator.com/item?id=46786196</a></p>\n<p>Points: 226</p>\n<p># Comments: 158</p>",
+      "content_text": "Article URL: https://campedersen.com/vcad\nComments URL: https://news.ycombinator.com/item?id=46786196\nPoints: 226\n# Comments: 158",
+      "date_published": "2026-01-27T20:36:14.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46786183",
       "url": "https://github.com/kangtastic/timestation",
       "title": "Time Station Emulator",

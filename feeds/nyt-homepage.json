@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/california-billionaires-sergey-brin-campaign.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/california-billionaires-sergey-brin-campaign.html",
+      "title": "Sergey Brin Spends $20 Million on California Political Effort Amid Wealth Tax Debate",
+      "content_html": "Sergey Brin, the co-founder of Google, is donating toward campaigns to solve California’s housing crisis, spurring other billionaires to pitch in. Their efforts may also help ward off a wealth tax.",
+      "content_text": "Sergey Brin, the co-founder of Google, is donating toward campaigns to solve California’s housing crisis, spurring other billionaires to pitch in. Their efforts may also help ward off a wealth tax.",
+      "date_published": "2026-01-28T23:54:04.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/josh-shapiro-memoir-where-we-keep-light.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/josh-shapiro-memoir-where-we-keep-light.html",
+      "title": "5 Key Takeaways from Josh Shapiro’s Memoir ‘Where We Keep the Light’",
+      "content_html": "Politically pointed and heavy on his Jewish faith, the book already has Democrats talking.",
+      "content_text": "Politically pointed and heavy on his Jewish faith, the book already has Democrats talking.",
+      "date_published": "2026-01-28T23:15:35.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/briefing/agents-leave-trump-iran-fbi-georgia.html",
       "url": "https://www.nytimes.com/2026/01/28/briefing/agents-leave-trump-iran-fbi-georgia.html",
       "title": "Agents Who Shot Alex Pretti Are Put on Leave",

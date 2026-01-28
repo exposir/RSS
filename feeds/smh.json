@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "ca8133c6-7ced-40b4-a086-426bf68b93de",
+      "url": "https://www.smh.com.au/sport/cricket/sophie-molineux-pips-big-names-to-succeed-alyssa-healy-as-captain-20260129-p5nxxt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sophie Molineux pips big names to succeed Alyssa Healy as captain",
+      "content_html": "Sophie Molineux, a left-arm finger-spinning all-rounder, has beaten superstars Ash Gardner and Annabel Sutherland for the role.",
+      "content_text": "Sophie Molineux, a left-arm finger-spinning all-rounder, has beaten superstars Ash Gardner and Annabel Sutherland for the role.",
+      "date_published": "2026-01-28T23:57:51.000Z"
+    },
+    {
+      "id": "638ff913-5525-4e07-af5a-0df6488a13c0",
+      "url": "https://www.smh.com.au/national/western-australia/wa-news-live-human-rights-commission-urges-action-on-racism-after-perth-rally-bomb-incident-20260128-p5nxtt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "WA news LIVE: Human Rights Commission urges action on racism after Perth rally bomb incident",
+      "content_html": "Follow our live coverage here.",
+      "content_text": "Follow our live coverage here.",
+      "date_published": "2026-01-28T23:48:36.000Z"
+    },
+    {
+      "id": "26167569-1754-487f-96e7-446c36f8069f",
+      "url": "https://www.smh.com.au/national/rick-steins-verdict-of-the-new-sydney-fish-market-20260129-p5nxy2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rick Stein's verdict of the new Sydney Fish Market",
+      "content_html": "Good Food invites Rick Stein to experience the new Sydney Fish Market for the first time, meeting vendors, and tasting fresh seafood along the way.",
+      "content_text": "Good Food invites Rick Stein to experience the new Sydney Fish Market for the first time, meeting vendors, and tasting fresh seafood along the way.",
+      "date_published": "2026-01-28T23:46:18.000Z"
+    },
+    {
+      "id": "e22acc37-0eac-43a3-b38e-37d49675697c",
+      "url": "https://www.smh.com.au/national/nsw/former-council-boss-charged-over-alleged-1-3-million-fraud-20260129-p5nxw9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Former council boss charged over alleged $1.3 million fraud",
+      "content_html": "Martin Thomas Dimec allegedly authorised and approved fraudulent invoices at three NSW councils over more than a decade.",
+      "content_text": "Martin Thomas Dimec allegedly authorised and approved fraudulent invoices at three NSW councils over more than a decade.",
+      "date_published": "2026-01-28T23:40:20.000Z"
+    },
+    {
       "id": "3d27e70c-d66d-4051-8555-37c1be356f34",
       "url": "https://www.smh.com.au/national/western-australia/wildcats-upset-phoenix-to-congest-nbl-top-five-20260129-p5nxxx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Wildcats upset Phoenix to congest NBL top-five",

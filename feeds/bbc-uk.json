@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/articles/c5y2zdwjzkvo#7",
+      "url": "https://www.bbc.com/sport/football/articles/c5y2zdwjzkvo?at_medium=RSS&at_campaign=rss",
+      "title": "Rare night of joy for Salah and Slot amid turbulent season",
+      "content_html": "After sweeping their way into the last 16, chief football writer Phil McNulty asks can the Champions League rescue Liverpool's season of turmoil?",
+      "content_text": "After sweeping their way into the last 16, chief football writer Phil McNulty asks can the Champions League rescue Liverpool's season of turmoil?",
+      "date_published": "2026-01-28T23:48:08.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/videos/cj6wgelw62do#0",
       "url": "https://www.bbc.com/news/videos/cj6wgelw62do?at_medium=RSS&at_campaign=rss",
       "title": "Watch: How Alex Pretti shooting led Trump to shift course in Minneapolis",
