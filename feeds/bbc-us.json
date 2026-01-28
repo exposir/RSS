@@ -6,6 +6,38 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cj3vp84j1l3o#1",
+      "url": "https://www.bbc.com/news/articles/cj3vp84j1l3o?at_medium=RSS&at_campaign=rss",
+      "title": "Republicans criticise immigration force but steer clear of Trump attacks",
+      "content_html": "Lawmakers are questioning the crackdown while anger grows over two citizens killed by federal agents.",
+      "content_text": "Lawmakers are questioning the crackdown while anger grows over two citizens killed by federal agents.",
+      "date_published": "2026-01-28T02:29:26.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c1lz2rg0923o#1",
+      "url": "https://www.bbc.com/news/articles/c1lz2rg0923o?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers:  'Half measures' and 'Fake jobs for sale'",
+      "content_html": "Chancellor Rachel Reeves' \"long-awaited\" support package for British pubs makes Wednesday's front pages.",
+      "content_text": "Chancellor Rachel Reeves' \"long-awaited\" support package for British pubs makes Wednesday's front pages.",
+      "date_published": "2026-01-28T02:21:24.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c0q425vg4qzo#0",
+      "url": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
+      "content_html": "The killing of Alex Pretti over the weekend led MInnesota officials and locals to renew calls for Trump to end his immigration operation there.",
+      "content_text": "The killing of Alex Pretti over the weekend led MInnesota officials and locals to renew calls for Trump to end his immigration operation there.",
+      "date_published": "2026-01-28T01:33:26.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c3ve1gnk26eo#7",
+      "url": "https://www.bbc.com/sport/football/articles/c3ve1gnk26eo?at_medium=RSS&at_campaign=rss",
+      "title": "Six English clubs, one huge night - all to play for in Champions League",
+      "content_html": "With the league phase of the Champions League almost over, which teams can join Arsenal and Bayern Munich in the top eight?",
+      "content_text": "With the league phase of the Champions League almost over, which teams can join Arsenal and Bayern Munich in the top eight?",
+      "date_published": "2026-01-28T01:24:45.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/czejjr7wz6ko#1",
       "url": "https://www.bbc.com/news/articles/czejjr7wz6ko?at_medium=RSS&at_campaign=rss",
       "title": "'What if I just started shouting?' - when to worry about intrusive thoughts",
@@ -84,6 +116,14 @@
       "content_html": "During the event local \"guizers\" throw their torches at a replica of a Viking long ship until it is consumed by flames.",
       "content_text": "During the event local \"guizers\" throw their torches at a replica of a Viking long ship until it is consumed by flames.",
       "date_published": "2026-01-27T21:59:40.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cjw1pn4lwjqo#0",
+      "url": "https://www.bbc.com/news/articles/cjw1pn4lwjqo?at_medium=RSS&at_campaign=rss",
+      "title": "Who is Tom Homan, Trump's 'border tsar' deployed to Minneapolis?",
+      "content_html": "The US border tsar has long been a ferocious defender of Donald Trump's immigration policies.",
+      "content_text": "The US border tsar has long been a ferocious defender of Donald Trump's immigration policies.",
+      "date_published": "2026-01-27T21:17:35.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/golf/articles/c1m72xxk2p8o#7",

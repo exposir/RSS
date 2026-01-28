@@ -6,6 +6,30 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003287534",
+      "url": "https://www.wsj.com/world/americas/venezuelans-suddenly-have-hope-for-the-economy-less-so-for-democracy-b39ea3e7",
+      "title": "Venezuelans Suddenly Have Hope for the Economy. Less So for Democracy.",
+      "content_html": "The U.S. removal of autocrat Nicol&#xe1;s Maduro has brought an influx of American dollars into the country, easing food prices.",
+      "content_text": "The U.S. removal of autocrat Nicol&#xe1;s Maduro has brought an influx of American dollars into the country, easing food prices.",
+      "date_published": "2026-01-28T03:00:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003288498",
+      "url": "https://www.wsj.com/business/china-vanke-avoids-immediate-default-with-more-bond-repayment-deferrals-19667d27",
+      "title": "China Vanke Avoids Immediate Default With More Bond Repayment Deferrals",
+      "content_html": "The Chinese developer also obtained a fresh loan from a state-owned shareholder, giving it more breathing room as it wrestles with a prolonged liquidity crunch.",
+      "content_text": "The Chinese developer also obtained a fresh loan from a state-owned shareholder, giving it more breathing room as it wrestles with a prolonged liquidity crunch.",
+      "date_published": "2026-01-28T02:44:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003229910",
+      "url": "https://www.wsj.com/world/china/deflation-doom-loop-china-economy-25b0938a",
+      "title": "The Deflation Doom Loop Trapping China&#x2019;s Economy",
+      "content_html": "Exports drive growth while race-to-the-bottom competition from overproduction hits prices, profits, wages and sales.",
+      "content_text": "Exports drive growth while race-to-the-bottom competition from overproduction hits prices, profits, wages and sales.",
+      "date_published": "2026-01-28T02:02:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003287977",
       "url": "https://www.wsj.com/world/middle-east/key-gulf-allies-say-they-wont-aid-u-s-in-an-iran-strike-limiting-trumps-options-47e1ce3d",
       "title": "Key Gulf Allies Say They Won&#x2019;t Aid U.S. in an Iran Strike, Limiting Trump&#x2019;s Options",

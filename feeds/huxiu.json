@@ -6,6 +6,14 @@
   "description": "虎嗅网RSS订阅",
   "items": [
     {
+      "id": "http://www.huxiu.com/article/4830047.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4830047.html?f=wangzhan",
+      "title": "70万亿存款到期，A股充满想象？",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/27/155925953551.jpg\"/>\n<p data-check-id=\"294510\">70万亿定期存款即将在2026年到期，大家都在猜这笔天量资金会不会奔向A股。银行利息低得像慈善，股市却像在发红包，钱早该心痒难耐了吧？但现实却是，大部分人选择继续躺平。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "70万亿定期存款即将在2026年到期，大家都在猜这笔天量资金会不会奔向A股。银行利息低得像慈善，股市却像在发红包，钱早该心痒难耐了吧？但现实却是，大部分人选择继续躺平。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-28T00:30:00.000Z"
+    },
+    {
       "id": "http://www.huxiu.com/article/4829479.html?f=wangzhan",
       "url": "http://www.huxiu.com/article/4829479.html?f=wangzhan",
       "title": "开服即开庭，国产游戏出海史上最严重事故？",

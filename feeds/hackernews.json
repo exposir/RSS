@@ -54,6 +54,14 @@
       "date_published": "2026-01-27T13:44:24.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46779645",
+      "url": "https://alexxcons.github.io/blogpost_15.html",
+      "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
+      "content_html": "<p>Article URL: <a href=\"https://alexxcons.github.io/blogpost_15.html\">https://alexxcons.github.io/blogpost_15.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779645\">https://news.ycombinator.com/item?id=46779645</a></p>\n<p>Points: 268</p>\n<p># Comments: 209</p>",
+      "content_text": "Article URL: https://alexxcons.github.io/blogpost_15.html\nComments URL: https://news.ycombinator.com/item?id=46779645\nPoints: 268\n# Comments: 209",
+      "date_published": "2026-01-27T13:25:53.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46778341",
       "url": "https://tonystr.net/blog/git_immitation",
       "title": "I made my own Git",
@@ -92,6 +100,14 @@
       "content_html": "<p><a href=\"https://xcancel.com/karpathy/status/2015883857489522876\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2015883857489522876</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46771564\">https://news.ycombinator.com/item?id=46771564</a></p>\n<p>Points: 275</p>\n<p># Comments: 300</p>",
       "content_text": "https://xcancel.com/karpathy/status/2015883857489522876\n\nComments URL: https://news.ycombinator.com/item?id=46771564\nPoints: 275\n# Comments: 300",
       "date_published": "2026-01-26T21:09:19.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46770274",
+      "url": "https://visualrambling.space/dithering-part-2/",
+      "title": "Dithering – Part 2: The Ordered Dithering",
+      "content_html": "<p>Article URL: <a href=\"https://visualrambling.space/dithering-part-2/\">https://visualrambling.space/dithering-part-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46770274\">https://news.ycombinator.com/item?id=46770274</a></p>\n<p>Points: 248</p>\n<p># Comments: 34</p>",
+      "content_text": "Article URL: https://visualrambling.space/dithering-part-2/\nComments URL: https://news.ycombinator.com/item?id=46770274\nPoints: 248\n# Comments: 34",
+      "date_published": "2026-01-26T19:23:54.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46770221",
@@ -180,6 +196,14 @@
       "content_html": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/\">https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46765819\">https://news.ycombinator.com/item?id=46765819</a></p>\n<p>Points: 552</p>\n<p># Comments: 664</p>",
       "content_text": "Article URL: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/\nComments URL: https://news.ycombinator.com/item?id=46765819\nPoints: 552\n# Comments: 664",
       "date_published": "2026-01-26T14:10:25.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46765694",
+      "url": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+      "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
+      "content_html": "<p>Article URL: <a href=\"https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html\">https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46765694\">https://news.ycombinator.com/item?id=46765694</a></p>\n<p>Points: 241</p>\n<p># Comments: 160</p>",
+      "content_text": "Article URL: https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html\nComments URL: https://news.ycombinator.com/item?id=46765694\nPoints: 241\n# Comments: 160",
+      "date_published": "2026-01-26T13:58:27.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46765460",

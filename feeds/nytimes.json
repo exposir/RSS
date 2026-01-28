@@ -6,6 +6,22 @@
   "description": "纽约时报中文网 国际纵览",
   "items": [
     {
+      "id": "https://cn.nytimes.com/usa/20260128/census-2025-estimates-population-immigration/",
+      "url": "https://cn.nytimes.com/usa/20260128/census-2025-estimates-population-immigration/?utm_source=RSS",
+      "title": "移民人数骤减，美国人口增长急剧放缓",
+      "content_html": "官方统计数据显示，美国去年人口增长率跌至历史最低水平之一。在特朗普强硬的反移民政策下，移民数较前一年暴跌超50%，而出生率也延续了近20年的下滑趋势。<p><img src='https://static01.nyt.com/images/2026/01/27/multimedia/27nat-census-fjcl/27nat-census-fjcl-videoLarge.jpg' alt='根据最新人口普查估计，佛罗里达州去年人口增长明显放缓。 Scott McIntyre for The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Scott McIntyre for The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>根据最新人口普查估计，佛罗里达州去年人口增长明显放缓。</p>",
+      "content_text": "官方统计数据显示，美国去年人口增长率跌至历史最低水平之一。在特朗普强硬的反移民政策下，移民数较前一年暴跌超50%，而出生率也延续了近20年的下滑趋势。                    Scott McIntyre for The New York Times                    根据最新人口普查估计，佛罗里达州去年人口增长明显放缓。",
+      "date_published": "2026-01-28T02:52:32.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/usa/20260128/alex-pretti-shooting-minneapolis-reaction/",
+      "url": "https://cn.nytimes.com/usa/20260128/alex-pretti-shooting-minneapolis-reaction/?utm_source=RSS",
+      "title": "“看着美国走向分崩离析”：明尼阿波利斯事件震动全美",
+      "content_html": "三周内，两名美国公民遭联邦探员枪杀。明尼阿波利斯暴力动荡的画面让全美各地民众震惊。批评者痛斥执法行动冷酷无情，甚至违背美国精神，但也有人表达了不同看法。<p><img src='https://static01.nyt.com/images/2026/01/26/multimedia/26nat-minn-mood-top-qfmj/26nat-minn-mood-top-qfmj-articleLarge.jpg' alt='在明尼阿波利斯市，联邦特工枪杀亚历克斯·普雷蒂的现场变成了一处悼念地点。 David Guttenfelder/The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>David Guttenfelder/The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>在明尼阿波利斯市，联邦特工枪杀亚历克斯·普雷蒂的现场变成了一处悼念地点。</p>",
+      "content_text": "三周内，两名美国公民遭联邦探员枪杀。明尼阿波利斯暴力动荡的画面让全美各地民众震惊。批评者痛斥执法行动冷酷无情，甚至违背美国精神，但也有人表达了不同看法。                    David Guttenfelder/The New York Times                    在明尼阿波利斯市，联邦特工枪杀亚历克斯·普雷蒂的现场变成了一处悼念地点。",
+      "date_published": "2026-01-28T02:21:55.000Z"
+    },
+    {
       "id": "https://cn.nytimes.com/opinion/20260127/taiwan-china-us-trump-xi/",
       "url": "https://cn.nytimes.com/opinion/20260127/taiwan-china-us-trump-xi/?utm_source=RSS",
       "title": "美国人最应该关心的岛屿是台湾",
