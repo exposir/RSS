@@ -416,7 +416,7 @@ function formatDetailDate(dateStr: string) {
 }
 
 .detail-title {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 700;
   line-height: 1.5;
   margin: 0 0 0.75rem 0;
@@ -498,12 +498,12 @@ function formatDetailDate(dateStr: string) {
 }
 
 .read-original-btn {
-  padding: 0.6rem 1.25rem;
+  padding: 0.5rem 1rem;
   background: var(--vp-c-brand);
   color: #fff;
   border: none;
   border-radius: 6px;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   cursor: pointer;
   text-decoration: none;
   display: inline-flex;
