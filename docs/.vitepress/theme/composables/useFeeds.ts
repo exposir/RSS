@@ -33,7 +33,9 @@ export function useFeeds() {
   const feedIndex = ref<FeedIndex[]>([])
   const feeds = ref<Map<string, Feed>>(new Map())
   const loading = ref(true)
+  const loadingIndex = ref(true)
   const error = ref<string | null>(null)
+  const loadedCount = ref(0)
 
   // Load feed index
   async function loadFeedIndex() {
@@ -43,9 +45,11 @@ export function useFeeds() {
         throw new Error(`Failed to load feed index: ${response.statusText}`)
       }
       feedIndex.value = await response.json()
+      loadingIndex.value = false
     } catch (err) {
       error.value = err instanceof Error ? err.message : 'Failed to load feed index'
       console.error('Error loading feed index:', err)
+      loadingIndex.value = false
     }
   }
 
@@ -64,32 +68,41 @@ export function useFeeds() {
     }
   }
 
-  // Load all feeds
+  // Load all feeds progressively
   async function loadAllFeeds() {
     loading.value = true
     error.value = null
 
     try {
+      // 先加载索引
       await loadFeedIndex()
 
-      // Load feeds in batches to avoid overwhelming the browser
-      const BATCH_SIZE = 10
-      for (let i = 0; i < feedIndex.value.length; i += BATCH_SIZE) {
-        const batch = feedIndex.value.slice(i, i + BATCH_SIZE)
-        const results = await Promise.allSettled(
+      // 立即显示页面（loading = false）
+      loading.value = false
+
+      // 逐个加载 feeds，每加载完一个就立即显示
+      const CONCURRENT = 5 // 同时加载 5 个
+      for (let i = 0; i < feedIndex.value.length; i += CONCURRENT) {
+        const batch = feedIndex.value.slice(i, i + CONCURRENT)
+
+        // 并发加载这一批
+        await Promise.allSettled(
           batch.map(async (feedInfo) => {
             const feed = await loadFeed(feedInfo)
             if (feed) {
+              // 立即更新 feeds Map，触发响应式更新
               feeds.value.set(feedInfo.id, feed)
+              loadedCount.value++
+
+              // 强制触发响应式更新
+              feeds.value = new Map(feeds.value)
             }
-            return feed
           })
         )
       }
     } catch (err) {
       error.value = err instanceof Error ? err.message : 'Failed to load feeds'
       console.error('Error loading feeds:', err)
-    } finally {
       loading.value = false
     }
   }
@@ -141,6 +154,8 @@ export function useFeeds() {
     feedIndex,
     feeds,
     loading,
+    loadingIndex,
+    loadedCount,
     error,
     loadAllFeeds,
     getAllArticles,

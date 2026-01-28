@@ -1,7 +1,7 @@
 <template>
   <div class="reader-wrapper">
-    <div v-if="loading" class="loading-spinner">
-      <p>加载中...</p>
+    <div v-if="loadingIndex" class="loading-spinner">
+      <p>加载订阅源列表...</p>
     </div>
 
     <div v-else-if="error" class="error-state">
@@ -22,11 +22,29 @@
             {{ selectedFeedName }}
           </h1>
           <p class="content-count">
-            共 {{ filteredArticles.length }} 篇文章
+            <span v-if="filteredArticles.length > 0">
+              共 {{ filteredArticles.length }} 篇文章
+            </span>
+            <span v-if="isLoading" class="loading-indicator">
+              · 正在加载 ({{ loadedCount }}/{{ feedIndex.length }})
+            </span>
           </p>
         </div>
 
-        <ArticleList :articles="filteredArticles" />
+        <div v-if="filteredArticles.length === 0 && !isLoading" class="empty-hint">
+          <p>暂无文章</p>
+        </div>
+
+        <ArticleList v-else :articles="filteredArticles" />
+
+        <div v-if="isLoading" class="loading-more">
+          <div class="loading-dots">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <p>加载更多订阅源中...</p>
+        </div>
       </main>
     </div>
   </div>
@@ -42,6 +60,8 @@ const {
   feedIndex,
   feeds,
   loading,
+  loadingIndex,
+  loadedCount,
   error,
   loadAllFeeds,
   getAllArticles,
@@ -63,6 +83,10 @@ const filteredArticles = computed(() => {
     return getAllArticles()
   }
   return getArticlesByFeed(selectedFeed.value)
+})
+
+const isLoading = computed(() => {
+  return loadedCount.value < feedIndex.value.length
 })
 </script>
 
@@ -121,5 +145,65 @@ const filteredArticles = computed(() => {
   font-size: 0.95rem;
   color: var(--vp-c-text-2);
   margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.loading-indicator {
+  color: var(--vp-c-brand);
+  font-size: 0.9rem;
+}
+
+.empty-hint {
+  text-align: center;
+  padding: 3rem;
+  color: var(--vp-c-text-3);
+}
+
+.loading-more {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  gap: 1rem;
+}
+
+.loading-more p {
+  color: var(--vp-c-text-2);
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.loading-dots {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.loading-dots span {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--vp-c-brand);
+  animation: bounce 1.4s infinite ease-in-out both;
+}
+
+.loading-dots span:nth-child(1) {
+  animation-delay: -0.32s;
+}
+
+.loading-dots span:nth-child(2) {
+  animation-delay: -0.16s;
+}
+
+@keyframes bounce {
+  0%, 80%, 100% {
+    transform: scale(0);
+    opacity: 0.5;
+  }
+  40% {
+    transform: scale(1);
+    opacity: 1;
+  }
 }
 </style>
