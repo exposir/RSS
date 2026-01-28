@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188982",
+      "url": "https://www.v2ex.com/t/1188982#reply0",
+      "title": "[Solana] 求教, 手上有一点 eth, 想换一些到 sol, 改怎么操作损失最小",
+      "content_html": "<p>另外, 看到有老哥分享 sol 账户不够 rent- exemption 被清空了, 是不是最少得放 0.001sol 在钱包里?</p>",
+      "content_text": "另外, 看到有老哥分享 sol 账户不够 rent- exemption 被清空了, 是不是最少得放 0.001sol 在钱包里?",
+      "date_published": "2026-01-28T04:22:58.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188981",
+      "url": "https://www.v2ex.com/t/1188981#reply0",
+      "title": "[VPS] DigVPS 测评 - Evoxt（益沃斯）更新马来西亚吉隆坡-优化网络产品详评数据，性能彪悍，网络友好， 95 折出售中。",
+      "content_html": "<p>规格：</p>\n<p><img alt=\"1-malaysia-optimized-route.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/28/i1AmEUGkjrfsoBS.png\"/></p>\n<p>摘要：</p>\n<p><img alt=\"2-malaysia-optimized-route.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/28/dU9yjGaPzbwNmp6.png\"/></p>\n<p>硬件：</p>\n<p><img alt=\"3-malaysia-optimized-route.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/28/dZRmLsoxcwQt2vW.png\"/></p>\n<p>速率：</p>\n<p><img alt=\"4-malaysia-optimized-route.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/28/yIt4VuxhnS7Ybpi.png\"/></p>\n<p>IPv4 质量：</p>\n<p><img alt=\"5-malaysia-optimized-route.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/28/1pQPNGYfWau3Xi5.png\"/></p>\n<p>IPv6 质量：</p>\n<p><img alt=\"6-malaysia-optimized-route.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/28/qHZP3vhQfEbO9Il.png\"/></p>\n<p>ICMP 延迟：</p>\n<p><img alt=\"7-malaysia-optimized-route.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/28/EHrK3wmhdF7quoA.png\"/></p>\n<p>TCP 延迟：</p>\n<p><img alt=\"8-malaysia-optimized-route.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/28/el4nH6ixdC83GJ1.png\"/></p>\n<p>BGP-IPv4:</p>\n<p><img alt=\"9-malaysia-optimized-route.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/28/PsVafMnOjS1zu25.png\"/></p>\n<p>BGP-IPv6:</p>\n<p><img alt=\"10-malaysia-optimized-route.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/28/2Nb6GdAg7mDc38h.png\"/></p>\n<blockquote>\n<p>如对该产品感兴趣，想要持续关注其<strong>实时与历史数据表现</strong>，欢迎访问我们的<a href=\"https://digvps.com/review/evoxt#malaysia-optimized-route\" rel=\"nofollow\">站点</a>进行长期跟踪。</p>\n</blockquote>",
+      "content_text": "规格：\n\n摘要：\n\n硬件：\n\n速率：\n\nIPv4 质量：\n\nIPv6 质量：\n\nICMP 延迟：\n\nTCP 延迟：\n\nBGP-IPv4:\n\nBGP-IPv6:\n\n\n如对该产品感兴趣，想要持续关注其实时与历史数据表现，欢迎访问我们的站点进行长期跟踪。",
+      "date_published": "2026-01-28T04:21:23.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1188978",
       "url": "https://www.v2ex.com/t/1188978#reply0",
       "title": "[硬件] 英特尔是要放弃 PC 市场，将重心转移到移动端吗",
