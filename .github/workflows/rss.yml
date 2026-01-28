@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -27,8 +29,23 @@ jobs:
       - name: Fetch All Feeds
         run: node scripts/fetch-rss.js
 
+      - name: Build VitePress
+        run: npm run docs:build
+
       - name: Auto-Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🤖 自动更新 RSS 存档"
           file_pattern: "feeds/*"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

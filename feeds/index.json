@@ -1,0 +1,37 @@
+[
+  {
+    "id": "people-politics",
+    "name": "人民网-政治",
+    "output": "feeds/people-politics.json"
+  },
+  {
+    "id": "diqiuzhishiju",
+    "name": "地球知识局",
+    "output": "feeds/diqiuzhishiju.json"
+  },
+  {
+    "id": "qqtech",
+    "name": "腾讯科技",
+    "output": "feeds/qqtech.json"
+  },
+  {
+    "id": "ai-era",
+    "name": "新智元",
+    "output": "feeds/ai-era.json"
+  },
+  {
+    "id": "36kr",
+    "name": "36氪",
+    "output": "feeds/36kr.json"
+  },
+  {
+    "id": "bbc",
+    "name": "BBC中文",
+    "output": "feeds/bbc.json"
+  },
+  {
+    "id": "ifanr",
+    "name": "爱范儿",
+    "output": "feeds/ifanr.json"
+  }
+]

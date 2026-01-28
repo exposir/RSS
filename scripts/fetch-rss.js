@@ -273,6 +273,15 @@ async function main() {
   const failed = allResults.filter((r) => !r.success).length;
 
   console.log(`\n全部完成！成功 ${succeeded} 个，失败 ${failed} 个`);
+
+  // 生成 feeds/index.json 供 VitePress 阅读器使用
+  const feedsIndex = feeds.map(f => ({
+    id: f.output.replace('feeds/', '').replace('.json', ''),
+    name: f.name,
+    output: f.output
+  }));
+  fs.writeFileSync('feeds/index.json', JSON.stringify(feedsIndex, null, 2));
+  console.log(`✅ 已生成 feeds/index.json，包含 ${feedsIndex.length} 个订阅源`);
 }
 
 main().catch((err) => {
