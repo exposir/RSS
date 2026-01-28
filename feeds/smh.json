@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "81440064-11aa-4424-9d79-9ea78050f7f3",
+      "url": "https://www.smh.com.au/business/companies/true-north-beefs-up-queensland-copper-gold-stash-20260128-p5nxqi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "True North beefs up Queensland copper-gold stash",
+      "content_html": "True North Copper has beefed up its Wallace North copper-gold resource after incorporating data from two reverse-circulation drillholes completed last year.",
+      "content_text": "True North Copper has beefed up its Wallace North copper-gold resource after incorporating data from two reverse-circulation drillholes completed last year.",
+      "date_published": "2026-01-28T04:40:16.000Z"
+    },
+    {
+      "id": "159438ce-1f88-40b0-b3cf-6047f39c73ac",
+      "url": "https://www.smh.com.au/business/workplace/right-or-privilege-the-wfh-wars-are-heating-up-20260128-p5nxkm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Right or privilege? The WFH wars are heating up",
+      "content_html": "The growing number of battles between employer and employee reveal some insights on the overarching question on whether working from home is now a right or a privilege.",
+      "content_text": "The growing number of battles between employer and employee reveal some insights on the overarching question on whether working from home is now a right or a privilege.",
+      "date_published": "2026-01-28T04:35:00.000Z"
+    },
+    {
       "id": "a8d9c879-12f9-4502-9539-d616aff884db",
       "url": "https://www.smh.com.au/national/victoria/daylesford-driver-who-killed-five-ordered-to-appear-at-inquest-20260128-p5nxju.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Daylesford driver who killed five ordered to appear at inquest",

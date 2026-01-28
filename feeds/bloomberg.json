@@ -1,0 +1,337 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Bloomberg - Business",
+  "home_page_url": "https://www.bloomberg.com/feeds/bbiz/sitemap_news.xml",
+  "feed_url": "https://exposir.github.io/RSS/feeds/bloomberg.json",
+  "description": "Bloomberg - Business - Powered by RSSHub",
+  "items": [
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/top-thai-builder-secures-debt-relief-amid-ongoing-crash-probe",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/top-thai-builder-secures-debt-relief-amid-ongoing-crash-probe",
+      "title": "Top Thai Builder Secures Debt Relief as Crash Probe Proceeds",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T04:12:41.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/minnesota-rep-omar-attacked-at-town-hall-trump-in-iowa-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/minnesota-rep-omar-attacked-at-town-hall-trump-in-iowa-more",
+      "title": "Minnesota Rep. Omar Attacked at Town Hall, Trump in Iowa, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T03:25:43.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/premature-amazon-layoff-email-touches-off-social-media-panic",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/premature-amazon-layoff-email-touches-off-social-media-panic",
+      "title": "Amazon Sends Premature Layoff Email to Workers Fearing Big Cuts",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T03:13:16.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/hong-kong-home-prices-rose-for-first-time-in-four-years-in-2025",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/hong-kong-home-prices-rose-for-first-time-in-four-years-in-2025",
+      "title": "Hong Kong Home Prices Rose for First Time in Four Years in 2025",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T02:54:09.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-28/india-stock-traders-eagerly-await-budget-banks-grapple-with-high-funding-costs",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-28/india-stock-traders-eagerly-await-budget-banks-grapple-with-high-funding-costs",
+      "title": "Investors Are Counting on India’s Budget To Deliver a Magic Bullet",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T02:45:49.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/republican-sens-call-for-noem-to-step-down-trump-in-iowa-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/republican-sens-call-for-noem-to-step-down-trump-in-iowa-more",
+      "title": "Republican Sens Call for Noem to Step Down, Trump in Iowa, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T02:31:41.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/vanke-buys-time-in-crisis-with-417-million-of-bond-payments",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/vanke-buys-time-in-crisis-with-417-million-of-bond-payments",
+      "title": "Vanke Buys Time in Crisis With $417 Million of Bond Payments",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T02:26:11.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-28/china-snacks-retailer-busy-ming-jumps-88-in-hong-kong-debut",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/china-snacks-retailer-busy-ming-jumps-88-in-hong-kong-debut",
+      "title": "China Snacks Retailer Busy Ming Jumps 88% in Hong Kong Debut",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T02:25:46.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/bloomberg-daybreak-asia-dollar-weakens-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/bloomberg-daybreak-asia-dollar-weakens-podcast",
+      "title": "Bloomberg Daybreak Asia: Dollar Weakens (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T02:02:39.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/two-gop-senators-call-for-noem-to-step-down-trump-in-iowa-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/two-gop-senators-call-for-noem-to-step-down-trump-in-iowa-more",
+      "title": "Two GOP Senators Call for Noem to Step Down, Trump in Iowa, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T01:36:12.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/trump-seeks-minnesota-de-escalation-dollar-slumps-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/trump-seeks-minnesota-de-escalation-dollar-slumps-more",
+      "title": "Trump Seeks Minnesota De-Escalation, Dollar Slumps, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T00:47:31.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-texas-instruments-gm-insurers-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-texas-instruments-gm-insurers-podcast",
+      "title": "Stock Movers: Texas Instruments, GM, Insurers (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T00:22:40.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/trump-in-iowa-seeks-to-de-escalate-minnesota-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/trump-in-iowa-seeks-to-de-escalate-minnesota-more",
+      "title": "Trump in Iowa, Seeks to 'De-escalate' Minnesota, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T23:56:37.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-27/deere-to-move-excavator-production-from-japan-to-north-carolina",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-27/deere-to-move-excavator-production-from-japan-to-north-carolina",
+      "title": "Deere to Move Excavator Production From Japan to North Carolina",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T23:15:37.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-27/nomura-s-revival-faces-challenge-from-ambitious-japan-megabanks",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-27/nomura-s-revival-faces-challenge-from-ambitious-japan-megabanks",
+      "title": "Nomura’s Revival Faces Challenge From Ambitious Japan Megabanks",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T23:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/trump-backs-noem-not-concerned-with-dollar-decline-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/trump-backs-noem-not-concerned-with-dollar-decline-more",
+      "title": "Trump Backs Noem, Not Concerned with Dollar Decline, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T22:58:18.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-27/bank-of-canada-rate-decision-what-tiff-macklem-must-consider",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-27/bank-of-canada-rate-decision-what-tiff-macklem-must-consider",
+      "title": "Bank of Canada’s Macklem May Face Louder Calls for Rate Relief",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T22:25:41.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-businessweek-daily-stocks-up-dollar-weak-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-businessweek-daily-stocks-up-dollar-weak-podcast",
+      "title": "Bloomberg Businessweek Daily: Stocks Up, Dollar Weak (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T22:24:44.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-27/us-consumer-outlook-at-its-darkest-in-12-years-evening-briefing-americas",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-27/us-consumer-outlook-at-its-darkest-in-12-years-evening-briefing-americas",
+      "title": "US Consumer Outlook at Its Darkest in 12 Years",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T22:16:53.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-businessweek-daily-shipping-signals-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-businessweek-daily-shipping-signals-podcast",
+      "title": "Bloomberg Businessweek Daily: Shipping Signals (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T22:10:49.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/stock-movers-texas-instruments-insurers-jetblue-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/stock-movers-texas-instruments-insurers-jetblue-podcast",
+      "title": "Stock Movers: Texas Instruments, Insurers, JetBlue (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T22:09:49.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-27/standardaero-backers-said-to-seek-1-6-billion-in-share-sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-27/standardaero-backers-said-to-seek-1-6-billion-in-share-sale",
+      "title": "StandardAero Backers Said to Seek $1.6 Billion in Share Sale",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T22:05:41.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/trump-remarks-push-dollar-down-ice-chief-ordered-to-court-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/trump-remarks-push-dollar-down-ice-chief-ordered-to-court-more",
+      "title": "Trump Remarks Push Dollar Down, ICE Chief Ordered to Court, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T22:01:08.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-27/bhp-now-largest-stock-rba-eyes-cpi-tennis-temperatures-australia-briefing",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-27/bhp-now-largest-stock-rba-eyes-cpi-tennis-temperatures-australia-briefing",
+      "title": "BHP Overtakes CBA as Australia’s Largest Stock",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T21:35:44.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-27/us-dollar-tanks-after-trump-says-he-isn-t-worried-about-decline",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-27/us-dollar-tanks-after-trump-says-he-isn-t-worried-about-decline",
+      "title": "US Dollar Tanks After Trump Says He Isn’t Worried About Decline",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T21:32:23.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/stocks-close-mixed-trump-comment-sends-dollar-tumbling-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/stocks-close-mixed-trump-comment-sends-dollar-tumbling-more",
+      "title": "Stocks Close Mixed, Trump Comment Sends Dollar Tumbling, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T21:08:27.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/stock-movers-insurers-american-airlines-corning-podcast-mkx36o8o",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/stock-movers-insurers-american-airlines-corning-podcast-mkx36o8o",
+      "title": "Stock Movers: Insurers, American Airlines, Corning (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T21:06:30.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/trump-backs-noem-texas-gov-halts-state-h-1b-visa-hires-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/trump-backs-noem-texas-gov-halts-state-h-1b-visa-hires-more",
+      "title": "Trump Backs Noem, Texas Gov Halts State H-1B Visa Hires, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T20:00:51.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/big-take-asia-japan-s-bond-market-crash-explained-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/big-take-asia-japan-s-bond-market-crash-explained-podcast",
+      "title": "Big Take Asia: Japan’s Bond Market Crash, Explained (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T19:50:09.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-tech-tech-stocks-lead-charge-toward-record-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-tech-tech-stocks-lead-charge-toward-record-podcast",
+      "title": "Bloomberg Tech: Tech Stocks Lead Charge Toward Record (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T19:26:13.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/opinion/newsletters/2026-01-27/the-killer-non-acquisition",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2026-01-27/the-killer-non-acquisition",
+      "title": "The Killer Non-Acquisition",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T19:17:24.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/graphics/trump-tariffs-tracker/",
+      "url": "https://www.bloomberg.com/graphics/trump-tariffs-tracker/",
+      "title": "Tracking Every Trump Tariff and Its Economic Effect",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T19:16:54.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/dems-aim-to-impeach-noem-amazon-closing-physical-stores-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/dems-aim-to-impeach-noem-amazon-closing-physical-stores-more",
+      "title": "Dems Aim to Impeach Noem, Amazon Closing Physical Stores, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T19:04:15.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-intelligence-gm-sees-profit-jump-in-2026-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-intelligence-gm-sees-profit-jump-in-2026-podcast",
+      "title": "Bloomberg Intelligence: GM Sees Profit Jump in 2026 (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T18:21:47.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/trump-noem-not-stepping-down-amazon-closing-stores-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/trump-noem-not-stepping-down-amazon-closing-stores-more",
+      "title": "Trump: Noem Not Stepping Down, Amazon Closing Stores, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T18:17:23.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-27/trump-s-tariffs-threats-lose-their-bite",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-27/trump-s-tariffs-threats-lose-their-bite",
+      "title": "Trump’s Tariffs Threats Lose Their Bite",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T18:07:26.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-law-trump-sues-jpmorgan-judges-speak-out-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-law-trump-sues-jpmorgan-judges-speak-out-podcast",
+      "title": "Bloomberg Law: Trump Sues JPMorgan & Judges Speak Out (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T17:33:15.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-27/helen-chandler-wilde-has-starmer-found-a-uk-china-solution",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-27/helen-chandler-wilde-has-starmer-found-a-uk-china-solution",
+      "title": "Helen Chandler-Wilde: Has Starmer Found a UK-China Solution?",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T17:30:05.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-27/eu-s-trade-deal-with-india-rebuffs-trump",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-27/eu-s-trade-deal-with-india-rebuffs-trump",
+      "title": "EU’s Trade Deal With India Rebuffs Trump",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T17:18:52.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/ice-shakeup-in-minneapolis-amazon-closing-physical-stores-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/ice-shakeup-in-minneapolis-amazon-closing-physical-stores-more",
+      "title": "ICE Shakeup in Minneapolis, Amazon Closing Physical Stores, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T17:17:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-surveillance-tv-january-27th-2026-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-27/bloomberg-surveillance-tv-january-27th-2026-podcast",
+      "title": "Bloomberg Surveillance TV: January 27th, 2026 (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-27T16:45:11.000Z"
+    }
+  ]
+}

@@ -17,6 +17,14 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188987",
+      "url": "https://www.v2ex.com/t/1188987#reply1",
+      "title": "[程序员] 我把 clawdbot 接入了飞书",
+      "content_html": "<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/images/DeepDiagram/2026-01-28_123456_529.png\"/></p>",
+      "content_text": "",
+      "date_published": "2026-01-28T04:36:13.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1188984",
       "url": "https://www.v2ex.com/t/1188984#reply0",
       "title": "[问与答] 有没有这种基于 Cli 的 Agent 管理工具",

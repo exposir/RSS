@@ -6,6 +6,46 @@
   "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
   "items": [
     {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%E5%B4%A9%E4%BA%86",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%B1%86%E5%8C%85%E5%B4%A9%E4%BA%86",
+      "title": "豆包崩了",
+      "content_html": "豆包崩了",
+      "content_text": "豆包崩了",
+      "date_published": "2026-01-28T04:43:11.706Z"
+    },
+    {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B0%B4%E8%B4%9D%E7%A7%9F%E9%87%91%E9%A5%B0%E6%AF%8F%E5%85%8B30%E5%88%B050%E5%85%83",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B0%B4%E8%B4%9D%E7%A7%9F%E9%87%91%E9%A5%B0%E6%AF%8F%E5%85%8B30%E5%88%B050%E5%85%83",
+      "title": "水贝租金饰每克30到50元",
+      "content_html": "水贝租金饰每克30到50元",
+      "content_text": "水贝租金饰每克30到50元",
+      "date_published": "2026-01-28T04:43:11.706Z"
+    },
+    {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%A9%E5%8F%A4%E6%8B%89vs%E9%98%BF%E5%B0%BC%E8%A5%BF%E8%8E%AB%E5%A8%83",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%A9%E5%8F%A4%E6%8B%89vs%E9%98%BF%E5%B0%BC%E8%A5%BF%E8%8E%AB%E5%A8%83",
+      "title": "佩古拉vs阿尼西莫娃",
+      "content_html": "佩古拉vs阿尼西莫娃",
+      "content_text": "佩古拉vs阿尼西莫娃",
+      "date_published": "2026-01-28T04:43:11.706Z"
+    },
+    {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E5%8D%96%E9%87%91%E6%9D%A1%E5%80%9F%E6%9C%8B%E5%8F%8B14%E4%B8%87%E8%A6%81%E6%B1%82%E8%BF%9830%E4%B8%87",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%94%B7%E5%AD%90%E5%8D%96%E9%87%91%E6%9D%A1%E5%80%9F%E6%9C%8B%E5%8F%8B14%E4%B8%87%E8%A6%81%E6%B1%82%E8%BF%9830%E4%B8%87",
+      "title": "男子卖金条借朋友14万要求还30万",
+      "content_html": "男子卖金条借朋友14万要求还30万",
+      "content_text": "男子卖金条借朋友14万要求还30万",
+      "date_published": "2026-01-28T04:43:11.706Z"
+    },
+    {
+      "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E8%89%BA%E4%BA%BA%E7%A9%BF%E9%9E%8B%E6%97%B6%E6%88%91%E5%93%AD%E4%BA%86",
+      "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E8%89%BA%E4%BA%BA%E7%A9%BF%E9%9E%8B%E6%97%B6%E6%88%91%E5%93%AD%E4%BA%86",
+      "title": "第一次给艺人穿鞋时我哭了",
+      "content_html": "第一次给艺人穿鞋时我哭了",
+      "content_text": "第一次给艺人穿鞋时我哭了",
+      "date_published": "2026-01-28T04:43:11.706Z"
+    },
+    {
       "id": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E4%BE%A6%E6%8E%A2",
       "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E4%BE%A6%E6%8E%A2",
       "title": "大侦探",
