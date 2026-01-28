@@ -63,7 +63,14 @@
         </div>
         <div v-else class="article-detail">
           <div class="detail-header">
-            <h1 class="detail-title">{{ selectedArticle.title }}</h1>
+            <a
+              :href="selectedArticle.url"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="detail-title"
+            >
+              {{ selectedArticle.title }}
+            </a>
             <div class="detail-meta">
               <span class="meta-source">{{ selectedArticle.source }}</span>
               <span class="meta-divider">·</span>
@@ -71,16 +78,6 @@
             </div>
           </div>
           <div class="detail-content" v-html="selectedArticle.content_html"></div>
-          <div class="detail-footer">
-            <a
-              :href="selectedArticle.url"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="read-original-btn"
-            >
-              阅读原文 →
-            </a>
-          </div>
         </div>
       </div>
     </div>
@@ -421,6 +418,13 @@ function formatDetailDate(dateStr: string) {
   line-height: 1.5;
   margin: 0 0 0.75rem 0;
   color: var(--vp-c-text-1);
+  text-decoration: none;
+  display: block;
+  transition: color 0.2s;
+}
+
+.detail-title:hover {
+  color: var(--vp-c-brand);
 }
 
 .detail-meta {
@@ -488,34 +492,6 @@ function formatDetailDate(dateStr: string) {
   padding-left: 1rem;
   margin: 1.5rem 0;
   color: var(--vp-c-text-2);
-}
-
-.detail-footer {
-  padding: 1rem 2rem;
-  border-top: 1px solid var(--vp-c-divider);
-  display: flex;
-  justify-content: flex-end;
-}
-
-.read-original-btn {
-  padding: 0.5rem 1rem;
-  background: var(--vp-c-brand);
-  color: #fff;
-  border: none;
-  border-radius: 6px;
-  font-size: 0.85rem;
-  cursor: pointer;
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  transition: all 0.3s;
-}
-
-.read-original-btn:hover {
-  background: var(--vp-c-brand-dark);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 /* 滚动条样式 */
