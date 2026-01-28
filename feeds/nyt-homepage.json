@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/us/stephen-miller-alex-pretti-shooting.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/stephen-miller-alex-pretti-shooting.html",
+      "title": "Stephen Miller Suggests Federal Agents May Have Diverted From ‘Protocol’ Before Minneapolis Shooting",
+      "content_html": "The comments by Mr. Miller, the influential White House deputy chief of staff, appeared to be a shift after days of blaming Alex Pretti, who was fatally shot by federal agents.",
+      "content_text": "The comments by Mr. Miller, the influential White House deputy chief of staff, appeared to be a shift after days of blaming Alex Pretti, who was fatally shot by federal agents.",
+      "date_published": "2026-01-28T14:21:45.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/business/dealbook/powell-federal-reserve-rates.html",
       "url": "https://www.nytimes.com/2026/01/28/business/dealbook/powell-federal-reserve-rates.html",
       "title": "Five Questions for Jerome Powell, the Fed Chair",

@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "SB11930060785218553820404592640330611984946",
+      "url": "https://www.wsj.com/opinion/trumps-greenland-gambit-was-a-once-in-70-years-moment-5b08255c",
+      "title": "Opinion | Trump&#x2019;s Greenland Gambit Was a Once-in-70-Years Moment",
+      "content_html": "I never thought I would read the headline &#x2018;Europe Reinforces Greenland to Deter U.S.&#x2019;",
+      "content_text": "I never thought I would read the headline &#x2018;Europe Reinforces Greenland to Deter U.S.&#x2019;",
+      "date_published": "2026-01-28T14:16:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003288945",
       "url": "https://www.wsj.com/tech/ai/china-approves-purchases-of-nvidias-h200-chip-easing-tension-with-u-s-daa1ec84",
       "title": "China Approves Purchases of Nvidia&#x2019;s H200 Chip, Easing Tension With U.S.",

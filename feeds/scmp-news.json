@@ -6,6 +6,30 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/hong-kong/transport/article/3341585/hong-kong-eyes-lowering-age-bar-health-checks-commercial-drivers-65?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3341585/hong-kong-eyes-lowering-age-bar-health-checks-commercial-drivers-65?utm_source=rss_feed",
+      "title": "Hong Kong eyes lowering age bar for health checks on commercial drivers to 65",
+      "content_html": "Hong Kong plans to lower the age threshold for mandatory medical certification for commercial vehicle drivers from 70 to 65 under legislative proposals to be submitted in the first quarter of this year, with the new rules supported by a transport advisory body.\nThe government on Wednesday briefed the Transport Advisory Committee on the proposals to tighten medical fitness requirements for commercial vehicle drivers in a bid to further safeguard road safety amid an ageing workforce in the...",
+      "content_text": "Hong Kong plans to lower the age threshold for mandatory medical certification for commercial vehicle drivers from 70 to 65 under legislative proposals to be submitted in the first quarter of this year, with the new rules supported by a transport advisory body.\nThe government on Wednesday briefed the Transport Advisory Committee on the proposals to tighten medical fitness requirements for commercial vehicle drivers in a bid to further safeguard road safety amid an ageing workforce in the...",
+      "date_published": "2026-01-28T14:14:54.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/tech-trends/article/3341570/hygons-chips-safe-amd-security-flaw-amid-chinas-tech-self-reliance-drive?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3341570/hygons-chips-safe-amd-security-flaw-amid-chinas-tech-self-reliance-drive?utm_source=rss_feed",
+      "title": "Hygon’s chips ‘safe’ from AMD security flaw amid China’s tech self-reliance drive",
+      "content_html": "Chips from Chinese semiconductor designer Hygon Information Technology were found unaffected by a recently disclosed vulnerability in products developed by its US tech licenser and former joint venture partner Advanced Micro Devices (AMD), according to analysts, which showed progress in China’s self-reliance drive.\nHygon’s central processing units (CPUs), which were developed under a licence to use AMD’s X86-based Zen chip architecture, did not have the hardware security flaw that affected a...",
+      "content_text": "Chips from Chinese semiconductor designer Hygon Information Technology were found unaffected by a recently disclosed vulnerability in products developed by its US tech licenser and former joint venture partner Advanced Micro Devices (AMD), according to analysts, which showed progress in China’s self-reliance drive.\nHygon’s central processing units (CPUs), which were developed under a licence to use AMD’s X86-based Zen chip architecture, did not have the hardware security flaw that affected a...",
+      "date_published": "2026-01-28T14:00:12.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/china/military/article/3341565/would-chinese-or-us-supply-lines-be-more-vulnerable-pacific-conflict?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/military/article/3341565/would-chinese-or-us-supply-lines-be-more-vulnerable-pacific-conflict?utm_source=rss_feed",
+      "title": "Would Chinese or US supply lines be more vulnerable in a Pacific conflict?",
+      "content_html": "The US faces critical “sustainment risks” that might lead to rapid defeat in a conflict with China, according to a Heritage Foundation report, which also found that while such a scenario could start in the Taiwan Strait, it would not be contained there.\nBased on the findings of an AI-based study called Tidalwave – after a 1943 operation of the same name – the right-wing think tank urged Washington to immediately strengthen American fuel and munitions reserves and logistical networks.\nAt the same...",
+      "content_text": "The US faces critical “sustainment risks” that might lead to rapid defeat in a conflict with China, according to a Heritage Foundation report, which also found that while such a scenario could start in the Taiwan Strait, it would not be contained there.\nBased on the findings of an AI-based study called Tidalwave – after a 1943 operation of the same name – the right-wing think tank urged Washington to immediately strengthen American fuel and munitions reserves and logistical networks.\nAt the same...",
+      "date_published": "2026-01-28T14:00:09.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/hong-kong/transport/article/3341583/transport-chief-responds-backlash-over-hong-kong-law-public-bus-seat-belts?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/hong-kong/transport/article/3341583/transport-chief-responds-backlash-over-hong-kong-law-public-bus-seat-belts?utm_source=rss_feed",
       "title": "Transport chief responds to backlash over Hong Kong law on public bus seat belts",

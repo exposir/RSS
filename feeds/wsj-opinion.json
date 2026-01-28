@@ -6,6 +6,30 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "SB10381197850595854896404592642252476060194",
+      "url": "https://www.wsj.com/opinion/how-trump-could-actually-fix-housing-market-7de39b90",
+      "title": "How Trump Could Actually Fix Housing Market",
+      "content_html": "Washington needs to unlock capital through deregulation.",
+      "content_text": "Washington needs to unlock capital through deregulation.",
+      "date_published": "2026-01-28T14:19:00.000Z"
+    },
+    {
+      "id": "SB10381197850595854896404592641023904422682",
+      "url": "https://www.wsj.com/opinion/in-money-or-health-measless-cost-is-too-high-b7d146b7",
+      "title": "In Money or Health, Measles&#x2019;s Cost Is Too High",
+      "content_html": "In any successful enterprise, preventable losses are identified and eliminated&#x2014;not accepted as &#x2018;overhead.&#x2019;",
+      "content_text": "In any successful enterprise, preventable losses are identified and eliminated&#x2014;not accepted as &#x2018;overhead.&#x2019;",
+      "date_published": "2026-01-28T14:18:00.000Z"
+    },
+    {
+      "id": "SB11930060785218553820404592640330611984946",
+      "url": "https://www.wsj.com/opinion/trumps-greenland-gambit-was-a-once-in-70-years-moment-5b08255c",
+      "title": "Trump&#x2019;s Greenland Gambit Was a Once-in-70-Years Moment",
+      "content_html": "I never thought I would read the headline &#x2018;Europe Reinforces Greenland to Deter U.S.&#x2019;",
+      "content_text": "I never thought I would read the headline &#x2018;Europe Reinforces Greenland to Deter U.S.&#x2019;",
+      "date_published": "2026-01-28T14:16:00.000Z"
+    },
+    {
       "id": "WP-WSJO-0000245849",
       "url": "https://www.wsj.com/opinion/pepperand-salt-e1af553b",
       "title": "Pepper&#x2026;and Salt",
