@@ -13,7 +13,6 @@
 | 爱范儿             | https://exposir.github.io/RSS/feeds/ifanr.json               | https://www.ifanr.com/feed                                                    | ✅        |
 | 差评X.PIN          | https://exposir.github.io/RSS/feeds/chaping.json             | https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml | ✅        |
 | 联合早报           | https://exposir.github.io/RSS/feeds/zaobao.json              | https://expo-rsshub.zeabur.app/zaobao/realtime/china                          | ✅        |
-| 财新网             | https://exposir.github.io/RSS/feeds/caixin.json              | https://plink.anyfeeder.com/weixin/caixinwang                                 | ✅        |
 | 极客公园           | https://exposir.github.io/RSS/feeds/geekpark.json            | https://wechat2rss.xlab.app/feed/1a5aec98e71c707c8ca092bc2c255b9d4bac477d.xml | ✅        |
 | 界面财经           | https://exposir.github.io/RSS/feeds/jiemian.json             | https://plink.anyfeeder.com/jiemian/finance                                   | ✅        |
 | 美团技术           | https://exposir.github.io/RSS/feeds/meituan.json             | https://tech.meituan.com/feed/                                                | ⚠️ 2025   |

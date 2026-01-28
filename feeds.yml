@@ -38,10 +38,6 @@ feeds:
     url: https://expo-rsshub.zeabur.app/zaobao/realtime/china
     output: feeds/zaobao.json
 
-  - name: 财新网
-    url: https://plink.anyfeeder.com/weixin/caixinwang
-    output: feeds/caixin.json
-
   - name: 极客公园
     url: https://wechat2rss.xlab.app/feed/1a5aec98e71c707c8ca092bc2c255b9d4bac477d.xml
     output: feeds/geekpark.json
