@@ -6,6 +6,14 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/c3ve6n56npxo/trad#1",
+      "url": "https://www.bbc.com/zhongwen/articles/c3ve6n56npxo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "紅色通緝令：吹哨人指俄羅斯濫用國際刑警組織通緝名單打擊異見人士",
+      "content_html": "國際刑警組織一名舉報人提供的數千份文件首次揭露了俄羅斯濫用該組織打擊海外異見人士的程度。",
+      "content_text": "國際刑警組織一名舉報人提供的數千份文件首次揭露了俄羅斯濫用該組織打擊海外異見人士的程度。",
+      "date_published": "2026-01-28T00:10:41.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/c3ve6n56npxo/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/c3ve6n56npxo/trad?at_medium=RSS&at_campaign=rss",
       "title": "紅色通緝令：吹哨人指俄羅斯濫用國際刑警組織通緝名單打擊異見人士",
@@ -76,6 +84,14 @@
       "content_html": "歐盟委員會將評估X（前稱Twitter，推特）有否向歐盟用戶展示「經操縱的色情露骨影像」。",
       "content_text": "歐盟委員會將評估X（前稱Twitter，推特）有否向歐盟用戶展示「經操縱的色情露骨影像」。",
       "date_published": "2026-01-27T06:08:51.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/ce8rpv6j6y6o/trad#3",
+      "url": "https://www.bbc.com/zhongwen/articles/ce8rpv6j6y6o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "特朗普將美國對韓進口關稅稅率升至25%",
+      "content_html": "美國總統特朗普指責首爾「未有履行」去年達成的貿易協議之後，宣佈上調對韓懲罰性關稅稅率。",
+      "content_text": "美國總統特朗普指責首爾「未有履行」去年達成的貿易協議之後，宣佈上調對韓懲罰性關稅稅率。",
+      "date_published": "2026-01-27T03:47:45.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/ce8rpv6j6y6o/trad#1",

@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188978",
+      "url": "https://www.v2ex.com/t/1188978#reply0",
+      "title": "[硬件] 英特尔是要放弃 PC 市场，将重心转移到移动端吗",
+      "content_html": "如题，看到因特尔新发布的芯片感觉挺强的，联想到近几年桌面 CPU 都不咋滴。不知道这个想法对不对",
+      "content_text": "如题，看到因特尔新发布的芯片感觉挺强的，联想到近几年桌面 CPU 都不咋滴。不知道这个想法对不对",
+      "date_published": "2026-01-28T04:17:15.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1188977",
+      "url": "https://www.v2ex.com/t/1188977#reply0",
+      "title": "[问与答] clawbot 有人试用了吗????",
+      "content_html": "<p>它能帮我处理需要输入验证码的网页登录吗?</p>",
+      "content_text": "它能帮我处理需要输入验证码的网页登录吗?",
+      "date_published": "2026-01-28T04:17:04.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1188975",
       "url": "https://www.v2ex.com/t/1188975#reply0",
       "title": "[分享发现] 用 glm4.7 把公司官网从 react16 迁移重构到了 vue3,体验的确可以.",
