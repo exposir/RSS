@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
+      "url": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
+      "title": "With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint",
+      "content_html": "AlphaGenome is a leap forward in the ability to study the human blueprint. But the fine workings of our DNA are still largely a mystery.",
+      "content_text": "AlphaGenome is a leap forward in the ability to study the human blueprint. But the fine workings of our DNA are still largely a mystery.",
+      "date_published": "2026-01-28T16:00:25.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/travel/florida-artemis-ii-moon-launch.html",
       "url": "https://www.nytimes.com/2026/01/28/travel/florida-artemis-ii-moon-launch.html",
       "title": "How to View the Artemis II Moon Launch",
