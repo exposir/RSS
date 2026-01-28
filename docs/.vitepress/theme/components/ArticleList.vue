@@ -5,7 +5,7 @@
     </div>
     <ArticleCard
       v-for="article in displayedArticles"
-      :key="article.id"
+      :key="`${article.feedId}-${article.id}`"
       :article="article"
       @open-detail="openDetail"
     />
@@ -25,7 +25,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed } from 'vue'
+import { ref, computed, watch } from 'vue'
 import ArticleCard from './ArticleCard.vue'
 import ArticleDetail from './ArticleDetail.vue'
 import type { Article } from '../composables/useFeeds'
@@ -38,8 +38,17 @@ const displayCount = ref(50)
 const LOAD_MORE_COUNT = 30
 const selectedArticle = ref<Article | null>(null)
 
+// 当文章列表变化时，重置显示数量和选中文章
+watch(() => props.articles, () => {
+  displayCount.value = 50
+  selectedArticle.value = null
+  console.log('ArticleList: articles changed, count:', props.articles.length)
+})
+
 const displayedArticles = computed(() => {
-  return props.articles.slice(0, displayCount.value)
+  const result = props.articles.slice(0, displayCount.value)
+  console.log('displayedArticles computed, showing:', result.length, 'first article source:', result[0]?.source)
+  return result
 })
 
 const hasMore = computed(() => {

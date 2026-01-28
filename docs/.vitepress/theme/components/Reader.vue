@@ -126,6 +126,15 @@ const filteredArticles = computed(() => {
 
   console.log('filteredArticles result count:', articles.length)
 
+  // 打印前5篇文章的来源和标题，用于调试
+  if (articles.length > 0) {
+    console.log('前5篇文章:', articles.slice(0, 5).map(a => ({
+      source: a.source,
+      feedId: a.feedId,
+      title: a.title.substring(0, 30)
+    })))
+  }
+
   // 按日期倒序排列
   return articles.sort((a, b) =>
     new Date(b.date_published).getTime() - new Date(a.date_published).getTime()
