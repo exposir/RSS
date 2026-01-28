@@ -249,3 +249,7 @@ feeds:
   - name: 雪球用户1247347556
     url: https://expo-rsshub.zeabur.app/xueqiu/user/1247347556
     output: feeds/xueqiu-1247347556.json
+
+  - name: 91porn
+    url: https://expo-rsshub.zeabur.app/91porn
+    output: feeds/91porn.json

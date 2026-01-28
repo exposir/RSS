@@ -66,6 +66,7 @@
 | Readhub            | https://exposir.github.io/RSS/feeds/readhub.json             | https://rsshub.app/readhub                                                    | ⏳ 待验证 |
 | 雪球8790885129     | https://exposir.github.io/RSS/feeds/xueqiu-8790885129.json   | https://expo-rsshub.zeabur.app/xueqiu/user/8790885129                         | ⏳ 待验证 |
 | 雪球1247347556     | https://exposir.github.io/RSS/feeds/xueqiu-1247347556.json   | https://expo-rsshub.zeabur.app/xueqiu/user/1247347556                         | ⏳ 待验证 |
+| 91porn             | https://exposir.github.io/RSS/feeds/91porn.json              | https://expo-rsshub.zeabur.app/91porn                                         | ⏳ 待验证 |
 
 ## 状态说明
 
