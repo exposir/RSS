@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "001c6a44-ab18-4362-b90c-5a552dceef74",
+      "url": "https://www.smh.com.au/culture/books/bestselling-memoirist-jennette-mccurdy-returns-to-make-us-uncomfortable-again-20260126-p5nx3j.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Bestselling memoirist Jennette McCurdy returns to make us uncomfortable again",
+      "content_html": "The former actor turned author had a global bestseller with her memoir, I’m Glad My Mom Died, and her fiction debut is just as provocative.",
+      "content_text": "The former actor turned author had a global bestseller with her memoir, I’m Glad My Mom Died, and her fiction debut is just as provocative.",
+      "date_published": "2026-01-28T05:00:00.000Z"
+    },
+    {
+      "id": "1cb2a327-8d13-487d-808c-45c8bf5864ee",
+      "url": "https://www.smh.com.au/culture/books/the-name-of-the-rose-author-s-deep-dive-into-the-craft-of-storytelling-20251126-p5niox.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The Name of The Rose author’s deep dive into the craft of storytelling",
+      "content_html": "The late Umberto Eco’s essays, originally a series of lectures, demonstrate his love of literature – complete with graphs.",
+      "content_text": "The late Umberto Eco’s essays, originally a series of lectures, demonstrate his love of literature – complete with graphs.",
+      "date_published": "2026-01-28T05:00:00.000Z"
+    },
+    {
       "id": "2955fcfa-a566-49c6-a863-843f8cb2d430",
       "url": "https://www.smh.com.au/business/companies/great-southern-unlocks-fresh-upside-at-shallow-wa-gold-play-20260128-p5nxr1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Great Southern unlocks fresh upside at shallow WA gold play",
