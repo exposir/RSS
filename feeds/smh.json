@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "60120644-7c91-4ab2-abdd-bc41a2cfa5b9",
+      "url": "https://www.smh.com.au/culture/comedy/are-podcasts-the-new-men-s-therapy-welcome-to-the-modern-manosphere-20260122-p5nw4w.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Are podcasts the new men’s therapy? Welcome to the modern manosphere",
+      "content_html": "Comedian Akaash Singh has a theory about why men are flocking to podcasts like his.",
+      "content_text": "Comedian Akaash Singh has a theory about why men are flocking to podcasts like his.",
+      "date_published": "2026-01-28T07:32:00.000Z"
+    },
+    {
+      "id": "19474262-7fec-4e10-9352-30cb6f60f862",
+      "url": "https://www.smh.com.au/sport/tennis/he-should-have-been-the-winner-today-djokovic-reaches-the-semi-finals-in-extraordinary-scenes-20260128-p5nxm7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘He should have been the winner today’: Djokovic reaches the semi-finals in extraordinary scenes",
+      "content_html": "The 10-time Australian Open champion was two sets to love down when his opponent retired hurt, stunning the crowd at Rod Laver Arena.",
+      "content_text": "The 10-time Australian Open champion was two sets to love down when his opponent retired hurt, stunning the crowd at Rod Laver Arena.",
+      "date_published": "2026-01-28T07:31:25.000Z"
+    },
+    {
+      "id": "2d716c74-2c4a-4345-8edd-c9d4f208fc9a",
+      "url": "https://www.smh.com.au/national/nsw/labor-must-use-its-mandate-to-reform-our-unfair-tax-system-20260128-p5nxkz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Labor must use its mandate to reform our unfair tax system",
+      "content_html": "It’s time that our government started implementing some of the serious changes that our country needs.",
+      "content_text": "It’s time that our government started implementing some of the serious changes that our country needs.",
+      "date_published": "2026-01-28T07:30:00.000Z"
+    },
+    {
+      "id": "337e0317-596e-4452-a16b-d7bcb53df97e",
+      "url": "https://www.smh.com.au/sport/tennis/australian-open-highlights-lorenzo-musetti-v-novak-djokovic-20260128-p5nxsh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australian Open Highlights: Lorenzo Musetti v Novak Djokovic",
+      "content_html": "Watch the match highlights between Lorenzo Musetti & Novak Djokovic in the Quarterfinals of the 2026 Australian Open.",
+      "content_text": "Watch the match highlights between Lorenzo Musetti & Novak Djokovic in the Quarterfinals of the 2026 Australian Open.",
+      "date_published": "2026-01-28T07:28:48.000Z"
+    },
+    {
+      "id": "30724364-3562-493d-b222-0d13e1a7e049",
+      "url": "https://www.smh.com.au/sport/tennis/djokovic-i-was-on-my-way-home-20260128-p5nxse.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic: 'I was on my way home'",
+      "content_html": "Novak Djokovic talks to Nine's Wally Masur after Lorenzo Musetti's retirement.",
+      "content_text": "Novak Djokovic talks to Nine's Wally Masur after Lorenzo Musetti's retirement.",
+      "date_published": "2026-01-28T07:03:16.000Z"
+    },
+    {
       "id": "3903ea79-b16d-4e8f-a94e-5a618520a0ba",
       "url": "https://www.smh.com.au/politics/federal/littleproud-wanted-to-end-ley-s-leadership-but-he-has-jeopardised-his-own-20260128-p5nxpx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Littleproud wanted to end Ley’s leadership. But he has jeopardised his own",

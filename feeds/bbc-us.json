@@ -6,6 +6,38 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cevnppplkjjo#3",
+      "url": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
+      "title": "South Korea's ex-first lady jailed 20 months for bribery",
+      "content_html": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
+      "content_text": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
+      "date_published": "2026-01-28T07:16:59.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cp3zp2p8qwzo#3",
+      "url": "https://www.bbc.com/news/articles/cp3zp2p8qwzo?at_medium=RSS&at_campaign=rss",
+      "title": "Starmer speaks to Burnham after by-election row",
+      "content_html": "Sir Keir rejects claims that Andy Burnham was told in advance he would not be accepted as a by-election candidate.",
+      "content_text": "Sir Keir rejects claims that Andy Burnham was told in advance he would not be accepted as a by-election candidate.",
+      "date_published": "2026-01-28T07:07:27.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/c2k922e290jo#7",
+      "url": "https://www.bbc.com/sport/tennis/articles/c2k922e290jo?at_medium=RSS&at_campaign=rss",
+      "title": "'I was on my way home' - Djokovic scrapes into semis after Musetti injury",
+      "content_html": "Novak Djokovic's bid for more tennis history is still alive as he scrapes into the Australian Open semi-finals as Lorenzo Musetti retires injured at two sets up.",
+      "content_text": "Novak Djokovic's bid for more tennis history is still alive as he scrapes into the Australian Open semi-finals as Lorenzo Musetti retires injured at two sets up.",
+      "date_published": "2026-01-28T06:59:42.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c98pm9ym8e7o#7",
+      "url": "https://www.bbc.com/sport/football/articles/c98pm9ym8e7o?at_medium=RSS&at_campaign=rss",
+      "title": "Why are Paris St-Germain struggling to hit top form?",
+      "content_html": "European champions PSG face Newcastle in the Champions League on Wednesday - but why have Luis Enrique's side not been at their best so far this term?",
+      "content_text": "European champions PSG face Newcastle in the Champions League on Wednesday - but why have Luis Enrique's side not been at their best so far this term?",
+      "date_published": "2026-01-28T06:42:38.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/cricket/articles/clyep2g5dplo#7",
       "url": "https://www.bbc.com/sport/cricket/articles/clyep2g5dplo?at_medium=RSS&at_campaign=rss",
       "title": "Moeen lauds anti-racism steps as he joins Yorkshire",

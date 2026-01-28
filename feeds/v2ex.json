@@ -17,6 +17,78 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189044",
+      "url": "https://www.v2ex.com/t/1189044#reply0",
+      "title": "[问与答] Antigravity 又挂了吗？",
+      "content_html": "<p>Error: All Antigravity endpoints failed</p>\n<p>今天用 opencode 一直提示这个</p>",
+      "content_text": "Error: All Antigravity endpoints failed\n今天用 opencode 一直提示这个",
+      "date_published": "2026-01-28T07:27:32.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189042",
+      "url": "https://www.v2ex.com/t/1189042#reply5",
+      "title": "[投资] 持有了 100 万+茅台股票了，当然肯定赔",
+      "content_html": "<p>陆陆续续买入茅台股票，今天又补了一手，想记录下，5 年后回来看。</p>\n<p>动了 2 融的心思，融出来再补茅台。这个想法要仔细想想。身边朋友劝我不要动杠杆。</p>\n<p>其实，也还好，一直也有备用资金，不多。</p>",
+      "content_text": "陆陆续续买入茅台股票，今天又补了一手，想记录下，5 年后回来看。\n动了 2 融的心思，融出来再补茅台。这个想法要仔细想想。身边朋友劝我不要动杠杆。\n其实，也还好，一直也有备用资金，不多。",
+      "date_published": "2026-01-28T07:23:52.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189041",
+      "url": "https://www.v2ex.com/t/1189041#reply0",
+      "title": "[酷工作] 猎头岗位：\n上海某科技公司：大数据架构师， Base：上海市",
+      "content_html": "大数据架构师\t<br />薪资：面议\t<br />-----<br />1. 架构设计：负责公司 PB 级用<br />户行为数据（ AppList + GPS ）仓库的建设。设计基于 StarRocks + MinIO 的 存算分离 架构，在私有化物理机环<br />境下实现低成本存储与秒级多维查询。<br />2. ETL 与 Python 工程化：放弃 Java 开发模式，主导使用 PySpark 编写高性能数据清洗脚本。解决海量 JSON/GPS 日志处理中的数据倾斜与内存溢出 (OOM) 问题，建立 PythonNative 的数据工程体系。<br />3. AI 数据管道建设：负责搭建 “数据湖 -> 训练集群” 的高速数据传输通道。解决海量小文件读取瓶颈，优化 I/O 吞吐，确<br />保清洗后的语料能高速流向 GPU 集群，保障 AI 训练效率。<br />4. 负责私有云环境下大数据组件（ Spark on K8s/YARN, StarRocks ）的部署与监<br />控。配合 AI 团队进行资源隔离（ CPU vs GPU ），确保数据处理与模型训练互不干扰。\"\t\"1. 计算机相关专业本科及以上学历，5 年以上大数据架构经验，必须有 PB 级数据处理实战经验。<br />2. 精通 Python (PySpark)：具备大型 Python 工程开发能力。同时具备 阅读 Java/Scala 报堆栈 (Stack Trace) 的能力，能排查 Spark 底层的 JVM 问题。<br />3. 精通 MPP 数据库原理，是 StarRocks 、Apache Doris 或 ClickHouse 的重度使用者。<br />4. 熟悉 私有云/IDC 环境下的资源规划，具备在物理机上搭建和维护大规模集群的能力。<br />-----<br />可直接添加 TG：Skyewen20251<br />有意向投递简历到 Email 邮箱： zygs2151@gmail.com",
+      "content_text": "大数据架构师\t薪资：面议\t-----1. 架构设计：负责公司 PB 级用户行为数据（ AppList + GPS ）仓库的建设。设计基于 StarRocks + MinIO 的 存算分离 架构，在私有化物理机环境下实现低成本存储与秒级多维查询。2. ETL 与 Python 工程化：放弃 Java 开发模式，主导使用 PySpark 编写高性能数据清洗脚本。解决海量 JSON/GPS 日志处理中的数据倾斜与内存溢出 (OOM) 问题，建立 PythonNative 的数据工程体系。3. AI 数据管道建设：负责搭建 “数据湖 -> 训练集群” 的高速数据传输通道。解决海量小文件读取瓶颈，优化 I/O 吞吐，确保清洗后的语料能高速流向 GPU 集群，保障 AI 训练效率。4. 负责私有云环境下大数据组件（ Spark on K8s/YARN, StarRocks ）的部署与监控。配合 AI 团队进行资源隔离（ CPU vs GPU ），确保数据处理与模型训练互不干扰。\"\t\"1. 计算机相关专业本科及以上学历，5 年以上大数据架构经验，必须有 PB 级数据处理实战经验。2. 精通 Python (PySpark)：具备大型 Python 工程开发能力。同时具备 阅读 Java/Scala 报堆栈 (Stack Trace) 的能力，能排查 Spark 底层的 JVM 问题。3. 精通 MPP 数据库原理，是 StarRocks 、Apache Doris 或 ClickHouse 的重度使用者。4. 熟悉 私有云/IDC 环境下的资源规划，具备在物理机上搭建和维护大规模集群的能力。-----可直接添加 TG：Skyewen20251有意向投递简历到 Email 邮箱： zygs2151@gmail.com",
+      "date_published": "2026-01-28T07:23:24.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189040",
+      "url": "https://www.v2ex.com/t/1189040#reply1",
+      "title": "[投资] 计划过几天去 hk 玩玩顺便开个 za bank 的卡，有没有羊毛大家互薅一下",
+      "content_html": "<p>主要是打算方便虚拟币出入金的，除了众安还有没有推荐的？</p>",
+      "content_text": "主要是打算方便虚拟币出入金的，除了众安还有没有推荐的？",
+      "date_published": "2026-01-28T07:21:50.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189039",
+      "url": "https://www.v2ex.com/t/1189039#reply3",
+      "title": "[程序员] google pro 家庭组额度问题",
+      "content_html": "<ol>\n<li>家庭组管理员是 pro</li>\n<li>目前没有开启，组员调用 claude 接口会提示 429 错误。</li>\n<li>开启 <code>与家人共享 Google One</code> 这个设置后，组员会共享组长的 antigravity 的额度吗？还是说组员有自己的额度？</li>\n</ol>",
+      "content_text": "家庭组管理员是 pro\n目前没有开启，组员调用 claude 接口会提示 429 错误。\n开启 与家人共享 Google One 这个设置后，组员会共享组长的 antigravity 的额度吗？还是说组员有自己的额度？",
+      "date_published": "2026-01-28T07:15:52.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189037",
+      "url": "https://www.v2ex.com/t/1189037#reply3",
+      "title": "[股票] 兄弟们。你们吃肉了吗？白银有色翻了 12 倍，铜陵有色 4 天 3 个涨停板",
+      "content_html": "<p><img alt=\"1769584158262.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://youke.xn--y7xa690gmna.cn/s1/2026/01/28/6979b5e19630b.webp\"/></p>",
+      "content_text": "",
+      "date_published": "2026-01-28T07:10:48.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189036",
+      "url": "https://www.v2ex.com/t/1189036#reply0",
+      "title": "[酷工作] 日本 IT 案件！ 3 月 intra-mart、有在宅",
+      "content_html": "BP・個人事業主・協業など、柔軟に対応可能です。<br />技術力の高いリーダー1 名とメンバー1 名を募集します。<br />在宅勤務（リモート）も可能です！<br /><br />既存システム（ Java ）を、intra-mart Workflow 、BloomMaker 、LogicDesigner を使用してリプレースする案件です。<br /><br />要件定義工程から参画いただき、主に以下の業務をお願いします：<br />新画面のモックアップ作成<br />要件定義資料の作成支援<br /><br />勤務地：六本木<br />連絡先：Base64エンコード：YmVpYmVpNjc4MjAyM0AxNjMuY29t",
+      "content_text": "BP・個人事業主・協業など、柔軟に対応可能です。技術力の高いリーダー1 名とメンバー1 名を募集します。在宅勤務（リモート）も可能です！既存システム（ Java ）を、intra-mart Workflow 、BloomMaker 、LogicDesigner を使用してリプレースする案件です。要件定義工程から参画いただき、主に以下の業務をお願いします：新画面のモックアップ作成要件定義資料の作成支援勤務地：六本木連絡先：Base64エンコード：YmVpYmVpNjc4MjAyM0AxNjMuY29t",
+      "date_published": "2026-01-28T06:58:22.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189035",
+      "url": "https://www.v2ex.com/t/1189035#reply0",
+      "title": "[投资] 尾盘又买了点 TCL，记录一下。",
+      "content_html": "<p>感觉可以再做一下 T 。还是 5.05 进的，20W 。</p>\n<p>临近春节，应该不会再大起大落了吧。</p>",
+      "content_text": "感觉可以再做一下 T 。还是 5.05 进的，20W 。\n临近春节，应该不会再大起大落了吧。",
+      "date_published": "2026-01-28T06:57:34.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-28:/t/1189034",
+      "url": "https://www.v2ex.com/t/1189034#reply0",
+      "title": "[分享创造] 浏览单词词根词缀",
+      "content_html": "拆解单词词根，前缀后缀<br />同词根单词，相关词根词缀浏览<br />![Chrome 扩展 - WordHub]( <a target=\"_blank\" href=\"https://s3.bmp.ovh/2026/01/28/CRkHI3jI.png\" rel=\"nofollow noopener\">https://s3.bmp.ovh/2026/01/28/CRkHI3jI.png</a>)",
+      "content_text": "拆解单词词根，前缀后缀同词根单词，相关词根词缀浏览![Chrome 扩展 - WordHub]( https://s3.bmp.ovh/2026/01/28/CRkHI3jI.png)",
+      "date_published": "2026-01-28T06:50:55.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-28:/t/1189032",
       "url": "https://www.v2ex.com/t/1189032#reply0",
       "title": "[推广] 我们创业小组做了一个中转站，分享给大家。新用户邀请链接注册送$2",
