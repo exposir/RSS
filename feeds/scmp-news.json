@@ -6,6 +6,14 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/world/europe/article/3341499/ukraine-war-military-casualties-near-2-million-more-crunch-talks-loom?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/europe/article/3341499/ukraine-war-military-casualties-near-2-million-more-crunch-talks-loom?utm_source=rss_feed",
+      "title": "Ukraine war military casualties ‘near 2 million’ as more crunch talks loom",
+      "content_html": "Russia’s grinding invasion of Ukraine has caused nearly 2 million military casualties - killed, wounded or missing - between the two countries, according to a new study by a US think tank.\nMoscow’s forces have borne the brunt of the losses, suffering as many as 325,000 killed out of an estimated total of 1.2 million casualties since invading Ukraine nearly four years ago, the Centre for Strategic and International Studies (CSIS) found.\n“No major power has suffered anywhere near these numbers of...",
+      "content_text": "Russia’s grinding invasion of Ukraine has caused nearly 2 million military casualties - killed, wounded or missing - between the two countries, according to a new study by a US think tank.\nMoscow’s forces have borne the brunt of the losses, suffering as many as 325,000 killed out of an estimated total of 1.2 million casualties since invading Ukraine nearly four years ago, the Centre for Strategic and International Studies (CSIS) found.\n“No major power has suffered anywhere near these numbers of...",
+      "date_published": "2026-01-28T04:45:17.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/hong-kong/society/article/3341498/workers-stage-protest-demand-wages-owed-contractor-involved-tai-po-fire?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3341498/workers-stage-protest-demand-wages-owed-contractor-involved-tai-po-fire?utm_source=rss_feed",
       "title": "Workers stage protest to demand wages owed by contractor involved in Tai Po fire",

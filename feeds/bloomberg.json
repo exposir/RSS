@@ -6,6 +6,14 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-28/gop-senators-call-for-noem-to-resign-trump-iowa-address-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-28/gop-senators-call-for-noem-to-resign-trump-iowa-address-more",
+      "title": "GOP Senators Call for Noem to Resign, Trump Iowa Address, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-28T04:43:23.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/articles/2026-01-28/top-thai-builder-secures-debt-relief-amid-ongoing-crash-probe",
       "url": "https://www.bloomberg.com/news/articles/2026-01-28/top-thai-builder-secures-debt-relief-amid-ongoing-crash-probe",
       "title": "Top Thai Builder Secures Debt Relief as Crash Probe Proceeds",

@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "102dfbd1-066d-4a58-8d5a-45eff74d0b8d",
+      "url": "https://www.smh.com.au/national/violations-of-social-media-ban-must-be-met-with-strong-action-20260128-p5nxng.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Violations of social media ban must be met with strong action",
+      "content_html": "The success of Australia’s world-first under-16s social media ban depends on robust enforcement, ongoing monitoring of social media companies and their actions, and a commitment to share information with the public.",
+      "content_text": "The success of Australia’s world-first under-16s social media ban depends on robust enforcement, ongoing monitoring of social media companies and their actions, and a commitment to share information with the public.",
+      "date_published": "2026-01-28T04:44:40.000Z"
+    },
+    {
       "id": "bca27397-076e-4542-af9b-7ac31788e76f",
       "url": "https://www.smh.com.au/world/north-america/democrat-congresswoman-targeted-by-trump-sprayed-with-mystery-substance-20260128-p5nxoy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Democrat congresswoman targeted by Trump sprayed with mystery substance",
