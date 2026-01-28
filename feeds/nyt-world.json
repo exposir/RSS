@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",
+      "title": "The Rise and Fall of South Korean First Lady Kim Keon Hee",
+      "content_html": "Kim Keon Hee was unlike any presidential spouse South Korea had seen. Her downfall, on corruption charges, came after her husband declared martial law.",
+      "content_text": "Kim Keon Hee was unlike any presidential spouse South Korea had seen. Her downfall, on corruption charges, came after her husband declared martial law.",
+      "date_published": "2026-01-28T05:01:07.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html",
       "url": "https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html",
       "title": "Former French Senator Convicted of Drugging a Colleague, Intending to Assault Her",
