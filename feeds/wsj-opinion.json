@@ -6,6 +6,14 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "WP-WSJO-0000246002",
+      "url": "https://www.wsj.com/opinion/minnesota-politicians-and-consequences-0eb7b7e1",
+      "title": "Minnesota Politicians and Consequences",
+      "content_html": "What if they had encouraged police to cooperate with the feds?",
+      "content_text": "What if they had encouraged police to cooperate with the feds?",
+      "date_published": "2026-01-28T18:02:00.000Z"
+    },
+    {
       "id": "SB10381197850595854896404592642252476060194",
       "url": "https://www.wsj.com/opinion/how-trump-could-actually-fix-housing-market-7de39b90",
       "title": "How Trump Could Actually Fix Housing Market",

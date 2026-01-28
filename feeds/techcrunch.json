@@ -6,6 +6,22 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3086514",
+      "url": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+      "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+      "content_html": "Google Chrome is adding Gemini in sidebar and is rolling out an agentic feature for AI Pro and Ultra users",
+      "content_text": "Google Chrome is adding Gemini in sidebar and is rolling out an agentic feature for AI Pro and Ultra users",
+      "date_published": "2026-01-28T18:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087258",
+      "url": "https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/",
+      "title": "Apple tells Patreon to move creators to in-app purchase for subscriptions by November",
+      "content_html": "Patreon isn’t happy about Apple’s new subscription billing mandate, arguing Apple’s shifting rules create uncertainty for creators.",
+      "content_text": "Patreon isn’t happy about Apple’s new subscription billing mandate, arguing Apple’s shifting rules create uncertainty for creators.",
+      "date_published": "2026-01-28T17:45:00.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3086608",
       "url": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
       "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta&#8217;s Llama",

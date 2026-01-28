@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/trump-iran-armada.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/trump-iran-armada.html",
+      "title": "Trump Threatens Iran With ‘Massive Armada’ and Presses a Set of Demands",
+      "content_html": "U.S. and European officials say they have put three demands in front of the Iranians, including a permanent end to all enrichment of uranium.",
+      "content_text": "U.S. and European officials say they have put three demands in front of the Iranians, including a permanent end to all enrichment of uranium.",
+      "date_published": "2026-01-28T17:50:02.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",
       "url": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",
       "title": "Iraq’s Nominee for Prime Minister Rejects Trump Threats",
