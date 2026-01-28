@@ -6,6 +6,54 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "62218c45-1818-4462-bade-d3ae56362042",
+      "url": "https://www.smh.com.au/sport/tennis/djokovic-hits-back-at-disrespectful-question-20260129-p5nxvf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic hits back at 'disrespectful' question",
+      "content_html": "Novak Djokovic took aim at a reporter over a \"disrespectful\" question after he made it through to the Australian Open semi-finals.",
+      "content_text": "Novak Djokovic took aim at a reporter over a \"disrespectful\" question after he made it through to the Australian Open semi-finals.",
+      "date_published": "2026-01-28T20:47:00.000Z"
+    },
+    {
+      "id": "94ba6a66-63aa-49d8-8b15-6eb63a5d04c2",
+      "url": "https://www.smh.com.au/business/companies/wall-street-high-flyer-gives-171-million-to-vet-school-that-treated-his-dog-20260129-p5nxu9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Wall Street high-flyer gives $171 million to vet school that treated his dog",
+      "content_html": "Former Citigroup chief Sandy Weill and his wife Joan has awarded one of the largest gifts ever in animal medicine to an institution that once cared for their sick pet.",
+      "content_text": "Former Citigroup chief Sandy Weill and his wife Joan has awarded one of the largest gifts ever in animal medicine to an institution that once cared for their sick pet.",
+      "date_published": "2026-01-28T20:45:16.000Z"
+    },
+    {
+      "id": "b2126994-39ce-44d0-8d9e-bb962325b73a",
+      "url": "https://www.smh.com.au/lifestyle/my-600-lb-life-star-charity-pierce-amazing-weight-loss-transformation-20260129-p5nxvc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "My 600-lb Life star Charity Pierce amazing weight loss transformation",
+      "content_html": "Charity Pierce's amazing weight loss transformation on TLC's My 600-lb Life: Where Are They Now?",
+      "content_text": "Charity Pierce's amazing weight loss transformation on TLC's My 600-lb Life: Where Are They Now?",
+      "date_published": "2026-01-28T20:42:23.000Z"
+    },
+    {
+      "id": "b3695338-f7ea-4dac-b09c-2cdf12225ced",
+      "url": "https://www.smh.com.au/lifestyle/first-lady-melania-trumps-box-office-flop-20260129-p5nxva.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "First Lady Melania Trump's box office flop",
+      "content_html": "First Lady Melania Trump's $57 million documentary looks on track to bomb at the box office.",
+      "content_text": "First Lady Melania Trump's $57 million documentary looks on track to bomb at the box office.",
+      "date_published": "2026-01-28T20:32:46.000Z"
+    },
+    {
+      "id": "b6777b23-7e0a-45eb-918c-f720a87e91c2",
+      "url": "https://www.smh.com.au/sport/basketball/seven-players-ejected-in-nbl-brawl-20260129-p5nxv3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Seven players ejected in NBL brawl",
+      "content_html": "Seven players were sent after a wild clash erupted in the fourth quarter between the Brisbane Bullets and Adelaide 36ers.",
+      "content_text": "Seven players were sent after a wild clash erupted in the fourth quarter between the Brisbane Bullets and Adelaide 36ers.",
+      "date_published": "2026-01-28T20:11:42.000Z"
+    },
+    {
+      "id": "2671975e-e242-46c2-86c7-a103900bde43",
+      "url": "https://www.smh.com.au/world/north-america/us-border-patrol-agents-placed-on-leave-after-deadly-minnesota-shooting-20260129-p5nxux.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "US Border Patrol agents placed on leave after deadly Minnesota shooting",
+      "content_html": "The development comes as the White House escalates warnings to Minneapolis Mayor Jacob Frey over his refusal to co-operate with federal immigration enforcement.",
+      "content_text": "The development comes as the White House escalates warnings to Minneapolis Mayor Jacob Frey over his refusal to co-operate with federal immigration enforcement.",
+      "date_published": "2026-01-28T20:11:11.000Z"
+    },
+    {
       "id": "aa16fc2b-52c6-4df5-828e-588c622373bd",
       "url": "https://www.smh.com.au/lifestyle/why-photos-of-prince-harry-and-meghan-at-kris-jenners-party-were-deleted-20260129-p5nxuz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Why photos of Prince Harry and Meghan at Kris Jenner's party were deleted",

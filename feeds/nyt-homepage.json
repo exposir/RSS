@@ -6,6 +6,62 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/nyregion/nyc-storm-victims-hospital.html",
+      "url": "https://www.nytimes.com/2026/01/28/nyregion/nyc-storm-victims-hospital.html",
+      "title": "Most N.Y.C. Storm Victims Believed to Have Died After Cold Exposure",
+      "content_html": "Mayor Zohran Mamdani said that seven of the 10 people who died during the cold weather showed signs of cold exposure. One man was found dead just steps from a hospital.",
+      "content_text": "Mayor Zohran Mamdani said that seven of the 10 people who died during the cold weather showed signs of cold exposure. One man was found dead just steps from a hospital.",
+      "date_published": "2026-01-28T20:48:42.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/fbi-search-election-center-georgia.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/fbi-search-election-center-georgia.html",
+      "title": "F.B.I. Agents Search Georgia Election Center",
+      "content_html": "The search escalates the administration’s efforts to investigate a jurisdiction that Mr. Trump has continued to criticize over his defeat in the state.",
+      "content_text": "The search escalates the administration’s efforts to investigate a jurisdiction that Mr. Trump has continued to criticize over his defeat in the state.",
+      "date_published": "2026-01-28T20:47:29.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/climate/unions-sue-fema.html",
+      "url": "https://www.nytimes.com/2026/01/28/climate/unions-sue-fema.html",
+      "title": "Unions Sue FEMA Over Work Force Cuts They Say Threaten Readiness",
+      "content_html": "The suit argues that the recent dismissals and plans for further cuts violate laws designed to preserve the disaster response agency’s independence and capabilities.",
+      "content_text": "The suit argues that the recent dismissals and plans for further cuts violate laws designed to preserve the disaster response agency’s independence and capabilities.",
+      "date_published": "2026-01-28T20:10:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/europe/sicily-town-landslide.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/europe/sicily-town-landslide.html",
+      "title": "Landslide Leaves Town in Sicily Perched on a Cliff’s Edge",
+      "content_html": "“We are in a movie, in a horror film,” said a resident of Niscemi, where a widening chasm is threatening the town’s historic center.",
+      "content_text": "“We are in a movie, in a horror film,” said a resident of Niscemi, where a widening chasm is threatening the town’s historic center.",
+      "date_published": "2026-01-28T20:06:04.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/arts/music/grammys-tribute-lauryn-hill-roberta-flack-dangelo.html",
+      "url": "https://www.nytimes.com/2026/01/28/arts/music/grammys-tribute-lauryn-hill-roberta-flack-dangelo.html",
+      "title": "Lauryn Hill Will Lead Grammy Tribute to Roberta Flack and D’Angelo",
+      "content_html": "The artist, who dominated the awards in 1999, will return to the Grammy stage to honor an inspiration and a collaborator.",
+      "content_text": "The artist, who dominated the awards in 1999, will return to the Grammy stage to honor an inspiration and a collaborator.",
+      "date_published": "2026-01-28T20:00:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/01/28/us/trump-news/iran-us-allies-trump",
+      "url": "https://www.nytimes.com/live/2026/01/28/us/trump-news/iran-us-allies-trump",
+      "title": "U.S. allies in the Middle East have been pressing for weeks to prevent a conflict with Iran.",
+      "content_html": "Diplomats in the region have spent weeks trying to prevent a confrontation that they say risks a wider conflict.",
+      "content_text": "Diplomats in the region have spent weeks trying to prevent a confrontation that they say risks a wider conflict.",
+      "date_published": "2026-01-28T19:50:24.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/world/africa/melania-trump-documentary-south-africa-cancel.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/africa/melania-trump-documentary-south-africa-cancel.html",
+      "title": "South Africa Cancels Release of ‘Melania’ Documentary",
+      "content_html": "The distributor, which was set to release the film on Friday, said it had canceled the theatrical premiere because of “recent developments,” but declined to specify.",
+      "content_text": "The distributor, which was set to release the film on Friday, said it had canceled the theatrical premiere because of “recent developments,” but declined to specify.",
+      "date_published": "2026-01-28T19:32:05.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/business/silver-gold-prices.html",
       "url": "https://www.nytimes.com/2026/01/28/business/silver-gold-prices.html",
       "title": "Silver Prices Are Surging Even Faster Than Gold",
@@ -36,6 +92,14 @@
       "content_html": "Nuri Kamal al-Maliki, a former prime minister, was nominated to lead Iraq once again, but President Trump said he would cut U.S. support if that went ahead.",
       "content_text": "Nuri Kamal al-Maliki, a former prime minister, was nominated to lead Iraq once again, but President Trump said he would cut U.S. support if that went ahead.",
       "date_published": "2026-01-28T17:09:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
+      "url": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
+      "title": "Camping on Thwaites Glacier",
+      "content_html": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them.",
+      "content_text": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them.",
+      "date_published": "2026-01-28T17:03:50.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/opinion/family-mental-health-homeless-schizophrenia.html",

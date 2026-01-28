@@ -6,12 +6,28 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c20gy48571po#3",
+      "url": "https://www.bbc.com/news/articles/c20gy48571po?at_medium=RSS&at_campaign=rss",
+      "title": "Starbucks scraps $250,000 cap on boss's use of company jet",
+      "content_html": "The coffee chain changes Brian Niccol's travel budget due to media attention and \"credible threat actors\".",
+      "content_text": "The coffee chain changes Brian Niccol's travel budget due to media attention and \"credible threat actors\".",
+      "date_published": "2026-01-28T20:16:05.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c1dk2vp27d0o#3",
       "url": "https://www.bbc.com/news/articles/c1dk2vp27d0o?at_medium=RSS&at_campaign=rss",
       "title": "Campaigners upset over errors in learning disability deaths report",
       "content_html": "A review had found that 39% of deaths with a known cause had been avoidable. The figure has now been revised to 40%.",
       "content_text": "A review had found that 39% of deaths with a known cause had been avoidable. The figure has now been revised to 40%.",
       "date_published": "2026-01-28T19:47:42.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cn82p5x0q0lo#3",
+      "url": "https://www.bbc.com/news/articles/cn82p5x0q0lo?at_medium=RSS&at_campaign=rss",
+      "title": "Holiday let tax changes 'could wipe out tourism in Wales'",
+      "content_html": "Controversial tax rules for people running holiday lets are like a \"disease\" that risks forcing them out",
+      "content_text": "Controversial tax rules for people running holiday lets are like a \"disease\" that risks forcing them out",
+      "date_published": "2026-01-28T19:04:23.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cy8p2lk5x5ro#3",
@@ -270,6 +286,14 @@
       "date_published": "2026-01-28T13:32:07.000Z"
     },
     {
+      "id": "https://www.bbc.com/sport/tennis/articles/cd9epwg14zqo#1",
+      "url": "https://www.bbc.com/sport/tennis/articles/cd9epwg14zqo?at_medium=RSS&at_campaign=rss",
+      "title": "Will anyone deny Sabalenka at Australian Open?",
+      "content_html": "Aryna Sabalenka is two wins away from continuing her reign of dominance with a third Australian Open title in four years. Will anyone stop her?",
+      "content_text": "Aryna Sabalenka is two wins away from continuing her reign of dominance with a third Australian Open title in four years. Will anyone stop her?",
+      "date_published": "2026-01-28T13:29:00.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/tennis/articles/cd9epwg14zqo#7",
       "url": "https://www.bbc.com/sport/tennis/articles/cd9epwg14zqo?at_medium=RSS&at_campaign=rss",
       "title": "Will anyone deny Sabalenka at Australian Open?",
@@ -332,6 +356,14 @@
       "content_html": "But she branded defectors from the Conservative party \"drama queens\", saying people who did not agree with the direction she was taking the party \"need to get out the way\".",
       "content_text": "But she branded defectors from the Conservative party \"drama queens\", saying people who did not agree with the direction she was taking the party \"need to get out the way\".",
       "date_published": "2026-01-28T12:56:42.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c7v0948vm9go#1",
+      "url": "https://www.bbc.com/news/articles/c7v0948vm9go?at_medium=RSS&at_campaign=rss",
+      "title": "I will speak out on misogyny, first female Archbishop of Canterbury says",
+      "content_html": "The first woman to lead the Church of England in its history is officially confirmed at St Paul's Cathedral.",
+      "content_text": "The first woman to lead the Church of England in its history is officially confirmed at St Paul's Cathedral.",
+      "date_published": "2026-01-28T12:47:50.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c7v0948vm9go#0",

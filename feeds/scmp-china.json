@@ -6,6 +6,14 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/us/article/3341598/rubio-says-china-profited-venezuelas-collapse-through-cut-price-oil?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/us/article/3341598/rubio-says-china-profited-venezuelas-collapse-through-cut-price-oil?utm_source=rss_feed",
+      "title": "US’ Rubio says China profited from Venezuela’s collapse through cut-price oil",
+      "content_html": "US Secretary of State Marco Rubio accused China of profiting from Venezuela’s long-running economic collapse by securing discounted oil, telling senators that removing Nicolas Maduro was necessary to end energy arrangements that he said “favoured Beijing at the expense of the Venezuelan people”.\nDuring a hearing of the US Senate Foreign Affairs Committee on Wednesday, Rubio portrayed China as a central beneficiary of the Maduro government, arguing that Beijing had taken advantage of sanctions...",
+      "content_text": "US Secretary of State Marco Rubio accused China of profiting from Venezuela’s long-running economic collapse by securing discounted oil, telling senators that removing Nicolas Maduro was necessary to end energy arrangements that he said “favoured Beijing at the expense of the Venezuelan people”.\nDuring a hearing of the US Senate Foreign Affairs Committee on Wednesday, Rubio portrayed China as a central beneficiary of the Maduro government, arguing that Beijing had taken advantage of sanctions...",
+      "date_published": "2026-01-28T20:16:00.000Z"
+    },
+    {
       "id": "https://www.scmp.com/economy/global-economy/article/3341550/why-greenlands-rare-earth-riches-cannot-end-us-dependence-chinas-minerals?utm_source=rss_feed",
       "url": "https://www.scmp.com/economy/global-economy/article/3341550/why-greenlands-rare-earth-riches-cannot-end-us-dependence-chinas-minerals?utm_source=rss_feed",
       "title": "Why Greenland’s rare earth riches cannot end US dependence on China’s minerals",
