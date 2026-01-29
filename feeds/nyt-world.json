@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/macron-france-trump-sunglasses-boost.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/macron-france-trump-sunglasses-boost.html",
+      "title": "How His Duel With Trump Boosted Emmanuel Macron, France’s Embattled President",
+      "content_html": "Dismissed as a lame duck, Emmanuel Macron has clawed back some influence after his defense of Greenland and Denmark. Will quieter domestic politics allow him to secure his legacy?",
+      "content_text": "Dismissed as a lame duck, Emmanuel Macron has clawed back some influence after his defense of Greenland and Denmark. Will quieter domestic politics allow him to secure his legacy?",
+      "date_published": "2026-01-29T05:01:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/asia/china-woman-mental-illness-rape.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/asia/china-woman-mental-illness-rape.html",
+      "title": "She Couldn’t Defend Herself, But He Wasn’t Charged With Rape",
+      "content_html": "A decision not to charge a man who fathered children with a woman with a mental illness has set off a debate about rape, consent and China’s push for babies.",
+      "content_text": "A decision not to charge a man who fathered children with a woman with a mental illness has set off a debate about rape, consent and China’s push for babies.",
+      "date_published": "2026-01-29T05:00:06.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/asia/china-starmer-xi-jinping.html",
       "url": "https://www.nytimes.com/2026/01/28/world/asia/china-starmer-xi-jinping.html",
       "title": "U.K.’s Starmer Meets Xi Jinping in Beijing as Ties Warm",

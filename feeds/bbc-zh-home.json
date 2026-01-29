@@ -6,6 +6,14 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "「時隔太久」：施紀賢習近平首次在北京會晤",
+      "content_html": "英國首相施紀賢爵士對中國國家主席習近平說，英中建設「更精細」關係至關重要。",
+      "content_text": "英國首相施紀賢爵士對中國國家主席習近平說，英中建設「更精細」關係至關重要。",
+      "date_published": "2026-01-29T04:52:13.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad?at_medium=RSS&at_campaign=rss",
       "title": "為什麼中國將英國首相施紀賢來訪視為更大局面的一部分？",
@@ -158,6 +166,14 @@
       "date_published": "2026-01-27T07:17:40.000Z"
     },
     {
+      "id": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad#4",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "英國首相八年來首次訪華　施紀賢亞洲行的時機和任務",
+      "content_html": "施紀賢星期二出發先後訪問往北京和東京。日本方面透露施紀賢將於31日到訪，期間將會晤日本首相高市早苗。",
+      "content_text": "施紀賢星期二出發先後訪問往北京和東京。日本方面透露施紀賢將於31日到訪，期間將會晤日本首相高市早苗。",
+      "date_published": "2026-01-27T06:43:08.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad?at_medium=RSS&at_campaign=rss",
       "title": "英國首相八年來首次訪華　施紀賢亞洲行的時機和任務",
@@ -228,6 +244,14 @@
       "content_html": "台美經貿利益透過此次協議已深度互綁，半導體無疑是重中之重，台積電作為樞紐，持續主導這場晶片外交談判。",
       "content_text": "台美經貿利益透過此次協議已深度互綁，半導體無疑是重中之重，台積電作為樞紐，持續主導這場晶片外交談判。",
       "date_published": "2026-01-27T01:30:45.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/cz6yy4vyx86o/trad#6",
+      "url": "https://www.bbc.com/zhongwen/articles/cz6yy4vyx86o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "我曾像許多女性一樣「掩蓋更年期症狀」——但這樣可能帶來後果",
+      "content_html": "對某些女性而言，隱瞞更年期症狀可能引發連鎖效應，例如提高倦怠風險。",
+      "content_text": "對某些女性而言，隱瞞更年期症狀可能引發連鎖效應，例如提高倦怠風險。",
+      "date_published": "2026-01-27T00:25:11.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/cz6yy4vyx86o/trad#4",

@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cx2gdrvy9gjo#0",
+      "url": "https://www.bbc.com/news/articles/cx2gdrvy9gjo?at_medium=RSS&at_campaign=rss",
+      "title": "China executes 11 members of Myanmar scam mafia",
+      "content_html": "China executes 11 members of the Ming family that ran scam centres in Myanmar, state media report.",
+      "content_text": "China executes 11 members of the Ming family that ran scam centres in Myanmar, state media report.",
+      "date_published": "2026-01-29T04:19:34.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c620177qdg5o#0",
       "url": "https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&at_campaign=rss",
       "title": "Tesla cuts car models in shift to robots and AI",
@@ -164,6 +172,14 @@
       "content_html": "The storm toppled trees, damaged homes and left more than 800,000 people without power.",
       "content_text": "The storm toppled trees, damaged homes and left more than 800,000 people without power.",
       "date_published": "2026-01-28T22:59:48.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvgnq54v79xo#3",
+      "url": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
+      "title": "Plane crashes in Colombia, killing all 15 on board",
+      "content_html": "State ariline Satena says its aircraft carrying 13 passengers and two crew \"suffered a fatal accident\".",
+      "content_text": "State ariline Satena says its aircraft carrying 13 passengers and two crew \"suffered a fatal accident\".",
+      "date_published": "2026-01-28T22:48:52.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o#7",

@@ -6,6 +6,46 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/asia/china-starmer-xi-jinping.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/asia/china-starmer-xi-jinping.html",
+      "title": "U.K.’s Starmer Meets Xi Jinping in Beijing as Ties Warm",
+      "content_html": "Prime Minister Keir Starmer of Britain met with President Xi Jinping of China as he sought to promote business ties with the world’s second-largest economy.",
+      "content_text": "Prime Minister Keir Starmer of Britain met with President Xi Jinping of China as he sought to promote business ties with the world’s second-largest economy.",
+      "date_published": "2026-01-29T05:37:34.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/nyregion/chabad-crash-eastern-parkway.html",
+      "url": "https://www.nytimes.com/2026/01/28/nyregion/chabad-crash-eastern-parkway.html",
+      "title": "Driver Rams Car Into Headquarters of Chabad Hasidic Movemen",
+      "content_html": "No one was injured when the motorist drove into a rear door of the building on Eastern Parkway, Brooklyn. The man was arrested; the police are investigating the incident as a hate crime.",
+      "content_text": "No one was injured when the motorist drove into a rear door of the building on Eastern Parkway, Brooklyn. The man was arrested; the police are investigating the incident as a hate crime.",
+      "date_published": "2026-01-29T05:29:43.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/macron-france-trump-sunglasses-boost.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/macron-france-trump-sunglasses-boost.html",
+      "title": "How His Duel With Trump Boosted Emmanuel Macron, France’s Embattled President",
+      "content_html": "Dismissed as a lame duck, Emmanuel Macron has clawed back some influence after his defense of Greenland and Denmark. Will quieter domestic politics allow him to secure his legacy?",
+      "content_text": "Dismissed as a lame duck, Emmanuel Macron has clawed back some influence after his defense of Greenland and Denmark. Will quieter domestic politics allow him to secure his legacy?",
+      "date_published": "2026-01-29T05:01:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/china-economy-duality.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/china-economy-duality.html",
+      "title": "At World’s Busiest Port, China’s Unbalanced Economy Comes Into View",
+      "content_html": "The shipping traffic and factories never stop in China’s port city of Ningbo, but the local housing market has crashed and nearby restaurants sit empty.",
+      "content_text": "The shipping traffic and factories never stop in China’s port city of Ningbo, but the local housing market has crashed and nearby restaurants sit empty.",
+      "date_published": "2026-01-29T05:00:15.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/asia/china-woman-mental-illness-rape.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/asia/china-woman-mental-illness-rape.html",
+      "title": "She Couldn’t Defend Herself, But He Wasn’t Charged With Rape",
+      "content_html": "A decision not to charge a man who fathered children with a woman with a mental illness has set off a debate about rape, consent and China’s push for babies.",
+      "content_text": "A decision not to charge a man who fathered children with a woman with a mental illness has set off a debate about rape, consent and China’s push for babies.",
+      "date_published": "2026-01-29T05:00:06.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/us/trump-schumer-deal-shutdown.html",
       "url": "https://www.nytimes.com/2026/01/28/us/trump-schumer-deal-shutdown.html",
       "title": "Trump and Schumer Move Toward Possible Deal to Avert a Shutdown",

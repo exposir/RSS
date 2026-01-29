@@ -6,6 +6,70 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "44845735-d7f9-4eb5-bd5d-6bd2fa7ce930",
+      "url": "https://www.smh.com.au/sport/tennis/kose-blowup-ao26-1573-20260129-p5ny46.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "kose blowup ao26 1573",
+      "content_html": "kose blowup",
+      "content_text": "kose blowup",
+      "date_published": "2026-01-29T05:47:16.000Z"
+    },
+    {
+      "id": "c70ab42b-b1e4-49cc-acfc-86967c0844b4",
+      "url": "https://www.smh.com.au/national/western-australia/freed-detainee-accused-of-violent-girrawheen-attack-reoffended-whilst-on-bail-court-told-20260129-p5ny2k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Freed detainee accused of violent Girrawheen attack reoffended whilst on bail, court told",
+      "content_html": "Majid Jamshidi Doukoshkan, 45, is one of three men accused of a violent attack on Ninette and Philip Simons at their home in Girrawheen in 2024.",
+      "content_text": "Majid Jamshidi Doukoshkan, 45, is one of three men accused of a violent attack on Ninette and Philip Simons at their home in Girrawheen in 2024.",
+      "date_published": "2026-01-29T05:28:43.000Z"
+    },
+    {
+      "id": "a85bec66-c2e0-4639-a0d7-859e74e4b7b2",
+      "url": "https://www.smh.com.au/politics/federal/we-don-t-want-to-sell-chinese-firm-digs-in-over-darwin-port-ownership-20260129-p5ny1i.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘We don’t want to sell’: Chinese firm digs in over Darwin Port ownership",
+      "content_html": "National security experts called for the government to push ahead with plans to force a divestiture despite threats from China’s ambassador to Australia.",
+      "content_text": "National security experts called for the government to push ahead with plans to force a divestiture despite threats from China’s ambassador to Australia.",
+      "date_published": "2026-01-29T05:20:06.000Z"
+    },
+    {
+      "id": "57e1b459-3082-44ae-83da-f8a6ef013a4e",
+      "url": "https://www.smh.com.au/politics/victoria/upfield-line-set-to-close-for-three-months-during-sky-rail-works-20260129-p5ny09.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Upfield line set to close for three months during ‘sky rail’ works",
+      "content_html": "Three years of work and preparations, including a 90-day shutdown of the Upfield line, are set to hit one of Melbourne’s busiest corridors as part of the government’s level crossing removal program.",
+      "content_text": "Three years of work and preparations, including a 90-day shutdown of the Upfield line, are set to hit one of Melbourne’s busiest corridors as part of the government’s level crossing removal program.",
+      "date_published": "2026-01-29T05:11:13.000Z"
+    },
+    {
+      "id": "7b2ac69e-6ff8-4acf-8410-b15ef058b2ac",
+      "url": "https://www.smh.com.au/national/nsw/revealed-the-sydney-suburbs-where-first-home-buyers-are-headed-20260129-p5nxyh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Revealed: The Sydney suburbs where first home buyers are headed",
+      "content_html": "See how many first home buyers have been able to get into the market in your area.",
+      "content_text": "See how many first home buyers have been able to get into the market in your area.",
+      "date_published": "2026-01-29T05:05:59.000Z"
+    },
+    {
+      "id": "be3a42c7-79f8-440d-9979-5878a36406ff",
+      "url": "https://www.smh.com.au/world/middle-east/what-s-in-the-massive-armada-trump-has-heading-towards-iran-20260129-p5nxzi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "What’s in the ‘massive armada’ Trump has heading towards Iran?",
+      "content_html": "The US president says a strike group led by the USS Abraham Lincoln is approaching Iran with “enthusiasm and purpose”. What does it entail?",
+      "content_text": "The US president says a strike group led by the USS Abraham Lincoln is approaching Iran with “enthusiasm and purpose”. What does it entail?",
+      "date_published": "2026-01-29T05:01:53.000Z"
+    },
+    {
+      "id": "28e29365-b02b-4dc7-8a10-b08d9df545ce",
+      "url": "https://www.smh.com.au/sport/golf/it-began-with-stars-and-buckets-of-money-but-is-liv-about-to-lose-the-golf-war-20260129-p5nxy8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "It began with stars and buckets of money. But is LIV about to lose the golf war?",
+      "content_html": "The return of Brooks Koepka and Patrick Reed to the US PGA Tour – and the potential loss of the world’s biggest golf star – has raised questions about LIV Golf’s future.",
+      "content_text": "The return of Brooks Koepka and Patrick Reed to the US PGA Tour – and the potential loss of the world’s biggest golf star – has raised questions about LIV Golf’s future.",
+      "date_published": "2026-01-29T04:58:24.000Z"
+    },
+    {
+      "id": "c619d4d2-557b-48e5-8161-ddf66dd17c1b",
+      "url": "https://www.smh.com.au/world/europe/how-barron-trump-helped-solve-a-crime-from-6000km-away-20260129-p5nxvd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How Barron Trump helped solve a crime – from 6000km away",
+      "content_html": "In a recording of the call, the US president’s son could be heard desperately pleading for help as the dispatcher insisted he answer basic questions about the victim.",
+      "content_text": "In a recording of the call, the US president’s son could be heard desperately pleading for help as the dispatcher insisted he answer basic questions about the victim.",
+      "date_published": "2026-01-29T04:45:44.000Z"
+    },
+    {
       "id": "664c83ac-f6b6-41ad-b0ef-70a4b052ebe0",
       "url": "https://www.smh.com.au/national/western-australia/the-missing-money-and-litigation-overshadowing-an-ndis-network-20260122-p5nwdf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "The missing money and litigation overshadowing an NDIS network",

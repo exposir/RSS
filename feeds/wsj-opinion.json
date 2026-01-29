@@ -6,6 +6,14 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "WP-WSJO-0000245865",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-da2f7b92",
+      "title": "Pepper&#x2026;and Salt",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T05:00:00.000Z"
+    },
+    {
       "id": "SB11930060785218553820404592646441282433960",
       "url": "https://www.wsj.com/opinion/guan-heng-asylum-ruling-china-uyghurs-charles-ouslander-department-of-homeland-security-b70be0c8",
       "title": "Guan Heng Gets U.S. Asylum",
