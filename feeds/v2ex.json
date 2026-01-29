@@ -17,6 +17,14 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189394",
+      "url": "https://www.v2ex.com/t/1189394#reply0",
+      "title": "[分享发现] Google DeepMind 的 Project Genie 来了：用文字生成可探索的 3D 世界",
+      "content_html": "<p>最近 Google DeepMind 发布了 <a href=\"https://project-genie.ai\" rel=\"nofollow\">Project Genie</a>，一个能将文字描述实时生成为可交互 3D 世界的 AI 。</p>\n<p><strong>主要特点：</strong></p>\n<ul>\n<li>文字/图片 → 可探索的 3D 环境</li>\n<li>实时生成，24 FPS 流畅运行</li>\n<li>WASD 键盘控制，支持行走、跳跃、飞行</li>\n<li>AI 自学的物理引擎，重力、碰撞自然涌现</li>\n</ul>\n<p><strong>目前限制：</strong></p>\n<ul>\n<li>仅限美国 Google AI Ultra 订阅用户（$250/月）</li>\n<li>单次探索约 60 秒</li>\n<li>720p 分辨率</li>\n</ul>\n<p>网站 <a href=\"https://project-genie.ai\" rel=\"nofollow\">Project Genie</a>，包含功能详解、使用教程和与其他 AI 世界模型的对比。</p>\n<p>感觉这东西对游戏开发、建筑可视化、教育领域会有很大影响。大家怎么看？</p>",
+      "content_text": "最近 Google DeepMind 发布了 Project Genie，一个能将文字描述实时生成为可交互 3D 世界的 AI 。\n主要特点：\n\n文字/图片 → 可探索的 3D 环境\n实时生成，24 FPS 流畅运行\nWASD 键盘控制，支持行走、跳跃、飞行\nAI 自学的物理引擎，重力、碰撞自然涌现\n\n目前限制：\n\n仅限美国 Google AI Ultra 订阅用户（$250/月）\n单次探索约 60 秒\n720p 分辨率\n\n网站 Project Genie，包含功能详解、使用教程和与其他 AI 世界模型的对比。\n感觉这东西对游戏开发、建筑可视化、教育领域会有很大影响。大家怎么看？",
+      "date_published": "2026-01-29T20:38:58.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-29:/t/1189393",
       "url": "https://www.v2ex.com/t/1189393#reply1",
       "title": "[程序员] 谷歌的 aistudio 和 vertex 似乎遇到了算力危机，耗费算力高的 api 任务失败率飙升",

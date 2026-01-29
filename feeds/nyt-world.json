@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/canada/canada-south-korea-auto-deal-tariffs.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/canada/canada-south-korea-auto-deal-tariffs.html",
+      "title": "Canada Signs Auto Deal With South Korea, Moving Further from the U.S.",
+      "content_html": "The agreement, while scarce on details, is the latest step by Prime Minister Mark Carney to reduce Canada’s reliance on trade with the U.S.",
+      "content_text": "The agreement, while scarce on details, is the latest step by Prime Minister Mark Carney to reduce Canada’s reliance on trade with the U.S.",
+      "date_published": "2026-01-29T21:10:35.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/nato-military-exercise-spain-germany.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/nato-military-exercise-spain-germany.html",
+      "title": "NATO to Hold Military Exercise Without U.S., Its Largest Member",
+      "content_html": "The operation, Steadfast Dart, comes as President Trump has been accused of undermining the alliance and will be watched closely to see how well the allies manage without their most important partner.",
+      "content_text": "The operation, Steadfast Dart, comes as President Trump has been accused of undermining the alliance and will be watched closely to see how well the allies manage without their most important partner.",
+      "date_published": "2026-01-29T21:05:22.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/africa/mozambique-south-africa-flood.html",
       "url": "https://www.nytimes.com/2026/01/29/world/africa/mozambique-south-africa-flood.html",
       "title": "Southern Africa Faces Devastating Flooding During Rainy Season",

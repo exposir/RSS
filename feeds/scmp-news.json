@@ -6,6 +6,14 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/world/united-states-canada/article/3341746/man-posing-fbi-agent-tried-free-luigi-mangione?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3341746/man-posing-fbi-agent-tried-free-luigi-mangione?utm_source=rss_feed",
+      "title": "Man posing as FBI agent tries to free Luigi Mangione",
+      "content_html": "A man falsely claiming to be an FBI agent showed up to a federal jail in New York on Wednesday night and told officers he had a court order to release Luigi Mangione, authorities said.\nMark Anderson, 36, of Mankato, Minnesota, was arrested and charged with impersonating an FBI agent in a foiled bid to free Mangione from the Metropolitan Detention Centre, the notorious Brooklyn lock-up where he is held while awaiting state and federal murder trials in the killing of UnitedHealthcare CEO Brian...",
+      "content_text": "A man falsely claiming to be an FBI agent showed up to a federal jail in New York on Wednesday night and told officers he had a court order to release Luigi Mangione, authorities said.\nMark Anderson, 36, of Mankato, Minnesota, was arrested and charged with impersonating an FBI agent in a foiled bid to free Mangione from the Metropolitan Detention Centre, the notorious Brooklyn lock-up where he is held while awaiting state and federal murder trials in the killing of UnitedHealthcare CEO Brian...",
+      "date_published": "2026-01-29T21:16:59.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/world/europe/article/3341745/greenland-mayor-issues-warning-after-us-flag-stunt?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/world/europe/article/3341745/greenland-mayor-issues-warning-after-us-flag-stunt?utm_source=rss_feed",
       "title": "Greenland mayor issues warning after US flag stunt",

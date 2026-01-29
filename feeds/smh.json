@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "11089ab5-64d7-40e3-b837-27d4e178b9ce",
+      "url": "https://www.smh.com.au/national/australia-on-high-alert-for-nipah-virus-cases-20260130-p5ny7q.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australia on high alert for Nipah virus cases",
+      "content_html": "Health Minister Mark Butler has outlines measures to protect Australians against the deadly Nipah virus.",
+      "content_text": "Health Minister Mark Butler has outlines measures to protect Australians against the deadly Nipah virus.",
+      "date_published": "2026-01-29T21:24:26.000Z"
+    },
+    {
+      "id": "eb780107-9b08-4c8b-9519-3968e536591d",
+      "url": "https://www.smh.com.au/national/aussies-downed-in-first-t20-20260130-p5ny7g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Aussies downed in first T20",
+      "content_html": "Pakistan has claimed the honours in the first T20 against Australia by 22 runs, as Adam Zampa took four wickets.",
+      "content_text": "Pakistan has claimed the honours in the first T20 against Australia by 22 runs, as Adam Zampa took four wickets.",
+      "date_published": "2026-01-29T20:47:53.000Z"
+    },
+    {
+      "id": "830c6b5c-5693-48e3-ab5f-a2ccef55d10b",
+      "url": "https://www.smh.com.au/national/nsw/boy-found-dead-in-blue-mountains-tragedy-20260130-p5ny71.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Boy found dead in Blue Mountains tragedy",
+      "content_html": "A 16-year-old boy has died and his 17-year-old friend has been winched to safety from a secluded campsite west of Sydney.",
+      "content_text": "A 16-year-old boy has died and his 17-year-old friend has been winched to safety from a secluded campsite west of Sydney.",
+      "date_published": "2026-01-29T20:38:03.000Z"
+    },
+    {
       "id": "db8a5aa7-f5ab-49de-a089-3c12a42df271",
       "url": "https://www.smh.com.au/national/australia-news-live-ley-holds-on-to-leadership-as-rivals-fail-to-reach-agreement-on-who-should-challenge-trump-asks-putin-to-temporarily-halt-kyiv-bombing-20260130-p5ny6y.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Australia news LIVE: Ley holds on to leadership as rivals fail to reach agreement on who should challenge; Trump asks Putin to temporarily halt Kyiv bombing",

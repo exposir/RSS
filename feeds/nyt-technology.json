@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
+      "url": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
+      "title": "OpenAI in Talks to Raise as Much as $100 Billion",
+      "content_html": "OpenAI’s discussions with Microsoft, Nvidia, Middle Eastern sovereign wealth funds and others could value it at $750 billion or more.",
+      "content_text": "OpenAI’s discussions with Microsoft, Nvidia, Middle Eastern sovereign wealth funds and others could value it at $750 billion or more.",
+      "date_published": "2026-01-29T20:53:15.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
       "url": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
       "title": "How the A.I. Boom Could Push Up the Price of Your Next PC",

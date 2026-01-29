@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46812933",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "content_html": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/\">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46812933\">https://news.ycombinator.com/item?id=46812933</a></p>\n<p>Points: 246</p>\n<p># Comments: 128</p>",
+      "content_text": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/\nComments URL: https://news.ycombinator.com/item?id=46812933\nPoints: 246\n# Comments: 128",
+      "date_published": "2026-01-29T17:02:39.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46812173",
       "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
       "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",

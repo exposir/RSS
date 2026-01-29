@@ -6,6 +6,30 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "WP-WSJO-0000246965",
+      "url": "https://www.wsj.com/opinion/possible-moderate-democrat-sighting-in-california-governors-race-c958be4b",
+      "title": "Possible Moderate Democrat Sighting in California Governor&#x2019;s Race",
+      "content_html": "Golden State primary voters have a chance to turn the page on an era of dysfunction.",
+      "content_text": "Golden State primary voters have a chance to turn the page on an era of dysfunction.",
+      "date_published": "2026-01-29T20:45:00.000Z"
+    },
+    {
+      "id": "SB11891016629491334477604592620281586666076",
+      "url": "https://www.wsj.com/opinion/the-new-bipolar-world-of-ai-d0af971a",
+      "title": "The New Bipolar World of AI",
+      "content_html": "Only the U.S. and China are &#x2018;sovereign&#x2019; in that they can produce and maintain control of frontier systems.",
+      "content_text": "Only the U.S. and China are &#x2018;sovereign&#x2019; in that they can produce and maintain control of frontier systems.",
+      "date_published": "2026-01-29T20:35:00.000Z"
+    },
+    {
+      "id": "SB11336906705384833482504592644111637283888",
+      "url": "https://www.wsj.com/opinion/give-the-board-of-peace-a-chance-92e7e287",
+      "title": "Give the Board of Peace a Chance",
+      "content_html": "There&#x2019;s no guarantee it will solve the Gaza problem, but everyone else has already failed.",
+      "content_text": "There&#x2019;s no guarantee it will solve the Gaza problem, but everyone else has already failed.",
+      "date_published": "2026-01-29T20:34:00.000Z"
+    },
+    {
       "id": "SB11930060785218553820404592646062824056598",
       "url": "https://www.wsj.com/opinion/britain-seems-committed-to-stagnation-c33e5004",
       "title": "Britain Seems Committed to Stagnation",

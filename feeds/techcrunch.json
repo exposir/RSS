@@ -6,6 +6,22 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3088004",
+      "url": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
+      "title": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+      "content_html": "Microsoft says its own chip leapfrogs those made by other cloud providers like Amazon and Google. But it needs more.",
+      "content_text": "Microsoft says its own chip leapfrogs those made by other cloud providers like Amazon and Google. But it needs more.",
+      "date_published": "2026-01-29T21:21:46.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087955",
+      "url": "https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/",
+      "title": "Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach",
+      "content_html": "The fintech giant said it plans to \"seek recoupment of any expenses\" from its firewall provider SonicWall after a 2025 data breach exposed customer firewall configurations.",
+      "content_text": "The fintech giant said it plans to \"seek recoupment of any expenses\" from its firewall provider SonicWall after a 2025 data breach exposed customer firewall configurations.",
+      "date_published": "2026-01-29T20:31:43.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087908",
       "url": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
       "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",

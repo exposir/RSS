@@ -6,6 +6,30 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003295056",
+      "url": "https://www.wsj.com/economy/trade/china-agrees-to-lower-tariffs-by-half-on-u-k-whisky-9a68469d",
+      "title": "China Agrees to Lower Tariffs by Half on U.K. Whisky",
+      "content_html": "The U.K. government said it expects whisky exports to China to be worth roughly $345.2 million to the economy over the next five years as tariffs are lowered to 5% from 10%.",
+      "content_text": "The U.K. government said it expects whisky exports to China to be worth roughly $345.2 million to the economy over the next five years as tariffs are lowered to 5% from 10%.",
+      "date_published": "2026-01-29T20:39:00.000Z"
+    },
+    {
+      "id": "SB11891016629491334477604592620281586666076",
+      "url": "https://www.wsj.com/opinion/the-new-bipolar-world-of-ai-d0af971a",
+      "title": "Opinion | The New Bipolar World of AI",
+      "content_html": "Only the U.S. and China are &#x2018;sovereign&#x2019; in that they can produce and maintain control of frontier systems.",
+      "content_text": "Only the U.S. and China are &#x2018;sovereign&#x2019; in that they can produce and maintain control of frontier systems.",
+      "date_published": "2026-01-29T20:35:00.000Z"
+    },
+    {
+      "id": "SB11336906705384833482504592644111637283888",
+      "url": "https://www.wsj.com/opinion/give-the-board-of-peace-a-chance-92e7e287",
+      "title": "Opinion | Give the Board of Peace a Chance",
+      "content_html": "There&#x2019;s no guarantee it will solve the Gaza problem, but everyone else has already failed.",
+      "content_text": "There&#x2019;s no guarantee it will solve the Gaza problem, but everyone else has already failed.",
+      "date_published": "2026-01-29T20:34:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003294914",
       "url": "https://www.wsj.com/world/americas/carney-calls-on-white-house-to-respect-canadian-sovereignty-over-alberta-a767be5f",
       "title": "Carney Calls on White House to Respect Canadian Sovereignty Over Alberta",
