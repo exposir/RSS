@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useMemo } from 'react'
+import { Virtuoso } from 'react-virtuoso'
 import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from '@/components/ui/resizable'
 import { ScrollArea } from '@/components/ui/scroll-area'
 import { Button } from '@/components/ui/button'
@@ -245,14 +246,16 @@ export default function RSSReader() {
             </div>
 
             {/* List */}
-            <ScrollArea className="flex-1">
+            <div className="flex-1 min-h-0">
               {filteredArticles.length === 0 && !loading ? (
                 <div className="flex flex-col items-center justify-center h-40 text-muted-foreground">
                   <p>暂无文章</p>
                 </div>
               ) : (
-                <div className="flex flex-col">
-                  {filteredArticles.map(article => (
+                <Virtuoso
+                  style={{ height: '100%' }}
+                  data={filteredArticles}
+                  itemContent={(index, article) => (
                     <div
                       key={`${article.feedId}-${article.id}`}
                       className={cn(
@@ -270,10 +273,10 @@ export default function RSSReader() {
                         <span>{formatDate(article.date_published)}</span>
                       </div>
                     </div>
-                  ))}
-                </div>
+                  )}
+                />
               )}
-            </ScrollArea>
+            </div>
           </div>
         </ResizablePanel>
 
