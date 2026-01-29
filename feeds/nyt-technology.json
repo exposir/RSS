@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html",
+      "url": "https://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html",
+      "title": "Apple Reports Record iPhone Sales Amid Holiday Bump",
+      "content_html": "New phone designs, coupled with robust holiday spending, continued to lift iPhone sales in the quarter and boosted revenue.",
+      "content_text": "New phone designs, coupled with robust holiday spending, continued to lift iPhone sales in the quarter and boosted revenue.",
+      "date_published": "2026-01-29T21:37:06.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
       "url": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
       "title": "OpenAI in Talks to Raise as Much as $100 Billion",

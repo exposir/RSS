@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/bad-bunny-grammys-pop-britain-china.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/bad-bunny-grammys-pop-britain-china.html",
+      "title": "A Global Pop Music Melting Pot",
+      "content_html": "The era of American dominance is over. Music now comes from artists everywhere listening to each other.",
+      "content_text": "The era of American dominance is over. Music now comes from artists everywhere listening to each other.",
+      "date_published": "2026-01-29T21:44:37.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/canada/canada-south-korea-auto-deal-tariffs.html",
       "url": "https://www.nytimes.com/2026/01/29/world/canada/canada-south-korea-auto-deal-tariffs.html",
       "title": "Canada Signs Auto Deal With South Korea, Moving Further from the U.S.",

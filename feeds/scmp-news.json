@@ -6,6 +6,14 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/opinion/world-opinion/article/3341496/trumps-tariffs-reveal-hidden-fault-lines-global-trade?utm_source=rss_feed",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3341496/trumps-tariffs-reveal-hidden-fault-lines-global-trade?utm_source=rss_feed",
+      "title": "Trump’s tariffs reveal the hidden fault lines of global trade",
+      "content_html": "Today, double-digit tariffs imposed by the United States are the new baseline. Breaking decades of low single digits norms, the US rolled out a “reciprocal tariff” framework in April 2025, setting a 10 per cent baseline and layering on higher rates for specific countries.\nEmbedded in the US’ national security strategy, this reorientation leaves little scope for a full rollback and turns global trade into a test of power: of whether World Trade Organization (WTO) rules still bind or leverage now...",
+      "content_text": "Today, double-digit tariffs imposed by the United States are the new baseline. Breaking decades of low single digits norms, the US rolled out a “reciprocal tariff” framework in April 2025, setting a 10 per cent baseline and layering on higher rates for specific countries.\nEmbedded in the US’ national security strategy, this reorientation leaves little scope for a full rollback and turns global trade into a test of power: of whether World Trade Organization (WTO) rules still bind or leverage now...",
+      "date_published": "2026-01-29T21:30:09.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/world/united-states-canada/article/3341746/man-posing-fbi-agent-tried-free-luigi-mangione?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3341746/man-posing-fbi-agent-tried-free-luigi-mangione?utm_source=rss_feed",
       "title": "Man posing as FBI agent tries to free Luigi Mangione",

@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/nyregion/chabad-brooklyn-car-ramming.html",
+      "url": "https://www.nytimes.com/2026/01/29/nyregion/chabad-brooklyn-car-ramming.html",
+      "title": "Police File Hate Crime Charges After Chabad Ramming in Brooklyn",
+      "content_html": "The police arrested the man, Dan Sohail, after a vehicle was rammed into the Brooklyn headquarters of the Hasidic Jewish organization. The man’s father said in an interview that his son did not hate Jewish people.",
+      "content_text": "The police arrested the man, Dan Sohail, after a vehicle was rammed into the Brooklyn headquarters of the Hasidic Jewish organization. The man’s father said in an interview that his son did not hate Jewish people.",
+      "date_published": "2026-01-29T21:47:28.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/canada/canada-south-korea-auto-deal-tariffs.html",
       "url": "https://www.nytimes.com/2026/01/29/world/canada/canada-south-korea-auto-deal-tariffs.html",
       "title": "Canada Signs Auto Deal With South Korea, Moving Further from the U.S.",
@@ -44,6 +52,14 @@
       "content_html": "The Trump administration has sought to end Temporary Protected Status for more than a million people from troubled nations. About 600,000 are from Venezuela.",
       "content_text": "The Trump administration has sought to end Temporary Protected Status for more than a million people from troubled nations. About 600,000 are from Venezuela.",
       "date_published": "2026-01-29T20:18:59.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/harvard-grade-inflation.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/harvard-grade-inflation.html",
+      "title": "A Solution for Too Many A’s? Harvard Considers Giving A-Pluses",
+      "content_html": "Harvard University has been trying to cut back how many A grades professors give. Now, 53 percent of grades are A’s, down from 60 percent.",
+      "content_text": "Harvard University has been trying to cut back how many A grades professors give. Now, 53 percent of grades are A’s, down from 60 percent.",
+      "date_published": "2026-01-29T20:17:55.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/nyregion/luigi-mangione-break-out-blade.html",

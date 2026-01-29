@@ -126,6 +126,14 @@
       "date_published": "2026-01-28T18:12:02.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46798402",
+      "url": "https://github.com/ratatui/mousefood",
+      "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+      "content_html": "<p>Article URL: <a href=\"https://github.com/ratatui/mousefood\">https://github.com/ratatui/mousefood</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46798402\">https://news.ycombinator.com/item?id=46798402</a></p>\n<p>Points: 236</p>\n<p># Comments: 47</p>",
+      "content_text": "Article URL: https://github.com/ratatui/mousefood\nComments URL: https://news.ycombinator.com/item?id=46798402\nPoints: 236\n# Comments: 47",
+      "date_published": "2026-01-28T17:20:31.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46797594",
       "url": "https://www.dimamik.com/posts/oban_py/",
       "title": "Oban, the job processing framework from Elixir, has come to Python",
@@ -212,6 +220,14 @@
       "content_html": "<p>Article URL: <a href=\"https://monkeyball-online.pages.dev/\">https://monkeyball-online.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46789961\">https://news.ycombinator.com/item?id=46789961</a></p>\n<p>Points: 258</p>\n<p># Comments: 77</p>",
       "content_text": "Article URL: https://monkeyball-online.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=46789961\nPoints: 258\n# Comments: 77",
       "date_published": "2026-01-28T01:44:25.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46789561",
+      "url": "https://www.arcee.ai/blog/trinity-large",
+      "title": "Trinity large: An open 400B sparse MoE model",
+      "content_html": "<p>Article URL: <a href=\"https://www.arcee.ai/blog/trinity-large\">https://www.arcee.ai/blog/trinity-large</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46789561\">https://news.ycombinator.com/item?id=46789561</a></p>\n<p>Points: 229</p>\n<p># Comments: 79</p>",
+      "content_text": "Article URL: https://www.arcee.ai/blog/trinity-large\nComments URL: https://news.ycombinator.com/item?id=46789561\nPoints: 229\n# Comments: 79",
+      "date_published": "2026-01-28T00:57:52.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46788384",

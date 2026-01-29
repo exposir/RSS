@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3088006",
+      "url": "https://techcrunch.com/2026/01/29/medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice/",
+      "title": "Medium gives employees Friday off to participate in national strike protesting ICE",
+      "content_html": "Medium gives its employees the option to take the day off to protest on Friday.",
+      "content_text": "Medium gives its employees the option to take the day off to protest on Friday.",
+      "date_published": "2026-01-29T21:49:15.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3088004",
       "url": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
       "title": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",

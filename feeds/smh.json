@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "8d885f4a-56b6-483f-9daf-77ba570dd20f",
+      "url": "https://www.smh.com.au/business/companies/nine-sells-2gb-3aw-to-publican-buys-outdoor-media-firm-for-850m-20260130-p5ny7i.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Nine sells 2GB, 3AW to publican, buys outdoor media firm for $850m",
+      "content_html": "Chief executive Matt Stanton has reshaped the company, following the sale of Domain by shedding radio assets and buying outdoor ad company QMS.",
+      "content_text": "Chief executive Matt Stanton has reshaped the company, following the sale of Domain by shedding radio assets and buying outdoor ad company QMS.",
+      "date_published": "2026-01-29T21:42:58.000Z"
+    },
+    {
+      "id": "9e3a6cd5-4b17-4ba3-b917-bf70c63747ef",
+      "url": "https://www.smh.com.au/world/north-america/man-with-pizza-cutter-impersonates-fbi-agent-in-bid-to-get-luigi-mangione-out-of-jail-20260130-p5ny7n.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man with pizza cutter impersonates FBI agent in bid to get Luigi Mangione out of jail",
+      "content_html": "When the officers asked for his credentials, the man allegedly showed the officers a Minnesota driver’s licence, threw numerous documents at them and claimed to have weapons.",
+      "content_text": "When the officers asked for his credentials, the man allegedly showed the officers a Minnesota driver’s licence, threw numerous documents at them and claimed to have weapons.",
+      "date_published": "2026-01-29T21:36:51.000Z"
+    },
+    {
       "id": "11089ab5-64d7-40e3-b837-27d4e178b9ce",
       "url": "https://www.smh.com.au/national/australia-on-high-alert-for-nipah-virus-cases-20260130-p5ny7q.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Australia on high alert for Nipah virus cases",
