@@ -6,12 +6,28 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo#7",
+      "url": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo?at_medium=RSS&at_campaign=rss",
+      "title": "Raducanu splits with coach after Australian Open exit",
+      "content_html": "British number one Emma Raducanu splits with coach Francis Roig after her exit from the Australian Open.",
+      "content_text": "British number one Emma Raducanu splits with coach Francis Roig after her exit from the Australian Open.",
+      "date_published": "2026-01-29T16:48:36.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c8rm20gm364o#0",
       "url": "https://www.bbc.com/news/articles/c8rm20gm364o?at_medium=RSS&at_campaign=rss",
       "title": "'I can breathe again' says Israeli hostage held for nearly 500 days in Gaza",
       "content_html": "In his first international interview, Sasha Troufanov tells the BBC how he thought he would die in captivity after he was taken hostage on 7 October 2023.",
       "content_text": "In his first international interview, Sasha Troufanov tells the BBC how he thought he would die in captivity after he was taken hostage on 7 October 2023.",
       "date_published": "2026-01-29T16:25:40.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cn42pnq5p8wo#1",
+      "url": "https://www.bbc.com/news/articles/cn42pnq5p8wo?at_medium=RSS&at_campaign=rss",
+      "title": "The stars and styles from Paris Haute Couture Fashion Week",
+      "content_html": "Fashion's finest gather in the French capital for a week of high-end designs and celebrity sightings.",
+      "content_text": "Fashion's finest gather in the French capital for a week of high-end designs and celebrity sightings.",
+      "date_published": "2026-01-29T16:24:47.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/czej969erepo#3",
@@ -142,6 +158,14 @@
       "date_published": "2026-01-29T13:02:57.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cqxyq74e5pjo#1",
+      "url": "https://www.bbc.com/news/articles/cqxyq74e5pjo?at_medium=RSS&at_campaign=rss",
+      "title": "Sir Jonathan Pryce revisits 'land of my fathers' in latest role",
+      "content_html": "A new drama series gave Sir Jonathan a chance to work near where his family is from in north Wales.",
+      "content_text": "A new drama series gave Sir Jonathan a chance to work near where his family is from in north Wales.",
+      "date_published": "2026-01-29T12:59:00.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c8e524n23rno#0",
       "url": "https://www.bbc.com/news/articles/c8e524n23rno?at_medium=RSS&at_campaign=rss",
       "title": "Emergency loans offered to civil servants waiting on pensions",
@@ -228,6 +252,14 @@
       "content_html": "Bridgerton is back, with Francesca on the hunt for sex tips and Benedict finally meeting his match.",
       "content_text": "Bridgerton is back, with Francesca on the hunt for sex tips and Benedict finally meeting his match.",
       "date_published": "2026-01-29T08:00:33.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/boxing/articles/cgqepvjjxkwo#1",
+      "url": "https://www.bbc.com/sport/boxing/articles/cgqepvjjxkwo?at_medium=RSS&at_campaign=rss",
+      "title": "How an inspiring home video launched a main event fighter",
+      "content_html": "How Francesca Hennessy - who headlines on BBC Two on Saturday - went from weight and dyslexia struggles to viral fame and in sight of a world-title shot.",
+      "content_text": "How Francesca Hennessy - who headlines on BBC Two on Saturday - went from weight and dyslexia struggles to viral fame and in sight of a world-title shot.",
+      "date_published": "2026-01-29T07:28:56.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/boxing/articles/cgqepvjjxkwo#7",
