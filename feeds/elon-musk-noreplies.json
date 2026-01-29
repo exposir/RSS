@@ -6,6 +6,30 @@
   "description": "Twitter @Elon Musk - Powered by RSSHub",
   "items": [
     {
+      "id": "https://twitter.com/elonmusk/status/2016924480728092892",
+      "url": "https://x.com/elonmusk/status/2016924480728092892",
+      "title": "Just another day in the UK",
+      "content_html": "Just another day in the UK<div class=\"rsshub-quote\"><br><br>Katie Miller: An Afghan national abducted the a 12 year old girl from a street before repeatedly raping her and taking photographs of the attack. <br><br>Just another day in the UK. <br><br>Open borders do not work. When will the UK wake up?<br><br><img width=\"1320\" height=\"911\" style=\"\" src=\"https://pbs.twimg.com/media/G_10VOFWcAENGIX?format=jpg&name=orig\" referrerpolicy=\"no-referrer\"></div>",
+      "content_text": "Just another day in the UKKatie Miller: An Afghan national abducted the a 12 year old girl from a street before repeatedly raping her and taking photographs of the attack. Just another day in the UK. Open borders do not work. When will the UK wake up?",
+      "date_published": "2026-01-29T17:20:43.000Z"
+    },
+    {
+      "id": "https://twitter.com/elonmusk/status/2016922321060032740",
+      "url": "https://x.com/elonmusk/status/2016922321060032740",
+      "title": "🎶 All my X’s live in Texas 🎶",
+      "content_html": "🎶 All my X’s live in Texas 🎶",
+      "content_text": "🎶 All my X’s live in Texas 🎶",
+      "date_published": "2026-01-29T17:12:08.000Z"
+    },
+    {
+      "id": "https://twitter.com/elonmusk/status/2016924047821414525",
+      "url": "https://x.com/elonmusk/status/2016924047821414525",
+      "title": "RT Déborah: Scene created with Grok Imagine's new model, featuring sequences up to 15 seconds long. The soundtrack is the one provided by Grok Imagin...",
+      "content_html": "RT Déborah<br>Scene created with Grok Imagine's new model, featuring sequences up to 15 seconds long.<br>The soundtrack is the one provided by Grok Imagine without any alterations.<br><video width=\"2048\" height=\"1356\" src=\"https://video.twimg.com/amplify_video/2016921288560771074/vid/avc1/3262x2160/wGewTMqNcYv4lJte.mp4?tag=21\" controls=\"controls\" poster=\"https://pbs.twimg.com/amplify_video_thumb/2016921288560771074/img/fgsRvy81n9e3jQ-c.jpg\"></video>",
+      "content_text": "RT DéborahScene created with Grok Imagine's new model, featuring sequences up to 15 seconds long.The soundtrack is the one provided by Grok Imagine without any alterations.",
+      "date_published": "2026-01-29T17:08:44.000Z"
+    },
+    {
       "id": "https://twitter.com/elonmusk/status/2016890970483069360",
       "url": "https://x.com/elonmusk/status/2016890970483069360",
       "title": "RT @techdevnotes: xAI now has Docs on Video and Image generations and edits",

@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "6868a709-72c6-4890-8f89-70e07f338130",
+      "url": "https://www.smh.com.au/sport/cricket/zampa-four-fer-can-t-save-australia-in-t20-pakistan-defeat-20260130-p5ny6k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Zampa four-fer can’t save Australia’s makeshift crew in T20 Pakistan defeat",
+      "content_html": "It was left to the evergreen spinner to spearhead the push of a shadow side featuring three newcomers and without a host of top names. It wasn’t enough.",
+      "content_text": "It was left to the evergreen spinner to spearhead the push of a shadow side featuring three newcomers and without a host of top names. It wasn’t enough.",
+      "date_published": "2026-01-29T17:00:00.000Z"
+    },
+    {
       "id": "73007808-7217-4759-81c8-2906b508663a",
       "url": "https://www.smh.com.au/world/asia/the-2027-question-will-xi-jinping-annexe-taiwan-this-soon-or-not-20260112-p5nth7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "The 2027 question: Will Xi Jinping annexe Taiwan this soon, or not?",

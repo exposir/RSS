@@ -6,6 +6,54 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/michael-burry-talks-up-gamestop-in-a-week-defined-by-texas-ice-snow",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/michael-burry-talks-up-gamestop-in-a-week-defined-by-texas-ice-snow",
+      "title": "Michael Burry Talks Up GameStop in a Week Defined by Texas Ice, Snow",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T17:30:27.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/ice-to-draw-down-in-minn-government-closer-to-shutdown-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/ice-to-draw-down-in-minn-government-closer-to-shutdown-more",
+      "title": "ICE to Draw Down in Minn, Government Closer to Shutdown, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T17:29:21.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/the-david-rubenstein-show-anish-shah-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/the-david-rubenstein-show-anish-shah-podcast",
+      "title": "The David Rubenstein Show: Anish Shah (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T17:16:56.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/blackstone-backed-liftoff-mobile-seeks-762-million-in-us-ipo",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/blackstone-backed-liftoff-mobile-seeks-762-million-in-us-ipo",
+      "title": "Blackstone-Backed Liftoff Mobile Seeks $762 Million in US IPO",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T17:05:48.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/ex-blackrock-investors-join-hudson-bay-for-private-credit-push",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/ex-blackrock-investors-join-hudson-bay-for-private-credit-push",
+      "title": "Ex-BlackRock Investors Join Hudson Bay for Private Credit Push",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T17:00:32.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/deutsche-bank-s-record-profits-clouded-by-raid",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/deutsche-bank-s-record-profits-clouded-by-raid",
+      "title": "Deutsche Bank’s Record Profits Clouded by Raid",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T17:00:27.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/julian-harris-starmer-embraces-chinese-elephants-and-horses",
       "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/julian-harris-starmer-embraces-chinese-elephants-and-horses",
       "title": "Julian Harris: Starmer Embraces Chinese Elephants and Horses",

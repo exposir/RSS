@@ -6,6 +6,38 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/us/man-accused-of-squirting-ilhan-omar-with-vinegar-is-charged-with-assault.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/man-accused-of-squirting-ilhan-omar-with-vinegar-is-charged-with-assault.html",
+      "title": "Man Accused of Squirting Ilhan Omar with Vinegar Is Charged With Assault",
+      "content_html": "Ms. Omar was sprayed with liquid from a syringe as she spoke at a town hall and called for the resignation of Kristi Noem, who leads the Homeland Security Department.",
+      "content_text": "Ms. Omar was sprayed with liquid from a syringe as she spoke at a town hall and called for the resignation of Kristi Noem, who leads the Homeland Security Department.",
+      "date_published": "2026-01-29T17:10:29.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/democrats-governors-trump-minneapolis.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/democrats-governors-trump-minneapolis.html",
+      "title": "Democratic Governors Promise Accountability After Alex Pretti Killing",
+      "content_html": "The chin-out rhetoric of Democratic governors about holding Trump administration officials responsible for violence in their cities may be more political than practicable.",
+      "content_text": "The chin-out rhetoric of Democratic governors about holding Trump administration officials responsible for violence in their cities may be more political than practicable.",
+      "date_published": "2026-01-29T16:59:54.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/well/parents-vaccines.html",
+      "url": "https://www.nytimes.com/2026/01/29/well/parents-vaccines.html",
+      "title": "Parents Navigate a Fracturing Vaccine Landscape",
+      "content_html": "Rattled by the C.D.C.’s actions and the spread of measles, some parents are scrambling to figure out how to best protect their children.",
+      "content_text": "Rattled by the C.D.C.’s actions and the spread of measles, some parents are scrambling to figure out how to best protect their children.",
+      "date_published": "2026-01-29T16:57:53.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/climate/why-a-new-mexico-developer-quit-natural-gas.html",
+      "url": "https://www.nytimes.com/2026/01/29/climate/why-a-new-mexico-developer-quit-natural-gas.html",
+      "title": "Why a New Mexico Developer Quit Natural Gas",
+      "content_html": "For John Moscato, a land developer in Las Cruces, N.M., installing gas lines at new home sites was “an ongoing headache.” Ditching gas saved him money.",
+      "content_text": "For John Moscato, a land developer in Las Cruces, N.M., installing gas lines at new home sites was “an ongoing headache.” Ditching gas saved him money.",
+      "date_published": "2026-01-29T16:52:39.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/opinion/truump-ice-minnesota-noem-miller.html",
       "url": "https://www.nytimes.com/2026/01/29/opinion/truump-ice-minnesota-noem-miller.html",
       "title": "Trump’s Lies Have a Purpose",
@@ -20,6 +52,22 @@
       "content_html": "The deputy, Sean Grayson, was convicted of second-degree murder for killing Ms. Massey in 2024 at her home in Springfield, Ill., after she had called 911.",
       "content_text": "The deputy, Sean Grayson, was convicted of second-degree murder for killing Ms. Massey in 2024 at her home in Springfield, Ill., after she had called 911.",
       "date_published": "2026-01-29T16:24:21.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
+      "url": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
+      "title": "How the A.I. Boom Could Push Up the Price of Your Next PC",
+      "content_html": "A.I. companies are buying up memory chips, causing the prices of those components — which are also used in laptops and smartphones — to soar.",
+      "content_text": "A.I. companies are buying up memory chips, causing the prices of those components — which are also used in laptops and smartphones — to soar.",
+      "date_published": "2026-01-29T16:13:37.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
+      "url": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
+      "title": "Amazon and Google Eat Into Nvidia’s A.I. Chip Supremacy",
+      "content_html": "The rivals made billions of dollars in the business over the past year, showing other companies that Nvidia isn’t the only game in town.",
+      "content_text": "The rivals made billions of dollars in the business over the past year, showing other companies that Nvidia isn’t the only game in town.",
+      "date_published": "2026-01-29T16:12:58.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/weather/winter-storm-weekend-forecast-snow.html",
@@ -116,6 +164,14 @@
       "content_html": "The Trump Justice Department has often cast aside normal procedures intended to seek accountability in favor of pushing prosecutors and the F.B.I. to focus on critics of the immigration crackdown.",
       "content_text": "The Trump Justice Department has often cast aside normal procedures intended to seek accountability in favor of pushing prosecutors and the F.B.I. to focus on critics of the immigration crackdown.",
       "date_published": "2026-01-29T12:51:47.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/summer-boismier-oklahoma-book-ban-protest.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/summer-boismier-oklahoma-book-ban-protest.html",
+      "title": "She Protested a Book Ban. Oklahoma Revoked Her Teacher’s License.",
+      "content_html": "Summer Boismier, a high school English teacher in Oklahoma,  lost her teaching license after she protested a book ban. Now she is fighting to return to the classroom.",
+      "content_text": "Summer Boismier, a high school English teacher in Oklahoma,  lost her teaching license after she protested a book ban. Now she is fighting to return to the classroom.",
+      "date_published": "2026-01-29T12:49:39.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/opinion/jay-bhattacharya-public-health-covid-trust.html",

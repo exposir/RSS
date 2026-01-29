@@ -6,6 +6,22 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "SB11930060785218553820404592646062824056598",
+      "url": "https://www.wsj.com/opinion/britain-seems-committed-to-stagnation-c33e5004",
+      "title": "Britain Seems Committed to Stagnation",
+      "content_html": "The economy is flailing, and no one in the political class has a coherent agenda to revive it.",
+      "content_text": "The economy is flailing, and no one in the political class has a coherent agenda to revive it.",
+      "date_published": "2026-01-29T17:20:00.000Z"
+    },
+    {
+      "id": "SB10381197850595854896404592646552455560414",
+      "url": "https://www.wsj.com/opinion/the-worlds-worst-budget-process-24d0dc39",
+      "title": "The World&#x2019;s Worst Budget Process",
+      "content_html": "Congress clings to a failed system that produces massive deficits and frequent shutdowns.",
+      "content_text": "Congress clings to a failed system that produces massive deficits and frequent shutdowns.",
+      "date_published": "2026-01-29T17:19:00.000Z"
+    },
+    {
       "id": "SB11930060785218553820404592645911327988578",
       "url": "https://www.wsj.com/opinion/jack-smith-a-rabid-wolf-for-a-special-counsel-332fe35f",
       "title": "Jack Smith, a &#x2018;Rabid Wolf&#x2019; for a Special Counsel",

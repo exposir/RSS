@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46810282",
+      "url": "https://marginlab.ai/trackers/claude-code/",
+      "title": "Claude Code Daily Benchmarks for Degradation Tracking",
+      "content_html": "<p>Article URL: <a href=\"https://marginlab.ai/trackers/claude-code/\">https://marginlab.ai/trackers/claude-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810282\">https://news.ycombinator.com/item?id=46810282</a></p>\n<p>Points: 239</p>\n<p># Comments: 123</p>",
+      "content_text": "Article URL: https://marginlab.ai/trackers/claude-code/\nComments URL: https://news.ycombinator.com/item?id=46810282\nPoints: 239\n# Comments: 123",
+      "date_published": "2026-01-29T13:59:07.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46809069",
       "url": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
       "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
