@@ -243,16 +243,30 @@ export default function RSSReader() {
             <div className="p-4 border-b border-border space-y-3">
               <div className="flex items-center justify-between">
                 <h2 className="font-semibold text-lg truncate pr-2">{selectedFeedName}</h2>
-                <Button
-                  variant="outline"
-                  size="sm"
-                  onClick={loadAllFeeds}
-                  disabled={loading}
-                  className="h-8"
-                >
-                  <RotateCw className={cn("h-3.5 w-3.5 mr-2", loading && "animate-spin")} />
-                  {loading ? `${loadedCount}/${feedIndex.length}` : "刷新"}
-                </Button>
+                <div className="flex items-center gap-2">
+                  <Button
+                    variant="ghost"
+                    size="sm"
+                    className="h-8 text-muted-foreground"
+                    onClick={() => {
+                      try { localStorage.clear() } catch (e) {}
+                      window.location.reload()
+                    }}
+                    title="重置布局"
+                  >
+                    重置
+                  </Button>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={loadAllFeeds}
+                    disabled={loading}
+                    className="h-8"
+                  >
+                    <RotateCw className={cn("h-3.5 w-3.5 mr-2", loading && "animate-spin")} />
+                    {loading ? `${loadedCount}/${feedIndex.length}` : "刷新"}
+                  </Button>
+                </div>
               </div>
               <div className="relative">
                 <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
