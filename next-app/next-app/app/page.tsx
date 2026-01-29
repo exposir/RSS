@@ -145,7 +145,7 @@ export default function RSSReader() {
           defaultSize={20}
           minSize={15}
           maxSize={30}
-          className="border-r border-border hidden md:block min-w-[220px]"
+          className="border-r border-border hidden md:block"
         >
           <div className="flex flex-col h-full">
             <div className="p-4 border-b border-border flex items-center justify-between">
@@ -154,6 +154,12 @@ export default function RSSReader() {
             </div>
             <ScrollArea className="flex-1">
               <div className="p-2 space-y-1">
+                {/* Error State */}
+                {error && (
+                  <div className="p-2 mb-2 text-xs text-destructive bg-destructive/10 rounded">
+                    加载错误: {error}
+                  </div>
+                )}
                 {/* Special Filters */}
                 <Button
                   variant={selectedFeed === 'today' ? "secondary" : "ghost"}
