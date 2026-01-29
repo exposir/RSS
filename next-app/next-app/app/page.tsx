@@ -141,7 +141,12 @@ export default function RSSReader() {
       <ResizablePanelGroup direction="horizontal" className="flex-1 h-full items-stretch">
 
         {/* LEFT COLUMN: Feeds List */}
-        <ResizablePanel defaultSize={20} minSize={15} maxSize={25} className="border-r border-border hidden md:block">
+        <ResizablePanel
+          defaultSize={20}
+          minSize={15}
+          maxSize={30}
+          className="border-r border-border hidden md:block min-w-[220px]"
+        >
           <div className="flex flex-col h-full">
             <div className="p-4 border-b border-border flex items-center justify-between">
               <h2 className="font-semibold">订阅源</h2>
