@@ -12,8 +12,10 @@
   },
   "dependencies": {
     "@extractus/feed-extractor": "^7.0.0",
+    "@radix-ui/react-dropdown-menu": "^2.1.16",
     "fast-xml-parser": "^5.3.3",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "next-themes": "^0.4.6"
   },
   "devDependencies": {
     "vitepress": "^1.6.4",

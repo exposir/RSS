@@ -8,6 +8,7 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Separator } from '@/components/ui/separator'
 import { Badge } from '@/components/ui/badge'
+import { ThemeToggle } from '@/components/theme-toggle'
 import { useFeeds, Article } from '@/hooks/useFeeds'
 import { useMediaQuery } from '@/hooks/use-media-query'
 import { cn } from '@/lib/utils'
@@ -298,6 +299,7 @@ export default function RSSReader() {
               <div className="flex items-center justify-between">
                 <h2 className="font-semibold text-lg truncate pr-2">{selectedFeedName}</h2>
                 <div className="flex items-center gap-2">
+                  <ThemeToggle />
                   <Button
                     variant="ghost"
                     size="sm"

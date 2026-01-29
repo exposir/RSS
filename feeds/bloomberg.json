@@ -6,6 +6,30 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/julian-harris-starmer-embraces-chinese-elephants-and-horses",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/julian-harris-starmer-embraces-chinese-elephants-and-horses",
+      "title": "Julian Harris: Starmer Embraces Chinese Elephants and Horses",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T16:57:17.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/goldman-sachs-jpmorgan-show-jumps-in-pay-bonuses-as-banks-match-trump-accounts",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/goldman-sachs-jpmorgan-show-jumps-in-pay-bonuses-as-banks-match-trump-accounts",
+      "title": "Goldman and JPMorgan Bosses Get Raises Amid Battle for Dominance",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T16:48:06.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-surveillance-tv-january-29th-2026-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-surveillance-tv-january-29th-2026-podcast",
+      "title": "Bloomberg Surveillance TV: January 29th, 2026 (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T16:47:39.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-29/ai-spend-worries-drag-stocks-ice-to-dial-back-in-minn-more",
       "url": "https://www.bloomberg.com/news/audio/2026-01-29/ai-spend-worries-drag-stocks-ice-to-dial-back-in-minn-more",
       "title": "AI Spend Worries Drag Stocks, ICE to Dial Back in Minn., More",
@@ -52,6 +76,14 @@
       "content_html": "",
       "content_text": "",
       "date_published": "2026-01-29T15:14:39.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/stocks-trading-boom-spurs-rbc-spree-of-new-equities-hires",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/stocks-trading-boom-spurs-rbc-spree-of-new-equities-hires",
+      "title": "RBC Goes on Hiring Spree to Boost Equities-Trading Division",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T14:54:59.000Z"
     },
     {
       "id": "https://www.bloomberg.com/news/audio/2026-01-29/stocks-open-mixed-homan-wants-targeted-mn-operations-more",

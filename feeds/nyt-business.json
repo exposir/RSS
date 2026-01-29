@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/business/snap-benefits-food-stamps-rules-health.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/snap-benefits-food-stamps-rules-health.html",
+      "title": "New Food Stamp Rules Are Confusing Grocery Stores and Consumers",
+      "content_html": "A dizzying array of rules govern what can be bought with SNAP dollars, confusing grocery stores and consumers.",
+      "content_text": "A dizzying array of rules govern what can be bought with SNAP dollars, confusing grocery stores and consumers.",
+      "date_published": "2026-01-29T16:55:38.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
       "url": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
       "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",
