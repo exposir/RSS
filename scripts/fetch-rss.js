@@ -187,7 +187,7 @@ async function main() {
   console.log(`读取到 ${feeds.length} 个订阅源`);
 
   // 并发限制
-  const CONCURRENCY = 10;
+  const CONCURRENCY = 3;
   let running = 0;
   let index = 0;
   const results = [];
