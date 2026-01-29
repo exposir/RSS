@@ -291,7 +291,7 @@ export default function RSSReader() {
           id="middle-panel"
           defaultSize={isDesktop ? "30" : "100"}
           minSize="20"
-          className={cn("border-r border-border", !isDesktop && "w-full border-none")}
+          className={cn("border-r border-border overflow-hidden", !isDesktop && "w-full border-none")}
         >
           <div className="flex flex-col h-full">
             <div className="p-4 border-b border-border space-y-3">
@@ -376,7 +376,7 @@ export default function RSSReader() {
         {isDesktop && (
           <>
             <ResizableHandle />
-            <ResizablePanel id="right-panel" defaultSize="50" className="bg-background">
+            <ResizablePanel id="right-panel" defaultSize="50" className="bg-background overflow-hidden">
               {selectedArticle ? (
                 <div className="flex flex-col h-full">
                   <div className="p-6 border-b border-border">
