@@ -170,6 +170,7 @@ export default function RSSReader() {
               defaultSize={20}
               minSize={15}
               maxSize={30}
+              collapsible={false}
               className="border-r border-border"
             >
               <div className="flex flex-col h-full">
