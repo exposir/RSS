@@ -221,9 +221,9 @@ export default function RSSReader() {
           <>
             <ResizablePanel
               id="left-panel"
-              defaultSize={20}
-              minSize={18}
-              maxSize={35}
+              defaultSize="20"
+              minSize="15"
+              maxSize="35"
               collapsible={false}
               className="border-r border-border overflow-hidden"
             >
@@ -289,8 +289,8 @@ export default function RSSReader() {
         {/* MIDDLE COLUMN: Article List */}
         <ResizablePanel
           id="middle-panel"
-          defaultSize={isDesktop ? 30 : 100}
-          minSize={100}
+          defaultSize={isDesktop ? "30" : "100"}
+          minSize="20"
           className={cn("border-r border-border", !isDesktop && "w-full border-none")}
         >
           <div className="flex flex-col h-full">
@@ -376,7 +376,7 @@ export default function RSSReader() {
         {isDesktop && (
           <>
             <ResizableHandle />
-            <ResizablePanel id="right-panel" defaultSize={50} className="bg-background">
+            <ResizablePanel id="right-panel" defaultSize="50" className="bg-background">
               {selectedArticle ? (
                 <div className="flex flex-col h-full">
                   <div className="p-6 border-b border-border">
