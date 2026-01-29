@@ -17,6 +17,46 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189353",
+      "url": "https://www.v2ex.com/t/1189353#reply0",
+      "title": "[问与答] 有没有好用的 UI 设计 AI 推荐",
+      "content_html": "因为预算有限 没有专业 UI 老板又想要高大上的界面<br />大佬们有没有用过好用的 UI 网页设计 AI",
+      "content_text": "因为预算有限 没有专业 UI 老板又想要高大上的界面大佬们有没有用过好用的 UI 网页设计 AI",
+      "date_published": "2026-01-29T11:33:46.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189350",
+      "url": "https://www.v2ex.com/t/1189350#reply1",
+      "title": "[NAS] 今天 ESXi ALL-IN-BOOM 了",
+      "content_html": "<p>早上一到公司，例行远程 rdp 家里虚拟 windows ，发现进不去了。\n查看探针，果然家里 ESXi 下面的两台虚拟 debian 都处于失联状态。\n早上老婆吩咐我把家里电脑打开，她上午准备在家办公。我把电脑打开后就上班去了。\n我打电话回去，问她家里的网络怎么了。\n她说家里冷，就把取暖器插到一个空闲的三芯插座上去，结果 UPS 嘀嘀叫起来了，她就慌忙把绿色的闪烁按钮按了一下，ups 就不叫了,就这么一回事。\n我查了一下，BK650M2 ups 功率最大 390W ，艾美特踢脚线取暖器 HD22-R41U 功率 2200W ，把这么大功率的电器插到我 ups 上面，还手动关了 ups 电源，我正在运行的 ESXi 咋办，里面跑的虚拟机还不瞬间灰飞烟灭？\n欲哭无泪，女人真可怕。</p>",
+      "content_text": "早上一到公司，例行远程 rdp 家里虚拟 windows ，发现进不去了。\n查看探针，果然家里 ESXi 下面的两台虚拟 debian 都处于失联状态。\n早上老婆吩咐我把家里电脑打开，她上午准备在家办公。我把电脑打开后就上班去了。\n我打电话回去，问她家里的网络怎么了。\n她说家里冷，就把取暖器插到一个空闲的三芯插座上去，结果 UPS 嘀嘀叫起来了，她就慌忙把绿色的闪烁按钮按了一下，ups 就不叫了,就这么一回事。\n我查了一下，BK650M2 ups 功率最大 390W ，艾美特踢脚线取暖器 HD22-R41U 功率 2200W ，把这么大功率的电器插到我 ups 上面，还手动关了 ups 电源，我正在运行的 ESXi 咋办，里面跑的虚拟机还不瞬间灰飞烟灭？\n欲哭无泪，女人真可怕。",
+      "date_published": "2026-01-29T11:03:29.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189349",
+      "url": "https://www.v2ex.com/t/1189349#reply7",
+      "title": "[程序员] cursor 读取三方 jar 包的文件竟然是解压缩？",
+      "content_html": "我想让 AI 分析一下第三方 jar 包提供的一个类每次都 new 会不会造成内存泄漏，但是我发现无法把这个类添加到 cursor 对话框里。<br /><br />最后我指明了这个类的名称发给 cursor ，它竟然把这个 jar 包解压缩到了我项目路径下再去做分析，并且分析完剩下的 tmp 文件都留着。。。。<br /><br />有没有其他更优雅的办法呢？",
+      "content_text": "我想让 AI 分析一下第三方 jar 包提供的一个类每次都 new 会不会造成内存泄漏，但是我发现无法把这个类添加到 cursor 对话框里。最后我指明了这个类的名称发给 cursor ，它竟然把这个 jar 包解压缩到了我项目路径下再去做分析，并且分析完剩下的 tmp 文件都留着。。。。有没有其他更优雅的办法呢？",
+      "date_published": "2026-01-29T10:52:35.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189348",
+      "url": "https://www.v2ex.com/t/1189348#reply2",
+      "title": "[上海] 铁铁们，硬中华你们那边多少钱一条",
+      "content_html": "大一点烟酒店会卖假货吗，第一次买没经验，买来送人的",
+      "content_text": "大一点烟酒店会卖假货吗，第一次买没经验，买来送人的",
+      "date_published": "2026-01-29T10:52:25.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189347",
+      "url": "https://www.v2ex.com/t/1189347#reply0",
+      "title": "[Google Gemini] Gemini for chrome 出来了",
+      "content_html": "X 上出现在了很多教程，看了看想把 ChatGPT 换成 Gemini 了，有体验过的老哥吗？",
+      "content_text": "X 上出现在了很多教程，看了看想把 ChatGPT 换成 Gemini 了，有体验过的老哥吗？",
+      "date_published": "2026-01-29T10:52:05.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-29:/t/1189345",
       "url": "https://www.v2ex.com/t/1189345#reply1",
       "title": "[程序员] 想问下大家 claude code 如果没有用官方付费模型的话，可以用 agent skills 功能吗？",

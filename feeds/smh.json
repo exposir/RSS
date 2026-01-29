@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "f134864a-775e-4202-9d1e-e9fa1f1eb761",
+      "url": "https://www.smh.com.au/sport/tennis/scintillating-sabalenka-matches-hingis-in-reaching-fourth-australian-open-final-in-a-row-20260129-p5ny61.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘She really pissed me off’: Sabalenka’s motivation in crushing win over Ukrainian star",
+      "content_html": "Despite at one stage being warned by the chair umpire for hindering her opponent with a late grunt, world No.1 Aryna Sabalenka stormed her way into another final.",
+      "content_text": "Despite at one stage being warned by the chair umpire for hindering her opponent with a late grunt, world No.1 Aryna Sabalenka stormed her way into another final.",
+      "date_published": "2026-01-29T11:32:37.000Z"
+    },
+    {
+      "id": "bd319925-7782-4dc8-a666-57786e85bbda",
+      "url": "https://www.smh.com.au/politics/federal/best-of-cartoons-january-30-2026-20260129-p5ny3v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Best of cartoons, January 30, 2026",
+      "content_html": "The news of the day as interpreted by our talented artists, illustrators and cartoonists.",
+      "content_text": "The news of the day as interpreted by our talented artists, illustrators and cartoonists.",
+      "date_published": "2026-01-29T11:17:17.000Z"
+    },
+    {
+      "id": "e18a3d5e-473e-46ef-8eb1-78d05caae8eb",
+      "url": "https://www.smh.com.au/sport/nrl/standout-2025-dolphin-who-needed-two-needles-a-game-among-players-facing-nrl-exile-20260129-p5nxz6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Standout 2025 Dolphin who needed two needles a game among players facing NRL exile",
+      "content_html": "These players have all proven they are up to NRL standard, but face being casualty of selection squeezes at their own clubs.",
+      "content_text": "These players have all proven they are up to NRL standard, but face being casualty of selection squeezes at their own clubs.",
+      "date_published": "2026-01-29T11:13:33.000Z"
+    },
+    {
+      "id": "dcf05a56-d0bf-4f8e-b857-7e0d4fdbae90",
+      "url": "https://www.smh.com.au/national/queensland/police-probed-love-triangle-in-murder-case-court-told-20260129-p5ny68.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Police probed love triangle in murder case, court told",
+      "content_html": "A man accused of murder denied to police he knew the woman he was in a relationship with also hooked up with the alleged victim, a magistrate has heard.",
+      "content_text": "A man accused of murder denied to police he knew the woman he was in a relationship with also hooked up with the alleged victim, a magistrate has heard.",
+      "date_published": "2026-01-29T11:08:13.000Z"
+    },
+    {
+      "id": "6a1ee88b-45c8-415d-99dd-e7200cc9848a",
+      "url": "https://www.smh.com.au/sport/tennis/rybakina-takes-set-in-dominant-fashion-20260129-p5ny69.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rybakina takes set in dominant fashion",
+      "content_html": "Elena Rybakina wins the first set against Jessica Pegula.",
+      "content_text": "Elena Rybakina wins the first set against Jessica Pegula.",
+      "date_published": "2026-01-29T11:06:48.000Z"
+    },
+    {
       "id": "f179452a-eb17-4318-bb7c-4db11115dd1d",
       "url": "https://www.smh.com.au/national/emergency-level-fire-damages-property-in-perth-s-north-20260129-p5ny65.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Emergency-level fire damages property in Perth’s north",

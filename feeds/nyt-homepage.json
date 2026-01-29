@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",
+      "title": "Netanyahu Vows to Cut Israel’s Reliance on U.S. Military Aid",
+      "content_html": "Prime Minister Benjamin Netanyahu blamed some soldiers’ deaths in the Gaza war on a lack of ammunition caused by a pause in American weapon deliveries during President Biden’s term.",
+      "content_text": "Prime Minister Benjamin Netanyahu blamed some soldiers’ deaths in the Gaza war on a lack of ammunition caused by a pause in American weapon deliveries during President Biden’s term.",
+      "date_published": "2026-01-29T10:30:19.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/weather/winter-storm-weekend-forecast-ice-snow.html",
+      "url": "https://www.nytimes.com/2026/01/29/weather/winter-storm-weekend-forecast-ice-snow.html",
+      "title": "3 Things to Know About the Next Winter Storm",
+      "content_html": "It’s not likely to be as widespread as the last storm, but it could be unwelcome to people still facing piles of snow. Here’s what we know so far.",
+      "content_text": "It’s not likely to be as widespread as the last storm, but it could be unwelcome to people still facing piles of snow. Here’s what we know so far.",
+      "date_published": "2026-01-29T10:06:01.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/opinion/ice-trump-good-pretti.html",
       "url": "https://www.nytimes.com/2026/01/29/opinion/ice-trump-good-pretti.html",
       "title": "Senator Tina Smith: My State Showed Courage. Will Republicans?",
@@ -20,6 +36,78 @@
       "content_html": "Jay Bhattacharya, the N.I.H. director, says authorities broke the public’s trust in the Covid era. Now it’s up to outsiders to restore it.",
       "content_text": "Jay Bhattacharya, the N.I.H. director, says authorities broke the public’s trust in the Covid era. Now it’s up to outsiders to restore it.",
       "date_published": "2026-01-29T10:05:05.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/maxim-naumov-2026-olympics-dc-plane-crash.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/maxim-naumov-2026-olympics-dc-plane-crash.html",
+      "title": "Maxim Naumov to Skate at 2026 Olympics After Parents’ Death in D.C. Plane Crash",
+      "content_html": "After his parents died in the midair collision over Washington, D.C., a year ago, Maxim Naumov struggled to put on his skates. Now he will compete for the United States at the Milan-Cortina Games.",
+      "content_text": "After his parents died in the midair collision over Washington, D.C., a year ago, Maxim Naumov struggled to put on his skates. Now he will compete for the United States at the Milan-Cortina Games.",
+      "date_published": "2026-01-29T10:04:32.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/arts/design/shakers-ica-philadelphia.html",
+      "url": "https://www.nytimes.com/2026/01/29/arts/design/shakers-ica-philadelphia.html",
+      "title": "The Shakers’ Utopian World Sees a Surge of Modern Interest",
+      "content_html": "A show at ICA Philadelphia joins a surge of Shaker-inspired projects: films, dances, a museum’s expansion. Refracted through new interpreters, Shaker culture bends, and twists.",
+      "content_text": "A show at ICA Philadelphia joins a surge of Shaker-inspired projects: films, dances, a museum’s expansion. Refracted through new interpreters, Shaker culture bends, and twists.",
+      "date_published": "2026-01-29T10:04:05.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/trump-lawsuits-tracker-takeaways.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/trump-lawsuits-tracker-takeaways.html",
+      "title": "What We Learned After Tracking Every Lawsuit Challenging Trump’s Policies",
+      "content_html": "President Trump’s agenda faced more than 600 lawsuits over the past year. In many cases, district court judges found his policies to be unlawful.",
+      "content_text": "President Trump’s agenda faced more than 600 lawsuits over the past year. In many cases, district court judges found his policies to be unlawful.",
+      "date_published": "2026-01-29T10:02:41.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/economy/manufacturing-factories-tariffs.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/economy/manufacturing-factories-tariffs.html",
+      "title": "Trump’s Trade Policies Sort Manufacturers Into Winners and Losers",
+      "content_html": "Tariffs have protected some companies, but more often they’ve hit the parts and materials many factories need to make finished goods.",
+      "content_text": "Tariffs have protected some companies, but more often they’ve hit the parts and materials many factories need to make finished goods.",
+      "date_published": "2026-01-29T10:02:13.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
+      "url": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
+      "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",
+      "content_html": "New discounts can make heat pumps go from a bad investment to a good idea.",
+      "content_text": "New discounts can make heat pumps go from a bad investment to a good idea.",
+      "date_published": "2026-01-29T10:01:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/taylor-rehmet-leigh-wambsganss-texas-election.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/taylor-rehmet-leigh-wambsganss-texas-election.html",
+      "title": "A State Senate Race in Texas Offers Republicans a Warning",
+      "content_html": "A State Senate runoff on Saturday in the Fort Worth suburbs will preview whether a backlash against conservative social policies will give Democrats a chance to gain.",
+      "content_text": "A State Senate runoff on Saturday in the Fort Worth suburbs will preview whether a backlash against conservative social policies will give Democrats a chance to gain.",
+      "date_published": "2026-01-29T10:00:46.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/trump-tps-haitians-health-care-job-losses.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/trump-tps-haitians-health-care-job-losses.html",
+      "title": "TPS Expiration Under Trump Hits Haitian Workers in Critical Health Care Roles",
+      "content_html": "Haitians are a vital source of employees for health care providers in many communities. The Trump administration is removing legal status next month for 330,000 of them.",
+      "content_text": "Haitians are a vital source of employees for health care providers in many communities. The Trump administration is removing legal status next month for 330,000 of them.",
+      "date_published": "2026-01-29T10:00:36.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/economy/tariffs-rugs-loloi.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/economy/tariffs-rugs-loloi.html",
+      "title": "A Rug Maker Withstood One Year of Trump’s Tariffs. New Challenges Loom.",
+      "content_html": "Loloi stockpiled rugs from India, Turkey and other countries in advance, but inventory is running low.",
+      "content_text": "Loloi stockpiled rugs from India, Turkey and other countries in advance, but inventory is running low.",
+      "date_published": "2026-01-29T10:00:26.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/nyregion/eric-adams-veto-override.html",
+      "url": "https://www.nytimes.com/2026/01/29/nyregion/eric-adams-veto-override.html",
+      "title": "Adams’s Parting Gift of 19 Vetoes Is Being Returned, With 17 Overrides",
+      "content_html": "The New York City Council is expected to overwhelmingly vote to create wage minimums for private security officers and lift the cap on street vendor licenses.",
+      "content_text": "The New York City Council is expected to overwhelmingly vote to create wage minimums for private security officers and lift the cap on street vendor licenses.",
+      "date_published": "2026-01-29T08:00:11.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/arts/television/late-night-ilhan-omar.html",
@@ -100,6 +188,14 @@
       "content_html": "Kevin Couch, who was announced as senior vice president of artistic programming less than two weeks ago, is the latest to leave since President Trump took control of the center last year.",
       "content_text": "Kevin Couch, who was announced as senior vice president of artistic programming less than two weeks ago, is the latest to leave since President Trump took control of the center last year.",
       "date_published": "2026-01-29T04:09:14.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html",
+      "title": "The Journey of a Group of Cuban Deportees Stuck at Guantánamo",
+      "content_html": "The tale illustrates how inefficient the ICE operation has been in the year since President Trump ordered the base to prepare for up to 30,000 “criminal aliens.”",
+      "content_text": "The tale illustrates how inefficient the ICE operation has been in the year since President Trump ordered the base to prepare for up to 30,000 “criminal aliens.”",
+      "date_published": "2026-01-29T03:55:32.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/us/politics/shooting-dhs-turmoil.html",
@@ -326,6 +422,14 @@
       "date_published": "2026-01-28T20:47:29.000Z"
     },
     {
+      "id": "https://www.nytimes.com/2026/01/28/us/minneapolis-native-americans.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/minneapolis-native-americans.html",
+      "title": "For Minneapolis’s Native Americans, a New Fight Echoes a Bitter History",
+      "content_html": "The crackdown on unauthorized immigrants is resonating deeply among the Dakota and other tribes, as residents confront what they call a federal occupation of their land.",
+      "content_text": "The crackdown on unauthorized immigrants is resonating deeply among the Dakota and other tribes, as residents confront what they call a federal occupation of their land.",
+      "date_published": "2026-01-28T20:16:12.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/climate/unions-sue-fema.html",
       "url": "https://www.nytimes.com/2026/01/28/climate/unions-sue-fema.html",
       "title": "Unions Sue FEMA Over Work Force Cuts They Say Threaten Readiness",
@@ -396,6 +500,14 @@
       "content_html": "U.S. and European officials say they have put three demands in front of the Iranians, including a permanent end to all enrichment of uranium.",
       "content_text": "U.S. and European officials say they have put three demands in front of the Iranians, including a permanent end to all enrichment of uranium.",
       "date_published": "2026-01-28T17:50:02.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/video/us/100000010669560/how-battlefield-tech-was-used-in-minneapolis.html",
+      "url": "https://www.nytimes.com/video/us/100000010669560/how-battlefield-tech-was-used-in-minneapolis.html",
+      "title": "How Battlefield Tech Was Used in Minneapolis",
+      "content_html": "Our reporter Thomas Gibbons-Neff, who deployed twice to Afghanistan as a Marine and later was our Kabul bureau chief, looks at the battlefield technology used for an immigration arrest at a home in Minneapolis.",
+      "content_text": "Our reporter Thomas Gibbons-Neff, who deployed twice to Afghanistan as a Marine and later was our Kabul bureau chief, looks at the battlefield technology used for an immigration arrest at a home in Minneapolis.",
+      "date_published": "2026-01-28T17:46:06.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",

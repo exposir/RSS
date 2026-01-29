@@ -6,6 +6,14 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/economy/china-economy/article/3341532/ai-driving-seat-china-moves-rein-job-displacement-risks?utm_source=rss_feed",
+      "url": "https://www.scmp.com/economy/china-economy/article/3341532/ai-driving-seat-china-moves-rein-job-displacement-risks?utm_source=rss_feed",
+      "title": "With AI in the driving seat, China moves to rein in job displacement risks",
+      "content_html": "After testing Tesla’s driver assistance system FSD earlier this month, Chinese economist Ren Zeping exclaimed that autonomous driving’s large-scale real-world implementation was progressing much faster than he thought.\nThough driverless taxis are so far only being tested in designated areas in Chinese cities, he prophesied that autonomous driving would soon become widespread.\n“Autonomous driving will erupt in the next couple of years. Large models enable a unified driving paradigm, letting tens...",
+      "content_text": "After testing Tesla’s driver assistance system FSD earlier this month, Chinese economist Ren Zeping exclaimed that autonomous driving’s large-scale real-world implementation was progressing much faster than he thought.\nThough driverless taxis are so far only being tested in designated areas in Chinese cities, he prophesied that autonomous driving would soon become widespread.\n“Autonomous driving will erupt in the next couple of years. Large models enable a unified driving paradigm, letting tens...",
+      "date_published": "2026-01-29T11:00:11.000Z"
+    },
+    {
       "id": "https://www.scmp.com/economy/global-economy/article/3341698/eu-overtakes-us-chinas-top-source-trade-disputes-new-data-shows?utm_source=rss_feed",
       "url": "https://www.scmp.com/economy/global-economy/article/3341698/eu-overtakes-us-chinas-top-source-trade-disputes-new-data-shows?utm_source=rss_feed",
       "title": "EU overtakes US as China’s top source of trade disputes, new data shows",

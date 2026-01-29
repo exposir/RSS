@@ -6,6 +6,14 @@
   "description": "Deutsche Welle: DW-WORLD.DE",
   "items": [
     {
+      "id": "https://www.dw.com/zh/黄仁勋对h200中国订单获批表示乐观/a-75712526?maca=chi-rss-chi-all-1127-rdf",
+      "url": "https://www.dw.com/zh/黄仁勋对h200中国订单获批表示乐观/a-75712526?maca=chi-rss-chi-all-1127-rdf",
+      "title": "黄仁勋对H200中国订单获批表示乐观",
+      "content_html": "虽然几经周折，英伟达高性能芯片H200即将获得在中国销售的许可证。与此同时，美国国会对安全忧虑并未降低。",
+      "content_text": "虽然几经周折，英伟达高性能芯片H200即将获得在中国销售的许可证。与此同时，美国国会对安全忧虑并未降低。",
+      "date_published": "2026-01-29T11:14:00.000Z"
+    },
+    {
       "id": "https://www.dw.com/zh/金价持续走高是为何？前景如何？/a-75683058?maca=chi-rss-chi-all-1127-rdf",
       "url": "https://www.dw.com/zh/金价持续走高是为何？前景如何？/a-75683058?maca=chi-rss-chi-all-1127-rdf",
       "title": "金价持续走高是为何？前景如何？",

@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/greenland-trump-anxiety-american-turmoil.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/greenland-trump-anxiety-american-turmoil.html",
+      "title": "Greenlanders Watching Turmoil in the United States Say No Thanks",
+      "content_html": "The violence in Minneapolis and President Trump’s threats have soured Greenlanders on the United States and, unexpectedly, pushed them closer to Denmark.",
+      "content_text": "The violence in Minneapolis and President Trump’s threats have soured Greenlanders on the United States and, unexpectedly, pushed them closer to Denmark.",
+      "date_published": "2026-01-29T11:22:38.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",
       "url": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",
       "title": "Netanyahu Vows to Cut Israel’s Reliance on U.S. Military Aid",
