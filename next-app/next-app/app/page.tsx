@@ -33,9 +33,9 @@ export default function RSSReader() {
         if (savedLayout) {
           const layoutData = JSON.parse(savedLayout)
           // Check if the saved layout has a left panel that's too small
-          if (layoutData && Array.isArray(layoutData) && layoutData.length > 0) {
-            const firstPanelSize = layoutData[0]
-            if (typeof firstPanelSize === 'number' && firstPanelSize < 15) {
+          if (layoutData && typeof layoutData === 'object') {
+            const leftPanelSize = layoutData['left-panel']
+            if (typeof leftPanelSize === 'number' && leftPanelSize < 15) {
               console.log('Clearing corrupt layout data')
               localStorage.removeItem('rss-reader-layout')
             }
@@ -49,17 +49,42 @@ export default function RSSReader() {
   }, [isDesktop])
 
   // Monitor and protect layout to ensure left panel is not too small
-  const handleLayoutChange = (sizes: number[]) => {
-    if (isDesktop && sizes.length === 3) {
-      // Ensure left panel is at least 18% and no more than 35%
-      if (sizes[0] < 18) {
-        return
-      }
-      if (sizes[0] > 35) {
+  const handleLayoutChanged = (layout: { [id: string]: number }) => {
+    if (isDesktop && layout['left-panel']) {
+      // Ensure left panel is at least 18%
+      if (layout['left-panel'] < 18) {
+        console.warn('Left panel too small, skipping save')
         return
       }
     }
+    // Save to localStorage
+    if (typeof window !== 'undefined') {
+      try {
+        localStorage.setItem('rss-reader-layout', JSON.stringify(layout))
+      } catch (e) {
+        console.error('Error saving layout:', e)
+      }
+    }
   }
+
+  // Load default layout from localStorage
+  const [defaultLayout, setDefaultLayout] = useState<{ [id: string]: number } | undefined>(undefined)
+
+  useEffect(() => {
+    if (typeof window !== 'undefined' && isDesktop) {
+      try {
+        const savedLayout = localStorage.getItem('rss-reader-layout')
+        if (savedLayout) {
+          const layoutData = JSON.parse(savedLayout)
+          if (layoutData && typeof layoutData === 'object') {
+            setDefaultLayout(layoutData)
+          }
+        }
+      } catch (e) {
+        console.error('Error loading layout:', e)
+      }
+    }
+  }, [isDesktop])
 
   // Helper: check if date matches today/yesterday
   const isDateMatch = (dateStr: string, targetDate: Date) => {
@@ -185,8 +210,9 @@ export default function RSSReader() {
         key={isDesktop ? "desktop-layout" : "mobile-layout"}
         direction="horizontal"
         className="flex-1 h-full items-stretch"
-        autoSave={isDesktop ? "rss-reader-layout" : undefined}
-        onLayout={handleLayoutChange}
+        id="rss-reader-group"
+        defaultLayout={defaultLayout}
+        onLayoutChanged={handleLayoutChanged}
       >
 
         {/* LEFT COLUMN: Feeds List */}
