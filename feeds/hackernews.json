@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46805665",
+      "url": "https://web.mit.edu/jemorris/humor/500-miles",
+      "title": "We can't send mail farther than 500 miles (2002)",
+      "content_html": "<p>See also <a href=\"https://ibiblio.org/harris/500milemail-faq.html\" rel=\"nofollow\">https://ibiblio.org/harris/500milemail-faq.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46805665\">https://news.ycombinator.com/item?id=46805665</a></p>\n<p>Points: 276</p>\n<p># Comments: 30</p>",
+      "content_text": "See also https://ibiblio.org/harris/500milemail-faq.html\n\nComments URL: https://news.ycombinator.com/item?id=46805665\nPoints: 276\n# Comments: 30",
+      "date_published": "2026-01-29T03:58:33.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46803356",
       "url": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
       "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
@@ -20,6 +28,14 @@
       "content_html": "<p>Article URL: <a href=\"https://mahadk.com/posts/ai-skills-hub\">https://mahadk.com/posts/ai-skills-hub</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46803119\">https://news.ycombinator.com/item?id=46803119</a></p>\n<p>Points: 261</p>\n<p># Comments: 74</p>",
       "content_text": "Article URL: https://mahadk.com/posts/ai-skills-hub\nComments URL: https://news.ycombinator.com/item?id=46803119\nPoints: 261\n# Comments: 74",
       "date_published": "2026-01-28T23:16:12.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46802867",
+      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+      "title": "Tesla ending Models S and X production",
+      "content_html": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html\">https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46802867\">https://news.ycombinator.com/item?id=46802867</a></p>\n<p>Points: 255</p>\n<p># Comments: 411</p>",
+      "content_text": "Article URL: https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html\nComments URL: https://news.ycombinator.com/item?id=46802867\nPoints: 255\n# Comments: 411",
+      "date_published": "2026-01-28T22:53:54.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46802067",

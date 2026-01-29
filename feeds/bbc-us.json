@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cq8415jjw92o#0",
+      "url": "https://www.bbc.com/news/articles/cq8415jjw92o?at_medium=RSS&at_campaign=rss",
+      "title": "Santander to close 44 branches and put 291 jobs at risk",
+      "content_html": "The high-street lender is the latest to announce a swathe of branch closures.",
+      "content_text": "The high-street lender is the latest to announce a swathe of branch closures.",
+      "date_published": "2026-01-29T08:23:34.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/cx2k6rz20lno#7",
+      "url": "https://www.bbc.com/sport/tennis/articles/cx2k6rz20lno?at_medium=RSS&at_campaign=rss",
+      "title": "Serena Williams refuses to rule out comeback",
+      "content_html": "Serena Williams refuses to rule out returning to professional tennis after recently filing the necessary paperwork.",
+      "content_text": "Serena Williams refuses to rule out returning to professional tennis after recently filing the necessary paperwork.",
+      "date_published": "2026-01-29T08:01:38.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4g9g1119q2o#1",
+      "url": "https://www.bbc.com/news/articles/c4g9g1119q2o?at_medium=RSS&at_campaign=rss",
+      "title": "'Why can't women have experience?' New Bridgerton series tackles sex taboo",
+      "content_html": "Bridgerton is back, with Francesca on the hunt for sex tips and Benedict finally meeting his match.",
+      "content_text": "Bridgerton is back, with Francesca on the hunt for sex tips and Benedict finally meeting his match.",
+      "date_published": "2026-01-29T08:00:33.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/boxing/articles/cgqepvjjxkwo#7",
       "url": "https://www.bbc.com/sport/boxing/articles/cgqepvjjxkwo?at_medium=RSS&at_campaign=rss",
       "title": "How an inspiring home video launched a main event fighter",
@@ -52,6 +76,14 @@
       "content_html": "China executes 11 members of the Ming family that ran scam centres in Myanmar, state media report.",
       "content_text": "China executes 11 members of the Ming family that ran scam centres in Myanmar, state media report.",
       "date_published": "2026-01-29T04:19:34.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c620177qdg5o#3",
+      "url": "https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&at_campaign=rss",
+      "title": "Tesla cuts car models in shift to robots and AI",
+      "content_html": "Multi-billionaire Elon Musk's electric car maker also said its annual revenue had fallen for the first time.",
+      "content_text": "Multi-billionaire Elon Musk's electric car maker also said its annual revenue had fallen for the first time.",
+      "date_published": "2026-01-29T02:35:07.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c620177qdg5o#0",
@@ -238,6 +270,14 @@
       "date_published": "2026-01-28T22:48:52.000Z"
     },
     {
+      "id": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o#3",
+      "url": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch Benfica keeper score stoppage-time goal against Real Madrid",
+      "content_html": "Goalkeeper Anatoliy Trubin scores in the 98th minute to give Benfica a 4-2 win over Real Madrid - a goal which also secured Jose Mourinho's side a place in the last 16 play-offs of the Champions League on goal difference.",
+      "content_text": "Goalkeeper Anatoliy Trubin scores in the 98th minute to give Benfica a 4-2 win over Real Madrid - a goal which also secured Jose Mourinho's side a place in the last 16 play-offs of the Champions League on goal difference.",
+      "date_published": "2026-01-28T22:22:55.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o#7",
       "url": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o?at_medium=RSS&at_campaign=rss",
       "title": "Watch Benfica keeper score stoppage-time goal against Real Madrid",
@@ -268,6 +308,14 @@
       "content_html": "The US Secretary of State remained robustly on message when asked about the legality of Maduro's removal, plans for oil sales, and the future of Venezuela.",
       "content_text": "The US Secretary of State remained robustly on message when asked about the legality of Maduro's removal, plans for oil sales, and the future of Venezuela.",
       "date_published": "2026-01-28T21:05:52.000Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sounds/play/p0mxqlqr#5",
+      "url": "https://www.bbc.co.uk/sounds/play/p0mxqlqr?at_medium=RSS&at_campaign=rss",
+      "title": "Can Trump really “de-escalate” Minneapolis tensions following ICE shootings?",
+      "content_html": "And the president blames Democrat Ihan Omar after she was attacked",
+      "content_text": "And the president blames Democrat Ihan Omar after she was attacked",
+      "date_published": "2026-01-28T21:03:00.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cr57j47811yo#0",
@@ -308,6 +356,14 @@
       "content_html": "The behaviour during an event at a Cardiff pub raised \"significant\" concerns around student safety.",
       "content_text": "The behaviour during an event at a Cardiff pub raised \"significant\" concerns around student safety.",
       "date_published": "2026-01-28T18:17:15.000Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sounds/play/p0mxpgwh#5",
+      "url": "https://www.bbc.co.uk/sounds/play/p0mxpgwh?at_medium=RSS&at_campaign=rss",
+      "title": "Kemi Badenoch Accuses Opponents of 'Psychodrama’",
+      "content_html": "Conservative Leader Calls Defectors 'Drama Queens’",
+      "content_text": "Conservative Leader Calls Defectors 'Drama Queens’",
+      "date_published": "2026-01-28T18:03:00.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cz7y2ddgl23o#1",

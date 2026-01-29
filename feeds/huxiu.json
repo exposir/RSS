@@ -6,6 +6,14 @@
   "description": "虎嗅网RSS订阅",
   "items": [
     {
+      "id": "http://www.huxiu.com/article/4830600.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4830600.html?f=wangzhan",
+      "title": "黄金白银LOF为啥突然停售？",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/29/125207903937.jpg\"/>\n<p data-check-id=\"497595\">最近两个黄金、白银相关的LOF基金暂停售卖，搞得不少人开始阴谋论，怀疑不让普通人赚钱。那么原因到底是啥呢？</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "最近两个黄金、白银相关的LOF基金暂停售卖，搞得不少人开始阴谋论，怀疑不让普通人赚钱。那么原因到底是啥呢？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-29T07:25:00.000Z"
+    },
+    {
       "id": "http://www.huxiu.com/article/4830417.html?f=wangzhan",
       "url": "http://www.huxiu.com/article/4830417.html?f=wangzhan",
       "title": "美国政府会再次停摆吗？79%的概率显示美国政府又要关门了？",

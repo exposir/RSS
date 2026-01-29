@@ -17,6 +17,158 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189321",
+      "url": "https://www.v2ex.com/t/1189321#reply0",
+      "title": "[酷工作] 毕业了",
+      "content_html": "<p>毕业了，last day 到年前，明天开始可以不去公司，赔偿 n+1 。看了一圈没啥岗位，年后不好找啊，愁。</p>",
+      "content_text": "毕业了，last day 到年前，明天开始可以不去公司，赔偿 n+1 。看了一圈没啥岗位，年后不好找啊，愁。",
+      "date_published": "2026-01-29T08:53:31.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189320",
+      "url": "https://www.v2ex.com/t/1189320#reply0",
+      "title": "[问与答] Gemini3 pro 分析美股股票，最新股价为什么总是取错？",
+      "content_html": "玩美股，最近心血来潮，想看看各个 ai 对股票的分析能力如何。<br />比较了 豆包、Grok 、Gemini3Pro （家庭版，已付费）。<br />以$FLUT 这支股票为例。<br />用同样的 英文提示词 提问。<br />Gemini3pro ，豆包、Grok 的结果（无敏感诱导信息）。<br /> <a target=\"_blank\" href=\"https://i.imgur.com/K0urJbK.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/K0urJbK.png\" class=\"embedded_image\" rel=\"noreferrer\"></a><br /> <br />$FLUT 截止 2026-01-28 的价格是 166.730$。豆包、grok 都基本正确（夜盘等因素）。可 gemini3pro 就跑偏太多了，居然用了$265 的价格。。。不知道他哪查的。<br /><br />追问 Gemini3 为什么出错，给了这三个理由。我也不知道 后续他会不会自我纠正。<br /><br /> <a target=\"_blank\" href=\"https://i.imgur.com/D1js4MC.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/D1js4MC.png\" class=\"embedded_image\" rel=\"noreferrer\"></a><br /><br />不知道各位 V2er 是否有遇到过 Gemini 的这个问题。是否是哪里配置需要开启？<br /><br />补充：在 System instructions 中，已明确 gemini 使用最新的 google 数据。<br /> <a target=\"_blank\" href=\"https://i.imgur.com/hQeaSwu.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/hQeaSwu.png\" class=\"embedded_image\" rel=\"noreferrer\"></a>",
+      "content_text": "玩美股，最近心血来潮，想看看各个 ai 对股票的分析能力如何。比较了 豆包、Grok 、Gemini3Pro （家庭版，已付费）。以$FLUT 这支股票为例。用同样的 英文提示词 提问。Gemini3pro ，豆包、Grok 的结果（无敏感诱导信息）。  $FLUT 截止 2026-01-28 的价格是 166.730$。豆包、grok 都基本正确（夜盘等因素）。可 gemini3pro 就跑偏太多了，居然用了$265 的价格。。。不知道他哪查的。追问 Gemini3 为什么出错，给了这三个理由。我也不知道 后续他会不会自我纠正。 不知道各位 V2er 是否有遇到过 Gemini 的这个问题。是否是哪里配置需要开启？补充：在 System instructions 中，已明确 gemini 使用最新的 google 数据。",
+      "date_published": "2026-01-29T08:51:55.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189318",
+      "url": "https://www.v2ex.com/t/1189318#reply2",
+      "title": "[问与答] Win11 又开始抽抽了(｀ω´*)",
+      "content_html": "开机后壁纸变黑，Webstorm 动不动白屏，敢问 Win10 哪家的好，之前是用的不忘初心<br />2026 年，想尝试点不一样的<br />常用编译器 VS Rider Webstorm 微信开发者工具 AndroidStudio Trae ，Linux 能上不？",
+      "content_text": "开机后壁纸变黑，Webstorm 动不动白屏，敢问 Win10 哪家的好，之前是用的不忘初心2026 年，想尝试点不一样的常用编译器 VS Rider Webstorm 微信开发者工具 AndroidStudio Trae ，Linux 能上不？",
+      "date_published": "2026-01-29T08:43:36.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189317",
+      "url": "https://www.v2ex.com/t/1189317#reply1",
+      "title": "[Java] IDEA 在 macOS 上卡住",
+      "content_html": "版本：IntelliJ IDEA 2025.1.3<br />\t macOS 26 <br /><br />使用 cmd+tab 切换其他应用，再切换回来，大概率出现 IDEA 页面无法点击，部分按键有反应，只有右上角进入/退出全屏才能恢复正常。<br /><br />太折磨人了，有时候查资料（问 AI ）需要浏览器、IDEA 来回切换，但经常卡住，很影响心态，各位大佬遇见过类似的情况吗，如何解决啊",
+      "content_text": "版本：IntelliJ IDEA 2025.1.3\t macOS 26 使用 cmd+tab 切换其他应用，再切换回来，大概率出现 IDEA 页面无法点击，部分按键有反应，只有右上角进入/退出全屏才能恢复正常。太折磨人了，有时候查资料（问 AI ）需要浏览器、IDEA 来回切换，但经常卡住，很影响心态，各位大佬遇见过类似的情况吗，如何解决啊",
+      "date_published": "2026-01-29T08:38:29.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189316",
+      "url": "https://www.v2ex.com/t/1189316#reply0",
+      "title": "[问与答] 有没有 A4/a5 纸对折的神器啊，一张一张的对半折太费时间了",
+      "content_html": "<p>工业机器又太贵，有没有其他方案？需求是把 a4 对半折，精度误差小一点</p>",
+      "content_text": "工业机器又太贵，有没有其他方案？需求是把 a4 对半折，精度误差小一点",
+      "date_published": "2026-01-29T08:36:56.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189315",
+      "url": "https://www.v2ex.com/t/1189315#reply1",
+      "title": "[分享创造] 「送码」专业的网页截图解决方案.无需维护浏览器环境，一个 API 调用搞定一切！",
+      "content_html": "---                                                                                     <br />  🚀 Screenshot API - 专业的网页截图解决方案                                                                                                                                       <br />  无需自建服务器，无需维护浏览器环境，一个 API 调用搞定一切！                             <br />                                                                                                                                                                                                                                 <br />  🎯 为什么选择 Screenshot API ？                                                                                                                                                   <br />  开箱即用，极简集成                                                                                                                                                  <br />  - 一行代码完成网页截图                                                                  <br />  - RESTful API 设计，支持所有编程语言                                                    <br />  - Bearer Token 认证，安全可靠<br />  <br />                                                                                   🎯 典型应用场景        <br />                                                                       <br />  - 📱 小程序/H5 - 解决小程序截图限制，生成分享海报                                       <br />  - 📊 数据大屏 - 定时生成报表截图，自动归档                                              <br />  - 📄 文档生成 - 网页转图片，批量生成 PDF                                                <br />  - 🎨 设计工具 - 批量生成网站截图，竞品分析                                              <br />  - 🔍 SEO 工具 - 网站预览与监控                                                          <br />  - 📧 营销工具 - 自动生成邮件预览图                                                                                                                                                                                                                     <br />  🎁 福利                                                                                                                                                                      <br />  新用户注册即送 500 次免费额度！                                                                                                                                            <br />  使用兑换码账号可获得一年的 pro 版使用权限，兑换码已放在评论区，先到先得！<br />  (兑换码需要登录后，在控制台右上角的个人中心的账号设置选项使用）<br />                                                                                                                                                <br />  ---                                                                                     <br />  立即体验： <a target=\"_blank\" href=\"https://screen-web.redbin.cn\" rel=\"nofollow noopener\">https://screen-web.redbin.cn</a>                                                                                                                                   <br />  由开发者为开发者构建 | 简单 · 强大 · 可靠                                                                                                                              <br />  ---                                                                                     <br />  欢迎各位大佬试用，有任何意见或建议可以：                                                <br />  - 在评论区反馈                                                                          <br />  - 通过网站的意见反馈渠道提交                                                            <br />  - 持续迭代优化中 🔥",
+      "content_text": "---                                                                                       🚀 Screenshot API - 专业的网页截图解决方案                                                                                                                                         无需自建服务器，无需维护浏览器环境，一个 API 调用搞定一切！                                                                                                                                                                                                                                                                🎯 为什么选择 Screenshot API ？                                                                                                                                                     开箱即用，极简集成                                                                                                                                                    - 一行代码完成网页截图                                                                    - RESTful API 设计，支持所有编程语言                                                      - Bearer Token 认证，安全可靠                                                                                     🎯 典型应用场景                                                                                 - 📱 小程序/H5 - 解决小程序截图限制，生成分享海报                                         - 📊 数据大屏 - 定时生成报表截图，自动归档                                                - 📄 文档生成 - 网页转图片，批量生成 PDF                                                  - 🎨 设计工具 - 批量生成网站截图，竞品分析                                                - 🔍 SEO 工具 - 网站预览与监控                                                            - 📧 营销工具 - 自动生成邮件预览图                                                                                                                                                                                                                       🎁 福利                                                                                                                                                                        新用户注册即送 500 次免费额度！                                                                                                                                              使用兑换码账号可获得一年的 pro 版使用权限，兑换码已放在评论区，先到先得！  (兑换码需要登录后，在控制台右上角的个人中心的账号设置选项使用）                                                                                                                                                  ---                                                                                       立即体验： https://screen-web.redbin.cn                                                                                                                                     由开发者为开发者构建 | 简单 · 强大 · 可靠                                                                                                                                ---                                                                                       欢迎各位大佬试用，有任何意见或建议可以：                                                  - 在评论区反馈                                                                            - 通过网站的意见反馈渠道提交                                                              - 持续迭代优化中 🔥",
+      "date_published": "2026-01-29T08:36:28.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189313",
+      "url": "https://www.v2ex.com/t/1189313#reply0",
+      "title": "[问与答] macOS 用户 Document 文件夹下.qimei 这玩意是什么?",
+      "content_html": "macOS 用户 Document 文件夹下.qimei 这玩意是什么?<br />gemini 告诉我是腾讯 app 留下的设备标识符<br />我怎么阻止这玩意创建?",
+      "content_text": "macOS 用户 Document 文件夹下.qimei 这玩意是什么?gemini 告诉我是腾讯 app 留下的设备标识符我怎么阻止这玩意创建?",
+      "date_published": "2026-01-29T08:30:17.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189312",
+      "url": "https://www.v2ex.com/t/1189312#reply6",
+      "title": "[问与答] 买黄金的人多么？",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T08:27:39.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189311",
+      "url": "https://www.v2ex.com/t/1189311#reply3",
+      "title": "[MacBook Pro] 现在程序员要整 macbook 哪一款性价比合适，预算 8-14k 前后。",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T08:26:54.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189310",
+      "url": "https://www.v2ex.com/t/1189310#reply0",
+      "title": "[推广] DHR EMBY 开放车位 国内原盘 4k 直连秒播 可试用",
+      "content_html": "<p>拥有完善的管理系统 以及影视爱好者群聊\n喜欢观影的朋友可以来了解一下\nTG 群组： <a href=\"https://t.me/dhremby\" rel=\"nofollow\">https://t.me/dhremby</a>\nQQ 群组：660261230</p>",
+      "content_text": "拥有完善的管理系统 以及影视爱好者群聊\n喜欢观影的朋友可以来了解一下\nTG 群组： https://t.me/dhremby\nQQ 群组：660261230",
+      "date_published": "2026-01-29T08:18:35.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189308",
+      "url": "https://www.v2ex.com/t/1189308#reply0",
+      "title": "[问与答] 分享个创业故事，全当一乐。",
+      "content_html": "我这 3D 打印产品，<a target=\"_blank\" href=\"https://meshivo.com/\" rel=\"nofollow noopener\">https://meshivo.com/</a> 。<br /><br />被成都一个老板看上，提出合作。老板是做 3D 打印农场这块，拓竹成都地区代理商之一。希望大家一起合作，做教育类 3D 打印 SaaS 平台（伏笔）。<br /><br />对方给我看了实力，配套的 3D 打印机，大概有几十台。一个非常大的办公场地和公司宣传片，我也给对方看了我的作品，我们初步聊了下意向，发展方向和规划非常契合。对方需要一个有技术实力的人，来做 AI 模型部署，本地部署，SaaS 平台开发。<br /><br />我这边也缺资源，缺市场渠道，缺销售，双方一拍即合。<br /><br />然后，我就从大理坐飞机到成都（机票费一人一半），下飞机之后，立马去他公司，他公司在郊区，离机场 2.5h 的距离，地铁没法直接到，下地铁之后，打车过去的。跟我朋友吐槽，这么远，周边都是乡村（成都市的乡村<br /><br />第一次见面，我带了大理特产过去（茶），见面，聊了大概两个多小时，关于平台的发展规划，初步意向等内容。对方开出的报价是项目提成的 10%，也就是说每卖出一单，我拿 10%的提成 + 平台开发费用（大概 8w 左右），我没作声，说再考虑考虑。<br /><br />第二次谈判，对方提出是 5%的提成 + 知识产权 + 平台开发费用（大概 5w 左右）；我提出的以公司级别合作，对方出资源和销售，我出技术平台（知识产权归我），你只有使用权，相当于我把平台授权给你。然后，双方谈崩了。<br /><br /><br />最后，连饭都没请，第一次见面，也没说吃个饭，招待下啥的。",
+      "content_text": "我这 3D 打印产品，https://meshivo.com/ 。被成都一个老板看上，提出合作。老板是做 3D 打印农场这块，拓竹成都地区代理商之一。希望大家一起合作，做教育类 3D 打印 SaaS 平台（伏笔）。对方给我看了实力，配套的 3D 打印机，大概有几十台。一个非常大的办公场地和公司宣传片，我也给对方看了我的作品，我们初步聊了下意向，发展方向和规划非常契合。对方需要一个有技术实力的人，来做 AI 模型部署，本地部署，SaaS 平台开发。我这边也缺资源，缺市场渠道，缺销售，双方一拍即合。然后，我就从大理坐飞机到成都（机票费一人一半），下飞机之后，立马去他公司，他公司在郊区，离机场 2.5h 的距离，地铁没法直接到，下地铁之后，打车过去的。跟我朋友吐槽，这么远，周边都是乡村（成都市的乡村第一次见面，我带了大理特产过去（茶），见面，聊了大概两个多小时，关于平台的发展规划，初步意向等内容。对方开出的报价是项目提成的 10%，也就是说每卖出一单，我拿 10%的提成 + 平台开发费用（大概 8w 左右），我没作声，说再考虑考虑。第二次谈判，对方提出是 5%的提成 + 知识产权 + 平台开发费用（大概 5w 左右）；我提出的以公司级别合作，对方出资源和销售，我出技术平台（知识产权归我），你只有使用权，相当于我把平台授权给你。然后，双方谈崩了。最后，连饭都没请，第一次见面，也没说吃个饭，招待下啥的。",
+      "date_published": "2026-01-29T08:15:35.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189307",
+      "url": "https://www.v2ex.com/t/1189307#reply19",
+      "title": "[深圳] 广东的朋友，你们结婚五金买多少克",
+      "content_html": "<p>最近两年打算结婚，按照广东这边的习俗，需要买五金。现在这个金价，太贵了，能给现金，不买黄金吗</p>",
+      "content_text": "最近两年打算结婚，按照广东这边的习俗，需要买五金。现在这个金价，太贵了，能给现金，不买黄金吗",
+      "date_published": "2026-01-29T08:10:05.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189306",
+      "url": "https://www.v2ex.com/t/1189306#reply0",
+      "title": "[分享发现] ARC-AGI 测试这帮人疯了！",
+      "content_html": "<h2>ARC-AGI 测试</h2>\n<p>ARC-AGI 测试，是只给 AI 一两个「图形变形、变位、变色」的例子，根据这个例子，让 AI 做下一道题。</p>\n<p>类似于数字猜谜时，我出 2,4,6 然后填(8)作为例子，然后再出 1,3,5 让 AI 填(7)。ARC-AGI 只不过是用图形的方式。</p>\n<h2>ARC-AGI 的核心假设</h2>\n<p>ARC-AGI 的核心假设是，人类是被进化调教的智能，预制了一些核心的先验知识（即娘胎里带来的），这些核心先验知识，是关于「物体恒常性」、「目标导向性」、「大小计数」、「形状拓扑」这些物理先验知识的。所以未来的 AGI ，应该也要对齐到这些。</p>\n<h2>可以理解的 ARC-AGI-1 和 ARC-AGI-2</h2>\n<p>前 2 版还可以理解（动手试试看）：</p>\n<p>第 1 版： <a href=\"https://arcprize.org/play?task=007bbfb7\" rel=\"nofollow\">https://arcprize.org/play?task=007bbfb7</a></p>\n<p><img alt=\"ARC-AGI-1\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/b0V9zk33l.png\"/></p>\n<p>第 2 版： <a href=\"https://arcprize.org/play?task=1ae2feb7\" rel=\"nofollow\">https://arcprize.org/play?task=1ae2feb7</a></p>\n<p><img alt=\"ARC-AGI-2\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/7Tz6tnZEl.png\"/></p>\n<p>只不过，前 2 版都难不住现在的 AI： <a href=\"https://arcprize.org/leaderboard\" rel=\"nofollow\">https://arcprize.org/leaderboard</a></p>\n<p><img alt=\"ARC-AGI-SCORE\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/2Wh6ESEkl.png\"/></p>\n<h2>变态的 ARC-AGI-3</h2>\n<p>既然前 2 版难不倒 AI ，那就开发第 3 版啊，于是第 3 版全面升级，开始用互动游戏来测试了。</p>\n<p>但，第 3 版这是谁出的第一个啊，太变态了！！</p>\n<p>试试看，你能不能解出来：  <a href=\"https://three.arcprize.org/games/ls20\" rel=\"nofollow\">https://three.arcprize.org/games/ls20</a></p>\n<p><img alt=\"ARC-AGI-3\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/2F676XyPl.png\"/></p>",
+      "content_text": "ARC-AGI 测试\nARC-AGI 测试，是只给 AI 一两个「图形变形、变位、变色」的例子，根据这个例子，让 AI 做下一道题。\n类似于数字猜谜时，我出 2,4,6 然后填(8)作为例子，然后再出 1,3,5 让 AI 填(7)。ARC-AGI 只不过是用图形的方式。\nARC-AGI 的核心假设\nARC-AGI 的核心假设是，人类是被进化调教的智能，预制了一些核心的先验知识（即娘胎里带来的），这些核心先验知识，是关于「物体恒常性」、「目标导向性」、「大小计数」、「形状拓扑」这些物理先验知识的。所以未来的 AGI ，应该也要对齐到这些。\n可以理解的 ARC-AGI-1 和 ARC-AGI-2\n前 2 版还可以理解（动手试试看）：\n第 1 版： https://arcprize.org/play?task=007bbfb7\n\n第 2 版： https://arcprize.org/play?task=1ae2feb7\n\n只不过，前 2 版都难不住现在的 AI： https://arcprize.org/leaderboard\n\n变态的 ARC-AGI-3\n既然前 2 版难不倒 AI ，那就开发第 3 版啊，于是第 3 版全面升级，开始用互动游戏来测试了。\n但，第 3 版这是谁出的第一个啊，太变态了！！\n试试看，你能不能解出来：  https://three.arcprize.org/games/ls20",
+      "date_published": "2026-01-29T08:04:52.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189305",
+      "url": "https://www.v2ex.com/t/1189305#reply5",
+      "title": "[投资] 从黄金到白银再到有色金属都暴涨了，下一步是不是该买石油天然气了",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T08:02:42.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189304",
+      "url": "https://www.v2ex.com/t/1189304#reply0",
+      "title": "[小散户的日常] 我终于上钩了，回撤难受",
+      "content_html": "<p>今年，来来回回操作大 A 折腾了快一个月，小仓位搞了几只股都盈利出的，一看总收益总共才不到十个点，觉得太没意思了，索性这周清了大部分然后单吊一只，直接把这个月收益干没了，还倒贴了，回撤了十来个点。准备开摆了</p>",
+      "content_text": "今年，来来回回操作大 A 折腾了快一个月，小仓位搞了几只股都盈利出的，一看总收益总共才不到十个点，觉得太没意思了，索性这周清了大部分然后单吊一只，直接把这个月收益干没了，还倒贴了，回撤了十来个点。准备开摆了",
+      "date_published": "2026-01-29T08:01:01.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189303",
+      "url": "https://www.v2ex.com/t/1189303#reply0",
+      "title": "[人工智能] 在你的 qq 上使用 clawdbot(moltbot),随身携带的 agent!",
+      "content_html": "<p>插件地址: <a href=\"https://github.com/constansino/moltbot_qq\" rel=\"nofollow\">https://github.com/constansino/moltbot_qq</a></p>\n<p><img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/LoyiH15.png\"/>\n<img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/LqGhoNp.png\"/></p>",
+      "content_text": "插件地址: https://github.com/constansino/moltbot_qq",
+      "date_published": "2026-01-29T08:00:53.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189302",
+      "url": "https://www.v2ex.com/t/1189302#reply1",
+      "title": "[程序员] vibe coding 好多天了,感受!",
+      "content_html": "<p>用 vibe coding 写了几个工具,改了几个开源软件.\n玩到现在玩单机游戏,想调个金钱啥的减少刷的时间,结果还加密了,生气单机游戏数值还加密,反编译游戏成源代码,vibe coding 后游戏索然无味,金钱默认最大,所有人数状态技能啥的数值最大..一下子就进入贤者时间了.\n还是回归原始,摸鱼看小说,vibe coding 有点玩腻了,也玩得差不多了..</p>",
+      "content_text": "用 vibe coding 写了几个工具,改了几个开源软件.\n玩到现在玩单机游戏,想调个金钱啥的减少刷的时间,结果还加密了,生气单机游戏数值还加密,反编译游戏成源代码,vibe coding 后游戏索然无味,金钱默认最大,所有人数状态技能啥的数值最大..一下子就进入贤者时间了.\n还是回归原始,摸鱼看小说,vibe coding 有点玩腻了,也玩得差不多了..",
+      "date_published": "2026-01-29T08:00:40.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189301",
+      "url": "https://www.v2ex.com/t/1189301#reply0",
+      "title": "[全球工单系统] 腾讯翻译怎么下架了? 提示\"此扩展程序违反了 Chrome 应用商店政策\"",
+      "content_html": "<p><img alt=\"1\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/nlSCqAV.png\"/>\n<img alt=\"2\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/GIgCgDf.png\"/>\n<img alt=\"3\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/OX4b619.png\"/></p>",
+      "content_text": "",
+      "date_published": "2026-01-29T07:58:59.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189300",
+      "url": "https://www.v2ex.com/t/1189300#reply5",
+      "title": "[分享发现] 之前 sms-activate 少于 30$不能提取的现在可以转移到 HERO-SMS 了",
+      "content_html": "<p><img alt=\"图片描述\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/CGCcIML.png\"/>\n<img alt=\"图片描述\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/TtWl9BA.png\"/></p>",
+      "content_text": "",
+      "date_published": "2026-01-29T07:57:14.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-29:/t/1189299",
       "url": "https://www.v2ex.com/t/1189299#reply0",
       "title": "[职场话题] 见笑了！",
