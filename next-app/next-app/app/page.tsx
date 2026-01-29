@@ -142,7 +142,6 @@ export default function RSSReader() {
       <ResizablePanelGroup
         direction="horizontal"
         className="flex-1 h-full items-stretch"
-        autoSaveId="rss-reader-layout-v1"
       >
 
         {/* LEFT COLUMN: Feeds List */}
@@ -150,7 +149,6 @@ export default function RSSReader() {
           defaultSize={20}
           minSize={15}
           maxSize={30}
-          order={1}
           className="border-r border-border hidden md:block"
         >
           <div className="flex flex-col h-full">
@@ -217,7 +215,6 @@ export default function RSSReader() {
         <ResizablePanel
           defaultSize={30}
           minSize={25}
-          order={2}
           className="border-r border-border min-w-[300px]"
         >
           <div className="flex flex-col h-full">
@@ -295,7 +292,6 @@ export default function RSSReader() {
         {/* RIGHT COLUMN: Detail */}
         <ResizablePanel
           defaultSize={50}
-          order={3}
           className="hidden md:block bg-background"
         >
           {selectedArticle ? (
