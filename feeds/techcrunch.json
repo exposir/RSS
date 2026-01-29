@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3087652",
+      "url": "https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/",
+      "title": "Meta burned $19 billion on VR last year, and 2026 won’t be any better",
+      "content_html": "The reported financial losses follow a series of layoffs at the VR unit.",
+      "content_text": "The reported financial losses follow a series of layoffs at the VR unit.",
+      "date_published": "2026-01-29T00:20:18.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087558",
       "url": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
       "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",

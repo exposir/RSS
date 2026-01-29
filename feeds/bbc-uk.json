@@ -6,6 +6,118 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cn9z4xnv544o#1",
+      "url": "https://www.bbc.com/news/articles/cn9z4xnv544o?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Hemsworth and Mark Ruffalo: We're like a couple of naughty school kids",
+      "content_html": "The pair star in Crime 101, a tense thriller that swaps superhero spectacle for a game of psychological cat and mouse.",
+      "content_text": "The pair star in Crime 101, a tense thriller that swaps superhero spectacle for a game of psychological cat and mouse.",
+      "date_published": "2026-01-29T02:19:27.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c0r425pyl57o#0",
+      "url": "https://www.bbc.com/news/articles/c0r425pyl57o?at_medium=RSS&at_campaign=rss",
+      "title": "Keep suspended pupils in school, ministers say",
+      "content_html": "Changes to England's school system say on-site suspensions should be used for non-violent behaviour.",
+      "content_text": "Changes to England's school system say on-site suspensions should be used for non-violent behaviour.",
+      "date_published": "2026-01-29T02:02:03.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cgk86xkgm0no#3",
+      "url": "https://www.bbc.com/news/articles/cgk86xkgm0no?at_medium=RSS&at_campaign=rss",
+      "title": "China sends police to Australia in hunt for man who doused baby with coffee",
+      "content_html": "The nine-month-old baby was attacked with boiling liquid while at a family picnic in 2024.",
+      "content_text": "The nine-month-old baby was attacked with boiling liquid while at a family picnic in 2024.",
+      "date_published": "2026-01-29T01:45:41.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/clywp0wy21lo#1",
+      "url": "https://www.bbc.com/news/articles/clywp0wy21lo?at_medium=RSS&at_campaign=rss",
+      "title": "Bill Belichick: A Super Bowl god's fall from grace",
+      "content_html": "He is one of the most winningest coaches in NFL history, but his snub from the Pro Football Hall of Fame adds to a growing list of defeats.",
+      "content_text": "He is one of the most winningest coaches in NFL history, but his snub from the Pro Football Hall of Fame adds to a growing list of defeats.",
+      "date_published": "2026-01-29T01:37:57.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cn7j5m4kmx8o#1",
+      "url": "https://www.bbc.com/news/articles/cn7j5m4kmx8o?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers:  'Countdown to conflagration' and 'Restore high streets or lose election'",
+      "content_html": "Many of the papers have headlined on Iran, following threats from US President Donald Trump.",
+      "content_text": "Many of the papers have headlined on Iran, following threats from US President Donald Trump.",
+      "date_published": "2026-01-29T00:59:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c8j329y9yk2o#7",
+      "url": "https://www.bbc.com/sport/football/articles/c8j329y9yk2o?at_medium=RSS&at_campaign=rss",
+      "title": "A 'miracle' moment - how Mourinho's Benfica stunned Real Madrid",
+      "content_html": "Goalkeeper Anatoly Trubin's header gives Jose Mourinho an unforgettable moment as Benfica beat Real Madrid to stay alive in the Champions League.",
+      "content_text": "Goalkeeper Anatoly Trubin's header gives Jose Mourinho an unforgettable moment as Benfica beat Real Madrid to stay alive in the Champions League.",
+      "date_published": "2026-01-29T00:44:50.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/cp82r3qmz65o#7",
+      "url": "https://www.bbc.com/sport/football/articles/cp82r3qmz65o?at_medium=RSS&at_campaign=rss",
+      "title": "Newcastle prove they can mix it with European champions",
+      "content_html": "Newcastle United have experienced all manner of emotions at the Parc des Princes, but the visitors left with immense pride following a 1-1 draw against Paris St-Germain",
+      "content_text": "Newcastle United have experienced all manner of emotions at the Parc des Princes, but the visitors left with immense pride following a 1-1 draw against Paris St-Germain",
+      "date_published": "2026-01-29T00:40:10.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/cy0520ey7jjo#7",
+      "url": "https://www.bbc.com/sport/football/articles/cy0520ey7jjo?at_medium=RSS&at_campaign=rss",
+      "title": "Why have English teams dominated as Real & PSG face play-offs?",
+      "content_html": "Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant?",
+      "content_text": "Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant?",
+      "date_published": "2026-01-29T00:24:07.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/cy0520ey7jjo#0",
+      "url": "https://www.bbc.com/sport/football/articles/cy0520ey7jjo?at_medium=RSS&at_campaign=rss",
+      "title": "Why have English teams dominated as Real & PSG face play-offs?",
+      "content_html": "Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant?",
+      "content_text": "Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant?",
+      "date_published": "2026-01-29T00:24:07.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cn8jkyk78gno#3",
+      "url": "https://www.bbc.com/news/articles/cn8jkyk78gno?at_medium=RSS&at_campaign=rss",
+      "title": "Facebook-owner to nearly double AI spending this year",
+      "content_html": "Mark Zuckerberg's spending plans hint at further layoffs and changes within Facebook, Instagram and WhatsApp.",
+      "content_text": "Mark Zuckerberg's spending plans hint at further layoffs and changes within Facebook, Instagram and WhatsApp.",
+      "date_published": "2026-01-29T00:16:17.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c7vm192vr53o#1",
+      "url": "https://www.bbc.com/news/articles/c7vm192vr53o?at_medium=RSS&at_campaign=rss",
+      "title": "Yes, you can be friends with an ex - but there are rules",
+      "content_html": "The four questions you should ask before deciding whether to stay friends or go no contact.",
+      "content_text": "The four questions you should ask before deciding whether to stay friends or go no contact.",
+      "date_published": "2026-01-29T00:11:24.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy9y1wvq3pdo#1",
+      "url": "https://www.bbc.com/news/articles/cy9y1wvq3pdo?at_medium=RSS&at_campaign=rss",
+      "title": "'You don't feel judged': Why we buy more at self-service terminals",
+      "content_html": "How restaurants and retailers use behavioural science to get us to increase our spending.",
+      "content_text": "How restaurants and retailers use behavioural science to get us to increase our spending.",
+      "date_published": "2026-01-29T00:05:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cn56p0qkky7o#0",
+      "url": "https://www.bbc.com/news/articles/cn56p0qkky7o?at_medium=RSS&at_campaign=rss",
+      "title": "Water bills to rise again: Use our tool to find out by how much",
+      "content_html": "The average annual household bill in England and Wales will increase by £33 from April.",
+      "content_text": "The average annual household bill in England and Wales will increase by £33 from April.",
+      "date_published": "2026-01-29T00:03:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/clymp4ynldlo#0",
+      "url": "https://www.bbc.com/news/articles/clymp4ynldlo?at_medium=RSS&at_campaign=rss",
+      "title": "Vehicle production in the UK falls to 73-year low",
+      "content_html": "The industry has \"the toughest year in a generation\" as vehicle making falls back to 1952 levels.",
+      "content_text": "The industry has \"the toughest year in a generation\" as vehicle making falls back to 1952 levels.",
+      "date_published": "2026-01-29T00:01:35.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/c5y2zdwjzkvo#7",
       "url": "https://www.bbc.com/sport/football/articles/c5y2zdwjzkvo?at_medium=RSS&at_campaign=rss",
       "title": "Rare night of joy for Salah and Slot amid turbulent season",
@@ -100,6 +212,14 @@
       "content_html": "The country cut off internet access on 8 January following a government crackdown on protesters.",
       "content_text": "The country cut off internet access on 8 January following a government crackdown on protesters.",
       "date_published": "2026-01-28T17:54:08.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c62wepw43k3o#3",
+      "url": "https://www.bbc.com/news/articles/c62wepw43k3o?at_medium=RSS&at_campaign=rss",
+      "title": "Judi Dench and Stanley Tucci among stars at premiere of King's film",
+      "content_html": "King Charles explains his philosophy of harmony in a film for Amazon Prime Video.",
+      "content_text": "King Charles explains his philosophy of harmony in a film for Amazon Prime Video.",
+      "date_published": "2026-01-28T17:30:28.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c62wepw43k3o#0",

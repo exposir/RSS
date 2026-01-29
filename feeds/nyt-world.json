@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/rubio-hearing-venezuela.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/rubio-hearing-venezuela.html",
+      "title": "Rubio Says Venezuela Will Submit Monthly Budget to White House",
+      "content_html": "Democrats sharply questioned the plan, including the role of Qatar in managing an account funded by the sale of Venezuelan oil.",
+      "content_text": "Democrats sharply questioned the plan, including the role of Qatar in managing an account funded by the sale of Venezuelan oil.",
+      "date_published": "2026-01-29T01:06:15.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/world/canada/norad-us-canada-security-agreement.html",
       "url": "https://www.nytimes.com/2026/01/28/world/canada/norad-us-canada-security-agreement.html",
       "title": "Why the NORAD Cold War Pact Between the U.S. and Canada Is News",

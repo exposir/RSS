@@ -6,6 +6,30 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46803356",
+      "url": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
+      "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
+      "content_html": "<p>Article URL: <a href=\"https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in\">https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46803356\">https://news.ycombinator.com/item?id=46803356</a></p>\n<p>Points: 384</p>\n<p># Comments: 162</p>",
+      "content_text": "Article URL: https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in\nComments URL: https://news.ycombinator.com/item?id=46803356\nPoints: 384\n# Comments: 162",
+      "date_published": "2026-01-28T23:36:23.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46802067",
+      "url": "https://alecmuffett.com/article/143548",
+      "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+      "content_html": "<p><a href=\"https://archive.ph/VrEtg\" rel=\"nofollow\">https://archive.ph/VrEtg</a><p><a href=\"https://globe.adsbexchange.com/?icao=adfdf9&lat=26.678&lon=-80.030&zoom=14.4&showTrace=2026-01-28\" rel=\"nofollow\">https://globe.adsbexchange.com/?icao=adfdf9&lat=26.678&lon=-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46802067\">https://news.ycombinator.com/item?id=46802067</a></p>\n<p>Points: 373</p>\n<p># Comments: 94</p>",
+      "content_text": "https://archive.ph/VrEtghttps://globe.adsbexchange.com/?icao=adfdf9&lat=26.678&lon=-...\n\nComments URL: https://news.ycombinator.com/item?id=46802067\nPoints: 373\n# Comments: 94",
+      "date_published": "2026-01-28T21:50:47.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46799304",
+      "url": "https://danq.me/2026/01/28/hsbc-dont-understand-email/",
+      "title": "That's not how email works",
+      "content_html": "<p>Article URL: <a href=\"https://danq.me/2026/01/28/hsbc-dont-understand-email/\">https://danq.me/2026/01/28/hsbc-dont-understand-email/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46799304\">https://news.ycombinator.com/item?id=46799304</a></p>\n<p>Points: 232</p>\n<p># Comments: 145</p>",
+      "content_text": "Article URL: https://danq.me/2026/01/28/hsbc-dont-understand-email/\nComments URL: https://news.ycombinator.com/item?id=46799304\nPoints: 232\n# Comments: 145",
+      "date_published": "2026-01-28T18:12:02.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46796745",
       "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
       "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",

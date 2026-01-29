@@ -6,6 +6,30 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003292020",
+      "url": "https://www.wsj.com/world/americas/a-secret-fbi-bust-nabbed-an-alleged-drug-lordand-rocked-relations-with-mexico-a19d4dd6",
+      "title": "A Secret FBI Bust Nabbed an Alleged Drug Lord&#x2014;and Rocked Relations With Mexico",
+      "content_html": "Mexican President Claudia Sheinbaum and FBI Director Kash Patel have told differing accounts about the role of U.S. agents in the arrest of former Olympian Ryan Wedding.",
+      "content_text": "Mexican President Claudia Sheinbaum and FBI Director Kash Patel have told differing accounts about the role of U.S. agents in the arrest of former Olympian Ryan Wedding.",
+      "date_published": "2026-01-29T02:07:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003291699",
+      "url": "https://www.wsj.com/world/china/chinese-man-who-documented-uyghur-population-is-granted-u-s-asylum-2d8dffe5",
+      "title": "Chinese Man Who Documented Uyghur Population Is Granted U.S. Asylum",
+      "content_html": "The citizen-journalist, Heng Guan, drew attention after he was detained by U.S. Immigration and Customs Enforcement.",
+      "content_text": "The citizen-journalist, Heng Guan, drew attention after he was detained by U.S. Immigration and Customs Enforcement.",
+      "date_published": "2026-01-29T00:10:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003291528",
+      "url": "https://www.wsj.com/world/middle-east/syrias-campaign-against-kurds-scrambles-trumps-counter-terror-policy-bb38a8e1",
+      "title": "Syria&#x2019;s Campaign Against Kurds Scrambles Trump&#x2019;s Counter-Terror Policy",
+      "content_html": "The failure to support the U.S.-backed militia could create an opening for Islamic State, White House allies say.",
+      "content_text": "The failure to support the U.S.-backed militia could create an opening for Islamic State, White House allies say.",
+      "date_published": "2026-01-29T00:06:00.000Z"
+    },
+    {
       "id": "SB11930060785218553820404592646441282433960",
       "url": "https://www.wsj.com/opinion/guan-heng-asylum-ruling-china-uyghurs-charles-ouslander-department-of-homeland-security-b70be0c8",
       "title": "Opinion | Guan Heng Gets U.S. Asylum",

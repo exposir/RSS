@@ -6,6 +6,14 @@
   "description": "纽约时报中文网 国际纵览",
   "items": [
     {
+      "id": "https://cn.nytimes.com/usa/20260129/heng-guan-china-uyghurs-asylum/",
+      "url": "https://cn.nytimes.com/usa/20260129/heng-guan-china-uyghurs-asylum/?utm_source=RSS",
+      "title": "关恒获美国政治庇护，曾秘密记录新疆拘禁营",
+      "content_html": "关恒曾冒着巨大风险秘密记录中共对维吾尔人的大规模拘禁和监控。他在美国申请政治庇护，但在去年一次移民执法行动中被拘留，其支持者一度担心他会被遣返回中国。<p><img src='https://static01.nyt.com/images/2025/12/15/us/politics/00hfo-nat-chinese-asylum/00nat-chinese-deport1-videoLarge-v2.jpg' alt='关恒，摄于台湾。去年8月，他在纽约州北部被ICE拘留。 via Luo Yun'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>via Luo Yun</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>关恒，摄于台湾。去年8月，他在纽约州北部被ICE拘留。</p>",
+      "content_text": "关恒曾冒着巨大风险秘密记录中共对维吾尔人的大规模拘禁和监控。他在美国申请政治庇护，但在去年一次移民执法行动中被拘留，其支持者一度担心他会被遣返回中国。                    via Luo Yun                    关恒，摄于台湾。去年8月，他在纽约州北部被ICE拘留。",
+      "date_published": "2026-01-29T02:30:18.000Z"
+    },
+    {
       "id": "https://cn.nytimes.com/usa/20260128/census-2025-estimates-population-immigration/",
       "url": "https://cn.nytimes.com/usa/20260128/census-2025-estimates-population-immigration/?utm_source=RSS",
       "title": "移民人数骤减，美国人口增长急剧放缓",

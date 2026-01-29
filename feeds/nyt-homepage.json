@@ -6,6 +6,54 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/nyregion/newark-school-sex-abuse-judgment.html",
+      "url": "https://www.nytimes.com/2026/01/28/nyregion/newark-school-sex-abuse-judgment.html",
+      "title": "Victim in School Sex Abuse Case Wins $30 Million Jury Award",
+      "content_html": "The man, now 44, said that a teacher in Newark repeatedly sexually abused him in the 1990s.",
+      "content_text": "The man, now 44, said that a teacher in Newark repeatedly sexually abused him in the 1990s.",
+      "date_published": "2026-01-29T01:41:49.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/rubio-hearing-venezuela.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/rubio-hearing-venezuela.html",
+      "title": "Rubio Says Venezuela Will Submit Monthly Budget to White House",
+      "content_html": "Democrats sharply questioned the plan, including the role of Qatar in managing an account funded by the sale of Venezuelan oil.",
+      "content_text": "Democrats sharply questioned the plan, including the role of Qatar in managing an account funded by the sale of Venezuelan oil.",
+      "date_published": "2026-01-29T01:06:15.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/trump-ice-protests-omar-attack.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/trump-ice-protests-omar-attack.html",
+      "title": "America at a Boiling Point: From ICE Protests to an Attack on Rep. Omar",
+      "content_html": "An attack at a town hall in Minneapolis, amid a surge in threats against lawmakers, was the latest sign of the fraying of the nation’s political fabric.",
+      "content_text": "An attack at a town hall in Minneapolis, amid a surge in threats against lawmakers, was the latest sign of the fraying of the nation’s political fabric.",
+      "date_published": "2026-01-29T00:47:23.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/homelessness-decline-trend.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/homelessness-decline-trend.html",
+      "title": "Homelessness Appears to Decline, Reversing a Yearslong Trend",
+      "content_html": "The Trump administration has not yet released the count, which could complicate its plans for tough new policies.",
+      "content_text": "The Trump administration has not yet released the count, which could complicate its plans for tough new policies.",
+      "date_published": "2026-01-29T00:31:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/nyregion/congestion-pricing-lawsuit.html",
+      "url": "https://www.nytimes.com/2026/01/28/nyregion/congestion-pricing-lawsuit.html",
+      "title": "Judge Questions Trump Administration’s Push to Halt Congestion Pricing",
+      "content_html": "As a legal battle continues over the fate of New York City’s toll program, a judge appeared skeptical of the federal government’s arguments, but did not issue a ruling.",
+      "content_text": "As a legal battle continues over the fate of New York City’s toll program, a judge appeared skeptical of the federal government’s arguments, but did not issue a ruling.",
+      "date_published": "2026-01-29T00:21:57.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/nyregion/nyc-snow-mountains-crosswalks-bus-stops.html",
+      "url": "https://www.nytimes.com/2026/01/28/nyregion/nyc-snow-mountains-crosswalks-bus-stops.html",
+      "title": "Who’s Supposed to Clear the Snow From New York City’s Street Corners?",
+      "content_html": "Three days after the city’s biggest snowstorm in years, many New Yorkers are still scaling mounds of snow and ice. Cleaning it up is a shared responsibility.",
+      "content_text": "Three days after the city’s biggest snowstorm in years, many New Yorkers are still scaling mounds of snow and ice. Cleaning it up is a shared responsibility.",
+      "date_published": "2026-01-29T00:12:34.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/us/politics/california-billionaires-sergey-brin-campaign.html",
       "url": "https://www.nytimes.com/2026/01/28/us/politics/california-billionaires-sergey-brin-campaign.html",
       "title": "Sergey Brin Spends $20 Million on California Political Effort Amid Wealth Tax Debate",
@@ -132,6 +180,14 @@
       "content_html": "Heng Guan, a Chinese national, will not be released immediately, as Homeland Security said it was reserving the right to appeal.",
       "content_text": "Heng Guan, a Chinese national, will not be released immediately, as Homeland Security said it was reserving the right to appeal.",
       "date_published": "2026-01-28T21:10:10.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/nyregion/new-york-hot-tubs-snow-storm.html",
+      "url": "https://www.nytimes.com/2026/01/28/nyregion/new-york-hot-tubs-snow-storm.html",
+      "title": "After Winter Storm, New York Uses Hot Tubs to Melt the Snow",
+      "content_html": "With no warm weather expected any time soon, the city’s snow piles require mechanical intervention.",
+      "content_text": "With no warm weather expected any time soon, the city’s snow piles require mechanical intervention.",
+      "date_published": "2026-01-28T21:08:38.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/opinion/conservative-campus-politics.html",

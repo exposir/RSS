@@ -6,6 +6,22 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/science/article/3341517/chinese-ai-goes-next-level-geometry-top-us-maths-olympiad?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/science/article/3341517/chinese-ai-goes-next-level-geometry-top-us-maths-olympiad?utm_source=rss_feed",
+      "title": "Chinese AI goes next level in geometry at a top US maths Olympiad",
+      "content_html": "A Chinese AI system has outperformed its US competitors in solving geometry problems at the International Mathematical Olympiad (IMO) level, taking less than half the time and using simpler computational resources, according to its developers.\nUnlike existing models confined to problem-solving, the Chinese system can also generate mathematical problems – three of which appeared in a Chinese national team qualifying exam and a top Olympiad in the United States in 2024.\n“We present TongGeometry, a...",
+      "content_text": "A Chinese AI system has outperformed its US competitors in solving geometry problems at the International Mathematical Olympiad (IMO) level, taking less than half the time and using simpler computational resources, according to its developers.\nUnlike existing models confined to problem-solving, the Chinese system can also generate mathematical problems – three of which appeared in a Chinese national team qualifying exam and a top Olympiad in the United States in 2024.\n“We present TongGeometry, a...",
+      "date_published": "2026-01-29T01:00:10.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3341382/tale-two-megacities-how-did-beijing-and-shanghais-gdps-surpass-5-trillion-yuan?utm_source=rss_feed",
+      "url": "https://www.scmp.com/economy/china-economy/article/3341382/tale-two-megacities-how-did-beijing-and-shanghais-gdps-surpass-5-trillion-yuan?utm_source=rss_feed",
+      "title": "Tale of 2 megacities: how did Beijing and Shanghai’s GDPs surpass 5 trillion yuan?",
+      "content_html": "As China’s two largest cities by economic output, Beijing and Shanghai are widely seen as barometers for the country’s broader economic performance.\nIn 2025, Beijing’s gross domestic product reached 5.2 trillion yuan (US$748 billion), making it the second Chinese city to cross the 5-trillion-yuan mark after Shanghai, which breached the threshold in 2024 and did so again in 2025 with a GDP of 5.67 trillion yuan. Based on last year’s figures, each city’s economic size is comparable to that of a...",
+      "content_text": "As China’s two largest cities by economic output, Beijing and Shanghai are widely seen as barometers for the country’s broader economic performance.\nIn 2025, Beijing’s gross domestic product reached 5.2 trillion yuan (US$748 billion), making it the second Chinese city to cross the 5-trillion-yuan mark after Shanghai, which breached the threshold in 2024 and did so again in 2025 with a GDP of 5.67 trillion yuan. Based on last year’s figures, each city’s economic size is comparable to that of a...",
+      "date_published": "2026-01-29T00:00:14.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/diplomacy/article/3341601/rise-republicans-wary-china-bipartisan-agreement-lessens-says-new-survey?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3341601/rise-republicans-wary-china-bipartisan-agreement-lessens-says-new-survey?utm_source=rss_feed",
       "title": "Rise in Republicans wary of China as bipartisan agreement lessens, new survey says",
