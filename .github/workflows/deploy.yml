@@ -1,4 +1,4 @@
-name: Deploy VitePress Site
+name: Deploy Site
 on:
   push:
     branches: [main]
@@ -7,6 +7,7 @@ on:
       - 'feeds/**'
       - 'package.json'
       - '.github/workflows/deploy.yml'
+      - 'next-app/**'
   workflow_dispatch:
 
 jobs:
@@ -29,11 +30,31 @@ jobs:
           node-version: "20"
           cache: "npm"
 
-      - name: Install Dependencies
+      # Build Main Site (VitePress)
+      - name: Install Main Site Dependencies
         run: npm ci
 
       - name: Build VitePress
         run: npm run docs:build
+
+      # Build Next.js App
+      - name: Install Next.js Dependencies
+        run: |
+          cd next-app/next-app
+          npm ci
+
+      - name: Build Next.js
+        run: |
+          cd next-app/next-app
+          npm run build
+        env:
+          NEXT_PUBLIC_BASE_PATH: /RSS/next
+
+      # Combine Builds
+      - name: Move Next.js Build to Subpath
+        run: |
+          mkdir -p dist/next
+          cp -r next-app/next-app/out/* dist/next/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
