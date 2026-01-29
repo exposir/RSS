@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
+      "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
+      "content_html": "Bowing to Trump administration pressure, the new legislation improves conditions for foreign oil companies and opens the way to slash the taxes they pay.",
+      "content_text": "Bowing to Trump administration pressure, the new legislation improves conditions for foreign oil companies and opens the way to slash the taxes they pay.",
+      "date_published": "2026-01-29T22:56:11.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/media/california-post-new-york-post-fox-rupert-murdoch.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/media/california-post-new-york-post-fox-rupert-murdoch.html",
+      "title": "Murdoch and News Corp Take on the West Coast with The California Post",
+      "content_html": "The expansion of the Murdoch tabloid from its New York roots to the West Coast is the latest sign of the outlet’s national ambitions.",
+      "content_text": "The expansion of the Murdoch tabloid from its New York roots to the West Coast is the latest sign of the outlet’s national ambitions.",
+      "date_published": "2026-01-29T22:47:19.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/trump-2020-election-claims-fact-check.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/trump-2020-election-claims-fact-check.html",
+      "title": "How Trump’s 2020 Election Claims Have Been Debunked Again and Again",
+      "content_html": "The Trump administration has recently escalated its efforts to prove widespread voter fraud in 2020. Election officials and top Republicans have repeatedly said these claims are baseless.",
+      "content_text": "The Trump administration has recently escalated its efforts to prove widespread voter fraud in 2020. Election officials and top Republicans have repeatedly said these claims are baseless.",
+      "date_published": "2026-01-29T22:20:29.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/nyregion/chabad-brooklyn-car-ramming.html",
       "url": "https://www.nytimes.com/2026/01/29/nyregion/chabad-brooklyn-car-ramming.html",
       "title": "Police File Hate Crime Charges After Chabad Ramming in Brooklyn",

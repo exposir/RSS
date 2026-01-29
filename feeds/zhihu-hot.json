@@ -6,6 +6,14 @@
   "description": "知乎热榜 - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.zhihu.com/question/2000353838817882383",
+      "url": "https://www.zhihu.com/question/2000353838817882383",
+      "title": "为什么2026年1月29日晚上的黄金价格出现大跳水？",
+      "content_html": "<p>[图片]</p>",
+      "content_text": "[图片]",
+      "date_published": "2026-01-29T15:45:19.000Z"
+    },
+    {
       "id": "https://www.zhihu.com/question/2000283346773701048",
       "url": "https://www.zhihu.com/question/2000283346773701048",
       "title": "BLG 官宣二队上单 Wenbo 上调，网传 Bin 离队是真的吗？",
@@ -556,6 +564,22 @@
       "content_html": "",
       "content_text": "",
       "date_published": "2026-01-21T06:47:10.000Z"
+    },
+    {
+      "id": "https://www.zhihu.com/question/1997313625149368239",
+      "url": "https://www.zhihu.com/question/1997313625149368239",
+      "title": "明代已经有了火器，却为何没能建立长期技术优势？",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-21T06:24:36.000Z"
+    },
+    {
+      "id": "https://www.zhihu.com/question/1997042430449575528",
+      "url": "https://www.zhihu.com/question/1997042430449575528",
+      "title": "有哪些游戏里的词在现实里却完全是另外一个意思？",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-20T12:26:58.000Z"
     },
     {
       "id": "https://www.zhihu.com/question/1996606901002191707",

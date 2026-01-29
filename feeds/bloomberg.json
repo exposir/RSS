@@ -6,6 +6,30 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/apple-beats-spacex-to-consider-merger-with-tesla-or-xai-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/apple-beats-spacex-to-consider-merger-with-tesla-or-xai-more",
+      "title": "Apple Beats, SpaceX to Consider Merger with Tesla or xAI, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T22:54:26.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-businessweek-daily-h-1b-chaos-for-india-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-businessweek-daily-h-1b-chaos-for-india-podcast",
+      "title": "Bloomberg Businessweek Daily: H-1B Chaos for India (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T22:42:59.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/japan-s-succession-crisis-yields-country-s-best-performing-ipo",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/japan-s-succession-crisis-yields-country-s-best-performing-ipo",
+      "title": "Japan’s Succession Crisis Yields Country’s Best-Performing IPO",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T22:30:00.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-29/iphone-fuels-apple-s-record-qtr-microsoft-s-historic-slide",
       "url": "https://www.bloomberg.com/news/audio/2026-01-29/iphone-fuels-apple-s-record-qtr-microsoft-s-historic-slide",
       "title": "iPhone Fuels Apple's Record Qtr, Microsoft's Historic Slide",

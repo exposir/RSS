@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "cb19310a-ff20-42ca-81e7-2637cb34f4ec",
+      "url": "https://www.smh.com.au/national/queensland/worker-fights-for-life-after-machinery-accident-at-port-of-brisbane-20260130-p5ny8x.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Worker fights for life after machinery accident at Port of Brisbane",
+      "content_html": "Reports suggested the worksite accident involved a bulldozer.",
+      "content_text": "Reports suggested the worksite accident involved a bulldozer.",
+      "date_published": "2026-01-29T22:41:12.000Z"
+    },
+    {
       "id": "c4b2a2da-f193-4deb-bc96-278c565f85f3",
       "url": "https://www.smh.com.au/national/nine-sells-talkback-radio-assets-to-publican-for-56-million-20260130-p5ny8v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Nine sells talkback radio assets to publican for $56 million",

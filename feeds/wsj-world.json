@@ -6,6 +6,22 @@
   "description": "World News",
   "items": [
     {
+      "id": "SB11336906705384833482504592644162839623278",
+      "url": "https://www.wsj.com/opinion/hamas-hostages-gaza-israel-donald-trump-jared-kushner-93382f66",
+      "title": "Opinion | Hamas Loses Its Last Hostage",
+      "content_html": "The U.S. and Israel can press the advantage to demilitarize Gaza.",
+      "content_text": "The U.S. and Israel can press the advantage to demilitarize Gaza.",
+      "date_published": "2026-01-29T22:39:00.000Z"
+    },
+    {
+      "id": "SB11286586436010934573104592633732588008326",
+      "url": "https://www.wsj.com/opinion/viktor-orban-hungary-electric-vehicles-subsidies-climate-953b330a",
+      "title": "Opinion | Orb&#xe1;nomics Needs European Union Subsidies",
+      "content_html": "Hungary&#x2019;s Prime Minister bet big on green cars, like Biden, and now needs help from the people he loves to hate.",
+      "content_text": "Hungary&#x2019;s Prime Minister bet big on green cars, like Biden, and now needs help from the people he loves to hate.",
+      "date_published": "2026-01-29T22:35:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003295056",
       "url": "https://www.wsj.com/economy/trade/china-agrees-to-lower-tariffs-by-half-on-u-k-whisky-9a68469d",
       "title": "China Agrees to Lower Tariffs by Half on U.K. Whisky",

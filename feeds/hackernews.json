@@ -22,6 +22,14 @@
       "date_published": "2026-01-29T16:12:19.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46810401",
+      "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
+      "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+      "content_html": "<p>Article URL: <a href=\"https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/\">https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810401\">https://news.ycombinator.com/item?id=46810401</a></p>\n<p>Points: 238</p>\n<p># Comments: 415</p>",
+      "content_text": "Article URL: https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/\nComments URL: https://news.ycombinator.com/item?id=46810401\nPoints: 238\n# Comments: 415",
+      "date_published": "2026-01-29T14:08:56.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46810282",
       "url": "https://marginlab.ai/trackers/claude-code/",
       "title": "Claude Code Daily Benchmarks for Degradation Tracking",
