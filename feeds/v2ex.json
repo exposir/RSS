@@ -17,6 +17,86 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189345",
+      "url": "https://www.v2ex.com/t/1189345#reply1",
+      "title": "[程序员] 想问下大家 claude code 如果没有用官方付费模型的话，可以用 agent skills 功能吗？",
+      "content_html": "<p>我用 claude code 连接了 minixmax 模型，发现 skills 文件读取不了，vscode github copilot 可以读取，说明文件应该是没问题的，是不是一定要付费注册来用 claude code 才行？ 谢谢</p>",
+      "content_text": "我用 claude code 连接了 minixmax 模型，发现 skills 文件读取不了，vscode github copilot 可以读取，说明文件应该是没问题的，是不是一定要付费注册来用 claude code 才行？ 谢谢",
+      "date_published": "2026-01-29T10:36:46.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189344",
+      "url": "https://www.v2ex.com/t/1189344#reply1",
+      "title": "[问与答] 今年还有哪些公司有年终？",
+      "content_html": "<p>我先来。上海 港股上市公司（家族作坊） 没有</p>",
+      "content_text": "我先来。上海 港股上市公司（家族作坊） 没有",
+      "date_published": "2026-01-29T10:35:08.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189343",
+      "url": "https://www.v2ex.com/t/1189343#reply0",
+      "title": "[VPS] DigVPS 测评 - ISIF Cloud 上新韩国优化产品，目前速率最顶的韩国产品，没有之一。新品限时月付 8 折，年付 7 折出售中。",
+      "content_html": "<p>规格：</p>\n<p><img alt=\"1-KR-GMP-B.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/29/DeY78oca5wRAsXU.png\"/></p>\n<p>摘要：</p>\n<p><img alt=\"2-KR-GMP-B.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/29/GeEjOTrK45H1I2n.png\"/></p>\n<p>硬件：</p>\n<p><img alt=\"3-KR-GMP-B.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/29/Ufvqb9PQD41mnC5.png\"/></p>\n<p>速率：</p>\n<p><img alt=\"4-KR-GMP-B.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/29/N4tJIUymRYzWPrg.png\"/></p>\n<p>IPv4 质量：</p>\n<p><img alt=\"5-KR-GMP-B.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/29/AeyNrV8KHaitRJ4.png\"/></p>\n<p>IPv6 质量：</p>\n<p><img alt=\"6-KR-GMP-B.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/29/zb4e9LYFxBTkIW6.png\"/></p>\n<p>ICMP 延迟：</p>\n<p><img alt=\"7-KR-GMP-B.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/29/nLT6c4FlGrAxh2g.png\"/></p>\n<p>TCP 延迟：</p>\n<p><img alt=\"8-KR-GMP-B.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/29/VF8gCLpJvIAxoQt.png\"/></p>\n<blockquote>\n<p>如对该产品感兴趣，想要持续关注其<strong>实时与历史数据表现</strong>，欢迎访问我们的<a href=\"https://digvps.com/review/isif#KR-GMP-B\" rel=\"nofollow\">站点</a>进行长期跟踪。</p>\n</blockquote>",
+      "content_text": "规格：\n\n摘要：\n\n硬件：\n\n速率：\n\nIPv4 质量：\n\nIPv6 质量：\n\nICMP 延迟：\n\nTCP 延迟：\n\n\n如对该产品感兴趣，想要持续关注其实时与历史数据表现，欢迎访问我们的站点进行长期跟踪。",
+      "date_published": "2026-01-29T10:30:26.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189342",
+      "url": "https://www.v2ex.com/t/1189342#reply1",
+      "title": "[Vibe Coding] 后端 boy 用 GPT 写前端，效果惨不忍睹，求指路",
+      "content_html": "后端 boy ，没有前端背景，了解点 html css(就这么一点点🤏)<br /><br />我的流程是: 告诉 gpt 我的项目背景 -> gpt 设计页面架构 -> 再绘图 -> gpt 描述图片内容 -> gpt 实现代码。<br />效果非常差，包括用 lovable 、bolt 。<br /><br />我认为是我的 prompt 写的太差，但是对前端不了解，很难写个符合预期的 prompt 。<br />网络上生成效果比较好的提示词，大部分都是写得非常明确，精确到颜色值、实现方式的粒度。<br /><br />各位大佬，有无最佳实践分享🧎🧎🧎",
+      "content_text": "后端 boy ，没有前端背景，了解点 html css(就这么一点点🤏)我的流程是: 告诉 gpt 我的项目背景 -> gpt 设计页面架构 -> 再绘图 -> gpt 描述图片内容 -> gpt 实现代码。效果非常差，包括用 lovable 、bolt 。我认为是我的 prompt 写的太差，但是对前端不了解，很难写个符合预期的 prompt 。网络上生成效果比较好的提示词，大部分都是写得非常明确，精确到颜色值、实现方式的粒度。各位大佬，有无最佳实践分享🧎🧎🧎",
+      "date_published": "2026-01-29T10:23:33.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189341",
+      "url": "https://www.v2ex.com/t/1189341#reply0",
+      "title": "[小散户的日常] 比特币交易日记：第九天复盘",
+      "content_html": "<p>以下内容仅为个人交易复盘，不构成投资建议。\n强烈不建议任何人入市参与。\n本人只是日内小仓位操作，纯练手，切勿抱有赚钱幻想。</p>\n<p>昨天我直接执行了止损操作，事实证明不宜参与自己不熟悉的市场。幸好止损及时止住了进一步亏损，虽然亏损抵消了过去五天的盈利，但在市场中保持资金安全才是首要任务。</p>\n<p><img alt=\"2b7874d78bf6d83a4c90663efbca4f47.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.mji.rip/2026/01/29/2b7874d78bf6d83a4c90663efbca4f47.png\"/></p>",
+      "content_text": "以下内容仅为个人交易复盘，不构成投资建议。\n强烈不建议任何人入市参与。\n本人只是日内小仓位操作，纯练手，切勿抱有赚钱幻想。\n昨天我直接执行了止损操作，事实证明不宜参与自己不熟悉的市场。幸好止损及时止住了进一步亏损，虽然亏损抵消了过去五天的盈利，但在市场中保持资金安全才是首要任务。",
+      "date_published": "2026-01-29T10:18:55.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189340",
+      "url": "https://www.v2ex.com/t/1189340#reply3",
+      "title": "[分享创造] 鉴于「俸禄 2 两白银」的图片转发很火，光速用 Gemini 做了个工资-俸禄-职位的网页",
+      "content_html": "页面链接： <a target=\"_blank\" href=\"https://nightcat-demo.hzfe.org/\" rel=\"nofollow noopener\">https://nightcat-demo.hzfe.org/</a><br /><br />示意图：<br /> <a target=\"_blank\" href=\"https://i.imgur.com/hfEF6V4.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/hfEF6V4.png\" class=\"embedded_image\" rel=\"noreferrer\"></a><br /><br /> <a target=\"_blank\" href=\"https://i.imgur.com/YuTLyDB.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/YuTLyDB.png\" class=\"embedded_image\" rel=\"noreferrer\"></a>",
+      "content_text": "页面链接： https://nightcat-demo.hzfe.org/示意图：",
+      "date_published": "2026-01-29T10:13:59.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189339",
+      "url": "https://www.v2ex.com/t/1189339#reply0",
+      "title": "[问与答] 京东苹果手机 2 年电池低于 80%换新服务靠谱么？",
+      "content_html": "刚从狗东入手 iPhone 17 ，看到有个 2 年电池低于 80%免费换新的保险，问下买过的兄弟们这个靠谱么，到时候能送到旗舰店取换电池么，还是说只能送到苹果授权服务商那边取换电池？",
+      "content_text": "刚从狗东入手 iPhone 17 ，看到有个 2 年电池低于 80%免费换新的保险，问下买过的兄弟们这个靠谱么，到时候能送到旗舰店取换电池么，还是说只能送到苹果授权服务商那边取换电池？",
+      "date_published": "2026-01-29T10:06:14.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189338",
+      "url": "https://www.v2ex.com/t/1189338#reply1",
+      "title": "[推广] 免费的论文写作工具，亮点是提供真实引用而非“编造参考文献”",
+      "content_html": "<p>大家好，</p>\n<p>我们是一个创业团队，最近憋了个新功能出来——<strong>AI 论文写作</strong>。</p>\n<p>其实做这个挺有压力的。现在市面上 AI 写作工具不少，但很多都一个毛病：为了文章看着像样，直接编参考文献。我们收到过好几个学生的反馈，说用了某些工具后被导师揪出来“引用造假”，差点影响毕业。</p>\n<p>这事儿让我们挺难受的。技术本来应该帮人，不是坑人。</p>\n<p>所以我们决定走另一条路：</p>\n<ul>\n<li><strong>只提供真实能查到的文献</strong>（每个引用都能点开验证）</li>\n<li><strong>按学术规范生成引用格式</strong>（ APA/MLA/Chicago 这些）</li>\n<li><strong>不强求生成完美论文，但求给个靠谱的起点</strong></li>\n</ul>\n<p>技术上我们对接了几个学术数据库，虽然成本高了点，生成速度有时也受影响，但我们觉得<strong>学术工具的第一原则必须是真实</strong>。宁可慢一点，也不能在引用上糊弄人。</p>\n<p>现在这个功能完全免费给大家用：</p>\n<ul>\n<li>每天可以生成 2 次论文大纲或部分内容</li>\n<li>引用查询不限次数</li>\n<li>不用注册也能试，没广告</li>\n</ul>\n<p>最后想说，在 V2EX 发这个是因为这里懂技术的人多，知道“真实数据”的价值。也特别想听听大家的建议：</p>\n<ol>\n<li>这种真实引用的功能对写论文到底有没有实质帮助？</li>\n<li>技术上有没有什么更好的实现思路？</li>\n</ol>\n<p><strong>体验地址在这</strong>： <a href=\"https://notegpt.io/ai-essay-writer\" rel=\"nofollow\">https://notegpt.io/ai-essay-writer</a></p>\n<p>欢迎来试试，拍砖也行，每个真实反馈都特别珍贵。</p>",
+      "content_text": "大家好，\n我们是一个创业团队，最近憋了个新功能出来——AI 论文写作。\n其实做这个挺有压力的。现在市面上 AI 写作工具不少，但很多都一个毛病：为了文章看着像样，直接编参考文献。我们收到过好几个学生的反馈，说用了某些工具后被导师揪出来“引用造假”，差点影响毕业。\n这事儿让我们挺难受的。技术本来应该帮人，不是坑人。\n所以我们决定走另一条路：\n\n只提供真实能查到的文献（每个引用都能点开验证）\n按学术规范生成引用格式（ APA/MLA/Chicago 这些）\n不强求生成完美论文，但求给个靠谱的起点\n\n技术上我们对接了几个学术数据库，虽然成本高了点，生成速度有时也受影响，但我们觉得学术工具的第一原则必须是真实。宁可慢一点，也不能在引用上糊弄人。\n现在这个功能完全免费给大家用：\n\n每天可以生成 2 次论文大纲或部分内容\n引用查询不限次数\n不用注册也能试，没广告\n\n最后想说，在 V2EX 发这个是因为这里懂技术的人多，知道“真实数据”的价值。也特别想听听大家的建议：\n\n这种真实引用的功能对写论文到底有没有实质帮助？\n技术上有没有什么更好的实现思路？\n\n体验地址在这： https://notegpt.io/ai-essay-writer\n欢迎来试试，拍砖也行，每个真实反馈都特别珍贵。",
+      "date_published": "2026-01-29T10:03:13.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189337",
+      "url": "https://www.v2ex.com/t/1189337#reply0",
+      "title": "[分享发现] 鼠标手势设置分享",
+      "content_html": "<p>最近换了 win11 的笔记本，在琢磨提升操作效率，尝试了一段时间的 WGestures1 后，决定用它来设置鼠标手势，\n以下是我的设置分享，箭头代表按住右键（◑）时鼠标的拖动方向，◖代表左键的点击（作为修饰键来使用），举例如下：◑⬐→◖，代表按住右键往左、往下、再往右移保持不松手，再按左键，命令里的按住右键（◑）默认不提及。</p>\n<ul>\n<li>\n全局命令：<ul>\n<li>\n↑：复制，Ctrl+C 。<ul>\n<li>↑+◖，剪切，Ctrl+X 。</li>\n</ul>\n</li>\n<li>\n↓：粘贴，Ctrl+V 。<ul>\n<li>↓+◖，粘贴并回车，Ctrl+V+Enter 。</li>\n</ul>\n</li>\n<li>\n←：后退，Alt+←。<ul>\n<li>←+◖，恢复标签（重新打开） Ctrl-Shift+T 。</li>\n</ul>\n</li>\n<li>\n→：前进，Alt+→。<ul>\n<li>→+◖，刷新，Ctrl+R （不用 F5 ）。</li>\n</ul>\n</li>\n<li>◑+滚轮⬍：切换标签，Shift-Ctrl+Tab / Ctrl+Tab 。</li>\n<li>◑+◖：新标签，Ctrl+T 。</li>\n<li>↗️：最大化（恢复）窗口。</li>\n<li>↙️：最小化窗口。</li>\n<li>↖️：超大图标视图，Ctrl-Alt+1 。everything 要单独映射 Ctrl-Shift+1 。</li>\n<li>↘️：详细信息视图，Ctrl-Alt+6 。everything 要单独映射 Ctrl-Shift+6 。</li>\n<li>↰：上左，左桌面，Ctrl-Win+←。</li>\n<li>↱：上右，右桌面，Ctrl-Win+→。</li>\n<li>↲：下左，回车，Enter ，Return （罗技鼠标有拇指快捷快）。</li>\n<li>↳：下右，关闭窗口/标签，Ctrl+W 。</li>\n<li>⬑：左上，地址栏，Ctrl+L （联想左上角地址栏）。</li>\n<li>⬐：左下，撤销，Ctrl+Z 。</li>\n<li>⬏：右上，头部，Home （联想右侧滚动条）。</li>\n<li>⬎：右下，尾部，End （联想右侧滚动条）。</li>\n<li>⇄：向右删除（先右后左），Delete 。</li>\n<li>⇆：向左退格（先左后右），Backspace 。</li>\n<li>⇵：Web 搜索（ V 字联想 W ，自定浏览器和搜索引擎）。</li>\n<li>⇅：窗口置顶/取消置顶（ A 字尖朝上）。</li>\n<li>↱↓：新窗口，Ctrl+N （画 n 字）。</li>\n<li>⬐→：退出，Alt+F4 （画 c 字）。或：强制退出（ taskkill /f /pid %WG_PROCID% /s localhost ）</li>\n<li>↳↑：静音开关（画 u 字，联想 mute ）</li>\n</ul>\n</li>\n<li>\n应用专属：<ul>\n<li>\n文件管理器：<ul>\n<li>⬎←：重命名，F2 （画反 C 字）</li>\n</ul>\n</li>\n<li>\nEverything：<ul>\n<li>↖️：超大图标视图，Ctrl-Shift+1 。</li>\n<li>↘️：详情视图，Ctrl-Shift+6 。</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>",
+      "content_text": "最近换了 win11 的笔记本，在琢磨提升操作效率，尝试了一段时间的 WGestures1 后，决定用它来设置鼠标手势，\n以下是我的设置分享，箭头代表按住右键（◑）时鼠标的拖动方向，◖代表左键的点击（作为修饰键来使用），举例如下：◑⬐→◖，代表按住右键往左、往下、再往右移保持不松手，再按左键，命令里的按住右键（◑）默认不提及。\n\n\n全局命令：\n\n↑：复制，Ctrl+C 。\n↑+◖，剪切，Ctrl+X 。\n\n\n\n↓：粘贴，Ctrl+V 。\n↓+◖，粘贴并回车，Ctrl+V+Enter 。\n\n\n\n←：后退，Alt+←。\n←+◖，恢复标签（重新打开） Ctrl-Shift+T 。\n\n\n\n→：前进，Alt+→。\n→+◖，刷新，Ctrl+R （不用 F5 ）。\n\n\n◑+滚轮⬍：切换标签，Shift-Ctrl+Tab / Ctrl+Tab 。\n◑+◖：新标签，Ctrl+T 。\n↗️：最大化（恢复）窗口。\n↙️：最小化窗口。\n↖️：超大图标视图，Ctrl-Alt+1 。everything 要单独映射 Ctrl-Shift+1 。\n↘️：详细信息视图，Ctrl-Alt+6 。everything 要单独映射 Ctrl-Shift+6 。\n↰：上左，左桌面，Ctrl-Win+←。\n↱：上右，右桌面，Ctrl-Win+→。\n↲：下左，回车，Enter ，Return （罗技鼠标有拇指快捷快）。\n↳：下右，关闭窗口/标签，Ctrl+W 。\n⬑：左上，地址栏，Ctrl+L （联想左上角地址栏）。\n⬐：左下，撤销，Ctrl+Z 。\n⬏：右上，头部，Home （联想右侧滚动条）。\n⬎：右下，尾部，End （联想右侧滚动条）。\n⇄：向右删除（先右后左），Delete 。\n⇆：向左退格（先左后右），Backspace 。\n⇵：Web 搜索（ V 字联想 W ，自定浏览器和搜索引擎）。\n⇅：窗口置顶/取消置顶（ A 字尖朝上）。\n↱↓：新窗口，Ctrl+N （画 n 字）。\n⬐→：退出，Alt+F4 （画 c 字）。或：强制退出（ taskkill /f /pid %WG_PROCID% /s localhost ）\n↳↑：静音开关（画 u 字，联想 mute ）\n\n\n\n应用专属：\n\n文件管理器：\n⬎←：重命名，F2 （画反 C 字）\n\n\n\nEverything：\n↖️：超大图标视图，Ctrl-Shift+1 。\n↘️：详情视图，Ctrl-Shift+6 。",
+      "date_published": "2026-01-29T10:01:02.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189336",
+      "url": "https://www.v2ex.com/t/1189336#reply0",
+      "title": "[问与答] gamsgo.com 这个平台的拼车帐号有大佬们购买过吗？请问购买过的大佬体验如何，稳不稳？网站已经运行五六年了，今天在推上看到，有点心动",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T09:59:47.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-29:/t/1189333",
       "url": "https://www.v2ex.com/t/1189333#reply0",
       "title": "[推广] 代理 IP 圈又“地震”？稳定的动态 ip 很重要！ [kookeey 动态 ip]",

@@ -6,6 +6,14 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/economy/global-economy/article/3341698/eu-overtakes-us-chinas-top-source-trade-disputes-new-data-shows?utm_source=rss_feed",
+      "url": "https://www.scmp.com/economy/global-economy/article/3341698/eu-overtakes-us-chinas-top-source-trade-disputes-new-data-shows?utm_source=rss_feed",
+      "title": "EU overtakes US as China’s top source of trade disputes, new data shows",
+      "content_html": "The European Union has surpassed the United States as the economy with the most serious trade disputes with China, driven by conflicts over semiconductor materials, rare earth magnets and other strategic sectors, according to a Chinese trade body.\nA monthly index released on Wednesday by the China Council for the Promotion of International Trade (CCPIT), a semi-official Beijing-based organisation, found that in November 2025 – the last month tracked – the EU ranked as China’s top source of trade...",
+      "content_text": "The European Union has surpassed the United States as the economy with the most serious trade disputes with China, driven by conflicts over semiconductor materials, rare earth magnets and other strategic sectors, according to a Chinese trade body.\nA monthly index released on Wednesday by the China Council for the Promotion of International Trade (CCPIT), a semi-official Beijing-based organisation, found that in November 2025 – the last month tracked – the EU ranked as China’s top source of trade...",
+      "date_published": "2026-01-29T10:00:26.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/military/article/3341693/are-chinas-j-20a-stealth-fighters-now-updated-high-thrust-ws-15-engines?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/military/article/3341693/are-chinas-j-20a-stealth-fighters-now-updated-high-thrust-ws-15-engines?utm_source=rss_feed",
       "title": "Are China’s J-20A stealth fighters now updated with high-thrust WS-15 engines?",

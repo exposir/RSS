@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/opinion/ice-trump-good-pretti.html",
+      "url": "https://www.nytimes.com/2026/01/29/opinion/ice-trump-good-pretti.html",
+      "title": "Senator Tina Smith: My State Showed Courage. Will Republicans?",
+      "content_html": "Minnesotans have stood up for common decency and our founding principles.",
+      "content_text": "Minnesotans have stood up for common decency and our founding principles.",
+      "date_published": "2026-01-29T10:05:58.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/opinion/jay-bhattacharya-public-health-covid-trust.html",
+      "url": "https://www.nytimes.com/2026/01/29/opinion/jay-bhattacharya-public-health-covid-trust.html",
+      "title": "A ‘Fringe Epidemiologist’ on What’s Wrong With Public Health",
+      "content_html": "Jay Bhattacharya, the N.I.H. director, says authorities broke the public’s trust in the Covid era. Now it’s up to outsiders to restore it.",
+      "content_text": "Jay Bhattacharya, the N.I.H. director, says authorities broke the public’s trust in the Covid era. Now it’s up to outsiders to restore it.",
+      "date_published": "2026-01-29T10:05:05.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/arts/television/late-night-ilhan-omar.html",
       "url": "https://www.nytimes.com/2026/01/29/arts/television/late-night-ilhan-omar.html",
       "title": "Late Night Praises Ilhan Omar’s Quick Reflexes",

@@ -6,6 +6,38 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/arts/design/newark-museum-of-art-director.html",
+      "url": "https://www.nytimes.com/2026/01/29/arts/design/newark-museum-of-art-director.html",
+      "title": "Newark Museum of Art Names a New Leader",
+      "content_html": "Lisa Funderburke will be chief executive and director of the state’s largest art museum.",
+      "content_text": "Lisa Funderburke will be chief executive and director of the state’s largest art museum.",
+      "date_published": "2026-01-29T10:03:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/economy/manufacturing-factories-tariffs.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/economy/manufacturing-factories-tariffs.html",
+      "title": "Trump’s Trade Policies Sort Manufacturers Into Winners and Losers",
+      "content_html": "Tariffs have protected some companies, but more often they’ve hit the parts and materials many factories need to make finished goods.",
+      "content_text": "Tariffs have protected some companies, but more often they’ve hit the parts and materials many factories need to make finished goods.",
+      "date_published": "2026-01-29T10:02:13.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
+      "url": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
+      "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",
+      "content_html": "New discounts can make heat pumps go from a bad investment to a good idea.",
+      "content_text": "New discounts can make heat pumps go from a bad investment to a good idea.",
+      "date_published": "2026-01-29T10:01:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/economy/tariffs-rugs-loloi.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/economy/tariffs-rugs-loloi.html",
+      "title": "A Rug Maker Withstood One Year of Trump’s Tariffs. New Challenges Loom.",
+      "content_html": "Loloi stockpiled rugs from India, Turkey and other countries in advance, but inventory is running low.",
+      "content_text": "Loloi stockpiled rugs from India, Turkey and other countries in advance, but inventory is running low.",
+      "date_published": "2026-01-29T10:00:26.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/business/china-economy-duality.html",
       "url": "https://www.nytimes.com/2026/01/29/business/china-economy-duality.html",
       "title": "At World’s Busiest Port, China’s Unbalanced Economy Comes Into View",

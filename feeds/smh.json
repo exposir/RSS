@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "f179452a-eb17-4318-bb7c-4db11115dd1d",
+      "url": "https://www.smh.com.au/national/emergency-level-fire-damages-property-in-perth-s-north-20260129-p5ny65.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Emergency-level fire damages property in Perth’s north",
+      "content_html": "A plume of thick smoke could be seen from the air as a bushfire headed towards homes.",
+      "content_text": "A plume of thick smoke could be seen from the air as a bushfire headed towards homes.",
+      "date_published": "2026-01-29T10:32:12.000Z"
+    },
+    {
+      "id": "79395de1-813f-4fad-b4f5-5dde383712e1",
+      "url": "https://www.smh.com.au/national/scammers-preying-on-desperate-perth-renters-20260129-p5ny64.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Scammers preying on desperate Perth renters",
+      "content_html": "Fake “private landlords” on Facebook Marketplace are promising listings below market price for a costly deposit.",
+      "content_text": "Fake “private landlords” on Facebook Marketplace are promising listings below market price for a costly deposit.",
+      "date_published": "2026-01-29T10:32:06.000Z"
+    },
+    {
+      "id": "09a5dc10-dd31-4e8f-8539-337eca8d765a",
+      "url": "https://www.smh.com.au/sport/tennis/sabalenka-reaches-final-in-comprehensive-victory-20260129-p5ny63.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sabalenka reaches final in 'comprehensive victory'",
+      "content_html": "Aryna Sabalenka seals another Australian Open semi-final win.",
+      "content_text": "Aryna Sabalenka seals another Australian Open semi-final win.",
+      "date_published": "2026-01-29T10:21:29.000Z"
+    },
+    {
+      "id": "b8170040-27c1-4936-95d9-35e0d586cf8c",
+      "url": "https://www.smh.com.au/national/queensland/new-planet-that-could-support-life-discovered-by-queensland-scientists-20260129-p5ny4s.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "New planet that could support life discovered by Queensland scientists",
+      "content_html": "It’s so far away, scientists are effectively viewing it as it was during the 19th century – around the time the telephone was being invented.",
+      "content_text": "It’s so far away, scientists are effectively viewing it as it was during the 19th century – around the time the telephone was being invented.",
+      "date_published": "2026-01-29T10:19:22.000Z"
+    },
+    {
+      "id": "5a10ff3d-a467-4d9c-9e17-2f75848118c6",
+      "url": "https://www.smh.com.au/national/nsw/defining-that-little-bit-on-the-side-20260129-p5nxwo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Defining that little bit on the side",
+      "content_html": "Copious, quirky and occasionally Queenslander.",
+      "content_text": "Copious, quirky and occasionally Queenslander.",
+      "date_published": "2026-01-29T10:00:00.000Z"
+    },
+    {
       "id": "4c04936f-6c83-4dcc-8e77-d976c206b6d3",
       "url": "https://www.smh.com.au/sport/tennis/sabelenkas-powerful-backhand-seals-set-20260129-p5ny5z.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Sabelenka's powerful backhand seals set",

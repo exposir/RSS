@@ -14,6 +14,14 @@
       "date_published": "2026-01-29T03:58:33.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46804828",
+      "url": "https://github.com/lukilabs/beautiful-mermaid",
+      "title": "Render Mermaid diagrams as SVGs or ASCII art",
+      "content_html": "<p>Article URL: <a href=\"https://github.com/lukilabs/beautiful-mermaid\">https://github.com/lukilabs/beautiful-mermaid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46804828\">https://news.ycombinator.com/item?id=46804828</a></p>\n<p>Points: 255</p>\n<p># Comments: 41</p>",
+      "content_text": "Article URL: https://github.com/lukilabs/beautiful-mermaid\nComments URL: https://news.ycombinator.com/item?id=46804828\nPoints: 255\n# Comments: 41",
+      "date_published": "2026-01-29T02:08:40.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46803356",
       "url": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
       "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
@@ -116,6 +124,14 @@
       "content_html": "<p>Article URL: <a href=\"https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/\">https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791742\">https://news.ycombinator.com/item?id=46791742</a></p>\n<p>Points: 225</p>\n<p># Comments: 112</p>",
       "content_text": "Article URL: https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/\nComments URL: https://news.ycombinator.com/item?id=46791742\nPoints: 225\n# Comments: 112",
       "date_published": "2026-01-28T06:21:07.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46790740",
+      "url": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+      "title": "Android's desktop interface leaks",
+      "content_html": "<p>Article URL: <a href=\"https://9to5google.com/2026/01/27/android-desktop-leak/\">https://9to5google.com/2026/01/27/android-desktop-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46790740\">https://news.ycombinator.com/item?id=46790740</a></p>\n<p>Points: 242</p>\n<p># Comments: 320</p>",
+      "content_text": "Article URL: https://9to5google.com/2026/01/27/android-desktop-leak/\nComments URL: https://news.ycombinator.com/item?id=46790740\nPoints: 242\n# Comments: 320",
+      "date_published": "2026-01-28T03:34:45.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46789961",

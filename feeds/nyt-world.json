@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",
+      "title": "Netanyahu Vows to Cut Israel’s Reliance on U.S. Military Aid",
+      "content_html": "Prime Minister Benjamin Netanyahu blamed some soldiers’ deaths in the Gaza war on a lack of ammunition caused by a pause in American weapon deliveries during President Biden’s term.",
+      "content_text": "Prime Minister Benjamin Netanyahu blamed some soldiers’ deaths in the Gaza war on a lack of ammunition caused by a pause in American weapon deliveries during President Biden’s term.",
+      "date_published": "2026-01-29T10:30:19.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/europe/macron-france-trump-sunglasses-boost.html",
       "url": "https://www.nytimes.com/2026/01/29/world/europe/macron-france-trump-sunglasses-boost.html",
       "title": "How His Duel With Trump Boosted Emmanuel Macron, France’s Embattled President",

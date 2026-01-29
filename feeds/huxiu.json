@@ -6,6 +6,14 @@
   "description": "虎嗅网RSS订阅",
   "items": [
     {
+      "id": "http://www.huxiu.com/article/4830436.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4830436.html?f=wangzhan",
+      "title": "豆包手机命运多舛，被大厂围剿是他注定的命运吗？",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/28/165613234813.jpeg\"/>\n<p data-check-id=\"292524\">在中国，AI手机能不能成，好像和AI真没多大关系。玩了一个月被大厂封杀、自我阉割后的豆包手机助手，我突然理解了第一次坐火车的慈禧。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "在中国，AI手机能不能成，好像和AI真没多大关系。玩了一个月被大厂封杀、自我阉割后的豆包手机助手，我突然理解了第一次坐火车的慈禧。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-29T09:00:00.000Z"
+    },
+    {
       "id": "http://www.huxiu.com/article/4830600.html?f=wangzhan",
       "url": "http://www.huxiu.com/article/4830600.html?f=wangzhan",
       "title": "黄金白银LOF为啥突然停售？",
