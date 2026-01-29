@@ -227,12 +227,12 @@ export default function RSSReader() {
               collapsible={false}
               className="border-r border-border overflow-hidden"
             >
-              <div className="flex flex-col h-full">
-                <div className="p-4 border-b border-border flex items-center justify-between">
+              <div className="flex flex-col h-full overflow-hidden">
+                <div className="p-4 border-b border-border flex items-center justify-between flex-shrink-0">
                   <h2 className="font-semibold">订阅源</h2>
                   <span className="text-xs text-muted-foreground">{feedIndex.length} 个</span>
                 </div>
-                <ScrollArea className="flex-1">
+                <div className="flex-1 overflow-y-auto">
                   <div className="p-2 space-y-1">
                     {/* Error State */}
                     {error && (
@@ -279,7 +279,7 @@ export default function RSSReader() {
                       ))
                     )}
                   </div>
-                </ScrollArea>
+                </div>
               </div>
             </ResizablePanel>
             <ResizableHandle />
