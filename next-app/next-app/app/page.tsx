@@ -26,24 +26,22 @@ export default function RSSReader() {
   useEffect(() => {
     setIsMounted(true)
 
-    // Clear potentially corrupt layout data on mount
+    // Clear old layout data and migrate to new version
     if (typeof window !== 'undefined' && isDesktop) {
       try {
-        const savedLayout = localStorage.getItem('rss-reader-layout')
-        if (savedLayout) {
-          const layoutData = JSON.parse(savedLayout)
-          // Check if the saved layout has a left panel that's too small
-          if (layoutData && typeof layoutData === 'object') {
-            const leftPanelSize = layoutData['left-panel']
-            if (typeof leftPanelSize === 'number' && leftPanelSize < 15) {
-              console.log('Clearing corrupt layout data')
-              localStorage.removeItem('rss-reader-layout')
-            }
+        // Clear old keys that may have corrupt data
+        localStorage.removeItem('rss-reader-layout')
+        // Also clear any other layout-related keys from old versions
+        const keysToRemove: string[] = []
+        for (let i = 0; i < localStorage.length; i++) {
+          const key = localStorage.key(i)
+          if (key && (key.includes('react-resizable-panels') || key === 'rss-reader-layout')) {
+            keysToRemove.push(key)
           }
         }
+        keysToRemove.forEach(key => localStorage.removeItem(key))
       } catch (e) {
-        console.error('Error checking layout data:', e)
-        localStorage.removeItem('rss-reader-layout')
+        console.error('Error clearing layout data:', e)
       }
     }
   }, [isDesktop])
@@ -57,10 +55,10 @@ export default function RSSReader() {
         return
       }
     }
-    // Save to localStorage
+    // Save to localStorage with new key
     if (typeof window !== 'undefined') {
       try {
-        localStorage.setItem('rss-reader-layout', JSON.stringify(layout))
+        localStorage.setItem('rss-reader-layout-v2', JSON.stringify(layout))
       } catch (e) {
         console.error('Error saving layout:', e)
       }
@@ -73,11 +71,14 @@ export default function RSSReader() {
   useEffect(() => {
     if (typeof window !== 'undefined' && isDesktop) {
       try {
-        const savedLayout = localStorage.getItem('rss-reader-layout')
+        const savedLayout = localStorage.getItem('rss-reader-layout-v2')
         if (savedLayout) {
           const layoutData = JSON.parse(savedLayout)
           if (layoutData && typeof layoutData === 'object') {
-            setDefaultLayout(layoutData)
+            // Validate the loaded layout
+            if (layoutData['left-panel'] && layoutData['left-panel'] >= 18) {
+              setDefaultLayout(layoutData)
+            }
           }
         }
       } catch (e) {
