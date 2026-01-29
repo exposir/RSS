@@ -225,7 +225,7 @@ export default function RSSReader() {
               minSize={18}
               maxSize={35}
               collapsible={false}
-              className="border-r border-border"
+              className="border-r border-border overflow-hidden"
             >
               <div className="flex flex-col h-full">
                 <div className="p-4 border-b border-border flex items-center justify-between">
@@ -291,7 +291,7 @@ export default function RSSReader() {
           id="middle-panel"
           defaultSize={isDesktop ? 30 : 100}
           minSize={25}
-          className={cn("border-r border-border min-w-[300px]", !isDesktop && "w-full border-none")}
+          className={cn("border-r border-border", !isDesktop && "w-full border-none")}
         >
           <div className="flex flex-col h-full">
             <div className="p-4 border-b border-border space-y-3">
