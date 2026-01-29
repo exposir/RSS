@@ -6,6 +6,38 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/articles/c89q2qkdx97o#7",
+      "url": "https://www.bbc.com/sport/football/articles/c89q2qkdx97o?at_medium=RSS&at_campaign=rss",
+      "title": "Palace move for £50m Strand Larsen in doubt",
+      "content_html": "Crystal Palace's £50m move for Wolves striker Jorgen Strand Larsen is in the balance after the Eagles suggest they could walk away from the deal.",
+      "content_text": "Crystal Palace's £50m move for Wolves striker Jorgen Strand Larsen is in the balance after the Eagles suggest they could walk away from the deal.",
+      "date_published": "2026-01-29T18:36:06.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c9qp21lej5zo#7",
+      "url": "https://www.bbc.com/sport/football/articles/c9qp21lej5zo?at_medium=RSS&at_campaign=rss",
+      "title": "How English clubs got smart to dominate this season's Champions League",
+      "content_html": "Premier League clubs always had the money, but now they also have the know-how they have dominated this season's Champions League.",
+      "content_text": "Premier League clubs always had the money, but now they also have the know-how they have dominated this season's Champions League.",
+      "date_published": "2026-01-29T18:04:17.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/cricket/articles/cn0yvyxd7y1o#7",
+      "url": "https://www.bbc.com/sport/cricket/articles/cn0yvyxd7y1o?at_medium=RSS&at_campaign=rss",
+      "title": "Archer named in England side for first T20",
+      "content_html": "Jofra Archer returns to the England team to face Sri Lanka in the first T20 match after recovering from injury.",
+      "content_text": "Jofra Archer returns to the England team to face Sri Lanka in the first T20 match after recovering from injury.",
+      "date_published": "2026-01-29T17:45:10.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c368yjy663zo#0",
+      "url": "https://www.bbc.com/news/articles/c368yjy663zo?at_medium=RSS&at_campaign=rss",
+      "title": "Archbishop of York to face no action over sexual abuse case",
+      "content_html": "The Church's president of tribunals says Stephen Cottrell \"had no power to remove or suspend David Tudor from ministry\".",
+      "content_text": "The Church's president of tribunals says Stephen Cottrell \"had no power to remove or suspend David Tudor from ministry\".",
+      "date_published": "2026-01-29T17:19:45.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/cew8q8xj9e2o#7",
       "url": "https://www.bbc.com/sport/football/articles/cew8q8xj9e2o?at_medium=RSS&at_campaign=rss",
       "title": "Arsenal in talks to sign Barcelona's Batlle in summer",
@@ -30,6 +62,14 @@
       "date_published": "2026-01-29T16:50:40.000Z"
     },
     {
+      "id": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo#0",
+      "url": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo?at_medium=RSS&at_campaign=rss",
+      "title": "Raducanu splits with ninth coach after Australian Open exit",
+      "content_html": "British number one Emma Raducanu splits with coach Francis Roig after her exit from the Australian Open.",
+      "content_text": "British number one Emma Raducanu splits with coach Francis Roig after her exit from the Australian Open.",
+      "date_published": "2026-01-29T16:48:36.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo#7",
       "url": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo?at_medium=RSS&at_campaign=rss",
       "title": "Raducanu splits with coach after Australian Open exit",
@@ -44,6 +84,14 @@
       "content_html": "An independent review also found the BBC can do more to represent the experiences of older women.",
       "content_text": "An independent review also found the BBC can do more to represent the experiences of older women.",
       "date_published": "2026-01-29T16:40:51.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c0eryxnqyyvo#0",
+      "url": "https://www.bbc.com/news/articles/c0eryxnqyyvo?at_medium=RSS&at_campaign=rss",
+      "title": "'He enjoyed hurting people': Teen attacked others before murdering schoolboy, 12",
+      "content_html": "Det Insp Joe Davenport says the killer attacked his victims in Birmingham for \"violence sake\".",
+      "content_text": "Det Insp Joe Davenport says the killer attacked his victims in Birmingham for \"violence sake\".",
+      "date_published": "2026-01-29T16:37:01.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c8rm20gm364o#0",
@@ -182,12 +230,28 @@
       "date_published": "2026-01-29T13:29:41.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c24gyz3j6e1o#0",
+      "url": "https://www.bbc.com/news/articles/c24gyz3j6e1o?at_medium=RSS&at_campaign=rss",
+      "title": "Marty Supreme actress quits new film after casting backlash",
+      "content_html": "Odessa A'zion says she didn't realise her character in Deep Cuts was meant to be half-Mexican.",
+      "content_text": "Odessa A'zion says she didn't realise her character in Deep Cuts was meant to be half-Mexican.",
+      "date_published": "2026-01-29T13:19:13.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c24gyz3j6e1o#3",
       "url": "https://www.bbc.com/news/articles/c24gyz3j6e1o?at_medium=RSS&at_campaign=rss",
       "title": "Marty Supreme actress quits new film after casting backlash",
       "content_html": "Odessa A'zion says she didn't realise her character in Deep Cuts was meant to be half-Mexican.",
       "content_text": "Odessa A'zion says she didn't realise her character in Deep Cuts was meant to be half-Mexican.",
       "date_published": "2026-01-29T13:19:13.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c70lyrpekr2o#3",
+      "url": "https://www.bbc.com/news/articles/c70lyrpekr2o?at_medium=RSS&at_campaign=rss",
+      "title": "Hampstead ponds trans access challenge dismissed",
+      "content_html": "The current policy is that trans men and trans women are entitled to use the pond of their choice.",
+      "content_text": "The current policy is that trans men and trans women are entitled to use the pond of their choice.",
+      "date_published": "2026-01-29T13:16:22.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c70lyrpekr2o#0",
@@ -212,6 +276,14 @@
       "content_html": "A new drama series gave Sir Jonathan a chance to work near where his family is from in north Wales.",
       "content_text": "A new drama series gave Sir Jonathan a chance to work near where his family is from in north Wales.",
       "date_published": "2026-01-29T12:59:00.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c8e524n23rno#3",
+      "url": "https://www.bbc.com/news/articles/c8e524n23rno?at_medium=RSS&at_campaign=rss",
+      "title": "Emergency loans offered to civil servants waiting on pensions",
+      "content_html": "Cabinet Office Minister Nick Thomas-Symonds says the waits faced by retired civil servants are unacceptable.",
+      "content_text": "Cabinet Office Minister Nick Thomas-Symonds says the waits faced by retired civil servants are unacceptable.",
+      "date_published": "2026-01-29T12:54:47.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c8e524n23rno#0",
@@ -252,6 +324,14 @@
       "content_html": "Aryna Sabalenka storms past Elina Svitolina and will face Elena Rybakina in a big-hitting Australian Open final.",
       "content_text": "Aryna Sabalenka storms past Elina Svitolina and will face Elena Rybakina in a big-hitting Australian Open final.",
       "date_published": "2026-01-29T12:33:14.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cp87l604nx8o#3",
+      "url": "https://www.bbc.com/news/articles/cp87l604nx8o?at_medium=RSS&at_campaign=rss",
+      "title": "Nicki Minaj calls herself Trump's 'number one fan' and shows off gold card visa",
+      "content_html": "The rapper, born in Trinidad and Tobago, praises the US president while Bruce Springsteen protests aboout ICE.",
+      "content_text": "The rapper, born in Trinidad and Tobago, praises the US president while Bruce Springsteen protests aboout ICE.",
+      "date_published": "2026-01-29T12:20:47.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cp87l604nx8o#0",

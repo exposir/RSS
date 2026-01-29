@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003294540",
+      "url": "https://www.wsj.com/world/americas/commercial-airspace-over-venezuela-to-reopen-trump-says-d4677767",
+      "title": "Commercial Airspace Over Venezuela to Reopen, Trump Says",
+      "content_html": "The president ordered Transportation Secretary Sean Duffy and U.S. military officials to work on opening up the airspace by the end of the day.",
+      "content_text": "The president ordered Transportation Secretary Sean Duffy and U.S. military officials to work on opening up the airspace by the end of the day.",
+      "date_published": "2026-01-29T18:07:00.000Z"
+    },
+    {
       "id": "SB11930060785218553820404592646062824056598",
       "url": "https://www.wsj.com/opinion/britain-seems-committed-to-stagnation-c33e5004",
       "title": "Opinion | Britain Seems Committed to Stagnation",

@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
+      "url": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
+      "title": "Svalbard Polar Bears Are Getting Fatter (for Now), Study Finds",
+      "content_html": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary.",
+      "content_text": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary.",
+      "date_published": "2026-01-29T18:39:16.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/moscow-domodedovo-airport-sale.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/moscow-domodedovo-airport-sale.html",
+      "title": "Moscow Airport Sells for Half Off, a Sign of Russia’s Global Isolation",
+      "content_html": "The government opened the sale to cut-rate bidding for Domodedovo Airport after it received no offers at its initial asking price of $1.7 billion.",
+      "content_text": "The government opened the sale to cut-rate bidding for Domodedovo Airport after it received no offers at its initial asking price of $1.7 billion.",
+      "date_published": "2026-01-29T18:36:54.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html",
       "url": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html",
       "title": "European Union Labels Iran’s Revolutionary Guard a Terrorist Group",

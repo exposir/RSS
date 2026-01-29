@@ -6,12 +6,28 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/us/ilhan-omar-spray-anthony-j-kazmierczak-charged.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/ilhan-omar-spray-anthony-j-kazmierczak-charged.html",
+      "title": "Man Accused of Squirting Ilhan Omar with Vinegar Is Charged With Assault",
+      "content_html": "Ms. Omar was sprayed with liquid from a syringe as she spoke at a town hall and called for the resignation of Kristi Noem, who leads the Homeland Security Department.",
+      "content_text": "Ms. Omar was sprayed with liquid from a syringe as she spoke at a town hall and called for the resignation of Kristi Noem, who leads the Homeland Security Department.",
+      "date_published": "2026-01-29T18:14:43.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/us/man-accused-of-squirting-ilhan-omar-with-vinegar-is-charged-with-assault.html",
       "url": "https://www.nytimes.com/2026/01/29/us/man-accused-of-squirting-ilhan-omar-with-vinegar-is-charged-with-assault.html",
       "title": "Man Accused of Squirting Ilhan Omar with Vinegar Is Charged With Assault",
       "content_html": "Ms. Omar was sprayed with liquid from a syringe as she spoke at a town hall and called for the resignation of Kristi Noem, who leads the Homeland Security Department.",
       "content_text": "Ms. Omar was sprayed with liquid from a syringe as she spoke at a town hall and called for the resignation of Kristi Noem, who leads the Homeland Security Department.",
       "date_published": "2026-01-29T17:10:29.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/snap-benefits-food-stamps-rules-health.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/snap-benefits-food-stamps-rules-health.html",
+      "title": "New Food Stamp Rules Are Confusing Grocery Stores and Consumers",
+      "content_html": "A dizzying array of rules govern what can be bought with SNAP dollars, confusing grocery stores and consumers.",
+      "content_text": "A dizzying array of rules govern what can be bought with SNAP dollars, confusing grocery stores and consumers.",
+      "date_published": "2026-01-29T17:00:21.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/us/politics/democrats-governors-trump-minneapolis.html",
@@ -100,6 +116,14 @@
       "content_html": "Winston Nguyen, a former teacher at Saint Ann’s School who pleaded guilty to a felony charge last year, is accused in the lawsuit of soliciting naked photos of students and sharing them online.",
       "content_text": "Winston Nguyen, a former teacher at Saint Ann’s School who pleaded guilty to a felony charge last year, is accused in the lawsuit of soliciting naked photos of students and sharing them online.",
       "date_published": "2026-01-29T15:01:29.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/style/saks-bankruptcy-department-store-shopping.html",
+      "url": "https://www.nytimes.com/2026/01/29/style/saks-bankruptcy-department-store-shopping.html",
+      "title": "Saks Fifth Avenue Bankruptcy Revives Debate Over the Future of Department Stores",
+      "content_html": "Saks Fifth Avenue’s bankruptcy filing has revived debates about how these once celebrated shopping emporiums can regain their luster.",
+      "content_text": "Saks Fifth Avenue’s bankruptcy filing has revived debates about how these once celebrated shopping emporiums can regain their luster.",
+      "date_published": "2026-01-29T14:48:36.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/us/politics/amy-klobuchar-minnesota-governor.html",

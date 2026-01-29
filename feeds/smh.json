@@ -6,6 +6,166 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "4c4c2681-a8d4-415e-94dc-ab2875212841",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-dip-microsoft-weighs-down-wall-street-apple-results-ahead-20260130-p5ny6n.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "ASX set to dip, Microsoft weighs down Wall Street; Apple results ahead",
+      "content_html": "The worst day for Microsoft in years is yanking the US stock market away from its record heights on Thursday.",
+      "content_text": "The worst day for Microsoft in years is yanking the US stock market away from its record heights on Thursday.",
+      "date_published": "2026-01-29T18:23:17.000Z"
+    },
+    {
+      "id": "22d9fb49-ed35-4392-8e36-04514b2b181d",
+      "url": "https://www.smh.com.au/business/workplace/sarah-tried-using-ai-to-help-customers-within-months-she-ditched-it-20260129-p5ny1z.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sarah tried using AI to help customers. Within months she ditched it",
+      "content_html": "More and more workplaces are leaning on artificial intelligence for onboarding, customer service and human resources. But not all are convinced.",
+      "content_text": "More and more workplaces are leaning on artificial intelligence for onboarding, customer service and human resources. But not all are convinced.",
+      "date_published": "2026-01-29T18:01:00.000Z"
+    },
+    {
+      "id": "f559ac47-c68c-4e1b-bfe6-378d866b4242",
+      "url": "https://www.smh.com.au/business/workplace/could-a-resume-writing-service-actually-help-me-find-a-job-20260129-p5ny17.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Could a resume writing service actually help me find a job?",
+      "content_html": "If the advice you received was reflective of what needs to be in a modern-day job application, goodness help us all.",
+      "content_text": "If the advice you received was reflective of what needs to be in a modern-day job application, goodness help us all.",
+      "date_published": "2026-01-29T18:01:00.000Z"
+    },
+    {
+      "id": "83732bf9-2a52-49d0-b25d-4baa6b6a8865",
+      "url": "https://www.smh.com.au/traveller/inspiration/forget-paris-europe-s-most-nine-underrated-cities-to-visit-this-year-20260129-p5nxxg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Forget Paris: Europe’s most nine underrated cities to visit this year",
+      "content_html": "In these fabulous places you will still feel as if you’re really travelling, rather than traipsing round a theme park.",
+      "content_text": "In these fabulous places you will still feel as if you’re really travelling, rather than traipsing round a theme park.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "c0d437ec-486a-4f12-93a5-7309075d6efa",
+      "url": "https://www.smh.com.au/politics/federal/australia-s-neo-nazis-are-shape-shifting-and-as-dangerous-as-ever-20260128-p5nxt3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australia’s neo-Nazis are shape-shifting. And as dangerous as ever",
+      "content_html": "Neo-Nazis have embraced the idea of swarms of independent cells – with no central control or direction – as a more effective way to produce chaos and social panic.",
+      "content_text": "Neo-Nazis have embraced the idea of swarms of independent cells – with no central control or direction – as a more effective way to produce chaos and social panic.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "5deeb6c6-7793-45e6-93ab-4981fdbfff1d",
+      "url": "https://www.smh.com.au/politics/federal/amid-coalition-chaos-this-nationals-leader-has-little-to-be-proud-of-20260128-p5nxq2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Amid Coalition chaos, this Nationals leader has little to be proud of",
+      "content_html": "David Littleproud has delivered wins for the Nationals. But he has infuriated enough Liberals that Coalition reconciliation becomes almost impossible with him as party leader.",
+      "content_text": "David Littleproud has delivered wins for the Nationals. But he has infuriated enough Liberals that Coalition reconciliation becomes almost impossible with him as party leader.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "9b35fc22-1df4-499c-97fe-203708a6760a",
+      "url": "https://www.smh.com.au/goodfood/melbourne-eating-out/melbourne-s-new-maxi-lune-can-churn-out-more-than-6000-pastries-a-day-20260128-p5nxp8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Melbourne’s new ‘Maxi Lune’ can churn out more than 6000 pastries a day",
+      "content_html": "“We’re maxed out in Fitzroy,” says Lune founder Kate Reid, but a second city store and glass-walled “cube” will boost pastry production.",
+      "content_text": "“We’re maxed out in Fitzroy,” says Lune founder Kate Reid, but a second city store and glass-walled “cube” will boost pastry production.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "60dc3b87-de59-449a-a210-3b653b30a630",
+      "url": "https://www.smh.com.au/goodfood/recipes/adam-liaw-s-summer-pinzimonio-20260128-p5nxo6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Adam Liaw’s summer pinzimonio",
+      "content_html": "ring a taste of Milanese aperitivo to your table with pinzimonio, the ultimate shared plate of seasonal veg and seasoned olive oil.",
+      "content_text": "ring a taste of Milanese aperitivo to your table with pinzimonio, the ultimate shared plate of seasonal veg and seasoned olive oil.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "23f31dfe-6e75-4d00-8441-28e7e2bf62a8",
+      "url": "https://www.smh.com.au/goodfood/recipes/adam-liaw-s-chicken-cotoletta-20260128-p5nxnj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Adam Liaw’s chicken cotoletta",
+      "content_html": "Think of this as Italy’s sophisticated answer to the wiener schnitzel: best enjoyed simply with a generous squeeze of lemon.",
+      "content_text": "Think of this as Italy’s sophisticated answer to the wiener schnitzel: best enjoyed simply with a generous squeeze of lemon.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "6992aab1-6977-4234-b4f3-60a542be0308",
+      "url": "https://www.smh.com.au/business/companies/dud-project-how-andrew-forrest-s-green-dreams-cost-taxpayers-80m-20260128-p5nxmm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Dud project’: How Andrew Forrest’s green dreams cost taxpayers $80m",
+      "content_html": "It vowed it would create a new export industry for Australia, but documents reveal Fortescue’s failed green hydrogen factory cost taxpayers millions while spruiking its “successes” overseas.",
+      "content_text": "It vowed it would create a new export industry for Australia, but documents reveal Fortescue’s failed green hydrogen factory cost taxpayers millions while spruiking its “successes” overseas.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "5ad27d33-4db3-4c45-bf1e-e8fcc43b2cce",
+      "url": "https://www.smh.com.au/traveller/inspiration/travel-quiz-lesotho-is-completely-surrounded-by-which-other-country-20260127-p5nxfp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Travel quiz: Lesotho is completely surrounded by which other country?",
+      "content_html": "Are you an expert traveller? Test your knowledge with this week’s quiz.",
+      "content_text": "Are you an expert traveller? Test your knowledge with this week’s quiz.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "cd8d7dfb-8697-4a12-9551-2e618d7f8e18",
+      "url": "https://www.smh.com.au/goodfood/sydney-eating-out/the-grapes-on-the-ceiling-are-back-chinese-noodle-house-reopens-in-haymarket-20260127-p5nxdn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The grapes on the ceiling are back: Chinese Noodle House reopens in Haymarket",
+      "content_html": "The institution’s original owners have returned to the Chinatown site with new dishes, old favourites and more seats.",
+      "content_text": "The institution’s original owners have returned to the Chinatown site with new dishes, old favourites and more seats.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "ebca8225-cca8-46cc-b9b2-c9257305dbbf",
+      "url": "https://www.smh.com.au/property/news/the-school-catchment-at-the-top-of-wa-home-buyers-wish-list-20260127-p5nxcv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The school catchment at the top of WA home buyers’ wish list",
+      "content_html": "For many Perth families, the school catchment comes first and the house second.",
+      "content_text": "For many Perth families, the school catchment comes first and the house second.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "9f00cfdd-e95b-4643-b76e-4a0862f1fba1",
+      "url": "https://www.smh.com.au/goodfood/melbourne-eating-out/this-hot-new-restaurant-is-a-game-changer-for-an-already-brilliant-melbourne-eat-street-20260127-p5nxak.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "This hot new restaurant is a game-changer for an already brilliant Melbourne eat street",
+      "content_html": "The word “fusion” triggers the ick, but it’s an obvious way to describe the bold, exuberant and engaging menu at Koornang Road newcomer Tyga.",
+      "content_text": "The word “fusion” triggers the ick, but it’s an obvious way to describe the bold, exuberant and engaging menu at Koornang Road newcomer Tyga.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "9ad0c2ca-0579-4cdd-9ebf-f514037783e2",
+      "url": "https://www.smh.com.au/goodfood/sydney-eating-out/totally-fine-but-unremarkable-the-verdict-on-rick-stein-s-sydney-seafood-restaurant-20260127-p5nxaj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Totally fine but unremarkable’: The verdict on Rick Stein’s Sydney seafood restaurant",
+      "content_html": "There are some hits, some misses and fake olive trees at the signature Coogee Beach venture by the beloved British celebrity chef.",
+      "content_text": "There are some hits, some misses and fake olive trees at the signature Coogee Beach venture by the beloved British celebrity chef.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "42336a68-cdb9-4074-8172-a707b70378ad",
+      "url": "https://www.smh.com.au/environment/climate-change/how-the-record-breaking-heat-dome-enveloped-australia-20260123-p5nwjr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How the record-breaking ‘heat dome’ enveloped Australia",
+      "content_html": "Described as a “heat dome” for its sheer persistence and super-heating qualities, the heatwave has had an effect akin to putting a lid on a boiling pot.",
+      "content_text": "Described as a “heat dome” for its sheer persistence and super-heating qualities, the heatwave has had an effect akin to putting a lid on a boiling pot.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "f7a1b514-91cb-411c-9d5f-d92c74a43d99",
+      "url": "https://www.smh.com.au/culture/art-and-design/singapore-biennale-2026-20260122-p5nw36.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "These tiny bugs are in most of our homes. I can’t unsee them",
+      "content_html": "As part of a celebration of art, a new work invites us to take a closer look at a polarising creature – and think more deeply about what we can learn from it.",
+      "content_text": "As part of a celebration of art, a new work invites us to take a closer look at a polarising creature – and think more deeply about what we can learn from it.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "bf9a92f3-f0e9-4597-8a6e-812260486dcf",
+      "url": "https://www.smh.com.au/national/nsw/revealed-long-delayed-sydney-light-rail-line-will-now-be-built-in-two-sections-20260121-p5nvv2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Revealed: Long-delayed Sydney light rail line will now be built in two sections",
+      "content_html": "A riverside suburb notorious for its lack of public transport will finally have a way out. But not any time soon.",
+      "content_text": "A riverside suburb notorious for its lack of public transport will finally have a way out. But not any time soon.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "13fa879a-e8ae-430e-86e9-5cf21544e86e",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/from-teenage-heartbreak-to-newlywed-vera-blue-on-what-she-s-learnt-about-men-20260115-p5nudr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "From teenage heartbreak to newlywed: Vera Blue on what she’s learnt about men",
+      "content_html": "The ARIA-nominated musician also shares the day ‘something went wrong quickly’ in a previous relationship.",
+      "content_text": "The ARIA-nominated musician also shares the day ‘something went wrong quickly’ in a previous relationship.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
+      "id": "7275ea5f-55d6-4a1c-b67c-016f629c386f",
+      "url": "https://www.smh.com.au/national/trump-has-abandoned-the-who-now-india-and-china-are-moving-in-20260112-p5ntg6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Trump has abandoned the WHO. Now India and China are moving in",
+      "content_html": "At the World Health Organisation’s global summit in New Delhi last month, traditional medicine practitioners joined with scientists and government ministers.",
+      "content_text": "At the World Health Organisation’s global summit in New Delhi last month, traditional medicine practitioners joined with scientists and government ministers.",
+      "date_published": "2026-01-29T18:00:00.000Z"
+    },
+    {
       "id": "6868a709-72c6-4890-8f89-70e07f338130",
       "url": "https://www.smh.com.au/sport/cricket/zampa-four-fer-can-t-save-australia-in-t20-pakistan-defeat-20260130-p5ny6k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Zampa four-fer can’t save Australia’s makeshift crew in T20 Pakistan defeat",
