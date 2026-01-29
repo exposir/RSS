@@ -205,7 +205,7 @@ export default function RSSReader() {
           </div>
         </ResizablePanel>
 
-        <ResizableHandle />
+        <ResizableHandle className="hidden md:flex" />
 
         {/* MIDDLE COLUMN: Article List */}
         <ResizablePanel defaultSize={30} minSize={25} className="border-r border-border min-w-[300px]">
@@ -233,6 +233,14 @@ export default function RSSReader() {
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                 />
+              </div>
+              {/* Show error in middle column on mobile if left column is hidden */}
+              <div className="md:hidden">
+                 {error && (
+                  <div className="p-2 text-xs text-destructive bg-destructive/10 rounded">
+                    加载错误: {error}
+                  </div>
+                )}
               </div>
             </div>
 
@@ -269,7 +277,7 @@ export default function RSSReader() {
           </div>
         </ResizablePanel>
 
-        <ResizableHandle />
+        <ResizableHandle className="hidden md:flex" />
 
         {/* RIGHT COLUMN: Detail */}
         <ResizablePanel defaultSize={50} className="hidden md:block bg-background">
