@@ -6,6 +6,94 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "3f966e25-5ac7-4719-bb33-f00bf5328f7b",
+      "url": "https://www.smh.com.au/goodfood/brisbane-eating-out/it-s-one-of-sydney-s-hottest-sandwich-shops-now-it-s-taking-on-brisbane-20260121-p5nvws.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "It’s one of Sydney’s hottest sandwich shops. Now, it’s taking on Brisbane",
+      "content_html": "And it’s bringing along its viral schnitzel sandwich that’s as big as your head.",
+      "content_text": "And it’s bringing along its viral schnitzel sandwich that’s as big as your head.",
+      "date_published": "2026-01-29T06:58:17.000Z"
+    },
+    {
+      "id": "6ad0dda9-94d0-4aa3-9a46-0083eff4a8ae",
+      "url": "https://www.smh.com.au/sport/racing/tips-and-race-by-race-preview-for-canterbury-on-friday-20260129-p5ny4p.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Tips and race-by-race preview for Canterbury on Friday",
+      "content_html": "All the information you need to pick a winner at the NSW feature meeting.",
+      "content_text": "All the information you need to pick a winner at the NSW feature meeting.",
+      "date_published": "2026-01-29T06:47:43.000Z"
+    },
+    {
+      "id": "336f5071-b653-473d-b784-34c91ed0dc18",
+      "url": "https://www.smh.com.au/sport/from-track-to-bobsleigh-bree-walkers-story-20260129-p5ny4w.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "From track to bobsleigh: Bree Walker's story",
+      "content_html": "Australian Olympian Bree Walker shares the story of her switch from track runner to bobsleigh star.",
+      "content_text": "Australian Olympian Bree Walker shares the story of her switch from track runner to bobsleigh star.",
+      "date_published": "2026-01-29T06:42:51.000Z"
+    },
+    {
+      "id": "cb740961-5098-4bc2-9f74-4740958a36d3",
+      "url": "https://www.smh.com.au/politics/federal/sydney-silk-appointed-as-royal-commission-s-lead-lawyer-as-inquiry-gets-underway-20260129-p5ny2c.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sydney silk appointed as royal commission’s lead lawyer as inquiry gets underway",
+      "content_html": "As the counsel assisting, Richard Lancaster, SC, will become the antisemitism inquiry’s most prominent public face next to commissioner Justice Virginia Bell.",
+      "content_text": "As the counsel assisting, Richard Lancaster, SC, will become the antisemitism inquiry’s most prominent public face next to commissioner Justice Virginia Bell.",
+      "date_published": "2026-01-29T06:24:43.000Z"
+    },
+    {
+      "id": "6540f891-5070-44c2-92e2-a7b49389d9d2",
+      "url": "https://www.smh.com.au/politics/victoria/i-don-t-know-how-i-ll-live-with-the-loss-katie-allen-s-husband-leads-tributes-at-packed-memorial-20260129-p5ny31.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘I don’t know how I’ll live with the loss’: Katie Allen’s husband leads tributes at packed memorial",
+      "content_html": "It was standing room only at St Paul’s Cathedral in Melbourne as the doctor, medical researcher and parliamentarian was farewelled.",
+      "content_text": "It was standing room only at St Paul’s Cathedral in Melbourne as the doctor, medical researcher and parliamentarian was farewelled.",
+      "date_published": "2026-01-29T06:16:04.000Z"
+    },
+    {
+      "id": "78cf6a4f-a745-4994-a5aa-26d2b93ff15a",
+      "url": "https://www.smh.com.au/national/queensland/cfmeu-inquiry-gears-up-for-public-hearing-rush-to-reporting-deadline-20260129-p5ny40.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "CFMEU inquiry gears up for public hearing rush to reporting deadline",
+      "content_html": "As the powerful inquiry launches back into its construction sector probe, 30 hearings dates have been scheduled from February 10. But not everything is locked in.",
+      "content_text": "As the powerful inquiry launches back into its construction sector probe, 30 hearings dates have been scheduled from February 10. But not everything is locked in.",
+      "date_published": "2026-01-29T06:12:45.000Z"
+    },
+    {
+      "id": "f0ea8be0-64f2-49f4-bc9d-62af4295f7f2",
+      "url": "https://www.smh.com.au/sport/racing/race-by-race-tips-and-previews-for-rosehill-on-saturday-20260129-p5ny12.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Race-by-race tips and previews for Rosehill on Saturday",
+      "content_html": "All the information you need to pick a winner in a 10-race meeting in Sydney.",
+      "content_text": "All the information you need to pick a winner in a 10-race meeting in Sydney.",
+      "date_published": "2026-01-29T06:00:00.000Z"
+    },
+    {
+      "id": "de12ae16-675c-45c1-aa77-542c46762c6c",
+      "url": "https://www.smh.com.au/sport/racing/conners-sees-missing-spark-back-for-willaidow-in-hunt-for-dream-win-20260129-p5nxvt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Conners sees missing spark back for Willaidow in hunt for dream win",
+      "content_html": "Mitchell Conners is eyeing a breakthrough stakes win with Willaidow on Saturday as he lives his dream of training alongside his father and grandfather.",
+      "content_text": "Mitchell Conners is eyeing a breakthrough stakes win with Willaidow on Saturday as he lives his dream of training alongside his father and grandfather.",
+      "date_published": "2026-01-29T06:00:00.000Z"
+    },
+    {
+      "id": "f4c436ee-40a0-4520-9d29-87a45781405c",
+      "url": "https://www.smh.com.au/sport/racing/berry-backs-incognito-to-handle-weight-of-expectation-in-return-20260129-p5nxvq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Berry backs Incognito to handle weight of expectation in return",
+      "content_html": "All eyes will be on Incognito when the Golden Slipper fancy returns at Rosehill on Saturday as part of a three-way attack from Tommy Berry and Michael Freedman.",
+      "content_text": "All eyes will be on Incognito when the Golden Slipper fancy returns at Rosehill on Saturday as part of a three-way attack from Tommy Berry and Michael Freedman.",
+      "date_published": "2026-01-29T06:00:00.000Z"
+    },
+    {
+      "id": "e481a846-c36e-429b-9cf9-b5f204837556",
+      "url": "https://www.smh.com.au/sport/racing/star-queensland-jockey-hunts-another-first-with-pretty-special-horse-20260129-p5nxvp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Star Queensland jockey hunts another first with ‘pretty special horse’",
+      "content_html": "Angela Jones, the first female jockey to win the Brisbane premiership, will ride in Sydney for the first time on Saturday at Rosehill.",
+      "content_text": "Angela Jones, the first female jockey to win the Brisbane premiership, will ride in Sydney for the first time on Saturday at Rosehill.",
+      "date_published": "2026-01-29T06:00:00.000Z"
+    },
+    {
+      "id": "b140c1fd-8283-49a0-9d74-3ac07a6d29ea",
+      "url": "https://www.smh.com.au/goodfood/recipes/this-danielle-alvarez-egg-sandwich-is-your-perfect-picnic-companion-20260129-p5nxz8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "This Danielle Alvarez egg sandwich is your perfect picnic companion",
+      "content_html": "Jammy eggs are the star in this make-ahead French classic. Add any summer vegies you like, wrap and finish with a squish to trap all the juices.",
+      "content_text": "Jammy eggs are the star in this make-ahead French classic. Add any summer vegies you like, wrap and finish with a squish to trap all the juices.",
+      "date_published": "2026-01-29T05:50:56.000Z"
+    },
+    {
       "id": "44845735-d7f9-4eb5-bd5d-6bd2fa7ce930",
       "url": "https://www.smh.com.au/sport/tennis/kose-blowup-ao26-1573-20260129-p5ny46.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "kose blowup ao26 1573",
