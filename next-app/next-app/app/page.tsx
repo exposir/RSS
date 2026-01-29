@@ -282,10 +282,12 @@ export default function RSSReader() {
               </div>
               <ScrollArea className="flex-1">
                 <div
-                  className="p-8 prose prose-slate dark:prose-invert max-w-none
-                    prose-h1:text-2xl prose-h2:text-xl prose-h3:text-lg
-                    prose-a:text-primary prose-a:no-underline hover:prose-a:underline
-                    prose-img:rounded-lg prose-img:border prose-img:border-border"
+                  className={cn(
+                    "p-8 prose prose-slate dark:prose-invert max-w-none",
+                    "prose-h1:text-2xl prose-h2:text-xl prose-h3:text-lg",
+                    "prose-a:text-primary prose-a:no-underline hover:prose-a:underline",
+                    "prose-img:rounded-lg prose-img:border prose-img:border-border"
+                  )}
                   dangerouslySetInnerHTML={{ __html: selectedArticle.content_html }}
                 />
               </ScrollArea>
