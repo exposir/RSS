@@ -124,6 +124,21 @@ export default function RSSReader() {
     return feeds.get(feedId)?.items?.length || 0
   }
 
+  // Check if feed has articles published today
+  const hasTodayUpdate = (feedId: string) => {
+    const feedData = feeds.get(feedId)
+    if (!feedData?.items) return false
+
+    const today = new Date()
+    today.setHours(0, 0, 0, 0)
+
+    return feedData.items.some(item => {
+      const articleDate = new Date(item.date_published)
+      articleDate.setHours(0, 0, 0, 0)
+      return articleDate.getTime() === today.getTime()
+    })
+  }
+
   // Filter articles
   const filteredArticles = useMemo(() => {
     let articles: Article[] = []
@@ -267,19 +282,25 @@ export default function RSSReader() {
                     {loadingIndex ? (
                       <div className="p-4 text-center text-sm text-muted-foreground">加载中...</div>
                     ) : (
-                      feedIndex.map(feed => (
-                        <Button
-                          key={feed.id}
-                          variant={selectedFeed === feed.id ? "secondary" : "ghost"}
-                          className="w-full justify-start font-normal truncate"
-                          onClick={() => { setSelectedFeed(feed.id); setSelectedArticle(null); }}
-                        >
-                          <span className="truncate flex-1 text-left">{feed.name}</span>
-                          {getFeedCount(feed.id) > 0 && (
-                            <span className="ml-2 text-xs text-muted-foreground">{getFeedCount(feed.id)}</span>
-                          )}
-                        </Button>
-                      ))
+                      feedIndex.map(feed => {
+                        const hasUpdate = hasTodayUpdate(feed.id)
+                        return (
+                          <Button
+                            key={feed.id}
+                            variant={selectedFeed === feed.id ? "secondary" : "ghost"}
+                            className="w-full justify-start font-normal truncate"
+                            onClick={() => { setSelectedFeed(feed.id); setSelectedArticle(null); }}
+                          >
+                            {hasUpdate && (
+                              <span className="mr-2 flex-shrink-0 w-2 h-2 rounded-full bg-blue-500 animate-pulse" title="今日有更新" />
+                            )}
+                            <span className="truncate flex-1 text-left">{feed.name}</span>
+                            {getFeedCount(feed.id) > 0 && (
+                              <span className="ml-2 text-xs text-muted-foreground">{getFeedCount(feed.id)}</span>
+                            )}
+                          </Button>
+                        )
+                      })
                     )}
                   </div>
                 </div>
