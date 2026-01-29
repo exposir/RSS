@@ -139,13 +139,18 @@ export default function RSSReader() {
     <div className="h-screen w-full bg-background text-foreground flex flex-col">
       {/* Mobile Header (optional, simplified for now) */}
 
-      <ResizablePanelGroup direction="horizontal" className="flex-1 h-full items-stretch">
+      <ResizablePanelGroup
+        direction="horizontal"
+        className="flex-1 h-full items-stretch"
+        autoSaveId="rss-reader-layout-v1"
+      >
 
         {/* LEFT COLUMN: Feeds List */}
         <ResizablePanel
           defaultSize={20}
           minSize={15}
           maxSize={30}
+          order={1}
           className="border-r border-border hidden md:block"
         >
           <div className="flex flex-col h-full">
@@ -209,7 +214,12 @@ export default function RSSReader() {
         <ResizableHandle className="hidden md:flex" />
 
         {/* MIDDLE COLUMN: Article List */}
-        <ResizablePanel defaultSize={30} minSize={25} className="border-r border-border min-w-[300px]">
+        <ResizablePanel
+          defaultSize={30}
+          minSize={25}
+          order={2}
+          className="border-r border-border min-w-[300px]"
+        >
           <div className="flex flex-col h-full">
             {/* Header with Search */}
             <div className="p-4 border-b border-border space-y-3">
@@ -283,7 +293,11 @@ export default function RSSReader() {
         <ResizableHandle className="hidden md:flex" />
 
         {/* RIGHT COLUMN: Detail */}
-        <ResizablePanel defaultSize={50} className="hidden md:block bg-background">
+        <ResizablePanel
+          defaultSize={50}
+          order={3}
+          className="hidden md:block bg-background"
+        >
           {selectedArticle ? (
             <div className="flex flex-col h-full">
               <div className="p-6 border-b border-border">
