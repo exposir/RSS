@@ -378,8 +378,8 @@ export default function RSSReader() {
             <ResizableHandle />
             <ResizablePanel id="right-panel" defaultSize="50" className="bg-background overflow-hidden">
               {selectedArticle ? (
-                <div className="flex flex-col h-full">
-                  <div className="p-6 border-b border-border">
+                <div className="flex flex-col h-full overflow-hidden">
+                  <div className="p-6 border-b border-border flex-shrink-0">
                     <a
                       href={selectedArticle.url}
                       target="_blank"
@@ -395,7 +395,7 @@ export default function RSSReader() {
                       <span>{formatDetailDate(selectedArticle.date_published)}</span>
                     </div>
                   </div>
-                  <ScrollArea className="flex-1">
+                  <div className="flex-1 overflow-y-auto">
                     <div
                       className={cn(
                         "p-8 prose prose-slate dark:prose-invert max-w-none",
@@ -405,7 +405,7 @@ export default function RSSReader() {
                       )}
                       dangerouslySetInnerHTML={{ __html: selectedArticle.content_html }}
                     />
-                  </ScrollArea>
+                  </div>
                 </div>
               ) : (
                 <div className="flex items-center justify-center h-full text-muted-foreground">
