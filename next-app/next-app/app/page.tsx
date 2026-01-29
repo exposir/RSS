@@ -183,12 +183,14 @@ export default function RSSReader() {
     const date = new Date(dateStr)
     const now = new Date()
     const diff = now.getTime() - date.getTime()
+    const minutes = Math.floor(diff / (1000 * 60))
     const hours = Math.floor(diff / (1000 * 60 * 60))
     const days = Math.floor(diff / (1000 * 60 * 60 * 24))
 
-    if (hours < 1) return '刚刚'
-    if (hours < 24) return `${hours}小时前`
-    if (days < 7) return `${days}天前`
+    if (minutes < 1) return '刚刚'  // 1分钟内
+    if (minutes < 60) return `${minutes}分钟前`  // 1小时内
+    if (hours < 24) return `${hours}小时前`  // 24小时内
+    if (days < 7) return `${days}天前`  // 7天内
     return date.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' })
   }
 
