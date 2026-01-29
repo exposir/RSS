@@ -6,12 +6,52 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
+      "url": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
+      "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",
+      "content_html": "New discounts can make heat pumps go from a bad investment to a good idea.",
+      "content_text": "New discounts can make heat pumps go from a bad investment to a good idea.",
+      "date_published": "2026-01-29T15:30:00.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html",
+      "title": "European Union Labels Iran’s Revolutionary Guard a Terrorist Group",
+      "content_html": "The move, which comes after the killing of protesters, brings the European Union in line with the United States and Canada.",
+      "content_text": "The move, which comes after the killing of protesters, brings the European Union in line with the United States and Canada.",
+      "date_published": "2026-01-29T15:22:52.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/nyregion/saint-anns-school-winston-nguyen-lawsuit.html",
       "url": "https://www.nytimes.com/2026/01/29/nyregion/saint-anns-school-winston-nguyen-lawsuit.html",
       "title": "Girls Sue Saint Ann’s School and Former Teacher Over Sex Crimes",
       "content_html": "Winston Nguyen, a former teacher at Saint Ann’s School who pleaded guilty to a felony charge last year, is accused in the lawsuit of soliciting naked photos of students and sharing them online.",
       "content_text": "Winston Nguyen, a former teacher at Saint Ann’s School who pleaded guilty to a felony charge last year, is accused in the lawsuit of soliciting naked photos of students and sharing them online.",
       "date_published": "2026-01-29T15:01:29.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/amy-klobuchar-minnesota-governor.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/amy-klobuchar-minnesota-governor.html",
+      "title": "Amy Klobuchar Announces Run for Minnesota Governor",
+      "content_html": "The Democratic senator, who signaled her bid after Gov. Tim Walz said he wouldn’t run again, talked about moving past political divides in a video announcement.",
+      "content_text": "The Democratic senator, who signaled her bid after Gov. Tim Walz said he wouldn’t run again, talked about moving past political divides in a video announcement.",
+      "date_published": "2026-01-29T14:35:30.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/arts/music/wynton-marsalis-jazz-at-lincoln-center.html",
+      "url": "https://www.nytimes.com/2026/01/29/arts/music/wynton-marsalis-jazz-at-lincoln-center.html",
+      "title": "Wynton Marsalis, Founder of Jazz at Lincoln Center, to Step Down",
+      "content_html": "After 40 years with the organization, the trumpeter and impresario will end his role as managing and artistic director in July 2027.",
+      "content_text": "After 40 years with the organization, the trumpeter and impresario will end his role as managing and artistic director in July 2027.",
+      "date_published": "2026-01-29T14:10:34.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/opinion/ice-trump-good-pretti.html",
+      "url": "https://www.nytimes.com/2026/01/29/opinion/ice-trump-good-pretti.html",
+      "title": "Senator Tina Smith: I Won’t Vote to Fund ICE Until It Gets Out of My State",
+      "content_html": "Minnesotans have stood up for common decency and our founding principles.",
+      "content_text": "Minnesotans have stood up for common decency and our founding principles.",
+      "date_published": "2026-01-29T14:01:13.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/us/elections/matt-mahan-governor-california.html",
@@ -38,28 +78,36 @@
       "date_published": "2026-01-29T13:21:02.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/29/arts/music/wynton-marsalis-jazz-at-lincoln-center.html",
-      "url": "https://www.nytimes.com/2026/01/29/arts/music/wynton-marsalis-jazz-at-lincoln-center.html",
-      "title": "Wynton Marsalis, Founder of Jazz at Lincoln Center, to Step Down",
-      "content_html": "After 40 years with the organization, the trumpeter and impresario will end his role as managing and artistic director in July 2027.",
-      "content_text": "After 40 years with the organization, the trumpeter and impresario will end his role as managing and artistic director in July 2027.",
-      "date_published": "2026-01-29T13:07:20.000Z"
+      "id": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html",
+      "url": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html",
+      "title": "The Journey of a Group of Cuban Deportees Stuck at Guantánamo",
+      "content_html": "The tale illustrates how inefficient the ICE operation has been in the year since President Trump ordered the base to prepare for up to 30,000 “criminal aliens.”",
+      "content_text": "The tale illustrates how inefficient the ICE operation has been in the year since President Trump ordered the base to prepare for up to 30,000 “criminal aliens.”",
+      "date_published": "2026-01-29T13:12:13.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/29/us/politics/amy-klobuchar-minnesota-governor.html",
-      "url": "https://www.nytimes.com/2026/01/29/us/politics/amy-klobuchar-minnesota-governor.html",
-      "title": "Amy Klobuchar Announces Run for Minnesota Governor",
-      "content_html": "The Democratic senator, who signaled her bid after Gov. Tim Walz said he wouldn’t run again, talked about moving past political divides in a video announcement.",
-      "content_text": "The Democratic senator, who signaled her bid after Gov. Tim Walz said he wouldn’t run again, talked about moving past political divides in a video announcement.",
-      "date_published": "2026-01-29T12:00:05.000Z"
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/minnesota-justice-department-trump-ice.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/minnesota-justice-department-trump-ice.html",
+      "title": "Justice Dept. Playbook in Minnesota: Investigate Foes, Protect Allies",
+      "content_html": "The Trump Justice Department has often cast aside normal procedures intended to seek accountability in favor of pushing prosecutors and the F.B.I. to focus on critics of the immigration crackdown.",
+      "content_text": "The Trump Justice Department has often cast aside normal procedures intended to seek accountability in favor of pushing prosecutors and the F.B.I. to focus on critics of the immigration crackdown.",
+      "date_published": "2026-01-29T12:51:47.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/29/us/ms-shirley-raines-dead-skid-row.html",
-      "url": "https://www.nytimes.com/2026/01/29/us/ms-shirley-raines-dead-skid-row.html",
-      "title": "Shirley Raines, Who Gave L.A.’s Homeless Food and Makeovers, Is Dead",
-      "content_html": "Her work feeding people and dyeing their hair through her Los Angeles nonprofit, Beauty 2 the Streetz, was known to millions online.",
-      "content_text": "Her work feeding people and dyeing their hair through her Los Angeles nonprofit, Beauty 2 the Streetz, was known to millions online.",
-      "date_published": "2026-01-29T11:59:19.000Z"
+      "id": "https://www.nytimes.com/2026/01/29/opinion/jay-bhattacharya-public-health-covid-trust.html",
+      "url": "https://www.nytimes.com/2026/01/29/opinion/jay-bhattacharya-public-health-covid-trust.html",
+      "title": "A Plan to Restore Trust in Science From a ‘Fringe Epidemiologist’",
+      "content_html": "Jay Bhattacharya, the N.I.H. director, says authorities broke the public’s trust in the Covid era. Now it’s up to outsiders to restore it.",
+      "content_text": "Jay Bhattacharya, the N.I.H. director, says authorities broke the public’s trust in the Covid era. Now it’s up to outsiders to restore it.",
+      "date_published": "2026-01-29T12:21:30.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/arts/design/shakers-ica-philadelphia.html",
+      "url": "https://www.nytimes.com/2026/01/29/arts/design/shakers-ica-philadelphia.html",
+      "title": "The Shakers’ Utopian World Sees a Surge of Modern Interest",
+      "content_html": "A show at ICA Philadelphia joins a surge of Shaker-inspired projects: films, dances, a museum’s expansion. Refracted through new interpreters, Shaker culture bends, and twists.",
+      "content_text": "A show at ICA Philadelphia joins a surge of Shaker-inspired projects: films, dances, a museum’s expansion. Refracted through new interpreters, Shaker culture bends, and twists.",
+      "date_published": "2026-01-29T12:12:34.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/briefing/a-crisis-for-president-trump.html",
@@ -68,6 +116,14 @@
       "content_html": "The Department of Homeland Security is in turmoil after the killing of Alex Pretti.",
       "content_text": "The Department of Homeland Security is in turmoil after the killing of Alex Pretti.",
       "date_published": "2026-01-29T11:51:55.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/video/us/100000010669560/how-battlefield-tech-was-used-in-minneapolis.html",
+      "url": "https://www.nytimes.com/video/us/100000010669560/how-battlefield-tech-was-used-in-minneapolis.html",
+      "title": "How Battlefield Tech Was Used in Minneapolis",
+      "content_html": "Our reporter Thomas Gibbons-Neff, who deployed twice to Afghanistan as a Marine and later was our Kabul bureau chief, looks at the battlefield technology used for an immigration arrest at a home in Minneapolis.",
+      "content_text": "Our reporter Thomas Gibbons-Neff, who deployed twice to Afghanistan as a Marine and later was our Kabul bureau chief, looks at the battlefield technology used for an immigration arrest at a home in Minneapolis.",
+      "date_published": "2026-01-29T11:51:52.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/podcasts/the-headlines/ice-agents-masks-court-orders-melania.html",
@@ -94,36 +150,12 @@
       "date_published": "2026-01-29T10:06:01.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/29/opinion/ice-trump-good-pretti.html",
-      "url": "https://www.nytimes.com/2026/01/29/opinion/ice-trump-good-pretti.html",
-      "title": "Senator Tina Smith: My State Showed Courage. Will Republicans?",
-      "content_html": "Minnesotans have stood up for common decency and our founding principles.",
-      "content_text": "Minnesotans have stood up for common decency and our founding principles.",
-      "date_published": "2026-01-29T10:05:58.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/29/opinion/jay-bhattacharya-public-health-covid-trust.html",
-      "url": "https://www.nytimes.com/2026/01/29/opinion/jay-bhattacharya-public-health-covid-trust.html",
-      "title": "A ‘Fringe Epidemiologist’ on What’s Wrong With Public Health",
-      "content_html": "Jay Bhattacharya, the N.I.H. director, says authorities broke the public’s trust in the Covid era. Now it’s up to outsiders to restore it.",
-      "content_text": "Jay Bhattacharya, the N.I.H. director, says authorities broke the public’s trust in the Covid era. Now it’s up to outsiders to restore it.",
-      "date_published": "2026-01-29T10:05:05.000Z"
-    },
-    {
       "id": "https://www.nytimes.com/2026/01/29/us/maxim-naumov-2026-olympics-dc-plane-crash.html",
       "url": "https://www.nytimes.com/2026/01/29/us/maxim-naumov-2026-olympics-dc-plane-crash.html",
       "title": "Maxim Naumov to Skate at 2026 Olympics After Parents’ Death in D.C. Plane Crash",
       "content_html": "After his parents died in the midair collision over Washington, D.C., a year ago, Maxim Naumov struggled to put on his skates. Now he will compete for the United States at the Milan-Cortina Games.",
       "content_text": "After his parents died in the midair collision over Washington, D.C., a year ago, Maxim Naumov struggled to put on his skates. Now he will compete for the United States at the Milan-Cortina Games.",
       "date_published": "2026-01-29T10:04:32.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/29/arts/design/shakers-ica-philadelphia.html",
-      "url": "https://www.nytimes.com/2026/01/29/arts/design/shakers-ica-philadelphia.html",
-      "title": "The Shakers’ Utopian World Sees a Surge of Modern Interest",
-      "content_html": "A show at ICA Philadelphia joins a surge of Shaker-inspired projects: films, dances, a museum’s expansion. Refracted through new interpreters, Shaker culture bends, and twists.",
-      "content_text": "A show at ICA Philadelphia joins a surge of Shaker-inspired projects: films, dances, a museum’s expansion. Refracted through new interpreters, Shaker culture bends, and twists.",
-      "date_published": "2026-01-29T10:04:05.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/us/politics/trump-lawsuits-tracker-takeaways.html",
@@ -142,14 +174,6 @@
       "date_published": "2026-01-29T10:02:13.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
-      "url": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
-      "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",
-      "content_html": "New discounts can make heat pumps go from a bad investment to a good idea.",
-      "content_text": "New discounts can make heat pumps go from a bad investment to a good idea.",
-      "date_published": "2026-01-29T10:01:08.000Z"
-    },
-    {
       "id": "https://www.nytimes.com/2026/01/29/us/politics/taylor-rehmet-leigh-wambsganss-texas-election.html",
       "url": "https://www.nytimes.com/2026/01/29/us/politics/taylor-rehmet-leigh-wambsganss-texas-election.html",
       "title": "A State Senate Race in Texas Offers Republicans a Warning",
@@ -163,7 +187,7 @@
       "title": "TPS Expiration Under Trump Hits Haitian Workers in Critical Health Care Roles",
       "content_html": "Haitians are a vital source of employees for health care providers in many communities. The Trump administration is removing legal status next month for 330,000 of them.",
       "content_text": "Haitians are a vital source of employees for health care providers in many communities. The Trump administration is removing legal status next month for 330,000 of them.",
-      "date_published": "2026-01-29T10:00:36.000Z"
+      "date_published": "2026-01-29T10:00:37.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/business/economy/tariffs-rugs-loloi.html",
@@ -171,15 +195,7 @@
       "title": "A Rug Maker Withstood One Year of Trump’s Tariffs. New Challenges Loom.",
       "content_html": "Loloi stockpiled rugs from India, Turkey and other countries in advance, but inventory is running low.",
       "content_text": "Loloi stockpiled rugs from India, Turkey and other countries in advance, but inventory is running low.",
-      "date_published": "2026-01-29T10:00:26.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/29/nyregion/eric-adams-veto-override.html",
-      "url": "https://www.nytimes.com/2026/01/29/nyregion/eric-adams-veto-override.html",
-      "title": "Adams’s Parting Gift of 19 Vetoes Is Being Returned, With 17 Overrides",
-      "content_html": "The New York City Council is expected to overwhelmingly vote to create wage minimums for private security officers and lift the cap on street vendor licenses.",
-      "content_text": "The New York City Council is expected to overwhelmingly vote to create wage minimums for private security officers and lift the cap on street vendor licenses.",
-      "date_published": "2026-01-29T08:00:11.000Z"
+      "date_published": "2026-01-29T10:00:27.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/arts/television/late-night-ilhan-omar.html",
@@ -260,14 +276,6 @@
       "content_html": "Kevin Couch, who was announced as senior vice president of artistic programming less than two weeks ago, is the latest to leave since President Trump took control of the center last year.",
       "content_text": "Kevin Couch, who was announced as senior vice president of artistic programming less than two weeks ago, is the latest to leave since President Trump took control of the center last year.",
       "date_published": "2026-01-29T04:09:14.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html",
-      "url": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html",
-      "title": "The Journey of a Group of Cuban Deportees Stuck at Guantánamo",
-      "content_html": "The tale illustrates how inefficient the ICE operation has been in the year since President Trump ordered the base to prepare for up to 30,000 “criminal aliens.”",
-      "content_text": "The tale illustrates how inefficient the ICE operation has been in the year since President Trump ordered the base to prepare for up to 30,000 “criminal aliens.”",
-      "date_published": "2026-01-29T03:55:32.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/us/politics/shooting-dhs-turmoil.html",
@@ -494,14 +502,6 @@
       "date_published": "2026-01-28T20:47:29.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/28/us/minneapolis-native-americans.html",
-      "url": "https://www.nytimes.com/2026/01/28/us/minneapolis-native-americans.html",
-      "title": "For Minneapolis’s Native Americans, a New Fight Echoes a Bitter History",
-      "content_html": "The crackdown on unauthorized immigrants is resonating deeply among the Dakota and other tribes, as residents confront what they call a federal occupation of their land.",
-      "content_text": "The crackdown on unauthorized immigrants is resonating deeply among the Dakota and other tribes, as residents confront what they call a federal occupation of their land.",
-      "date_published": "2026-01-28T20:16:12.000Z"
-    },
-    {
       "id": "https://www.nytimes.com/2026/01/28/climate/unions-sue-fema.html",
       "url": "https://www.nytimes.com/2026/01/28/climate/unions-sue-fema.html",
       "title": "Unions Sue FEMA Over Work Force Cuts They Say Threaten Readiness",
@@ -572,14 +572,6 @@
       "content_html": "U.S. and European officials say they have put three demands in front of the Iranians, including a permanent end to all enrichment of uranium.",
       "content_text": "U.S. and European officials say they have put three demands in front of the Iranians, including a permanent end to all enrichment of uranium.",
       "date_published": "2026-01-28T17:50:02.000Z"
-    },
-    {
-      "id": "https://www.nytimes.com/video/us/100000010669560/how-battlefield-tech-was-used-in-minneapolis.html",
-      "url": "https://www.nytimes.com/video/us/100000010669560/how-battlefield-tech-was-used-in-minneapolis.html",
-      "title": "How Battlefield Tech Was Used in Minneapolis",
-      "content_html": "Our reporter Thomas Gibbons-Neff, who deployed twice to Afghanistan as a Marine and later was our Kabul bureau chief, looks at the battlefield technology used for an immigration arrest at a home in Minneapolis.",
-      "content_text": "Our reporter Thomas Gibbons-Neff, who deployed twice to Afghanistan as a Marine and later was our Kabul bureau chief, looks at the battlefield technology used for an immigration arrest at a home in Minneapolis.",
-      "date_published": "2026-01-28T17:46:06.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",

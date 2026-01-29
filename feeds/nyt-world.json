@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html",
+      "title": "European Union Labels Iran’s Revolutionary Guard a Terrorist Group",
+      "content_html": "The move, which comes after the killing of protesters, brings the European Union in line with the United States and Canada.",
+      "content_text": "The move, which comes after the killing of protesters, brings the European Union in line with the United States and Canada.",
+      "date_published": "2026-01-29T15:22:52.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/europe/trump-iran-threats.html",
       "url": "https://www.nytimes.com/2026/01/29/world/europe/trump-iran-threats.html",
       "title": "Trump Warns Iran With Military Muscle, but Risks a Regional War",
@@ -19,7 +27,7 @@
       "title": "Greenlanders Watching Turmoil in the United States Say No Thanks",
       "content_html": "The violence in Minneapolis and President Trump’s threats have soured Greenlanders on the United States and, unexpectedly, pushed them closer to Denmark.",
       "content_text": "The violence in Minneapolis and President Trump’s threats have soured Greenlanders on the United States and, unexpectedly, pushed them closer to Denmark.",
-      "date_published": "2026-01-29T11:22:38.000Z"
+      "date_published": "2026-01-29T11:22:39.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",

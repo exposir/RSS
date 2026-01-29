@@ -6,35 +6,43 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46809069",
+      "url": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
+      "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
+      "content_html": "<p>Article URL: <a href=\"https://bayramovanar.substack.com/p/tech-market-is-fucked-up\">https://bayramovanar.substack.com/p/tech-market-is-fucked-up</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46809069\">https://news.ycombinator.com/item?id=46809069</a></p>\n<p>Points: 254</p>\n<p># Comments: 160</p>",
+      "content_text": "Article URL: https://bayramovanar.substack.com/p/tech-market-is-fucked-up\nComments URL: https://news.ycombinator.com/item?id=46809069\nPoints: 254\n# Comments: 160",
+      "date_published": "2026-01-29T12:03:13.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46808251",
       "url": "https://blog.ncase.me/on-depression/",
       "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
-      "content_html": "<p>Article URL: <a href=\"https://blog.ncase.me/on-depression/\">https://blog.ncase.me/on-depression/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46808251\">https://news.ycombinator.com/item?id=46808251</a></p>\n<p>Points: 339</p>\n<p># Comments: 235</p>",
-      "content_text": "Article URL: https://blog.ncase.me/on-depression/\nComments URL: https://news.ycombinator.com/item?id=46808251\nPoints: 339\n# Comments: 235",
+      "content_html": "<p>Article URL: <a href=\"https://blog.ncase.me/on-depression/\">https://blog.ncase.me/on-depression/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46808251\">https://news.ycombinator.com/item?id=46808251</a></p>\n<p>Points: 523</p>\n<p># Comments: 363</p>",
+      "content_text": "Article URL: https://blog.ncase.me/on-depression/\nComments URL: https://news.ycombinator.com/item?id=46808251\nPoints: 523\n# Comments: 363",
       "date_published": "2026-01-29T10:35:00.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46806773",
       "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
       "title": "Europe’s next-generation weather satellite sends back first images",
-      "content_html": "<p>Article URL: <a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\">https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46806773\">https://news.ycombinator.com/item?id=46806773</a></p>\n<p>Points: 265</p>\n<p># Comments: 43</p>",
-      "content_text": "Article URL: https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\nComments URL: https://news.ycombinator.com/item?id=46806773\nPoints: 265\n# Comments: 43",
+      "content_html": "<p>Article URL: <a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\">https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46806773\">https://news.ycombinator.com/item?id=46806773</a></p>\n<p>Points: 444</p>\n<p># Comments: 63</p>",
+      "content_text": "Article URL: https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\nComments URL: https://news.ycombinator.com/item?id=46806773\nPoints: 444\n# Comments: 63",
       "date_published": "2026-01-29T07:07:17.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46805665",
       "url": "https://web.mit.edu/jemorris/humor/500-miles",
-      "title": "We can't send mail farther than 500 miles (2002)",
-      "content_html": "<p>See also <a href=\"https://ibiblio.org/harris/500milemail-faq.html\" rel=\"nofollow\">https://ibiblio.org/harris/500milemail-faq.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46805665\">https://news.ycombinator.com/item?id=46805665</a></p>\n<p>Points: 276</p>\n<p># Comments: 30</p>",
-      "content_text": "See also https://ibiblio.org/harris/500milemail-faq.html\n\nComments URL: https://news.ycombinator.com/item?id=46805665\nPoints: 276\n# Comments: 30",
+      "title": "We can’t send mail farther than 500 miles (2002)",
+      "content_html": "<p>See also <a href=\"https://ibiblio.org/harris/500milemail-faq.html\" rel=\"nofollow\">https://ibiblio.org/harris/500milemail-faq.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46805665\">https://news.ycombinator.com/item?id=46805665</a></p>\n<p>Points: 501</p>\n<p># Comments: 76</p>",
+      "content_text": "See also https://ibiblio.org/harris/500milemail-faq.html\n\nComments URL: https://news.ycombinator.com/item?id=46805665\nPoints: 501\n# Comments: 76",
       "date_published": "2026-01-29T03:58:33.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46804828",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "title": "Render Mermaid diagrams as SVGs or ASCII art",
-      "content_html": "<p>Article URL: <a href=\"https://github.com/lukilabs/beautiful-mermaid\">https://github.com/lukilabs/beautiful-mermaid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46804828\">https://news.ycombinator.com/item?id=46804828</a></p>\n<p>Points: 255</p>\n<p># Comments: 41</p>",
-      "content_text": "Article URL: https://github.com/lukilabs/beautiful-mermaid\nComments URL: https://news.ycombinator.com/item?id=46804828\nPoints: 255\n# Comments: 41",
+      "content_html": "<p>Article URL: <a href=\"https://github.com/lukilabs/beautiful-mermaid\">https://github.com/lukilabs/beautiful-mermaid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46804828\">https://news.ycombinator.com/item?id=46804828</a></p>\n<p>Points: 327</p>\n<p># Comments: 48</p>",
+      "content_text": "Article URL: https://github.com/lukilabs/beautiful-mermaid\nComments URL: https://news.ycombinator.com/item?id=46804828\nPoints: 327\n# Comments: 48",
       "date_published": "2026-01-29T02:08:40.000Z"
     },
     {
@@ -57,8 +65,8 @@
       "id": "https://news.ycombinator.com/item?id=46802867",
       "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
       "title": "Tesla ending Models S and X production",
-      "content_html": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html\">https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46802867\">https://news.ycombinator.com/item?id=46802867</a></p>\n<p>Points: 255</p>\n<p># Comments: 411</p>",
-      "content_text": "Article URL: https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html\nComments URL: https://news.ycombinator.com/item?id=46802867\nPoints: 255\n# Comments: 411",
+      "content_html": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html\">https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46802867\">https://news.ycombinator.com/item?id=46802867</a></p>\n<p>Points: 441</p>\n<p># Comments: 877</p>",
+      "content_text": "Article URL: https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html\nComments URL: https://news.ycombinator.com/item?id=46802867\nPoints: 441\n# Comments: 877",
       "date_published": "2026-01-28T22:53:54.000Z"
     },
     {
@@ -73,8 +81,8 @@
       "id": "https://news.ycombinator.com/item?id=46801419",
       "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
       "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
-      "content_html": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/01/28/patreon-apple-tax/\">https://www.macrumors.com/2026/01/28/patreon-apple-tax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46801419\">https://news.ycombinator.com/item?id=46801419</a></p>\n<p>Points: 358</p>\n<p># Comments: 293</p>",
-      "content_text": "Article URL: https://www.macrumors.com/2026/01/28/patreon-apple-tax/\nComments URL: https://news.ycombinator.com/item?id=46801419\nPoints: 358\n# Comments: 293",
+      "content_html": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/01/28/patreon-apple-tax/\">https://www.macrumors.com/2026/01/28/patreon-apple-tax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46801419\">https://news.ycombinator.com/item?id=46801419</a></p>\n<p>Points: 705</p>\n<p># Comments: 587</p>",
+      "content_text": "Article URL: https://www.macrumors.com/2026/01/28/patreon-apple-tax/\nComments URL: https://news.ycombinator.com/item?id=46801419\nPoints: 705\n# Comments: 587",
       "date_published": "2026-01-28T20:59:30.000Z"
     },
     {
@@ -89,8 +97,8 @@
       "id": "https://news.ycombinator.com/item?id=46797594",
       "url": "https://www.dimamik.com/posts/oban_py/",
       "title": "Oban, the job processing framework from Elixir, has come to Python",
-      "content_html": "<p>Article URL: <a href=\"https://www.dimamik.com/posts/oban_py/\">https://www.dimamik.com/posts/oban_py/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46797594\">https://news.ycombinator.com/item?id=46797594</a></p>\n<p>Points: 247</p>\n<p># Comments: 96</p>",
-      "content_text": "Article URL: https://www.dimamik.com/posts/oban_py/\nComments URL: https://news.ycombinator.com/item?id=46797594\nPoints: 247\n# Comments: 96",
+      "content_html": "<p>Article URL: <a href=\"https://www.dimamik.com/posts/oban_py/\">https://www.dimamik.com/posts/oban_py/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46797594\">https://news.ycombinator.com/item?id=46797594</a></p>\n<p>Points: 248</p>\n<p># Comments: 97</p>",
+      "content_text": "Article URL: https://www.dimamik.com/posts/oban_py/\nComments URL: https://news.ycombinator.com/item?id=46797594\nPoints: 248\n# Comments: 97",
       "date_published": "2026-01-28T16:32:00.000Z"
     },
     {
@@ -152,9 +160,9 @@
     {
       "id": "https://news.ycombinator.com/item?id=46790740",
       "url": "https://9to5google.com/2026/01/27/android-desktop-leak/",
-      "title": "Android's desktop interface leaks",
-      "content_html": "<p>Article URL: <a href=\"https://9to5google.com/2026/01/27/android-desktop-leak/\">https://9to5google.com/2026/01/27/android-desktop-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46790740\">https://news.ycombinator.com/item?id=46790740</a></p>\n<p>Points: 242</p>\n<p># Comments: 320</p>",
-      "content_text": "Article URL: https://9to5google.com/2026/01/27/android-desktop-leak/\nComments URL: https://news.ycombinator.com/item?id=46790740\nPoints: 242\n# Comments: 320",
+      "title": "Android’s desktop interface leaks",
+      "content_html": "<p>Article URL: <a href=\"https://9to5google.com/2026/01/27/android-desktop-leak/\">https://9to5google.com/2026/01/27/android-desktop-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46790740\">https://news.ycombinator.com/item?id=46790740</a></p>\n<p>Points: 268</p>\n<p># Comments: 350</p>",
+      "content_text": "Article URL: https://9to5google.com/2026/01/27/android-desktop-leak/\nComments URL: https://news.ycombinator.com/item?id=46790740\nPoints: 268\n# Comments: 350",
       "date_published": "2026-01-28T03:34:45.000Z"
     },
     {

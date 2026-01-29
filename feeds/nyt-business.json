@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
+      "url": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
+      "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",
+      "content_html": "New discounts can make heat pumps go from a bad investment to a good idea.",
+      "content_text": "New discounts can make heat pumps go from a bad investment to a good idea.",
+      "date_published": "2026-01-29T15:30:00.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/business/us-trade-deficit-tariffs.html",
       "url": "https://www.nytimes.com/2026/01/29/business/us-trade-deficit-tariffs.html",
       "title": "U.S. Trade Deficit Bounces Back as Tariffs Cause Volatility",
@@ -24,10 +32,10 @@
     {
       "id": "https://www.nytimes.com/2026/01/29/business/russia-lukoil-carlyle-sale-sanctions.html",
       "url": "https://www.nytimes.com/2026/01/29/business/russia-lukoil-carlyle-sale-sanctions.html",
-      "title": "Russia’s Lukoil to Sell Its Foreign Assets to U.S. Investment Firm",
+      "title": "Russia’s Lukoil in Talks to Sell Some Assets to U.S. Investment Firm",
       "content_html": "The deal with Carlyle comes after the United States and the European Union imposed sanctions on Lukoil, putting a dent in the Kremlin’s oil revenue.",
       "content_text": "The deal with Carlyle comes after the United States and the European Union imposed sanctions on Lukoil, putting a dent in the Kremlin’s oil revenue.",
-      "date_published": "2026-01-29T11:47:01.000Z"
+      "date_published": "2026-01-29T12:54:36.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/arts/design/newark-museum-of-art-director.html",
@@ -46,20 +54,12 @@
       "date_published": "2026-01-29T10:02:13.000Z"
     },
     {
-      "id": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
-      "url": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
-      "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",
-      "content_html": "New discounts can make heat pumps go from a bad investment to a good idea.",
-      "content_text": "New discounts can make heat pumps go from a bad investment to a good idea.",
-      "date_published": "2026-01-29T10:01:08.000Z"
-    },
-    {
       "id": "https://www.nytimes.com/2026/01/29/business/economy/tariffs-rugs-loloi.html",
       "url": "https://www.nytimes.com/2026/01/29/business/economy/tariffs-rugs-loloi.html",
       "title": "A Rug Maker Withstood One Year of Trump’s Tariffs. New Challenges Loom.",
       "content_html": "Loloi stockpiled rugs from India, Turkey and other countries in advance, but inventory is running low.",
       "content_text": "Loloi stockpiled rugs from India, Turkey and other countries in advance, but inventory is running low.",
-      "date_published": "2026-01-29T10:00:26.000Z"
+      "date_published": "2026-01-29T10:00:27.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/business/china-economy-duality.html",

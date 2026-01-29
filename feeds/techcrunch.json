@@ -6,6 +6,22 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3087477",
+      "url": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
+      "title": "India is teaching Google how AI in education can scale",
+      "content_html": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
+      "content_text": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
+      "date_published": "2026-01-29T15:29:31.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087787",
+      "url": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
+      "title": "Flapping Airplanes and the promise of research-driven AI",
+      "content_html": "A new AI lab called Flapping Airplanes launched yesterday, and a Sequoia partner has an interesting take on why they stand out.",
+      "content_text": "A new AI lab called Flapping Airplanes launched yesterday, and a Sequoia partner has an interesting take on why they stand out.",
+      "date_published": "2026-01-29T15:22:29.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087791",
       "url": "https://techcrunch.com/2026/01/29/teslas-energy-storage-business-is-growing-faster-than-any-other-part-of-the-company/",
       "title": "Tesla’s energy storage business is growing faster than any other part of the company",
@@ -41,8 +57,8 @@
       "id": "https://techcrunch.com/?p=3087763",
       "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
       "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
-      "content_html": "The child, whose age is not known, sustained minor injuries according to Waymo. The National Highway Traffic Safety Administration is investigating.",
-      "content_text": "The child, whose age is not known, sustained minor injuries according to Waymo. The National Highway Traffic Safety Administration is investigating.",
+      "content_html": "The child, whose age is not public, sustained minor injuries according to Waymo. The National Highway Traffic Safety Administration is investigating.",
+      "content_text": "The child, whose age is not public, sustained minor injuries according to Waymo. The National Highway Traffic Safety Administration is investigating.",
       "date_published": "2026-01-29T12:53:49.000Z"
     },
     {
