@@ -6,6 +6,38 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cvgrzd76p4lo#1",
+      "url": "https://www.bbc.com/news/articles/cvgrzd76p4lo?at_medium=RSS&at_campaign=rss",
+      "title": "Syria's defiant Kurds vow to 'fight until last breath' despite government push",
+      "content_html": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
+      "content_text": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
+      "date_published": "2026-01-29T22:04:34.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4g4yj92kwro#0",
+      "url": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Putin will not attack Ukraine cities during cold week",
+      "content_html": "Russia has not confirmed it agreed to Trump's request, but Ukraine's president said he expected Vladimir Putin's promise to be kept.",
+      "content_text": "Russia has not confirmed it agreed to Trump's request, but Ukraine's president said he expected Vladimir Putin's promise to be kept.",
+      "date_published": "2026-01-29T21:21:35.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvg1l8zgglpo#0",
+      "url": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
+      "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
+      "content_html": "Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill",
+      "content_text": "Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill",
+      "date_published": "2026-01-29T21:06:54.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/boxing/articles/c4g0y415qlko#3",
+      "url": "https://www.bbc.com/sport/boxing/articles/c4g0y415qlko?at_medium=RSS&at_campaign=rss",
+      "title": "Joshua pays emotional tribute in new video",
+      "content_html": "Anthony Joshua posts an emotional YouTube video thanking fans for their support following the deaths of his two close friends in a car crash in Nigeria.",
+      "content_text": "Anthony Joshua posts an emotional YouTube video thanking fans for their support following the deaths of his two close friends in a car crash in Nigeria.",
+      "date_published": "2026-01-29T21:03:18.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c79ry5dwq9jo#3",
       "url": "https://www.bbc.com/news/articles/c79ry5dwq9jo?at_medium=RSS&at_campaign=rss",
       "title": "Ex-Nigerian oil minister did not take bribes from industry insiders, court told",
@@ -204,6 +236,14 @@
       "content_html": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex.",
       "content_text": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex.",
       "date_published": "2026-01-29T16:00:41.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cx2l1xpz03no#3",
+      "url": "https://www.bbc.com/news/articles/cx2l1xpz03no?at_medium=RSS&at_campaign=rss",
+      "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say",
+      "content_html": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
+      "content_text": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
+      "date_published": "2026-01-29T16:00:09.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cx2l1xpz03no#0",

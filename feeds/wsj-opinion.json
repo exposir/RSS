@@ -6,6 +6,30 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "SB11930060785218553820404592648552557889824",
+      "url": "https://www.wsj.com/opinion/trumps-cowbell-moment-5cc1e94f",
+      "title": "Trump&#x2019;s Cowbell Moment",
+      "content_html": "His accomplishments on the economy are drowned out by the Minnesota drumbeat.",
+      "content_text": "His accomplishments on the economy are drowned out by the Minnesota drumbeat.",
+      "date_published": "2026-01-29T22:23:00.000Z"
+    },
+    {
+      "id": "SB11930060785218553820404592640053762007754",
+      "url": "https://www.wsj.com/opinion/a-hasidic-rebel-grows-up-fb0349ab",
+      "title": "A Hasidic Rebel Grows Up",
+      "content_html": "I turned against my community but couldn&#x2019;t send my son to public school.",
+      "content_text": "I turned against my community but couldn&#x2019;t send my son to public school.",
+      "date_published": "2026-01-29T22:22:00.000Z"
+    },
+    {
+      "id": "SB11930060785218553820404592648032546102446",
+      "url": "https://www.wsj.com/opinion/the-fed-chief-takes-the-high-road-373afdf0",
+      "title": "The Fed Chief Takes the High Road",
+      "content_html": "Jay Powell&#x2019;s measured remarks contrast with Trump&#x2019;s fiery bluster.",
+      "content_text": "Jay Powell&#x2019;s measured remarks contrast with Trump&#x2019;s fiery bluster.",
+      "date_published": "2026-01-29T22:21:00.000Z"
+    },
+    {
       "id": "WP-WSJO-0000246965",
       "url": "https://www.wsj.com/opinion/possible-moderate-democrat-sighting-in-california-governors-race-c958be4b",
       "title": "Possible Moderate Democrat Sighting in California Governor&#x2019;s Race",

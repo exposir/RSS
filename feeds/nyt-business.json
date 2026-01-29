@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/business/media/california-post-new-york-post-fox-rupert-murdoch.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/media/california-post-new-york-post-fox-rupert-murdoch.html",
+      "title": "Murdoch and News Corp Take on the West Coast with The California Post",
+      "content_html": "The expansion of the Murdoch tabloid from its New York roots to the West Coast is the latest sign of the outlet’s national ambitions.",
+      "content_text": "The expansion of the Murdoch tabloid from its New York roots to the West Coast is the latest sign of the outlet’s national ambitions.",
+      "date_published": "2026-01-29T22:20:21.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
+      "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
+      "content_html": "Bowing to Trump administration pressure, the new legislation improves conditions for foreign oil companies and opens the way to slash the taxes they pay.",
+      "content_text": "Bowing to Trump administration pressure, the new legislation improves conditions for foreign oil companies and opens the way to slash the taxes they pay.",
+      "date_published": "2026-01-29T22:20:19.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/business/first-brands-fraud-indictment.html",
       "url": "https://www.nytimes.com/2026/01/29/business/first-brands-fraud-indictment.html",
       "title": "Founder of First Brands, Whose Bankruptcy Spooked Wall St., Is Indicted on Fraud Charges",

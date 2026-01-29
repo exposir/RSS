@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3088038",
+      "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+      "title": "Amazon is reportedly in talks to invest $50 billion in OpenAI",
+      "content_html": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
+      "content_text": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
+      "date_published": "2026-01-29T22:11:09.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3088006",
       "url": "https://techcrunch.com/2026/01/29/medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice/",
       "title": "Medium gives employees Friday off to participate in national strike protesting ICE",

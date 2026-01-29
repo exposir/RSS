@@ -6,6 +6,214 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/iphone-fuels-apple-s-record-qtr-microsoft-s-historic-slide",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/iphone-fuels-apple-s-record-qtr-microsoft-s-historic-slide",
+      "title": "iPhone Fuels Apple's Record Qtr, Microsoft's Historic Slide",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T22:25:32.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/elon-musk-s-spacex-is-said-to-consider-merger-with-tesla-or-xai",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/elon-musk-s-spacex-is-said-to-consider-merger-with-tesla-or-xai",
+      "title": "Elon Musk’s SpaceX Said to Consider Merger With Tesla or xAI",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T22:22:18.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/alberta-separatists-want-help-from-the-us-bc-s-premier-calls-that-treason",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/alberta-separatists-want-help-from-the-us-bc-s-premier-calls-that-treason",
+      "title": "Alberta Separatists Want Help From the US. BC’s Premier Calls That Treason",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T22:13:51.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/apple-revenue-beats-as-china-tops-estimates",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/apple-revenue-beats-as-china-tops-estimates",
+      "title": "Apple Revenue Beats as China Tops Estimates",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T21:46:18.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/apple-sales-beat-estimates-after-iphone-fuels-record-quarter",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/apple-sales-beat-estimates-after-iphone-fuels-record-quarter",
+      "title": "Apple Sales Beat Estimates after iPhone Fuels Record Quarter",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T21:40:58.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/tobacco-black-market-agricultural-succession-copper-s-record-high",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/tobacco-black-market-agricultural-succession-copper-s-record-high",
+      "title": "Australia Faces New Smoking Crisis After Years of Complacency",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T21:38:32.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-meta-microsoft-oracle-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-meta-microsoft-oracle-podcast",
+      "title": "Stock Movers: Meta, Microsoft, Oracle (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T21:37:30.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/balance-of-power-trump-democrats-near-shutdown-deal-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/balance-of-power-trump-democrats-near-shutdown-deal-podcast",
+      "title": "Balance of Power: Trump, Democrats Near Shutdown Deal (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T21:24:08.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/insurance-platform-ethos-shares-fall-15-in-us-public-offering",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/insurance-platform-ethos-shares-fall-15-in-us-public-offering",
+      "title": "Sequoia-Backed Ethos Technologies Shares Sink 11% in US IPO",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T21:16:45.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/markets-close-with-historic-microsoft-slide-shutdown-deal-close",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/markets-close-with-historic-microsoft-slide-shutdown-deal-close",
+      "title": "Markets Close with Historic Microsoft Slide, Shutdown Deal Close",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T21:10:54.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/newsom-not-convinced-california-wants-to-take-over-pg-e",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/newsom-not-convinced-california-wants-to-take-over-pg-e",
+      "title": "Newsom ‘Not Convinced’ California Wants to Take Over PG&E",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T21:07:14.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-talks-california-governor-gavin-newsom-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-talks-california-governor-gavin-newsom-podcast",
+      "title": "Bloomberg Talks: California Governor Gavin Newsom (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T20:43:36.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/dems-block-budget-bills-trump-to-name-fed-chair-next-week-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/dems-block-budget-bills-trump-to-name-fed-chair-next-week-more",
+      "title": "Dems Block Budget Bills, Trump to Name Fed Chair Next Week, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T20:22:47.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/tesla-model-s-model-x-discontinued-as-elon-musk-replaces-ev-with-optimus-robot",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/tesla-model-s-model-x-discontinued-as-elon-musk-replaces-ev-with-optimus-robot",
+      "title": "Why Tesla Euthanizing the Model S Is More Than a Little Sad",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T20:00:28.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/credit-edge-pimco-president-sees-private-debt-trouble-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/credit-edge-pimco-president-sees-private-debt-trouble-podcast",
+      "title": "Credit Edge: Pimco President Sees Private Debt Trouble (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T20:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/macro-matters-morgan-stanley-s-hornbach-on-dollar-yield-curve",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/macro-matters-morgan-stanley-s-hornbach-on-dollar-yield-curve",
+      "title": "Macro Matters: Morgan Stanley’s Hornbach on Dollar, Yield Curve",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T19:57:47.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/spacex-in-merger-talks-with-xai-ahead-of-ipo-reuters-reports",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/spacex-in-merger-talks-with-xai-ahead-of-ipo-reuters-reports",
+      "title": "SpaceX In Merger Talks With xAI Ahead of IPO, Reuters Reports",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T19:30:43.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-tech-ai-spending-delivers-mixed-results-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-tech-ai-spending-delivers-mixed-results-podcast",
+      "title": "Bloomberg Tech: AI Spending Delivers Mixed Results (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T19:30:14.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/trump-dems-work-on-ice-deal-trump-to-name-fed-chair-next-week",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/trump-dems-work-on-ice-deal-trump-to-name-fed-chair-next-week",
+      "title": "Trump, Dems Work on ICE Deal, Trump to Name Fed Chair Next Week",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T19:18:11.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/opinion/newsletters/2026-01-29/first-brands-did-some-round-trips",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2026-01-29/first-brands-did-some-round-trips",
+      "title": "First Brands Did Some Round Trips",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T18:56:10.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/congress-facing-shutdown-trump-to-name-new-fed-chair-next-week",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/congress-facing-shutdown-trump-to-name-new-fed-chair-next-week",
+      "title": "Congress Facing Shutdown, Trump to Name New Fed Chair Next Week",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T18:25:04.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/ice-in-minnesota-spurs-shutdown-fight-over-dhs-funding",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/ice-in-minnesota-spurs-shutdown-fight-over-dhs-funding",
+      "title": "ICE Funding Fight Ensnares Washington as Shutdown Deadline Looms",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T18:14:49.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/big-take-the-fight-over-ice-funding-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/big-take-the-fight-over-ice-funding-podcast",
+      "title": "Big Take: The Fight Over ICE Funding (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T18:11:34.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/the-canary-in-the-credit-coalmine-is-acting-kind-of-weird",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/the-canary-in-the-credit-coalmine-is-acting-kind-of-weird",
+      "title": "The Canary in the Credit Coalmine Is Acting Kind of Weird",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T18:05:04.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-intelligence-microsoft-shares-sink-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-intelligence-microsoft-shares-sink-podcast",
+      "title": "Bloomberg Intelligence: Microsoft Shares Sink (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T17:44:46.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/international-paper-unwraps-a-gift-for-london-with-breakup-plan",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/international-paper-unwraps-a-gift-for-london-with-breakup-plan",
+      "title": "International Paper Unwraps a Gift for London With Breakup Plan",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T17:41:05.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/michael-burry-talks-up-gamestop-in-a-week-defined-by-texas-ice-snow",
       "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/michael-burry-talks-up-gamestop-in-a-week-defined-by-texas-ice-snow",
       "title": "Michael Burry Talks Up GameStop in a Week Defined by Texas Ice, Snow",

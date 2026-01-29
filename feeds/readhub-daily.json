@@ -3,8 +3,96 @@
   "title": "Readhub - 每日早报",
   "home_page_url": "https://api.readhub.cn/daily",
   "feed_url": "https://exposir.github.io/RSS/feeds/readhub-daily.json",
-  "description": "1. 路透：黄仁勋访华取得成果 首批 H200 芯片订单获批 2. 深圳水贝黄金交易商「杰我睿」被曝经营异常 投资者称涉资超百亿 3. SpaceX 上市时间可能定在 6 月以契合天象及马斯克生日 4. 消息称字节禁止员工利用公司资源做号谋利 5. 多家房企：目前已不被监管部门要求每月上报「三条红线」指标 6. 软银据悉拟向 OpenAI 追加投资 300 亿美元 7. 盒马回应将鲜百合误送成水仙球致用户中毒：系拣货失误，赔偿方案在协商中 8. 郭明錤：苹果 iPhone 18 定价策略是「尽可能不涨价」 9. 亚马逊误发内部邮件致裁员陷入混乱：数千员工再陷裁员恐慌 10. 阿里云上线 Clawdbot 全套云服务 11. OpenAI 推出面向科学家的全新工具 Prism 12. 鸣鸣很忙港交所上市，开盘大涨 88.08% 13. Anthropic 融资额拟翻番至 200 亿美元，估值 3500 亿美元 14. 马云：孩子不应和 AI 比拼计算和记忆，好奇心是算力源泉 - Powered by RSSHub",
+  "description": "1. 字节、阿里将于 2 月推出新 AI 模型 2. DeepSeek 正招兵买马，布局 AI 搜索与智能体领域 3. 阿里正考虑将未来三年投入到 AI 基建与云计算上的 3800 亿元提升至 4800 亿 4. 字节已于 2025 年底开启豆包手机助手正式版项目，新机预计 2026 年 Q2 中晚期发布 5. 贵州茅台回应出资参与 SpaceX 上市 A 轮融资：不实信息 6. 特斯拉将停产 Model S 和 X，将生产线转至制造人形机器人 Optimus 7. 阿里自研 AI 芯片「通云哥」亮相 性能比肩英伟达 H20 8. 苹果以接近 20 亿美元的估值收购以色列初创公司 Q.AI 9. SpaceX 正与 xAI 就合并事宜进行谈判 10. 英伟达、微软、亚马逊正洽谈向 OpenAI 投资至多 600 亿美元 11. 消息称理想调整研发架构，智驾部门将被重组 12. 特斯拉 CEO 马斯克：人形机器人领域最大竞争对手将来自中国 13. 苹果推出 Creator Studio 服务 每月 38 元 - Powered by RSSHub",
   "items": [
+    {
+      "id": "readhub-8qIjQmwboyj",
+      "url": "https://readhub.cn/topic/8qIjQmwboyj",
+      "title": "消息称理想调整研发架构，智驾部门将被重组",
+      "content_html": "<p>理想汽车将开启新一轮组织架构调整，重组研发体系为基座模型、软件本体、硬件本体三大团队，重点是拆分自动驾驶团队。此前自动驾驶高级副总裁郎咸朋成为硬件本体负责人，负责机器人研发，向总裁马东辉汇报。自动驾驶团队并入勾晓菲负责的软件本体团队，勾晓菲统筹智能座舱和智能驾驶研发，也向马东辉汇报。詹锟领导基座模型团队，统筹 VLA 和自研芯片融合，向 CTO 谢炎汇报。创始人李想称调整研发团队是为应对新一轮 AI 竞争。</p>",
+      "content_text": "理想汽车将开启新一轮组织架构调整，重组研发体系为基座模型、软件本体、硬件本体三大团队，重点是拆分自动驾驶团队。此前自动驾驶高级副总裁郎咸朋成为硬件本体负责人，负责机器人研发，向总裁马东辉汇报。自动驾驶团队并入勾晓菲负责的软件本体团队，勾晓菲统筹智能座舱和智能驾驶研发，也向马东辉汇报。詹锟领导基座模型团队，统筹 VLA 和自研芯片融合，向 CTO 谢炎汇报。创始人李想称调整研发团队是为应对新一轮 AI 竞争。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
+    {
+      "id": "readhub-8qIB7MGyMVD",
+      "url": "https://readhub.cn/topic/8qIB7MGyMVD",
+      "title": "英伟达、微软、亚马逊正洽谈向 OpenAI 投资至多 600 亿美元",
+      "content_html": "<p>英伟达、微软、亚马逊正洽谈向OpenAI投资至多600亿美元。</p>",
+      "content_text": "英伟达、微软、亚马逊正洽谈向OpenAI投资至多600亿美元。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
+    {
+      "id": "readhub-8qK5hw2ET28",
+      "url": "https://readhub.cn/topic/8qK5hw2ET28",
+      "title": "SpaceX 正与 xAI 就合并事宜进行谈判",
+      "content_html": "<p>知情人士透露，在今年上市前，马斯克旗下SpaceX和xAI正商讨合并事宜，将整合火箭、星链卫星、X平台及Grok聊天机器人，为SpaceX将数据中心送入轨道注入新动力，助力马斯克在人工智能竞赛中争取领先。按方案，xAI股票将转换为SpaceX股票，已在内华达州设两个机构协助交易。</p>",
+      "content_text": "知情人士透露，在今年上市前，马斯克旗下SpaceX和xAI正商讨合并事宜，将整合火箭、星链卫星、X平台及Grok聊天机器人，为SpaceX将数据中心送入轨道注入新动力，助力马斯克在人工智能竞赛中争取领先。按方案，xAI股票将转换为SpaceX股票，已在内华达州设两个机构协助交易。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
+    {
+      "id": "readhub-8qK1Q7Czihd",
+      "url": "https://readhub.cn/topic/8qK1Q7Czihd",
+      "title": "苹果以接近 20 亿美元的估值收购以色列初创公司 Q.AI",
+      "content_html": "<p>苹果据悉以近20亿美元估值收购以色列初创公司Q.AI。</p>",
+      "content_text": "苹果据悉以近20亿美元估值收购以色列初创公司Q.AI。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
+    {
+      "id": "readhub-8qIup5dSmN0",
+      "url": "https://readhub.cn/topic/8qIup5dSmN0",
+      "title": "阿里自研 AI 芯片「通云哥」亮相 性能比肩英伟达 H20",
+      "content_html": "<p>阿里平头哥官网上线高端AI芯片“真武810E”，该芯片实现软硬件全自研，此前曾引发关注，这使阿里AI黄金三角“通云哥”完整浮出水面。“真武”整体性能超英伟达A800和主流国产GPU，与英伟达H20相当。</p>",
+      "content_text": "阿里平头哥官网上线高端AI芯片“真武810E”，该芯片实现软硬件全自研，此前曾引发关注，这使阿里AI黄金三角“通云哥”完整浮出水面。“真武”整体性能超英伟达A800和主流国产GPU，与英伟达H20相当。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
+    {
+      "id": "readhub-8qIhzJIY5GN",
+      "url": "https://readhub.cn/topic/8qIhzJIY5GN",
+      "title": "特斯拉将停产 Model S 和 X，将生产线转至制造人形机器人 Optimus",
+      "content_html": "<p>特斯拉将停产 Model S 和 X，把生产线转至制造人形机器人 Optimus。</p>",
+      "content_text": "特斯拉将停产 Model S 和 X，把生产线转至制造人形机器人 Optimus。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
+    {
+      "id": "readhub-8qJSR6TaZDj",
+      "url": "https://readhub.cn/topic/8qJSR6TaZDj",
+      "title": "贵州茅台回应出资参与 SpaceX 上市 A 轮融资：不实信息",
+      "content_html": "<p>今日有市场传言称“贵州茅台证实参与SpaceX上市A轮融资”，贵州茅台回应此为“不实信息”。</p>",
+      "content_text": "今日有市场传言称“贵州茅台证实参与SpaceX上市A轮融资”，贵州茅台回应此为“不实信息”。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
+    {
+      "id": "readhub-8qJAXXLDMZ5",
+      "url": "https://readhub.cn/topic/8qJAXXLDMZ5",
+      "title": "字节已于 2025 年底开启豆包手机助手正式版项目，新机预计 2026 年 Q2 中晚期发布",
+      "content_html": "<p>2025年底字节开启豆包手机助手正式版项目，新机预计2026年Q2中晚期发布，供应链人士称字节对新机预期比第一代测试版大大提升。豆包二代手机仍与中兴努比亚合作，由中兴负责硬件、豆包负责AI，字节暂无回复。豆包手机团队此前与多数主流应用厂商谈判，已和部分互联网公司谈好部分常用权限。</p>",
+      "content_text": "2025年底字节开启豆包手机助手正式版项目，新机预计2026年Q2中晚期发布，供应链人士称字节对新机预期比第一代测试版大大提升。豆包二代手机仍与中兴努比亚合作，由中兴负责硬件、豆包负责AI，字节暂无回复。豆包手机团队此前与多数主流应用厂商谈判，已和部分互联网公司谈好部分常用权限。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
+    {
+      "id": "readhub-8qJfzjieaUY",
+      "url": "https://readhub.cn/topic/8qJfzjieaUY",
+      "title": "阿里正考虑将未来三年投入到 AI 基建与云计算上的 3800 亿元提升至 4800 亿",
+      "content_html": "<p>阿里正考虑将未来三年投入到AI基建与云计算的3800亿元提升至4800亿，国内有自研芯片真武810E，海外大量采购GPU，最激进时还大量买入RTX4090等消费级显卡搭建推理集群、补充推理吞吐。</p>",
+      "content_text": "阿里正考虑将未来三年投入到AI基建与云计算的3800亿元提升至4800亿，国内有自研芯片真武810E，海外大量采购GPU，最激进时还大量买入RTX4090等消费级显卡搭建推理集群、补充推理吞吐。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
+    {
+      "id": "readhub-8qJQI2prfYG",
+      "url": "https://readhub.cn/topic/8qJQI2prfYG",
+      "title": "DeepSeek 正招兵买马，布局 AI 搜索与智能体领域",
+      "content_html": "<p>DeepSeek 通过招聘多语言 AI 搜索引擎开发人才、加大对智能体技术的投入，拓展其 AI 产品矩阵，以与 OpenAI 及 Alphabet 竞争。其正招募人才打造支持多语言、具备多模态特性的人工智能搜索引擎，还阐述开发智能体所需的训练数据、评估系统及专用平台需求，预计部署大量长期运行的智能体系统。</p>",
+      "content_text": "DeepSeek 通过招聘多语言 AI 搜索引擎开发人才、加大对智能体技术的投入，拓展其 AI 产品矩阵，以与 OpenAI 及 Alphabet 竞争。其正招募人才打造支持多语言、具备多模态特性的人工智能搜索引擎，还阐述开发智能体所需的训练数据、评估系统及专用平台需求，预计部署大量长期运行的智能体系统。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
+    {
+      "id": "readhub-8qJiUNOuGNB",
+      "url": "https://readhub.cn/topic/8qJiUNOuGNB",
+      "title": "字节、阿里将于 2 月推出新 AI 模型",
+      "content_html": "<p>字节跳动、阿里巴巴将推出新的人工智能模型。字节跳动下月将发布3款新AI模型，阿里巴巴下月将推出新一代AI模型。</p>",
+      "content_text": "字节跳动、阿里巴巴将推出新的人工智能模型。字节跳动下月将发布3款新AI模型，阿里巴巴下月将推出新一代AI模型。",
+      "date_published": "2026-01-29T22:30:30.824Z"
+    },
     {
       "id": "readhub-8qGjD45GsnV",
       "url": "https://readhub.cn/topic/8qGjD45GsnV",

@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "c4b2a2da-f193-4deb-bc96-278c565f85f3",
+      "url": "https://www.smh.com.au/national/nine-sells-talkback-radio-assets-to-publican-for-56-million-20260130-p5ny8v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Nine sells talkback radio assets to publican for $56 million",
+      "content_html": "Nine Entertainment has sold its broadcast radio assets, including the top rating 2GB and 3AW, to Australian publican Arthur Laundy and his family for $56 million.",
+      "content_text": "Nine Entertainment has sold its broadcast radio assets, including the top rating 2GB and 3AW, to Australian publican Arthur Laundy and his family for $56 million.",
+      "date_published": "2026-01-29T22:23:14.000Z"
+    },
+    {
+      "id": "dfc1994c-af47-4949-bdb9-48cead66fd8a",
+      "url": "https://www.smh.com.au/sport/nrl/three-nrl-clubs-in-three-years-eels-stay-no-pit-stop-for-pezet-20260129-p5ny57.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Three NRL clubs in three years: Eels stay no pit stop for Pezet",
+      "content_html": "Few playmakers have undertaken a more unique journey to establish themselves in the NRL.",
+      "content_text": "Few playmakers have undertaken a more unique journey to establish themselves in the NRL.",
+      "date_published": "2026-01-29T22:00:00.000Z"
+    },
+    {
       "id": "8d885f4a-56b6-483f-9daf-77ba570dd20f",
       "url": "https://www.smh.com.au/business/companies/nine-sells-2gb-3aw-to-publican-buys-outdoor-media-firm-for-850m-20260130-p5ny7i.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Nine sells 2GB, 3AW to publican, buys outdoor media firm for $850m",
