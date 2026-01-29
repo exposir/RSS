@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46812173",
+      "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+      "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+      "content_html": "<p>Article URL: <a href=\"https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/\">https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46812173\">https://news.ycombinator.com/item?id=46812173</a></p>\n<p>Points: 244</p>\n<p># Comments: 132</p>",
+      "content_text": "Article URL: https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/\nComments URL: https://news.ycombinator.com/item?id=46812173\nPoints: 244\n# Comments: 132",
+      "date_published": "2026-01-29T16:12:19.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46810282",
       "url": "https://marginlab.ai/trackers/claude-code/",
       "title": "Claude Code Daily Benchmarks for Degradation Tracking",

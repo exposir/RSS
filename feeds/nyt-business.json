@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/business/first-brands-fraud-indictment.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/first-brands-fraud-indictment.html",
+      "title": "Founder of First Brands, Whose Bankruptcy Spooked Wall St., Is Indicted on Fraud Charges",
+      "content_html": "Patrick James, who was earlier ousted from the beleaguered auto-parts maker, is accused by federal prosecutors of faking invoices and lying about hidden debt for years.",
+      "content_text": "Patrick James, who was earlier ousted from the beleaguered auto-parts maker, is accused by federal prosecutors of faking invoices and lying about hidden debt for years.",
+      "date_published": "2026-01-29T19:07:07.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/business/media/john-l-allen-jr-dead.html",
       "url": "https://www.nytimes.com/2026/01/29/business/media/john-l-allen-jr-dead.html",
       "title": "John L. Allen Jr., Journalist With Inside Access to the Vatican, Dies at 61",

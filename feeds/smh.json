@@ -6,6 +6,70 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "fe8b254c-6635-4375-bb98-865a18336e86",
+      "url": "https://www.smh.com.au/world/europe/trump-says-putin-will-halt-kyiv-bombing-during-looming-cold-snap-20260130-p5ny6p.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Trump says Putin will halt Kyiv bombing during looming cold snap",
+      "content_html": "The US president said his Russian counterpart agreed to his request not to target the capital for a week as Ukraine faces temperatures as low as minus 30 degrees – but there was no confirmation of that from Moscow.",
+      "content_text": "The US president said his Russian counterpart agreed to his request not to target the capital for a week as Ukraine faces temperatures as low as minus 30 degrees – but there was no confirmation of that from Moscow.",
+      "date_published": "2026-01-29T19:25:31.000Z"
+    },
+    {
+      "id": "9855cfbc-db8c-4b6e-8298-39a48916e59a",
+      "url": "https://www.smh.com.au/world/first-uk-patients-trial-elon-musks-neuralink-20260130-p5ny6w.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "First UK patients trial Elon Musk's Neuralink",
+      "content_html": "Paralysed patients in the UK have received Elon Musk's Neuralink brain chip for the first time, as he expands his human trials.",
+      "content_text": "Paralysed patients in the UK have received Elon Musk's Neuralink brain chip for the first time, as he expands his human trials.",
+      "date_published": "2026-01-29T19:07:58.000Z"
+    },
+    {
+      "id": "0ce765ba-a009-4bb8-9b91-f28dba717ada",
+      "url": "https://www.smh.com.au/world/trump-border-czar-vows-to-reduce-immigration-agents-in-minneapolis-20260130-p5ny6v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Trump border czar vows to reduce immigration agents in Minneapolis",
+      "content_html": "Trump's border tsar Tom Homan has pledged to reduce the number of immigration agents in Minneapolis after two deadly shootings.",
+      "content_text": "Trump's border tsar Tom Homan has pledged to reduce the number of immigration agents in Minneapolis after two deadly shootings.",
+      "date_published": "2026-01-29T19:03:46.000Z"
+    },
+    {
+      "id": "b68f8c11-15b9-496f-bf43-a9ab7a3f33f3",
+      "url": "https://www.smh.com.au/national/qantas-flight-forced-to-divert-mid-flight-20260130-p5ny6u.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Qantas flight forced to divert mid-flight",
+      "content_html": "A Qantas flight from Melbourne to Adelaide was forced to divert to an RAAF base in South Australia overnight due to high winds.",
+      "content_text": "A Qantas flight from Melbourne to Adelaide was forced to divert to an RAAF base in South Australia overnight due to high winds.",
+      "date_published": "2026-01-29T19:02:53.000Z"
+    },
+    {
+      "id": "a66c9ddf-451f-4f35-92d3-183b271a1338",
+      "url": "https://www.smh.com.au/national/queensland/inside-the-extreme-lengths-to-weed-out-enrolment-fraud-at-brisbane-schools-20260128-p5nxmj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Inside the extreme lengths to weed out enrolment fraud at Brisbane schools",
+      "content_html": "Is buying a unit within the catchment area enough to gain your child entry to one of Brisbane’s most sought-after high schools? Our exclusive RTI can reveal one family’s fight to prove they should be accepted.",
+      "content_text": "Is buying a unit within the catchment area enough to gain your child entry to one of Brisbane’s most sought-after high schools? Our exclusive RTI can reveal one family’s fight to prove they should be accepted.",
+      "date_published": "2026-01-29T19:00:00.000Z"
+    },
+    {
+      "id": "7a7bbca3-7d44-4f24-ab51-e08d57a67fe6",
+      "url": "https://www.smh.com.au/national/queensland/prominent-boys-school-apologises-for-surprise-works-on-dormant-development-plans-20260121-p5nvuj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Prominent boys’ school apologises for surprise works on dormant development plans",
+      "content_html": "The school promised locals it would keep the golf complex on the development site open until it actioned long-term plans for its sprawling sports precinct.",
+      "content_text": "The school promised locals it would keep the golf complex on the development site open until it actioned long-term plans for its sprawling sports precinct.",
+      "date_published": "2026-01-29T19:00:00.000Z"
+    },
+    {
+      "id": "bc9858f5-fc92-4452-8633-d45d29cf3c22",
+      "url": "https://www.smh.com.au/business/companies/the-trump-family-s-10-billion-fortune-is-getting-more-complicated-20260121-p5nvo4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The Trump family’s $10 billion fortune is getting more complicated",
+      "content_html": "Donald Trump’s family empire looks vastly different from his first term in the White House.",
+      "content_text": "Donald Trump’s family empire looks vastly different from his first term in the White House.",
+      "date_published": "2026-01-29T18:56:03.000Z"
+    },
+    {
+      "id": "eb222271-fad5-44c1-9c59-5e431d00ffda",
+      "url": "https://www.smh.com.au/national/400-people-in-new-zealand-a-week-applying-for-aussie-citizenship-20251218-p5nomt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "400 people in New Zealand a week applying for Aussie citizenship",
+      "content_html": "A 462 per cent surge in citizenship applications has been recorded since rules on New Zealand residents were eased in 2023.",
+      "content_text": "A 462 per cent surge in citizenship applications has been recorded since rules on New Zealand residents were eased in 2023.",
+      "date_published": "2026-01-29T18:46:00.000Z"
+    },
+    {
       "id": "4c4c2681-a8d4-415e-94dc-ab2875212841",
       "url": "https://www.smh.com.au/business/markets/asx-set-to-dip-microsoft-weighs-down-wall-street-apple-results-ahead-20260130-p5ny6n.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "ASX set to dip, Microsoft weighs down Wall Street; Apple results ahead",

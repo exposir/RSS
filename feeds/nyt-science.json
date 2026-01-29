@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/health/longevity-lifespan-age-genes.html",
+      "url": "https://www.nytimes.com/2026/01/29/health/longevity-lifespan-age-genes.html",
+      "title": "Genes May Control Your Longevity, However Healthily You Live",
+      "content_html": "A new study suggests that those with long-lived families probably have the best prospects of making it to a very old age.",
+      "content_text": "A new study suggests that those with long-lived families probably have the best prospects of making it to a very old age.",
+      "date_published": "2026-01-29T19:00:07.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
       "url": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
       "title": "Svalbard Polar Bears Are Getting Fatter (for Now), Study Finds",

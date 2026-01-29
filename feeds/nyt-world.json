@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/africa/mozambique-south-africa-flood.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/africa/mozambique-south-africa-flood.html",
+      "title": "Southern Africa Faces Devastating Flooding During Rainy Season",
+      "content_html": "More than 100 deaths have been confirmed across South Africa, Zimbabwe and Mozambique, with the rains expected to continue through February.",
+      "content_text": "More than 100 deaths have been confirmed across South Africa, Zimbabwe and Mozambique, with the rains expected to continue through February.",
+      "date_published": "2026-01-29T19:26:33.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/france-zoom-alternative-visio.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/france-zoom-alternative-visio.html",
+      "title": "French Government To Replace Zoom and Teams With Visio, a Local Alternative",
+      "content_html": "French officials will soon be expected to use new French-made video conferencing software as part of an effort to “regain digital independence,” the government said.",
+      "content_text": "French officials will soon be expected to use new French-made video conferencing software as part of an effort to “regain digital independence,” the government said.",
+      "date_published": "2026-01-29T18:57:13.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
       "url": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
       "title": "Svalbard Polar Bears Are Getting Fatter (for Now), Study Finds",
