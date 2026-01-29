@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/climate/why-a-new-mexico-developer-quit-natural-gas.html",
+      "url": "https://www.nytimes.com/2026/01/29/climate/why-a-new-mexico-developer-quit-natural-gas.html",
+      "title": "Why a New Mexico Developer Quit Natural Gas",
+      "content_html": "For John Moscato, a land developer in Las Cruces, N.M., installing gas lines at new home sites was “an ongoing headache.” Ditching gas saved him money.",
+      "content_text": "For John Moscato, a land developer in Las Cruces, N.M., installing gas lines at new home sites was “an ongoing headache.” Ditching gas saved him money.",
+      "date_published": "2026-01-29T16:40:19.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/climate/netherlands-bonaire-climate-ruling.html",
       "url": "https://www.nytimes.com/2026/01/28/climate/netherlands-bonaire-climate-ruling.html",
       "title": "Dutch Court Orders Netherlands to Protect Bonaire From Climate Change",

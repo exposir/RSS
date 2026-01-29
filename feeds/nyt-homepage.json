@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/opinion/truump-ice-minnesota-noem-miller.html",
+      "url": "https://www.nytimes.com/2026/01/29/opinion/truump-ice-minnesota-noem-miller.html",
+      "title": "Trump’s Lies Have a Purpose",
+      "content_html": "What MAGA sees in the Minneapolis mirror.",
+      "content_text": "What MAGA sees in the Minneapolis mirror.",
+      "date_published": "2026-01-29T16:25:28.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/sean-grayson-sentencing-sonya-massey-shooting.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/sean-grayson-sentencing-sonya-massey-shooting.html",
+      "title": "Former Deputy Sean Grayson Sentenced to 20 Years in Sonya Massey Shooting",
+      "content_html": "The deputy, Sean Grayson, was convicted of second-degree murder for killing Ms. Massey in 2024 at her home in Springfield, Ill., after she had called 911.",
+      "content_text": "The deputy, Sean Grayson, was convicted of second-degree murder for killing Ms. Massey in 2024 at her home in Springfield, Ill., after she had called 911.",
+      "date_published": "2026-01-29T16:24:21.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/weather/winter-storm-weekend-forecast-snow.html",
+      "url": "https://www.nytimes.com/2026/01/29/weather/winter-storm-weekend-forecast-snow.html",
+      "title": "Winter Storm Could Bring Deep Snow to the Carolinas, Virginia",
+      "content_html": "Up to a foot is possible this weekend in parts of the Southeast and on Cape Cod, with smaller amounts expected for much of the East Coast.",
+      "content_text": "Up to a foot is possible this weekend in parts of the Southeast and on Cape Cod, with smaller amounts expected for much of the East Coast.",
+      "date_published": "2026-01-29T15:56:25.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
       "url": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
       "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",

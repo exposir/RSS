@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3087790",
+      "url": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+      "title": "Music publishers sue Anthropic for $3B over &#8216;flagrant piracy&#8217; of 20,000 works",
+      "content_html": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
+      "content_text": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
+      "date_published": "2026-01-29T16:30:29.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087477",
       "url": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
       "title": "India is teaching Google how AI in education can scale",

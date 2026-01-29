@@ -6,6 +6,350 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/ai-spend-worries-drag-stocks-ice-to-dial-back-in-minn-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/ai-spend-worries-drag-stocks-ice-to-dial-back-in-minn-more",
+      "title": "AI Spend Worries Drag Stocks, ICE to Dial Back in Minn., More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T16:40:53.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-msft-meta-platforms-lockheed-martin-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-msft-meta-platforms-lockheed-martin-podcast",
+      "title": "Stock Movers: MSFT, Meta Platforms, Lockheed Martin (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T16:26:36.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/wall-street-pros-see-potential-obstacles-in-prediction-markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/wall-street-pros-see-potential-obstacles-in-prediction-markets",
+      "title": "Wall Street Pros See Potential, Obstacles in Prediction Markets",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T16:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/single-best-idea-brian-wieser-nancy-lazar-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/single-best-idea-brian-wieser-nancy-lazar-podcast",
+      "title": "Single Best Idea: Brian Wieser & Nancy Lazar (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T15:47:35.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/ice-to-dial-back-in-minnesota-ai-caution-grips-stocks-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/ice-to-dial-back-in-minnesota-ai-caution-grips-stocks-more",
+      "title": "ICE to Dial Back in Minnesota, AI Caution Grips Stocks, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T15:39:08.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-surveillance-ai-spending-doubts-resurface-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-surveillance-ai-spending-doubts-resurface-podcast",
+      "title": "Bloomberg Surveillance: AI Spending Doubts Resurface (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T15:14:39.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/stocks-open-mixed-homan-wants-targeted-mn-operations-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/stocks-open-mixed-homan-wants-targeted-mn-operations-more",
+      "title": "Stocks Open Mixed, Homan Wants Targeted MN Operations, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T14:37:53.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/us-armada-eu-sanctions-ratchet-up-pressure-on-iranian-regime",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/us-armada-eu-sanctions-ratchet-up-pressure-on-iranian-regime",
+      "title": "US Armada, EU Sanctions Ratchet Up Pressure on Iranian Regime",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T14:04:45.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/border-czar-homan-speaks-trade-gap-widens-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/border-czar-homan-speaks-trade-gap-widens-more",
+      "title": "Border Czar Homan Speaks, Trade Gap Widens, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T13:51:06.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/deutsche-bank-sees-german-stimulus-impact-from-next-year",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/deutsche-bank-sees-german-stimulus-impact-from-next-year",
+      "title": "Deutsche Bank Sees German Stimulus Impact From Next Year",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T13:47:30.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2025-09-24/for-germany-s-sap-ai-will-decide-its-future",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-24/for-germany-s-sap-ai-will-decide-its-future",
+      "title": "The AI Threat to Europe's Most Valuable Software Company (Repeat)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T13:37:24.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/whistleblower-in-bid-rigging-gets-doj-s-first-1-million-reward",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/whistleblower-in-bid-rigging-gets-doj-s-first-1-million-reward",
+      "title": "Whistleblower in Bid Rigging Gets DOJ’s First $1 Million Reward",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T13:31:28.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/vanguards-of-health-care-scaling-smarter-care-at-transcarent",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/vanguards-of-health-care-scaling-smarter-care-at-transcarent",
+      "title": "Vanguards of Health Care: Scaling Smarter Care at Transcarent",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T13:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/tech-disruptors-av-s-hutton-says-cost-per-effect-key-in-drones",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/tech-disruptors-av-s-hutton-says-cost-per-effect-key-in-drones",
+      "title": "Tech Disruptors: AV’s Hutton Says Cost Per Effect Key in Drones",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T13:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/big-tech-steps-up-ai-spending-progress-to-avert-shutdown-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/big-tech-steps-up-ai-spending-progress-to-avert-shutdown-more",
+      "title": "Big Tech Steps Up AI Spending, Progress to Avert Shutdown, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T12:47:43.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-meta-microsoft-tesla-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-meta-microsoft-tesla-podcast",
+      "title": "Stock Movers: Meta, Microsoft, Tesla (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T12:05:27.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/santander-eyes-5-bonus-pool-increase-for-investment-bankers",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/santander-eyes-5-bonus-pool-increase-for-investment-bankers",
+      "title": "Santander Eyes 5% Bonus Pool Increase for Investment Bankers",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T12:03:38.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/metals-surge-rolls-on-as-dollar-flags",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/metals-surge-rolls-on-as-dollar-flags",
+      "title": "Metals Surge Rolls On as Dollar Bounce Stalls",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T12:02:36.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/dow-to-cut-about-4-500-jobs-using-ai-to-boost-operations",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/dow-to-cut-about-4-500-jobs-using-ai-to-boost-operations",
+      "title": "Dow to Cut About 4,500 Jobs, Using AI to Boost Operations",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T11:43:44.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/big-tech-s-ai-spending-spree-minnesota-latest-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/big-tech-s-ai-spending-spree-minnesota-latest-more",
+      "title": "Big Tech's AI Spending Spree, Minnesota Latest, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T11:22:38.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/graphics/2026-wall-street-apparent-pump-and-dump-investor-scam/",
+      "url": "https://www.bloomberg.com/graphics/2026-wall-street-apparent-pump-and-dump-investor-scam/",
+      "title": "Wall Street's Stamp of Legitimacy Fuels Suspected Pump-and-Dump Schemes",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T11:10:27.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/rolex-gold-given-to-trump-before-swiss-deal-queried-by-senator",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/rolex-gold-given-to-trump-before-swiss-deal-queried-by-senator",
+      "title": "Rolex and Gold Given to Trump Before Swiss Deal Queried by Senator",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T11:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/how-co-located-batteries-are-reshaping-solar-s-future-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/how-co-located-batteries-are-reshaping-solar-s-future-podcast",
+      "title": "How Co-Located Batteries Are Reshaping Solar’s Future (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T10:48:06.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/big-tech-earnings-highlight-ai-minneapolis-latest-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/big-tech-earnings-highlight-ai-minneapolis-latest-more",
+      "title": "Big Tech Earnings Highlight AI, Minneapolis Latest, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T10:28:53.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-daybreak-big-tech-s-ai-spending-spree-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-daybreak-big-tech-s-ai-spending-spree-podcast",
+      "title": "Bloomberg Daybreak: Big Tech's AI Spending Spree (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T10:27:20.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-sap-rio-tinto-ocado-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-sap-rio-tinto-ocado-podcast",
+      "title": "Stock Movers: SAP, Rio Tinto, Ocado (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T10:17:26.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/graphics/2026-banco-master-fraud-case/",
+      "url": "https://www.bloomberg.com/graphics/2026-banco-master-fraud-case/",
+      "title": "Banco Master CEO's Contacts Are a Who's Who of Brazil Elite",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T10:00:27.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/hedge-fund-aspex-gains-26-in-banner-year-for-asia-managers",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/hedge-fund-aspex-gains-26-in-banner-year-for-asia-managers",
+      "title": "Hedge Fund Aspex Gains 26% in Banner Year for Asia Managers",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T10:00:12.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/biggest-stock-crash-since-1998-exposes-indonesia-s-fault-lines",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/biggest-stock-crash-since-1998-exposes-indonesia-s-fault-lines",
+      "title": "Biggest Stock Crash Since 1998 Exposes Indonesia’s Fault Lines",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T09:50:10.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/india-budget-can-modi-sustain-gdp-growth-and-maintain-fiscal-discipline",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/india-budget-can-modi-sustain-gdp-growth-and-maintain-fiscal-discipline",
+      "title": "Five Things to Watch in India’s Budget",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T09:39:58.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-sap-stmicro-deutsche-bank-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-sap-stmicro-deutsche-bank-podcast",
+      "title": "Stock Movers: SAP, STMicro, Deutsche Bank (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T09:26:22.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/what-it-s-like-to-do-big-ag-business-in-venezuela-and-ukraine",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/what-it-s-like-to-do-big-ag-business-in-venezuela-and-ukraine",
+      "title": "What It's Like to Do Big Ag Business in Venezuela and Ukraine",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T09:00:27.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/gold-s-glittering-rise-bank-earnings-beat-estimates",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/gold-s-glittering-rise-bank-earnings-beat-estimates",
+      "title": "Gold's Glittering Rise, Bank Earnings Beat Estimates",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T08:40:34.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/ing-beats-on-profit-raises-profitability-outlook-for-2027",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/ing-beats-on-profit-raises-profitability-outlook-for-2027",
+      "title": "ING Beats on Profit, Raises Profitability Outlook for 2027",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T08:27:10.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/lloyds-bank-starts-1-75-billion-buyback-after-earnings-beat",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/lloyds-bank-starts-1-75-billion-buyback-after-earnings-beat",
+      "title": "Lloyds Canters On",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T08:19:30.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/how-hong-kong-plans-to-become-a-gold-hub-as-metal-rallies-to-record-high",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/how-hong-kong-plans-to-become-a-gold-hub-as-metal-rallies-to-record-high",
+      "title": "Build the Vault and They Will Come: Hong Kong’s Gold Hub Ambitions",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T07:42:04.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/ai-spending-surge-deutsche-bank-s-record-year-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/ai-spending-surge-deutsche-bank-s-record-year-more",
+      "title": "AI Spending Surge, Deutsche Bank's Record Year, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T07:36:13.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-daybreak-europe-big-tech-s-giant-ai-bets-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-daybreak-europe-big-tech-s-giant-ai-bets-podcast",
+      "title": "Bloomberg Daybreak Europe: Big Tech’s Giant AI Bets (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T06:48:23.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/tech-earnings-reveal-ai-bets-gol-surges-past-5-500-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/tech-earnings-reveal-ai-bets-gol-surges-past-5-500-more",
+      "title": "Tech Earnings Reveal AI Bets, Gol Surges Past $5,500, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T06:32:10.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/gold-copper-roar-to-records-on-real-asset-rush",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/gold-copper-roar-to-records-on-real-asset-rush",
+      "title": "Gold, Copper Roar to Records on Real-Asset Rush",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T06:01:27.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/toyota-keeps-title-as-top-carmaker-with-sales-at-record-in-2025",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/toyota-keeps-title-as-top-carmaker-with-sales-at-record-in-2025",
+      "title": "Toyota Keeps Title as Top Carmaker With Record Sales in 2025",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T06:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-29/china-tightens-mutual-recognition-of-funds-program-after-demand-surges",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/china-tightens-mutual-recognition-of-funds-program-after-demand-surges",
+      "title": "China Tightens Cross-Border Investment Program After Demand Surges",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T05:52:29.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/features/2026-01-29/andy-burnham-s-manchester-is-booming-in-rare-bright-spot-for-uk-economy",
+      "url": "https://www.bloomberg.com/news/features/2026-01-29/andy-burnham-s-manchester-is-booming-in-rare-bright-spot-for-uk-economy",
+      "title": "Manchester Shows What UK Economic Revival Can Look Like",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T05:01:29.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-asml-seagate-starbucks-podcast",
       "url": "https://www.bloomberg.com/news/audio/2026-01-28/stock-movers-asml-seagate-starbucks-podcast",
       "title": "Stock Movers: ASML, Seagate, Starbucks (Podcast)",

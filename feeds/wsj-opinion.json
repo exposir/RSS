@@ -6,6 +6,30 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "SB11930060785218553820404592645911327988578",
+      "url": "https://www.wsj.com/opinion/jack-smith-a-rabid-wolf-for-a-special-counsel-332fe35f",
+      "title": "Jack Smith, a &#x2018;Rabid Wolf&#x2019; for a Special Counsel",
+      "content_html": "His career has been marked by unusual zeal to push novel theories stretching criminal law beyond reasonable bounds.",
+      "content_text": "His career has been marked by unusual zeal to push novel theories stretching criminal law beyond reasonable bounds.",
+      "date_published": "2026-01-29T16:02:00.000Z"
+    },
+    {
+      "id": "SB11930060785218553820404592640324118502102",
+      "url": "https://www.wsj.com/opinion/the-secret-to-retirement-god-mentoring-and-peer-review-6d5ff63f",
+      "title": "The Secret to Retirement: God, Mentoring and Peer Review",
+      "content_html": "Readers share how they have found meaning after work.",
+      "content_text": "Readers share how they have found meaning after work.",
+      "date_published": "2026-01-29T16:01:00.000Z"
+    },
+    {
+      "id": "SB10381197850595854896404592642152973224844",
+      "url": "https://www.wsj.com/opinion/rahm-emanuel-and-glenn-youngkin-are-both-rays-of-sunshine-245f54ce",
+      "title": "Rahm Emanuel and Glenn Youngkin Are Both Rays of Sunshine",
+      "content_html": "They are the sort of serious, qualified leaders that the American people deserve in Washington.",
+      "content_text": "They are the sort of serious, qualified leaders that the American people deserve in Washington.",
+      "date_published": "2026-01-29T16:00:00.000Z"
+    },
+    {
       "id": "WP-WSJO-0000245865",
       "url": "https://www.wsj.com/opinion/pepperand-salt-da2f7b92",
       "title": "Pepper&#x2026;and Salt",

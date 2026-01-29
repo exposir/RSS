@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
+      "url": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
+      "title": "How the A.I. Boom Could Push Up the Price of Your Next PC",
+      "content_html": "A.I. companies are buying up memory chips, causing the prices of those components — which are also used in laptops and smartphones — to soar.",
+      "content_text": "A.I. companies are buying up memory chips, causing the prices of those components — which are also used in laptops and smartphones — to soar.",
+      "date_published": "2026-01-29T16:13:37.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
+      "url": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
+      "title": "Amazon and Google Eat Into Nvidia’s A.I. Chip Supremacy",
+      "content_html": "The rivals made billions of dollars in the business over the past year, showing other companies that Nvidia isn’t the only game in town.",
+      "content_text": "The rivals made billions of dollars in the business over the past year, showing other companies that Nvidia isn’t the only game in town.",
+      "date_published": "2026-01-29T16:12:58.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
       "url": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
       "title": "Microsoft Continues to Spend Big on A.I. While Profit Jumps 60 Percent",

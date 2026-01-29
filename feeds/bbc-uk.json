@@ -6,6 +6,38 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c8rm20gm364o#0",
+      "url": "https://www.bbc.com/news/articles/c8rm20gm364o?at_medium=RSS&at_campaign=rss",
+      "title": "'I can breathe again' says Israeli hostage held for nearly 500 days in Gaza",
+      "content_html": "In his first international interview, Sasha Troufanov tells the BBC how he thought he would die in captivity after he was taken hostage on 7 October 2023.",
+      "content_text": "In his first international interview, Sasha Troufanov tells the BBC how he thought he would die in captivity after he was taken hostage on 7 October 2023.",
+      "date_published": "2026-01-29T16:25:40.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/czej969erepo#3",
+      "url": "https://www.bbc.com/news/articles/czej969erepo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-nursery worker admits further child sex offences",
+      "content_html": "Vincent Chan, 45, pleads guilty to dozens more sexual offence charges at court on Thursday.",
+      "content_text": "Vincent Chan, 45, pleads guilty to dozens more sexual offence charges at court on Thursday.",
+      "date_published": "2026-01-29T16:13:42.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/rugby-union/articles/clymed18g4go#7",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/clymed18g4go?at_medium=RSS&at_campaign=rss",
+      "title": "Boss Mitchell extends England contract as Scarratt joins coaching staff",
+      "content_html": "John Mitchell will continue as Red Roses head coach through to the next Women's Rugby World Cup in 2029 and Emily Scarratt joins the coaching staff.",
+      "content_text": "John Mitchell will continue as Red Roses head coach through to the next Women's Rugby World Cup in 2029 and Emily Scarratt joins the coaching staff.",
+      "date_published": "2026-01-29T16:01:21.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cx2l1xpz03no#0",
+      "url": "https://www.bbc.com/news/articles/cx2l1xpz03no?at_medium=RSS&at_campaign=rss",
+      "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say",
+      "content_html": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
+      "content_text": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
+      "date_published": "2026-01-29T16:00:09.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c150yv75pn7o#0",
       "url": "https://www.bbc.com/news/articles/c150yv75pn7o?at_medium=RSS&at_campaign=rss",
       "title": "China to relax travel rules for British visitors, UK says",
@@ -118,6 +150,14 @@
       "date_published": "2026-01-29T12:54:47.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cdexjz58e3zo#3",
+      "url": "https://www.bbc.com/news/articles/cdexjz58e3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Stay on this stunning island for free... if you're willing to count puffins",
+      "content_html": "Successful applicants will spend several months helping conservation efforts on Skomer Island, off the Pembrokeshire coast.",
+      "content_text": "Successful applicants will spend several months helping conservation efforts on Skomer Island, off the Pembrokeshire coast.",
+      "date_published": "2026-01-29T12:48:56.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cdexjz58e3zo#0",
       "url": "https://www.bbc.com/news/articles/cdexjz58e3zo?at_medium=RSS&at_campaign=rss",
       "title": "Stay on this stunning island for free... if you're willing to count puffins",
@@ -164,6 +204,14 @@
       "content_html": "Detectives are still hunting for four other suspects and have released new CCTV images.",
       "content_text": "Detectives are still hunting for four other suspects and have released new CCTV images.",
       "date_published": "2026-01-29T11:39:16.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/clyepw0w752o#1",
+      "url": "https://www.bbc.com/news/articles/clyepw0w752o?at_medium=RSS&at_campaign=rss",
+      "title": "School holiday fines reach record high – find out how many were in your area",
+      "content_html": "New government data shows that fines for term-time holidays have risen again in the last academic year.",
+      "content_text": "New government data shows that fines for term-time holidays have risen again in the last academic year.",
+      "date_published": "2026-01-29T10:45:32.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/clyepw0w752o#3",
