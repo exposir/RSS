@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/nyregion/saint-anns-school-winston-nguyen-lawsuit.html",
+      "url": "https://www.nytimes.com/2026/01/29/nyregion/saint-anns-school-winston-nguyen-lawsuit.html",
+      "title": "Girls Sue Saint Ann’s School and Former Teacher Over Sex Crimes",
+      "content_html": "Winston Nguyen, a former teacher at Saint Ann’s School who pleaded guilty to a felony charge last year, is accused in the lawsuit of soliciting naked photos of students and sharing them online.",
+      "content_text": "Winston Nguyen, a former teacher at Saint Ann’s School who pleaded guilty to a felony charge last year, is accused in the lawsuit of soliciting naked photos of students and sharing them online.",
+      "date_published": "2026-01-29T15:01:29.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/us/elections/matt-mahan-governor-california.html",
       "url": "https://www.nytimes.com/2026/01/29/us/elections/matt-mahan-governor-california.html",
       "title": "San Jose Mayor Matt Mahan Will Run for California Governor in 2026",

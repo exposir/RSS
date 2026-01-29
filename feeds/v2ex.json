@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189377",
+      "url": "https://www.v2ex.com/t/1189377#reply0",
+      "title": "[问与答] 请问 vscode 里面的 codex 插件（扩展）怎么使用 mcp？",
+      "content_html": "如标题，之前用的 cursor 这一切都很简单，后面因为开了 chatgpt 的会员，且听说 codex 很强大，所以转向了 codex 。<br /><br />于是问题出现了，由于不熟悉 vscode （小弟非专业程序员），在 vscode 里面安装了 codex 插件后，按照网上的教程（甚至问了 gpt ），方案是在工作区目录下添加/.vscode/mcp.json ，添加了 context7 等 mcp 的代码后，codex 说它依然读不到 MCP 资源，说明当前会话仍未桥接到 VSCode 的 MCP 。（之前也尝试过在 vscode 插件区直接安装 context7 等 mcp 服务器也不行）<br /><br />这个桥接咋搞？ codex 让我在 Codex 插件设置里是否有“允许外部 MCP / Bridge MCP”开关（打开），里面好像没有这个东西啊，它自己有个单独的 mcp 配置，难道是必须要在它这里单独设置才行？还是说有什么特殊的开关呢？谢谢各位哥哥姐姐",
+      "content_text": "如标题，之前用的 cursor 这一切都很简单，后面因为开了 chatgpt 的会员，且听说 codex 很强大，所以转向了 codex 。于是问题出现了，由于不熟悉 vscode （小弟非专业程序员），在 vscode 里面安装了 codex 插件后，按照网上的教程（甚至问了 gpt ），方案是在工作区目录下添加/.vscode/mcp.json ，添加了 context7 等 mcp 的代码后，codex 说它依然读不到 MCP 资源，说明当前会话仍未桥接到 VSCode 的 MCP 。（之前也尝试过在 vscode 插件区直接安装 context7 等 mcp 服务器也不行）这个桥接咋搞？ codex 让我在 Codex 插件设置里是否有“允许外部 MCP / Bridge MCP”开关（打开），里面好像没有这个东西啊，它自己有个单独的 mcp 配置，难道是必须要在它这里单独设置才行？还是说有什么特殊的开关呢？谢谢各位哥哥姐姐",
+      "date_published": "2026-01-29T14:57:13.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189375",
+      "url": "https://www.v2ex.com/t/1189375#reply0",
+      "title": "[全球工单系统] 夸克 app 的切换账号是做了个寂寞吗",
+      "content_html": "<p>是没看看微博微信抖音这些国民 app 里的切换账号是什么意思吗？<br/>\n每次切换账号都要输入账号输入密码完完整整的一次登录 真是服了</p>",
+      "content_text": "是没看看微博微信抖音这些国民 app 里的切换账号是什么意思吗？\n每次切换账号都要输入账号输入密码完完整整的一次登录 真是服了",
+      "date_published": "2026-01-29T14:41:50.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-29:/t/1189374",
       "url": "https://www.v2ex.com/t/1189374#reply1",
       "title": "[Vim] 请问是否能修改 GVim 标题栏的颜色",

@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cm2j0l85dvro#3",
+      "url": "https://www.bbc.com/news/articles/cm2j0l85dvro?at_medium=RSS&at_campaign=rss",
+      "title": "Girl, 7, swept out to sea on holiday in Morocco",
+      "content_html": "Inaayah Makda remains missing after being caught out by a rapidly incoming tide, a relative has said.",
+      "content_text": "Inaayah Makda remains missing after being caught out by a rapidly incoming tide, a relative has said.",
+      "date_published": "2026-01-29T14:35:19.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/c20gyeeexgro#7",
       "url": "https://www.bbc.com/sport/football/articles/c20gyeeexgro?at_medium=RSS&at_campaign=rss",
       "title": "Brighton to reject £20m Forest bid for Ayari",
@@ -68,6 +76,14 @@
       "content_html": "Four-cap Rhys Davies becomes the eighth Ospreys player in Steve Tandy's Wales Six Nations squad.",
       "content_text": "Four-cap Rhys Davies becomes the eighth Ospreys player in Steve Tandy's Wales Six Nations squad.",
       "date_published": "2026-01-29T12:31:57.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cp87l604nx8o#0",
+      "url": "https://www.bbc.com/news/articles/cp87l604nx8o?at_medium=RSS&at_campaign=rss",
+      "title": "Nicki Minaj calls herself Trump's 'number one fan' and shows off gold card visa",
+      "content_html": "The Trinidadian-American rapper held hands on stage with the US President, amid ICE protests.",
+      "content_text": "The Trinidadian-American rapper held hands on stage with the US President, amid ICE protests.",
+      "date_published": "2026-01-29T12:20:47.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cp87l604nx8o#3",
@@ -2036,6 +2052,14 @@
       "content_html": "Immigration raids in Minneapolis are dividing America",
       "content_text": "Immigration raids in Minneapolis are dividing America",
       "date_published": "2026-01-23T16:16:00.000Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sounds/play/m002qmyp#5",
+      "url": "https://www.bbc.co.uk/sounds/play/m002qmyp?at_medium=RSS&at_campaign=rss",
+      "title": "1. The Monroe Doctrine",
+      "content_html": "What is the 1823 doctrine, and how has it been used since by US presidents?",
+      "content_text": "What is the 1823 doctrine, and how has it been used since by US presidents?",
+      "date_published": "2026-01-19T13:45:00.000Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/10628994#4",

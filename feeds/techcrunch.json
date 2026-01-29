@@ -6,6 +6,38 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3087791",
+      "url": "https://techcrunch.com/2026/01/29/teslas-energy-storage-business-is-growing-faster-than-any-other-part-of-the-company/",
+      "title": "Tesla’s energy storage business is growing faster than any other part of the company",
+      "content_html": "Energy storage products like the Megapack, Megablock, and Powerwall drove",
+      "content_text": "Energy storage products like the Megapack, Megablock, and Powerwall drove",
+      "date_published": "2026-01-29T14:58:47.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087783",
+      "url": "https://techcrunch.com/2026/01/29/spotify-rolls-out-group-chats/",
+      "title": "Spotify rolls out group chats",
+      "content_html": "Spotify users can now share the podcasts, playlists, and audiobooks they're listening to with up 10 people.",
+      "content_text": "Spotify users can now share the podcasts, playlists, and audiobooks they're listening to with up 10 people.",
+      "date_published": "2026-01-29T14:52:13.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087775",
+      "url": "https://techcrunch.com/2026/01/29/apples-new-iphone-and-ipad-security-feature-limits-cell-networks-from-collecting-precise-location-data/",
+      "title": "Apple&#8217;s new iPhone and iPad security feature limits cell networks from collecting precise location data",
+      "content_html": "The new security feature makes it more difficult for police and malicious hackers to obtain a person's precise location data from a cell phone company.",
+      "content_text": "The new security feature makes it more difficult for police and malicious hackers to obtain a person's precise location data from a cell phone company.",
+      "date_published": "2026-01-29T14:50:57.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087434",
+      "url": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
+      "title": "Google Maps now lets you access Gemini while walking and cycling",
+      "content_html": "When you're walking around and navigating with Maps, you can now ask Gemini questions like \"What neighborhood am I in?\" or \"What are top-rated restaurants nearby?\"",
+      "content_text": "When you're walking around and navigating with Maps, you can now ask Gemini questions like \"What neighborhood am I in?\" or \"What are top-rated restaurants nearby?\"",
+      "date_published": "2026-01-29T14:30:00.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087763",
       "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
       "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
