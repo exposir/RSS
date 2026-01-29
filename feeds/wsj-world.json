@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003294914",
+      "url": "https://www.wsj.com/world/americas/carney-calls-on-white-house-to-respect-canadian-sovereignty-over-alberta-a767be5f",
+      "title": "Carney Calls on White House to Respect Canadian Sovereignty Over Alberta",
+      "content_html": "Canadian Prime Minister Mark Carney called on the Trump administration to respect his country&#x2019;s sovereignty after a group advocating for Alberta&#x2019;s secession from Canada said it has met with State Department officials about the province&#x2019;s future.",
+      "content_text": "Canadian Prime Minister Mark Carney called on the Trump administration to respect his country&#x2019;s sovereignty after a group advocating for Alberta&#x2019;s secession from Canada said it has met with State Department officials about the province&#x2019;s future.",
+      "date_published": "2026-01-29T20:05:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003294540",
       "url": "https://www.wsj.com/world/americas/commercial-airspace-over-venezuela-to-reopen-trump-says-d4677767",
       "title": "Commercial Airspace Over Venezuela to Reopen, Trump Says",

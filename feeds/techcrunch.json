@@ -6,6 +6,22 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3087908",
+      "url": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+      "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+      "content_html": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+      "content_text": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+      "date_published": "2026-01-29T20:06:56.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087906",
+      "url": "https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/",
+      "title": "Elon Musk&#8217;s SpaceX and xAI in talks to merge, report says",
+      "content_html": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+      "content_text": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+      "date_published": "2026-01-29T19:30:59.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087901",
       "url": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
       "title": "Apple buys Israeli startup Q.ai as the AI race heats up",

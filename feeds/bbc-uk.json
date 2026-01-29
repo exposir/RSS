@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cvgpd1x00exo#3",
+      "url": "https://www.bbc.com/news/articles/cvgpd1x00exo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli media cite official accepting Hamas figure of 70,000 war dead",
+      "content_html": "Israel has previously cast doubt on figures from the Hamas-run health ministry, which the UN considers reliable.",
+      "content_text": "Israel has previously cast doubt on figures from the Hamas-run health ministry, which the UN considers reliable.",
+      "date_published": "2026-01-29T19:10:20.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c8e5293dp6ro#3",
+      "url": "https://www.bbc.com/news/articles/c8e5293dp6ro?at_medium=RSS&at_campaign=rss",
+      "title": "Navy introduces new alcohol limits for sailors while on ship",
+      "content_html": "The new policy is in line with the UK chief medical officer's health advice.",
+      "content_text": "The new policy is in line with the UK chief medical officer's health advice.",
+      "date_published": "2026-01-29T18:47:39.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/c89q2qkdx97o#7",
       "url": "https://www.bbc.com/sport/football/articles/c89q2qkdx97o?at_medium=RSS&at_campaign=rss",
       "title": "Palace move for £50m Strand Larsen in doubt",
@@ -20,6 +36,14 @@
       "content_html": "Premier League clubs always had the money, but now they also have the know-how they have dominated this season's Champions League.",
       "content_text": "Premier League clubs always had the money, but now they also have the know-how they have dominated this season's Champions League.",
       "date_published": "2026-01-29T18:04:17.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy4qejvqv4no#1",
+      "url": "https://www.bbc.com/news/articles/cy4qejvqv4no?at_medium=RSS&at_campaign=rss",
+      "title": "Planning bids for new homes soar but building remains low - how is your area affected?",
+      "content_html": "While planning applications have risen, home building has lowered, new data suggests.",
+      "content_text": "While planning applications have risen, home building has lowered, new data suggests.",
+      "date_published": "2026-01-29T17:58:25.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cy4qejvqv4no#0",
@@ -140,6 +164,14 @@
       "content_html": "Fashion's finest gather in the French capital for a week of high-end designs and celebrity sightings.",
       "content_text": "Fashion's finest gather in the French capital for a week of high-end designs and celebrity sightings.",
       "date_published": "2026-01-29T16:24:47.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cm2j0l85dvro#0",
+      "url": "https://www.bbc.com/news/articles/cm2j0l85dvro?at_medium=RSS&at_campaign=rss",
+      "title": "British girl, 7, swept out to sea on holiday in Morocco",
+      "content_html": "Inaayah Makda remains missing after being caught out by a rapidly incoming tide, a relative has said.",
+      "content_text": "Inaayah Makda remains missing after being caught out by a rapidly incoming tide, a relative has said.",
+      "date_published": "2026-01-29T16:22:28.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/czej969erepo#3",

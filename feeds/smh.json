@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "db8a5aa7-f5ab-49de-a089-3c12a42df271",
+      "url": "https://www.smh.com.au/national/australia-news-live-ley-holds-on-to-leadership-as-rivals-fail-to-reach-agreement-on-who-should-challenge-trump-asks-putin-to-temporarily-halt-kyiv-bombing-20260130-p5ny6y.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australia news LIVE: Ley holds on to leadership as rivals fail to reach agreement on who should challenge; Trump asks Putin to temporarily halt Kyiv bombing",
+      "content_html": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+      "content_text": "Follow along as we bring you the latest live news updates from Australia and beyond.",
+      "date_published": "2026-01-29T20:27:38.000Z"
+    },
+    {
+      "id": "6c1903a0-3d02-4565-814d-b7c026bbef14",
+      "url": "https://www.smh.com.au/national/victoria/four-seriously-injured-after-dog-attack-in-melton-home-20260130-p5ny73.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Four seriously injured after dog attack in Melton home",
+      "content_html": "Two dogs have been seized by a council ranger as the four people remain in hospital with serious injuries.",
+      "content_text": "Two dogs have been seized by a council ranger as the four people remain in hospital with serious injuries.",
+      "date_published": "2026-01-29T20:07:06.000Z"
+    },
+    {
+      "id": "1390e2d8-8cac-4b8f-bb16-57196feba9e6",
+      "url": "https://www.smh.com.au/national/melbourne-nail-salon-firebombed-twice-in-two-days-20260130-p5ny75.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Melbourne nail salon firebombed twice in two days",
+      "content_html": "Arsonists have targeted a Melbourne nail salon for the second day in a row.",
+      "content_text": "Arsonists have targeted a Melbourne nail salon for the second day in a row.",
+      "date_published": "2026-01-29T19:48:12.000Z"
+    },
+    {
       "id": "fe8b254c-6635-4375-bb98-865a18336e86",
       "url": "https://www.smh.com.au/world/europe/trump-says-putin-will-halt-kyiv-bombing-during-looming-cold-snap-20260130-p5ny6p.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Trump says Putin will halt Kyiv bombing during looming cold snap",
