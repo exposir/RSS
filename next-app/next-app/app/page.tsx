@@ -22,10 +22,19 @@ export default function RSSReader() {
   // Fix hydration mismatch by waiting for mount
   const [isMounted, setIsMounted] = useState(false)
   const isDesktop = useMediaQuery("(min-width: 768px)")
+  const [layout, setLayout] = useState<number[]>([20, 30, 50])
 
   useEffect(() => {
     setIsMounted(true)
   }, [])
+
+  useEffect(() => {
+    if (isDesktop) {
+      setLayout([20, 30, 50])
+    } else {
+      setLayout([100])
+    }
+  }, [isDesktop])
 
   // Helper: check if date matches today/yesterday
   const isDateMatch = (dateStr: string, targetDate: Date) => {
@@ -147,7 +156,11 @@ export default function RSSReader() {
 
   return (
     <div className="h-screen w-full bg-background text-foreground flex flex-col">
-      <ResizablePanelGroup direction="horizontal" className="flex-1 h-full items-stretch">
+      <ResizablePanelGroup
+        key={isDesktop ? "desktop-layout" : "mobile-layout"}
+        direction="horizontal"
+        className="flex-1 h-full items-stretch"
+      >
 
         {/* LEFT COLUMN: Feeds List */}
         {isDesktop && (
