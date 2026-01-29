@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/business/dealbook/ai-spending-meta-microsoft.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/dealbook/ai-spending-meta-microsoft.html",
+      "title": "The A.I. Boom’s Uncertain Payoff",
+      "content_html": "Companies like Microsoft and Meta are still spending big on artificial intelligence. But investors remain antsy about seeing results.",
+      "content_text": "Companies like Microsoft and Meta are still spending big on artificial intelligence. But investors remain antsy about seeing results.",
+      "date_published": "2026-01-29T13:17:06.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/business/russia-lukoil-carlyle-sale-sanctions.html",
       "url": "https://www.nytimes.com/2026/01/29/business/russia-lukoil-carlyle-sale-sanctions.html",
       "title": "Russia’s Lukoil to Sell Its Foreign Assets to U.S. Investment Firm",

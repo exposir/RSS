@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46808251",
+      "url": "https://blog.ncase.me/on-depression/",
+      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+      "content_html": "<p>Article URL: <a href=\"https://blog.ncase.me/on-depression/\">https://blog.ncase.me/on-depression/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46808251\">https://news.ycombinator.com/item?id=46808251</a></p>\n<p>Points: 339</p>\n<p># Comments: 235</p>",
+      "content_text": "Article URL: https://blog.ncase.me/on-depression/\nComments URL: https://news.ycombinator.com/item?id=46808251\nPoints: 339\n# Comments: 235",
+      "date_published": "2026-01-29T10:35:00.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46806773",
       "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
       "title": "Europe’s next-generation weather satellite sends back first images",

@@ -6,12 +6,44 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/arts/music/wynton-marsalis-jazz-at-lincoln-center.html",
+      "url": "https://www.nytimes.com/2026/01/29/arts/music/wynton-marsalis-jazz-at-lincoln-center.html",
+      "title": "Wynton Marsalis, Founder of Jazz at Lincoln Center, to Step Down",
+      "content_html": "After 40 years with the organization, the trumpeter and impresario will end his role as managing and artistic director in July 2027.",
+      "content_text": "After 40 years with the organization, the trumpeter and impresario will end his role as managing and artistic director in July 2027.",
+      "date_published": "2026-01-29T13:07:20.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/amy-klobuchar-minnesota-governor.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/amy-klobuchar-minnesota-governor.html",
+      "title": "Amy Klobuchar Announces Run for Minnesota Governor",
+      "content_html": "The Democratic senator, who signaled her bid after Gov. Tim Walz said he wouldn’t run again, talked about moving past political divides in a video announcement.",
+      "content_text": "The Democratic senator, who signaled her bid after Gov. Tim Walz said he wouldn’t run again, talked about moving past political divides in a video announcement.",
+      "date_published": "2026-01-29T12:00:05.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/ms-shirley-raines-dead-skid-row.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/ms-shirley-raines-dead-skid-row.html",
+      "title": "Shirley Raines, Who Gave L.A.’s Homeless Food and Makeovers, Is Dead",
+      "content_html": "Her work feeding people and dyeing their hair through her Los Angeles nonprofit, Beauty 2 the Streetz, was known to millions online.",
+      "content_text": "Her work feeding people and dyeing their hair through her Los Angeles nonprofit, Beauty 2 the Streetz, was known to millions online.",
+      "date_published": "2026-01-29T11:59:19.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/briefing/a-crisis-for-president-trump.html",
       "url": "https://www.nytimes.com/2026/01/29/briefing/a-crisis-for-president-trump.html",
       "title": "A Crisis for President Trump",
       "content_html": "The Department of Homeland Security is in turmoil after the killing of Alex Pretti.",
       "content_text": "The Department of Homeland Security is in turmoil after the killing of Alex Pretti.",
       "date_published": "2026-01-29T11:51:55.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/podcasts/the-headlines/ice-agents-masks-court-orders-melania.html",
+      "url": "https://www.nytimes.com/2026/01/29/podcasts/the-headlines/ice-agents-masks-court-orders-melania.html",
+      "title": "Democrats Demand Agents Take Off Their Masks, and Judge Says ICE Violated Nearly 100 Court Orders",
+      "content_html": "Plus, Amazon’s big “Melania” push.",
+      "content_text": "Plus, Amazon’s big “Melania” push.",
+      "date_published": "2026-01-29T11:00:09.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",

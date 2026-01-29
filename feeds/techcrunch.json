@@ -6,6 +6,30 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3087763",
+      "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
+      "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+      "content_html": "The child, whose age is not known, sustained minor injuries according to Waymo. The National Highway Traffic Safety Administration is investigating.",
+      "content_text": "The child, whose age is not known, sustained minor injuries according to Waymo. The National Highway Traffic Safety Administration is investigating.",
+      "date_published": "2026-01-29T12:53:49.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087062",
+      "url": "https://techcrunch.com/2026/01/29/upwind-raises-250m-at-1-5b-valuation-to-continue-building-runtime-cloud-security/",
+      "title": "Upwind raises $250M at $1.5B valuation to continue building &#8216;runtime&#8217; cloud security",
+      "content_html": "The $250 million Series B was led by Bessemer Venture Partners, with participation from Salesforce Ventures and Picture Capital.",
+      "content_text": "The $250 million Series B was led by Bessemer Venture Partners, with participation from Salesforce Ventures and Picture Capital.",
+      "date_published": "2026-01-29T12:35:16.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087750",
+      "url": "https://techcrunch.com/2026/01/29/apple-hires-iphone-camera-app-halides-co-founder-for-its-design-team/",
+      "title": "Apple hires iPhone camera app Halide&#8217;s co-founder for its design team",
+      "content_html": "Halide also released a public preview of its up coming app Halide Mark III.",
+      "content_text": "Halide also released a public preview of its up coming app Halide Mark III.",
+      "date_published": "2026-01-29T12:30:27.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3087328",
       "url": "https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/",
       "title": "Deezer makes it easier for rival platforms to take a stance against AI-generated music",

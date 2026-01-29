@@ -6,6 +6,38 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/world/united-states-canada/article/3341729/trump-critic-klobuchar-enters-minnesota-governor-race-amid-ice-crackdown-fraud-scandals?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3341729/trump-critic-klobuchar-enters-minnesota-governor-race-amid-ice-crackdown-fraud-scandals?utm_source=rss_feed",
+      "title": "Trump critic Klobuchar enters Minnesota governor race amid ICE crackdown, fraud scandals",
+      "content_html": "US Senator Amy Klobuchar said on Thursday she is running for governor of Minnesota, promising to take on US President Donald Trump while unifying a state that has endured a series of challenges even before the federal government’s immigration crackdown.\nKlobuchar’s decision gives Democrats a high-profile candidate and proven statewide winner as their party tries to hold onto the office occupied by Governor Tim Walz. The 2024 Democratic vice-presidential nominee, Walz abandoned his campaign for a...",
+      "content_text": "US Senator Amy Klobuchar said on Thursday she is running for governor of Minnesota, promising to take on US President Donald Trump while unifying a state that has endured a series of challenges even before the federal government’s immigration crackdown.\nKlobuchar’s decision gives Democrats a high-profile candidate and proven statewide winner as their party tries to hold onto the office occupied by Governor Tim Walz. The 2024 Democratic vice-presidential nominee, Walz abandoned his campaign for a...",
+      "date_published": "2026-01-29T12:57:01.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3341728/hong-kong-firm-and-elior-group-ink-deal-set-aircraft-dismantling-centre?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3341728/hong-kong-firm-and-elior-group-ink-deal-set-aircraft-dismantling-centre?utm_source=rss_feed",
+      "title": "Hong Kong firm and Elior Group ink deal to set up aircraft dismantling centre",
+      "content_html": "A French aeronautics services company and a Hong Kong aircraft engineering company signed a joint venture deal on Thursday to establish an aircraft dismantling and parts trading facility in the city, with operations targeted to begin within the year.\nBut the project’s launch will hinge on the availability of a separate plot of land with barge and truck access. This site is required for recycling fuselages once the parts that can be traded are harvested, to avoid a bottleneck in the entire...",
+      "content_text": "A French aeronautics services company and a Hong Kong aircraft engineering company signed a joint venture deal on Thursday to establish an aircraft dismantling and parts trading facility in the city, with operations targeted to begin within the year.\nBut the project’s launch will hinge on the availability of a separate plot of land with barge and truck access. This site is required for recycling fuselages once the parts that can be traded are harvested, to avoid a bottleneck in the entire...",
+      "date_published": "2026-01-29T12:41:25.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/opinion/china-opinion/article/3341461/trumps-power-politics-paving-way-g2-world-order-china?utm_source=rss_feed",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3341461/trumps-power-politics-paving-way-g2-world-order-china?utm_source=rss_feed",
+      "title": "Trump’s power politics is paving the way to a G2 world order with China",
+      "content_html": "At Davos, US President Donald Trump declared he had “always had a very good relationship with President Xi” Jinping, calling the Chinese leader “an incredible man”, “highly respected by everybody”. Trump also praised TikTok’s decision to transfer parts of its US business to a consortium of US investors, thanking Xi on social media. This broadly friendly rhetoric is likely to be a signal of Washington’s keen interest in finalising a trade deal with the world’s second-largest economy.\nTrump’s...",
+      "content_text": "At Davos, US President Donald Trump declared he had “always had a very good relationship with President Xi” Jinping, calling the Chinese leader “an incredible man”, “highly respected by everybody”. Trump also praised TikTok’s decision to transfer parts of its US business to a consortium of US investors, thanking Xi on social media. This broadly friendly rhetoric is likely to be a signal of Washington’s keen interest in finalising a trade deal with the world’s second-largest economy.\nTrump’s...",
+      "date_published": "2026-01-29T12:30:11.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/business/companies/article/3341725/astrazeneca-unveils-us15-billion-china-investment-plan-starmer-visits-beijing?utm_source=rss_feed",
+      "url": "https://www.scmp.com/business/companies/article/3341725/astrazeneca-unveils-us15-billion-china-investment-plan-starmer-visits-beijing?utm_source=rss_feed",
+      "title": "AstraZeneca unveils US$15 billion China investment plan as Starmer visits Beijing",
+      "content_html": "British-Swedish pharmaceutical giant AstraZeneca said on Thursday it plans to invest US$15 billion in China through 2030, signalling renewed momentum in Sino-UK commercial ties.\nThe investment – the biggest deal announced so far during UK Prime Minister Keir Starmer’s trip to Beijing aimed at strengthening trade ties – will support expanded medicines manufacturing as well as research and development (R&D), the company said in a statement.\n“Unlocking opportunities for British businesses across...",
+      "content_text": "British-Swedish pharmaceutical giant AstraZeneca said on Thursday it plans to invest US$15 billion in China through 2030, signalling renewed momentum in Sino-UK commercial ties.\nThe investment – the biggest deal announced so far during UK Prime Minister Keir Starmer’s trip to Beijing aimed at strengthening trade ties – will support expanded medicines manufacturing as well as research and development (R&D), the company said in a statement.\n“Unlocking opportunities for British businesses across...",
+      "date_published": "2026-01-29T12:21:00.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/politics/article/3341710/china-executes-11-core-members-myanmar-based-telecoms-fraud-ring?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/politics/article/3341710/china-executes-11-core-members-myanmar-based-telecoms-fraud-ring?utm_source=rss_feed",
       "title": "China executes 11 core members of Myanmar-based telecoms fraud ring",

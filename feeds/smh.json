@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "73007808-7217-4759-81c8-2906b508663a",
+      "url": "https://www.smh.com.au/world/asia/the-2027-question-will-xi-jinping-annexe-taiwan-this-soon-or-not-20260112-p5nth7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The 2027 question: Will Xi Jinping annexe Taiwan this soon, or not?",
+      "content_html": "US intel says the Chinese president wants his military to be capable of invading Taiwan by next year. Where did this target come from and will the military purge impact it?",
+      "content_text": "US intel says the Chinese president wants his military to be capable of invading Taiwan by next year. Where did this target come from and will the military purge impact it?",
+      "date_published": "2026-01-29T13:30:00.000Z"
+    },
+    {
+      "id": "16c59733-ba67-4413-a846-b8f728c4f984",
+      "url": "https://www.smh.com.au/culture/art-and-design/shepparton-art-museum-exhibition-20260129-p5nxy7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "From a New York bathroom to regional Victoria: An exhibition of art’s heavy hitters is on its way",
+      "content_html": "This May, an exhibition featuring works from Dali to Picasso, Degas to Matisse lands at Shepparton Art Museum.",
+      "content_text": "This May, an exhibition featuring works from Dali to Picasso, Degas to Matisse lands at Shepparton Art Museum.",
+      "date_published": "2026-01-29T13:01:00.000Z"
+    },
+    {
+      "id": "62d817e2-c9bc-4a8d-8919-aa1b14fecc64",
+      "url": "https://www.smh.com.au/national/superquiz-friday-january-30-20260129-p5nxyc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Superquiz, Friday, January 30",
+      "content_html": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "content_text": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "date_published": "2026-01-29T12:59:00.000Z"
+    },
+    {
+      "id": "39c5fd2c-55c7-4d4a-a567-4ad9dbb48df0",
+      "url": "https://www.smh.com.au/sport/tennis/rybakina-reacts-to-stressful-win-20260129-p5ny6c.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rybakina reacts to 'stressful' win",
+      "content_html": "Elena Rybakina speaks to Nine's Casey Dellacqua after booking a spot in the Australian Open final.&#xA;",
+      "content_text": "Elena Rybakina speaks to Nine's Casey Dellacqua after booking a spot in the Australian Open final.&#xA;",
+      "date_published": "2026-01-29T12:29:19.000Z"
+    },
+    {
+      "id": "197462bb-39f3-4fa0-a64d-05991b384fc0",
+      "url": "https://www.smh.com.au/sport/tennis/rybakina-survives-scare-books-spot-in-final-20260129-p5ny6a.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rybakina survives scare, books spot in final",
+      "content_html": "Elena Rybakina wins the second-set tiebreak against Jessica Pegula and advances to the Australian Open final.",
+      "content_text": "Elena Rybakina wins the second-set tiebreak against Jessica Pegula and advances to the Australian Open final.",
+      "date_published": "2026-01-29T12:18:46.000Z"
+    },
+    {
       "id": "f134864a-775e-4202-9d1e-e9fa1f1eb761",
       "url": "https://www.smh.com.au/sport/tennis/scintillating-sabalenka-matches-hingis-in-reaching-fourth-australian-open-final-in-a-row-20260129-p5ny61.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "‘She really pissed me off’: Sabalenka’s motivation in crushing win over Ukrainian star",

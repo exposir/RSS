@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/trump-iran-threats.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/trump-iran-threats.html",
+      "title": "Trump Warns Iran With Military Muscle, but Risks a Regional War",
+      "content_html": "Iran’s Islamic Republic, weakened by airstrikes in June and huge popular unrest, warns that it will strike back hard if attacked by the United States. This time, Iran may mean it.",
+      "content_text": "Iran’s Islamic Republic, weakened by airstrikes in June and huge popular unrest, warns that it will strike back hard if attacked by the United States. This time, Iran may mean it.",
+      "date_published": "2026-01-29T13:21:02.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/europe/greenland-trump-anxiety-american-turmoil.html",
       "url": "https://www.nytimes.com/2026/01/29/world/europe/greenland-trump-anxiety-american-turmoil.html",
       "title": "Greenlanders Watching Turmoil in the United States Say No Thanks",
