@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
+      "title": "Michael Beck, 65, Dies; First to Report Symptoms of ‘Havana Syndrome’",
+      "content_html": "As an employee with the N.S.A., he claimed he was exposed to a direct-energy device that led to a diagnosis of Parkinson’s disease at age 45.",
+      "content_text": "As an employee with the N.S.A., he claimed he was exposed to a direct-energy device that led to a diagnosis of Parkinson’s disease at age 45.",
+      "date_published": "2026-01-29T23:22:39.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
       "url": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
       "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",

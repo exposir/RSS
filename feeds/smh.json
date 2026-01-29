@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "d9254a17-ad8b-4233-905f-465886004638",
+      "url": "https://www.smh.com.au/goodfood/recipes/helen-goh-s-matildas-tribute-cake-20260126-p5nx2v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Helen Goh’s Matildas tribute cake",
+      "content_html": "Helen Goh created this green and gold cake in honour of  the Aussie soccer stars.",
+      "content_text": "Helen Goh created this green and gold cake in honour of  the Aussie soccer stars.",
+      "date_published": "2026-01-29T23:25:44.000Z"
+    },
+    {
+      "id": "5662df67-f0dd-4c9c-abe8-d16c38407fec",
+      "url": "https://www.smh.com.au/property/news/the-overlooked-prestige-suburb-that-s-melbourne-s-second-most-expensive-20260129-p5ny15.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The overlooked prestige suburb that’s Melbourne’s second most expensive",
+      "content_html": "The tightly held neighbourhood is bordered by some of Melbourne’s top suburbs and is close to sought-after schools.",
+      "content_text": "The tightly held neighbourhood is bordered by some of Melbourne’s top suburbs and is close to sought-after schools.",
+      "date_published": "2026-01-29T23:20:47.000Z"
+    },
+    {
+      "id": "58734573-03a9-452c-ac2a-6891474f5340",
+      "url": "https://www.smh.com.au/national/three-men-charged-over-allged-1-million-fraud-ring-20260130-p5ny9b.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Three men charged over allged $1 million fraud ring",
+      "content_html": "Three men in Sydney are accused of being part of a $1 million insurance fraud network.",
+      "content_text": "Three men in Sydney are accused of being part of a $1 million insurance fraud network.",
+      "date_published": "2026-01-29T23:08:28.000Z"
+    },
+    {
+      "id": "361e30fa-8914-4557-9305-1ff6f7e0cdd0",
+      "url": "https://www.smh.com.au/culture/tv-and-radio/i-self-identify-as-a-sci-fi-nerd-but-what-on-earth-was-i-doing-here-20251218-p5nopl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "I self-identify as a sci-fi nerd, but what on earth was I doing here?",
+      "content_html": "Having guided me through childhood, Dr Who momentarily led me astray.",
+      "content_text": "Having guided me through childhood, Dr Who momentarily led me astray.",
+      "date_published": "2026-01-29T23:03:27.000Z"
+    },
+    {
+      "id": "8a065fae-814c-4cee-b281-b09409044901",
+      "url": "https://www.smh.com.au/politics/federal/we-re-taking-it-seriously-australia-monitoring-india-s-outbreak-of-deadly-nipah-virus-20260130-p5ny7x.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘We’re taking it seriously’: Australia monitoring India’s outbreak of deadly Nipah virus",
+      "content_html": "Health Minister Mark Butler said the virus had never been detected in Australia, and he was satisfied screening for sick travellers arriving in the country was sufficient.",
+      "content_text": "Health Minister Mark Butler said the virus had never been detected in Australia, and he was satisfied screening for sick travellers arriving in the country was sufficient.",
+      "date_published": "2026-01-29T23:02:05.000Z"
+    },
+    {
       "id": "cb19310a-ff20-42ca-81e7-2637cb34f4ec",
       "url": "https://www.smh.com.au/national/queensland/worker-fights-for-life-after-machinery-accident-at-port-of-brisbane-20260130-p5ny8x.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Worker fights for life after machinery accident at Port of Brisbane",
