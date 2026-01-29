@@ -1,15 +1,15 @@
 'use client'
 
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import { Virtuoso } from 'react-virtuoso'
 import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from '@/components/ui/resizable'
 import { ScrollArea } from '@/components/ui/scroll-area'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
-import { Card } from '@/components/ui/card'
 import { Separator } from '@/components/ui/separator'
 import { Badge } from '@/components/ui/badge'
 import { useFeeds, Article } from '@/hooks/useFeeds'
+import { useMediaQuery } from '@/hooks/use-media-query'
 import { cn } from '@/lib/utils'
 import { Search, RotateCw, Calendar, ChevronLeft, ExternalLink } from 'lucide-react'
 
@@ -18,6 +18,14 @@ export default function RSSReader() {
   const [selectedFeed, setSelectedFeed] = useState<string>('today') // Default to 'today'
   const [selectedArticle, setSelectedArticle] = useState<Article | null>(null)
   const [searchQuery, setSearchQuery] = useState('')
+
+  // Fix hydration mismatch by waiting for mount
+  const [isMounted, setIsMounted] = useState(false)
+  const isDesktop = useMediaQuery("(min-width: 768px)")
+
+  useEffect(() => {
+    setIsMounted(true)
+  }, [])
 
   // Helper: check if date matches today/yesterday
   const isDateMatch = (dateStr: string, targetDate: Date) => {
@@ -135,90 +143,82 @@ export default function RSSReader() {
     return feedIndex.find(f => f.id === selectedFeed)?.name || '未知订阅源'
   }, [selectedFeed, feedIndex])
 
+  if (!isMounted) return null
+
   return (
     <div className="h-screen w-full bg-background text-foreground flex flex-col">
-      {/* Mobile Header (optional, simplified for now) */}
-
-      <ResizablePanelGroup
-        direction="horizontal"
-        className="flex-1 h-full items-stretch"
-      >
+      <ResizablePanelGroup direction="horizontal" className="flex-1 h-full items-stretch">
 
         {/* LEFT COLUMN: Feeds List */}
-        <ResizablePanel
-          defaultSize={20}
-          minSize={15}
-          maxSize={30}
-          className="border-r border-border hidden md:block"
-        >
-          <div className="flex flex-col h-full">
-            <div className="p-4 border-b border-border flex items-center justify-between">
-              <h2 className="font-semibold">订阅源</h2>
-              <span className="text-xs text-muted-foreground">{feedIndex.length} 个</span>
-            </div>
-            <ScrollArea className="flex-1">
-              <div className="p-2 space-y-1">
-                {/* Error State */}
-                {error && (
-                  <div className="p-2 mb-2 text-xs text-destructive bg-destructive/10 rounded">
-                    加载错误: {error}
-                  </div>
-                )}
-                {/* Special Filters */}
-                <Button
-                  variant={selectedFeed === 'today' ? "secondary" : "ghost"}
-                  className="w-full justify-start font-normal"
-                  onClick={() => { setSelectedFeed('today'); setSelectedArticle(null); }}
-                >
-                  <Calendar className="mr-2 h-4 w-4" />
-                  <span className="flex-1 text-left">今日</span>
-                  {todayCount > 0 && <Badge variant="secondary" className="ml-auto text-xs">{todayCount}</Badge>}
-                </Button>
-                <Button
-                  variant={selectedFeed === 'yesterday' ? "secondary" : "ghost"}
-                  className="w-full justify-start font-normal"
-                  onClick={() => { setSelectedFeed('yesterday'); setSelectedArticle(null); }}
-                >
-                  <ChevronLeft className="mr-2 h-4 w-4" />
-                  <span className="flex-1 text-left">昨日</span>
-                  {yesterdayCount > 0 && <Badge variant="secondary" className="ml-auto text-xs">{yesterdayCount}</Badge>}
-                </Button>
-
-                <Separator className="my-2" />
-
-                {/* Feed Items */}
-                {loadingIndex ? (
-                  <div className="p-4 text-center text-sm text-muted-foreground">加载中...</div>
-                ) : (
-                  feedIndex.map(feed => (
+        {isDesktop && (
+          <>
+            <ResizablePanel defaultSize={20} minSize={15} maxSize={30} className="border-r border-border">
+              <div className="flex flex-col h-full">
+                <div className="p-4 border-b border-border flex items-center justify-between">
+                  <h2 className="font-semibold">订阅源</h2>
+                  <span className="text-xs text-muted-foreground">{feedIndex.length} 个</span>
+                </div>
+                <ScrollArea className="flex-1">
+                  <div className="p-2 space-y-1">
+                    {/* Error State */}
+                    {error && (
+                      <div className="p-2 mb-2 text-xs text-destructive bg-destructive/10 rounded">
+                        加载错误: {error}
+                      </div>
+                    )}
                     <Button
-                      key={feed.id}
-                      variant={selectedFeed === feed.id ? "secondary" : "ghost"}
-                      className="w-full justify-start font-normal truncate"
-                      onClick={() => { setSelectedFeed(feed.id); setSelectedArticle(null); }}
+                      variant={selectedFeed === 'today' ? "secondary" : "ghost"}
+                      className="w-full justify-start font-normal"
+                      onClick={() => { setSelectedFeed('today'); setSelectedArticle(null); }}
                     >
-                      <span className="truncate flex-1 text-left">{feed.name}</span>
-                      {getFeedCount(feed.id) > 0 && (
-                        <span className="ml-2 text-xs text-muted-foreground">{getFeedCount(feed.id)}</span>
-                      )}
+                      <Calendar className="mr-2 h-4 w-4" />
+                      <span className="flex-1 text-left">今日</span>
+                      {todayCount > 0 && <Badge variant="secondary" className="ml-auto text-xs">{todayCount}</Badge>}
                     </Button>
-                  ))
-                )}
-              </div>
-            </ScrollArea>
-          </div>
-        </ResizablePanel>
+                    <Button
+                      variant={selectedFeed === 'yesterday' ? "secondary" : "ghost"}
+                      className="w-full justify-start font-normal"
+                      onClick={() => { setSelectedFeed('yesterday'); setSelectedArticle(null); }}
+                    >
+                      <ChevronLeft className="mr-2 h-4 w-4" />
+                      <span className="flex-1 text-left">昨日</span>
+                      {yesterdayCount > 0 && <Badge variant="secondary" className="ml-auto text-xs">{yesterdayCount}</Badge>}
+                    </Button>
 
-        <ResizableHandle className="hidden md:flex" />
+                    <Separator className="my-2" />
+
+                    {loadingIndex ? (
+                      <div className="p-4 text-center text-sm text-muted-foreground">加载中...</div>
+                    ) : (
+                      feedIndex.map(feed => (
+                        <Button
+                          key={feed.id}
+                          variant={selectedFeed === feed.id ? "secondary" : "ghost"}
+                          className="w-full justify-start font-normal truncate"
+                          onClick={() => { setSelectedFeed(feed.id); setSelectedArticle(null); }}
+                        >
+                          <span className="truncate flex-1 text-left">{feed.name}</span>
+                          {getFeedCount(feed.id) > 0 && (
+                            <span className="ml-2 text-xs text-muted-foreground">{getFeedCount(feed.id)}</span>
+                          )}
+                        </Button>
+                      ))
+                    )}
+                  </div>
+                </ScrollArea>
+              </div>
+            </ResizablePanel>
+            <ResizableHandle />
+          </>
+        )}
 
         {/* MIDDLE COLUMN: Article List */}
         <ResizablePanel
-          defaultSize={30}
+          defaultSize={isDesktop ? 30 : 100}
           minSize={25}
-          className="border-r border-border min-w-[300px]"
+          className={cn("border-r border-border min-w-[300px]", !isDesktop && "w-full border-none")}
         >
           <div className="flex flex-col h-full">
-            {/* Header with Search */}
             <div className="p-4 border-b border-border space-y-3">
               <div className="flex items-center justify-between">
                 <h2 className="font-semibold text-lg truncate pr-2">{selectedFeedName}</h2>
@@ -242,17 +242,13 @@ export default function RSSReader() {
                   onChange={(e) => setSearchQuery(e.target.value)}
                 />
               </div>
-              {/* Show error in middle column on mobile if left column is hidden */}
-              <div className="md:hidden">
-                 {error && (
-                  <div className="p-2 text-xs text-destructive bg-destructive/10 rounded">
-                    加载错误: {error}
-                  </div>
-                )}
-              </div>
+              {!isDesktop && error && (
+                <div className="p-2 text-xs text-destructive bg-destructive/10 rounded">
+                  加载错误: {error}
+                </div>
+              )}
             </div>
 
-            {/* List */}
             <div className="flex-1 min-h-0">
               {filteredArticles.length === 0 && !loading ? (
                 <div className="flex flex-col items-center justify-center h-40 text-muted-foreground">
@@ -287,57 +283,56 @@ export default function RSSReader() {
           </div>
         </ResizablePanel>
 
-        <ResizableHandle className="hidden md:flex" />
-
         {/* RIGHT COLUMN: Detail */}
-        <ResizablePanel
-          defaultSize={50}
-          className="hidden md:block bg-background"
-        >
-          {selectedArticle ? (
-            <div className="flex flex-col h-full">
-              <div className="p-6 border-b border-border">
-                <a
-                  href={selectedArticle.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-2xl font-bold hover:text-primary hover:underline block mb-2 leading-tight"
-                >
-                  {selectedArticle.title}
-                  <ExternalLink className="inline-block ml-2 h-5 w-5 opacity-50" />
-                </a>
-                <div className="flex items-center text-sm text-muted-foreground gap-2 mt-3">
-                  <span className="font-medium text-foreground">{selectedArticle.source}</span>
-                  <span>·</span>
-                  <span>{formatDetailDate(selectedArticle.date_published)}</span>
+        {isDesktop && (
+          <>
+            <ResizableHandle />
+            <ResizablePanel defaultSize={50} className="bg-background">
+              {selectedArticle ? (
+                <div className="flex flex-col h-full">
+                  <div className="p-6 border-b border-border">
+                    <a
+                      href={selectedArticle.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-2xl font-bold hover:text-primary hover:underline block mb-2 leading-tight"
+                    >
+                      {selectedArticle.title}
+                      <ExternalLink className="inline-block ml-2 h-5 w-5 opacity-50" />
+                    </a>
+                    <div className="flex items-center text-sm text-muted-foreground gap-2 mt-3">
+                      <span className="font-medium text-foreground">{selectedArticle.source}</span>
+                      <span>·</span>
+                      <span>{formatDetailDate(selectedArticle.date_published)}</span>
+                    </div>
+                  </div>
+                  <ScrollArea className="flex-1">
+                    <div
+                      className={cn(
+                        "p-8 prose prose-slate dark:prose-invert max-w-none",
+                        "prose-h1:text-2xl prose-h2:text-xl prose-h3:text-lg",
+                        "prose-a:text-primary prose-a:no-underline hover:prose-a:underline",
+                        "prose-img:rounded-lg prose-img:border prose-img:border-border"
+                      )}
+                      dangerouslySetInnerHTML={{ __html: selectedArticle.content_html }}
+                    />
+                  </ScrollArea>
                 </div>
-              </div>
-              <ScrollArea className="flex-1">
-                <div
-                  className={cn(
-                    "p-8 prose prose-slate dark:prose-invert max-w-none",
-                    "prose-h1:text-2xl prose-h2:text-xl prose-h3:text-lg",
-                    "prose-a:text-primary prose-a:no-underline hover:prose-a:underline",
-                    "prose-img:rounded-lg prose-img:border prose-img:border-border"
-                  )}
-                  dangerouslySetInnerHTML={{ __html: selectedArticle.content_html }}
-                />
-              </ScrollArea>
-            </div>
-          ) : (
-            <div className="flex items-center justify-center h-full text-muted-foreground">
-              <div className="text-center">
-                <p>请选择一篇文章开始阅读</p>
-              </div>
-            </div>
-          )}
-        </ResizablePanel>
+              ) : (
+                <div className="flex items-center justify-center h-full text-muted-foreground">
+                  <div className="text-center">
+                    <p>请选择一篇文章开始阅读</p>
+                  </div>
+                </div>
+              )}
+            </ResizablePanel>
+          </>
+        )}
 
       </ResizablePanelGroup>
 
-      {/* Immersive Translation Styles Injection */}
+      {/* Immersive Translation Styles */}
       <style jsx global>{`
-        /* Force immersive translation elements to wrap and display correctly */
         .immersive-translate-target font,
         .immersive-translate-target span[lang] {
           display: block !important;
@@ -349,7 +344,6 @@ export default function RSSReader() {
         .immersive-translate-target br {
           display: none !important;
         }
-
         .immersive-translate-source font,
         .immersive-translate-source span[lang] {
           display: block !important;
