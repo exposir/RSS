@@ -22,19 +22,44 @@ export default function RSSReader() {
   // Fix hydration mismatch by waiting for mount
   const [isMounted, setIsMounted] = useState(false)
   const isDesktop = useMediaQuery("(min-width: 768px)")
-  const [layout, setLayout] = useState<number[]>([20, 30, 50])
 
   useEffect(() => {
     setIsMounted(true)
-  }, [])
 
-  useEffect(() => {
-    if (isDesktop) {
-      setLayout([20, 30, 50])
-    } else {
-      setLayout([100])
+    // Clear potentially corrupt layout data on mount
+    if (typeof window !== 'undefined' && isDesktop) {
+      try {
+        const savedLayout = localStorage.getItem('rss-reader-layout')
+        if (savedLayout) {
+          const layoutData = JSON.parse(savedLayout)
+          // Check if the saved layout has a left panel that's too small
+          if (layoutData && Array.isArray(layoutData) && layoutData.length > 0) {
+            const firstPanelSize = layoutData[0]
+            if (typeof firstPanelSize === 'number' && firstPanelSize < 15) {
+              console.log('Clearing corrupt layout data')
+              localStorage.removeItem('rss-reader-layout')
+            }
+          }
+        }
+      } catch (e) {
+        console.error('Error checking layout data:', e)
+        localStorage.removeItem('rss-reader-layout')
+      }
     }
   }, [isDesktop])
+
+  // Monitor and protect layout to ensure left panel is not too small
+  const handleLayoutChange = (sizes: number[]) => {
+    if (isDesktop && sizes.length === 3) {
+      // Ensure left panel is at least 18% and no more than 35%
+      if (sizes[0] < 18) {
+        return
+      }
+      if (sizes[0] > 35) {
+        return
+      }
+    }
+  }
 
   // Helper: check if date matches today/yesterday
   const isDateMatch = (dateStr: string, targetDate: Date) => {
@@ -160,6 +185,8 @@ export default function RSSReader() {
         key={isDesktop ? "desktop-layout" : "mobile-layout"}
         direction="horizontal"
         className="flex-1 h-full items-stretch"
+        autoSaveId={isDesktop ? "rss-reader-layout" : undefined}
+        onLayout={handleLayoutChange}
       >
 
         {/* LEFT COLUMN: Feeds List */}
@@ -168,8 +195,8 @@ export default function RSSReader() {
             <ResizablePanel
               id="left-panel"
               defaultSize={20}
-              minSize={15}
-              maxSize={30}
+              minSize={18}
+              maxSize={35}
               collapsible={false}
               className="border-r border-border"
             >
