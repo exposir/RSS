@@ -6,6 +6,22 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "為什麼中國將英國首相施紀賢來訪視為更大局面的一部分？",
+      "content_html": "施紀賢是近期前往北京的多位世界領導人之一。",
+      "content_text": "施紀賢是近期前往北京的多位世界領導人之一。",
+      "date_published": "2026-01-29T03:41:36.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c2k939g4ny4o/trad#6",
+      "url": "https://www.bbc.com/zhongwen/articles/c2k939g4ny4o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "「我一場比賽花2000英鎊」：Z世代的Hyrox健身狂迷",
+      "content_html": "為何年輕的「千禧一代」與「Z世代」會迷上這股健身熱潮？",
+      "content_text": "為何年輕的「千禧一代」與「Z世代」會迷上這股健身熱潮？",
+      "date_published": "2026-01-29T00:13:01.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/c2k939g4ny4o/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/c2k939g4ny4o/trad?at_medium=RSS&at_campaign=rss",
       "title": "「我一場比賽花2000英鎊」：Z世代的Hyrox健身狂迷",

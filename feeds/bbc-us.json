@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c620177qdg5o#0",
+      "url": "https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&at_campaign=rss",
+      "title": "Tesla cuts car models in shift to robots and AI",
+      "content_html": "Multi-billionaire Elon Musk's electric car maker also said its annual revenue had fallen for the first time.",
+      "content_text": "Multi-billionaire Elon Musk's electric car maker also said its annual revenue had fallen for the first time.",
+      "date_published": "2026-01-29T02:35:07.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cn9z4xnv544o#1",
       "url": "https://www.bbc.com/news/articles/cn9z4xnv544o?at_medium=RSS&at_campaign=rss",
       "title": "Chris Hemsworth and Mark Ruffalo: We're like a couple of naughty school kids",
@@ -14,12 +22,28 @@
       "date_published": "2026-01-29T02:19:27.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/ckgn0w129lqo#0",
+      "url": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
+      "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
+      "content_html": "As Trump and the Minneapolis Mayor spar over social media on immigration law enforcement, the US continues to be roiled by the killing of nurse Alex Pretti.",
+      "content_text": "As Trump and the Minneapolis Mayor spar over social media on immigration law enforcement, the US continues to be roiled by the killing of nurse Alex Pretti.",
+      "date_published": "2026-01-29T02:17:22.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c0r425pyl57o#0",
       "url": "https://www.bbc.com/news/articles/c0r425pyl57o?at_medium=RSS&at_campaign=rss",
       "title": "Keep suspended pupils in school, ministers say",
       "content_html": "Changes to England's school system say on-site suspensions should be used for non-violent behaviour.",
       "content_text": "Changes to England's school system say on-site suspensions should be used for non-violent behaviour.",
       "date_published": "2026-01-29T02:02:03.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/videos/c62v1eeg764o#3",
+      "url": "https://www.bbc.com/news/videos/c62v1eeg764o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Moment roof collapses at a rodeo arena due to snow",
+      "content_html": "The Saline County Fairgrounds arena in Arkansas was vacant at the time the roof caved in under the weight of snow and sleet following a winter storm.",
+      "content_text": "The Saline County Fairgrounds arena in Arkansas was vacant at the time the roof caved in under the weight of snow and sleet following a winter storm.",
+      "date_published": "2026-01-29T01:52:07.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cgk86xkgm0no#3",
@@ -132,6 +156,14 @@
       "content_html": "BBC analysis editor Ros Atkins looks at why tensions have been running so high in the city - and how we got here.",
       "content_text": "BBC analysis editor Ros Atkins looks at why tensions have been running so high in the city - and how we got here.",
       "date_published": "2026-01-28T23:10:05.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c205yl3kvzmo#3",
+      "url": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss",
+      "title": "At least five killed after Storm Kristin hits Portugal",
+      "content_html": "The storm toppled trees, damaged homes and left more than 800,000 people without power.",
+      "content_text": "The storm toppled trees, damaged homes and left more than 800,000 people without power.",
+      "date_published": "2026-01-28T22:59:48.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o#7",
@@ -1356,6 +1388,14 @@
       "content_html": "Weather warnings for heavy rain and strong winds are in place during the third major storm to hit to the UK this month.",
       "content_text": "Weather warnings for heavy rain and strong winds are in place during the third major storm to hit to the UK this month.",
       "date_published": "2026-01-27T16:12:19.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvgrznzpelro#3",
+      "url": "https://www.bbc.com/news/articles/cvgrznzpelro?at_medium=RSS&at_campaign=rss",
+      "title": "Britain's oldest rollercoaster closed for good",
+      "content_html": "The Scenic Railway is taking \"retirement from operation as a ride\", Dreamland Margate says.",
+      "content_text": "The Scenic Railway is taking \"retirement from operation as a ride\", Dreamland Margate says.",
+      "date_published": "2026-01-27T15:54:27.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/football/articles/cjrzpng1e8zo#7",

@@ -6,6 +6,22 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003289614",
+      "url": "https://www.wsj.com/world/middle-east/a-battered-iran-is-still-able-to-mount-a-deadly-response-to-u-s-strikes-6331080f",
+      "title": "A Battered Iran Is Still Able to Mount a Deadly Response to U.S. Strikes",
+      "content_html": "Tehran has an arsenal of thousands of missiles and refined its tactics for using them during the June war with Israel.",
+      "content_text": "Tehran has an arsenal of thousands of missiles and refined its tactics for using them during the June war with Israel.",
+      "date_published": "2026-01-29T04:00:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003285824",
+      "url": "https://www.wsj.com/world/russia/how-trumps-push-for-peace-in-ukraine-will-unfold-three-scenarios-0854c97e",
+      "title": "How Trump&#x2019;s Push for Peace in Ukraine Will Unfold: Three Scenarios",
+      "content_html": "More war is most likely, but mounting strains this year could weaken Kyiv&#x2019;s or Moscow&#x2019;s hand.",
+      "content_text": "More war is most likely, but mounting strains this year could weaken Kyiv&#x2019;s or Moscow&#x2019;s hand.",
+      "date_published": "2026-01-29T04:00:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003292020",
       "url": "https://www.wsj.com/world/americas/a-secret-fbi-bust-nabbed-an-alleged-drug-lordand-rocked-relations-with-mexico-a19d4dd6",
       "title": "A Secret FBI Bust Nabbed an Alleged Drug Lord&#x2014;and Rocked Relations With Mexico",

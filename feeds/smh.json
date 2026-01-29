@@ -6,6 +6,142 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "664c83ac-f6b6-41ad-b0ef-70a4b052ebe0",
+      "url": "https://www.smh.com.au/national/western-australia/the-missing-money-and-litigation-overshadowing-an-ndis-network-20260122-p5nwdf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The missing money and litigation overshadowing an NDIS network",
+      "content_html": "From a collapsed real estate firm in South Africa, to troubled NDIS businesses in Australia, an expanding business network is drawing increasing scrutiny.",
+      "content_text": "From a collapsed real estate firm in South Africa, to troubled NDIS businesses in Australia, an expanding business network is drawing increasing scrutiny.",
+      "date_published": "2026-01-29T04:41:35.000Z"
+    },
+    {
+      "id": "c832c7dc-87ed-42e0-b2fe-f89c1e2f45a3",
+      "url": "https://www.smh.com.au/sport/tennis/kublers-admission-after-advancing-to-doubles-final-20260129-p5ny3p.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Kubler's admission after advancing to doubles final",
+      "content_html": "Jason Kubler's admission after advancing to the men's doubles final.",
+      "content_text": "Jason Kubler's admission after advancing to the men's doubles final.",
+      "date_published": "2026-01-29T04:38:03.000Z"
+    },
+    {
+      "id": "af5b9fd1-2c52-4ff1-acf4-39640ac38254",
+      "url": "https://www.smh.com.au/sport/soccer/can-united-maintain-the-rage-20260129-p5ny3n.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Can United maintain the rage",
+      "content_html": "Can Manchester United maintain the rage? Craig Foster and Mark Bosnich preview their clash with Fulham.",
+      "content_text": "Can Manchester United maintain the rage? Craig Foster and Mark Bosnich preview their clash with Fulham.",
+      "date_published": "2026-01-29T04:35:43.000Z"
+    },
+    {
+      "id": "c75ca6f7-ed5b-41e7-869a-36494d2ef17b",
+      "url": "https://www.smh.com.au/sport/soccer/arsenal-now-in-citys-crosshairs-20260129-p5ny3m.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Arsenal now in City's crosshairs",
+      "content_html": "Arsenal are now in Manchester City's crosshairs as the Premier League title race heats up.",
+      "content_text": "Arsenal are now in Manchester City's crosshairs as the Premier League title race heats up.",
+      "date_published": "2026-01-29T04:34:53.000Z"
+    },
+    {
+      "id": "b6809ee6-0e3c-43c7-9a4c-5864bbd9a10f",
+      "url": "https://www.smh.com.au/business/the-economy/robots-redundancies-and-runaway-spending-not-all-ai-hits-the-mark-20260129-p5nxy9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Robots, redundancies and runaway spending: Not all AI hits the mark",
+      "content_html": "Amazon’s decision to cut jobs spooked some investors who worried that cost-cutting is needed to raise mega funds for AI.",
+      "content_text": "Amazon’s decision to cut jobs spooked some investors who worried that cost-cutting is needed to raise mega funds for AI.",
+      "date_published": "2026-01-29T04:31:52.000Z"
+    },
+    {
+      "id": "497d642c-b5fd-4be7-92a4-7196ed9af0cb",
+      "url": "https://www.smh.com.au/culture/movies/what-happens-when-a-court-unseals-your-private-texts-half-of-hollywood-just-found-out-20260123-p5nwg2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "What happens when a court unseals your private texts? Half of Hollywood just found out",
+      "content_html": "The trial hasn’t started, but the celebrities embroiled in the behind-the-scenes drama surrounding the film It Ends With Us are already dealing with “epic fallout”.",
+      "content_text": "The trial hasn’t started, but the celebrities embroiled in the behind-the-scenes drama surrounding the film It Ends With Us are already dealing with “epic fallout”.",
+      "date_published": "2026-01-29T04:30:08.000Z"
+    },
+    {
+      "id": "aef27039-228d-4f17-881d-75824820892b",
+      "url": "https://www.smh.com.au/sport/tennis/the-king-of-melbourne-is-it-time-to-give-novak-djokovic-a-statue-20260128-p5nxsk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The King of Melbourne: Is it time to give Novak Djokovic a statue?",
+      "content_html": "Novak Djokovic has broken every tennis record that matters, and is a 10-time champion in Melbourne. But he also polarises fans.",
+      "content_text": "Novak Djokovic has broken every tennis record that matters, and is a 10-time champion in Melbourne. But he also polarises fans.",
+      "date_published": "2026-01-29T04:30:00.000Z"
+    },
+    {
+      "id": "e8a182f7-f791-4560-a37e-bd43bda6f896",
+      "url": "https://www.smh.com.au/culture/ben-stiller-and-benson-boones-wild-instacart-ad-for-super-bowl-20260129-p5ny3c.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Ben Stiller and Benson Boone's wild Instacart ad for Super Bowl",
+      "content_html": "The two comedians channel 70s disco in one of the most talked about ads so far.",
+      "content_text": "The two comedians channel 70s disco in one of the most talked about ads so far.",
+      "date_published": "2026-01-29T04:19:36.000Z"
+    },
+    {
+      "id": "9cfb36a6-9d20-4da4-ae2a-5bd2e3a05f41",
+      "url": "https://www.smh.com.au/national/police-release-cctv-footage-of-alleged-nsw-triple-killer-20260129-p5ny3b.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Police release CCTV footage of alleged NSW triple-killer",
+      "content_html": "Police have released new CCTV footage as investigations continue into Lake Cargelligo shooting.",
+      "content_text": "Police have released new CCTV footage as investigations continue into Lake Cargelligo shooting.",
+      "date_published": "2026-01-29T04:18:27.000Z"
+    },
+    {
+      "id": "00b88fbf-f340-4be7-8387-afb2dd9efbe3",
+      "url": "https://www.smh.com.au/national/nsw/alleged-triple-murderer-julian-ingram-reports-to-police-station-20260129-p5ny36.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alleged triple murderer Julian Ingram reports to police station",
+      "content_html": "CCTV footage shows Ingram reporting to police hours before he began an alleged gun rampage.",
+      "content_text": "CCTV footage shows Ingram reporting to police hours before he began an alleged gun rampage.",
+      "date_published": "2026-01-29T04:08:27.000Z"
+    },
+    {
+      "id": "1da38f07-0b0e-4435-b967-45211a9f7321",
+      "url": "https://www.smh.com.au/sport/tennis/aussie-polmans-fires-up-the-crowd-after-big-hold-20260129-p5ny34.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Aussie Polmans fires up the crowd after big hold",
+      "content_html": "Aussie Marc Polmans was fired up after winning this point in the doubles.",
+      "content_text": "Aussie Marc Polmans was fired up after winning this point in the doubles.",
+      "date_published": "2026-01-29T04:02:13.000Z"
+    },
+    {
+      "id": "b7152a83-9845-4147-a21b-3b5d2e979fa1",
+      "url": "https://www.smh.com.au/culture/live-reviews/melbourne-review-wrap-last-dinner-party-20260116-p5nuk6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Can love conquer all in this collision of tennis and relationship drama?",
+      "content_html": "Australian Open is a queer domestic comedy that serves up aces of absurdity, rapid-fire volleys of wit, and heavy groundstrokes of camp and cringe.",
+      "content_text": "Australian Open is a queer domestic comedy that serves up aces of absurdity, rapid-fire volleys of wit, and heavy groundstrokes of camp and cringe.",
+      "date_published": "2026-01-29T03:56:40.000Z"
+    },
+    {
+      "id": "4e49c466-806c-4a78-8b14-80072a666e4d",
+      "url": "https://www.smh.com.au/national/nsw/locals-warned-against-helping-alleged-triple-murderer-as-manhunt-continues-20260129-p5nxv4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Locals warned against helping alleged triple murderer as manhunt continues",
+      "content_html": "Authorities are scouring water sources and abandoned mine shafts in the NSW Central West in the ongoing search for alleged fugitive Julian Ingram.",
+      "content_text": "Authorities are scouring water sources and abandoned mine shafts in the NSW Central West in the ongoing search for alleged fugitive Julian Ingram.",
+      "date_published": "2026-01-29T03:51:54.000Z"
+    },
+    {
+      "id": "584260d2-76c3-49c4-8c7a-ea15a84e91d3",
+      "url": "https://www.smh.com.au/national/nsw/beach-closed-after-shark-knocks-surfer-off-board-20260129-p5ny27.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Beach closed after shark knocks surfer off board",
+      "content_html": "A surfer has been knocked off their board at a beach south of Byron Bay as new details emerge about the death of a boy in Sydney Harbour.",
+      "content_text": "A surfer has been knocked off their board at a beach south of Byron Bay as new details emerge about the death of a boy in Sydney Harbour.",
+      "date_published": "2026-01-29T03:38:57.000Z"
+    },
+    {
+      "id": "4b0d93bb-25aa-4024-b10e-e54ca8613f94",
+      "url": "https://www.smh.com.au/national/queensland/flames-engulf-truck-outside-central-station-in-brisbane-cbd-20260129-p5ny2g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Flames engulf truck outside Central in CBD, Ann Street closed again",
+      "content_html": "Witnesses said they could feel heat from the other side of Ann Street.",
+      "content_text": "Witnesses said they could feel heat from the other side of Ann Street.",
+      "date_published": "2026-01-29T03:15:17.000Z"
+    },
+    {
+      "id": "3754e995-9b37-4e61-922c-4302f72c7d6c",
+      "url": "https://www.smh.com.au/politics/federal/secret-talks-between-hastie-and-taylor-to-topple-ley-fail-to-reach-decision-20260129-p5nxyz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Top Liberals say Ley has their support, even as they broker talks for her rivals",
+      "content_html": "James Paterson and Jonno Duniam attended talks between leadership contenders Andrew Hastie and Angus Taylor on Thursday - hours before a former colleague’s funeral.",
+      "content_text": "James Paterson and Jonno Duniam attended talks between leadership contenders Andrew Hastie and Angus Taylor on Thursday - hours before a former colleague’s funeral.",
+      "date_published": "2026-01-29T03:05:06.000Z"
+    },
+    {
+      "id": "0266df96-b805-4d8d-9478-21bcc95db028",
+      "url": "https://www.smh.com.au/sport/tennis/journos-told-to-attend-rybakina-pressers-20260129-p5ny29.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Journos told to attend Rybakina pressers",
+      "content_html": "Tournament officials had to ask journos to attend Elena Rybakina pressers. She continues to make a mockery of the lack of interest.",
+      "content_text": "Tournament officials had to ask journos to attend Elena Rybakina pressers. She continues to make a mockery of the lack of interest.",
+      "date_published": "2026-01-29T02:48:18.000Z"
+    },
+    {
       "id": "272a6090-4691-4749-b4c6-bb6d22bae222",
       "url": "https://www.smh.com.au/sport/tennis/australian-open-2026-live-updates-aussies-in-doubles-semis-svitolina-takes-on-world-no-1-sabalenka-pegula-to-battle-against-rybakina-20260128-p5nxqk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Australian Open 2026 LIVE updates: Aussies in doubles semis; Svitolina takes on world No.1 Sabalenka; Pegula to battle against Rybakina",

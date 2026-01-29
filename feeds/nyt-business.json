@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/28/world/asia/china-starmer-xi-jinping.html",
+      "url": "https://www.nytimes.com/2026/01/28/world/asia/china-starmer-xi-jinping.html",
+      "title": "U.K.’s Starmer Meets Xi Jinping in Beijing as Ties Warm",
+      "content_html": "Prime Minister Keir Starmer of Britain met with President Xi Jinping of China as he sought to promote business ties with the world’s second-largest economy.",
+      "content_text": "Prime Minister Keir Starmer of Britain met with President Xi Jinping of China as he sought to promote business ties with the world’s second-largest economy.",
+      "date_published": "2026-01-29T03:38:09.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
       "url": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
       "title": "Microsoft Continues to Spend Big on A.I. While Profit Jumps 60 Percent",
