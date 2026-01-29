@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46806773",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
+      "title": "Europe’s next-generation weather satellite sends back first images",
+      "content_html": "<p>Article URL: <a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\">https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46806773\">https://news.ycombinator.com/item?id=46806773</a></p>\n<p>Points: 265</p>\n<p># Comments: 43</p>",
+      "content_text": "Article URL: https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\nComments URL: https://news.ycombinator.com/item?id=46806773\nPoints: 265\n# Comments: 43",
+      "date_published": "2026-01-29T07:07:17.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46805665",
       "url": "https://web.mit.edu/jemorris/humor/500-miles",
       "title": "We can't send mail farther than 500 miles (2002)",

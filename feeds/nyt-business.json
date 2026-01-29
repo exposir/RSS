@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/business/russia-lukoil-carlyle-sale-sanctions.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/russia-lukoil-carlyle-sale-sanctions.html",
+      "title": "Russia’s Lukoil to Sell Its Foreign Assets to U.S. Investment Firm",
+      "content_html": "The deal with Carlyle comes after the United States and the European Union imposed sanctions on Lukoil, putting a dent in the Kremlin’s oil revenue.",
+      "content_text": "The deal with Carlyle comes after the United States and the European Union imposed sanctions on Lukoil, putting a dent in the Kremlin’s oil revenue.",
+      "date_published": "2026-01-29T11:47:01.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/arts/design/newark-museum-of-art-director.html",
       "url": "https://www.nytimes.com/2026/01/29/arts/design/newark-museum-of-art-director.html",
       "title": "Newark Museum of Art Names a New Leader",
