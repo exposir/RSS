@@ -211,7 +211,7 @@ export default function RSSReader() {
         key={isDesktop ? "desktop-layout" : "mobile-layout"}
         direction="horizontal"
         className="flex-1 h-full items-stretch"
-        id="rss-reader-group"
+        id="rss-reader-group-v2"
         defaultLayout={defaultLayout}
         onLayoutChanged={handleLayoutChanged}
       >
