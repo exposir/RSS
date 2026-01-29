@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003293140",
+      "url": "https://www.wsj.com/economy/chinas-local-governments-cut-growth-targets-4eb9e702",
+      "title": "China&#x2019;s Local Governments Cut Growth Targets",
+      "content_html": "More than a dozen Chinese provinces have cut their growth targets for the year, stoking speculation that Beijing will follow suit and set a lower national goal for 2026.",
+      "content_text": "More than a dozen Chinese provinces have cut their growth targets for the year, stoking speculation that Beijing will follow suit and set a lower national goal for 2026.",
+      "date_published": "2026-01-29T09:50:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003292911",
       "url": "https://www.wsj.com/world/china/u-k-s-starmer-joins-ranks-of-u-s-allies-testing-chinas-embrace-f266150c",
       "title": "U.K.&#x2019;s Starmer Joins Ranks of U.S. Allies Testing China&#x2019;s Embrace",

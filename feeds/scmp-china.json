@@ -6,6 +6,22 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/military/article/3341693/are-chinas-j-20a-stealth-fighters-now-updated-high-thrust-ws-15-engines?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/military/article/3341693/are-chinas-j-20a-stealth-fighters-now-updated-high-thrust-ws-15-engines?utm_source=rss_feed",
+      "title": "Are China’s J-20A stealth fighters now updated with high-thrust WS-15 engines?",
+      "content_html": "Beijing has released footage of an upgraded J-20A stealth fighter undergoing flight tests, with observers noting it appeared to be equipped with the long-awaited high-thrust WS-15 engine alongside significant avionics enhancements.\nChengdu Aircraft Corporation – the Aviation Industry Corporation of China subsidiary responsible for the J-20 stealth fighter – released new imagery and flight footage of its latest test aircraft last Saturday.\nAccording to a social media post by state news agency...",
+      "content_text": "Beijing has released footage of an upgraded J-20A stealth fighter undergoing flight tests, with observers noting it appeared to be equipped with the long-awaited high-thrust WS-15 engine alongside significant avionics enhancements.\nChengdu Aircraft Corporation – the Aviation Industry Corporation of China subsidiary responsible for the J-20 stealth fighter – released new imagery and flight footage of its latest test aircraft last Saturday.\nAccording to a social media post by state news agency...",
+      "date_published": "2026-01-29T09:12:13.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/big-tech/article/3341644/nvidia-wins-approval-taiwan-headquarters-secure-ai-chip-supply?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/big-tech/article/3341644/nvidia-wins-approval-taiwan-headquarters-secure-ai-chip-supply?utm_source=rss_feed",
+      "title": "Nvidia wins approval for Taiwan headquarters to secure AI chip supply",
+      "content_html": "The Taiwan government has cleared Nvidia to establish a NT$3.3 billion (US$105 million) headquarters on the island that produces most of the world’s advanced semiconductors, which the Silicon Valley chip designer will need to feed the red-hot global artificial intelligence sector.\nNvidia would use the Taipei site for a “commercial office” building and the acquisition of land for a “comprehensive business park”, the island’s Ministry of Economic Affairs announced on Wednesday.\nThe approval came a...",
+      "content_text": "The Taiwan government has cleared Nvidia to establish a NT$3.3 billion (US$105 million) headquarters on the island that produces most of the world’s advanced semiconductors, which the Silicon Valley chip designer will need to feed the red-hot global artificial intelligence sector.\nNvidia would use the Taipei site for a “commercial office” building and the acquisition of land for a “comprehensive business park”, the island’s Ministry of Economic Affairs announced on Wednesday.\nThe approval came a...",
+      "date_published": "2026-01-29T09:00:17.000Z"
+    },
+    {
       "id": "https://www.scmp.com/opinion/world-opinion/article/3341634/what-ruptured-globalisation-means-international-finance?utm_source=rss_feed",
       "url": "https://www.scmp.com/opinion/world-opinion/article/3341634/what-ruptured-globalisation-means-international-finance?utm_source=rss_feed",
       "title": "What ruptured globalisation means for international finance",

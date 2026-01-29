@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/articles/c24gy9d52vno#7",
+      "url": "https://www.bbc.com/sport/football/articles/c24gy9d52vno?at_medium=RSS&at_campaign=rss",
+      "title": "Senegal boss Thiaw banned after Afcon final chaos",
+      "content_html": "Senegal manager Pape Thiaw his banned for five games after the chaotic scenes during the Africa Cup of Nations final against Morocco.",
+      "content_text": "Senegal manager Pape Thiaw his banned for five games after the chaotic scenes during the Africa Cup of Nations final against Morocco.",
+      "date_published": "2026-01-29T09:29:55.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cp376n7k0g9o#3",
+      "url": "https://www.bbc.com/news/articles/cp376n7k0g9o?at_medium=RSS&at_campaign=rss",
+      "title": "Bus driver sacked after chasing and punching thief",
+      "content_html": "Mark Hehir told the hearing he was seen as a \"hero\" by the public after retrieving a stolen necklace.",
+      "content_text": "Mark Hehir told the hearing he was seen as a \"hero\" by the public after retrieving a stolen necklace.",
+      "date_published": "2026-01-29T08:29:42.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cq8415jjw92o#0",
       "url": "https://www.bbc.com/news/articles/cq8415jjw92o?at_medium=RSS&at_campaign=rss",
       "title": "Santander to close 44 branches and put 291 jobs at risk",
@@ -30,6 +46,14 @@
       "date_published": "2026-01-29T08:00:33.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cr57j8vyj11o#3",
+      "url": "https://www.bbc.com/news/articles/cr57j8vyj11o?at_medium=RSS&at_campaign=rss",
+      "title": "'Danger to life' flood warning as more rain forecast",
+      "content_html": "More than 50mm of rain fell across Hampshire, Dorset and the Isle of Wight on Tuesday.",
+      "content_text": "More than 50mm of rain fell across Hampshire, Dorset and the Isle of Wight on Tuesday.",
+      "date_published": "2026-01-29T07:54:48.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/boxing/articles/cgqepvjjxkwo#7",
       "url": "https://www.bbc.com/sport/boxing/articles/cgqepvjjxkwo?at_medium=RSS&at_campaign=rss",
       "title": "How an inspiring home video launched a main event fighter",
@@ -52,6 +76,14 @@
       "content_html": "From regime change to retaliation, the BBC's Frank Gardner outlines possible outcomes of US strikes on Iran.",
       "content_text": "From regime change to retaliation, the BBC's Frank Gardner outlines possible outcomes of US strikes on Iran.",
       "date_published": "2026-01-29T06:43:49.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/czx15gq5kplo#3",
+      "url": "https://www.bbc.com/news/articles/czx15gq5kplo?at_medium=RSS&at_campaign=rss",
+      "title": "Farmer calls for action as llama injured after 'continuous' dog attacks ",
+      "content_html": "In the latest attack at the farm in County Tyrone a llama was seriously injured by two Rottweiler dogs.",
+      "content_text": "In the latest attack at the farm in County Tyrone a llama was seriously injured by two Rottweiler dogs.",
+      "date_published": "2026-01-29T06:18:23.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cy092x1n7w0o#3",
@@ -166,6 +198,14 @@
       "date_published": "2026-01-29T00:40:10.000Z"
     },
     {
+      "id": "https://www.bbc.com/sport/football/articles/cy0520ey7jjo#3",
+      "url": "https://www.bbc.com/sport/football/articles/cy0520ey7jjo?at_medium=RSS&at_campaign=rss",
+      "title": "Why have English teams dominated the Champions League so far?",
+      "content_html": "Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant?",
+      "content_text": "Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant?",
+      "date_published": "2026-01-29T00:24:07.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/cy0520ey7jjo#7",
       "url": "https://www.bbc.com/sport/football/articles/cy0520ey7jjo?at_medium=RSS&at_campaign=rss",
       "title": "Why have English teams dominated as Real & PSG face play-offs?",
@@ -268,6 +308,14 @@
       "content_html": "State ariline Satena says its aircraft carrying 13 passengers and two crew \"suffered a fatal accident\".",
       "content_text": "State ariline Satena says its aircraft carrying 13 passengers and two crew \"suffered a fatal accident\".",
       "date_published": "2026-01-28T22:48:52.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o#0",
+      "url": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch Benfica keeper score stoppage-time goal against Real Madrid",
+      "content_html": "Goalkeeper Anatoliy Trubin scores in the 98th minute to give Benfica a 4-2 win over Real Madrid - a goal which also secured Jose Mourinho's side a place in the last 16 play-offs of the Champions League on goal difference.",
+      "content_text": "Goalkeeper Anatoliy Trubin scores in the 98th minute to give Benfica a 4-2 win over Real Madrid - a goal which also secured Jose Mourinho's side a place in the last 16 play-offs of the Champions League on goal difference.",
+      "date_published": "2026-01-28T22:22:55.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o#3",

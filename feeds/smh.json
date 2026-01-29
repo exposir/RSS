@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "4c04936f-6c83-4dcc-8e77-d976c206b6d3",
+      "url": "https://www.smh.com.au/sport/tennis/sabelenkas-powerful-backhand-seals-set-20260129-p5ny5z.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sabelenka's powerful backhand seals set",
+      "content_html": "Aryna Sabalenka wins the first set 6-2 against Elina Svitolina.",
+      "content_text": "Aryna Sabalenka wins the first set 6-2 against Elina Svitolina.",
+      "date_published": "2026-01-29T09:36:19.000Z"
+    },
+    {
+      "id": "2b45d071-4ec7-4cdb-a618-d93bb1f1e47f",
+      "url": "https://www.smh.com.au/business/companies/gold-fields-great-southern-reload-for-big-queensland-gold-hunt-20260129-p5ny5x.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Gold Fields, Great Southern reload for big Queensland gold hunt",
+      "content_html": "Gold Fields is ramping up for another big year at Great Southern’s project in Queensland, with drilling set to begin on a big IP target at the Mt Dillon prospect.",
+      "content_text": "Gold Fields is ramping up for another big year at Great Southern’s project in Queensland, with drilling set to begin on a big IP target at the Mt Dillon prospect.",
+      "date_published": "2026-01-29T09:33:49.000Z"
+    },
+    {
+      "id": "2f8a7e38-cf20-4c9e-9e11-bd324ed7cc31",
+      "url": "https://www.smh.com.au/sport/tennis/hindrance-review-call-frustrates-sabalenka-20260129-p5ny5v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Hindrance review call frustrates Sabalenka",
+      "content_html": "Aryna Sabalenka challenges the umpire after a hindrance call.",
+      "content_text": "Aryna Sabalenka challenges the umpire after a hindrance call.",
+      "date_published": "2026-01-29T09:07:46.000Z"
+    },
+    {
       "id": "7106aed8-b86a-4f20-aa9f-3aae2bf5b5e3",
       "url": "https://www.smh.com.au/business/companies/golden-dragon-consolidates-prime-wa-goldfield-20260129-p5ny5t.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Golden Dragon consolidates prime WA goldfield",
