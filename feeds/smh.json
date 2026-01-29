@@ -6,6 +6,150 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "30e7f095-342d-4bfe-a87a-b496adf222e8",
+      "url": "https://www.smh.com.au/politics/victoria/seven-new-towers-set-for-demolition-are-home-to-melbourne-s-vulnerable-and-elderly-20260128-p5nxnz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Seven new towers set for demolition are home to Melbourne’s vulnerable and elderly",
+      "content_html": "Residents are fuming after learning more public housing has been earmarked for redevelopment, including the homes of people nearing 100 years old.",
+      "content_text": "Residents are fuming after learning more public housing has been earmarked for redevelopment, including the homes of people nearing 100 years old.",
+      "date_published": "2026-01-29T07:54:38.000Z"
+    },
+    {
+      "id": "ed82e67c-7fef-4b13-8d8d-acb7c8014d4c",
+      "url": "https://www.smh.com.au/business/companies/nine-to-end-its-seven-year-marriage-with-2gb-3aw-20260129-p5ny1b.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Nine to end its seven-year marriage with 2GB, 3AW",
+      "content_html": "In this week’s On Background, 2GB and 3AW are to be sold, the ever-changing face of The Australian Weekend Magazine, a shake up on Nova and the latest sports broadcast deal inches closer.",
+      "content_text": "In this week’s On Background, 2GB and 3AW are to be sold, the ever-changing face of The Australian Weekend Magazine, a shake up on Nova and the latest sports broadcast deal inches closer.",
+      "date_published": "2026-01-29T07:49:20.000Z"
+    },
+    {
+      "id": "d51c8fd5-9687-47d7-93ec-0ebaeb64805c",
+      "url": "https://www.smh.com.au/world/airports-in-asia-screening-passengers-for-deadly-virus-20260129-p5ny5l.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Airports in Asia screening passengers for deadly virus",
+      "content_html": "Australian authorities remain on high alert as airports in Asia begin screening passengers for the Nipah virus.",
+      "content_text": "Australian authorities remain on high alert as airports in Asia begin screening passengers for the Nipah virus.",
+      "date_published": "2026-01-29T07:45:22.000Z"
+    },
+    {
+      "id": "9f6f1650-93cb-4f45-82ff-e0608efebb86",
+      "url": "https://www.smh.com.au/national/protest-zones-to-be-potentially-placed-across-sydney-20260129-p5ny5j.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Protest zones’ to be potentially placed across Sydney",
+      "content_html": "“Protest zones” could soon be introduced to limit where Sydneysiders can rally, even as existing laws are challenged in court.",
+      "content_text": "“Protest zones” could soon be introduced to limit where Sydneysiders can rally, even as existing laws are challenged in court.",
+      "date_published": "2026-01-29T07:44:10.000Z"
+    },
+    {
+      "id": "b98c57a1-0aa8-41ef-812a-9fd8be2ca924",
+      "url": "https://www.smh.com.au/world/new-footage-of-alex-pretti-in-a-confrontation-with-ice-agents-20260129-p5ny5k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "New footage of Alex Pretti in a confrontation with ICE agents",
+      "content_html": "New footage has emerged of Alex Pretti in a tense standoff with ICE agents more than a week before he was fatally shot by federal officers in Minneapolis.",
+      "content_text": "New footage has emerged of Alex Pretti in a tense standoff with ICE agents more than a week before he was fatally shot by federal officers in Minneapolis.",
+      "date_published": "2026-01-29T07:43:06.000Z"
+    },
+    {
+      "id": "a63925bc-0269-4903-a554-fef104533110",
+      "url": "https://www.smh.com.au/national/melbourne-youth-gang-members-on-notice-after-police-warning-20260129-p5ny5h.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Melbourne youth gang members on notice after police warning",
+      "content_html": "Youth gangs in Melbourne can expect their lives to be \"incredibly uncomfortable\" around the clock, Victoria Police have warned.",
+      "content_text": "Youth gangs in Melbourne can expect their lives to be \"incredibly uncomfortable\" around the clock, Victoria Police have warned.",
+      "date_published": "2026-01-29T07:38:54.000Z"
+    },
+    {
+      "id": "2a49d913-30e8-4fb8-b912-e14020db3f06",
+      "url": "https://www.smh.com.au/world/trump-moves-closer-to-ordering-strikes-across-iran-20260129-p5ny5i.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Trump moves closer to ordering strikes across Iran",
+      "content_html": "Donald Trump is inching closer to ordering new military strikes on Iran.",
+      "content_text": "Donald Trump is inching closer to ordering new military strikes on Iran.",
+      "date_published": "2026-01-29T07:38:47.000Z"
+    },
+    {
+      "id": "9914507b-3805-460e-8b73-ecc4a1c8d9f3",
+      "url": "https://www.smh.com.au/national/new-footage-of-alleged-triple-killer-hours-before-murders-20260129-p5ny5g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "New footage of alleged triple-killer hours before murders",
+      "content_html": "New footage has emerged of wanted man Julian Ingram, recorded just hours before he allegedly shot three people dead at Lake Cargelligo.",
+      "content_text": "New footage has emerged of wanted man Julian Ingram, recorded just hours before he allegedly shot three people dead at Lake Cargelligo.",
+      "date_published": "2026-01-29T07:37:51.000Z"
+    },
+    {
+      "id": "f43be93c-1fd0-42da-bc97-b5f90edd964e",
+      "url": "https://www.smh.com.au/national/killer-locked-up-for-life-over-murder-of-wife-in-fire-20260129-p5ny5d.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Killer locked up for life over murder of wife in fire",
+      "content_html": "Roland Griffiths has been jailed for life after setting his wife and stepdaughter on fire and then blaming his dying partner.",
+      "content_text": "Roland Griffiths has been jailed for life after setting his wife and stepdaughter on fire and then blaming his dying partner.",
+      "date_published": "2026-01-29T07:37:50.000Z"
+    },
+    {
+      "id": "e3a5733b-25e3-44cb-9e29-7620104b12f2",
+      "url": "https://www.smh.com.au/national/secret-meeting-called-between-ley-opponents-20260129-p5ny5e.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Secret meeting called between Ley opponents",
+      "content_html": "A secret meeting between Sussan Ley's leadership rivals has cast a shadow over a sombre gathering of Liberals in Melbourne.",
+      "content_text": "A secret meeting between Sussan Ley's leadership rivals has cast a shadow over a sombre gathering of Liberals in Melbourne.",
+      "date_published": "2026-01-29T07:37:48.000Z"
+    },
+    {
+      "id": "f3077d4a-0559-417e-aa6a-52e363827120",
+      "url": "https://www.smh.com.au/national/fourth-person-charged-over-deadly-drive-by-shooting-of-melbourne-teen-20260129-p5ny5f.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Fourth person charged over deadly drive-by shooting of Melbourne teen",
+      "content_html": "A fourth man has been charged with murder after a 16-year-old was killed in a drive-by shooting in Melbourne's inner-north.",
+      "content_text": "A fourth man has been charged with murder after a 16-year-old was killed in a drive-by shooting in Melbourne's inner-north.",
+      "date_published": "2026-01-29T07:37:10.000Z"
+    },
+    {
+      "id": "4fe51aa2-5c25-4346-9bae-28089a573741",
+      "url": "https://www.smh.com.au/national/man-escapes-major-boat-fire-on-victorias-port-phillip-bay-20260129-p5ny5b.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man escapes major boat fire on Victoria's Port Phillip Bay",
+      "content_html": "A man has escaped injury after his boat became engulfed in flames in Melbourne's Port Phillip Bay and sank.",
+      "content_text": "A man has escaped injury after his boat became engulfed in flames in Melbourne's Port Phillip Bay and sank.",
+      "date_published": "2026-01-29T07:32:18.000Z"
+    },
+    {
+      "id": "b24b7d20-6bf6-432f-9f63-26379640700b",
+      "url": "https://www.smh.com.au/national/man-arrested-after-woman-found-dead-at-geelong-beach-20260129-p5ny5c.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man arrested after woman found dead at Geelong beach",
+      "content_html": "A man has been arrested after the suspected murder of a woman whose body was found at a beach south-west of Melbourne.",
+      "content_text": "A man has been arrested after the suspected murder of a woman whose body was found at a beach south-west of Melbourne.",
+      "date_published": "2026-01-29T07:31:58.000Z"
+    },
+    {
+      "id": "2b39b7bf-4fee-4af4-a49f-1c6ca91ff87d",
+      "url": "https://www.smh.com.au/national/nsw/coalition-mess-a-mere-sideshow-compared-to-bigger-issues-20260129-p5nxwn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Coalition mess a mere sideshow compared to bigger issues",
+      "content_html": "We’re living in volatile times and can ill afford to be distracted by trivial bickering.",
+      "content_text": "We’re living in volatile times and can ill afford to be distracted by trivial bickering.",
+      "date_published": "2026-01-29T07:30:00.000Z"
+    },
+    {
+      "id": "365745a6-1003-4616-b499-39b7dfe55aef",
+      "url": "https://www.smh.com.au/national/man-restrained-by-passersby-after-car-crashes-on-busy-road-20260129-p5ny59.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man restrained by passersby after car crashes on busy road",
+      "content_html": "Good Samaritans have restrained a driver who allegedly tried to run from a smashed-up car after it crashed into several others on a busy Melbourne road.",
+      "content_text": "Good Samaritans have restrained a driver who allegedly tried to run from a smashed-up car after it crashed into several others on a busy Melbourne road.",
+      "date_published": "2026-01-29T07:27:28.000Z"
+    },
+    {
+      "id": "e8e4ede2-a7f6-40b4-93bf-c8da826ec636",
+      "url": "https://www.smh.com.au/business/companies/venus-taps-experts-to-unlock-value-in-wa-mineral-portfolio-20260129-p5ny4y.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Venus taps experts to unlock value in WA mineral portfolio",
+      "content_html": "Backed by a $40m Youanmi royalty and $30m in Rox shares, Venus Metals has recruited a top corporate gun to review its WA assets, believing the market undervalues its portfolio.",
+      "content_text": "Backed by a $40m Youanmi royalty and $30m in Rox shares, Venus Metals has recruited a top corporate gun to review its WA assets, believing the market undervalues its portfolio.",
+      "date_published": "2026-01-29T07:25:59.000Z"
+    },
+    {
+      "id": "44216ffa-a149-4ff6-8514-bf810c649d8c",
+      "url": "https://www.smh.com.au/national/man-shot-by-police-outside-victorian-school-20260129-p5ny54.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man shot by police outside Victorian school",
+      "content_html": "Police have shot a man outside a school after an allegedly stolen car was driven at officers during a pursuit in Geelong.",
+      "content_text": "Police have shot a man outside a school after an allegedly stolen car was driven at officers during a pursuit in Geelong.",
+      "date_published": "2026-01-29T07:13:32.000Z"
+    },
+    {
+      "id": "5fb9b854-6fa4-4c47-8ce2-ade15aed9b5d",
+      "url": "https://www.smh.com.au/national/victoria/car-smashes-into-school-bus-police-fire-on-vehicle-in-geelong-20260129-p5ny53.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Car smashes into school bus, police fire on vehicle in Geelong",
+      "content_html": "The stolen Kia Optima smashed into the side of a school bus at Newtown in Geelong’s inner-west on Thursday afternoon.",
+      "content_text": "The stolen Kia Optima smashed into the side of a school bus at Newtown in Geelong’s inner-west on Thursday afternoon.",
+      "date_published": "2026-01-29T07:10:42.000Z"
+    },
+    {
       "id": "3f966e25-5ac7-4719-bb33-f00bf5328f7b",
       "url": "https://www.smh.com.au/goodfood/brisbane-eating-out/it-s-one-of-sydney-s-hottest-sandwich-shops-now-it-s-taking-on-brisbane-20260121-p5nvws.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "It’s one of Sydney’s hottest sandwich shops. Now, it’s taking on Brisbane",

@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003292911",
+      "url": "https://www.wsj.com/world/china/u-k-s-starmer-joins-ranks-of-u-s-allies-testing-chinas-embrace-f266150c",
+      "title": "U.K.&#x2019;s Starmer Joins Ranks of U.S. Allies Testing China&#x2019;s Embrace",
+      "content_html": "In a visit to Beijing, the British leader is seeking to rekindle ties with Xi Jinping, with a business delegation in tow.",
+      "content_text": "In a visit to Beijing, the British leader is seeking to rekindle ties with Xi Jinping, with a business delegation in tow.",
+      "date_published": "2026-01-29T07:31:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003289614",
       "url": "https://www.wsj.com/world/middle-east/a-battered-iran-is-still-able-to-mount-a-deadly-response-to-u-s-strikes-6331080f",
       "title": "A Battered Iran Is Still Able to Mount a Deadly Response to U.S. Strikes",

@@ -6,6 +6,46 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/boxing/articles/cgqepvjjxkwo#7",
+      "url": "https://www.bbc.com/sport/boxing/articles/cgqepvjjxkwo?at_medium=RSS&at_campaign=rss",
+      "title": "How an inspiring home video launched a main event fighter",
+      "content_html": "How Francesca Hennessy - who headlines on BBC Two on Saturday - went from weight and dyslexia struggles to viral fame and in sight of a world-title shot.",
+      "content_text": "How Francesca Hennessy - who headlines on BBC Two on Saturday - went from weight and dyslexia struggles to viral fame and in sight of a world-title shot.",
+      "date_published": "2026-01-29T07:28:56.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/boxing/articles/c74wyqq2w3go#3",
+      "url": "https://www.bbc.com/sport/boxing/articles/c74wyqq2w3go?at_medium=RSS&at_campaign=rss",
+      "title": "WBA champion Gervonta Davis arrested in Miami after two-week search",
+      "content_html": "WBA lightweight champion Gervonta Davis is arrested in Miami for alleged false imprisonment, battery and attempted kidnapping.",
+      "content_text": "WBA lightweight champion Gervonta Davis is arrested in Miami for alleged false imprisonment, battery and attempted kidnapping.",
+      "date_published": "2026-01-29T06:57:17.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/ce3kenge1k9o#0",
+      "url": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss",
+      "title": "What could happen if the US strikes Iran? Here are seven scenarios",
+      "content_html": "From regime change to retaliation, the BBC's Frank Gardner outlines possible outcomes of US strikes on Iran.",
+      "content_text": "From regime change to retaliation, the BBC's Frank Gardner outlines possible outcomes of US strikes on Iran.",
+      "date_published": "2026-01-29T06:43:49.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy092x1n7w0o#3",
+      "url": "https://www.bbc.com/news/articles/cy092x1n7w0o?at_medium=RSS&at_campaign=rss",
+      "title": "Family wants action after man electrocuted by faulty power cable while out jogging",
+      "content_html": "The family of Harry Oates, who died in 2023, say organisations are \"hiding behind process\".",
+      "content_text": "The family of Harry Oates, who died in 2023, say organisations are \"hiding behind process\".",
+      "date_published": "2026-01-29T06:10:21.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c3edpw38vqno#3",
+      "url": "https://www.bbc.com/news/articles/c3edpw38vqno?at_medium=RSS&at_campaign=rss",
+      "title": "The by-laws you may not know exist in London",
+      "content_html": "Could drinking coffee on the Tube land you in hot water? A rundown of some of London's quirky by-laws.",
+      "content_text": "Could drinking coffee on the Tube land you in hot water? A rundown of some of London's quirky by-laws.",
+      "date_published": "2026-01-29T05:57:41.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cx2gdrvy9gjo#0",
       "url": "https://www.bbc.com/news/articles/cx2gdrvy9gjo?at_medium=RSS&at_campaign=rss",
       "title": "China executes 11 members of Myanmar scam mafia",
@@ -142,6 +182,14 @@
       "date_published": "2026-01-29T00:03:04.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/clymp4ynldlo#3",
+      "url": "https://www.bbc.com/news/articles/clymp4ynldlo?at_medium=RSS&at_campaign=rss",
+      "title": "Vehicle production in the UK falls to 73-year low",
+      "content_html": "The industry has \"the toughest year in a generation\" as vehicle making falls back to 1952 levels.",
+      "content_text": "The industry has \"the toughest year in a generation\" as vehicle making falls back to 1952 levels.",
+      "date_published": "2026-01-29T00:01:35.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/clymp4ynldlo#0",
       "url": "https://www.bbc.com/news/articles/clymp4ynldlo?at_medium=RSS&at_campaign=rss",
       "title": "Vehicle production in the UK falls to 73-year low",
@@ -156,6 +204,14 @@
       "content_html": "After sweeping their way into the last 16, chief football writer Phil McNulty asks can the Champions League rescue Liverpool's season of turmoil?",
       "content_text": "After sweeping their way into the last 16, chief football writer Phil McNulty asks can the Champions League rescue Liverpool's season of turmoil?",
       "date_published": "2026-01-28T23:48:08.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/czej9n578k9o#0",
+      "url": "https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&at_campaign=rss",
+      "title": "Driverless taxis set to launch in UK as soon as September",
+      "content_html": "Waymo has laid out plans for a robotaxi service in London with a pilot scheme due to begin in April.",
+      "content_text": "Waymo has laid out plans for a robotaxi service in London with a pilot scheme due to begin in April.",
+      "date_published": "2026-01-28T23:22:48.000Z"
     },
     {
       "id": "https://www.bbc.com/news/videos/cj6wgelw62do#0",
