@@ -6,12 +6,36 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/articles/c20gyeeexgro#7",
+      "url": "https://www.bbc.com/sport/football/articles/c20gyeeexgro?at_medium=RSS&at_campaign=rss",
+      "title": "Brighton to reject £20m Forest bid for Ayari",
+      "content_html": "Brighton are set to reject a £20m offer from Nottingham Forest for midfielder Yasin Ayari.",
+      "content_text": "Brighton are set to reject a £20m offer from Nottingham Forest for midfielder Yasin Ayari.",
+      "date_published": "2026-01-29T14:14:44.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cq841e4n4v8o#0",
       "url": "https://www.bbc.com/news/articles/cq841e4n4v8o?at_medium=RSS&at_campaign=rss",
       "title": "Great Ormond Street doctor who botched surgery harmed nearly 100 children",
       "content_html": "Hospital report highlights widespread problems with Yaser Jabbar's operations.",
       "content_text": "Hospital report highlights widespread problems with Yaser Jabbar's operations.",
       "date_published": "2026-01-29T13:30:06.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/rugby-union/articles/cz6yv94y9z4o#7",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cz6yv94y9z4o?at_medium=RSS&at_campaign=rss",
+      "title": "'Rugby isn't eternal, friendship is' - Fickou pays tribute to Atonio",
+      "content_html": "Team-mate Gael Fickou says France have lost the best prop they have ever had after Uini Atonio was forced to retire with a heart problem.",
+      "content_text": "Team-mate Gael Fickou says France have lost the best prop they have ever had after Uini Atonio was forced to retire with a heart problem.",
+      "date_published": "2026-01-29T13:29:55.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c150yv75pn7o#0",
+      "url": "https://www.bbc.com/news/articles/c150yv75pn7o?at_medium=RSS&at_campaign=rss",
+      "title": "China to relax travel rules for British visitors, UK says",
+      "content_html": "It comes as Sir Keir Starmer visits Beijing - the first UK prime minister to do so in eight years.",
+      "content_text": "It comes as Sir Keir Starmer visits Beijing - the first UK prime minister to do so in eight years.",
+      "date_published": "2026-01-29T13:18:04.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cz9vlj1zp87o#0",

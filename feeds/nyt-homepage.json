@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/us/elections/matt-mahan-governor-california.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/elections/matt-mahan-governor-california.html",
+      "title": "San Jose Mayor Matt Mahan Will Run for California Governor in 2026",
+      "content_html": "Matt Mahan, a moderate Democrat who serves as mayor of San Jose, Calif., is entering the crowded race for California governor.",
+      "content_text": "Matt Mahan, a moderate Democrat who serves as mayor of San Jose, Calif., is entering the crowded race for California governor.",
+      "date_published": "2026-01-29T14:00:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/us-trade-deficit-tariffs.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/us-trade-deficit-tariffs.html",
+      "title": "U.S. Trade Deficit Bounces Back as Tariffs Cause Volatility",
+      "content_html": "The monthly trade deficit and imports rebounded in November after shrinking significantly in prior months, new data show.",
+      "content_text": "The monthly trade deficit and imports rebounded in November after shrinking significantly in prior months, new data show.",
+      "date_published": "2026-01-29T13:49:40.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/trump-iran-threats.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/trump-iran-threats.html",
+      "title": "Trump Warns Iran With Military Muscle, but Risks a Regional War",
+      "content_html": "Iran’s Islamic Republic, weakened by airstrikes in June and huge popular unrest, warns that it will strike back hard if attacked by the United States. This time, Iran may mean it.",
+      "content_text": "Iran’s Islamic Republic, weakened by airstrikes in June and huge popular unrest, warns that it will strike back hard if attacked by the United States. This time, Iran may mean it.",
+      "date_published": "2026-01-29T13:21:02.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/arts/music/wynton-marsalis-jazz-at-lincoln-center.html",
       "url": "https://www.nytimes.com/2026/01/29/arts/music/wynton-marsalis-jazz-at-lincoln-center.html",
       "title": "Wynton Marsalis, Founder of Jazz at Lincoln Center, to Step Down",

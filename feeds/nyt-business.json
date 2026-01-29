@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/business/us-trade-deficit-tariffs.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/us-trade-deficit-tariffs.html",
+      "title": "U.S. Trade Deficit Bounces Back as Tariffs Cause Volatility",
+      "content_html": "The monthly trade deficit and imports rebounded in November after shrinking significantly in prior months, new data show.",
+      "content_text": "The monthly trade deficit and imports rebounded in November after shrinking significantly in prior months, new data show.",
+      "date_published": "2026-01-29T13:49:40.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/business/dealbook/ai-spending-meta-microsoft.html",
       "url": "https://www.nytimes.com/2026/01/29/business/dealbook/ai-spending-meta-microsoft.html",
       "title": "The A.I. Boom’s Uncertain Payoff",

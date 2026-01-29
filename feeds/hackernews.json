@@ -86,6 +86,14 @@
       "date_published": "2026-01-28T18:12:02.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46797594",
+      "url": "https://www.dimamik.com/posts/oban_py/",
+      "title": "Oban, the job processing framework from Elixir, has come to Python",
+      "content_html": "<p>Article URL: <a href=\"https://www.dimamik.com/posts/oban_py/\">https://www.dimamik.com/posts/oban_py/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46797594\">https://news.ycombinator.com/item?id=46797594</a></p>\n<p>Points: 247</p>\n<p># Comments: 96</p>",
+      "content_text": "Article URL: https://www.dimamik.com/posts/oban_py/\nComments URL: https://news.ycombinator.com/item?id=46797594\nPoints: 247\n# Comments: 96",
+      "date_published": "2026-01-28T16:32:00.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46796745",
       "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
       "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",
