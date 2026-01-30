@@ -6,6 +6,198 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/daybreak-europe-warsh-fed-chair-nomination-prepped-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/daybreak-europe-warsh-fed-chair-nomination-prepped-podcast",
+      "title": "Daybreak Europe: Warsh Fed Chair Nomination Prepped (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T06:47:07.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/donald-trump-prepares-to-name-kevin-warsh-as-next-fed-chair",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/donald-trump-prepares-to-name-kevin-warsh-as-next-fed-chair",
+      "title": "Donald Trump Prepares to Name Kevin Warsh as Next Fed Chair",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T06:42:53.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/panama-court-rules-ck-hutchison-port-contract-unconstitutional",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/panama-court-rules-ck-hutchison-port-contract-unconstitutional",
+      "title": "Panama Strikes Down Hong Kong Tycoon Li's Port Deals, Rattling Investors",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T06:34:12.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/kevin-warsh-fed-chair-nomination-prepped-by-trump-team-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/kevin-warsh-fed-chair-nomination-prepped-by-trump-team-more",
+      "title": "Kevin Warsh Fed Chair Nomination Prepped by Trump Team, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T06:25:17.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/indonesia-to-make-exchange-a-public-entity-boost-credibility",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/indonesia-to-make-exchange-a-public-entity-boost-credibility",
+      "title": "Indonesia to Accelerate Market Reforms After MSCI Warning",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T06:02:05.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/czech-billionaire-doubles-his-fortune-after-europe-s-biggest-defense-ipo",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/czech-billionaire-doubles-his-fortune-after-europe-s-biggest-defense-ipo",
+      "title": "The Czech Superrich Just Got Richer",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T05:30:01.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/features/2026-01-30/sweden-s-powerful-wallenberg-family-is-readying-for-handover",
+      "url": "https://www.bloomberg.com/news/features/2026-01-30/sweden-s-powerful-wallenberg-family-is-readying-for-handover",
+      "title": "The Succession Drama About to Hit a $40 Billion Swedish Empire",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T05:00:30.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/xi-s-anti-corruption-blade-cuts-deeper-into-china-s-military",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/xi-s-anti-corruption-blade-cuts-deeper-into-china-s-military",
+      "title": "Xi’s Anti-Corruption Blade Cuts Deeper Into China’s Military",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T04:41:08.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/hong-kong-s-housing-market-rebounds-with-renewed-city-buzz",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/hong-kong-s-housing-market-rebounds-with-renewed-city-buzz",
+      "title": "Hong Kong’s Housing Market Rebounds With Renewed City Buzz",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T04:31:13.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/trump-admin-plans-for-warsh-fed-pick-spacex-potential-mergers",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/trump-admin-plans-for-warsh-fed-pick-spacex-potential-mergers",
+      "title": "Trump Admin. Plans for Warsh Fed Pick, SpaceX Potential Mergers",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T04:21:53.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-talks-zohran-mamdani-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-talks-zohran-mamdani-podcast",
+      "title": "Bloomberg Talks: Zohran Mamdani (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T04:17:36.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-law-landmark-social-media-addiction-trial-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-law-landmark-social-media-addiction-trial-podcast",
+      "title": "Bloomberg Law: Landmark Social Media Addiction Trial (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T03:44:33.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/trump-admin-prepares-warsh-for-fed-spacex-potential-merger",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/trump-admin-prepares-warsh-for-fed-spacex-potential-merger",
+      "title": "Trump Admin Prepares Warsh for Fed, SpaceX Potential Merger",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T03:40:51.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/trump-admin-prepares-warsh-for-fed-pick-apple-earnings-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/trump-admin-prepares-warsh-for-fed-pick-apple-earnings-more",
+      "title": "Trump Admin Prepares Warsh for Fed Pick, Apple Earnings, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T02:50:50.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/defense-stocks-in-spotlight-on-india-eu-trade-deal-labor-code-pangs-for-firms",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/defense-stocks-in-spotlight-on-india-eu-trade-deal-labor-code-pangs-for-firms",
+      "title": "India’s Defense Stocks Are Back in the Spotlight on EU Trade Pact",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T02:45:54.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-daybreak-asia-traders-weigh-big-tech-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-daybreak-asia-traders-weigh-big-tech-podcast",
+      "title": "Bloomberg Daybreak Asia: Traders Weigh Big Tech (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T02:18:16.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/fed-pick-watch-spacex-to-consider-mergers-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/fed-pick-watch-spacex-to-consider-mergers-more",
+      "title": "Fed Pick Watch, SpaceX to Consider Mergers, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T02:06:35.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/trump-to-announce-fed-pick-tomorrow-apple-earnings-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/trump-to-announce-fed-pick-tomorrow-apple-earnings-more",
+      "title": "Trump to Announce Fed Pick Tomorrow, Apple Earnings, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T01:13:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/-i-m-a-milk-carton-with-a-sell-by-date-key-takeaways-from-a-conversation-with-gavin-newsom",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/-i-m-a-milk-carton-with-a-sell-by-date-key-takeaways-from-a-conversation-with-gavin-newsom",
+      "title": "“I’m a Milk Carton With a Sell-by Date:” Key Takeaways From a Conversation With Gavin Newsom",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T01:06:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/apple-record-earnings-spacex-potential-merger-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/apple-record-earnings-spacex-potential-merger-more",
+      "title": "Apple Record Earnings, SpaceX Potential Merger, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T00:04:31.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/instant-reaction-apple-delivers-upbeat-forecast-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/instant-reaction-apple-delivers-upbeat-forecast-podcast",
+      "title": "Instant Reaction: Apple Delivers Upbeat Forecast (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T23:51:20.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-29/wall-street-returns-to-punish-microsoft-a-second-day-evening-briefing",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-29/wall-street-returns-to-punish-microsoft-a-second-day-evening-briefing",
+      "title": "Wall Street Returns to Punish Microsoft a Second Day",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T23:50:17.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-apple-microsoft-meta-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/stock-movers-apple-microsoft-meta-podcast",
+      "title": "Stock Movers: Apple, Microsoft, Meta (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T23:05:11.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-businessweek-daily-apple-earnings-crush-it-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-29/bloomberg-businessweek-daily-apple-earnings-crush-it-podcast",
+      "title": "Bloomberg Businessweek Daily: Apple Earnings Crush It (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-29T23:01:33.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-29/apple-beats-spacex-to-consider-merger-with-tesla-or-xai-more",
       "url": "https://www.bloomberg.com/news/audio/2026-01-29/apple-beats-spacex-to-consider-merger-with-tesla-or-xai-more",
       "title": "Apple Beats, SpaceX to Consider Merger with Tesla or xAI, More",

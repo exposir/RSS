@@ -6,6 +6,14 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/politics/article/3341764/former-inner-mongolia-party-chief-veterans-minister-investigated-corruption?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/politics/article/3341764/former-inner-mongolia-party-chief-veterans-minister-investigated-corruption?utm_source=rss_feed",
+      "title": "China’s former Inner Mongolia party chief, veterans minister investigated for corruption",
+      "content_html": "A former party chief of the resource-rich Inner Mongolia autonomous region, who was also China’s first veterans affairs minister, is under investigation amid the country’s continuing anti-corruption campaign.\nSun Shaocheng, 65, is being investigated by the Central Commission for Discipline Inspection for “suspected serious violations of discipline and law”, a euphemism for corruption, the top disciplinary body said on Thursday.\nSun serves as vice-chairman of the Social Development Affairs...",
+      "content_text": "A former party chief of the resource-rich Inner Mongolia autonomous region, who was also China’s first veterans affairs minister, is under investigation amid the country’s continuing anti-corruption campaign.\nSun Shaocheng, 65, is being investigated by the Central Commission for Discipline Inspection for “suspected serious violations of discipline and law”, a euphemism for corruption, the top disciplinary body said on Thursday.\nSun serves as vice-chairman of the Social Development Affairs...",
+      "date_published": "2026-01-30T06:00:12.000Z"
+    },
+    {
       "id": "https://www.scmp.com/business/markets/article/3341783/china-halts-trading-5-silver-and-oil-funds-limit-risk-amid-volatility?utm_source=rss_feed",
       "url": "https://www.scmp.com/business/markets/article/3341783/china-halts-trading-5-silver-and-oil-funds-limit-risk-amid-volatility?utm_source=rss_feed",
       "title": "China halts trading in 5 silver and oil funds to limit risk amid volatility",

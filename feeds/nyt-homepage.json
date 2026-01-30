@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/opinion/trump-peace-conflict-united-nations.html",
+      "url": "https://www.nytimes.com/2026/01/30/opinion/trump-peace-conflict-united-nations.html",
+      "title": "Trump’s Board of Peace Is Anything But",
+      "content_html": "America has conveniently forgotten that it once took the world to end conflicts.",
+      "content_text": "America has conveniently forgotten that it once took the world to end conflicts.",
+      "date_published": "2026-01-30T06:00:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/opinion/nuclear-treaty-deal-start.html",
+      "url": "https://www.nytimes.com/2026/01/30/opinion/nuclear-treaty-deal-start.html",
+      "title": "The End of Nuclear Arms Control",
+      "content_html": "Once the New START treaty ends, we will have returned to an era without limits, when arsenals can reach unconstrained heights.",
+      "content_text": "Once the New START treaty ends, we will have returned to an era without limits, when arsenals can reach unconstrained heights.",
+      "date_published": "2026-01-30T06:00:06.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
       "url": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
       "title": "Panama Court Strikes Down Hong Kong Firm’s Canal Contract",
@@ -28,6 +44,14 @@
       "content_html": "Spurred by government policies and the global A.I. boom, the market’s value has jumped by hundreds of billions of dollars. Individual investors have piled in.",
       "content_text": "Spurred by government policies and the global A.I. boom, the market’s value has jumped by hundreds of billions of dollars. Individual investors have piled in.",
       "date_published": "2026-01-30T05:01:04.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/democrats-dhs-spending.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/democrats-dhs-spending.html",
+      "title": "Democrats Reach Spending Deal With Trump, Seeking to Rein In ICE",
+      "content_html": "Democrats and the White House agreed to fund the Department of Homeland Security for two weeks while they negotiate restrictions on an immigration crackdown. Senators said they hoped to vote on the deal on Friday.",
+      "content_text": "Democrats and the White House agreed to fund the Department of Homeland Security for two weeks while they negotiate restrictions on an immigration crackdown. Senators said they hoped to vote on the deal on Friday.",
+      "date_published": "2026-01-30T04:30:56.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/arts/melania-movie-trump-kennedy-center.html",

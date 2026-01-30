@@ -6,6 +6,102 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "d08411db-fdf3-4da5-9bd1-3475d9df068f",
+      "url": "https://www.smh.com.au/politics/federal/albanese-ends-hospital-stalemate-with-25b-deal-to-move-kids-off-ndis-20260130-p5ny8k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Albanese ends hospital stalemate with $25b deal to move kids off NDIS",
+      "content_html": "The deal ends a long-running stalemate between the federal and state governments.",
+      "content_text": "The deal ends a long-running stalemate between the federal and state governments.",
+      "date_published": "2026-01-30T06:44:21.000Z"
+    },
+    {
+      "id": "4fecbe15-a4be-400a-bb39-d60f66871ed2",
+      "url": "https://www.smh.com.au/sport/tennis/zverev-blows-up-at-medical-timeout-20260130-p5nyed.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Zverev blows up at medical timeout",
+      "content_html": "Alexander Zverev fumes as Carlos Alcaraz is given a medical timeout for cramp.",
+      "content_text": "Alexander Zverev fumes as Carlos Alcaraz is given a medical timeout for cramp.",
+      "date_published": "2026-01-30T06:43:50.000Z"
+    },
+    {
+      "id": "66f1afdb-ab66-455b-970d-08d0c09705dc",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-cramps-in-sloppy-point-20260130-p5nyeb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz cramps in 'sloppy' point",
+      "content_html": "Carlos Alcaraz struggles with cramp in his semi-final.",
+      "content_text": "Carlos Alcaraz struggles with cramp in his semi-final.",
+      "date_published": "2026-01-30T06:38:36.000Z"
+    },
+    {
+      "id": "188c959e-74ec-4202-a1c0-3a819057857e",
+      "url": "https://www.smh.com.au/national/university-life-may-be-rosier-than-we-think-20260130-p5ny9i.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "University life may be rosier than we think",
+      "content_html": "A new federal government report found Australian universities are in better health than many expected.",
+      "content_text": "A new federal government report found Australian universities are in better health than many expected.",
+      "date_published": "2026-01-30T06:30:33.000Z"
+    },
+    {
+      "id": "1f4d0a46-0213-4f2c-80b1-c959cb246dbd",
+      "url": "https://www.smh.com.au/business/companies/asx-runners-of-the-week-apollo-terra-metals-and-nagambie-20260130-p5nye7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "ASX Runners of the Week: Apollo, Terra Metals & Nagambie",
+      "content_html": "The Bulls N’ Bears ASX Runner of the Week is… Apollo Minerals, which dusted off the historic high-grade Salau tungsten mine in France with a fresh five-year permit.",
+      "content_text": "The Bulls N’ Bears ASX Runner of the Week is… Apollo Minerals, which dusted off the historic high-grade Salau tungsten mine in France with a fresh five-year permit.",
+      "date_published": "2026-01-30T06:27:10.000Z"
+    },
+    {
+      "id": "c2362fe4-1618-41ab-8e7c-4bc10c67d830",
+      "url": "https://www.smh.com.au/business/companies/kaiser-boosts-coffers-to-43-1m-on-strong-henty-gold-production-20260130-p5nye3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Kaiser boosts coffers to $43.1M on strong Henty gold production",
+      "content_html": "Kaiser Reef has delivered a solid December quarter lifting its cash position by $13.7 million to $43.1 million, while posting solid gold production from its Henty gold mine.",
+      "content_text": "Kaiser Reef has delivered a solid December quarter lifting its cash position by $13.7 million to $43.1 million, while posting solid gold production from its Henty gold mine.",
+      "date_published": "2026-01-30T06:23:01.000Z"
+    },
+    {
+      "id": "9eb46fa7-51f3-479d-ab38-56968f90d8c1",
+      "url": "https://www.smh.com.au/goodfood/recipes/how-to-make-the-perfect-chewy-choc-cookies-with-a-brown-butter-twist-20251205-p5nlbu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How to make the perfect chewy choc cookies (with a brown butter twist)",
+      "content_html": "This recipe from Mike Russell of Baker Bleu takes the best parts of a chocolate chip cookie and adds a few grown-up spins on it too.",
+      "content_text": "This recipe from Mike Russell of Baker Bleu takes the best parts of a chocolate chip cookie and adds a few grown-up spins on it too.",
+      "date_published": "2026-01-30T06:18:44.000Z"
+    },
+    {
+      "id": "d394ae09-4848-4665-b135-aab417484c74",
+      "url": "https://www.smh.com.au/business/the-economy/trump-is-driving-america-into-a-new-dark-age-20260126-p5nwwy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Trump is driving America into a new dark age",
+      "content_html": "For all the US president’s bombast and grandstanding, things are not as they should be.",
+      "content_text": "For all the US president’s bombast and grandstanding, things are not as they should be.",
+      "date_published": "2026-01-30T06:10:00.000Z"
+    },
+    {
+      "id": "bffec77d-07db-473a-ba0f-b548bf067acc",
+      "url": "https://www.smh.com.au/sport/racing/bott-sees-big-improver-and-redemption-runs-amid-mixed-slipper-fortunes-20260130-p5nya4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Bott sees big improver and redemption runs amid mixed Slipper fortunes",
+      "content_html": "Adrian Bott and Gai Waterhouse lost two of their big chances to win another Golden Slipper, but they hope two other prospects can push their claims on Saturday.",
+      "content_text": "Adrian Bott and Gai Waterhouse lost two of their big chances to win another Golden Slipper, but they hope two other prospects can push their claims on Saturday.",
+      "date_published": "2026-01-30T06:00:00.000Z"
+    },
+    {
+      "id": "b7393bde-3327-43c2-a2b3-21bcb1542174",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-stuns-with-second-set-comeback-20260130-p5nye2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz stuns with second-set comeback",
+      "content_html": "Carlos Alcaraz comes from 5-2 down in the second set to win the tie-break and take a two-sets-to-love lead.",
+      "content_text": "Carlos Alcaraz comes from 5-2 down in the second set to win the tie-break and take a two-sets-to-love lead.",
+      "date_published": "2026-01-30T05:58:26.000Z"
+    },
+    {
+      "id": "112c3bac-49c0-4dfe-9078-637f33fd8983",
+      "url": "https://www.smh.com.au/sport/how-skiing-great-camplin-warner-was-unearthed-20260130-p5nye0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How skiing great Camplin-Warner was unearthed",
+      "content_html": "Alisa Camplin-Warner reflects on her early days as an aerial skier, including her Crocodile Dundee-like training.",
+      "content_text": "Alisa Camplin-Warner reflects on her early days as an aerial skier, including her Crocodile Dundee-like training.",
+      "date_published": "2026-01-30T05:53:44.000Z"
+    },
+    {
+      "id": "f424a212-6d4f-4c42-b291-381e3f2be340",
+      "url": "https://www.smh.com.au/sport/tennis/zverev-edges-alcaraz-in-exhausting-rally-20260130-p5nydw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Zverev edges Alcaraz in exhausting rally",
+      "content_html": "Alexander Zverev gets the better of Carlos Alcaraz in a 17-point rally that leaves both players exhausted.",
+      "content_text": "Alexander Zverev gets the better of Carlos Alcaraz in a 17-point rally that leaves both players exhausted.",
+      "date_published": "2026-01-30T05:43:26.000Z"
+    },
+    {
       "id": "83e14615-657c-469a-8259-680e8c4782e2",
       "url": "https://www.smh.com.au/business/companies/venus-taps-csiro-tech-to-unearth-hidden-wa-gold-targets-20260130-p5nydi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Venus taps CSIRO tech to unearth hidden WA gold targets",

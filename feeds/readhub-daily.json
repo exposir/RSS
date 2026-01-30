@@ -3,8 +3,16 @@
   "title": "Readhub - 每日早报",
   "home_page_url": "https://api.readhub.cn/daily",
   "feed_url": "https://exposir.github.io/RSS/feeds/readhub-daily.json",
-  "description": "1. 字节、阿里将于 2 月推出新 AI 模型 2. DeepSeek 正招兵买马，布局 AI 搜索与智能体领域 3. 阿里正考虑将未来三年投入到 AI 基建与云计算上的 3800 亿元提升至 4800 亿 4. 字节已于 2025 年底开启豆包手机助手正式版项目，新机预计 2026 年 Q2 中晚期发布 5. 贵州茅台回应出资参与 SpaceX 上市 A 轮融资：不实信息 6. 特斯拉将停产 Model S 和 X，将生产线转至制造人形机器人 Optimus 7. 阿里自研 AI 芯片「通云哥」亮相 性能比肩英伟达 H20 8. 苹果以接近 20 亿美元的估值收购以色列初创公司 Q.AI 9. SpaceX 正与 xAI 就合并事宜进行谈判 10. 英伟达、微软、亚马逊正洽谈向 OpenAI 投资至多 600 亿美元 11. 消息称理想调整研发架构，智驾部门将被重组 12. 特斯拉 CEO 马斯克：人形机器人领域最大竞争对手将来自中国 13. 苹果推出 Creator Studio 服务 每月 38 元 - Powered by RSSHub",
+  "description": "1. 字节、阿里将于 2 月推出新 AI 模型 2. DeepSeek 正招兵买马，布局 AI 搜索与智能体领域 3. 阿里正考虑将未来三年投入到 AI 基建与云计算上的 3800 亿元提升至 4800 亿 4. 字节已于 2025 年底开启豆包手机助手正式版项目，新机预计 2026 年 Q2 中晚期发布 5. 贵州茅台回应出资参与 SpaceX 上市 A 轮融资：不实信息 6. 特斯拉将停产 Model S 和 X，将生产线转至制造人形机器人 Optimus 7. 阿里自研 AI 芯片「通云哥」亮相 性能比肩英伟达 H20 8. 苹果以接近 20 亿美元的估值收购以色列初创公司 Q.AI 9. SpaceX 正考虑与特斯拉或 xAI 合并 10. 英伟达、微软、亚马逊正洽谈向 OpenAI 投资至多 600 亿美元 11. 消息称理想调整研发架构，智驾部门将被重组 12. 特斯拉 CEO 马斯克：人形机器人领域最大竞争对手将来自中国 13. 苹果推出 Creator Studio 服务 每月 38 元 - Powered by RSSHub",
   "items": [
+    {
+      "id": "readhub-8qKOJf0GnyE",
+      "url": "https://readhub.cn/topic/8qKOJf0GnyE",
+      "title": "SpaceX 正考虑与特斯拉或 xAI 合并",
+      "content_html": "<p>SpaceX 正考虑与特斯拉潜在合并，也在评估与 xAI 的整合方案，相关交易或吸引基础设施基金和中东主权投资者兴趣，可能需大规模融资，目前尚未做最终决定。</p>",
+      "content_text": "SpaceX 正考虑与特斯拉潜在合并，也在评估与 xAI 的整合方案，相关交易或吸引基础设施基金和中东主权投资者兴趣，可能需大规模融资，目前尚未做最终决定。",
+      "date_published": "2026-01-30T06:52:58.579Z"
+    },
     {
       "id": "readhub-8qIjQmwboyj",
       "url": "https://readhub.cn/topic/8qIjQmwboyj",

@@ -6,6 +6,38 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c394ymdpjwvo#0",
+      "url": "https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says 'it would be great' if US 'didn't have to use' military force on Iran",
+      "content_html": "The US president says he has told Iran it has to do \"two things\" to avoid military action, as the US builds up its forces in the Gulf.",
+      "content_text": "The US president says he has told Iran it has to do \"two things\" to avoid military action, as the US builds up its forces in the Gulf.",
+      "date_published": "2026-01-30T06:12:01.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c2lg7kkqe11o#7",
+      "url": "https://www.bbc.com/sport/football/articles/c2lg7kkqe11o?at_medium=RSS&at_campaign=rss",
+      "title": "Cages, crushes and stabbings - is European away safety getting worse?",
+      "content_html": "BBC Sport explores the safety issues fans face when following their team across Europe.",
+      "content_text": "BBC Sport explores the safety issues fans face when following their team across Europe.",
+      "date_published": "2026-01-30T06:07:36.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c93v21q5xdvo#0",
+      "url": "https://www.bbc.com/news/articles/c93v21q5xdvo?at_medium=RSS&at_campaign=rss",
+      "title": "Secret warehouse guards lost world of treasures found on HS2 route",
+      "content_html": "Archaeological finds from the planned HS2 train line have been shown exclusively to the BBC.",
+      "content_text": "Archaeological finds from the planned HS2 train line have been shown exclusively to the BBC.",
+      "date_published": "2026-01-30T06:00:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy7m3ezr80yo#0",
+      "url": "https://www.bbc.com/news/articles/cy7m3ezr80yo?at_medium=RSS&at_campaign=rss",
+      "title": "Arrests made over supersized illegal rubbish dump",
+      "content_html": "The Environment Agency says the arrests are a \"vital step\" into the Kidlington dump investigation.",
+      "content_text": "The Environment Agency says the arrests are a \"vital step\" into the Kidlington dump investigation.",
+      "date_published": "2026-01-30T06:00:14.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c0keyyeyr41o#0",
       "url": "https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss",
       "title": "Trump says 'very dangerous' for UK to deal with China",
@@ -126,6 +158,14 @@
       "date_published": "2026-01-29T23:52:11.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cvg1l8zgglpo#3",
+      "url": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
+      "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
+      "content_html": "Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill",
+      "content_text": "Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill",
+      "date_published": "2026-01-29T23:47:30.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c24gg91z69eo#0",
       "url": "https://www.bbc.com/news/articles/c24gg91z69eo?at_medium=RSS&at_campaign=rss",
       "title": "A legal blunder allowed the man who abused us at school to escape justice – until now",
@@ -180,6 +220,14 @@
       "content_html": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
       "content_text": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
       "date_published": "2026-01-29T22:04:34.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4g4yj92kwro#3",
+      "url": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Putin will not attack Ukraine cities during cold week",
+      "content_html": "Russia has not confirmed it agreed to Trump's request, but Ukraine's president said he expected Vladimir Putin's promise to be kept.",
+      "content_text": "Russia has not confirmed it agreed to Trump's request, but Ukraine's president said he expected Vladimir Putin's promise to be kept.",
+      "date_published": "2026-01-29T21:21:35.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c4g4yj92kwro#0",
