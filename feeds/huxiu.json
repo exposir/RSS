@@ -6,6 +6,14 @@
   "description": "虎嗅网RSS订阅",
   "items": [
     {
+      "id": "http://www.huxiu.com/article/4830702.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4830702.html?f=wangzhan",
+      "title": "索尼电视遭分拆，日本彩电巨头为何全军覆没？",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/29/133312327204.jpg\"/>\n<p data-check-id=\"468677\">TCL宣布与索尼合资，接管索尼全球家庭娱乐业务，未来新公司将由TCL控股，全面负责开发、制造和销售。曾经称霸高端市场、以画质闻名的索尼，如今也难逃行业巨变了吗？</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "TCL宣布与索尼合资，接管索尼全球家庭娱乐业务，未来新公司将由TCL控股，全面负责开发、制造和销售。曾经称霸高端市场、以画质闻名的索尼，如今也难逃行业巨变了吗？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-30T03:06:04.000Z"
+    },
+    {
       "id": "http://www.huxiu.com/article/4830840.html?f=wangzhan",
       "url": "http://www.huxiu.com/article/4830840.html?f=wangzhan",
       "title": "特斯拉的销量已经不重要了",

@@ -6,6 +6,46 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/arts/melania-movie-trump-kennedy-center.html",
+      "url": "https://www.nytimes.com/2026/01/29/arts/melania-movie-trump-kennedy-center.html",
+      "title": "Trump and First Lady Attend Premiere of ‘Melania’ at Kennedy Center",
+      "content_html": "Amazon paid Melania Trump’s production company $40 million for the movie and then paid another $35 million to promote it.",
+      "content_text": "Amazon paid Melania Trump’s production company $40 million for the movie and then paid another $35 million to promote it.",
+      "date_published": "2026-01-30T04:00:58.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/trump-irs-lawsuit.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/trump-irs-lawsuit.html",
+      "title": "Trump Sues I.R.S. Over Tax Data Leak, Demanding $10 Billion",
+      "content_html": "The president charged that the I.R.S. and the Treasury Department had failed to prevent a former I.R.S. contractor from gaining access to documents shared with news outlets.",
+      "content_text": "The president charged that the I.R.S. and the Treasury Department had failed to prevent a former I.R.S. contractor from gaining access to documents shared with news outlets.",
+      "date_published": "2026-01-30T03:39:33.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/trump-iran-israel-intel.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/trump-iran-israel-intel.html",
+      "title": "War Threats and Ambiguous Evidence: Trump Again Confronts Iran",
+      "content_html": "There is little sign that Iran has made significant progress in reconstituting its nuclear program, leaving questions about the timing and motive behind potential plans for further attacks.",
+      "content_text": "There is little sign that Iran has made significant progress in reconstituting its nuclear program, leaving questions about the timing and motive behind potential plans for further attacks.",
+      "date_published": "2026-01-30T03:21:25.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/asia/xi-zhang-military-purge-taiwan.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/asia/xi-zhang-military-purge-taiwan.html",
+      "title": "Xi’s Military Purge May Set Back His Taiwan Ambitions",
+      "content_html": "By ousting his top generals, Xi Jinping has secured absolute control, but has also hollowed out the command structure preparing for possible war over Taiwan.",
+      "content_text": "By ousting his top generals, Xi Jinping has secured absolute control, but has also hollowed out the command structure preparing for possible war over Taiwan.",
+      "date_published": "2026-01-30T03:14:27.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/newsom-oz-fraud-armenians.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/newsom-oz-fraud-armenians.html",
+      "title": "Newsom Files Civil Rights Complaint Against Dr. Oz Over Fraud Video",
+      "content_html": "Dr. Mehmet Oz, a top federal health official, posted a video that accuses Armenian Americans in California of health care fraud.",
+      "content_text": "Dr. Mehmet Oz, a top federal health official, posted a video that accuses Armenian Americans in California of health care fraud.",
+      "date_published": "2026-01-30T02:12:07.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/live/2026/01/29/us/trump-news#section-941664149",
       "url": "https://www.nytimes.com/live/2026/01/29/us/trump-news#section-941664149",
       "title": "‘Melania,’ the Documentary, Premieres in Washington",
@@ -20,6 +60,14 @@
       "content_html": "President Trump has not authorized military action in Iran, but the U.S. has built up its presence in the region in recent days.",
       "content_text": "President Trump has not authorized military action in Iran, but the U.S. has built up its presence in the region in recent days.",
       "date_published": "2026-01-30T01:28:13.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/trump-nicki-minaj-visa.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/trump-nicki-minaj-visa.html",
+      "title": "Did Trump Really Give Nicki Minaj a $1 Million ‘Gold Card’ Visa?",
+      "content_html": "“Gold Trump card free of charge,” the rapper wrote on social media. But the White House says it’s not what it seems.",
+      "content_text": "“Gold Trump card free of charge,” the rapper wrote on social media. But the White House says it’s not what it seems.",
+      "date_published": "2026-01-30T01:13:00.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html",
@@ -132,6 +180,14 @@
       "content_html": "The Trump administration has recently escalated its efforts to prove widespread voter fraud in 2020. Election officials and top Republicans have repeatedly said these claims are baseless.",
       "content_text": "The Trump administration has recently escalated its efforts to prove widespread voter fraud in 2020. Election officials and top Republicans have repeatedly said these claims are baseless.",
       "date_published": "2026-01-29T22:20:29.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/world/europe/nato-military-exercise-spain-germany.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/europe/nato-military-exercise-spain-germany.html",
+      "title": "NATO to Hold Military Exercise Without U.S., Its Largest Member",
+      "content_html": "The operation, Steadfast Dart, comes as President Trump has been accused of undermining the alliance and will be watched closely to see how well the allies manage without their most important partner.",
+      "content_text": "The operation, Steadfast Dart, comes as President Trump has been accused of undermining the alliance and will be watched closely to see how well the allies manage without their most important partner.",
+      "date_published": "2026-01-29T21:54:01.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/nyregion/chabad-brooklyn-car-ramming.html",

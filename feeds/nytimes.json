@@ -6,6 +6,14 @@
   "description": "纽约时报中文网 国际纵览",
   "items": [
     {
+      "id": "https://cn.nytimes.com/business/20260130/ai-secrets-stolen-google-china/",
+      "url": "https://cn.nytimes.com/business/20260130/ai-secrets-stolen-google-china/?utm_source=RSS",
+      "title": "为中国创业项目窃取AI技术，前谷歌工程师被定罪",
+      "content_html": "丁林葳被裁定犯有七项盗窃商业秘密罪和七项经济间谍罪。检方称他从谷歌内部窃取了大量机密资料，随后为一个中国AI创业项目寻求融资，并申请上海的政府人才计划。<p><img src='https://static01.nyt.com/images/2026/01/29/multimedia/29biz-GOOGLE-CHINA-fhmv/29biz-GOOGLE-CHINA-fhmv-articleLarge.jpg' alt='随着技术主导权争夺日趋激烈，近年来针对在美中国公民的类似案件已出现多起。 Kelsey McClellan for The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Kelsey McClellan for The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>随着技术主导权争夺日趋激烈，近年来针对在美中国公民的类似案件已出现多起。</p>",
+      "content_text": "丁林葳被裁定犯有七项盗窃商业秘密罪和七项经济间谍罪。检方称他从谷歌内部窃取了大量机密资料，随后为一个中国AI创业项目寻求融资，并申请上海的政府人才计划。                    Kelsey McClellan for The New York Times                    随着技术主导权争夺日趋激烈，近年来针对在美中国公民的类似案件已出现多起。",
+      "date_published": "2026-01-30T02:25:25.000Z"
+    },
+    {
       "id": "https://cn.nytimes.com/world/20260130/china-starmer-xi-jinping/",
       "url": "https://cn.nytimes.com/world/20260130/china-starmer-xi-jinping/?utm_source=RSS",
       "title": "斯塔默与习近平会晤，中英关系为何“破冰”？",

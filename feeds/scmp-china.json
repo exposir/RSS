@@ -6,6 +6,22 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/science/article/3341700/robot-aided-surgery-it-doesnt-matter-where-you-are-chinese-military-study-finds?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/science/article/3341700/robot-aided-surgery-it-doesnt-matter-where-you-are-chinese-military-study-finds?utm_source=rss_feed",
+      "title": "In robot-aided surgery, it doesn’t matter where you are, Chinese military study finds",
+      "content_html": "Remote surgery conducted over thousands of kilometres can be just as reliable as robot-assisted operations done by a medical team in the same room as the patient, according to a new study led by Chinese military researchers and carried out in five cities.\nThe researchers said telesurgery could be a “feasible” way to overcome the lack of medical services in parts of the country as well as the growing demand for operations to treat cancer.\n“As the first randomised controlled trial in the field of...",
+      "content_text": "Remote surgery conducted over thousands of kilometres can be just as reliable as robot-assisted operations done by a medical team in the same room as the patient, according to a new study led by Chinese military researchers and carried out in five cities.\nThe researchers said telesurgery could be a “feasible” way to overcome the lack of medical services in parts of the country as well as the growing demand for operations to treat cancer.\n“As the first randomised controlled trial in the field of...",
+      "date_published": "2026-01-30T04:00:12.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3341760/how-changing-tastes-china-are-hitting-australias-wine-exports?utm_source=rss_feed",
+      "url": "https://www.scmp.com/economy/china-economy/article/3341760/how-changing-tastes-china-are-hitting-australias-wine-exports?utm_source=rss_feed",
+      "title": "How changing tastes in China are hitting Australia’s wine exports",
+      "content_html": "Subdued Chinese demand was a key contributor to a decline in Australia’s wine exports last year, according to the Australian government agency that promotes the industry.\nWith consumer sentiment and evolving tastes reshaping the Chinese market, shipments to mainland China fell 17 per cent year on year to A$755 million (US$532.10 million) – the biggest single factor in an 8 per cent fall in Australia’s total wine exports last year – Wine Australia said in a report released on Wednesday.\nThe weak...",
+      "content_text": "Subdued Chinese demand was a key contributor to a decline in Australia’s wine exports last year, according to the Australian government agency that promotes the industry.\nWith consumer sentiment and evolving tastes reshaping the Chinese market, shipments to mainland China fell 17 per cent year on year to A$755 million (US$532.10 million) – the biggest single factor in an 8 per cent fall in Australia’s total wine exports last year – Wine Australia said in a report released on Wednesday.\nThe weak...",
+      "date_published": "2026-01-30T03:17:00.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/science/article/3341719/chipmaking-expert-xu-zhenpeng-leaves-openai-funded-start-shanghai-role?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/science/article/3341719/chipmaking-expert-xu-zhenpeng-leaves-openai-funded-start-shanghai-role?utm_source=rss_feed",
       "title": "Chipmaking expert Xu Zhenpeng leaves OpenAI-funded start-up for Shanghai role",

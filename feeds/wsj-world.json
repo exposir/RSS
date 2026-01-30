@@ -6,6 +6,22 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003282193",
+      "url": "https://www.wsj.com/world/ukraine-young-soldiers-russia-war-e7c28620",
+      "title": "Ukraine Can No Longer Spare Its Youngest Soldiers From the Front Lines",
+      "content_html": "A shortage of soldiers is Ukraine&#x2019;s most serious challenge as it enters another year of war with Russia.",
+      "content_text": "A shortage of soldiers is Ukraine&#x2019;s most serious challenge as it enters another year of war with Russia.",
+      "date_published": "2026-01-30T04:00:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003257418",
+      "url": "https://www.wsj.com/business/logistics/panamas-high-court-rules-against-hong-kong-firm-running-canal-ports-714c23c8",
+      "title": "Panama&#x2019;s High Court Rules Against Hong Kong Firm Running Canal Ports",
+      "content_html": "Supreme Court rules that terms granted to CK Hutchison to run two ports on the Panama Canal breach the constitution, dealing a blow to China&#x2019;s influence in the region.",
+      "content_text": "Supreme Court rules that terms granted to CK Hutchison to run two ports on the Panama Canal breach the constitution, dealing a blow to China&#x2019;s influence in the region.",
+      "date_published": "2026-01-30T03:57:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003295572",
       "url": "https://www.wsj.com/world/americas/cuba-is-losing-a-key-oil-supplier-as-u-s-presses-mexico-to-pull-back-a9f822ed",
       "title": "Cuba Is Losing a Key Oil Supplier as U.S. Presses Mexico to Pull Back",

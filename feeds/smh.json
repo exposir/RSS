@@ -6,6 +6,134 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "0aa3921c-8a91-4f66-a1f1-1637edae8835",
+      "url": "https://www.smh.com.au/culture/theatre/rare-thrilling-scary-the-theatre-event-we-ve-waited-40-years-to-see-20260127-p5nxdi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rare, thrilling, scary: the theatre event we’ve waited 40 years to see",
+      "content_html": "Most of us know Ray Lawler’s Summer of the Seventeenth Doll, but the full story hasn’t been seen since 1985.",
+      "content_text": "Most of us know Ray Lawler’s Summer of the Seventeenth Doll, but the full story hasn’t been seen since 1985.",
+      "date_published": "2026-01-30T04:15:33.000Z"
+    },
+    {
+      "id": "d8295463-3f61-4280-a180-60687510ee80",
+      "url": "https://www.smh.com.au/politics/federal/chalmers-puts-tax-reform-at-top-of-budget-plans-20260130-p5nybp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Chalmers puts tax reform at top of budget plans",
+      "content_html": "Treasurer Jim Chalmers, facing pressure to reduce inflation and improve living standards, says intergenerational unfairness is driving anger around the world.",
+      "content_text": "Treasurer Jim Chalmers, facing pressure to reduce inflation and improve living standards, says intergenerational unfairness is driving anger around the world.",
+      "date_published": "2026-01-30T04:12:01.000Z"
+    },
+    {
+      "id": "d49d9183-58db-4ef3-b801-c329dc01922f",
+      "url": "https://www.smh.com.au/culture/music/how-russian-brainrot-became-the-sigma-boy-catchcry-for-children-across-the-world-20260128-p5nxl8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How Russian brainrot became the ‘Sigma Boy’ catchcry for children across the world",
+      "content_html": "Academics are puzzled, but Sigma Boy has spread faster than nits.",
+      "content_text": "Academics are puzzled, but Sigma Boy has spread faster than nits.",
+      "date_published": "2026-01-30T04:00:00.000Z"
+    },
+    {
+      "id": "cb0c6bf0-fe2b-4a18-86da-0613365336b2",
+      "url": "https://www.smh.com.au/national/western-australia/four-dead-in-suspected-murder-suicide-in-perth-s-western-suburbs-20260130-p5nycq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Four dead in suspected murder-suicide in Perth’s western suburbs",
+      "content_html": "Officers were called to the scene just after 8am on Friday, arriving to find a 50-year-old man, a 49-year-old woman and two boys aged 14 and 16 dead.",
+      "content_text": "Officers were called to the scene just after 8am on Friday, arriving to find a 50-year-old man, a 49-year-old woman and two boys aged 14 and 16 dead.",
+      "date_published": "2026-01-30T03:50:58.000Z"
+    },
+    {
+      "id": "3741cc3b-d336-4a38-b9bc-ff7f70142812",
+      "url": "https://www.smh.com.au/sport/rugby-union/jorgensen-said-nrl-was-never-an-option-after-historic-rugby-deal-confirmed-20260129-p5ny4i.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Jorgensen says NRL was never an option after historic rugby deal confirmed",
+      "content_html": "In-demand Wallabies youngster Max Jorgensen said it was “special” to be offered a five-year deal to stay in Australian rugby.",
+      "content_text": "In-demand Wallabies youngster Max Jorgensen said it was “special” to be offered a five-year deal to stay in Australian rugby.",
+      "date_published": "2026-01-30T03:50:16.000Z"
+    },
+    {
+      "id": "79968312-f139-499e-a2b3-6986919696a5",
+      "url": "https://www.smh.com.au/business/companies/barkly-makes-asx-debut-with-fresh-australian-rare-earths-play-20260130-p5nycf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Barkly makes ASX debut with fresh Australian rare earths play",
+      "content_html": "Barkly Rare Earths debuted on the ASX today, up 50% in early trade following a fresh $8 million raising to fund its namesake rare earths project in the NT’s Tennant Creek region.",
+      "content_text": "Barkly Rare Earths debuted on the ASX today, up 50% in early trade following a fresh $8 million raising to fund its namesake rare earths project in the NT’s Tennant Creek region.",
+      "date_published": "2026-01-30T03:37:08.000Z"
+    },
+    {
+      "id": "ac0426fc-e7e1-4940-95e8-a0f9634c90b1",
+      "url": "https://www.smh.com.au/sport/tennis/is-it-true-mladenovic-puts-tiley-on-spot-20260130-p5nycc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "'Is it true?' Mladenovic puts Tiley on spot",
+      "content_html": "Kristina Mladenovic puts Craig Tiley on the spot after the mixed doubles final.",
+      "content_text": "Kristina Mladenovic puts Craig Tiley on the spot after the mixed doubles final.",
+      "date_published": "2026-01-30T03:14:16.000Z"
+    },
+    {
+      "id": "223619c2-5747-48ac-8aaa-f4431ca6242e",
+      "url": "https://www.smh.com.au/politics/victoria/inside-the-mission-to-fix-victoria-s-commute-times-20260130-p5nya9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Inside the mission to fix Victoria’s commute times",
+      "content_html": "Public transport users are set to have access to 1200 new trips a week from Monday, as part of what’s being labelled “the Big Switch”.",
+      "content_text": "Public transport users are set to have access to 1200 new trips a week from Monday, as part of what’s being labelled “the Big Switch”.",
+      "date_published": "2026-01-30T03:12:58.000Z"
+    },
+    {
+      "id": "089f6aba-f506-43bb-a0e9-2491c3d7a05f",
+      "url": "https://www.smh.com.au/traveller/inspiration/luxury-bucket-list-20230314-p5crz2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Luxury bucket list",
+      "content_html": "If the idea of spectacular surroundings, superior service, and a one-of-a-kind experience appeals, then give one of these boundary-pushing experiences a try.",
+      "content_text": "If the idea of spectacular surroundings, superior service, and a one-of-a-kind experience appeals, then give one of these boundary-pushing experiences a try.",
+      "date_published": "2026-01-30T03:09:18.000Z"
+    },
+    {
+      "id": "45c1d671-d96b-421e-8192-4d756ebf58f0",
+      "url": "https://www.smh.com.au/national/troy-selwood-s-final-wish-was-to-donate-his-brain-for-concussion-research-20260130-p5nyaj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Troy Selwood’s final wish was to donate his brain for concussion research",
+      "content_html": "The former AFL star wrote in his will that he wanted to help those studying the long-term effects of head knocks.",
+      "content_text": "The former AFL star wrote in his will that he wanted to help those studying the long-term effects of head knocks.",
+      "date_published": "2026-01-30T03:01:18.000Z"
+    },
+    {
+      "id": "98871b80-d551-4f4b-af36-c42094f2867b",
+      "url": "https://www.smh.com.au/national/western-australia/wa-racetrack-closed-pending-investigation-after-greyhound-injuries-20260130-p5nyav.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "WA racetrack closed pending investigation after greyhound injuries",
+      "content_html": "A West Australian racetrack has been closed pending an internal investigation after two greyhounds were euthanised and several more were injured during a meet on Wednesday.",
+      "content_text": "A West Australian racetrack has been closed pending an internal investigation after two greyhounds were euthanised and several more were injured during a meet on Wednesday.",
+      "date_published": "2026-01-30T02:51:43.000Z"
+    },
+    {
+      "id": "36612360-626c-4371-9ffe-753e1d8edf0a",
+      "url": "https://www.smh.com.au/national/virginia-giuffre-charged-with-breaching-violence-restraining-order-20250403-p5loty.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Virginia Giuffre charged with breaching violence restraining order",
+      "content_html": "Virginia Giuffre is facing a fresh court battle, charged with breaching a violence restraining order in Ocean Reef in February.",
+      "content_text": "Virginia Giuffre is facing a fresh court battle, charged with breaching a violence restraining order in Ocean Reef in February.",
+      "date_published": "2026-01-30T02:48:44.000Z"
+    },
+    {
+      "id": "d22d9ab7-2530-4888-8a36-849d740c2e4d",
+      "url": "https://www.smh.com.au/lifestyle/family-of-prince-andrews-main-accuser-virginia-giuffre-issues-statement-20251031-p5n6pt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Family of Prince Andrew's main accuser Virginia Giuffre issues statement",
+      "content_html": "The family of Prince Andrew's main accuser Virginia Giuffre issuing a statement following the announcement that King Charles will strip Prince Andrew of his titles.",
+      "content_text": "The family of Prince Andrew's main accuser Virginia Giuffre issuing a statement following the announcement that King Charles will strip Prince Andrew of his titles.",
+      "date_published": "2026-01-30T02:45:40.000Z"
+    },
+    {
+      "id": "a7efb920-624b-4e2d-81cd-62020abe2c78",
+      "url": "https://www.smh.com.au/sport/tennis/sabalenka-vs-rybakina-in-blockbuster-final-20260130-p5nybw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sabalenka vs Rybakina in 'blockbuster' final",
+      "content_html": "Sam Smith previews Aryna Sabalenka vs Elena Rybakina in a \"blockbuster\" Australian Open final",
+      "content_text": "Sam Smith previews Aryna Sabalenka vs Elena Rybakina in a \"blockbuster\" Australian Open final",
+      "date_published": "2026-01-30T02:38:34.000Z"
+    },
+    {
+      "id": "94c18451-6756-4f91-afb6-d7ffd0b1b0c1",
+      "url": "https://www.smh.com.au/sport/three-olympics-four-surgeries-and-one-superstition-moguls-matt-takes-bumpy-road-to-milan-games-20251231-p5nqxf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Three Olympics, four surgeries and one superstition: ‘Moguls Matt’ takes bumpy road to Milan Games",
+      "content_html": "Moguls skier Matt Graham says the 2026 Olympics in Milano Cortina are likely to be his last.",
+      "content_text": "Moguls skier Matt Graham says the 2026 Olympics in Milano Cortina are likely to be his last.",
+      "date_published": "2026-01-30T02:36:49.000Z"
+    },
+    {
+      "id": "fe4877d4-2fda-4f54-97cc-45d54d568e7d",
+      "url": "https://www.smh.com.au/culture/books/devastatingly-brilliant-the-irresistible-power-of-knausgaard-s-new-novel-20260123-p5nwj9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Devastatingly brilliant’: The irresistible power of Knausgaard’s new novel",
+      "content_html": "The School of Night is a haunting, meticulous masterpiece that confirms the writer status as a major literary force.",
+      "content_text": "The School of Night is a haunting, meticulous masterpiece that confirms the writer status as a major literary force.",
+      "date_published": "2026-01-30T02:23:03.000Z"
+    },
+    {
       "id": "eebaad0a-9d97-42bb-8593-3e730c2e6f9e",
       "url": "https://www.smh.com.au/sport/tennis/australian-open-2026-live-updates-aussies-chase-doubles-title-zverev-battles-alcaraz-djokovic-faces-sinner-in-blockbuster-semis-20260129-p5ny45.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Australian Open 2026 LIVE updates: Aussies chase doubles title; Zverev battles Alcaraz, Djokovic faces Sinner in blockbuster semis",
