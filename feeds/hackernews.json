@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46817813",
+      "url": "https://grid.space/stem/",
+      "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
+      "content_html": "<p>Article URL: <a href=\"https://grid.space/stem/\">https://grid.space/stem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46817813\">https://news.ycombinator.com/item?id=46817813</a></p>\n<p>Points: 266</p>\n<p># Comments: 90</p>",
+      "content_text": "Article URL: https://grid.space/stem/\nComments URL: https://news.ycombinator.com/item?id=46817813\nPoints: 266\n# Comments: 90",
+      "date_published": "2026-01-29T22:38:57.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46814743",
       "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
       "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",

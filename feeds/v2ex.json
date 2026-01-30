@@ -17,6 +17,182 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189574",
+      "url": "https://www.v2ex.com/t/1189574#reply0",
+      "title": "[分享创造] [分享] 发现一个挺硬核的开源个人 AI 助理： OpenClaw，让 AI 真正“动起来”",
+      "content_html": "最近在 GitHub 上刷到一个挺有意思的项目 OpenClaw ，研究了一下发现它的思路和目前市面上大多数“只会聊天”的 GPT 套壳完全不同，感觉非常适合咱们这儿爱折腾的同学，分享给大家。<br /><br />🚀 它是什么？<br />简单来说，OpenClaw 是一个 100% 开源的个人 AI 助理。它的核心逻辑不是对话，而是 Action （行动）。它能通过你常用的聊天工具（ WhatsApp 、Telegram 、Discord 等）直接操控你的各类服务。<br /><br />🛠️ 让我觉得眼前一亮的几个点：<br />真正的“Agent”能力： 它不只是回答问题，而是能实操。比如清理收件箱、发送邮件、管理日历，甚至能帮你去航司官网办理值机。这种“把 AI 当命令行用”的感觉很丝滑。<br /><br />Self-Hosted （隐私党福音）： 这是最戳我的一点。所有数据、上下文和 Memory 都跑在自己的基础设施上。你可以选择跑在本地机器，也可以扔在自己的云服务器上，不用担心隐私泄露。<br /><br />插件系统与技能扩展： 它有一个开放的 Plugin 系统。最骚的是，你可以让 AI 给你“写一个技能”然后自动加载。目前已经集成了 Spotify 、GitHub 、Obsidian 、Gmail 等一大堆常用服务。<br /><br />跨平台接入： 不需要下载新的 App 。你可以通过 Telegram 或者 iMessage 直接给它下指令，这种“异步操作”的体验比守着网页对话框要好得多。<br /><br />💻 安装体验：<br />项目基于 Node.js （要求 Node ≥22 ），安装非常开发者友好，一行命令就能跑起来：curl -fsSL https://openclaw.bot/<a target=\"_blank\" href=\"http://install.sh\" rel=\"nofollow noopener\">install.sh</a> | bash<br /><br />📝 一点个人评价：<br />虽然现在 AI Agent 满地走，但 OpenClaw 给人的感觉更像是一个**“可扩展的 AI 操作系统壳”**。如果你厌倦了各种订阅制的 AI 助理，或者想构建一个完全属于自己的“第二大脑”，这个项目非常值得 Fork 关注一下。<br /><br />相关链接：<br /><br />地址： <a target=\"_blank\" href=\"https://www.openclawdbot.org/\" rel=\"nofollow noopener\">https://www.openclawdbot.org/</a><br /><br />GitHub：可在官网直接跳转（目前星数增长很快，100K+ Stars 确实有点东西）<br /><br />大家觉得这种“自托管 + 聊天软件接入”的 Agent 模式是未来的主流吗？欢迎讨论。",
+      "content_text": "最近在 GitHub 上刷到一个挺有意思的项目 OpenClaw ，研究了一下发现它的思路和目前市面上大多数“只会聊天”的 GPT 套壳完全不同，感觉非常适合咱们这儿爱折腾的同学，分享给大家。🚀 它是什么？简单来说，OpenClaw 是一个 100% 开源的个人 AI 助理。它的核心逻辑不是对话，而是 Action （行动）。它能通过你常用的聊天工具（ WhatsApp 、Telegram 、Discord 等）直接操控你的各类服务。🛠️ 让我觉得眼前一亮的几个点：真正的“Agent”能力： 它不只是回答问题，而是能实操。比如清理收件箱、发送邮件、管理日历，甚至能帮你去航司官网办理值机。这种“把 AI 当命令行用”的感觉很丝滑。Self-Hosted （隐私党福音）： 这是最戳我的一点。所有数据、上下文和 Memory 都跑在自己的基础设施上。你可以选择跑在本地机器，也可以扔在自己的云服务器上，不用担心隐私泄露。插件系统与技能扩展： 它有一个开放的 Plugin 系统。最骚的是，你可以让 AI 给你“写一个技能”然后自动加载。目前已经集成了 Spotify 、GitHub 、Obsidian 、Gmail 等一大堆常用服务。跨平台接入： 不需要下载新的 App 。你可以通过 Telegram 或者 iMessage 直接给它下指令，这种“异步操作”的体验比守着网页对话框要好得多。💻 安装体验：项目基于 Node.js （要求 Node ≥22 ），安装非常开发者友好，一行命令就能跑起来：curl -fsSL https://openclaw.bot/install.sh | bash📝 一点个人评价：虽然现在 AI Agent 满地走，但 OpenClaw 给人的感觉更像是一个**“可扩展的 AI 操作系统壳”**。如果你厌倦了各种订阅制的 AI 助理，或者想构建一个完全属于自己的“第二大脑”，这个项目非常值得 Fork 关注一下。相关链接：地址： https://www.openclawdbot.org/GitHub：可在官网直接跳转（目前星数增长很快，100K+ Stars 确实有点东西）大家觉得这种“自托管 + 聊天软件接入”的 Agent 模式是未来的主流吗？欢迎讨论。",
+      "date_published": "2026-01-30T08:38:19.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189573",
+      "url": "https://www.v2ex.com/t/1189573#reply0",
+      "title": "[职场话题] 吐槽屎山代码",
+      "content_html": "1. 一个后台管理系统整出来几十个屎山，互相勾连（很多就几个接口的，也单独整座屎山）<br />2. 不怕有屎山，就怕屎山连屎山，屎山套屎山，屎山构成图。<br />3. 前端按模块划分上属于这座屎山，后端逻辑在另一座屎山<br />4. 没注释，几乎没文档，有些接口和页面已经不用了也不删<br />5. 对造成这些屎山的给予鄙视🖕🏻，对维护这些屎山的，给予同情🙃",
+      "content_text": "1. 一个后台管理系统整出来几十个屎山，互相勾连（很多就几个接口的，也单独整座屎山）2. 不怕有屎山，就怕屎山连屎山，屎山套屎山，屎山构成图。3. 前端按模块划分上属于这座屎山，后端逻辑在另一座屎山4. 没注释，几乎没文档，有些接口和页面已经不用了也不删5. 对造成这些屎山的给予鄙视🖕🏻，对维护这些屎山的，给予同情🙃",
+      "date_published": "2026-01-30T08:38:18.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189572",
+      "url": "https://www.v2ex.com/t/1189572#reply0",
+      "title": "[JetBrains] JetBrains IDEs 最新版，已集成 Codex 插件",
+      "content_html": "<p>原文（ January 23, 2026 ）：</p>\n<p><a href=\"https://blog.jetbrains.com/ai/2026/01/codex-in-jetbrains-ides/\" rel=\"nofollow\">https://blog.jetbrains.com/ai/2026/01/codex-in-jetbrains-ides/</a></p>\n<p>从原文看，界面类似 cursor ，trae 等 ai ide ，支持各种模式，可以聊天，也可以直接修改代码了。</p>\n<p>支持 Claude, Codex 等 Agent ，支持 chatgpt 帐号直接登录，或 OpenAI ApiKey 。</p>\n<p>不知道直接用 chatgpt 帐号登录的话，模型额度会是怎么个用法。</p>\n<p>似乎开始跟上了没有掉队，有无大佬试试好不好使。</p>",
+      "content_text": "原文（ January 23, 2026 ）：\nhttps://blog.jetbrains.com/ai/2026/01/codex-in-jetbrains-ides/\n从原文看，界面类似 cursor ，trae 等 ai ide ，支持各种模式，可以聊天，也可以直接修改代码了。\n支持 Claude, Codex 等 Agent ，支持 chatgpt 帐号直接登录，或 OpenAI ApiKey 。\n不知道直接用 chatgpt 帐号登录的话，模型额度会是怎么个用法。\n似乎开始跟上了没有掉队，有无大佬试试好不好使。",
+      "date_published": "2026-01-30T08:34:34.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189571",
+      "url": "https://www.v2ex.com/t/1189571#reply0",
+      "title": "[分享发现] 2026 桌面分享——大概花了两个小时打扫房间，整理了一遍桌面",
+      "content_html": "<p>imgur 太容易超过额度了，所以我发到 ChatGPT ，然后共享对话：</p>\n<p><a href=\"https://chatgpt.com/share/697c6c44-f2c0-800e-9354-112d002beb17\" rel=\"nofollow\">https://chatgpt.com/share/697c6c44-f2c0-800e-9354-112d002beb17</a></p>\n<p>我挺满意现在的桌面空间，之后如果有需要，准备在右面的小桌子上再摆一个 27 寸的显示器</p>",
+      "content_text": "imgur 太容易超过额度了，所以我发到 ChatGPT ，然后共享对话：\nhttps://chatgpt.com/share/697c6c44-f2c0-800e-9354-112d002beb17\n我挺满意现在的桌面空间，之后如果有需要，准备在右面的小桌子上再摆一个 27 寸的显示器",
+      "date_published": "2026-01-30T08:32:40.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189569",
+      "url": "https://www.v2ex.com/t/1189569#reply1",
+      "title": "[问与答] 如果要买一个设备去装载 moltbot，用什么比较好？",
+      "content_html": "<p>miniMac 很火，但是如果上下班都想带着，远程操作也不方便。macbook 好像也不错，但是价格又太贵了，好处是 moltbot 可以操作机器剪视频呢，除了写代码之后，而且便携。如果考虑便携，那是不是 air 更好。反正是调用 api 不考虑额外的东西，那不是云服务器也行，nas 盘都行，还更便宜。</p>\n<p>不行还是要专属自己的设备，macBook+moltbot+智谱是不是比较好的方案，是生产力，平时也可以搞自己的东西，也有操作界面了</p>\n<p>bg 补充:\n上班有公司的笔记本电脑，但是配置差，平时用 vscode+copilot ，补足生产力，后端程序员。\n家里有 4070tis 的台式，只玩游戏，不考虑跑大模型。相信未来 ai 会把公司垄断，普通人要通过买 token 使用 ai ，不考虑跑本地模型。\n目前需求，搞 moltbot 写代码，自动炒股，自动剪视频，就算目前不行，相信未来潜力。提前准备设备。</p>",
+      "content_text": "miniMac 很火，但是如果上下班都想带着，远程操作也不方便。macbook 好像也不错，但是价格又太贵了，好处是 moltbot 可以操作机器剪视频呢，除了写代码之后，而且便携。如果考虑便携，那是不是 air 更好。反正是调用 api 不考虑额外的东西，那不是云服务器也行，nas 盘都行，还更便宜。\n不行还是要专属自己的设备，macBook+moltbot+智谱是不是比较好的方案，是生产力，平时也可以搞自己的东西，也有操作界面了\nbg 补充:\n上班有公司的笔记本电脑，但是配置差，平时用 vscode+copilot ，补足生产力，后端程序员。\n家里有 4070tis 的台式，只玩游戏，不考虑跑大模型。相信未来 ai 会把公司垄断，普通人要通过买 token 使用 ai ，不考虑跑本地模型。\n目前需求，搞 moltbot 写代码，自动炒股，自动剪视频，就算目前不行，相信未来潜力。提前准备设备。",
+      "date_published": "2026-01-30T08:29:48.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189568",
+      "url": "https://www.v2ex.com/t/1189568#reply0",
+      "title": "[全球工单系统] 京东页面详情价格与结算价格差异巨大",
+      "content_html": "<p>最近在京东购物时，发现同一个商品在详情页我看到的价格要比其他人贵的多，但是实际提交结算后的价格都差不多，然后我就咨询了京东客服，客服还是很有耐心，但是最后还是没有解决这个问题。</p>\n<p>不知道是我的号黑了被风控了，还是因为其他什么原因，各位有没有遇到过这种问题。或者有没有京东的人员帮忙解释下，这个是为什么。</p>\n<p>下面是我的账号详情页价格与实际结算价格，APP 和 Web 都一样 :</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/MsO8qm4.png\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/LupF6Vq.png\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/mllP7Yu.png\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/SGOOxrz.png\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/yQ6uJLa.png\"/> </p>\n<p>下面是另外一个账号的详情页价格，结算都差不多，就不放了:</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/aNaYQ4n.png\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/VMubKbu.png\"/> </p>\n<p>下面是对应的商品链接，各位可以看看你们的详情价是多少:</p>\n<p><a href=\"https://npcitem.jd.hk/10158388486907.html?spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDQ2ODkuc2VhcmNoX2NvbmZpcm0lMkNhMDI0MC5iMDAyNDkzLmMwMDAwNDAyNy4yJTIzc2t1X2NhcmQ&pvid=34e6b0d4e477462db1686644fe720ef2\" rel=\"nofollow\">https://npcitem.jd.hk/10158388486907.html?spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDQ2ODkuc2VhcmNoX2NvbmZpcm0lMkNhMDI0MC5iMDAyNDkzLmMwMDAwNDAyNy4yJTIzc2t1X2NhcmQ&pvid=34e6b0d4e477462db1686644fe720ef2</a></p>\n<p><a href=\"https://item.jd.com/10180003844526.html?pcdk=3ljy-bdsie6JApeXdQw10KU15Y21ob3sEUYuOI0R6q3nv0carPAsOAQfRpPmWhGA.NnCI.sen1&pvid=53934970f26f477d83c0dd2eb3a29bf5\" rel=\"nofollow\">https://item.jd.com/10180003844526.html?pcdk=3ljy-bdsie6JApeXdQw10KU15Y21ob3sEUYuOI0R6q3nv0carPAsOAQfRpPmWhGA.NnCI.sen1&pvid=53934970f26f477d83c0dd2eb3a29bf5</a></p>",
+      "content_text": "最近在京东购物时，发现同一个商品在详情页我看到的价格要比其他人贵的多，但是实际提交结算后的价格都差不多，然后我就咨询了京东客服，客服还是很有耐心，但是最后还是没有解决这个问题。\n不知道是我的号黑了被风控了，还是因为其他什么原因，各位有没有遇到过这种问题。或者有没有京东的人员帮忙解释下，这个是为什么。\n下面是我的账号详情页价格与实际结算价格，APP 和 Web 都一样 :\n\n\n\n\n \n下面是另外一个账号的详情页价格，结算都差不多，就不放了:\n\n \n下面是对应的商品链接，各位可以看看你们的详情价是多少:\nhttps://npcitem.jd.hk/10158388486907.html?spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDQ2ODkuc2VhcmNoX2NvbmZpcm0lMkNhMDI0MC5iMDAyNDkzLmMwMDAwNDAyNy4yJTIzc2t1X2NhcmQ&pvid=34e6b0d4e477462db1686644fe720ef2\nhttps://item.jd.com/10180003844526.html?pcdk=3ljy-bdsie6JApeXdQw10KU15Y21ob3sEUYuOI0R6q3nv0carPAsOAQfRpPmWhGA.NnCI.sen1&pvid=53934970f26f477d83c0dd2eb3a29bf5",
+      "date_published": "2026-01-30T08:29:44.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189567",
+      "url": "https://www.v2ex.com/t/1189567#reply0",
+      "title": "[iPhone] ios app 强制重启，是内存不够么？",
+      "content_html": "<p>ios app 启动后，切入后台，从另一个 app 切换回来，这时候 app 会重新启动，开屏广告重新加载。从 iphone11 换的 iphone17 ，内存加大了一倍，但是依然如此。这是内存问题，还是 app 自己强制重启？比如爱奇艺、淘宝、jd 都有这个问题</p>",
+      "content_text": "ios app 启动后，切入后台，从另一个 app 切换回来，这时候 app 会重新启动，开屏广告重新加载。从 iphone11 换的 iphone17 ，内存加大了一倍，但是依然如此。这是内存问题，还是 app 自己强制重启？比如爱奇艺、淘宝、jd 都有这个问题",
+      "date_published": "2026-01-30T08:28:10.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189566",
+      "url": "https://www.v2ex.com/t/1189566#reply4",
+      "title": "[问与答] V2 是会自己登录领取奖励吗？我发现已经签到一千七百多天",
+      "content_html": "<p>本人是有安装自动签到油猴脚本，但也存在某天不会打开电脑的情况，为什么还是会领取登录奖励呢？我查看了一下，就连我去年住院的那段日子，还是一天不落地领取了登录经历。大家有这种情况吗\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/CHDxdwd.png\"/> <img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/epNFn3Q.png\"/></p>",
+      "content_text": "本人是有安装自动签到油猴脚本，但也存在某天不会打开电脑的情况，为什么还是会领取登录奖励呢？我查看了一下，就连我去年住院的那段日子，还是一天不落地领取了登录经历。大家有这种情况吗",
+      "date_published": "2026-01-30T08:16:15.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189564",
+      "url": "https://www.v2ex.com/t/1189564#reply0",
+      "title": "[酷工作] 私活求一枚 C、C++同学",
+      "content_html": "<p>西普莱的工业 usb 群控设备，一个设备上面支持多个 usb 设备 每个设备代表一个客户的 想通过定制化一个软件和工控 hub 的底层驱动做对接，来根据传入的客户做对应 usb 启用和停用 北京的，可以到现场支持，也可以远程支持 走京东精灵或任何结算平台均可，可签合同可线下支付</p>\n<p>ejg3MDgzNDY=</p>",
+      "content_text": "西普莱的工业 usb 群控设备，一个设备上面支持多个 usb 设备 每个设备代表一个客户的 想通过定制化一个软件和工控 hub 的底层驱动做对接，来根据传入的客户做对应 usb 启用和停用 北京的，可以到现场支持，也可以远程支持 走京东精灵或任何结算平台均可，可签合同可线下支付\nejg3MDgzNDY=",
+      "date_published": "2026-01-30T08:11:16.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189563",
+      "url": "https://www.v2ex.com/t/1189563#reply3",
+      "title": "[问与答] 想出掉笔记本电脑，转转可以吗？",
+      "content_html": "<p>近半年对这台笔记本没什么需求，打算出掉算了。\n联想 Y9000P ，24 年 4 月 1 万零几百购入，现在转转估价 6k 。</p>",
+      "content_text": "近半年对这台笔记本没什么需求，打算出掉算了。\n联想 Y9000P ，24 年 4 月 1 万零几百购入，现在转转估价 6k 。",
+      "date_published": "2026-01-30T08:10:20.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189562",
+      "url": "https://www.v2ex.com/t/1189562#reply0",
+      "title": "[投资] 实践永久投资策略后第一个月收益",
+      "content_html": "<p>上一个帖子（ <a href=\"https://www.v2ex.com/t/1183682?p=1#reply26\" rel=\"nofollow\">https://www.v2ex.com/t/1183682?p=1#reply26</a> ）提到自己新开了一个账户来实践哈利·布朗的永久投资组合</p>\n<p>当时说每个月的收益记录到公众号里，今天月底了，更新第一份收益（ 4.x%）：</p>\n<p><a href=\"https://mp.weixin.qq.com/s/dPxVhpB-A4K7kEfmiEL_zA\" rel=\"nofollow\">https://mp.weixin.qq.com/s/dPxVhpB-A4K7kEfmiEL_zA</a></p>",
+      "content_text": "上一个帖子（ https://www.v2ex.com/t/1183682?p=1#reply26 ）提到自己新开了一个账户来实践哈利·布朗的永久投资组合\n当时说每个月的收益记录到公众号里，今天月底了，更新第一份收益（ 4.x%）：\nhttps://mp.weixin.qq.com/s/dPxVhpB-A4K7kEfmiEL_zA",
+      "date_published": "2026-01-30T08:06:01.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189561",
+      "url": "https://www.v2ex.com/t/1189561#reply0",
+      "title": "[推广] kookeey 海外动态住宅 ip，一手代理， 免费测试， 价格美丽",
+      "content_html": "<h1>Kookeey 全球合规动态住宅代理</h1>\n<p>Kookeey 拥有庞大自有底层 IP 资源池，且每日保持高频更新，不仅能确保每一个 IP 资源的高速与稳定，更配备业务级质量过滤与定向清洗机制。4700 万全球合规动态住宅代理，经机器学习智能筛选，为各类业务场景提供强力支撑，高效实现业务目标。</p>\n<h2>🎯 为什么选择 Kookeey ？</h2>\n<ul>\n<li>✅ 24 小时+长时可用，灵活切换：单 IP 最高支持 24 小时使用，同时可灵活切换 IP 地址，适配不同网络场景，满足多样化业务需求</li>\n<li>✅ 4700 万+全球合规 IP 池：覆盖 190 个国家的真实家庭住宅代理，全部合规获取，安全无风险</li>\n<li>✅ 多种认证模式，安全高效：支持账号密码+白名单双接入等认证模式，选择灵活的同时，更兼顾使用安全性与便捷性</li>\n<li>✅ 业务级清洗，IP 超高纯净度：配备严选系统过滤，不同业务场景出货 IP 均超过 6 个月冷静期，保障 IP 纯净度，降低被封禁风险</li>\n<li>✅ 完整 API 接口，易于集成：通过完善的 API 接口可快速集成各类系统，简化开发流程，促进项目合作，实现数据交换与业务扩展</li>\n<li>✅ 多档位流量套餐，自由选择：提供多种流量套餐可选，可灵活匹配个人、小团队与企业级等不同层级的业务需求</li>\n</ul>\n<h2>🎁 免费领取：动态住宅 IP 测试礼包</h2>\n<ul>\n<li>微信（绿泡泡）：dailiip1688</li>\n<li>电报（ TG ）：<a href=\"https://t.me/dailiIP666888\" rel=\"nofollow\">https://t.me/dailiIP666888</a></li>\n</ul>",
+      "content_text": "Kookeey 全球合规动态住宅代理\nKookeey 拥有庞大自有底层 IP 资源池，且每日保持高频更新，不仅能确保每一个 IP 资源的高速与稳定，更配备业务级质量过滤与定向清洗机制。4700 万全球合规动态住宅代理，经机器学习智能筛选，为各类业务场景提供强力支撑，高效实现业务目标。\n🎯 为什么选择 Kookeey ？\n\n✅ 24 小时+长时可用，灵活切换：单 IP 最高支持 24 小时使用，同时可灵活切换 IP 地址，适配不同网络场景，满足多样化业务需求\n✅ 4700 万+全球合规 IP 池：覆盖 190 个国家的真实家庭住宅代理，全部合规获取，安全无风险\n✅ 多种认证模式，安全高效：支持账号密码+白名单双接入等认证模式，选择灵活的同时，更兼顾使用安全性与便捷性\n✅ 业务级清洗，IP 超高纯净度：配备严选系统过滤，不同业务场景出货 IP 均超过 6 个月冷静期，保障 IP 纯净度，降低被封禁风险\n✅ 完整 API 接口，易于集成：通过完善的 API 接口可快速集成各类系统，简化开发流程，促进项目合作，实现数据交换与业务扩展\n✅ 多档位流量套餐，自由选择：提供多种流量套餐可选，可灵活匹配个人、小团队与企业级等不同层级的业务需求\n\n🎁 免费领取：动态住宅 IP 测试礼包\n\n微信（绿泡泡）：dailiip1688\n电报（ TG ）：https://t.me/dailiIP666888",
+      "date_published": "2026-01-30T08:05:43.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189560",
+      "url": "https://www.v2ex.com/t/1189560#reply0",
+      "title": "[问与答] 卖不卖？",
+      "content_html": "<p>18 年高点在天津津南区买的高层（不是海教园），当时 140 万左右，到 2024 年贷款还完了，\n现在房价已经跌倒 79 万都出手不了，\n最近有中介说卖家出 65 万要买，该不该卖啊</p>\n<p>孩子大概 2 、3 年后才去天津上 5 年级，现在该不该换房，房子留着这还是卖</p>",
+      "content_text": "18 年高点在天津津南区买的高层（不是海教园），当时 140 万左右，到 2024 年贷款还完了，\n现在房价已经跌倒 79 万都出手不了，\n最近有中介说卖家出 65 万要买，该不该卖啊\n孩子大概 2 、3 年后才去天津上 5 年级，现在该不该换房，房子留着这还是卖",
+      "date_published": "2026-01-30T08:01:18.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189559",
+      "url": "https://www.v2ex.com/t/1189559#reply5",
+      "title": "[生活] 距离过年只剩两周，大家几号开始休息，假期都有什么安排呢？",
+      "content_html": "<p>终于快要放假了，无心工作，只想尽快开始休假</p>\n<p>OP 打算今年请五天假，算上年假整体假期也不算多，预计前三后二，加起来能休息半个月左右，感觉还是可以的。</p>",
+      "content_text": "终于快要放假了，无心工作，只想尽快开始休假\nOP 打算今年请五天假，算上年假整体假期也不算多，预计前三后二，加起来能休息半个月左右，感觉还是可以的。",
+      "date_published": "2026-01-30T08:00:59.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189558",
+      "url": "https://www.v2ex.com/t/1189558#reply0",
+      "title": "[分享创造] 在 mac 上随心所欲压缩、转码视频或音频",
+      "content_html": "<p>macOS 和 iOS 上的媒体工具箱。</p>\n<p>以专业级速度在本地压缩、转换并转录图片、视频和音频，全面保障隐私。</p>\n<p><a href=\"https://apps.apple.com/app/id6755109910\" rel=\"nofollow\">https://apps.apple.com/app/id6755109910</a></p>\n<img alt=\"Image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://github.com/user-attachments/assets/1240de74-a1f3-4ea2-ad49-a4767cd51c26\"/>",
+      "content_text": "macOS 和 iOS 上的媒体工具箱。\n以专业级速度在本地压缩、转换并转录图片、视频和音频，全面保障隐私。\nhttps://apps.apple.com/app/id6755109910",
+      "date_published": "2026-01-30T08:00:19.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189557",
+      "url": "https://www.v2ex.com/t/1189557#reply4",
+      "title": "[问与答] 总是接到营销电话怎么办？？",
+      "content_html": "<p>最近被那些营销电话搞破防了，我想的一个办法是，搞个站点，收集各个地区的有关法律咨询、教育、房产的可留言的，让魔法去打败魔法？各位觉得这个主意如何？？</p>",
+      "content_text": "最近被那些营销电话搞破防了，我想的一个办法是，搞个站点，收集各个地区的有关法律咨询、教育、房产的可留言的，让魔法去打败魔法？各位觉得这个主意如何？？",
+      "date_published": "2026-01-30T07:59:56.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189556",
+      "url": "https://www.v2ex.com/t/1189556#reply12",
+      "title": "[职场话题] [求助] 关于创业、边缘化、工具人",
+      "content_html": "从 0 到 1 把系统搭建完成，现在系统上线了，老板开始边缘化孤立我，新的需求和项目不再和我说，只有遇到解决不了的问题才来，面对这种妥妥的工具人，接下来如何面对，大家一起给新思路。<br />给的口头头衔是技术负责人，每次开会我一说方案就被打断<br />没有任何书面合同、股份、分红协议，口头说一起创业",
+      "content_text": "从 0 到 1 把系统搭建完成，现在系统上线了，老板开始边缘化孤立我，新的需求和项目不再和我说，只有遇到解决不了的问题才来，面对这种妥妥的工具人，接下来如何面对，大家一起给新思路。给的口头头衔是技术负责人，每次开会我一说方案就被打断没有任何书面合同、股份、分红协议，口头说一起创业",
+      "date_published": "2026-01-30T07:57:41.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189555",
+      "url": "https://www.v2ex.com/t/1189555#reply0",
+      "title": "[Android] 年后准备找工作，外面现在还好吗",
+      "content_html": "<p>写了多年的安卓\n都是应用层 app ，车载 app 也做过\n不知道外面面试情况咋样\n成都</p>",
+      "content_text": "写了多年的安卓\n都是应用层 app ，车载 app 也做过\n不知道外面面试情况咋样\n成都",
+      "date_published": "2026-01-30T07:56:26.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189554",
+      "url": "https://www.v2ex.com/t/1189554#reply0",
+      "title": "[问与答] 中国移动如何存话费最划算，各位大佬有啥高招吗",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T07:53:03.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189552",
+      "url": "https://www.v2ex.com/t/1189552#reply3",
+      "title": "[Vibe Coding] codex 的处理速度是不是比较慢？",
+      "content_html": "gpt-5.2-codex(reasoning high, summaries auto)，不太复杂的任务基本上都要处理 5m 以上，是不是 reasoning 设置太高了，用哪一档比较合适",
+      "content_text": "gpt-5.2-codex(reasoning high, summaries auto)，不太复杂的任务基本上都要处理 5m 以上，是不是 reasoning 设置太高了，用哪一档比较合适",
+      "date_published": "2026-01-30T07:51:19.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189551",
+      "url": "https://www.v2ex.com/t/1189551#reply5",
+      "title": "[HodlAI] 我去测试了 HodlAI",
+      "content_html": "昨天收到了 @<a target=\"_blank\" href=\"/member/88AI\" rel=\"nofollow noopener\">88AI</a> 通过 ko-fi 发送的 $600 用于支付 PRO 系统上的广告。出于对 V2EX 上看到广告的人负责，我去测试了这个产品，想走一个完整流程看看体验是怎样的。<br /><br />我之前没有玩过 BSC ，所以钱包里都是空的。不过现在是 2026 年，各种跨链基础设施已经很完善，最近 eth 上的 gas 也很低，所以用 OKX 钱包跨了 $20 到 BSC ，然后按照当时的市价，买到了大概 30K HodlAI 的 token 。<br /><br />然后在 <a target=\"_blank\" href=\"https://www.hodlai.fun/\" rel=\"nofollow noopener\">https://www.hodlai.fun/</a> 网站登录，就可以拿到一个 API key ，然后使用这个 API key ，就可以从域名 <a target=\"_blank\" href=\"http://api.hodlai.fun\" rel=\"nofollow noopener\">api.hodlai.fun</a> 调用模型了。经过测试，我拿到的 API key 在 <a target=\"_blank\" href=\"http://api.hodlai.fun\" rel=\"nofollow noopener\">api.hodlai.fun</a> 上确实能用，也确实可以调用到 GPT-5 和 Opus 4.5 这样的模型。<br /><br />我通常会用一个非常特定的问题来测试我用的模型到底如何，这个问题是「 SNES 游戏宇宙巡航机的英文标题是？」。因为这是一件我非常熟悉而且有特定答案的事情，所以从这个问题的答案就可以看出来模型到底知道多少，有没有在超越边界的瞎编。<br /><br />HodlAI 产品目前本质上是一个代理服务器，背后是 OpenRouter （一个各种 AI API 的聚合器）。就像所有的网络服务一样，是否能持续运行下去取决于很多因素。维护服务的同时还要维护 token 社区的各种期待，是一件非常辛苦的事情。但至少，这个服务目前让我在完全没有掏信用卡的情况下，拿到了一个能用的 API key 。",
+      "content_text": "昨天收到了 @88AI 通过 ko-fi 发送的 $600 用于支付 PRO 系统上的广告。出于对 V2EX 上看到广告的人负责，我去测试了这个产品，想走一个完整流程看看体验是怎样的。我之前没有玩过 BSC ，所以钱包里都是空的。不过现在是 2026 年，各种跨链基础设施已经很完善，最近 eth 上的 gas 也很低，所以用 OKX 钱包跨了 $20 到 BSC ，然后按照当时的市价，买到了大概 30K HodlAI 的 token 。然后在 https://www.hodlai.fun/ 网站登录，就可以拿到一个 API key ，然后使用这个 API key ，就可以从域名 api.hodlai.fun 调用模型了。经过测试，我拿到的 API key 在 api.hodlai.fun 上确实能用，也确实可以调用到 GPT-5 和 Opus 4.5 这样的模型。我通常会用一个非常特定的问题来测试我用的模型到底如何，这个问题是「 SNES 游戏宇宙巡航机的英文标题是？」。因为这是一件我非常熟悉而且有特定答案的事情，所以从这个问题的答案就可以看出来模型到底知道多少，有没有在超越边界的瞎编。HodlAI 产品目前本质上是一个代理服务器，背后是 OpenRouter （一个各种 AI API 的聚合器）。就像所有的网络服务一样，是否能持续运行下去取决于很多因素。维护服务的同时还要维护 token 社区的各种期待，是一件非常辛苦的事情。但至少，这个服务目前让我在完全没有掏信用卡的情况下，拿到了一个能用的 API key 。",
+      "date_published": "2026-01-30T07:45:38.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189550",
+      "url": "https://www.v2ex.com/t/1189550#reply1",
+      "title": "[MacBook Pro] 关于 Mac OS 的交换分区？",
+      "content_html": "Mac OS 的交换分区分配的逻辑是什么？<br /><br />之前 16G 内存 默认拉了 2G 交换分区<br /><br />现在 64G 内存 还是要拉 2G 出来<br /><br /><a target=\"_blank\" href=\"https://i.imgur.com/fv9vzt9.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/fv9vzt9.png\" class=\"embedded_image\" rel=\"noreferrer\"></a><br /><br />搞不懂了<br /><br />这是什么逻辑",
+      "content_text": "Mac OS 的交换分区分配的逻辑是什么？之前 16G 内存 默认拉了 2G 交换分区现在 64G 内存 还是要拉 2G 出来搞不懂了这是什么逻辑",
+      "date_published": "2026-01-30T07:43:00.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189549",
       "url": "https://www.v2ex.com/t/1189549#reply0",
       "title": "[小散户的日常] 比特币交易日记：第十天复盘",

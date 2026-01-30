@@ -6,6 +6,158 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "f2479b61-8615-4cc1-98a6-e4d7c90414a4",
+      "url": "https://www.smh.com.au/business/companies/1000-fine-for-hiding-45-million-in-bribes-embarrassing-end-to-landmark-corruption-case-20260130-p5nybd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "$1000 fine for hiding $45 million in bribes: ‘Embarrassing’ end to landmark corruption case",
+      "content_html": "It is one of the most high-profile bribery cases in corporate history, and now the years-long saga has concluded with a guilty plea and a paltry fine.",
+      "content_text": "It is one of the most high-profile bribery cases in corporate history, and now the years-long saga has concluded with a guilty plea and a paltry fine.",
+      "date_published": "2026-01-30T08:30:00.000Z"
+    },
+    {
+      "id": "988014f0-9240-40c2-88a2-9ea6983f6936",
+      "url": "https://www.smh.com.au/national/nsw/new-shoes-old-debates-and-the-great-kindergarten-gamble-20260130-p5nya1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "New shoes, old debates and the great kindergarten gamble",
+      "content_html": "From education to politics and the NRL, there’s plenty to talk about as Sydney heads back to school and work.",
+      "content_text": "From education to politics and the NRL, there’s plenty to talk about as Sydney heads back to school and work.",
+      "date_published": "2026-01-30T08:30:00.000Z"
+    },
+    {
+      "id": "ca908837-5ac4-4ba1-be1b-b2d9d35e86af",
+      "url": "https://www.smh.com.au/national/i-was-born-in-australia-i-look-indian-since-bondi-that-makes-me-a-target-20260122-p5nwbk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "I was born in Australia. I look Indian. Since Bondi, that makes me a target",
+      "content_html": "Sadly, some Jewish people now feel they have to hide their identity. That’s not an option for people like me, who can’t hide the colour of their skin.",
+      "content_text": "Sadly, some Jewish people now feel they have to hide their identity. That’s not an option for people like me, who can’t hide the colour of their skin.",
+      "date_published": "2026-01-30T08:29:14.000Z"
+    },
+    {
+      "id": "98f1271a-1ab3-4d0b-98b2-770d5aab3d45",
+      "url": "https://www.smh.com.au/politics/victoria/abuse-of-power-strata-giant-faces-landmark-lawsuit-over-charges-20260119-p5nv6n.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Abuse of power’: Strata giant faces landmark lawsuit over charges",
+      "content_html": "The legal action is being fought on behalf of lot owners in dozens of Melbourne buildings who have received misleading fee notices.",
+      "content_text": "The legal action is being fought on behalf of lot owners in dozens of Melbourne buildings who have received misleading fee notices.",
+      "date_published": "2026-01-30T08:14:54.000Z"
+    },
+    {
+      "id": "3004dd20-fc05-4d97-8ab6-d107a5072ec1",
+      "url": "https://www.smh.com.au/sport/tennis/courier-shocked-at-alcarazs-fifth-set-decision-20260130-p5nyf7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Courier 'shocked' at Alcaraz's fifth set decision",
+      "content_html": "Jim Courier reacts to Carlos Alcaraz's decision not to use a five-minute break during the set break.",
+      "content_text": "Jim Courier reacts to Carlos Alcaraz's decision not to use a five-minute break during the set break.",
+      "date_published": "2026-01-30T08:08:17.000Z"
+    },
+    {
+      "id": "93fad2df-034b-41cc-b177-0797eaff65a4",
+      "url": "https://www.smh.com.au/sport/nrl/pezet-carries-eels-hopes-in-rare-one-season-stint-20260130-p5nyf4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Pezet carries Eels' hopes in rare one-season stint",
+      "content_html": "Parramatta hopes prize signing Jonah Pezet takes them back to the promised land in 2026. In a rare move, Pezet spends just one year with the Eels before joining the reigning premiers, the Brisbane Broncos",
+      "content_text": "Parramatta hopes prize signing Jonah Pezet takes them back to the promised land in 2026. In a rare move, Pezet spends just one year with the Eels before joining the reigning premiers, the Brisbane Broncos",
+      "date_published": "2026-01-30T08:03:13.000Z"
+    },
+    {
+      "id": "931fbf8e-6593-406e-b8f9-4dad6e01dad7",
+      "url": "https://www.smh.com.au/sport/rugby-union/jorgensen-shrugs-nrl-interest-to-sign-five-year-wallabies-deal-20260130-p5nyf6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Jorgensen shrugs NRL interest to sign five-year Wallabies deal",
+      "content_html": "Max Jorgensen becomes the third Wallaby in history to sign a five-year deal with Rugby Australia. The winger says he never seriously considers switching to the NRL despite interest from the Roosters.",
+      "content_text": "Max Jorgensen becomes the third Wallaby in history to sign a five-year deal with Rugby Australia. The winger says he never seriously considers switching to the NRL despite interest from the Roosters.",
+      "date_published": "2026-01-30T08:02:56.000Z"
+    },
+    {
+      "id": "5ad77f22-a5e7-4211-9087-1f8e21c5078e",
+      "url": "https://www.smh.com.au/sport/tennis/zverev-forces-first-ao-fifth-set-20260130-p5nyf5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Zverev forces first AO fifth set",
+      "content_html": "Alexander Zverev's clinical forehand forces a fifth set against Carlos Alcaraz.",
+      "content_text": "Alexander Zverev's clinical forehand forces a fifth set against Carlos Alcaraz.",
+      "date_published": "2026-01-30T08:02:51.000Z"
+    },
+    {
+      "id": "5459286b-5cae-400a-863a-192ff13ac4cd",
+      "url": "https://www.smh.com.au/national/victoria/dozens-of-victoria-police-employees-caught-drink-driving-over-nearly-a-decade-20251118-p5ngbd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Dozens of Victoria Police employees caught drink-driving over nearly a decade",
+      "content_html": "Victoria Police recorded seven drink-driving detections among its workforce last financial year, matching its five-year average.",
+      "content_text": "Victoria Police recorded seven drink-driving detections among its workforce last financial year, matching its five-year average.",
+      "date_published": "2026-01-30T08:00:00.000Z"
+    },
+    {
+      "id": "991eee11-5cdc-4c2b-a7a1-ffe8a253a47d",
+      "url": "https://www.smh.com.au/sport/swimming/swimming-australia-president-to-fight-eight-month-suspension-for-improper-conduct-20260130-p5nyan.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Swimming Australia president to fight eight-month suspension for ‘improper conduct’",
+      "content_html": "An integrity investigation found Chris Fydler abused his position in a dispute over a former Olympic teammate’s bid to be vice president of World Aquatics.",
+      "content_text": "An integrity investigation found Chris Fydler abused his position in a dispute over a former Olympic teammate’s bid to be vice president of World Aquatics.",
+      "date_published": "2026-01-30T07:58:54.000Z"
+    },
+    {
+      "id": "3636ef7f-e4fc-4b5a-80b4-b61c13a4edea",
+      "url": "https://www.smh.com.au/culture/tv-and-radio/australia-makes-another-great-foray-into-tv-involving-dogs-20260130-p5nyf3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australia makes another great foray into TV involving dogs",
+      "content_html": "In this week's What to Watch, deputy TV editor Meg Watson, recommends the TV shows to watch right now.",
+      "content_text": "In this week's What to Watch, deputy TV editor Meg Watson, recommends the TV shows to watch right now.",
+      "date_published": "2026-01-30T07:56:57.000Z"
+    },
+    {
+      "id": "4711f6df-5037-4b93-a4d9-1c2082eb1f36",
+      "url": "https://www.smh.com.au/national/wild-winds-force-qantas-flight-to-land-at-defence-force-base-20260130-p5nyf2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Wild winds force Qantas flight to land at Defence Force base",
+      "content_html": "A Qantas flight bound for South Australia was forced to touch down at a Defence Force base due to extreme winds",
+      "content_text": "A Qantas flight bound for South Australia was forced to touch down at a Defence Force base due to extreme winds",
+      "date_published": "2026-01-30T07:55:08.000Z"
+    },
+    {
+      "id": "43d7d777-31b8-41e1-a464-507424f2eb0f",
+      "url": "https://www.smh.com.au/sport/tennis/crowd-roars-as-carlos-levels-set-20260130-p5nyf1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Crowd roars as Carlos levels set",
+      "content_html": "Carlos Alcaraz fires up the crowd after taking the fourth set to 5-5.",
+      "content_text": "Carlos Alcaraz fires up the crowd after taking the fourth set to 5-5.",
+      "date_published": "2026-01-30T07:53:40.000Z"
+    },
+    {
+      "id": "91625e20-829e-4373-80b1-4596725f7d03",
+      "url": "https://www.smh.com.au/national/mp-beyond-angry-over-death-of-brother-in-alleged-one-punch-attack-20260130-p5nyf0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "MP ‘beyond angry’ over death of brother in alleged one-punch attack",
+      "content_html": "South Australian Health Minister Chris Picton has given his first interview since the death of his brother Tim after an alleged one-punch attack in Perth.",
+      "content_text": "South Australian Health Minister Chris Picton has given his first interview since the death of his brother Tim after an alleged one-punch attack in Perth.",
+      "date_published": "2026-01-30T07:52:56.000Z"
+    },
+    {
+      "id": "fde4ce34-57d7-446d-bccc-e1b748b540be",
+      "url": "https://www.smh.com.au/sport/tennis/zverev-fumes-again-at-alcarazs-antics-20260130-p5nyez.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Zverev fumes again at Alcaraz's antics",
+      "content_html": "Alexander Zverev says 'that's a joke' after he was given a warning.",
+      "content_text": "Alexander Zverev says 'that's a joke' after he was given a warning.",
+      "date_published": "2026-01-30T07:52:44.000Z"
+    },
+    {
+      "id": "15af5227-8292-4a4c-b563-1a2ffa8eb026",
+      "url": "https://www.smh.com.au/sport/afl/make-room-for-me-luke-jackson-keen-on-origin-mid-role-20260130-p5nyey.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Make room for me: Luke Jackson keen on Origin mid role",
+      "content_html": "Fremantle big man Luke Jackson has revealed he’s spent the bulk of the summer training as a midfielder, and he’s hoping to ruffle the feathers of club teammate Caleb Serong in the upcoming State of Origin showdown.",
+      "content_text": "Fremantle big man Luke Jackson has revealed he’s spent the bulk of the summer training as a midfielder, and he’s hoping to ruffle the feathers of club teammate Caleb Serong in the upcoming State of Origin showdown.",
+      "date_published": "2026-01-30T07:50:28.000Z"
+    },
+    {
+      "id": "7dce8db1-aff7-47b1-a16e-cb2e1824239c",
+      "url": "https://www.smh.com.au/national/driver-jailed-for-killing-e-scooter-rider-over-affair-suspicions-20260130-p5nyew.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Driver jailed for killing e-scooter rider over affair suspicions",
+      "content_html": "The heartbroken family of a Geelong man fatally mowed down by a jealous lover has blasted the court for what it calls a completely inadequate sentence.",
+      "content_text": "The heartbroken family of a Geelong man fatally mowed down by a jealous lover has blasted the court for what it calls a completely inadequate sentence.",
+      "date_published": "2026-01-30T07:45:20.000Z"
+    },
+    {
+      "id": "9213d81f-9303-4efb-b0d8-1f9204591b57",
+      "url": "https://www.smh.com.au/national/pm-premier-announce-extra-160m-for-bushfire-affected-communities-20260130-p5nyev.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "PM, premier announce extra $160m for bushfire-affected communities",
+      "content_html": "The prime minister and Victorian premier have announced an additional $160 million to help communities rebuild faster after devastating bushfires.",
+      "content_text": "The prime minister and Victorian premier have announced an additional $160 million to help communities rebuild faster after devastating bushfires.",
+      "date_published": "2026-01-30T07:45:10.000Z"
+    },
+    {
+      "id": "34b9836c-ceb6-4d70-9122-0979f2c78e71",
+      "url": "https://www.smh.com.au/national/melbourne-nail-salon-firebombed-twice-in-two-days-20260130-p5nyeu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Melbourne nail salon firebombed twice in two days",
+      "content_html": "A former Essendon North nail salon has been firebombed for the second time in just over 24 hours, the fifth targeted attack on the business.",
+      "content_text": "A former Essendon North nail salon has been firebombed for the second time in just over 24 hours, the fifth targeted attack on the business.",
+      "date_published": "2026-01-30T07:42:24.000Z"
+    },
+    {
       "id": "64f06420-20c3-4e15-9846-32c7edce326e",
       "url": "https://www.smh.com.au/national/nine-sells-radio-empire-to-aussie-pub-tycoon-and-family-20260130-p5nyes.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Nine sells radio empire to Aussie pub tycoon and family",

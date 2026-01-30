@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/boxing/articles/cn8jk2y22meo#7",
+      "url": "https://www.bbc.com/sport/boxing/articles/cn8jk2y22meo?at_medium=RSS&at_campaign=rss",
+      "title": "World champion Price to face Aquino live on BBC",
+      "content_html": "Welsh boxer Lauren Price will defend her unified welterweight world titles against Puerto Rican challenger Stephanie Pineiro Aquino on Saturday, 4 April at Cardiff's Utilita Arena.",
+      "content_text": "Welsh boxer Lauren Price will defend her unified welterweight world titles against Puerto Rican challenger Stephanie Pineiro Aquino on Saturday, 4 April at Cardiff's Utilita Arena.",
+      "date_published": "2026-01-30T08:30:00.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/american-football/articles/c39pmrln8x9o#7",
+      "url": "https://www.bbc.com/sport/american-football/articles/c39pmrln8x9o?at_medium=RSS&at_campaign=rss",
+      "title": "The NFL's 'Queen's Gambit' who helped create $1.5bn worth of talent",
+      "content_html": "Coach and consultant Duane Manyweather has worked with some of NFL's best players in one of the sport's most undervalued positions.",
+      "content_text": "Coach and consultant Duane Manyweather has worked with some of NFL's best players in one of the sport's most undervalued positions.",
+      "date_published": "2026-01-30T07:35:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c24gg91z69eo#1",
+      "url": "https://www.bbc.com/news/articles/c24gg91z69eo?at_medium=RSS&at_campaign=rss",
+      "title": "A legal blunder allowed the man who abused us at school to escape justice – until now",
+      "content_html": "William Brydson, who was \"head of care\" at a Newton Stewart boarding school, has been jailed for a litany of offences.",
+      "content_text": "William Brydson, who was \"head of care\" at a Newton Stewart boarding school, has been jailed for a litany of offences.",
+      "date_published": "2026-01-30T06:23:37.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c394ymdpjwvo#0",
       "url": "https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss",
       "title": "Trump says 'it would be great' if US 'didn't have to use' military force on Iran",
@@ -244,6 +268,14 @@
       "content_html": "Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill",
       "content_text": "Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill",
       "date_published": "2026-01-29T21:06:54.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/boxing/articles/c4g0y415qlko#0",
+      "url": "https://www.bbc.com/sport/boxing/articles/c4g0y415qlko?at_medium=RSS&at_campaign=rss",
+      "title": "Anthony Joshua pays emotional tribute to friends killed in crash",
+      "content_html": "Anthony Joshua posts an emotional YouTube video thanking fans for their support following the deaths of his two close friends in a car crash in Nigeria.",
+      "content_text": "Anthony Joshua posts an emotional YouTube video thanking fans for their support following the deaths of his two close friends in a car crash in Nigeria.",
+      "date_published": "2026-01-29T21:03:18.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/boxing/articles/c4g0y415qlko#1",
