@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html",
+      "title": "Washington Post Plans Cuts to Reshape Newsroom",
+      "content_html": "The changes are expected to include significant layoffs in areas like sports and international coverage.",
+      "content_text": "The changes are expected to include significant layoffs in areas like sports and international coverage.",
+      "date_published": "2026-01-30T00:54:15.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html",
+      "title": "California Jury Convicts Ex-Google Engineer of Stealing AI Secrets",
+      "content_html": "A federal jury found that Linwei Ding stole thousands of confidential files to help him start a company in Beijing.",
+      "content_text": "A federal jury found that Linwei Ding stole thousands of confidential files to help him start a company in Beijing.",
+      "date_published": "2026-01-29T23:40:50.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/business/media/california-post-new-york-post-fox-rupert-murdoch.html",
       "url": "https://www.nytimes.com/2026/01/29/business/media/california-post-new-york-post-fox-rupert-murdoch.html",
       "title": "Murdoch and News Corp Take on the West Coast with The California Post",

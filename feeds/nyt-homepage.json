@@ -6,6 +6,78 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/live/2026/01/29/us/trump-news#section-941664149",
+      "url": "https://www.nytimes.com/live/2026/01/29/us/trump-news#section-941664149",
+      "title": "‘Melania,’ the Documentary, Premieres in Washington",
+      "content_html": "Amazon paid Melania Trump’s production company $40 million for the film and $35 million to promote it, a sum that critics said was an effort to curry favor with the administration.",
+      "content_text": "Amazon paid Melania Trump’s production company $40 million for the film and $35 million to promote it, a sum that critics said was an effort to curry favor with the administration.",
+      "date_published": "2026-01-30T01:53:10.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/trump-iran-us-military-maps.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/trump-iran-us-military-maps.html",
+      "title": "Maps: Where the U.S. Is Building Up Military Force Near Iran",
+      "content_html": "President Trump has not authorized military action in Iran, but the U.S. has built up its presence in the region in recent days.",
+      "content_text": "President Trump has not authorized military action in Iran, but the U.S. has built up its presence in the region in recent days.",
+      "date_published": "2026-01-30T01:28:13.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html",
+      "title": "Washington Post Plans Cuts to Reshape Newsroom",
+      "content_html": "The changes are expected to include significant layoffs in areas like sports and international coverage.",
+      "content_text": "The changes are expected to include significant layoffs in areas like sports and international coverage.",
+      "date_published": "2026-01-30T00:54:15.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/trump-military-options-against-iran.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/trump-military-options-against-iran.html",
+      "title": "Trump Weighs New Military Options Against Iran",
+      "content_html": "The plans being weighed by the president go beyond those he considered weeks ago amid widespread protests against Iran’s government.",
+      "content_text": "The plans being weighed by the president go beyond those he considered weeks ago amid widespread protests against Iran’s government.",
+      "date_published": "2026-01-30T00:48:14.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/brendan-banfield-double-murder-trial.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/brendan-banfield-double-murder-trial.html",
+      "title": "Brendan Banfield Denies Plot in Double Murder Trial, Calling Accusations ‘Crazy’",
+      "content_html": "Brendan Banfield rebuffed claims that he had made an elaborate plan for the killings with the family’s au pair, with whom he had an affair.",
+      "content_text": "Brendan Banfield rebuffed claims that he had made an elaborate plan for the killings with the family’s au pair, with whom he had an affair.",
+      "date_published": "2026-01-30T00:44:40.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/health/autism-panel-kennedy-iacc.html",
+      "url": "https://www.nytimes.com/2026/01/29/health/autism-panel-kennedy-iacc.html",
+      "title": "Kennedy Overhauls Federal Autism Panel in His Own Image",
+      "content_html": "The new panel, which advises the government on research and service priorities for people with autism, includes many members who have argued that vaccines cause the disorder.",
+      "content_text": "The new panel, which advises the government on research and service priorities for people with autism, includes many members who have argued that vaccines cause the disorder.",
+      "date_published": "2026-01-30T00:32:45.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/video/us/100000010669504/what-domestic-terrorism-means-and-doesnt.html",
+      "url": "https://www.nytimes.com/video/us/100000010669504/what-domestic-terrorism-means-and-doesnt.html",
+      "title": "What Domestic Terrorism Means, and Doesn’t",
+      "content_html": "The Trump administration has called the Minneapolis shooting victims “domestic terrorists.” Our criminal justice reporter Jonah E. Bromwich explains what that term actually means.",
+      "content_text": "The Trump administration has called the Minneapolis shooting victims “domestic terrorists.” Our criminal justice reporter Jonah E. Bromwich explains what that term actually means.",
+      "date_published": "2026-01-30T00:10:15.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/ice-maine-susan-collins.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/ice-maine-susan-collins.html",
+      "title": "Collins Took Credit for ICE Leaving Maine. Her Democratic Opponents Pounced.",
+      "content_html": "Political maneuvering by the Democrats hoping to unseat Senator Susan Collins shifted into high gear with the news that ICE had ended its surge there.",
+      "content_text": "Political maneuvering by the Democrats hoping to unseat Senator Susan Collins shifted into high gear with the news that ICE had ended its surge there.",
+      "date_published": "2026-01-29T23:59:04.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html",
+      "title": "California Jury Convicts Ex-Google Engineer of Stealing AI Secrets",
+      "content_html": "A federal jury found that Linwei Ding stole thousands of confidential files to help him start a company in Beijing.",
+      "content_text": "A federal jury found that Linwei Ding stole thousands of confidential files to help him start a company in Beijing.",
+      "date_published": "2026-01-29T23:40:50.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
       "url": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
       "title": "Michael Beck, 65, Dies; First to Report Symptoms of ‘Havana Syndrome’",
@@ -36,6 +108,14 @@
       "content_html": "Bowing to Trump administration pressure, the new legislation improves conditions for foreign oil companies and opens the way to slash the taxes they pay.",
       "content_text": "Bowing to Trump administration pressure, the new legislation improves conditions for foreign oil companies and opens the way to slash the taxes they pay.",
       "date_published": "2026-01-29T22:56:11.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/us/politics/trump-putin-ceasefire-cold.html",
+      "url": "https://www.nytimes.com/2026/01/29/us/politics/trump-putin-ceasefire-cold.html",
+      "title": "Trump Says Putin Agreed to a Weeklong Pause in Attacks Amid Extreme Cold",
+      "content_html": "Russia has left thousands of apartment buildings in Kyiv without heat in recent weeks, in a campaign that has appeared aimed at breaking Ukraine’s morale.",
+      "content_text": "Russia has left thousands of apartment buildings in Kyiv without heat in recent weeks, in a campaign that has appeared aimed at breaking Ukraine’s morale.",
+      "date_published": "2026-01-29T22:53:32.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/business/media/california-post-new-york-post-fox-rupert-murdoch.html",

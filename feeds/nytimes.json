@@ -6,6 +6,22 @@
   "description": "纽约时报中文网 国际纵览",
   "items": [
     {
+      "id": "https://cn.nytimes.com/world/20260130/china-starmer-xi-jinping/",
+      "url": "https://cn.nytimes.com/world/20260130/china-starmer-xi-jinping/?utm_source=RSS",
+      "title": "斯塔默与习近平会晤，中英关系为何“破冰”？",
+      "content_html": "斯塔默是2018年以来首位访华的英国领导人。美国与其欧洲盟友因安全与贸易争端关系陷入紧张之际，斯塔默试图在不触怒特朗普的情况下向北京示好。<p><img src='https://static01.nyt.com/images/2026/01/29/multimedia/29int-china-starmer-zlqw/29int-china-starmer-zlqw-articleLarge.jpg' alt='周四，在北京参加习近平主席与英国首相斯塔默双边会谈的中英两国代表团。 Carl Court/Getty Images'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Carl Court/Getty Images</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>周四，在北京参加习近平主席与英国首相斯塔默双边会谈的中英两国代表团。</p>",
+      "content_text": "斯塔默是2018年以来首位访华的英国领导人。美国与其欧洲盟友因安全与贸易争端关系陷入紧张之际，斯塔默试图在不触怒特朗普的情况下向北京示好。                    Carl Court/Getty Images                    周四，在北京参加习近平主席与英国首相斯塔默双边会谈的中英两国代表团。",
+      "date_published": "2026-01-30T01:51:38.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/china/20260130/china-woman-mental-illness-rape/",
+      "url": "https://cn.nytimes.com/china/20260130/china-woman-mental-illness-rape/?utm_source=RSS",
+      "title": "精神残障女硕士“被收留”案：男方不予起诉引发众怒",
+      "content_html": "这名被称为“花花”的女子13年前离家出走，被发现时已与一名男子育有多名子女。检方称这名女子“无性自我防卫能力”，但该男子行为与“与强奸犯罪行为存在本质区别”。<p><img src='https://static01.nyt.com/images/2026/01/29/multimedia/29int-china-woman-hltm/29int-china-woman-hltm-articleLarge.jpg' alt='在山西某医院，一名卜姓女子在失踪多年后与亲属重聚，照片由她的嫂子发布在社交媒体上。 Huahuasaozi, via Douyin'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Huahuasaozi, via Douyin</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>在山西某医院，一名卜姓女子在失踪多年后与亲属重聚，照片由她的嫂子发布在社交媒体上。</p>",
+      "content_text": "这名被称为“花花”的女子13年前离家出走，被发现时已与一名男子育有多名子女。检方称这名女子“无性自我防卫能力”，但该男子行为与“与强奸犯罪行为存在本质区别”。                    Huahuasaozi, via Douyin                    在山西某医院，一名卜姓女子在失踪多年后与亲属重聚，照片由她的嫂子发布在社交媒体上。",
+      "date_published": "2026-01-30T01:25:10.000Z"
+    },
+    {
       "id": "https://cn.nytimes.com/usa/20260129/heng-guan-china-uyghurs-asylum/",
       "url": "https://cn.nytimes.com/usa/20260129/heng-guan-china-uyghurs-asylum/?utm_source=RSS",
       "title": "关恒获美国政治庇护，曾秘密记录新疆拘禁营",

@@ -6,6 +6,30 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46814743",
+      "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+      "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+      "content_html": "<p>Article URL: <a href=\"https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/\">https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46814743\">https://news.ycombinator.com/item?id=46814743</a></p>\n<p>Points: 263</p>\n<p># Comments: 106</p>",
+      "content_text": "Article URL: https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/\nComments URL: https://news.ycombinator.com/item?id=46814743\nPoints: 263\n# Comments: 106",
+      "date_published": "2026-01-29T18:55:38.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46814614",
+      "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+      "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
+      "content_html": "<p>Article URL: <a href=\"https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/\">https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46814614\">https://news.ycombinator.com/item?id=46814614</a></p>\n<p>Points: 290</p>\n<p># Comments: 152</p>",
+      "content_text": "Article URL: https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/\nComments URL: https://news.ycombinator.com/item?id=46814614\nPoints: 290\n# Comments: 152",
+      "date_published": "2026-01-29T18:48:09.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46814089",
+      "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/",
+      "title": "Tesla is committing automotive suicide",
+      "content_html": "<p>Article URL: <a href=\"https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/\">https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46814089\">https://news.ycombinator.com/item?id=46814089</a></p>\n<p>Points: 242</p>\n<p># Comments: 289</p>",
+      "content_text": "Article URL: https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/\nComments URL: https://news.ycombinator.com/item?id=46814089\nPoints: 242\n# Comments: 289",
+      "date_published": "2026-01-29T18:16:45.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46812933",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
       "title": "Project Genie: Experimenting with infinite, interactive worlds",
@@ -36,6 +60,14 @@
       "content_html": "<p>Article URL: <a href=\"https://marginlab.ai/trackers/claude-code/\">https://marginlab.ai/trackers/claude-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810282\">https://news.ycombinator.com/item?id=46810282</a></p>\n<p>Points: 239</p>\n<p># Comments: 123</p>",
       "content_text": "Article URL: https://marginlab.ai/trackers/claude-code/\nComments URL: https://news.ycombinator.com/item?id=46810282\nPoints: 239\n# Comments: 123",
       "date_published": "2026-01-29T13:59:07.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46810027",
+      "url": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
+      "title": "A lot of population numbers are fake",
+      "content_html": "<p>Article URL: <a href=\"https://davidoks.blog/p/a-lot-of-population-numbers-are-fake\">https://davidoks.blog/p/a-lot-of-population-numbers-are-fake</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810027\">https://news.ycombinator.com/item?id=46810027</a></p>\n<p>Points: 249</p>\n<p># Comments: 224</p>",
+      "content_text": "Article URL: https://davidoks.blog/p/a-lot-of-population-numbers-are-fake\nComments URL: https://news.ycombinator.com/item?id=46810027\nPoints: 249\n# Comments: 224",
+      "date_published": "2026-01-29T13:36:54.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46809069",

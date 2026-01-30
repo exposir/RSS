@@ -6,12 +6,44 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/clyz8g01vl7o/trad#6",
+      "url": "https://www.bbc.com/zhongwen/articles/clyz8g01vl7o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "10歲被診斷出強迫症的心理專家告訴你，如何辨識和應對相關徵兆",
+      "content_html": "強迫行為有時是心理層面的，例如反覆在心中數到某個特定數字；有時則是可見行為，例如明明知道輪胎沒問題，卻一再檢查。",
+      "content_text": "強迫行為有時是心理層面的，例如反覆在心中數到某個特定數字；有時則是可見行為，例如明明知道輪胎沒問題，卻一再檢查。",
+      "date_published": "2026-01-30T00:21:58.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/cy7mvvrv1peo/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/cy7mvvrv1peo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "中國歸化運動員：谷愛凌們的現況、起伏與走向",
+      "content_html": "歸化曾被視為中國體育提升成績和「軟實力」的一條捷徑，但其成效在不同項目呈現分化——從冰雪項目的耀眼成績，到團隊運動的停滯與爭議，那些年入籍中國的知名選手，現在都在做什麼？",
+      "content_text": "歸化曾被視為中國體育提升成績和「軟實力」的一條捷徑，但其成效在不同項目呈現分化——從冰雪項目的耀眼成績，到團隊運動的停滯與爭議，那些年入籍中國的知名選手，現在都在做什麼？",
+      "date_published": "2026-01-30T00:14:47.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "香港BNO移民潮：英國政府收緊政策，有港人質疑當局背棄承諾",
+      "content_html": "去年，英國政府提出持BN(O)簽證的香港人申請永居時需提高英語水平的要求、設定最低年收入，引起移民到英國的港人社群不安與擔憂。",
+      "content_text": "去年，英國政府提出持BN(O)簽證的香港人申請永居時需提高英語水平的要求、設定最低年收入，引起移民到英國的港人社群不安與擔憂。",
+      "date_published": "2026-01-30T00:12:34.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/c5y4z2l481no/trad#1",
       "url": "https://www.bbc.com/zhongwen/articles/c5y4z2l481no/trad?at_medium=RSS&at_campaign=rss",
       "title": "涉偽造文件歸化外籍球員，馬來西亞足協官員集體辭職",
       "content_html": "國際足聯指，馬來西亞足協偽造了出生證明文件，將球員的祖父母出生地標示為檳城、馬六甲等馬來西亞城市。",
       "content_text": "國際足聯指，馬來西亞足協偽造了出生證明文件，將球員的祖父母出生地標示為檳城、馬六甲等馬來西亞城市。",
       "date_published": "2026-01-29T07:08:19.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c301yq4828yo/trad#1",
+      "url": "https://www.bbc.com/zhongwen/articles/c301yq4828yo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "美國正準備再次打擊伊朗嗎？",
+      "content_html": "衛星影像顯示，美國軍事力量在該地區正持續且顯著地集結。",
+      "content_text": "衛星影像顯示，美國軍事力量在該地區正持續且顯著地集結。",
+      "date_published": "2026-01-29T06:31:14.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/c301yq4828yo/trad#0",
@@ -70,6 +102,14 @@
       "date_published": "2026-01-29T00:13:01.000Z"
     },
     {
+      "id": "https://www.bbc.com/zhongwen/articles/cn82pn4nvj9o/trad#6",
+      "url": "https://www.bbc.com/zhongwen/articles/cn82pn4nvj9o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "「AI鏡子」正在改變視障人士看見自己的方式",
+      "content_html": "人工智能正幫助視障人士獲得關於自己身體的視覺反饋——這對許多人而言是人生首次。但其情緒和心理影響，卻才剛剛開始浮現。",
+      "content_text": "人工智能正幫助視障人士獲得關於自己身體的視覺反饋——這對許多人而言是人生首次。但其情緒和心理影響，卻才剛剛開始浮現。",
+      "date_published": "2026-01-29T00:09:22.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/cn82pn4nvj9o/trad#1",
       "url": "https://www.bbc.com/zhongwen/articles/cn82pn4nvj9o/trad?at_medium=RSS&at_campaign=rss",
       "title": "「AI鏡子」正在改變視障人士看見自己的方式",
@@ -102,6 +142,14 @@
       "date_published": "2026-01-28T08:42:35.000Z"
     },
     {
+      "id": "https://www.bbc.com/zhongwen/articles/crrnpp0kr2no/trad#4",
+      "url": "https://www.bbc.com/zhongwen/articles/crrnpp0kr2no/trad?at_medium=RSS&at_campaign=rss",
+      "title": "統一教與名牌包：醜聞不斷的韓國前第一夫人金建希",
+      "content_html": "蒙羞下台的韓國前總統尹錫悅妻子、前第一夫人金建希將在本週面臨審判。",
+      "content_text": "蒙羞下台的韓國前總統尹錫悅妻子、前第一夫人金建希將在本週面臨審判。",
+      "date_published": "2026-01-28T05:48:21.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/crrnpp0kr2no/trad#1",
       "url": "https://www.bbc.com/zhongwen/articles/crrnpp0kr2no/trad?at_medium=RSS&at_campaign=rss",
       "title": "統一教與名牌包：醜聞不斷的韓國前第一夫人金建希",
@@ -132,6 +180,14 @@
       "content_html": "印度西孟加拉邦爆發致命的尼帕病毒疫情，引發亞洲部分地區的關注，一些國家已加強機場的檢疫措施。",
       "content_text": "印度西孟加拉邦爆發致命的尼帕病毒疫情，引發亞洲部分地區的關注，一些國家已加強機場的檢疫措施。",
       "date_published": "2026-01-28T05:44:11.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/cp80pl999gjo/trad#1",
+      "url": "https://www.bbc.com/zhongwen/articles/cp80pl999gjo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
+      "content_html": "前美國國安顧問沙利文表示，習近平「對一個與自己有如此長期關係的人下手，這令人震驚，也引發了許多疑問」。",
+      "content_text": "前美國國安顧問沙利文表示，習近平「對一個與自己有如此長期關係的人下手，這令人震驚，也引發了許多疑問」。",
+      "date_published": "2026-01-28T04:18:09.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/c3ed2xzlz9ko/trad#1",

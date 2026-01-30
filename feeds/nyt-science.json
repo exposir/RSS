@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/health/autism-panel-kennedy-iacc.html",
+      "url": "https://www.nytimes.com/2026/01/29/health/autism-panel-kennedy-iacc.html",
+      "title": "Kennedy Overhauls Federal Autism Panel in His Own Image",
+      "content_html": "The new panel, which advises the government on research and service priorities for people with autism, includes many members who have argued that vaccines cause the disorder.",
+      "content_text": "The new panel, which advises the government on research and service priorities for people with autism, includes many members who have argued that vaccines cause the disorder.",
+      "date_published": "2026-01-30T00:32:45.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/health/longevity-lifespan-age-genes.html",
       "url": "https://www.nytimes.com/2026/01/29/health/longevity-lifespan-age-genes.html",
       "title": "Genes May Control Your Longevity, However Healthily You Live",

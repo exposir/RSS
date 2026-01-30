@@ -6,6 +6,30 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3088129",
+      "url": "https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/",
+      "title": "How Sequoia-backed Ethos reached the public market while rivals fell short",
+      "content_html": "The profitable life-insurance platform was one of the first major tech companies to test the 2026 public markets.",
+      "content_text": "The profitable life-insurance platform was one of the first major tech companies to test the 2026 public markets.",
+      "date_published": "2026-01-30T01:33:13.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3088085",
+      "url": "https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/",
+      "title": "The iPhone just had its best quarter ever",
+      "content_html": "Growth in regions like China and India are credited with pushing Apple's phone sales higher than ever.",
+      "content_text": "Growth in regions like China and India are credited with pushing Apple's phone sales higher than ever.",
+      "date_published": "2026-01-29T23:57:21.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3088089",
+      "url": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
+      "title": "Guys, I don&#8217;t think Tim Cook knows how to monetize AI",
+      "content_html": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
+      "content_text": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
+      "date_published": "2026-01-29T23:51:17.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3088038",
       "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
       "title": "Amazon is reportedly in talks to invest $50 billion in OpenAI",

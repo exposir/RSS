@@ -17,6 +17,246 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189433",
+      "url": "https://www.v2ex.com/t/1189433#reply1",
+      "title": "[分享创造] 做了个英语语法练习网站给孩子用，求轻砍",
+      "content_html": "<h1>V2EX 发帖内容</h1>\n<h2>标题</h2>\n<pre><code>做了个英语语法练习网站给孩子用，求轻砍\n</code></pre>\n<h2>正文</h2>\n<h3>起因</h3>\n<p>最近在家教儿子和女儿英语，发现一个问题：</p>\n<p>儿子以前靠背课文，语法自然就会了。但女儿不一样——课文背得滚瓜烂熟，语法题照样错一片。</p>\n<p>这让我意识到：背诵对某些孩子管用，但不是万能的。语法还是得专项练、有反馈。</p>\n<p>找了一圈现成的资源，不太满意，干脆自己做一个。</p>\n<h3>网站</h3>\n<p>🔗 <strong><a href=\"https://english-grammar.app\" rel=\"nofollow\">https://english-grammar.app</a></strong></p>\n<p>⚠️ <strong>还在开发中</strong>，目前只完成了一个语法点：</p>\n<table>\n<thead>\n<tr>\n<th>内容</th>\n<th>说明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>语法点</td>\n<td>Present Simple （一般现在时）</td>\n</tr>\n<tr>\n<td>题目数</td>\n<td>180 道</td>\n</tr>\n<tr>\n<td>练习集</td>\n<td>9 套，从 verb \"be\" 到日常场景应用</td>\n</tr>\n<tr>\n<td>难度</td>\n<td>A1 入门</td>\n</tr>\n<tr>\n<td>模式</td>\n<td>选择题 / 填空题</td>\n</tr>\n<tr>\n<td>练习方式</td>\n<td>在线练习 + PDF 下载打印</td>\n</tr>\n</tbody></table><p>👉 直接体验：<a href=\"https://english-grammar.app/exercises/tenses/present-simple\" rel=\"nofollow\">Present Simple 练习</a></p>\n<p>给自己孩子试了一下，反馈 8 分（满分 10 ）。</p>\n<h3>为什么用全英文？</h3>\n<p>两个原因：</p>\n<ol>\n<li>\n<p><strong>用英语学英语更自然</strong> —— 减少中英切换的认知负担</p>\n</li>\n<li>\n<p><strong>中文语法术语对孩子是额外障碍</strong> —— 「主语」「宾语」「谓语」这些词本身就是生词。但英语里 subject / object / verb 在学习中反复出现，理解成本更低</p>\n</li>\n</ol>\n<h3>后续计划</h3>\n<ul>\n<li> 更多时态（过去时、将来时、进行时...）</li>\n<li> 其他语法专题</li>\n<li> 练习进度追踪</li>\n</ul>\n<hr/>\n<p><strong>备注：</strong></p>\n<ul>\n<li>网站目前完全免费，以后基础功能也会保持免费</li>\n<li>另外因为孩子要考公共英语三级（ PETS-3 ），还顺手 vibe coding 了一个听力练习软件，如果有兴趣下次可以介绍</li>\n</ul>\n<hr/>\n<p>项目刚起步，发出来求大家试用反馈。</p>\n<p>哪里不好用、哪里设计得蠢，欢迎轻砍 🙏</p>",
+      "content_text": "V2EX 发帖内容\n标题\n做了个英语语法练习网站给孩子用，求轻砍\n\n正文\n起因\n最近在家教儿子和女儿英语，发现一个问题：\n儿子以前靠背课文，语法自然就会了。但女儿不一样——课文背得滚瓜烂熟，语法题照样错一片。\n这让我意识到：背诵对某些孩子管用，但不是万能的。语法还是得专项练、有反馈。\n找了一圈现成的资源，不太满意，干脆自己做一个。\n网站\n🔗 https://english-grammar.app\n⚠️ 还在开发中，目前只完成了一个语法点：\n\n\n\n内容\n说明\n\n\n\n\n语法点\nPresent Simple （一般现在时）\n\n\n题目数\n180 道\n\n\n练习集\n9 套，从 verb \"be\" 到日常场景应用\n\n\n难度\nA1 入门\n\n\n模式\n选择题 / 填空题\n\n\n练习方式\n在线练习 + PDF 下载打印\n\n👉 直接体验：Present Simple 练习\n给自己孩子试了一下，反馈 8 分（满分 10 ）。\n为什么用全英文？\n两个原因：\n\n\n用英语学英语更自然 —— 减少中英切换的认知负担\n\n\n中文语法术语对孩子是额外障碍 —— 「主语」「宾语」「谓语」这些词本身就是生词。但英语里 subject / object / verb 在学习中反复出现，理解成本更低\n\n\n后续计划\n\n 更多时态（过去时、将来时、进行时...）\n 其他语法专题\n 练习进度追踪\n\n\n备注：\n\n网站目前完全免费，以后基础功能也会保持免费\n另外因为孩子要考公共英语三级（ PETS-3 ），还顺手 vibe coding 了一个听力练习软件，如果有兴趣下次可以介绍\n\n\n项目刚起步，发出来求大家试用反馈。\n哪里不好用、哪里设计得蠢，欢迎轻砍 🙏",
+      "date_published": "2026-01-30T01:59:30.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189431",
+      "url": "https://www.v2ex.com/t/1189431#reply0",
+      "title": "[程序员] 原来 1panel 的商店上架应用需要 10k 的 star 才行",
+      "content_html": "<h2>前言</h2>\n<p>这周想着上架下主流的一些 linux 管理面板（宝塔、1panel 、GMSSH ），花了点时间按照要求给 1panel 的仓库<a href=\"https://github.com/1Panel-dev/appstore/pull/6388\" rel=\"nofollow\">提交了 PR</a>，迟迟没人回复，就找到他们社区的联系方式，发现需要付费才能联系到他们。\n<img alt=\"07fcbd4d347a93a02af46386275c519b\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/Ld8yPG.png\"/></p>\n<p>那就充值 10 元，进群看看。</p>\n<p><img alt=\"f377b282e3107f003ec6f88a75c217a7\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/1oVI7N.png\"/></p>\n<p>进群后，我说明来意后才知道需要 10kstar 才能上架🥹</p>\n<p><img alt=\"image-20260130093549173\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/9K77cP.png\"/></p>\n<p><img alt=\"image-20260130093611819\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/wBugQh.png\"/></p>\n<p>这个 star 要求在他们对外发布的<a href=\"https://github.com/1Panel-dev/appstore/wiki/%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E8%87%AA%E5%B7%B1%E6%83%B3%E8%A6%81%E7%9A%84%E5%BA%94%E7%94%A8\" rel=\"nofollow\">文档</a>里没找到有说</p>\n<p><img alt=\"226099b1216852dca5c4d080cebb5291\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/ZTUlbJ.png\"/></p>\n<p>这里也算是给大家踩坑了，需要上架商店的好兄弟需要注意下这一点了😂。</p>\n<h2>上架宝塔</h2>\n<p>宝塔这边的社区氛围就比较好了，官网有说明直接加他们的官方群（提供了 QQ 群号）即可，进群后，他们还挺热情的。\n<img alt=\"image-20260130095048787\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/4iNBz8.png\"/></p>\n<p><img alt=\"image-20260130095121390\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/xMofnu.png\"/></p>\n<h2>上架 GMSSH</h2>\n<p>这个平台的体验就很好了，官方很热情的帮我解答，很快就完成了上架。\n<img alt=\"image-20260130095329500\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/GeuOct.png\"/></p>\n<p><img alt=\"image-20260130095347067\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/KYB6vU.png\"/></p>\n<p><img alt=\"image-20260130095406074\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/ubwiQz.png\"/></p>\n<p><img alt=\"image-20260130095417409\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/zIhQHP.png\"/></p>\n<p><img alt=\"image-20260130095440405\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/b1zhgF.png\"/></p>\n<p><img alt=\"image-20260130095459769\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/duvmZ1.png\"/></p>\n<p>效率非常高。</p>\n<p><img alt=\"image-20260130095543778\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://resource.kaisir.cn/uploads/MarkDownImg/20260130/YhBZus.png\"/></p>\n<h2>项目地址</h2>\n<ul>\n<li>GitHub 地址： <a href=\"https://github.com/likaia/nginxpulse\" rel=\"nofollow\">https://github.com/likaia/nginxpulse</a></li>\n<li>dockerhub 地址： <a href=\"https://hub.docker.com/r/magiccoders/nginxpulse/\" rel=\"nofollow\">https://hub.docker.com/r/magiccoders/nginxpulse/</a></li>\n</ul>\n<h2>写在最后</h2>\n<p>至此，文章就分享完毕了。</p>\n<p>我是<strong>神奇的程序员</strong>，一位前端开发工程师。</p>\n<p>如果你对我感兴趣，请移步我的<a href=\"https://www.kaisir.cn/\" rel=\"nofollow\">个人网站</a>，进一步了解。</p>",
+      "content_text": "前言\n这周想着上架下主流的一些 linux 管理面板（宝塔、1panel 、GMSSH ），花了点时间按照要求给 1panel 的仓库提交了 PR，迟迟没人回复，就找到他们社区的联系方式，发现需要付费才能联系到他们。\n\n那就充值 10 元，进群看看。\n\n进群后，我说明来意后才知道需要 10kstar 才能上架🥹\n\n\n这个 star 要求在他们对外发布的文档里没找到有说\n\n这里也算是给大家踩坑了，需要上架商店的好兄弟需要注意下这一点了😂。\n上架宝塔\n宝塔这边的社区氛围就比较好了，官网有说明直接加他们的官方群（提供了 QQ 群号）即可，进群后，他们还挺热情的。\n\n\n上架 GMSSH\n这个平台的体验就很好了，官方很热情的帮我解答，很快就完成了上架。\n\n\n\n\n\n\n效率非常高。\n\n项目地址\n\nGitHub 地址： https://github.com/likaia/nginxpulse\ndockerhub 地址： https://hub.docker.com/r/magiccoders/nginxpulse/\n\n写在最后\n至此，文章就分享完毕了。\n我是神奇的程序员，一位前端开发工程师。\n如果你对我感兴趣，请移步我的个人网站，进一步了解。",
+      "date_published": "2026-01-30T01:57:17.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189430",
+      "url": "https://www.v2ex.com/t/1189430#reply0",
+      "title": "[问与答] 向各位 V 友请教下，平时是如何排解工作上的压力",
+      "content_html": "<p>感觉自己的抗压能力很差，工作压力产生的情绪，会直接影响我的业余生活，可能也跟我没有什么社交有关，积压的负面情绪没地方倾诉（其实也不太愿意向别人倒情绪垃圾）</p>",
+      "content_text": "感觉自己的抗压能力很差，工作压力产生的情绪，会直接影响我的业余生活，可能也跟我没有什么社交有关，积压的负面情绪没地方倾诉（其实也不太愿意向别人倒情绪垃圾）",
+      "date_published": "2026-01-30T01:56:16.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189428",
+      "url": "https://www.v2ex.com/t/1189428#reply0",
+      "title": "[程序员] [血泪教训] 仲裁被律师带节奏， 2N 变成 N+1.5 的惨痛经历",
+      "content_html": "<p><strong>背景：</strong></p>\n<ul>\n<li>工龄：4 年（ N=4 ）</li>\n<li>诉求：2N 赔偿（ 8 个月工资）</li>\n<li>公司单方面发解除劳动关系邮件，赔偿未谈拢</li>\n</ul>\n<p><strong>经过：</strong></p>\n<p>因为是第一次打仲裁，担心出差错，花钱请了律师。仲裁前强制调解没成，进入正式仲裁流程。</p>\n<p><strong>昨天开庭时的神操作：</strong></p>\n<p>万万没想到，开庭前又要走一轮调解。我本人没去现场，律师在法庭直接微信语音打过来，背景还有法官在问话，给我的压力非常大。</p>\n<p>律师问：\"多少能调解？\"</p>\n<p>当时脑子没转过来，随口说了\"N+2 能调\"。对方不答应，我说那就开庭。</p>\n<p><strong>不到 2 分钟</strong>，律师又打来电话，开始各种劝：</p>\n<ul>\n<li>\"调解可以直接拿到钱\"</li>\n<li>\"开庭有风险\"  </li>\n<li>\"就算赢了还可能一审二审，可能会拖一二年\"</li>\n<li>\"即使胜了公司钱到不到位还另说\"</li>\n</ul>\n<p>我经历这种事少，加上现场那种紧迫感，一下就被带进去了。</p>\n<p><strong>最终结果：N+1.5 调解结案</strong></p>\n<hr/>\n<p><strong>现在回想起来：</strong></p>\n<ol>\n<li>\n<p><strong>律师前后态度 180 度转变</strong>：没收钱时说\"这个可以\"，收集材料时\"信心满满\"，到了现场一个劲催调解</p>\n</li>\n<li>\n<p><strong>准备严重不足</strong>：对仲裁流程、谈判策略了解太少，以为只有最好的结果，现实和理想差太远</p>\n</li>\n<li>\n<p><strong>现场决策太仓促</strong>：在法庭那种高压环境下，通过语音电话做重大决定，根本没时间冷静思考</p>\n</li>\n</ol>\n<p><strong>如果时光能倒流，我只接受两个结果：N 或 2N</strong></p>\n<hr/>\n<p><strong>给大家的教训：</strong></p>\n<ul>\n<li>仲裁前一定要充分了解流程和自己的底线</li>\n<li>重大决策不要在高压环境下仓促做出</li>\n<li>律师也有自己的立场（快速结案），不一定完全站在你这边</li>\n<li>调解≠认怂，但也要提前想好能接受的最低线</li>\n</ul>\n<p>唉，只能说花钱买了个教训...</p>",
+      "content_text": "背景：\n\n工龄：4 年（ N=4 ）\n诉求：2N 赔偿（ 8 个月工资）\n公司单方面发解除劳动关系邮件，赔偿未谈拢\n\n经过：\n因为是第一次打仲裁，担心出差错，花钱请了律师。仲裁前强制调解没成，进入正式仲裁流程。\n昨天开庭时的神操作：\n万万没想到，开庭前又要走一轮调解。我本人没去现场，律师在法庭直接微信语音打过来，背景还有法官在问话，给我的压力非常大。\n律师问：\"多少能调解？\"\n当时脑子没转过来，随口说了\"N+2 能调\"。对方不答应，我说那就开庭。\n不到 2 分钟，律师又打来电话，开始各种劝：\n\n\"调解可以直接拿到钱\"\n\"开庭有风险\"  \n\"就算赢了还可能一审二审，可能会拖一二年\"\n\"即使胜了公司钱到不到位还另说\"\n\n我经历这种事少，加上现场那种紧迫感，一下就被带进去了。\n最终结果：N+1.5 调解结案\n\n现在回想起来：\n\n\n律师前后态度 180 度转变：没收钱时说\"这个可以\"，收集材料时\"信心满满\"，到了现场一个劲催调解\n\n\n准备严重不足：对仲裁流程、谈判策略了解太少，以为只有最好的结果，现实和理想差太远\n\n\n现场决策太仓促：在法庭那种高压环境下，通过语音电话做重大决定，根本没时间冷静思考\n\n\n如果时光能倒流，我只接受两个结果：N 或 2N\n\n给大家的教训：\n\n仲裁前一定要充分了解流程和自己的底线\n重大决策不要在高压环境下仓促做出\n律师也有自己的立场（快速结案），不一定完全站在你这边\n调解≠认怂，但也要提前想好能接受的最低线\n\n唉，只能说花钱买了个教训...",
+      "date_published": "2026-01-30T01:54:45.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189429",
+      "url": "https://www.v2ex.com/t/1189429#reply4",
+      "title": "[问与答] 年终奖发现金需要交税吗？",
+      "content_html": "<p>发了 3 个月年终奖，全是现金，想把这笔钱存起来，需要去交税吗？</p>",
+      "content_text": "发了 3 个月年终奖，全是现金，想把这笔钱存起来，需要去交税吗？",
+      "date_published": "2026-01-30T01:54:45.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189427",
+      "url": "https://www.v2ex.com/t/1189427#reply0",
+      "title": "[问与答] 现在 sora2 必须验证手机号才能用了，还有什么其他渠道用吗？",
+      "content_html": "<p>最近上号发现 sora2 需要海外手机号验证，接码平台很多手机号压根用不了，还有其他什么更方便的途径使用吗？</p>",
+      "content_text": "最近上号发现 sora2 需要海外手机号验证，接码平台很多手机号压根用不了，还有其他什么更方便的途径使用吗？",
+      "date_published": "2026-01-30T01:53:09.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189425",
+      "url": "https://www.v2ex.com/t/1189425#reply6",
+      "title": "[推广] [送码] App 正式上架， Do? 您的亲密行为记录应用，记录爱的每一次",
+      "content_html": "<p>在主题下方评论，OP 将在今日 18:00 （ UTC+8 ）在评论中抽取 20 个兑换码（年度 * 5 ， 月度 * 5 ， 季度 * 10 ）,以及烦请在 <a href=\"https://www.producthunt.com/products/do-a-beautiful-intimacy-journal?launch=do-a-beautiful-intimacy-journal\" rel=\"nofollow\">producthunt</a> 中评论或点赞</p>\n<p>Do? 是您探索亲密关系与性健康的私人伴侣。无论是独自探索身体的奥秘，还是与爱人共度激情时刻，Do? 都能帮您记录爱、理解爱，让每一次心动都有迹可循。</p>\n<p>性健康也是健康的重要一环。我们相信，通过记录与回顾，您能更好地了解自己的身体韵律，提升亲密质量，拥抱更愉悦的生活。</p>\n<p>为什么选择 Do?</p>\n<p>唯美的亲密日记\n告别枯燥的列表。Do? 采用精美的日历与时间轴设计，为您珍藏每一次独处或相聚的记忆。优雅的界面设计，只为匹配您最私密的时刻。</p>\n<p>看得见的激情\n与 HealthKit 和 Apple Watch 无缝同步。实时监测心率起伏，计算亲密运动的卡路里消耗。通过数据，直观感受“慢热”的温存与“巅峰”的狂野。</p>\n<p>探索身体的秘密\n您是周末派还是工作日派？偏爱清晨的唤醒还是深夜的缠绵？通过 GitHub 风格的年度热力图和详尽的图表分析，发现您潜意识里的性爱偏好与规律。</p>\n<p>极致的隐私保护\n您的隐私是我们的底线。Do? 的所有数据仅存储在您的设备或私有 iCloud 中，我们无法查看。支持 FaceID/TouchID 锁定，给您的秘密加把锁。</p>\n<p>沉浸当下\n独立的 Apple Watch 应用让您可以抬手即录，无需寻找手机。让科技隐于无形，让您全身心投入当下的感受。</p>\n<p>核心功能：\n• 全面记录： 时长、姿势、地点、保护措施，细节尽在掌握。\n• 伴侣管理： 以尊重的方式，更有序地记录与不同伴侣的点滴回忆。\n• 深度洞察： 按周、月、年回顾您的亲密历程，读懂身体的语言。\n• 个性定制： 自定义主题色、App 图标和标签，打造专属于您的私密空间。</p>\n<p>下载 Do?，开启您的亲密健康探索之旅。</p>\n<p><a href=\"https://apps.apple.com/cn/app/do/id6757778324\" rel=\"nofollow\">AppStore 链接</a>\n<a href=\"https://x.com/XiaoyehuaDev\" rel=\"nofollow\">X</a>\n<a href=\"https://apps.apple.com/cn/app/do/id6757778324\" rel=\"nofollow\">tg</a></p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/X4k5dAI.png\"/> <img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/3LcyMww.png\"/> <img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/aDnUnNd.png\"/> <img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/DrZ74ZI.png\"/> <img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/jJwj3Hy.png\"/> <img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/WT8mGFN.png\"/></p>",
+      "content_text": "在主题下方评论，OP 将在今日 18:00 （ UTC+8 ）在评论中抽取 20 个兑换码（年度 * 5 ， 月度 * 5 ， 季度 * 10 ）,以及烦请在 producthunt 中评论或点赞\nDo? 是您探索亲密关系与性健康的私人伴侣。无论是独自探索身体的奥秘，还是与爱人共度激情时刻，Do? 都能帮您记录爱、理解爱，让每一次心动都有迹可循。\n性健康也是健康的重要一环。我们相信，通过记录与回顾，您能更好地了解自己的身体韵律，提升亲密质量，拥抱更愉悦的生活。\n为什么选择 Do?\n唯美的亲密日记\n告别枯燥的列表。Do? 采用精美的日历与时间轴设计，为您珍藏每一次独处或相聚的记忆。优雅的界面设计，只为匹配您最私密的时刻。\n看得见的激情\n与 HealthKit 和 Apple Watch 无缝同步。实时监测心率起伏，计算亲密运动的卡路里消耗。通过数据，直观感受“慢热”的温存与“巅峰”的狂野。\n探索身体的秘密\n您是周末派还是工作日派？偏爱清晨的唤醒还是深夜的缠绵？通过 GitHub 风格的年度热力图和详尽的图表分析，发现您潜意识里的性爱偏好与规律。\n极致的隐私保护\n您的隐私是我们的底线。Do? 的所有数据仅存储在您的设备或私有 iCloud 中，我们无法查看。支持 FaceID/TouchID 锁定，给您的秘密加把锁。\n沉浸当下\n独立的 Apple Watch 应用让您可以抬手即录，无需寻找手机。让科技隐于无形，让您全身心投入当下的感受。\n核心功能：\n• 全面记录： 时长、姿势、地点、保护措施，细节尽在掌握。\n• 伴侣管理： 以尊重的方式，更有序地记录与不同伴侣的点滴回忆。\n• 深度洞察： 按周、月、年回顾您的亲密历程，读懂身体的语言。\n• 个性定制： 自定义主题色、App 图标和标签，打造专属于您的私密空间。\n下载 Do?，开启您的亲密健康探索之旅。\nAppStore 链接\nX\ntg",
+      "date_published": "2026-01-30T01:39:12.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189424",
+      "url": "https://www.v2ex.com/t/1189424#reply6",
+      "title": "[生活] 以前我对一些不喜欢主题都想去说几句，现在内心平静如水，都是忽略",
+      "content_html": "<p>以前我对一些不(s)喜(b)欢主题都想去说几句，现在内心平静如水，都是忽略\n几乎没有发表的欲望\n比如....有感 ...有感..有感的拾人牙慧套娃贴\n比如那些月经贴\n等等</p>",
+      "content_text": "以前我对一些不(s)喜(b)欢主题都想去说几句，现在内心平静如水，都是忽略\n几乎没有发表的欲望\n比如....有感 ...有感..有感的拾人牙慧套娃贴\n比如那些月经贴\n等等",
+      "date_published": "2026-01-30T01:35:14.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189421",
+      "url": "https://www.v2ex.com/t/1189421#reply1",
+      "title": "[推广] 稳定高性价比 大香蕉 gemini3proimage（支持异步调用）支持高并发速刷、特惠 claude code",
+      "content_html": "<p>全球主流 AI 模型聚合服务平台</p>\n<p>支持在线使用、 支持高并发 API 调用</p>\n<p>全网主流 ai 模型，主流的基本都有：chatgpt 、claude 、gemini 、mj 、sd 、flux 、suno 、luma 、智普、百度等，</p>\n<p>系统已稳定运行 2 年多。。。</p>\n<p>异步大香蕉 gemini3proimage ，异步生成图片</p>\n<p>使用地址：</p>\n<p>国内支持第三方登录： <a href=\"https://api.cphone.vip\" rel=\"nofollow\">https://api.cphone.vip</a></p>\n<p>国外暂不支持第三方登录： <a href=\"https://api.chengfai.com\" rel=\"nofollow\">https://api.chengfai.com</a></p>",
+      "content_text": "全球主流 AI 模型聚合服务平台\n支持在线使用、 支持高并发 API 调用\n全网主流 ai 模型，主流的基本都有：chatgpt 、claude 、gemini 、mj 、sd 、flux 、suno 、luma 、智普、百度等，\n系统已稳定运行 2 年多。。。\n异步大香蕉 gemini3proimage ，异步生成图片\n使用地址：\n国内支持第三方登录： https://api.cphone.vip\n国外暂不支持第三方登录： https://api.chengfai.com",
+      "date_published": "2026-01-30T01:30:24.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189420",
+      "url": "https://www.v2ex.com/t/1189420#reply9",
+      "title": "[Vibe Coding] LEVEL1 ~ LEVEL8,你的 AI 编程到哪一个级别了",
+      "content_html": "阮一峰的周刊今日的 title 讲的是 google 程序员 Steve Yegge 最新的文章 <a target=\"_blank\" href=\"https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04\" rel=\"nofollow noopener\">https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04</a> 中 对 AI 的看法<br />他说 AI 编程有 8 级<br />第 1 级，还没有接触到 AI 编程，你的 IDE 还是正常的样子 <br /> <br /> 第 2 级，你在 IDE 装了 AI 插件，开启了侧边栏，AI 时不时提出代码建议，问你是否接受（ Yes or No ）。<br /> <br />第 3 级，你开始信任 AI 编程，进入了 YOLO 模式（\"你只活一次\"模式，You Only Live Once ）。为了节省时间精力，你不再逐条确认 AI 的建议，只要是 AI 生成出来的东西，你就一路按 Yes ，统统接受。<br /> <br />第 4 级，AI 占据的屏幕宽度越来越大，手工编辑的代码区仅用于比对代码差异。<br /> <br />第 5 级，你索性不要代码区了，改用命令行（比如 Claude Code ），所有的屏幕宽度都留给了 AI 。你现在不看 AI 的生成结果了，只看它的完成进度。<br /> <br />第 6 级，你觉得只用一个 AI 太慢，于是打开 3 到 5 个窗口，同时进行 AI 编程，加快速度。<br /> <br />第 7 级，同时打开的 AI 编程窗口到了 10 个以上，已经是你手工管理的极限了。 <br /> <br />第 8 级，你开始使用 AI 任务编排器，让计算机管理并行的多个 AI 编程。<br /><br />我现在应该是 LEVEL 6 ,claude code + 某很便宜的国产模型，使用强度没那么大 但是之前也用过 vibe-kanban 之类的开源工具 感觉体验不太好 ，总会报错，还不如多窗口。 但是代码类的 ai 生成后 我还是会自己 review 并提交<br /><br />v 站的大佬们都到哪一个级别了 具体使用方式是什么呢",
+      "content_text": "阮一峰的周刊今日的 title 讲的是 google 程序员 Steve Yegge 最新的文章 https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04 中 对 AI 的看法他说 AI 编程有 8 级第 1 级，还没有接触到 AI 编程，你的 IDE 还是正常的样子   第 2 级，你在 IDE 装了 AI 插件，开启了侧边栏，AI 时不时提出代码建议，问你是否接受（ Yes or No ）。 第 3 级，你开始信任 AI 编程，进入了 YOLO 模式（\"你只活一次\"模式，You Only Live Once ）。为了节省时间精力，你不再逐条确认 AI 的建议，只要是 AI 生成出来的东西，你就一路按 Yes ，统统接受。 第 4 级，AI 占据的屏幕宽度越来越大，手工编辑的代码区仅用于比对代码差异。 第 5 级，你索性不要代码区了，改用命令行（比如 Claude Code ），所有的屏幕宽度都留给了 AI 。你现在不看 AI 的生成结果了，只看它的完成进度。 第 6 级，你觉得只用一个 AI 太慢，于是打开 3 到 5 个窗口，同时进行 AI 编程，加快速度。 第 7 级，同时打开的 AI 编程窗口到了 10 个以上，已经是你手工管理的极限了。  第 8 级，你开始使用 AI 任务编排器，让计算机管理并行的多个 AI 编程。我现在应该是 LEVEL 6 ,claude code + 某很便宜的国产模型，使用强度没那么大 但是之前也用过 vibe-kanban 之类的开源工具 感觉体验不太好 ，总会报错，还不如多窗口。 但是代码类的 ai 生成后 我还是会自己 review 并提交v 站的大佬们都到哪一个级别了 具体使用方式是什么呢",
+      "date_published": "2026-01-30T01:30:07.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189419",
+      "url": "https://www.v2ex.com/t/1189419#reply0",
+      "title": "[Telegram] 求助:we've sent the code to the telegram app",
+      "content_html": "<p>之前应该是吧 teleram 卸载了，没有正常退出；\n现在登录提示：we've sent the code to the telegram app</p>\n<p>死锁了。\n有解吗</p>",
+      "content_text": "之前应该是吧 teleram 卸载了，没有正常退出；\n现在登录提示：we've sent the code to the telegram app\n死锁了。\n有解吗",
+      "date_published": "2026-01-30T01:29:40.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189417",
+      "url": "https://www.v2ex.com/t/1189417#reply0",
+      "title": "[程序员] ai-global 现已支持 project mode，一行命令统一项目所有 AI 配置",
+      "content_html": "<p>ai-global ，一行命令统一 AI 编程工具配置</p>\n<p>新版本现已支持 project mode ，没有任何新命令，直接在某个项目下运行 ai-global 即可（在 ~ 下运行即是统一全局配置</p>\n<p>同时根据 PR 添加了繁体中文/日文/韩文 README 😇</p>\n<p><a href=\"https://github.com/nanxiaobei/ai-global\" rel=\"nofollow\">https://github.com/nanxiaobei/ai-global</a></p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.mji.rip/2026/01/30/9a22f1c1a700e46a33653ab468cab7e5.png\"/></p>",
+      "content_text": "ai-global ，一行命令统一 AI 编程工具配置\n新版本现已支持 project mode ，没有任何新命令，直接在某个项目下运行 ai-global 即可（在 ~ 下运行即是统一全局配置\n同时根据 PR 添加了繁体中文/日文/韩文 README 😇\nhttps://github.com/nanxiaobei/ai-global",
+      "date_published": "2026-01-30T01:27:43.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189416",
+      "url": "https://www.v2ex.com/t/1189416#reply17",
+      "title": "[生活] 有没有被楼上噪音困扰的进来聊聊，你们是怎么解决的",
+      "content_html": "<p>RT ，被楼上噪音困扰了五六年（感觉有点神经衰弱了，听到噪音就心慌），每天折腾到三四点，因为这个问题最后闹了一场，报警了，貌似民警也招儿，说是让自行调解，最后在公安局被晾着待了一宿，算是彻底跟楼上闹掰了，前段时间好不容易楼上搬家了；又搬来一家冤家，小孩儿三四岁，天天在屋里跑，十一点以后还是，大人就一直在卧室搬椅子，咣咣声不断，想着他们家里有小孩忍忍就算了，后来感觉神经衰弱都加重了，实在忍不了了遂又上门沟通，然而并没有效果，仍然是老样子，折腾到 12 点多。导致睡眠质量严重下降。想问下各位 V 友，遇到这种情况，你们都是怎么解决的。</p>",
+      "content_text": "RT ，被楼上噪音困扰了五六年（感觉有点神经衰弱了，听到噪音就心慌），每天折腾到三四点，因为这个问题最后闹了一场，报警了，貌似民警也招儿，说是让自行调解，最后在公安局被晾着待了一宿，算是彻底跟楼上闹掰了，前段时间好不容易楼上搬家了；又搬来一家冤家，小孩儿三四岁，天天在屋里跑，十一点以后还是，大人就一直在卧室搬椅子，咣咣声不断，想着他们家里有小孩忍忍就算了，后来感觉神经衰弱都加重了，实在忍不了了遂又上门沟通，然而并没有效果，仍然是老样子，折腾到 12 点多。导致睡眠质量严重下降。想问下各位 V 友，遇到这种情况，你们都是怎么解决的。",
+      "date_published": "2026-01-30T01:26:47.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189415",
+      "url": "https://www.v2ex.com/t/1189415#reply1",
+      "title": "[问与答] 有没有简单易用的图片处理工具，进行一些简单的图片处理",
+      "content_html": "<p>可以一键实现如下功能：</p>\n<ul>\n<li>图片变清晰（增大分辨率）</li>\n<li>图片去/加水印</li>\n<li>图片裁剪/拼接</li>\n<li>去除图片背景</li>\n<li>可以在图片上加文字、换字体</li>\n</ul>\n<p>一键操作，不需要太复杂的调整，有收费的或许 SAAS 的也行。</p>",
+      "content_text": "可以一键实现如下功能：\n\n图片变清晰（增大分辨率）\n图片去/加水印\n图片裁剪/拼接\n去除图片背景\n可以在图片上加文字、换字体\n\n一键操作，不需要太复杂的调整，有收费的或许 SAAS 的也行。",
+      "date_published": "2026-01-30T01:24:04.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189414",
+      "url": "https://www.v2ex.com/t/1189414#reply1",
+      "title": "[VPS] cloudcone 登录不上去了",
+      "content_html": "cloudcone 网站登录不上去了，验证码刷新不出来，是空白的，vps 主机也登录不上去，有人遇到吗",
+      "content_text": "cloudcone 网站登录不上去了，验证码刷新不出来，是空白的，vps 主机也登录不上去，有人遇到吗",
+      "date_published": "2026-01-30T01:20:13.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189413",
+      "url": "https://www.v2ex.com/t/1189413#reply0",
+      "title": "[程序员] 请教大佬们一个 konga 的问题",
+      "content_html": "<p>konga 连不上 kong-ce,但是直接连 kong-ce 都是通的，kong-ce 也正常，telnet http://kong-ce:8001 也能通，有啥排查方向么？我们都是部署在 docker-swarm 网络中的</p>",
+      "content_text": "konga 连不上 kong-ce,但是直接连 kong-ce 都是通的，kong-ce 也正常，telnet http://kong-ce:8001 也能通，有啥排查方向么？我们都是部署在 docker-swarm 网络中的",
+      "date_published": "2026-01-30T01:15:30.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189412",
+      "url": "https://www.v2ex.com/t/1189412#reply4",
+      "title": "[问与答] 一月的最后一个工作日，大家的一月目标完成了吗，对二月有什么期待和想法",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T01:14:31.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189411",
+      "url": "https://www.v2ex.com/t/1189411#reply2",
+      "title": "[VPS] cloudcone VPS 无法访问",
+      "content_html": "<p>5:29 收件监控告警，想着上班后看看的，结果官网都登录不上。</p>\n<p>cloudcone status 已更新 Major incident</p>\n<p><a href=\"https://status.cloudcone.com/\" rel=\"nofollow\">https://status.cloudcone.com/</a></p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/CztaSA5.png\"/></p>",
+      "content_text": "5:29 收件监控告警，想着上班后看看的，结果官网都登录不上。\ncloudcone status 已更新 Major incident\nhttps://status.cloudcone.com/",
+      "date_published": "2026-01-30T01:13:59.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189410",
+      "url": "https://www.v2ex.com/t/1189410#reply0",
+      "title": "[分享创造] 看了太多 nano banana 套壳，我做了一个真的能解决科研绘图的网站",
+      "content_html": "<p>掐指一算，距离上次发帖已经过去大半年了。</p>\n<p>还记得我之前发的那个科研图库 Plottie.art 吗？当时本来只是想做一个“科研界的 Pinterest”，方便大家找灵感。那之后收到了不少朋友的鼓励和建议，这半年里我也一直在维护更新，现在里面已经有十万多张图片了。</p>\n<p>但在这个过程中，我发现了一个更本质的痛点：\n“图找到了，知道什么图好看了，但手残还是画不出来啊！” 😭</p>\n<p>这个问题上一个帖子也有大佬聊到。即使是像我这样有多年经验的老手在 AI 的帮助下也需要几十分钟才能完成一个论文图的调教，更不用说复杂点的示意图了。nano banana 虽然比其他生图模型好很多了，但是还是经常需要抽卡，仔细修改提示词来实现专业风格。</p>\n<p>受 lovart 启发，我在 plottie.art 的基础上做了一个科研版的画图 agent\n在里面，你可以：</p>\n<ul>\n<li>用你的数据零代码零提示词进行数据可视化</li>\n<li>秒画流程图，还可以直接编辑修改</li>\n<li>只用简单的描述就能生成专业风格的示意图</li>\n<li>所有画图都在无限画布上操作，画完直接组 figure 导出</li>\n<li>因为 AI 会自己在图片库里面找模版，所以风格样式能做到直接发表级别的，算是一个创新吧。</li>\n</ul>\n<p>从 Plottie 的找图，到 Plottie AI 的直接画图，算是离这个目标又近了一小步。</p>\n<p>以前我们觉得“专业”就意味着必须得会写复杂的代码，或者买死贵的软件。但我希望未来的科研绘图能比聊天还简单，这样就能有更多的精力花在思考科学问题上。</p>\n<p>不知道 V 站上有多少科研狗，感兴趣的同学可以体验一下，欢迎提意见交流。</p>\n<p>链接：<a href=\"https://ai.plottie.art\" rel=\"nofollow\">https://ai.plottie.art</a></p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.plottie.art/blog/Plottie.png\"/></p>",
+      "content_text": "掐指一算，距离上次发帖已经过去大半年了。\n还记得我之前发的那个科研图库 Plottie.art 吗？当时本来只是想做一个“科研界的 Pinterest”，方便大家找灵感。那之后收到了不少朋友的鼓励和建议，这半年里我也一直在维护更新，现在里面已经有十万多张图片了。\n但在这个过程中，我发现了一个更本质的痛点：\n“图找到了，知道什么图好看了，但手残还是画不出来啊！” 😭\n这个问题上一个帖子也有大佬聊到。即使是像我这样有多年经验的老手在 AI 的帮助下也需要几十分钟才能完成一个论文图的调教，更不用说复杂点的示意图了。nano banana 虽然比其他生图模型好很多了，但是还是经常需要抽卡，仔细修改提示词来实现专业风格。\n受 lovart 启发，我在 plottie.art 的基础上做了一个科研版的画图 agent\n在里面，你可以：\n\n用你的数据零代码零提示词进行数据可视化\n秒画流程图，还可以直接编辑修改\n只用简单的描述就能生成专业风格的示意图\n所有画图都在无限画布上操作，画完直接组 figure 导出\n因为 AI 会自己在图片库里面找模版，所以风格样式能做到直接发表级别的，算是一个创新吧。\n\n从 Plottie 的找图，到 Plottie AI 的直接画图，算是离这个目标又近了一小步。\n以前我们觉得“专业”就意味着必须得会写复杂的代码，或者买死贵的软件。但我希望未来的科研绘图能比聊天还简单，这样就能有更多的精力花在思考科学问题上。\n不知道 V 站上有多少科研狗，感兴趣的同学可以体验一下，欢迎提意见交流。\n链接：https://ai.plottie.art",
+      "date_published": "2026-01-30T01:13:42.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189409",
+      "url": "https://www.v2ex.com/t/1189409#reply22",
+      "title": "[回家] 秋名山老司机们，集合！",
+      "content_html": "<p>准备在小年那天开 800 公里回家，总有一种作死的感觉，根据以前的经验是早点出发比较好，比如凌晨四五点。</p>\n<p>现在最怕的就是雨雪天气，在南方往北方走，单独换个雪地胎全程高速也不现实，而且也不一定下雪，只能看天了。</p>",
+      "content_text": "准备在小年那天开 800 公里回家，总有一种作死的感觉，根据以前的经验是早点出发比较好，比如凌晨四五点。\n现在最怕的就是雨雪天气，在南方往北方走，单独换个雪地胎全程高速也不现实，而且也不一定下雪，只能看天了。",
+      "date_published": "2026-01-30T01:12:30.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189407",
+      "url": "https://www.v2ex.com/t/1189407#reply13",
+      "title": "[回家] 通知通知：深圳出发坐高铁回家的，准备抢票！ 9： 15 开票！",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T01:07:47.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189406",
+      "url": "https://www.v2ex.com/t/1189406#reply9",
+      "title": "[问与答] 为什么男人把女人带回彩礼当莫大恩赐",
+      "content_html": "<p>只要有帖子说给了彩礼，女方把彩礼带回来了<br/>\n底下的都欢呼是好媳妇<br/>\n但是呢<br/>\n女人婚前的时候不赚钱吗<br/>\n她婚前攒的钱去哪里了 你们不追问吗</p>",
+      "content_text": "只要有帖子说给了彩礼，女方把彩礼带回来了\n底下的都欢呼是好媳妇\n但是呢\n女人婚前的时候不赚钱吗\n她婚前攒的钱去哪里了 你们不追问吗",
+      "date_published": "2026-01-30T01:03:48.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189405",
+      "url": "https://www.v2ex.com/t/1189405#reply13",
+      "title": "[VPS] 大家的 cloudcone(CC)VPS 能登录访问吗",
+      "content_html": "<p>官网登录不上，看了下监控大概是今天 6 点失联。 <img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/FRsWOgs.png\"/> </p>\n<p>官方的 twitter 好像也炸了</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/uox2ebg.png\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/1MC33oA.png\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/yOCnGIb.png\"/></p>",
+      "content_text": "官网登录不上，看了下监控大概是今天 6 点失联。  \n官方的 twitter 好像也炸了",
+      "date_published": "2026-01-30T00:59:39.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189404",
+      "url": "https://www.v2ex.com/t/1189404#reply30",
+      "title": "[移民] 润这件事，远比大部分人想象得困难",
+      "content_html": "前两天在 linkedin 收到一个 connection 邀请，发送邀请的是一个即将从奥克兰大学毕业，正在找工作的中国人。他在邀请里说前几年在 v2 看到我 19 年发布的这篇分享自己移民新西兰经历的主题 <a target=\"_blank\" href=\"https://www.v2ex.com/t/629329\" rel=\"nofollow noopener\">https://www.v2ex.com/t/629329</a> ，现在自己也来新西兰了，所以想在 linkedin 上 Connect 一下。<br /><br />19 年发布那篇主题后，通过 linkedin 和微信联系过我的人大概有块 200 人了。但是这么多年过去了，这些人里面实际润到新西兰或者其他发达国家的人加起来不到 10 个。这几个人其中大部分都是在看到我这篇主题前就有润的想法了，去掉这些剩下的因为看了我的分享决定润的人也就 2 ～ 3 个的样子。从比例上看，受我那篇主题影响最后真正成功润出来的人数比例也就 2%左右。<br /><br />之前分享自己经历的时候，觉得润这件事并不算特别难。但是根据上面的数据，润这件事的难度其实没比在国内挤进 985 的难度低多少。",
+      "content_text": "前两天在 linkedin 收到一个 connection 邀请，发送邀请的是一个即将从奥克兰大学毕业，正在找工作的中国人。他在邀请里说前几年在 v2 看到我 19 年发布的这篇分享自己移民新西兰经历的主题 https://www.v2ex.com/t/629329 ，现在自己也来新西兰了，所以想在 linkedin 上 Connect 一下。19 年发布那篇主题后，通过 linkedin 和微信联系过我的人大概有块 200 人了。但是这么多年过去了，这些人里面实际润到新西兰或者其他发达国家的人加起来不到 10 个。这几个人其中大部分都是在看到我这篇主题前就有润的想法了，去掉这些剩下的因为看了我的分享决定润的人也就 2 ～ 3 个的样子。从比例上看，受我那篇主题影响最后真正成功润出来的人数比例也就 2%左右。之前分享自己经历的时候，觉得润这件事并不算特别难。但是根据上面的数据，润这件事的难度其实没比在国内挤进 985 的难度低多少。",
+      "date_published": "2026-01-30T00:57:52.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189403",
+      "url": "https://www.v2ex.com/t/1189403#reply18",
+      "title": "[股票] 一个星期，我在赌场赢了 10 个，我承认我就是一个赌徒",
+      "content_html": "<p>这周一开盘就 all in 了所有能用的钱到金、银、铜了。在这一周里，我是买了卖、卖了买、小 T 做大 T 、大 T 做小 T 。每一次的操作第二天都会可能迎来暴跌。但很幸运，这一周金、银、铜已经涨📈麻了，我也赌赢了。我不懂技术分析、也不懂市场行情，只懂一些股票规则。这周里，给我的感觉很刺激，比做过山车还刺激。睡觉时，脑子里面都是涨停板，睡前运动也戒掉了，我想我已经是一个赌徒了。唯一理智一点的地方，就是大不了输完，潇洒离场。今天是周五，也是这周股市的最后一天，无论股市是涨还是跌，我都可以选择出掉，然后拿钱离场。但我已经做不到了，我的理智告诉感性的我，就算今天潇洒离场，总有一天我还是会回来。</p>",
+      "content_text": "这周一开盘就 all in 了所有能用的钱到金、银、铜了。在这一周里，我是买了卖、卖了买、小 T 做大 T 、大 T 做小 T 。每一次的操作第二天都会可能迎来暴跌。但很幸运，这一周金、银、铜已经涨📈麻了，我也赌赢了。我不懂技术分析、也不懂市场行情，只懂一些股票规则。这周里，给我的感觉很刺激，比做过山车还刺激。睡觉时，脑子里面都是涨停板，睡前运动也戒掉了，我想我已经是一个赌徒了。唯一理智一点的地方，就是大不了输完，潇洒离场。今天是周五，也是这周股市的最后一天，无论股市是涨还是跌，我都可以选择出掉，然后拿钱离场。但我已经做不到了，我的理智告诉感性的我，就算今天潇洒离场，总有一天我还是会回来。",
+      "date_published": "2026-01-30T00:57:43.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189402",
+      "url": "https://www.v2ex.com/t/1189402#reply2",
+      "title": "[分享创造] 做了个 macOS 强制休息工具，治不了我的颈椎病，但能让我少坐一会",
+      "content_html": "<p>写了几年代码，颈椎开始嘎嘎响了，该上润滑油了。逃~</p>\n<p>“再调完这个 bug” 可以从晚上 10 点调到凌晨 2 点</p>\n<h3>试过的方案</h3>\n<ul>\n<li><strong>Apple Screen Time</strong>：图标变灰，点一下「忽略限制」就没了                                               </li>\n<li><strong>番茄钟 App</strong>：弹个通知，随手划掉，继续写                                                              </li>\n<li><strong>定闹钟</strong>：关掉，继续写                                                                                </li>\n</ul>\n<p>本质问题：这些方案都太容易跳过了。                                                                        </p>\n<h3>ForceBreak 的思路</h3>\n<p>做了个 macOS 原生工具，核心就是「制造麻烦」：                                                           </p>\n<ol>\n<li>到点直接 <strong>全屏遮罩</strong>，不是通知，是挡住整个屏幕                                                        </li>\n<li>想跳过？可以，先等 <strong>30 秒冷静期</strong> </li>\n<li>跳过之后？<strong>10 分钟后再弹</strong> </li>\n</ol>\n<p>让你觉得「算了还是休息一下吧」                    </p>\n<h3>目前进度</h3>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/S4wKZgJ.png\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/Of1WwXK.png\"/><br/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/FQOnVyR.png\"/> </p>\n<p>还在开发中，UI 在打磨。做了个 <a href=\"https://forcebreak.zenfeed.xyz/?lang=zh\" rel=\"nofollow\">waitlist(填写问卷获终身会员)</a></p>\n<p>觉得落地页不错的，可以回复邮箱，私发给你模版</p>\n<p>模版 + 你的 idea = 精美落地页 + waitlist 后台管理系统</p>\n<hr/>\n<p>想问问大家，你们是怎么控制自己健康作息的？</p>",
+      "content_text": "写了几年代码，颈椎开始嘎嘎响了，该上润滑油了。逃~\n“再调完这个 bug” 可以从晚上 10 点调到凌晨 2 点\n试过的方案\n\nApple Screen Time：图标变灰，点一下「忽略限制」就没了                                               \n番茄钟 App：弹个通知，随手划掉，继续写                                                              \n定闹钟：关掉，继续写                                                                                \n\n本质问题：这些方案都太容易跳过了。                                                                        \nForceBreak 的思路\n做了个 macOS 原生工具，核心就是「制造麻烦」：                                                           \n\n到点直接 全屏遮罩，不是通知，是挡住整个屏幕                                                        \n想跳过？可以，先等 30 秒冷静期 \n跳过之后？10 分钟后再弹 \n\n让你觉得「算了还是休息一下吧」                    \n目前进度\n\n\n \n还在开发中，UI 在打磨。做了个 waitlist(填写问卷获终身会员)\n觉得落地页不错的，可以回复邮箱，私发给你模版\n模版 + 你的 idea = 精美落地页 + waitlist 后台管理系统\n\n想问问大家，你们是怎么控制自己健康作息的？",
+      "date_published": "2026-01-30T00:43:23.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189400",
+      "url": "https://www.v2ex.com/t/1189400#reply13",
+      "title": "[分享发现] 短期行情接近见顶",
+      "content_html": "地铁上玩手机的，10 个有 8 个在看财经，还有两个在手机开户，目前看来行情接近见顶，可以逐步止盈了",
+      "content_text": "地铁上玩手机的，10 个有 8 个在看财经，还有两个在手机开户，目前看来行情接近见顶，可以逐步止盈了",
+      "date_published": "2026-01-30T00:35:46.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189399",
+      "url": "https://www.v2ex.com/t/1189399#reply12",
+      "title": "[问与答] 梯子都开了 为啥这个站还是打不开呢",
+      "content_html": "<p>如图\n<img alt=\"image.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/89bbc2ed8bf644ce87dfb029ebbe8049%7Etplv-k3u1fbpfcp-watermark.image?\"/></p>",
+      "content_text": "如图",
+      "date_published": "2026-01-30T00:22:59.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189398",
+      "url": "https://www.v2ex.com/t/1189398#reply7",
+      "title": "[电动汽车] 汽车前保险杠更换",
+      "content_html": "昨天开车发生了点刮蹭，汽车前保险杠裂了。因为今年已经出了一次险，在走保险的话明年保费可能要涨不少。我看了一下宋 plus dmi 前保险杠淘宝有卖的，带烤漆不到 300 ，修理厂更换收费大概 150 。不知道这样操作有没有坑，第三方的配件品质怎么样，影不影响车辆维保？各位 18cm 有没有这么干过？",
+      "content_text": "昨天开车发生了点刮蹭，汽车前保险杠裂了。因为今年已经出了一次险，在走保险的话明年保费可能要涨不少。我看了一下宋 plus dmi 前保险杠淘宝有卖的，带烤漆不到 300 ，修理厂更换收费大概 150 。不知道这样操作有没有坑，第三方的配件品质怎么样，影不影响车辆维保？各位 18cm 有没有这么干过？",
+      "date_published": "2026-01-29T23:38:20.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-29:/t/1189397",
+      "url": "https://www.v2ex.com/t/1189397#reply7",
+      "title": "[HodlAI] HodlAI：永久免费使用 200+ AI 模型还能赚钱？",
+      "content_html": "<h1>用 Web3 思维重构 AI 服务付费逻辑</h1>\n<h2>传统 API 付费的尴尬现状</h2>\n<p>接触过 OpenAI 、Claude 、Gemini 等主流 AI 服务的开发者，想必对这套流程并不陌生：</p>\n<blockquote>\n<p><strong>预付充值 → 按量消耗 → 余额见底 → 继续充值</strong></p>\n</blockquote>\n<p>本质上，这仍是 SaaS 时代延续下来的订阅逻辑——用户持续为临时使用权付费，却从未真正拥有过什么。</p>\n<p>而 Web3 的底层信条恰恰相反：<strong>持有即权益</strong>。</p>\n<p>问题随之浮现：这套理念，能否迁移到 AI 服务领域？</p>\n<hr/>\n<h2>HodlAI 的破局思路：代币即\"永久会员卡\"</h2>\n<p>HodlAI 提出了一种实验性方案，核心差异可通过下表一目了然：</p>\n<table>\n<thead>\n<tr>\n<th>对比维度</th>\n<th>传统充值模式</th>\n<th>HodlAI 模式</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>资金归属</td>\n<td>充入平台，用完即空</td>\n<td>代币留存个人钱包</td>\n</tr>\n<tr>\n<td>额度逻辑</td>\n<td>调用即扣减</td>\n<td>按持仓量每日刷新</td>\n</tr>\n<tr>\n<td>资产属性</td>\n<td>纯消费支出</td>\n<td>消费权益 + 可交易资产</td>\n</tr>\n</tbody></table><p><strong>换算公式：</strong></p>\n<blockquote>\n<p>每 <strong>1 万枚代币</strong> ≈ 每日 <strong>$1</strong> API 调用额度</p>\n</blockquote>\n<p>假设持有 50 万枚代币，理论上每天可解锁约 $50 的调用权限，覆盖 GPT-5 、Claude 4.5 、Gemini 3 等超过 200 个模型。</p>\n<hr/>\n<h2>资金池的来源：交易税驱动的飞轮效应</h2>\n<p>\"免费额度\"背后必然需要成本支撑。HodlAI 的资金机制如下：</p>\n<p><strong>核心规则：每笔链上交易征收 3% 税费 → 全额注入 API 资金池</strong></p>\n<pre><code>交易 ──→ 3% 税收 ──→ API 资金池 ──→ 按持仓比例分配\n    ↑                                          ↓\n    └───── 交易越活跃，池子越厚 ←─────┘\n</code></pre>\n<p>由此形成<strong>正向循环</strong>：</p>\n<ol>\n<li>持币用户增加</li>\n<li>链上交易频次上升</li>\n<li>资金池持续扩容</li>\n<li>可分配额度同步增长</li>\n<li>吸引更多用户加入</li>\n</ol>\n<blockquote>\n<p>⚠️ 飞轮能否长期转动，取决于交易活跃度与持币者增速之间的动态平衡。</p>\n</blockquote>\n<hr/>\n<h2>反套利设计：钻石手机制</h2>\n<p>若无任何限制，投机者可能采取如下策略：</p>\n<blockquote>\n<p>买入 → 领取当日额度 → 立即抛售 → 周而复始</p>\n</blockquote>\n<p>HodlAI 引入了<strong>时间加权的额度释放规则</strong>，俗称\"钻石手机制\"：</p>\n<table>\n<thead>\n<tr>\n<th>持币时长</th>\n<th>可用额度</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0 - 5 分钟</td>\n<td>0%（冷启动期）</td>\n</tr>\n<tr>\n<td>5 分钟后</td>\n<td>10%</td>\n</tr>\n<tr>\n<td>每满 1 小时</td>\n<td>额外 +4%</td>\n</tr>\n<tr>\n<td>连续 24 小时</td>\n<td>100% 满额</td>\n</tr>\n<tr>\n<td>曾有卖出记录</td>\n<td>永久上限 80%</td>\n</tr>\n</tbody></table><p>持仓时长通过链上数据实时验证，无法篡改——以时间成本筛选真正的长期参与者。</p>\n<hr/>\n<h2>透明度承诺：账单全网可查</h2>\n<p>许多项目宣称\"税收用于生态建设\"，实际资金流向却无从追溯。</p>\n<p>HodlAI 在这一点上采取了彻底的开放策略：</p>\n<ul>\n<li>✅ 每笔 API 充值记录公开可查</li>\n<li>✅ 提供 Stripe 官方账单链接，任何人可点击核验</li>\n<li>✅ 团队承诺：零抽成</li>\n</ul>\n<blockquote>\n<p>这不是\"请相信我们\"，而是\"<strong>欢迎随时审计</strong>\"。</p>\n</blockquote>\n<hr/>\n<h2>潜在风险提示</h2>\n<p>任何新兴模式都伴随不确定性，以下几点需纳入考量：</p>\n<table>\n<thead>\n<tr>\n<th>风险类型</th>\n<th>具体说明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>价格波动</td>\n<td>代币可能升值，亦可能贬值</td>\n</tr>\n<tr>\n<td>早期阶段</td>\n<td>模式创新但缺乏长期运行数据</td>\n</tr>\n<tr>\n<td>交易依赖</td>\n<td>若链上活跃度下降，资金池增速将放缓</td>\n</tr>\n</tbody></table><hr/>\n<h2>这个模式为何值得关注？</h2>\n<p>HodlAI 尝试回答一个被长期忽视的问题：</p>\n<blockquote>\n<p><strong>Meme 币除了投机炒作，能否承载真实的功能价值？</strong></p>\n</blockquote>\n<p>它给出的答案是：将代币重新定义为\"AI 服务的永久会员凭证\"——<strong>持有即享用，而非充值即消耗</strong>。</p>\n<p>模式能否跑通，目前看来是可以的，项目上线仅 2 天就税收 **$65,000+**，而 API 费用总计不到 <strong>$1,000</strong>。</p>\n<p>这也是将 <strong>Web3 代币经济</strong> 与 <strong>AI 基础设施</strong> 进行深度绑定的创新尝试。</p>\n<hr/>\n<h2>项目愿景</h2>\n<blockquote>\n<p>AI 服务不该是无尽的订阅陷阱，而应是持有即权益的价值共享网络。</p>\n</blockquote>\n<p><strong>HodlAI 致力于成为全球首个实现 Web3 代币模型与 AI API 服务深度融合的创新平台。</strong></p>\n<hr/>\n<h2>相关链接</h2>\n<ul>\n<li>🌐 <strong>官网</strong>：<a href=\"https://hodlai.fun/\" rel=\"nofollow\">https://hodlai.fun/</a></li>\n<li>🐦 <strong>Twitter</strong>：<a href=\"https://x.com/hodlai_bsc\" rel=\"nofollow\">https://x.com/hodlai_bsc</a></li>\n<li>💬 <strong>Telegram</strong>：<a href=\"https://t.me/hodlai_fun\" rel=\"nofollow\">https://t.me/hodlai_fun</a></li>\n</ul>\n<hr/>\n<blockquote>\n<p>⚠️ <strong>声明</strong>：本文仅作项目机制解读，不构成任何投资建议。加密资产波动剧烈，请自行评估风险承受能力。</p>\n</blockquote>",
+      "content_text": "用 Web3 思维重构 AI 服务付费逻辑\n传统 API 付费的尴尬现状\n接触过 OpenAI 、Claude 、Gemini 等主流 AI 服务的开发者，想必对这套流程并不陌生：\n\n预付充值 → 按量消耗 → 余额见底 → 继续充值\n\n本质上，这仍是 SaaS 时代延续下来的订阅逻辑——用户持续为临时使用权付费，却从未真正拥有过什么。\n而 Web3 的底层信条恰恰相反：持有即权益。\n问题随之浮现：这套理念，能否迁移到 AI 服务领域？\n\nHodlAI 的破局思路：代币即\"永久会员卡\"\nHodlAI 提出了一种实验性方案，核心差异可通过下表一目了然：\n\n\n\n对比维度\n传统充值模式\nHodlAI 模式\n\n\n\n\n资金归属\n充入平台，用完即空\n代币留存个人钱包\n\n\n额度逻辑\n调用即扣减\n按持仓量每日刷新\n\n\n资产属性\n纯消费支出\n消费权益 + 可交易资产\n\n换算公式：\n\n每 1 万枚代币 ≈ 每日 $1 API 调用额度\n\n假设持有 50 万枚代币，理论上每天可解锁约 $50 的调用权限，覆盖 GPT-5 、Claude 4.5 、Gemini 3 等超过 200 个模型。\n\n资金池的来源：交易税驱动的飞轮效应\n\"免费额度\"背后必然需要成本支撑。HodlAI 的资金机制如下：\n核心规则：每笔链上交易征收 3% 税费 → 全额注入 API 资金池\n交易 ──→ 3% 税收 ──→ API 资金池 ──→ 按持仓比例分配\n    ↑                                          ↓\n    └───── 交易越活跃，池子越厚 ←─────┘\n\n由此形成正向循环：\n\n持币用户增加\n链上交易频次上升\n资金池持续扩容\n可分配额度同步增长\n吸引更多用户加入\n\n\n⚠️ 飞轮能否长期转动，取决于交易活跃度与持币者增速之间的动态平衡。\n\n\n反套利设计：钻石手机制\n若无任何限制，投机者可能采取如下策略：\n\n买入 → 领取当日额度 → 立即抛售 → 周而复始\n\nHodlAI 引入了时间加权的额度释放规则，俗称\"钻石手机制\"：\n\n\n\n持币时长\n可用额度\n\n\n\n\n0 - 5 分钟\n0%（冷启动期）\n\n\n5 分钟后\n10%\n\n\n每满 1 小时\n额外 +4%\n\n\n连续 24 小时\n100% 满额\n\n\n曾有卖出记录\n永久上限 80%\n\n持仓时长通过链上数据实时验证，无法篡改——以时间成本筛选真正的长期参与者。\n\n透明度承诺：账单全网可查\n许多项目宣称\"税收用于生态建设\"，实际资金流向却无从追溯。\nHodlAI 在这一点上采取了彻底的开放策略：\n\n✅ 每笔 API 充值记录公开可查\n✅ 提供 Stripe 官方账单链接，任何人可点击核验\n✅ 团队承诺：零抽成\n\n\n这不是\"请相信我们\"，而是\"欢迎随时审计\"。\n\n\n潜在风险提示\n任何新兴模式都伴随不确定性，以下几点需纳入考量：\n\n\n\n风险类型\n具体说明\n\n\n\n\n价格波动\n代币可能升值，亦可能贬值\n\n\n早期阶段\n模式创新但缺乏长期运行数据\n\n\n交易依赖\n若链上活跃度下降，资金池增速将放缓\n\n\n这个模式为何值得关注？\nHodlAI 尝试回答一个被长期忽视的问题：\n\nMeme 币除了投机炒作，能否承载真实的功能价值？\n\n它给出的答案是：将代币重新定义为\"AI 服务的永久会员凭证\"——持有即享用，而非充值即消耗。\n模式能否跑通，目前看来是可以的，项目上线仅 2 天就税收 **$65,000+**，而 API 费用总计不到 $1,000。\n这也是将 Web3 代币经济 与 AI 基础设施 进行深度绑定的创新尝试。\n\n项目愿景\n\nAI 服务不该是无尽的订阅陷阱，而应是持有即权益的价值共享网络。\n\nHodlAI 致力于成为全球首个实现 Web3 代币模型与 AI API 服务深度融合的创新平台。\n\n相关链接\n\n🌐 官网：https://hodlai.fun/\n🐦 Twitter：https://x.com/hodlai_bsc\n💬 Telegram：https://t.me/hodlai_fun\n\n\n\n⚠️ 声明：本文仅作项目机制解读，不构成任何投资建议。加密资产波动剧烈，请自行评估风险承受能力。",
+      "date_published": "2026-01-29T23:37:23.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-29:/t/1189396",
       "url": "https://www.v2ex.com/t/1189396#reply0",
       "title": "[投资] 昨天晚上金，币，美股三杀，黄金股票回来了，比特币沉了",

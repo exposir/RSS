@@ -6,6 +6,102 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c20825qwgz2o#3",
+      "url": "https://www.bbc.com/news/articles/c20825qwgz2o?at_medium=RSS&at_campaign=rss",
+      "title": "Secret filming catches locksmith charging 10 times quote",
+      "content_html": "A couple expecting to pay £50 for a locksmith say they ended up forking out more than £5,000.",
+      "content_text": "A couple expecting to pay £50 for a locksmith say they ended up forking out more than £5,000.",
+      "date_published": "2026-01-30T01:50:13.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c0mky220nrdo#0",
+      "url": "https://www.bbc.com/news/articles/c0mky220nrdo?at_medium=RSS&at_campaign=rss",
+      "title": "Two officers to face court martial over handling of Jaysley Beck sexual assault case",
+      "content_html": "The officers are to face a court martial over the handling of the case of teenage soldier Jaysley Beck.",
+      "content_text": "The officers are to face a court martial over the handling of the case of teenage soldier Jaysley Beck.",
+      "date_published": "2026-01-30T01:43:02.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4gry9de2w0o#1",
+      "url": "https://www.bbc.com/news/articles/c4gry9de2w0o?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Capitulation in Beijing' and 'Revolt over cancelled elections'",
+      "content_html": "Prime Minister Sir Keir Starmer is pictured alongside China's Xi Jinping on most of Friday's papers.",
+      "content_text": "Prime Minister Sir Keir Starmer is pictured alongside China's Xi Jinping on most of Friday's papers.",
+      "date_published": "2026-01-30T01:13:41.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/cn42dpdx1edo#7",
+      "url": "https://www.bbc.com/sport/football/articles/cn42dpdx1edo?at_medium=RSS&at_campaign=rss",
+      "title": "Journalist dreams & Keane reunion? How O'Neill continues to revive Celtic",
+      "content_html": "Showman Martin O'Neill continues to thrive as Celtic's interim manager as he guides the club through to the Europa League play-off round.",
+      "content_text": "Showman Martin O'Neill continues to thrive as Celtic's interim manager as he guides the club through to the Europa League play-off round.",
+      "date_published": "2026-01-30T00:37:27.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/cpqy3pnz0zdo#7",
+      "url": "https://www.bbc.com/sport/football/articles/cpqy3pnz0zdo?at_medium=RSS&at_campaign=rss",
+      "title": "Rangers' Euro distraction fades as mammoth month comes into focus",
+      "content_html": "Now Rangers are out of Europe, has the road to their domestic path been cleared?",
+      "content_text": "Now Rangers are out of Europe, has the road to their domestic path been cleared?",
+      "date_published": "2026-01-30T00:09:37.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cm24evgyyzpo#0",
+      "url": "https://www.bbc.com/news/articles/cm24evgyyzpo?at_medium=RSS&at_campaign=rss",
+      "title": "Could weight-loss jabs be behind rising gallbladder removals?",
+      "content_html": "Last year, there was a 15% annual increase in the operations and surgeons want more research.",
+      "content_text": "Last year, there was a 15% annual increase in the operations and surgeons want more research.",
+      "date_published": "2026-01-30T00:03:39.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/ckgnp8n40reo#1",
+      "url": "https://www.bbc.com/news/articles/ckgnp8n40reo?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuela's oil ghost towns hope Trump plan will revive their fortunes",
+      "content_html": "Amid rusting oil pumps and rigs, once affluent Venezuelan oil towns place their hope in US investment.",
+      "content_text": "Amid rusting oil pumps and rigs, once affluent Venezuelan oil towns place their hope in US investment.",
+      "date_published": "2026-01-30T00:03:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvgrzyv6pqqo#1",
+      "url": "https://www.bbc.com/news/articles/cvgrzyv6pqqo?at_medium=RSS&at_campaign=rss",
+      "title": "Weekly quiz: Which record is Harry Styles set to break?",
+      "content_html": "How much attention did you pay to what happened in the world over the past seven days?",
+      "content_text": "How much attention did you pay to what happened in the world over the past seven days?",
+      "date_published": "2026-01-30T00:00:25.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c8j32vezyylo#7",
+      "url": "https://www.bbc.com/sport/football/articles/c8j32vezyylo?at_medium=RSS&at_campaign=rss",
+      "title": "Who is 'shy and nervous' Villa match-winner Jimoh-Aloba?",
+      "content_html": "Aston Villa match-winner Jamaldeen Jimoh-Aloba is described as \"shy and nervous\" by Morgan Rogers - but the teenager announced himself on the European stage.",
+      "content_text": "Aston Villa match-winner Jamaldeen Jimoh-Aloba is described as \"shy and nervous\" by Morgan Rogers - but the teenager announced himself on the European stage.",
+      "date_published": "2026-01-29T23:52:11.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c24gg91z69eo#0",
+      "url": "https://www.bbc.com/news/articles/c24gg91z69eo?at_medium=RSS&at_campaign=rss",
+      "title": "A legal blunder allowed the man who abused us at school to escape justice – until now",
+      "content_html": "William Brydson, who was \"head of care\" at a Newton Stewart boarding school, has been jailed for a litany of offences.",
+      "content_text": "William Brydson, who was \"head of care\" at a Newton Stewart boarding school, has been jailed for a litany of offences.",
+      "date_published": "2026-01-29T23:15:02.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd6wegndnjlo#1",
+      "url": "https://www.bbc.com/news/articles/cd6wegndnjlo?at_medium=RSS&at_campaign=rss",
+      "title": "Why China moved so quickly to execute 11 members of a notorious mafia family",
+      "content_html": "The Ming family ran scam compounds along the Chinese border with Myanmar in Shan state.",
+      "content_text": "The Ming family ran scam compounds along the Chinese border with Myanmar in Shan state.",
+      "date_published": "2026-01-29T23:00:25.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvgrzd76p4lo#0",
+      "url": "https://www.bbc.com/news/articles/cvgrzd76p4lo?at_medium=RSS&at_campaign=rss",
+      "title": "Syria's defiant Kurds vow to 'fight until last breath' despite government push",
+      "content_html": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
+      "content_text": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
+      "date_published": "2026-01-29T22:04:34.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cvgrzd76p4lo#1",
       "url": "https://www.bbc.com/news/articles/cvgrzd76p4lo?at_medium=RSS&at_campaign=rss",
       "title": "Syria's defiant Kurds vow to 'fight until last breath' despite government push",
@@ -118,6 +214,14 @@
       "date_published": "2026-01-29T17:45:10.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c368yjy663zo#3",
+      "url": "https://www.bbc.com/news/articles/c368yjy663zo?at_medium=RSS&at_campaign=rss",
+      "title": "Archbishop of York to face no action over sexual abuse case",
+      "content_html": "The Church's president of tribunals says Stephen Cottrell \"had no power to remove or suspend David Tudor from ministry\".",
+      "content_text": "The Church's president of tribunals says Stephen Cottrell \"had no power to remove or suspend David Tudor from ministry\".",
+      "date_published": "2026-01-29T17:19:45.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c368yjy663zo#0",
       "url": "https://www.bbc.com/news/articles/c368yjy663zo?at_medium=RSS&at_campaign=rss",
       "title": "Archbishop of York to face no action over sexual abuse case",
@@ -132,6 +236,14 @@
       "content_html": "Arsenal have held advanced discussions with Barcelona full-back Ona Batlle in the hope of reaching a pre-contract agreement to sign her in the summer.",
       "content_text": "Arsenal have held advanced discussions with Barcelona full-back Ona Batlle in the hope of reaching a pre-contract agreement to sign her in the summer.",
       "date_published": "2026-01-29T17:10:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c0mkyp2z20no#3",
+      "url": "https://www.bbc.com/news/articles/c0mkyp2z20no?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Labour MP's lobbying firm offered photo with minister and VIP dinner for £30k",
+      "content_html": "Jim Murphy's company Arden Strategies apologises for \"errors\" in promotional material for tech event.",
+      "content_text": "Jim Murphy's company Arden Strategies apologises for \"errors\" in promotional material for tech event.",
+      "date_published": "2026-01-29T17:10:01.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c0mkyp2z20no#0",
@@ -156,6 +268,14 @@
       "content_html": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
       "content_text": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
       "date_published": "2026-01-29T16:49:20.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo#3",
+      "url": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo?at_medium=RSS&at_campaign=rss",
+      "title": "Raducanu splits with ninth coach after Australian Open exit",
+      "content_html": "British number one Emma Raducanu splits with coach Francis Roig after her exit from the Australian Open.",
+      "content_text": "British number one Emma Raducanu splits with coach Francis Roig after her exit from the Australian Open.",
+      "date_published": "2026-01-29T16:48:36.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo#0",
@@ -332,6 +452,22 @@
       "content_html": "The 499 homicide cases in the year to September were the lowest in England and Wales since 1977.",
       "content_text": "The 499 homicide cases in the year to September were the lowest in England and Wales since 1977.",
       "date_published": "2026-01-29T14:04:50.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/crrn8741v9vo#7",
+      "url": "https://www.bbc.com/sport/tennis/articles/crrn8741v9vo?at_medium=RSS&at_campaign=rss",
+      "title": "The last chance - will Alcaraz & Sinner be stopped in Melbourne?",
+      "content_html": "Few people predicted anything other than Carlos Alcaraz and Jannik Sinner meeting in the Australian Open final - will Alexander Zverev and Novak Djokovic stop them?",
+      "content_text": "Few people predicted anything other than Carlos Alcaraz and Jannik Sinner meeting in the Australian Open final - will Alexander Zverev and Novak Djokovic stop them?",
+      "date_published": "2026-01-29T13:59:12.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/videos/cg7y4n005rko#7",
+      "url": "https://www.bbc.com/sport/tennis/videos/cg7y4n005rko?at_medium=RSS&at_campaign=rss",
+      "title": "Sabalenka cruises into final despite hindrance call",
+      "content_html": "Aryna Sabalenka will face Elena Rybakina in the Australian Open final after the world number one beat Elina Svitolina 6-2 6-3, despite being called for hindrance by umpire Louise Azemar Engzell for grunting during a rally.",
+      "content_text": "Aryna Sabalenka will face Elena Rybakina in the Australian Open final after the world number one beat Elina Svitolina 6-2 6-3, despite being called for hindrance by umpire Louise Azemar Engzell for grunting during a rally.",
+      "date_published": "2026-01-29T13:36:32.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/rugby-union/articles/cz6yv94y9z4o#7",
