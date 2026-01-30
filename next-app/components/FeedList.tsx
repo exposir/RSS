@@ -10,11 +10,11 @@ import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
 import { Calendar, ChevronLeft } from 'lucide-react'
-import { Feed, FeedItem } from '@/hooks/useFeeds'
+import { Feed, FeedIndex } from '@/hooks/useFeeds'
 import { isToday, isYesterday } from '@/lib/date'
 
 interface FeedListProps {
-  feedIndex: FeedItem[]
+  feedIndex: FeedIndex[]
   feeds: Map<string, Feed>
   selectedFeed: string
   onSelect: (feedId: string) => void
