@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/uk-china-trade-business-starmer-xi.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/uk-china-trade-business-starmer-xi.html",
+      "title": "In a Bid to Kick-Start Growth, Britain Turns to China",
+      "content_html": "Buffeted by tariffs and trade tensions, Prime Minister Keir Starmer took British business leaders to China and emerged with deals on visas and Scotch whisky, as well as pledges to deepen ties.",
+      "content_text": "Buffeted by tariffs and trade tensions, Prime Minister Keir Starmer took British business leaders to China and emerged with deals on visas and Scotch whisky, as well as pledges to deepen ties.",
+      "date_published": "2026-01-30T18:18:31.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/trump-fed-chair-kevin-warsh.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/trump-fed-chair-kevin-warsh.html",
+      "title": "Trump Picks Kevin Warsh as Next Fed Chair",
+      "content_html": "If confirmed by the Senate, Kevin M. Warsh, a former governor at the central bank, will replace Jerome H. Powell, whose term as chair ends in May.",
+      "content_text": "If confirmed by the Senate, Kevin M. Warsh, a former governor at the central bank, will replace Jerome H. Powell, whose term as chair ends in May.",
+      "date_published": "2026-01-30T18:07:04.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html",
       "url": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html",
       "title": "Kevin Warsh, Trump’s Choice for Fed Chair, Could Find It Difficult to Deliver",

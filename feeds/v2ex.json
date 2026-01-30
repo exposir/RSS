@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189671",
+      "url": "https://www.v2ex.com/t/1189671#reply4",
+      "title": "[Apple] Apple Store 引入了新的锁区机制吗？",
+      "content_html": "在美国，以前使用中国账号下载的番茄小说，一直更新没问题。<br />最近遇到不可更新的问题，提示 app 在所在的区域不可用。<br />登陆中国帐号也不行，我删了应用，尝试用中国帐号登陆，依然无法下载。<br /><br /> <a target=\"_blank\" href=\"https://i.imgur.com/VKEVaXl.jpeg\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/VKEVaXl.jpeg\" class=\"embedded_image\" rel=\"noreferrer\"></a>",
+      "content_text": "在美国，以前使用中国账号下载的番茄小说，一直更新没问题。最近遇到不可更新的问题，提示 app 在所在的区域不可用。登陆中国帐号也不行，我删了应用，尝试用中国帐号登陆，依然无法下载。",
+      "date_published": "2026-01-30T18:27:44.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189670",
+      "url": "https://www.v2ex.com/t/1189670#reply0",
+      "title": "[分享创造] 一键将 Mixamo 的动画转换为 MMD 的 VMD 格式",
+      "content_html": "<p>地址： <a href=\"https://mixamo-mmd.vercel.app\" rel=\"nofollow\">https://mixamo-mmd.vercel.app</a></p>\n<p>Github: <a href=\"https://github.com/AmyangXYZ/Mixamo-MMD\" rel=\"nofollow\">https://github.com/AmyangXYZ/Mixamo-MMD</a></p>\n<p>自动骨骼重定向，再也不用换好几个软件去一个个转换动作重新绑定了,从此 MMD 多了一个超大动作库</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://raw.githubusercontent.com/AmyangXYZ/Mixamo-MMD/main/screenshot.png\"/></p>",
+      "content_text": "地址： https://mixamo-mmd.vercel.app\nGithub: https://github.com/AmyangXYZ/Mixamo-MMD\n自动骨骼重定向，再也不用换好几个软件去一个个转换动作重新绑定了,从此 MMD 多了一个超大动作库",
+      "date_published": "2026-01-30T17:35:13.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189669",
       "url": "https://www.v2ex.com/t/1189669#reply0",
       "title": "[日本語] JLPT 出成绩了，大概总结一下去年三个月的 N1 备考经验",

@@ -6,6 +6,158 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "a1d9349f-2fdb-474a-a222-41754cd43a0f",
+      "url": "https://www.smh.com.au/world/north-america/luigi-mangione-won-t-face-death-penalty-after-judge-dismisses-murder-charge-20260131-p5nygj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Luigi Mangione won’t face death penalty after judge dismisses murder charge",
+      "content_html": "US District Judge Margaret Garnett acknowledged her analysis may strike ordinary people as “tortured and strange”, but that “the law must be the court’s only concern”.",
+      "content_text": "US District Judge Margaret Garnett acknowledged her analysis may strike ordinary people as “tortured and strange”, but that “the law must be the court’s only concern”.",
+      "date_published": "2026-01-30T18:38:17.000Z"
+    },
+    {
+      "id": "2d6b8387-9fff-42b4-a4c5-d55d734b5d89",
+      "url": "https://www.smh.com.au/sport/ashes-tennis-and-watching-liv-die-what-a-great-way-to-start-my-40th-campaign-20260130-p5nya5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Ashes, tennis and watching LIV die: What a great way to start my 40th campaign",
+      "content_html": "This is my 40th year writing for the mighty Herald. I’ve had a great summer, now it’s time to get stuck in.",
+      "content_text": "This is my 40th year writing for the mighty Herald. I’ve had a great summer, now it’s time to get stuck in.",
+      "date_published": "2026-01-30T18:33:00.000Z"
+    },
+    {
+      "id": "891d645e-d442-4080-9c9c-9228572d0897",
+      "url": "https://www.smh.com.au/culture/tv-and-radio/hope-is-a-beautiful-thing-why-the-writer-of-adolescence-doesn-t-fear-for-the-future-of-boys-20260129-p5ny2b.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Hope is a beautiful thing’: Why the writer of Adolescence doesn’t fear for the future of boys",
+      "content_html": "After writing the Netflix drama about a 13-year-old murderer, Jack Thorne has tackled another story about damaged children.",
+      "content_text": "After writing the Netflix drama about a 13-year-old murderer, Jack Thorne has tackled another story about damaged children.",
+      "date_published": "2026-01-30T18:30:00.000Z"
+    },
+    {
+      "id": "92457941-b52e-41c1-bbb8-37017a2e8a6f",
+      "url": "https://www.smh.com.au/culture/tv-and-radio/going-to-be-wild-this-former-olympian-has-big-predictions-for-australia-s-gold-medal-haul-20260128-p5nxr6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Going to be wild’: This former Olympian has big predictions for Australia’s gold medal haul",
+      "content_html": "Lydia Lassila has traded in her skis for the commentary box at the Milano Cortina Games – and she doesn’t miss them one bit.",
+      "content_text": "Lydia Lassila has traded in her skis for the commentary box at the Milano Cortina Games – and she doesn’t miss them one bit.",
+      "date_published": "2026-01-30T18:30:00.000Z"
+    },
+    {
+      "id": "a00002d0-0c57-4291-8465-543c8e78d3c5",
+      "url": "https://www.smh.com.au/culture/art-and-design/minimalism-is-elitist-and-exhausting-let-me-be-messy-20260128-p5nxof.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Minimalism is elitist and exhausting. Let me be messy",
+      "content_html": "The appearance of having nothing is, perversely, for those who can afford anything.",
+      "content_text": "The appearance of having nothing is, perversely, for those who can afford anything.",
+      "date_published": "2026-01-30T18:30:00.000Z"
+    },
+    {
+      "id": "547112fb-7146-4704-9866-58939eeafda5",
+      "url": "https://www.smh.com.au/culture/music/once-polarising-basement-jaxx-s-singular-sound-has-won-over-a-new-generation-20260128-p5nxk7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Once polarising, Basement Jaxx’s singular sound has won over a new generation",
+      "content_html": "The legendary UK dance duo return to Australia for their first full live shows in over 15 years.",
+      "content_text": "The legendary UK dance duo return to Australia for their first full live shows in over 15 years.",
+      "date_published": "2026-01-30T18:30:00.000Z"
+    },
+    {
+      "id": "0e46af50-7f9a-4103-9889-53166762c768",
+      "url": "https://www.smh.com.au/national/victoria/everyone-s-an-influencer-now-even-the-tennis-stars-20260129-p5ny4g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Everyone’s an influencer now – even the tennis stars",
+      "content_html": "The Australian Open and the sport itself has become increasingly commercialised, and top players are not immune to the pressure to shill for their supper.",
+      "content_text": "The Australian Open and the sport itself has become increasingly commercialised, and top players are not immune to the pressure to shill for their supper.",
+      "date_published": "2026-01-30T18:05:00.000Z"
+    },
+    {
+      "id": "09744901-90e7-4288-b26f-e0664e4dd893",
+      "url": "https://www.smh.com.au/money/super-and-retirement/wondering-if-you-can-retire-yet-try-asking-a-different-question-20260130-p5nya8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Wondering if you can retire yet? Try asking a different question",
+      "content_html": "Somewhere between ironing work clothes and clearing the holiday backlog in your inbox, a quiet thought nags: how long do I really have to keep doing this?",
+      "content_text": "Somewhere between ironing work clothes and clearing the holiday backlog in your inbox, a quiet thought nags: how long do I really have to keep doing this?",
+      "date_published": "2026-01-30T18:03:00.000Z"
+    },
+    {
+      "id": "d1fd41ec-adc7-4450-9c53-310eace9495b",
+      "url": "https://www.smh.com.au/money/planning-and-budgeting/kids-are-back-at-school-but-they-won-t-be-taught-one-crucial-thing-20260130-p5nybl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Kids are back at school. But they won’t be taught one crucial thing",
+      "content_html": "It’s back to school in Australia and New Zealand – but with one key difference: Kiwi kids will now learn about money.",
+      "content_text": "It’s back to school in Australia and New Zealand – but with one key difference: Kiwi kids will now learn about money.",
+      "date_published": "2026-01-30T18:01:00.000Z"
+    },
+    {
+      "id": "f943141f-9cda-4506-9446-52faf9cf1e45",
+      "url": "https://www.smh.com.au/national/the-early-retirement-trap-how-to-avoid-loneliness-boredom-and-wet-leaf-syndrome-20260120-p5nvds.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The early-retirement trap: How to avoid loneliness, boredom and ‘wet leaf syndrome’",
+      "content_html": "Quitting work earlier in life is the ultimate goal for many. But the reality can be a brutal letdown.",
+      "content_text": "Quitting work earlier in life is the ultimate goal for many. But the reality can be a brutal letdown.",
+      "date_published": "2026-01-30T18:00:00.000Z"
+    },
+    {
+      "id": "a2522c80-dc2f-48d9-bca2-43ccd2b6e143",
+      "url": "https://www.smh.com.au/national/the-bermuda-comeback-why-your-dad-s-favourite-shorts-are-suddenly-cool-again-20260119-p5nv99.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The ‘Bermuda’ comeback: Why your dad’s favourite shorts are suddenly cool again",
+      "content_html": "While micro shorts continue to be the popular choice of body-confident wearers everywhere, high-waisted styles bring a 1950s freshness to proceedings.",
+      "content_text": "While micro shorts continue to be the popular choice of body-confident wearers everywhere, high-waisted styles bring a 1950s freshness to proceedings.",
+      "date_published": "2026-01-30T18:00:00.000Z"
+    },
+    {
+      "id": "14b75e7e-b6f8-436b-9c79-e487e1da2446",
+      "url": "https://www.smh.com.au/traveller/inspiration/the-surprising-birthplace-of-one-of-history-s-most-radical-thinkers-20260119-p5nv2v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The surprising birthplace of one of history’s most radical thinkers",
+      "content_html": "I’m interested in learning more about someone whose ideas have fundamentally shaped 175 years of world history. But others are less enthused.",
+      "content_text": "I’m interested in learning more about someone whose ideas have fundamentally shaped 175 years of world history. But others are less enthused.",
+      "date_published": "2026-01-30T18:00:00.000Z"
+    },
+    {
+      "id": "7bc4c07d-f7ef-45e1-af63-345f56d319df",
+      "url": "https://www.smh.com.au/national/victoria/sculpting-a-revival-new-statues-bring-a-forgotten-diva-back-into-the-spotlight-20260115-p5nufp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sculpting a revival: new statues bring a forgotten diva back into the spotlight",
+      "content_html": "An Australian performer who travelled the world and sang for royalty has been largely forgotten for a century. But former Greens leader Bob Brown is on a mission to change that.",
+      "content_text": "An Australian performer who travelled the world and sang for royalty has been largely forgotten for a century. But former Greens leader Bob Brown is on a mission to change that.",
+      "date_published": "2026-01-30T18:00:00.000Z"
+    },
+    {
+      "id": "2f895cd6-70e1-49bd-be28-2575716e523b",
+      "url": "https://www.smh.com.au/national/i-am-a-doctor-if-i-see-people-at-festival-without-a-hat-should-i-say-something-20260114-p5ntzp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "I am a doctor. If I see people at festival without a hat, should I say something?",
+      "content_html": "They’re getting a free consultation without having to make an appointment, writes our Modern Guru.",
+      "content_text": "They’re getting a free consultation without having to make an appointment, writes our Modern Guru.",
+      "date_published": "2026-01-30T18:00:00.000Z"
+    },
+    {
+      "id": "0ddba409-84d6-4823-8684-62fe31722579",
+      "url": "https://www.smh.com.au/politics/victoria/these-are-the-top-vce-subjects-for-472-schools-20251218-p5nop1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "English? Maths? PE?  Find out your school’s top VCE subject",
+      "content_html": "English usually drives the bulk of top VCE scores, but specialist electives like outdoor education and food studies are the surprise subjects producing the best results at some schools. Use our interactive to find out your school’s top subjects.",
+      "content_text": "English usually drives the bulk of top VCE scores, but specialist electives like outdoor education and food studies are the surprise subjects producing the best results at some schools. Use our interactive to find out your school’s top subjects.",
+      "date_published": "2026-01-30T18:00:00.000Z"
+    },
+    {
+      "id": "a4ee2651-87ca-4ab7-bdbe-86a8b607995e",
+      "url": "https://www.smh.com.au/national/victoria/the-schools-that-are-getting-more-top-scores-in-vce-english-20251212-p5nn63.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The schools that are getting more top scores in VCE English",
+      "content_html": "Teachers at schools with the most-improved English results over the past decade reveal how they helped boost students’ scores. Use our interactive to find out how your school rates.",
+      "content_text": "Teachers at schools with the most-improved English results over the past decade reveal how they helped boost students’ scores. Use our interactive to find out how your school rates.",
+      "date_published": "2026-01-30T18:00:00.000Z"
+    },
+    {
+      "id": "213bd763-bbc3-46df-89e0-751ac926aa07",
+      "url": "https://www.smh.com.au/national/the-simple-shower-hack-that-could-finally-stop-your-brain-from-spiralling-20251211-p5nmr0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The simple shower hack that could finally stop your brain from spiralling",
+      "content_html": "The simple shower hack that could finally stop your brain from spiralling.",
+      "content_text": "The simple shower hack that could finally stop your brain from spiralling.",
+      "date_published": "2026-01-30T18:00:00.000Z"
+    },
+    {
+      "id": "dac77873-f299-4123-befd-e2c5019e28d0",
+      "url": "https://www.smh.com.au/national/nsw/why-lynne-is-fighting-to-heritage-list-her-home-before-it-hits-the-market-20251209-p5nm9c.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Why Lynne is fighting to heritage list her home before it hits the market",
+      "content_html": "Lynne Eastaway could do well from the sale of her large plot in north-western Sydney, but she’d rather see the original home preserved.",
+      "content_text": "Lynne Eastaway could do well from the sale of her large plot in north-western Sydney, but she’d rather see the original home preserved.",
+      "date_published": "2026-01-30T18:00:00.000Z"
+    },
+    {
+      "id": "bfddad7b-9bd9-4e33-ab0a-b38eddbd385f",
+      "url": "https://www.smh.com.au/national/victoria/victorian-schools-guide-all-you-need-to-know-about-your-school-s-vce-performance-20251208-p5nlqz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Victorian Schools Guide: All you need to know about your school’s VCE performance",
+      "content_html": "Use our interactive database to discover comprehensive VCE and vocational education data for all schools offering year 12, or search for schools in your area to compare results.",
+      "content_text": "Use our interactive database to discover comprehensive VCE and vocational education data for all schools offering year 12, or search for schools in your area to compare results.",
+      "date_published": "2026-01-30T18:00:00.000Z"
+    },
+    {
       "id": "f7d9bd1e-91d9-4654-a0e3-4deab0ba4233",
       "url": "https://www.smh.com.au/sport/tennis/a-lot-of-experts-wanted-to-retire-me-djokovic-tees-off-at-his-critics-after-five-set-overnight-epic-20260130-p5nyc0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "‘A lot of experts wanted to retire me’: Djokovic tees off at his critics after five-set, overnight epic",

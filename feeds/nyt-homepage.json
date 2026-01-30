@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/arts/television/catherine-ohara-dead.html",
+      "url": "https://www.nytimes.com/2026/01/30/arts/television/catherine-ohara-dead.html",
+      "title": "Catherine O’Hara, ‘Home Alone’ and ‘Schitt’s Creek’ Actress, Dies at 71",
+      "content_html": "The Emmy-winning comedian was a member of the influential Canadian sketch comedy series “S.C.T.V.”",
+      "content_text": "The Emmy-winning comedian was a member of the influential Canadian sketch comedy series “S.C.T.V.”",
+      "date_published": "2026-01-30T18:33:28.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/texas-am-gender-ethnic-womens-studies-academic-freedom.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/texas-am-gender-ethnic-womens-studies-academic-freedom.html",
+      "title": "Texas A&M Ends Women’s Studies and Overhauls Hundreds of Classes on Race and Gender",
+      "content_html": "New policies limiting the teaching of race and gender issues led administrators and professors to change hundreds of courses. School leaders say the rules could hurt A&M’s reputation.",
+      "content_text": "New policies limiting the teaching of race and gender issues led administrators and professors to change hundreds of courses. School leaders say the rules could hurt A&M’s reputation.",
+      "date_published": "2026-01-30T18:27:24.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html",
       "url": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html",
       "title": "Kevin Warsh, Trump’s Choice for Fed Chair, Could Find It Difficult to Deliver",
@@ -20,6 +36,14 @@
       "content_html": "Stock and bond markets were unfazed by Kevin Warsh’s nomination as the next Fed chair, with the S&P 500 nudging slightly lower in early trading on Friday.",
       "content_text": "Stock and bond markets were unfazed by Kevin Warsh’s nomination as the next Fed chair, with the S&P 500 nudging slightly lower in early trading on Friday.",
       "date_published": "2026-01-30T16:48:55.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
+      "title": "Tesla’s Model S, Soon to Be History, Changed the Auto Industry",
+      "content_html": "The company’s chief executive, Elon Musk, said this week that it would stop making the car, an electric pioneer in 2012, as well as the Model X.",
+      "content_text": "The company’s chief executive, Elon Musk, said this week that it would stop making the car, an electric pioneer in 2012, as well as the Model X.",
+      "date_published": "2026-01-30T15:52:37.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/us/don-lemon-arrest-minnesota-church-protest.html",

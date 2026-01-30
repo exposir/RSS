@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/cricket/articles/c5yvw8w6g0po#7",
+      "url": "https://www.bbc.com/sport/cricket/articles/c5yvw8w6g0po?at_medium=RSS&at_campaign=rss",
+      "title": "Curran takes hat-trick as England win first T20",
+      "content_html": "Sam Curran takes England's second ever hat-trick in T20 internationals as they beat Sri Lanka by 11 runs (DLS) in Pallekele.",
+      "content_text": "Sam Curran takes England's second ever hat-trick in T20 internationals as they beat Sri Lanka by 11 runs (DLS) in Pallekele.",
+      "date_published": "2026-01-30T18:41:23.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/cg4edzx94peo#7",
+      "url": "https://www.bbc.com/sport/football/articles/cg4edzx94peo?at_medium=RSS&at_campaign=rss",
+      "title": "Are Arsenal fans making team nervous in title race?",
+      "content_html": "Is a nervousness among Arsenal fans affecting the players in the Premier League title race? Alex Howell looks at what impact this could have on Mikel Arteta's side as they look to end a run of three second-placed finishes.",
+      "content_text": "Is a nervousness among Arsenal fans affecting the players in the Premier League title race? Alex Howell looks at what impact this could have on Mikel Arteta's side as they look to end a run of three second-placed finishes.",
+      "date_published": "2026-01-30T18:02:16.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/weather/articles/cvgm4m2wn9po#0",
+      "url": "https://www.bbc.com/weather/articles/cvgm4m2wn9po?at_medium=RSS&at_campaign=rss",
+      "title": "Snow Moon: How to see the last full moon of winter",
+      "content_html": "The full Moon in February is known as the Snow Moon.",
+      "content_text": "The full Moon in February is known as the Snow Moon.",
+      "date_published": "2026-01-30T17:25:46.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c9dv8y2j8xxo#0",
       "url": "https://www.bbc.com/news/articles/c9dv8y2j8xxo?at_medium=RSS&at_campaign=rss",
       "title": "Driver jailed for life over deadly Christmas Day rampage in London's West End",
@@ -444,6 +468,14 @@
       "content_html": "Archaeological finds from the planned HS2 train line have been shown exclusively to the BBC.",
       "content_text": "Archaeological finds from the planned HS2 train line have been shown exclusively to the BBC.",
       "date_published": "2026-01-30T06:00:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy7m3ezr80yo#3",
+      "url": "https://www.bbc.com/news/articles/cy7m3ezr80yo?at_medium=RSS&at_campaign=rss",
+      "title": "Arrests made over supersized illegal rubbish dump",
+      "content_html": "The Environment Agency says the arrests are a \"vital step\" into the Kidlington dump investigation.",
+      "content_text": "The Environment Agency says the arrests are a \"vital step\" into the Kidlington dump investigation.",
+      "date_published": "2026-01-30T06:00:14.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cy7m3ezr80yo#0",
