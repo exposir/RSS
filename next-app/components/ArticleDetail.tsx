@@ -1,7 +1,7 @@
 /**
- * [INPUT]: selected article
- * [OUTPUT]: Rendered article content with formatting
- * [POS]: next-app/components/ Right content panel
+ * [INPUT]: selected article object (or null)
+ * [OUTPUT]: Rendered article content with immersive translation styles
+ * [POS]: next-app/components/ Right panel component
  * [PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
  */
 

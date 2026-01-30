@@ -1,7 +1,7 @@
 /**
- * [INPUT]: filtered articles, search state
- * [OUTPUT]: Rendered virtualized article list with search bar
- * [POS]: next-app/components/ Middle column component
+ * [INPUT]: articles (Array), search query, selection state
+ * [OUTPUT]: Virtualized article list with search bar & toolbar
+ * [POS]: next-app/components/ Middle panel component
  * [PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
  */
 

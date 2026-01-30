@@ -1,7 +1,7 @@
 /**
- * [INPUT]: feeds, feedIndex, selectedFeed
- * [OUTPUT]: Rendered feed navigation list
- * [POS]: next-app/components/ Left sidebar component
+ * [INPUT]: feeds (Map), feedIndex (Array), selectedFeed (string)
+ * [OUTPUT]: Rendered sidebar with feed navigation & daily stats
+ * [POS]: next-app/components/ Left panel component
  * [PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
  */
 

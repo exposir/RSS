@@ -13,7 +13,7 @@ Node.js + GitHub Actions + VitePress + Next.js + Tailwind CSS
 .github/ - 🤖 自动化编排 (2 子目录: workflows, ...)
 docs/ - 📖 稳定版阅读器 (VitePress 站点与 Vue 3 主题配置)
 feeds/ - 📦 数据持久化层 (存储 80+ 订阅源的 JSON Feed 归档文件)
-next-app/ - 🧪 预览版阅读器 (Next.js 16 + React 19 + Tailwind v4)
+next-app/ - 🧪 预览版阅读器 (Next.js 16 + React 19 + Tailwind v4 扁平化架构)
 scripts/ - 🕷️ 核心业务逻辑 (RSS 抓取、HTML 清洗与增量更新脚本)
 node_modules/ - 项目依赖库
 </directory>
