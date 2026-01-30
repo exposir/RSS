@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "0bdea425-b747-460f-b419-4b15402ce542",
+      "url": "https://www.smh.com.au/sport/tennis/djokovic-swings-momentum-with-break-20260130-p5nyfq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic swings momentum with break",
+      "content_html": "Novak Djokovic attempts to fire up the crowd after claiming a break.",
+      "content_text": "Novak Djokovic attempts to fire up the crowd after claiming a break.",
+      "date_published": "2026-01-30T11:33:07.000Z"
+    },
+    {
       "id": "65d0cb31-8693-427a-9fb8-b6dbe7278fa2",
       "url": "https://www.smh.com.au/sport/tennis/zverev-confirms-what-he-said-in-umpire-rant-20260130-p5nyfn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Zverev confirms what he said in umpire rant",

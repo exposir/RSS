@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/energy-environment/chevron-exxon-mobil-earnings.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/energy-environment/chevron-exxon-mobil-earnings.html",
+      "title": "Chevron Points to Venezuela’s Promise as Big Oil Earnings Fall",
+      "content_html": "The two largest U.S. oil companies, Chevron and Exxon Mobil, reported their lowest annual profits in years.",
+      "content_text": "The two largest U.S. oil companies, Chevron and Exxon Mobil, reported their lowest annual profits in years.",
+      "date_published": "2026-01-30T11:39:23.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/business/north-road-mediawan-deal.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/north-road-mediawan-deal.html",
+      "title": "Hollywood’s North Road Studio Acquired by a European Production Giant",
+      "content_html": "Peter Chernin, an industry veteran who founded North Road in 2022, said his deal with Mediawan met a need to get bigger in an era of consolidation.",
+      "content_text": "Peter Chernin, an industry veteran who founded North Road in 2022, said his deal with Mediawan met a need to get bigger in an era of consolidation.",
+      "date_published": "2026-01-30T11:30:03.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/dining/food-delivery-apps-doordash-uber.html",
       "url": "https://www.nytimes.com/2026/01/30/dining/food-delivery-apps-doordash-uber.html",
       "title": "How DoorDash and Other Food Delivery Apps Are Reshaping Mealtime in the U.S.",

@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189626",
+      "url": "https://www.v2ex.com/t/1189626#reply1",
+      "title": "[VPS] cloudcone (CC) 遭遇勒索病毒攻击，数据应该是无了。",
+      "content_html": "<p>今日（ 2026.01.30 ）下午，官方已经发布了情况说明: <a href=\"https://status.cloudcone.com/incidents/346624\" rel=\"nofollow\">https://status.cloudcone.com/incidents/346624</a></p>\n<p>经调查，我们发现<b> 所有 </b>受影响的虚拟机在启动时都会显示勒索信息...</p>\n<p>看样子数据应该是拿不回来了，可能会重建 VPS</p>\n<p>我在这家有 3 台 vps ，所幸数据都有备份，差点翻车</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/YCaxDSI.png\"/></p>",
+      "content_text": "今日（ 2026.01.30 ）下午，官方已经发布了情况说明: https://status.cloudcone.com/incidents/346624\n经调查，我们发现 所有 受影响的虚拟机在启动时都会显示勒索信息...\n看样子数据应该是拿不回来了，可能会重建 VPS\n我在这家有 3 台 vps ，所幸数据都有备份，差点翻车",
+      "date_published": "2026-01-30T11:46:37.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189625",
+      "url": "https://www.v2ex.com/t/1189625#reply0",
+      "title": "[Vue.js] 我真的要放弃 Vue，改用 React 了",
+      "content_html": "<p>因为 AI 已经彻底改变了我写代码、做产品的方式。</p>\n<p>举个最近非常真实的例子：\n我用 AI <strong>从收集资料、买域名、写代码，到上线一个可访问的网站，全程不到 1 个小时</strong>。 <a href=\"https://openclawai.net/\" rel=\"nofollow\">https://openclawai.net/</a></p>\n<p>这个速度，说实话，用 Vue 是几乎做不到的，而且我更加熟悉 vue 。</p>\n<p>不是 Vue 不好，而是：各个平台默认输出的就是 react ，如果迁移到 vue 需要很多额外的 token</p>\n<p>而用 AI 写 React：</p>\n<ul>\n<li>JSX + 函数组件，AI 命中率非常高</li>\n<li>一次生成可运行的概率明显更大</li>\n<li>重构、拆组件、补逻辑几乎是“指哪打哪”</li>\n</ul>\n<p>更关键的一点是：\n<strong>我对 React 其实并不算熟。</strong></p>\n<p>但这件事已经不再重要了。</p>",
+      "content_text": "因为 AI 已经彻底改变了我写代码、做产品的方式。\n举个最近非常真实的例子：\n我用 AI 从收集资料、买域名、写代码，到上线一个可访问的网站，全程不到 1 个小时。 https://openclawai.net/\n这个速度，说实话，用 Vue 是几乎做不到的，而且我更加熟悉 vue 。\n不是 Vue 不好，而是：各个平台默认输出的就是 react ，如果迁移到 vue 需要很多额外的 token\n而用 AI 写 React：\n\nJSX + 函数组件，AI 命中率非常高\n一次生成可运行的概率明显更大\n重构、拆组件、补逻辑几乎是“指哪打哪”\n\n更关键的一点是：\n我对 React 其实并不算熟。\n但这件事已经不再重要了。",
+      "date_published": "2026-01-30T11:40:31.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189624",
       "url": "https://www.v2ex.com/t/1189624#reply0",
       "title": "[生活] 做了一个习惯 APP， V 友们可以尝尝鲜～",

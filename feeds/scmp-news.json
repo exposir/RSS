@@ -6,6 +6,14 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/world/middle-east/article/3341861/us-envoys-israel-blocked-apocalyptic-gaza-warning-2024-report?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3341861/us-envoys-israel-blocked-apocalyptic-gaza-warning-2024-report?utm_source=rss_feed",
+      "title": "US envoys to Israel blocked ‘apocalyptic’ Gaza warning in 2024: report",
+      "content_html": "US Agency for International Development staffers in early 2024 drafted a warning to senior officials in Joe Biden’s administration: Northern Gaza had turned into an “Apocalyptic Wasteland” with dire shortages of food and medical aid.\nThree months after the October 7, 2023 Hamas attacks and Israel’s incursion into the Gaza Strip, the internal message laid out in gruesome detail scenes observed by United Nations staff who visited the area on a two-part humanitarian fact-finding mission in January...",
+      "content_text": "US Agency for International Development staffers in early 2024 drafted a warning to senior officials in Joe Biden’s administration: Northern Gaza had turned into an “Apocalyptic Wasteland” with dire shortages of food and medical aid.\nThree months after the October 7, 2023 Hamas attacks and Israel’s incursion into the Gaza Strip, the internal message laid out in gruesome detail scenes observed by United Nations staff who visited the area on a two-part humanitarian fact-finding mission in January...",
+      "date_published": "2026-01-30T11:43:37.000Z"
+    },
+    {
       "id": "https://www.scmp.com/tech/article/3341860/alibaba-ai-chip-push-hits-100000-mark-beating-local-rival-cambricon-sources?utm_source=rss_feed",
       "url": "https://www.scmp.com/tech/article/3341860/alibaba-ai-chip-push-hits-100000-mark-beating-local-rival-cambricon-sources?utm_source=rss_feed",
       "title": "Alibaba AI chip push hits 100,000 mark, beating local rival Cambricon: sources",
