@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "c50187e0-415e-4d62-8f02-14d992f75737",
+      "url": "https://www.smh.com.au/culture/celebrity/a-thousand-faces-one-heart-the-quiet-modesty-of-catherine-o-hara-20260131-p5nygy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "A thousand faces, one heart: The quiet modesty of Catherine O’Hara",
+      "content_html": "Forged in the fire of improvisational comedy, Catherine O’Hara possessed the rare ability to turn a grain of truth into the most absurd characters.",
+      "content_text": "Forged in the fire of improvisational comedy, Catherine O’Hara possessed the rare ability to turn a grain of truth into the most absurd characters.",
+      "date_published": "2026-01-30T21:07:12.000Z"
+    },
+    {
+      "id": "dde1fa78-cb57-41be-b18c-162986323742",
+      "url": "https://www.smh.com.au/national/nsw/alleged-fake-casting-agent-charged-with-child-prostitution-20260131-p5nygr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alleged fake casting agent charged with child prostitution",
+      "content_html": "A man in Sydney’s inner west has been charged after allegedly posing as a casting agent to lure young actors into sex acts with the promise of film and television roles.",
+      "content_text": "A man in Sydney’s inner west has been charged after allegedly posing as a casting agent to lure young actors into sex acts with the promise of film and television roles.",
+      "date_published": "2026-01-30T20:37:13.000Z"
+    },
+    {
       "id": "7518f15e-0573-4d2c-88de-b4891d2eb088",
       "url": "https://www.smh.com.au/world/catherine-o-hara-passes-away-aged-71-20260131-p5nyh3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Catherine O’Hara passes away aged 71",

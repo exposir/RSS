@@ -14,12 +14,28 @@
       "date_published": "2026-01-30T20:20:51.000Z"
     },
     {
+      "id": "https://www.nytimes.com/2026/01/30/climate/winter-storm-power-grid-us-canada.html",
+      "url": "https://www.nytimes.com/2026/01/30/climate/winter-storm-power-grid-us-canada.html",
+      "title": "Grids Are Surviving the Storm. But the Next 5 Years Could Be Rough.",
+      "content_html": "A group that monitors the U.S. electricity system warns that grid reliability is “worsening” and blackout risks are rising for millions of people.",
+      "content_text": "A group that monitors the U.S. electricity system warns that grid reliability is “worsening” and blackout risks are rising for millions of people.",
+      "date_published": "2026-01-30T20:13:35.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/us/texas-population-growth-migration-census.html",
       "url": "https://www.nytimes.com/2026/01/30/us/texas-population-growth-migration-census.html",
       "title": "Texas May Be Losing Its Grip as America’s Fastest-Growing State",
       "content_html": "Long accustomed to rapid growth, Texas saw the overall number of people moving from other states sink to its lowest level in two decades, census estimates show.",
       "content_text": "Long accustomed to rapid growth, Texas saw the overall number of people moving from other states sink to its lowest level in two decades, census estimates show.",
       "date_published": "2026-01-30T20:00:14.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/business/uk-china-trade-business-starmer-xi.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/uk-china-trade-business-starmer-xi.html",
+      "title": "In a Bid to Kick-Start Growth, Britain Turns to China",
+      "content_html": "Buffeted by tariffs and trade tensions, Prime Minister Keir Starmer took British business leaders to China and emerged with deals on visas and Scotch whisky, as well as pledges to deepen ties.",
+      "content_text": "Buffeted by tariffs and trade tensions, Prime Minister Keir Starmer took British business leaders to China and emerged with deals on visas and Scotch whisky, as well as pledges to deepen ties.",
+      "date_published": "2026-01-30T19:41:55.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/climate/us-grids-are-surviving-the-winter-storm-but-the-next-5-years-could-be-rough.html",
@@ -118,6 +134,14 @@
       "date_published": "2026-01-30T14:43:05.000Z"
     },
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/stock-market-concentration-risk.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/stock-market-concentration-risk.html",
+      "title": "Your ‘Safe’ Stock Funds May Be Riskier Than You Think",
+      "content_html": "The U.S. stock market has become so concentrated that even broad index funds are no longer well diversified, our columnist says.",
+      "content_text": "The U.S. stock market has become so concentrated that even broad index funds are no longer well diversified, our columnist says.",
+      "date_published": "2026-01-30T14:00:06.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html",
       "url": "https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html",
       "title": "Will Kevin Warsh Do What Trump Wants?",
@@ -204,6 +228,14 @@
       "content_html": "The leaders of both countries have recently visited Beijing seeking to strengthen economic ties, as tensions with the United States rise.",
       "content_text": "The leaders of both countries have recently visited Beijing seeking to strengthen economic ties, as tensions with the United States rise.",
       "date_published": "2026-01-30T10:29:21.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/opinion/ezra-klein-podcast-adam-tooze.html",
+      "url": "https://www.nytimes.com/2026/01/30/opinion/ezra-klein-podcast-adam-tooze.html",
+      "title": "Is America’s ‘Rupture’ China’s Moment?",
+      "content_html": "The historian Adam Tooze discusses Davos, China and the fading of an old world order.",
+      "content_text": "The historian Adam Tooze discusses Davos, China and the fading of an old world order.",
+      "date_published": "2026-01-30T10:04:41.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/us/politics/georgia-trump-election.html",

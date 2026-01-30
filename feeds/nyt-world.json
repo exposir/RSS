@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/video/world/middleeast/100000010675129/why-trump-is-going-after-iran-now.html",
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010675129/why-trump-is-going-after-iran-now.html",
+      "title": "Why Trump Is Going After Iran Now",
+      "content_html": "As President Trump warns that “we have a lot of very big, very powerful ships sailing to Iran right now,” our national security correspondent David E. Sanger breaks down what to know.",
+      "content_text": "As President Trump warns that “we have a lot of very big, very powerful ships sailing to Iran right now,” our national security correspondent David E. Sanger breaks down what to know.",
+      "date_published": "2026-01-30T21:06:12.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html",
       "url": "https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html",
       "title": "Children Were Arrested in Iran’s Brutal Crackdown on Protests",

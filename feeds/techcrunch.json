@@ -6,6 +6,22 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3088333",
+      "url": "https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/",
+      "title": "Instagram might soon let you remove yourself from someone&#8217;s Close Friends list",
+      "content_html": "Since the feature's launch in 2018, users haven't been able to remove themselves from someone else's Close Friends list.",
+      "content_text": "Since the feature's launch in 2018, users haven't been able to remove themselves from someone else's Close Friends list.",
+      "date_published": "2026-01-30T21:14:58.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3088354",
+      "url": "https://techcrunch.com/2026/01/30/blue-origin-pauses-space-tourism-flights-to-focus-on-the-moon/",
+      "title": "Blue Origin pauses space tourism flights to focus on the moon",
+      "content_html": "The company is trying to take advantage of President Donald Trump's desire to return astronauts to the lunar surface by the end of his term.",
+      "content_text": "The company is trying to take advantage of President Donald Trump's desire to return astronauts to the lunar surface by the end of his term.",
+      "date_published": "2026-01-30T21:11:52.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3088310",
       "url": "https://techcrunch.com/2026/01/30/spacexs-ipo-could-open-the-floodgates-and-secondaries-are-booming-in-the-meantime/",
       "title": "SpaceX’s IPO could open the floodgates — and secondaries are booming in the meantime",
