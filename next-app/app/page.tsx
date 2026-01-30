@@ -5,92 +5,115 @@
  * [PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
  */
 
-'use client'
+"use client";
 
-import { useState, useMemo, useEffect } from 'react'
-import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from '@/components/ui/resizable'
-import { useFeeds, Article } from '@/hooks/useFeeds'
-import { useMediaQuery } from '@/hooks/use-media-query'
-import { cn } from '@/lib/utils'
-import { isDateMatch } from '@/lib/date'
-import { FeedList } from '@/components/FeedList'
-import { ArticleList } from '@/components/ArticleList'
-import { ArticleDetail } from '@/components/ArticleDetail'
+import { useState, useMemo, useEffect } from "react";
+import {
+  ResizableHandle,
+  ResizablePanel,
+  ResizablePanelGroup,
+} from "@/components/ui/resizable";
+import { useFeeds, Article } from "@/hooks/useFeeds";
+import { useMediaQuery } from "@/hooks/use-media-query";
+import { cn } from "@/lib/utils";
+import { isDateMatch } from "@/lib/date";
+import { FeedList } from "@/components/FeedList";
+import { ArticleList } from "@/components/ArticleList";
+import { ArticleDetail } from "@/components/ArticleDetail";
 
 export default function RSSReader() {
-  const { feedIndex, feeds, loading, loadingIndex, loadedCount, error, loadAllFeeds } = useFeeds()
-  const [selectedFeed, setSelectedFeed] = useState<string>('today') // Default to 'today'
-  const [selectedArticle, setSelectedArticle] = useState<Article | null>(null)
-  const [searchQuery, setSearchQuery] = useState('')
+  const {
+    feedIndex,
+    feeds,
+    loading,
+    loadingIndex,
+    loadedCount,
+    error,
+    loadAllFeeds,
+  } = useFeeds();
+  const [selectedFeed, setSelectedFeed] = useState<string>("today"); // Default to 'today'
+  const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
+  const [searchQuery, setSearchQuery] = useState("");
 
   // Fix hydration mismatch by waiting for mount
-  const [isMounted, setIsMounted] = useState(false)
-  const isDesktop = useMediaQuery("(min-width: 768px)")
+  const [isMounted, setIsMounted] = useState(false);
+  const isDesktop = useMediaQuery("(min-width: 768px)");
 
   useEffect(() => {
-    setIsMounted(true)
-  }, [])
+    setIsMounted(true);
+  }, []);
 
   // Filter Logic
   const filteredArticles = useMemo(() => {
-    let articles: Article[] = []
-    const today = new Date()
-    const yesterday = new Date()
-    yesterday.setDate(yesterday.getDate() - 1)
+    let articles: Article[] = [];
+    const today = new Date();
+    const yesterday = new Date();
+    yesterday.setDate(yesterday.getDate() - 1);
 
     // 1. Gather articles
-    if (selectedFeed === 'today') {
+    if (selectedFeed === "today") {
       feeds.forEach((feed, feedId) => {
-        const feedInfo = feedIndex.find(f => f.id === feedId)
-        feed.items?.forEach(item => {
+        const feedInfo = feedIndex.find((f) => f.id === feedId);
+        feed.items?.forEach((item) => {
           if (isDateMatch(item.date_published, today)) {
-            articles.push({ ...item, source: feed.title || feedInfo?.name || '', feedId })
+            articles.push({
+              ...item,
+              source: feed.title || feedInfo?.name || "",
+              feedId,
+            });
           }
-        })
-      })
-    } else if (selectedFeed === 'yesterday') {
+        });
+      });
+    } else if (selectedFeed === "yesterday") {
       feeds.forEach((feed, feedId) => {
-        const feedInfo = feedIndex.find(f => f.id === feedId)
-        feed.items?.forEach(item => {
+        const feedInfo = feedIndex.find((f) => f.id === feedId);
+        feed.items?.forEach((item) => {
           if (isDateMatch(item.date_published, yesterday)) {
-            articles.push({ ...item, source: feed.title || feedInfo?.name || '', feedId })
+            articles.push({
+              ...item,
+              source: feed.title || feedInfo?.name || "",
+              feedId,
+            });
           }
-        })
-      })
+        });
+      });
     } else {
-      const feed = feeds.get(selectedFeed)
-      const feedInfo = feedIndex.find(f => f.id === selectedFeed)
+      const feed = feeds.get(selectedFeed);
+      const feedInfo = feedIndex.find((f) => f.id === selectedFeed);
       if (feed && feed.items) {
-        articles = feed.items.map(item => ({
+        articles = feed.items.map((item) => ({
           ...item,
-          source: feed.title || feedInfo?.name || '',
-          feedId: selectedFeed
-        }))
+          source: feed.title || feedInfo?.name || "",
+          feedId: selectedFeed,
+        }));
       }
     }
 
     // 2. Search
     if (searchQuery.trim()) {
-      const q = searchQuery.toLowerCase().trim()
-      articles = articles.filter(a =>
-        a.title.toLowerCase().includes(q) ||
-        a.source.toLowerCase().includes(q)
-      )
+      const q = searchQuery.toLowerCase().trim();
+      articles = articles.filter(
+        (a) =>
+          a.title.toLowerCase().includes(q) ||
+          a.source.toLowerCase().includes(q),
+      );
     }
 
     // 3. Sort
-    return articles.sort((a, b) =>
-      new Date(b.date_published).getTime() - new Date(a.date_published).getTime()
-    )
-  }, [feeds, feedIndex, selectedFeed, searchQuery])
+    return articles.sort(
+      (a, b) =>
+        new Date(b.date_published).getTime() -
+        new Date(a.date_published).getTime(),
+    );
+  }, [feeds, feedIndex, selectedFeed, searchQuery]);
 
   const selectedFeedName = useMemo(() => {
-    if (selectedFeed === 'today') return '今日更新'
-    if (selectedFeed === 'yesterday') return '昨日回顾'
-    return feedIndex.find(f => f.id === selectedFeed)?.name || '未知订阅源'
-  }, [selectedFeed, feedIndex])
+    if (selectedFeed === "today") return "今日更新";
+    if (selectedFeed === "yesterday") return "昨日回顾";
+    return feedIndex.find((f) => f.id === selectedFeed)?.name || "未知订阅源";
+  }, [selectedFeed, feedIndex]);
 
-  if (!isMounted) return null
+  if (!isMounted) return null;
 
   return (
     <div className="h-screen w-full bg-background text-foreground flex flex-col">
@@ -105,9 +128,9 @@ export default function RSSReader() {
           <>
             <ResizablePanel
               id="left-panel"
-              defaultSize={25}
-              minSize={20}
-              maxSize={35}
+              defaultSize={20}
+              minSize={15}
+              maxSize={30}
               collapsible={false}
               className="border-r border-border overflow-hidden"
             >
@@ -115,7 +138,10 @@ export default function RSSReader() {
                 feedIndex={feedIndex}
                 feeds={feeds}
                 selectedFeed={selectedFeed}
-                onSelect={(id) => { setSelectedFeed(id); setSelectedArticle(null); }}
+                onSelect={(id) => {
+                  setSelectedFeed(id);
+                  setSelectedArticle(null);
+                }}
                 loadingIndex={loadingIndex}
                 error={error}
               />
@@ -129,7 +155,10 @@ export default function RSSReader() {
           id="middle-panel"
           defaultSize={30}
           minSize={20}
-          className={cn("border-r border-border overflow-hidden", !isDesktop && "w-full border-none")}
+          className={cn(
+            "border-r border-border overflow-hidden",
+            !isDesktop && "w-full border-none",
+          )}
         >
           <ArticleList
             articles={filteredArticles}
@@ -151,12 +180,16 @@ export default function RSSReader() {
         {isDesktop && (
           <>
             <ResizableHandle />
-            <ResizablePanel id="right-panel" defaultSize={50} className="bg-background overflow-hidden">
+            <ResizablePanel
+              id="right-panel"
+              defaultSize={50}
+              className="bg-background overflow-hidden"
+            >
               <ArticleDetail article={selectedArticle} />
             </ResizablePanel>
           </>
         )}
       </ResizablePanelGroup>
     </div>
-  )
+  );
 }
