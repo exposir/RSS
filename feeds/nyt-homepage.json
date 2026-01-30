@@ -6,12 +6,36 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/briefing/justice-dept-pretti-killing-fed-chair.html",
+      "url": "https://www.nytimes.com/2026/01/30/briefing/justice-dept-pretti-killing-fed-chair.html",
+      "title": "Justice Dept. Opens Civil Rights Inquiry Into Minneapolis Killing",
+      "content_html": "Also, Kevin Warsh is Trump’s pick to lead the Fed. Here’s the latest at the end of Friday.",
+      "content_text": "Also, Kevin Warsh is Trump’s pick to lead the Fed. Here’s the latest at the end of Friday.",
+      "date_published": "2026-01-30T23:04:51.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/arts/television/catherine-ohara-death-photos.html",
+      "url": "https://www.nytimes.com/2026/01/30/arts/television/catherine-ohara-death-photos.html",
+      "title": "Catherine O’Hara: A Life in Pictures",
+      "content_html": "The Canadian actress’s career spanned decades and genres, including memorable roles in “Home Alone” and “Schitt’s Creek.”",
+      "content_text": "The Canadian actress’s career spanned decades and genres, including memorable roles in “Home Alone” and “Schitt’s Creek.”",
+      "date_published": "2026-01-30T23:02:20.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/nyregion/nyc-snow-death-toll.html",
       "url": "https://www.nytimes.com/2026/01/30/nyregion/nyc-snow-death-toll.html",
       "title": "Death Toll During New York City Cold Snap Rises to 13",
       "content_html": "The people who died, at least several of whom were believed to be homeless, had been found outdoors, including at a playground and near a hospital.",
       "content_text": "The people who died, at least several of whom were believed to be homeless, had been found outdoors, including at a playground and near a hospital.",
       "date_published": "2026-01-30T22:37:03.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/trump-lawsuit-irs-taxes.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/trump-lawsuit-irs-taxes.html",
+      "title": "Trump’s Lawsuit Against I.R.S. Creates ‘Enormous Conflict of Interest’",
+      "content_html": "The president is demanding that the federal government pay him at least $10 billion over the unauthorized disclosure of his tax returns during his first term.",
+      "content_text": "The president is demanding that the federal government pay him at least $10 billion over the unauthorized disclosure of his tax returns during his first term.",
+      "date_published": "2026-01-30T22:33:18.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/nyregion/queens-exoneration-allen-porter.html",
@@ -68,6 +92,14 @@
       "content_html": "As President Trump warns that “we have a lot of very big, very powerful ships sailing to Iran right now,” our national security correspondent David E. Sanger breaks down what to know.",
       "content_text": "As President Trump warns that “we have a lot of very big, very powerful ships sailing to Iran right now,” our national security correspondent David E. Sanger breaks down what to know.",
       "date_published": "2026-01-30T21:06:12.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/travel/ice-hotels-immigration.html",
+      "url": "https://www.nytimes.com/2026/01/30/travel/ice-hotels-immigration.html",
+      "title": "Hotel Owners and Workers, Tell Us How You’re Feeling",
+      "content_html": "With hotels increasingly caught between the federal government’s immigration crackdown and protests against ICE, we want to hear how it’s affecting you.",
+      "content_text": "With hotels increasingly caught between the federal government’s immigration crackdown and protests against ICE, we want to hear how it’s affecting you.",
+      "date_published": "2026-01-30T20:33:38.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html",

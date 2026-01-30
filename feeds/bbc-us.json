@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c4g5490xmkeo#0",
+      "url": "https://www.bbc.com/news/articles/c4g5490xmkeo?at_medium=RSS&at_campaign=rss",
+      "title": "Epstein invited 'The Duke' to meet Russian woman ",
+      "content_html": "The exchange emerges in the latest, wider batch of documents released by US justice officials.",
+      "content_text": "The exchange emerges in the latest, wider batch of documents released by US justice officials.",
+      "date_published": "2026-01-30T23:06:27.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cgm4kyw482eo#3",
+      "url": "https://www.bbc.com/news/articles/cgm4kyw482eo?at_medium=RSS&at_campaign=rss",
+      "title": "Labubu to open seven UK shops, after PM's China visit",
+      "content_html": "The furry dolls have a signature spiky-toothed grin and became a viral purchase last summer.",
+      "content_text": "The furry dolls have a signature spiky-toothed grin and became a viral purchase last summer.",
+      "date_published": "2026-01-30T22:31:27.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/czx1qrx5jgzo#1",
       "url": "https://www.bbc.com/news/articles/czx1qrx5jgzo?at_medium=RSS&at_campaign=rss",
       "title": "Will Trump's pick to lead US central bank get him the change he wants?",
