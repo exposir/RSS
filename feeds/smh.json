@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "dad35cd3-00d8-4947-9e12-c2219584ec87",
+      "url": "https://www.smh.com.au/sport/tennis/novak-pants-after-saving-three-break-points-20260131-p5nyg3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Novak pants after saving three break points",
+      "content_html": "Novak Djokovic takes in some deep breaths after saving three break points.",
+      "content_text": "Novak Djokovic takes in some deep breaths after saving three break points.",
+      "date_published": "2026-01-30T14:28:04.000Z"
+    },
+    {
+      "id": "d4be71da-9cf9-4133-9598-458518e34692",
+      "url": "https://www.smh.com.au/sport/tennis/sinner-earns-three-break-points-20260131-p5nyg2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sinner earns three break points",
+      "content_html": "Novak Djokovic bends down as Jannik Sinner earns three break points.",
+      "content_text": "Novak Djokovic bends down as Jannik Sinner earns three break points.",
+      "date_published": "2026-01-30T14:23:06.000Z"
+    },
+    {
       "id": "7a0e32a6-89d8-49b4-be5a-2ba7290e102c",
       "url": "https://www.smh.com.au/sport/tennis/one-wears-gucci-and-appears-on-jimmy-fallon-the-other-gives-you-nothing-behind-the-women-s-final-20260130-p5ny9f.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "One wears Gucci and appears on Jimmy Fallon, the other gives you nothing: Behind the women’s final",

@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/your-money/credit-card-debt-interest-rates.html",
+      "url": "https://www.nytimes.com/2026/01/30/your-money/credit-card-debt-interest-rates.html",
+      "title": "Tips for Lowering Your Credit Card Interest Rate",
+      "content_html": "The first step, consumer finance experts say, is to ask your card issuer to reduce the rate. And with average balances now $6,500, consider using your tax refund to put a dent in the debt.",
+      "content_text": "The first step, consumer finance experts say, is to ask your card issuer to reduce the rate. And with average balances now $6,500, consider using your tax refund to put a dent in the debt.",
+      "date_published": "2026-01-30T14:00:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/business/stock-market-concentration-risk.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/stock-market-concentration-risk.html",
+      "title": "Your ‘Safe’ Stock Funds May Be Riskier Than You Think",
+      "content_html": "The U.S. stock market has become so concentrated that even broad index funds are no longer well diversified, our columnist says.",
+      "content_text": "The U.S. stock market has become so concentrated that even broad index funds are no longer well diversified, our columnist says.",
+      "date_published": "2026-01-30T14:00:06.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html",
       "url": "https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html",
       "title": "Will Kevin Warsh Do What Trump Wants?",

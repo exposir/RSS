@@ -6,6 +6,22 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003297562",
+      "url": "https://www.wsj.com/world/zelensky-voices-support-for-u-s-backed-energy-truce-with-russia-1aeadb27",
+      "title": "Zelensky Voices Support for U.S.-Backed &#x2018;Energy Truce&#x2019; With Russia",
+      "content_html": "An agreement to pause strikes on energy infrastructure would be the first tangible result from a renewed push for peace in Ukraine.",
+      "content_text": "An agreement to pause strikes on energy infrastructure would be the first tangible result from a renewed push for peace in Ukraine.",
+      "date_published": "2026-01-30T14:10:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003297563",
+      "url": "https://www.wsj.com/politics/national-security/trump-faces-high-stakes-choice-as-final-nuclear-pact-with-russia-expires-6dedebb1",
+      "title": "Trump Faces High-Stakes Choice as Final Nuclear Pact With Russia Expires",
+      "content_html": "Russia has proposed a de facto one-year extension of New START, but the president has yet to commit.",
+      "content_text": "Russia has proposed a de facto one-year extension of New START, but the president has yet to commit.",
+      "date_published": "2026-01-30T14:07:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003297389",
       "url": "https://www.wsj.com/finance/currencies/yen-rally-wasnt-government-engineered-finance-ministry-data-show-17365393",
       "title": "Yen Rally Wasn&#x2019;t Government-Engineered, Finance Ministry Data Show",

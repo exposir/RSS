@@ -6,6 +6,38 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/stocks-fall-as-trump-picks-warsh-tillis-still-opposes-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/stocks-fall-as-trump-picks-warsh-tillis-still-opposes-more",
+      "title": "Stocks Fall as Trump Picks Warsh, Tillis Still Opposes, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T14:39:01.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/i-squared-s-mohamed-el-gazzar-seeks-ai-adjacent-bets",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/i-squared-s-mohamed-el-gazzar-seeks-ai-adjacent-bets",
+      "title": "I Squared’s El Gazzar Seeks AI-Adjacent Bets",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T14:33:09.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/ares-jpmorgan-lead-525-million-loan-for-nyc-high-line-condos",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/ares-jpmorgan-lead-525-million-loan-for-nyc-high-line-condos",
+      "title": "Ares, JPMorgan Lead $525 Million Loan for NYC High Line Condos",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T14:07:45.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/euro-area-gdp-figures-deliver-boost-as-market-weighs-warsh-fed-appointment",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/euro-area-gdp-figures-deliver-boost-as-market-weighs-warsh-fed-appointment",
+      "title": "Growth Boost for Euro Area as Markets Weigh Warsh Pick",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T14:01:31.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-30/trump-picks-warsh-to-lead-fed-producer-prices-rise-more",
       "url": "https://www.bloomberg.com/news/audio/2026-01-30/trump-picks-warsh-to-lead-fed-producer-prices-rise-more",
       "title": "Trump Picks Warsh to Lead Fed, Producer Prices Rise, More",

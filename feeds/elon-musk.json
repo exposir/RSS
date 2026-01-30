@@ -6,6 +6,38 @@
   "description": "Twitter @Elon Musk - Powered by RSSHub",
   "items": [
     {
+      "id": "https://twitter.com/elonmusk/status/2017245267947667555",
+      "url": "https://x.com/elonmusk/status/2017245267947667555",
+      "title": "",
+      "content_html": "<br><video width=\"928\" height=\"1376\" src=\"https://video.twimg.com/amplify_video/2017214669480415232/vid/avc1/576x856/3JfPUkGrE3VM-3lQ.mp4?tag=23\" controls=\"controls\" poster=\"https://pbs.twimg.com/amplify_video_thumb/2017214669480415232/img/wSLy-Fa1TPXxZ7lv.jpg\"></video>",
+      "content_text": "",
+      "date_published": "2026-01-30T14:35:25.000Z"
+    },
+    {
+      "id": "https://twitter.com/elonmusk/status/2017243489180975608",
+      "url": "https://x.com/elonmusk/status/2017243489180975608",
+      "title": "RT X Freeze: Grok Imagine generates gaming videos better than real games and with more effects 😳",
+      "content_html": "RT X Freeze<br>Grok Imagine generates gaming videos better than real games and with more effects 😳<br><video width=\"1504\" height=\"832\" src=\"https://video.twimg.com/amplify_video/2017242496523513856/vid/avc1/866x480/UZzPC-ysuDXYuhzZ.mp4?tag=23\" controls=\"controls\" poster=\"https://pbs.twimg.com/amplify_video_thumb/2017242496523513856/img/fuAu0UsdIPBKGUYE.jpg\"></video>",
+      "content_text": "RT X FreezeGrok Imagine generates gaming videos better than real games and with more effects 😳",
+      "date_published": "2026-01-30T14:24:50.000Z"
+    },
+    {
+      "id": "https://twitter.com/elonmusk/status/2017242050492764652",
+      "url": "https://x.com/elonmusk/status/2017242050492764652",
+      "title": "Suicidal empathy",
+      "content_html": "Suicidal empathy<div class=\"rsshub-quote\"><br><br>Mario Nawfal: 🇺🇸 GAD SAAD: EMPATHY IS EVOLUTIONARY, BUT WHEN IT MISFIRES IT BECOMES SUICIDAL<br><br>“So empathy is an emotion that has evolved for very clear evolutionary reasons. <br><br>Just like any of our other emotions, for example, envy, there are evolutionary reasons why we’ve evolved the emotion<br><br><video width=\"624\" height=\"352\" src=\"https://video.twimg.com/amplify_video/1986289809908793344/vid/avc1/624x352/MclE4ZimEkFvwWe9.mp4?tag=21\" controls=\"controls\" poster=\"https://pbs.twimg.com/amplify_video_thumb/1986289809908793344/img/Ot8Bh7XEvg0RJR9-.jpg\"></video></div>",
+      "content_text": "Suicidal empathyMario Nawfal: 🇺🇸 GAD SAAD: EMPATHY IS EVOLUTIONARY, BUT WHEN IT MISFIRES IT BECOMES SUICIDAL“So empathy is an emotion that has evolved for very clear evolutionary reasons. Just like any of our other emotions, for example, envy, there are evolutionary reasons why we’ve evolved the emotion",
+      "date_published": "2026-01-30T14:22:38.000Z"
+    },
+    {
+      "id": "https://twitter.com/elonmusk/status/2017243775412888028",
+      "url": "https://x.com/elonmusk/status/2017243775412888028",
+      "title": "RT Déborah: The animation of this image is the one proposed by Grok, on the first try",
+      "content_html": "RT Déborah<br>The animation of this image is the one proposed by Grok, on the first try<br><video width=\"832\" height=\"1504\" src=\"https://video.twimg.com/amplify_video/2017206872428716032/vid/avc1/472x856/ZeyDI73PSP8hhjGb.mp4?tag=23\" controls=\"controls\" poster=\"https://pbs.twimg.com/amplify_video_thumb/2017206872428716032/img/3y2vIjRgshpPMXc1.jpg\"></video>",
+      "content_text": "RT DéborahThe animation of this image is the one proposed by Grok, on the first try",
+      "date_published": "2026-01-30T12:09:46.000Z"
+    },
+    {
       "id": "https://twitter.com/elonmusk/status/2017156138501054585",
       "url": "https://x.com/elonmusk/status/2017156138501054585",
       "title": "RT Déborah: MechaGrok 4.20 Grok Imagine",
