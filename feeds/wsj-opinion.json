@@ -6,6 +6,14 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "WP-WSJO-0000245869",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-d39937b9",
+      "title": "Pepper&#x2026;and Salt",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T05:00:00.000Z"
+    },
+    {
       "id": "SB11930060785218553820404592648583037962006",
       "url": "https://www.wsj.com/opinion/america-needs-restraintand-facts-85293b6d",
       "title": "America Needs Restraint&#x2014;and Facts",

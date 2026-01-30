@@ -6,6 +6,14 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/c0ery3d2z2ro/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/c0ery3d2z2ro/trad?at_medium=RSS&at_campaign=rss",
+      "title": "施紀賢訪華：英政府指，中國將放寬英國訪客旅遊規定",
+      "content_html": "施紀賢爵士訪問北京，是八年來首位到訪中國的英國首相。",
+      "content_text": "施紀賢爵士訪問北京，是八年來首位到訪中國的英國首相。",
+      "date_published": "2026-01-30T05:07:46.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/clyz8g01vl7o/trad#6",
       "url": "https://www.bbc.com/zhongwen/articles/clyz8g01vl7o/trad?at_medium=RSS&at_campaign=rss",
       "title": "10歲被診斷出強迫症的心理專家告訴你，如何辨識和應對相關徵兆",
@@ -28,6 +36,14 @@
       "content_html": "去年，英國政府提出持BN(O)簽證的香港人申請永居時需提高英語水平的要求、設定最低年收入，引起移民到英國的港人社群不安與擔憂。",
       "content_text": "去年，英國政府提出持BN(O)簽證的香港人申請永居時需提高英語水平的要求、設定最低年收入，引起移民到英國的港人社群不安與擔憂。",
       "date_published": "2026-01-30T00:12:34.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad#1",
+      "url": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "為什麼中國將英國首相施紀賢來訪視為更大局面的一部分？",
+      "content_html": "施紀賢是近期前往北京的多位世界領導人之一。",
+      "content_text": "施紀賢是近期前往北京的多位世界領導人之一。",
+      "date_published": "2026-01-29T08:18:08.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/c5y4z2l481no/trad#1",

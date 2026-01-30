@@ -6,6 +6,142 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "83e14615-657c-469a-8259-680e8c4782e2",
+      "url": "https://www.smh.com.au/business/companies/venus-taps-csiro-tech-to-unearth-hidden-wa-gold-targets-20260130-p5nydi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Venus taps CSIRO tech to unearth hidden WA gold targets",
+      "content_html": "Venus Metals has uncovered new gold exploration targets at its Bellchambers project near Sandstone in WA after a CSIRO hyperspectral study revealed new mineralised zones.",
+      "content_text": "Venus Metals has uncovered new gold exploration targets at its Bellchambers project near Sandstone in WA after a CSIRO hyperspectral study revealed new mineralised zones.",
+      "date_published": "2026-01-30T05:24:50.000Z"
+    },
+    {
+      "id": "3bf1e714-5c4e-49a6-bb5f-0c736e40ad44",
+      "url": "https://www.smh.com.au/national/ray-hadley-would-return-to-the-airwaves-but-does-2gb-want-him-20260130-p5nyb5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Ray Hadley would return to the airwaves. But does 2GB want him?",
+      "content_html": "The veteran broadcaster left after decades on the air as a top-rating talkback broadcaster with a conservative streak and a love of sport.",
+      "content_text": "The veteran broadcaster left after decades on the air as a top-rating talkback broadcaster with a conservative streak and a love of sport.",
+      "date_published": "2026-01-30T05:10:51.000Z"
+    },
+    {
+      "id": "efeab394-6cd1-4315-8a4a-9e3e0da04a4f",
+      "url": "https://www.smh.com.au/politics/federal/albanese-urges-protesters-to-respect-israeli-president-s-solemn-visit-20260130-p5nycd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Albanese urges protesters to respect Israeli President’s ‘solemn visit’",
+      "content_html": "NSW Premier Chris Minns has warned demonstrators they will not have free run of his state during the controversial visit.",
+      "content_text": "NSW Premier Chris Minns has warned demonstrators they will not have free run of his state during the controversial visit.",
+      "date_published": "2026-01-30T05:08:02.000Z"
+    },
+    {
+      "id": "0e7be5fe-0337-4a96-9a5c-6ce236888e9d",
+      "url": "https://www.smh.com.au/sport/tennis/point-of-the-match-alcaraz-punishes-zverev-20260130-p5nydg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "'Point of the match': Alcaraz punishes Zverev",
+      "content_html": "Carlos Alcaraz wins the \"point of the match so far\" after a rally where Alexander Zverev fails to put away a smash.",
+      "content_text": "Carlos Alcaraz wins the \"point of the match so far\" after a rally where Alexander Zverev fails to put away a smash.",
+      "date_published": "2026-01-30T05:03:10.000Z"
+    },
+    {
+      "id": "1b5add4e-381f-4161-9ece-f15a8a8425ac",
+      "url": "https://www.smh.com.au/culture/tv-and-radio/best-tv-shows-to-stream-february-2026-netflix-disney-hbo-max-20260128-p5nxmw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The best new shows to stream in February",
+      "content_html": "Loved Adolescence? The writer has turned his hand to a new project. Also this month: a comedy-thriller from the creator of Derry Girls and the return of Scrubs.",
+      "content_text": "Loved Adolescence? The writer has turned his hand to a new project. Also this month: a comedy-thriller from the creator of Derry Girls and the return of Scrubs.",
+      "date_published": "2026-01-30T05:00:00.000Z"
+    },
+    {
+      "id": "675076fd-e439-45ac-b580-6c45bf39a870",
+      "url": "https://www.smh.com.au/culture/books/from-gen-x-thriller-to-analysis-of-the-pm-s-first-term-10-new-books-20260126-p5nwzi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "From Gen-X thriller to analysis of the PM’s first term: 10 new books",
+      "content_html": "Our reviewers cast their eyes over recent fiction and non-fiction.",
+      "content_text": "Our reviewers cast their eyes over recent fiction and non-fiction.",
+      "date_published": "2026-01-30T05:00:00.000Z"
+    },
+    {
+      "id": "bb951af8-0e9d-4c8a-a6b8-72ffb8d506ec",
+      "url": "https://www.smh.com.au/sport/tennis/horror-time-for-zverev-double-fault-20260130-p5nydc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Horror time for Zverev double fault",
+      "content_html": "Alexander Zverev more or less gives up the first set of his semi final clash with Carlos Alcaraz after an ill timed double fault.",
+      "content_text": "Alexander Zverev more or less gives up the first set of his semi final clash with Carlos Alcaraz after an ill timed double fault.",
+      "date_published": "2026-01-30T04:47:59.000Z"
+    },
+    {
+      "id": "7564ba6d-5790-492c-93ae-6a7b99f3a0e9",
+      "url": "https://www.smh.com.au/goodfood/melbourne-eating-out/melbourne-february-hit-list-hot-new-and-just-reviewed-places-to-check-out-this-month-20260130-p5ny9d.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Melbourne February hit list: 28+ hot, new and just-reviewed places to check out this month",
+      "content_html": "Lune opens in the west end, Hugh Allen’s fine diner Yiaga is crowned with three hats, plus a trio of restaurants to try along Koornang Road in Carnegie.",
+      "content_text": "Lune opens in the west end, Hugh Allen’s fine diner Yiaga is crowned with three hats, plus a trio of restaurants to try along Koornang Road in Carnegie.",
+      "date_published": "2026-01-30T04:47:13.000Z"
+    },
+    {
+      "id": "cb50f001-3714-4aa1-bd42-46076ca16005",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-claims-first-set-in-zverev-semi-final-clash-20260130-p5nyd8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz claims first set in Zverev semi final clash",
+      "content_html": "Alcaraz claims the first set in Zverev semi final clash.",
+      "content_text": "Alcaraz claims the first set in Zverev semi final clash.",
+      "date_published": "2026-01-30T04:37:46.000Z"
+    },
+    {
+      "id": "79201e72-a1d4-4524-ab97-1228826b40f4",
+      "url": "https://www.smh.com.au/lifestyle/beauty/how-to-make-your-make-up-last-longer-without-buying-anything-new-20260130-p5ny88.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How to make your make-up last longer without buying anything new",
+      "content_html": "A viral trend where people show off well-used beauty products, is exploding on social media. Here’s how the experts use every last drop of their beauty products.",
+      "content_text": "A viral trend where people show off well-used beauty products, is exploding on social media. Here’s how the experts use every last drop of their beauty products.",
+      "date_published": "2026-01-30T04:36:14.000Z"
+    },
+    {
+      "id": "175bc411-7167-4354-9bcf-f189afd0d3b7",
+      "url": "https://www.smh.com.au/world/middle-east/trump-weighs-new-military-options-against-iran-20260130-p5nybu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Trump weighs new military options against Iran",
+      "content_html": "The plans being considered by the US president go beyond those he considered weeks ago amid widespread protests against Iran’s government.",
+      "content_text": "The plans being considered by the US president go beyond those he considered weeks ago amid widespread protests against Iran’s government.",
+      "date_published": "2026-01-30T04:30:00.000Z"
+    },
+    {
+      "id": "abfc607a-80a2-44a1-96c4-46ee561c2afd",
+      "url": "https://www.smh.com.au/world/north-america/twenty-nine-epstein-associates-were-shielded-by-us-government-maxwell-claims-20260130-p5nyba.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Twenty-nine Epstein associates were ‘shielded’ by US government, Maxwell claims",
+      "content_html": "Jeffrey Epstein’s ex-girlfriend says her own legal defence suffered because of “secret settlements” made with the US Department of Justice.",
+      "content_text": "Jeffrey Epstein’s ex-girlfriend says her own legal defence suffered because of “secret settlements” made with the US Department of Justice.",
+      "date_published": "2026-01-30T04:30:00.000Z"
+    },
+    {
+      "id": "9ed05de1-9fba-4748-88fd-e68aa226dfe1",
+      "url": "https://www.smh.com.au/business/companies/sofa-to-street-why-nine-sold-radio-and-spent-almost-1-billion-on-billboards-20260130-p5ny9s.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Sofa to street’: Why Nine sold radio and spent almost $1 billion on billboards",
+      "content_html": "Outdoor advertising is one of the last refuges for media players from the crushing weight of big tech and AI disruption.",
+      "content_text": "Outdoor advertising is one of the last refuges for media players from the crushing weight of big tech and AI disruption.",
+      "date_published": "2026-01-30T04:30:00.000Z"
+    },
+    {
+      "id": "444317a9-a7d5-462a-afc0-8c1d84da8589",
+      "url": "https://www.smh.com.au/sport/nrl/zac-lomax-and-parramatta-are-heading-to-the-supreme-court-here-s-what-could-happen-20260129-p5ny4r.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Zac Lomax and Parramatta are heading to the Supreme Court. Here’s what could happen",
+      "content_html": "Sure, the NSW winger signed off on the terms of his release. But is it reasonable for the Eels to maintain a stranglehold over his career until 2029?",
+      "content_text": "Sure, the NSW winger signed off on the terms of his release. But is it reasonable for the Eels to maintain a stranglehold over his career until 2029?",
+      "date_published": "2026-01-30T04:30:00.000Z"
+    },
+    {
+      "id": "96efd350-2ad7-4526-81c7-0de81a8d06bc",
+      "url": "https://www.smh.com.au/national/it-s-not-a-war-zone-cnn-legend-on-trump-dictators-and-a-barefoot-afternoon-in-melbourne-20260127-p5nxc8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘It’s not a war zone’: CNN legend on Trump, dictators and a barefoot afternoon in Melbourne",
+      "content_html": "Christiane Amanpour has spent a career in the crucible of war. At Melbourne Park, she reflects on the ghosts of Bosnia and the fragility of truth.",
+      "content_text": "Christiane Amanpour has spent a career in the crucible of war. At Melbourne Park, she reflects on the ghosts of Bosnia and the fragility of truth.",
+      "date_published": "2026-01-30T04:30:00.000Z"
+    },
+    {
+      "id": "0130279c-85d3-4681-a475-462b4fca1ddc",
+      "url": "https://www.smh.com.au/politics/victoria/the-town-where-this-paramedic-lives-is-full-of-empty-properties-but-he-still-can-t-find-a-rental-20251230-p5nqr7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The town where this paramedic lives is full of empty properties, but he still can’t find a rental",
+      "content_html": "Finding a rental property in Lorne is all but impossible. For essential workers, the problem is particularly dire.",
+      "content_text": "Finding a rental property in Lorne is all but impossible. For essential workers, the problem is particularly dire.",
+      "date_published": "2026-01-30T04:30:00.000Z"
+    },
+    {
+      "id": "e44e1127-edd1-4b3c-a312-f4fc2ab9c89c",
+      "url": "https://www.smh.com.au/world/europe/has-the-time-come-for-greenland-to-be-independent-of-trump-and-denmark-20260112-p5ntii.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Has the time come for Greenland to be independent of Trump – and Denmark?",
+      "content_html": "The argument over Greenland is unleashing a force that Donald Trump is yet to quell – and Pele Broberg believes it is strong enough to decide who controls the Arctic territory.",
+      "content_text": "The argument over Greenland is unleashing a force that Donald Trump is yet to quell – and Pele Broberg believes it is strong enough to decide who controls the Arctic territory.",
+      "date_published": "2026-01-30T04:28:07.000Z"
+    },
+    {
       "id": "0aa3921c-8a91-4f66-a1f1-1637edae8835",
       "url": "https://www.smh.com.au/culture/theatre/rare-thrilling-scary-the-theatre-event-we-ve-waited-40-years-to-see-20260127-p5nxdi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Rare, thrilling, scary: the theatre event we’ve waited 40 years to see",

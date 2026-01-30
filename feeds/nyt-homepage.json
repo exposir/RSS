@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
+      "title": "Panama Court Strikes Down Hong Kong Firm’s Canal Contract",
+      "content_html": "President Trump has said he wants American control of the canal, putting the longtime ports operator, CK Hutchison, in the cross-hairs of the U.S.-China trade conflict.",
+      "content_text": "President Trump has said he wants American control of the canal, putting the longtime ports operator, CK Hutchison, in the cross-hairs of the U.S.-China trade conflict.",
+      "date_published": "2026-01-30T05:11:44.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/trump-expected-to-announce-kevin-warsh-as-fed-chair.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/trump-expected-to-announce-kevin-warsh-as-fed-chair.html",
+      "title": "Trump Expected to Announce Kevin Warsh as Fed Chair",
+      "content_html": "President Trump is set to announce his choice to replace Jerome H. Powell as chair of the Federal Reserve, saying it is someone “known to everybody in the financial world.”",
+      "content_text": "President Trump is set to announce his choice to replace Jerome H. Powell as chair of the Federal Reserve, saying it is someone “known to everybody in the financial world.”",
+      "date_published": "2026-01-30T05:04:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
+      "title": "South Korean Stocks, Kospi Index Are Trading at a Record High",
+      "content_html": "Spurred by government policies and the global A.I. boom, the market’s value has jumped by hundreds of billions of dollars. Individual investors have piled in.",
+      "content_text": "Spurred by government policies and the global A.I. boom, the market’s value has jumped by hundreds of billions of dollars. Individual investors have piled in.",
+      "date_published": "2026-01-30T05:01:04.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/arts/melania-movie-trump-kennedy-center.html",
       "url": "https://www.nytimes.com/2026/01/29/arts/melania-movie-trump-kennedy-center.html",
       "title": "Trump and First Lady Attend Premiere of ‘Melania’ at Kennedy Center",
@@ -44,6 +68,14 @@
       "content_html": "Dr. Mehmet Oz, a top federal health official, posted a video that accuses Armenian Americans in California of health care fraud.",
       "content_text": "Dr. Mehmet Oz, a top federal health official, posted a video that accuses Armenian Americans in California of health care fraud.",
       "date_published": "2026-01-30T02:12:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/style/melania-trump-movie-kennedy-center-premiere.html",
+      "url": "https://www.nytimes.com/2026/01/29/style/melania-trump-movie-kennedy-center-premiere.html",
+      "title": "Melania Trump Documentary Premiere: Who Was at the Kennedy Center",
+      "content_html": "Top White House officials streamed into the Kennedy Center on Thursday for a screening of Amazon’s new documentary about the first lady, Melania Trump.",
+      "content_text": "Top White House officials streamed into the Kennedy Center on Thursday for a screening of Amazon’s new documentary about the first lady, Melania Trump.",
+      "date_published": "2026-01-30T02:00:10.000Z"
     },
     {
       "id": "https://www.nytimes.com/live/2026/01/29/us/trump-news#section-941664149",

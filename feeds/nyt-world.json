@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/world/canada/heated-rivalry-carney-canada.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/canada/heated-rivalry-carney-canada.html",
+      "title": "The Secret Sauce in ‘Heated Rivalry’? Canada.",
+      "content_html": "The global television phenomenon is full of Canadian iconography and subsidized by Canadian taxpayers. On Thursday, it came home to celebrate.",
+      "content_text": "The global television phenomenon is full of Canadian iconography and subsidized by Canadian taxpayers. On Thursday, it came home to celebrate.",
+      "date_published": "2026-01-30T05:29:10.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
+      "title": "Panama Court Strikes Down Hong Kong Firm’s Canal Contract",
+      "content_html": "President Trump has said he wants American control of the canal, putting the longtime ports operator, CK Hutchison, in the cross-hairs of the U.S.-China trade conflict.",
+      "content_text": "President Trump has said he wants American control of the canal, putting the longtime ports operator, CK Hutchison, in the cross-hairs of the U.S.-China trade conflict.",
+      "date_published": "2026-01-30T05:11:44.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
+      "title": "South Korean Stocks, Kospi Index Are Trading at a Record High",
+      "content_html": "Spurred by government policies and the global A.I. boom, the market’s value has jumped by hundreds of billions of dollars. Individual investors have piled in.",
+      "content_text": "Spurred by government policies and the global A.I. boom, the market’s value has jumped by hundreds of billions of dollars. Individual investors have piled in.",
+      "date_published": "2026-01-30T05:01:04.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/asia/xi-zhang-military-purge-taiwan.html",
       "url": "https://www.nytimes.com/2026/01/29/world/asia/xi-zhang-military-purge-taiwan.html",
       "title": "Xi’s Military Purge May Set Back His Taiwan Ambitions",

@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
+      "title": "Panama Court Strikes Down Hong Kong Firm’s Canal Contract",
+      "content_html": "President Trump has said he wants American control of the canal, putting the longtime ports operator, CK Hutchison, in the cross-hairs of the U.S.-China trade conflict.",
+      "content_text": "President Trump has said he wants American control of the canal, putting the longtime ports operator, CK Hutchison, in the cross-hairs of the U.S.-China trade conflict.",
+      "date_published": "2026-01-30T05:11:44.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/trump-expected-to-announce-kevin-warsh-as-fed-chair.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/trump-expected-to-announce-kevin-warsh-as-fed-chair.html",
+      "title": "Trump Expected to Announce Kevin Warsh as Fed Chair",
+      "content_html": "President Trump is set to announce his choice to replace Jerome H. Powell as chair of the Federal Reserve, saying it is someone “known to everybody in the financial world.”",
+      "content_text": "President Trump is set to announce his choice to replace Jerome H. Powell as chair of the Federal Reserve, saying it is someone “known to everybody in the financial world.”",
+      "date_published": "2026-01-30T05:04:07.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html",
       "url": "https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html",
       "title": "Washington Post Plans Cuts to Reshape Newsroom",
