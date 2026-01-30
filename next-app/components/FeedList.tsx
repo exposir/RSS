@@ -69,21 +69,21 @@ export function FeedList({ feedIndex, feeds, selectedFeed, onSelect, loadingInde
           )}
           <Button
             variant={selectedFeed === 'today' ? "secondary" : "ghost"}
-            className="w-full justify-start font-normal"
+            className="w-full justify-start font-normal px-3"
             onClick={() => onSelect('today')}
           >
-            <Calendar className="mr-2 h-4 w-4" />
-            <span className="flex-1 text-left">今日</span>
-            {todayCount > 0 && <Badge variant="secondary" className="ml-auto text-xs">{todayCount}</Badge>}
+            <Calendar className="h-4 w-4 shrink-0 mr-2" />
+            <span className="flex-1 text-left truncate">今日</span>
+            {todayCount > 0 && <Badge variant="secondary" className="ml-auto text-xs shrink-0">{todayCount}</Badge>}
           </Button>
           <Button
             variant={selectedFeed === 'yesterday' ? "secondary" : "ghost"}
-            className="w-full justify-start font-normal"
+            className="w-full justify-start font-normal px-3"
             onClick={() => onSelect('yesterday')}
           >
-            <ChevronLeft className="mr-2 h-4 w-4" />
-            <span className="flex-1 text-left">昨日</span>
-            {yesterdayCount > 0 && <Badge variant="secondary" className="ml-auto text-xs">{yesterdayCount}</Badge>}
+            <ChevronLeft className="h-4 w-4 shrink-0 mr-2" />
+            <span className="flex-1 text-left truncate">昨日</span>
+            {yesterdayCount > 0 && <Badge variant="secondary" className="ml-auto text-xs shrink-0">{yesterdayCount}</Badge>}
           </Button>
 
           <Separator className="my-2" />
@@ -97,15 +97,15 @@ export function FeedList({ feedIndex, feeds, selectedFeed, onSelect, loadingInde
                 <Button
                   key={feed.id}
                   variant={selectedFeed === feed.id ? "secondary" : "ghost"}
-                  className="w-full justify-start font-normal truncate"
+                  className="w-full justify-start font-normal px-3"
                   onClick={() => onSelect(feed.id)}
                 >
                   {hasUpdate && (
-                    <span className="mr-2 flex-shrink-0 w-2 h-2 rounded-full bg-blue-500 animate-pulse" title="今日有更新" />
+                    <span className="h-2 w-2 rounded-full bg-blue-500 animate-pulse shrink-0 mr-2" title="今日有更新" />
                   )}
                   <span className="truncate flex-1 text-left">{feed.name}</span>
                   {getFeedCount(feed.id) > 0 && (
-                    <span className="ml-2 text-xs text-muted-foreground">{getFeedCount(feed.id)}</span>
+                    <span className="ml-2 text-xs text-muted-foreground shrink-0">{getFeedCount(feed.id)}</span>
                   )}
                 </Button>
               )

@@ -130,7 +130,7 @@ export default function RSSReader() {
             <ResizablePanel
               id="left-panel"
               defaultSize={20}
-              minSize={15}
+              minSize={18}
               maxSize={35}
               collapsible={false}
               className="border-r border-border overflow-hidden"
