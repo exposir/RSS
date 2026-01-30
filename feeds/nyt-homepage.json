@@ -6,12 +6,28 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/us/biffle-nascar-crash-ntsb.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/biffle-nascar-crash-ntsb.html",
+      "title": "NASCAR Star’s Plane Had Several Instrument Failures Before Crash",
+      "content_html": "The successive problems appeared to overwhelm the pilots, who were experienced but not authorized to fly the type of jet they were operating alone, according to federal safety investigators.",
+      "content_text": "The successive problems appeared to overwhelm the pilots, who were experienced but not authorized to fly the type of jet they were operating alone, according to federal safety investigators.",
+      "date_published": "2026-01-30T21:52:52.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/arts/catherine-ohara-death-reactions.html",
       "url": "https://www.nytimes.com/2026/01/30/arts/catherine-ohara-death-reactions.html",
       "title": "Co-Stars and Fans Pay Tribute to Catherine O’Hara",
       "content_html": "Videos and photos filled social media as fans shared their favorite scenes from O’Hara’s acting career and co-stars memorialized her.",
       "content_text": "Videos and photos filled social media as fans shared their favorite scenes from O’Hara’s acting career and co-stars memorialized her.",
       "date_published": "2026-01-30T21:33:21.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/01/30/us/trump-news/stock-market-kevin-warsh-fed",
+      "url": "https://www.nytimes.com/live/2026/01/30/us/trump-news/stock-market-kevin-warsh-fed",
+      "title": "Stock Market Takes Kevin Warsh’s Fed Nomination in Stride",
+      "content_html": "Stock and bond markets were unfazed by Kevin Warsh’s nomination as the next Fed chair, with the S&P 500 lower on Friday.",
+      "content_text": "Stock and bond markets were unfazed by Kevin Warsh’s nomination as the next Fed chair, with the S&P 500 lower on Friday.",
+      "date_published": "2026-01-30T21:10:59.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html",

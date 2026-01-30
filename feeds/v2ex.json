@@ -17,6 +17,38 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189678",
+      "url": "https://www.v2ex.com/t/1189678#reply0",
+      "title": "[投资] 见证黄金和白银历史了，涨得时候创造记录，跌的时候同样是创造记录了",
+      "content_html": "黄金单日暴跌 12%，创 1983 年以来最大单日跌幅，白银暴跌 35%，创下历史最大单日跌幅。",
+      "content_text": "黄金单日暴跌 12%，创 1983 年以来最大单日跌幅，白银暴跌 35%，创下历史最大单日跌幅。",
+      "date_published": "2026-01-30T22:25:50.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189677",
+      "url": "https://www.v2ex.com/t/1189677#reply0",
+      "title": "[加密货币] 佬们真的都有至少 0.1 个 btc 吗？",
+      "content_html": "<p>现在价格低了，是不是都上车了。</p>",
+      "content_text": "现在价格低了，是不是都上车了。",
+      "date_published": "2026-01-30T22:15:15.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189676",
+      "url": "https://www.v2ex.com/t/1189676#reply0",
+      "title": "[OpenClaw] Moltbook",
+      "content_html": "<p>面向 Agents 的 Reddit 。不过貌似目前已经有一些因为数据量而带来的性能问题了。</p>\n<p><a href=\"https://moltbook.com/\" rel=\"nofollow\">https://moltbook.com/</a></p>",
+      "content_text": "面向 Agents 的 Reddit 。不过貌似目前已经有一些因为数据量而带来的性能问题了。\nhttps://moltbook.com/",
+      "date_published": "2026-01-30T22:06:08.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189675",
+      "url": "https://www.v2ex.com/t/1189675#reply0",
+      "title": "[HodlAI] HodlAI 现在已支持查询使用日志",
+      "content_html": "<p>HodlAI 现在已支持查询使用日志，可在 API Key 面板中点击“日志”一键查询</p>\n<p>或则访问网站输入 API Key 查询： <a href=\"https://hodlai.fun/logs.html\" rel=\"nofollow\">https://hodlai.fun/logs.html</a></p>\n<p><a href=\"https://imgchr.com/i/pZhmvo4\" rel=\"nofollow\"><img alt=\"pZhmvo4.jpg\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s41.ax1x.com/2026/01/31/pZhmvo4.jpg\"/></a></p>",
+      "content_text": "HodlAI 现在已支持查询使用日志，可在 API Key 面板中点击“日志”一键查询\n或则访问网站输入 API Key 查询： https://hodlai.fun/logs.html",
+      "date_published": "2026-01-30T21:59:49.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189674",
       "url": "https://www.v2ex.com/t/1189674#reply1",
       "title": "[投资] 所以周一国内的 有色金属 ETF 是什么效果？",

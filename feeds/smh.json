@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "6a8cdb5a-6d7d-4bbd-90bb-3ad2571627df",
+      "url": "https://www.smh.com.au/national/denmark-s-king-frederik-and-queen-mary-to-visit-australia-20260131-p5nyhb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Denmark’s King Frederik and Queen Mary to visit Australia",
+      "content_html": "King Frederik and Australian-born Queen Mary, who met at the Sydney Olympics and married in 2004, will make their fourth official visit in March.",
+      "content_text": "King Frederik and Australian-born Queen Mary, who met at the Sydney Olympics and married in 2004, will make their fourth official visit in March.",
+      "date_published": "2026-01-30T22:22:16.000Z"
+    },
+    {
+      "id": "d8705d59-4104-4b99-9592-25c38f3d92c1",
+      "url": "https://www.smh.com.au/sport/rugby-union/prodigal-guns-how-the-waratahs-harnessed-hunger-of-stars-they-previously-brushed-20260129-p5ny4e.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Prodigal guns: How the Waratahs harnessed hunger of stars they previously brushed",
+      "content_html": "The Waratahs have historically had their pick of the best young talent in Australian rugby. This year has seen a different approach.",
+      "content_text": "The Waratahs have historically had their pick of the best young talent in Australian rugby. This year has seen a different approach.",
+      "date_published": "2026-01-30T22:18:00.000Z"
+    },
+    {
       "id": "c50187e0-415e-4d62-8f02-14d992f75737",
       "url": "https://www.smh.com.au/culture/celebrity/a-thousand-faces-one-heart-the-quiet-modesty-of-catherine-o-hara-20260131-p5nygy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "A thousand faces, one heart: The quiet modesty of Catherine O’Hara",

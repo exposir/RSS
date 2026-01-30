@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3088374",
+      "url": "https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/",
+      "title": "Informant told FBI that Jeffrey Epstein had a ‘personal hacker’",
+      "content_html": "A document published by the Justice Department quotes an FBI informant in 2017 that alleged Jeffrey Epstein had a “personal hacker.”",
+      "content_text": "A document published by the Justice Department quotes an FBI informant in 2017 that alleged Jeffrey Epstein had a “personal hacker.”",
+      "date_published": "2026-01-30T22:04:00.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3088333",
       "url": "https://techcrunch.com/2026/01/30/instagram-might-soon-let-you-remove-yourself-from-someones-close-friends-list/",
       "title": "Instagram might soon let you remove yourself from someone&#8217;s Close Friends list",

@@ -6,6 +6,14 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/diplomacy/article/3341809/how-will-china-respond-us-expands-foreign-ship-seizures?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3341809/how-will-china-respond-us-expands-foreign-ship-seizures?utm_source=rss_feed",
+      "title": "How will China respond as US expands foreign ship seizures?",
+      "content_html": "China is expected to look for ways to protect its maritime interests in the face of increasingly assertive efforts by the United States to seize foreign ships it accuses of breaching sanctions on countries such as Iran and Venezuela.\nIn November, a cargo ship travelling to Iran from China was reportedly raided by a US special operations team in the Indian Ocean near Sri Lanka and its cargo of dual military-civilian use goods confiscated.\nIt was the first known US interception of outbound cargo...",
+      "content_text": "China is expected to look for ways to protect its maritime interests in the face of increasingly assertive efforts by the United States to seize foreign ships it accuses of breaching sanctions on countries such as Iran and Venezuela.\nIn November, a cargo ship travelling to Iran from China was reportedly raided by a US special operations team in the Indian Ocean near Sri Lanka and its cargo of dual military-civilian use goods confiscated.\nIt was the first known US interception of outbound cargo...",
+      "date_published": "2026-01-30T22:00:11.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/article/3341908/us-hails-panama-high-court-ruling-against-ck-hutchisons-ports-concession?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/article/3341908/us-hails-panama-high-court-ruling-against-ck-hutchisons-ports-concession?utm_source=rss_feed",
       "title": "US hails Panama high court ruling against CK Hutchison’s ports concession",

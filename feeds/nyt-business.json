@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/media/produce-pete-napolitano-dead.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/media/produce-pete-napolitano-dead.html",
+      "title": "‘Produce Pete’ Napolitano, a Fruit and Vegetable Celebrity, Dies at 80",
+      "content_html": "For more than 30 years, he drew fans for dispensing weekly produce punditry on a New York television station, building on a sales career that began when he was 5.",
+      "content_text": "For more than 30 years, he drew fans for dispensing weekly produce punditry on a New York television station, building on a sales career that began when he was 5.",
+      "date_published": "2026-01-30T22:15:35.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/video/business/economy/100000010629457/who-is-trumps-new-fed-chair-pick.html",
+      "url": "https://www.nytimes.com/video/business/economy/100000010629457/who-is-trumps-new-fed-chair-pick.html",
+      "title": "Who Is Trump’s New Fed Chair Pick?",
+      "content_html": "President Trump announced Kevin Warsh as his nominee to succeed Jerome H. Powell as chair of the Federal Reserve. Our reporter Colby Smith explains why the choice matters for the economy.",
+      "content_text": "President Trump announced Kevin Warsh as his nominee to succeed Jerome H. Powell as chair of the Federal Reserve. Our reporter Colby Smith explains why the choice matters for the economy.",
+      "date_published": "2026-01-30T21:52:37.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/financial-knowledge-quiz.html",
       "url": "https://www.nytimes.com/2026/01/30/business/financial-knowledge-quiz.html",
       "title": "How Strong Is Your Financial Knowledge? Take Our Quiz.",
