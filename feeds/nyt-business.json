@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html",
+      "title": "Kevin Warsh, Trump’s Choice for Fed Chair, Could Find It Difficult to Deliver",
+      "content_html": "Kevin M. Warsh, whom Mr. Trump tapped to become the next chair of the Federal Reserve, could face fierce resistance if he tries to pursue substantially lower borrowing costs.",
+      "content_text": "Kevin M. Warsh, whom Mr. Trump tapped to become the next chair of the Federal Reserve, could face fierce resistance if he tries to pursue substantially lower borrowing costs.",
+      "date_published": "2026-01-30T17:07:21.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
       "url": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
       "title": "Tesla’s Model S, Soon to Be History, Changed the Auto Industry",

@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html",
+      "title": "Kevin Warsh, Trump’s Choice for Fed Chair, Could Find It Difficult to Deliver",
+      "content_html": "Kevin M. Warsh, whom Mr. Trump tapped to become the next chair of the Federal Reserve, could face fierce resistance if he tries to pursue substantially lower borrowing costs.",
+      "content_text": "Kevin M. Warsh, whom Mr. Trump tapped to become the next chair of the Federal Reserve, could face fierce resistance if he tries to pursue substantially lower borrowing costs.",
+      "date_published": "2026-01-30T17:07:21.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/stock-market-kevin-warsh-fed.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/stock-market-kevin-warsh-fed.html",
+      "title": "Stock Market Takes Kevin Warsh’s Fed Nomination in Stride",
+      "content_html": "Stock and bond markets were unfazed by Kevin Warsh’s nomination as the next Fed chair, with the S&P 500 nudging slightly lower in early trading on Friday.",
+      "content_text": "Stock and bond markets were unfazed by Kevin Warsh’s nomination as the next Fed chair, with the S&P 500 nudging slightly lower in early trading on Friday.",
+      "date_published": "2026-01-30T16:48:55.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/don-lemon-arrest-minnesota-church-protest.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/don-lemon-arrest-minnesota-church-protest.html",
+      "title": "Federal Agents Arrest Don Lemon Over Minnesota Church Protest",
+      "content_html": "Three others were also arrested on charges that they had violated federal law during the church protest this month, reviving a case that was rejected last week by a magistrate judge.",
+      "content_text": "Three others were also arrested on charges that they had violated federal law during the church protest this month, reviving a case that was rejected last week by a magistrate judge.",
+      "date_published": "2026-01-30T15:38:34.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/nyregion/death-penalty-luigi-mangione.html",
       "url": "https://www.nytimes.com/2026/01/30/nyregion/death-penalty-luigi-mangione.html",
       "title": "Federal Judge Drops Death Penalty Charge Against Luigi Mangione",
@@ -28,6 +52,14 @@
       "content_html": "Some investors are worried that President Trump’s nominee to run the Federal Reserve may not be a guaranteed “yes” on cutting interest rates.",
       "content_text": "Some investors are worried that President Trump’s nominee to run the Federal Reserve may not be a guaranteed “yes” on cutting interest rates.",
       "date_published": "2026-01-30T13:50:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/opinion/tucker-carlson-bad-faith.html",
+      "url": "https://www.nytimes.com/2026/01/30/opinion/tucker-carlson-bad-faith.html",
+      "title": "Tucker Carlson’s Corrosive Bad Faith",
+      "content_html": "To triumph in the modern Republican Party, you need to be able to wrench your soul into alignment with your ambition.",
+      "content_text": "To triumph in the modern Republican Party, you need to be able to wrench your soul into alignment with your ambition.",
+      "date_published": "2026-01-30T13:04:23.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/arts/denmark-food-fine-art-chefs.html",
@@ -214,6 +246,14 @@
       "date_published": "2026-01-30T10:00:26.000Z"
     },
     {
+      "id": "https://www.nytimes.com/2026/01/30/magazine/dissociative-identity-disorder-mental-health.html",
+      "url": "https://www.nytimes.com/2026/01/30/magazine/dissociative-identity-disorder-mental-health.html",
+      "title": "What It’s Like to Live With One of Psychiatry’s Most Misunderstood Diagnoses",
+      "content_html": "Spurred by her past struggles with dissociative identity disorder, she has devoted her professional life to studying it.",
+      "content_text": "Spurred by her past struggles with dissociative identity disorder, she has devoted her professional life to studying it.",
+      "date_published": "2026-01-30T10:00:24.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
       "url": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
       "title": "Russia Is Finding the Gaps in Ukraine’s Front Line",
@@ -284,6 +324,14 @@
       "content_html": "Once the New START treaty ends, we will have returned to an era without limits, when arsenals can reach unconstrained heights.",
       "content_text": "Once the New START treaty ends, we will have returned to an era without limits, when arsenals can reach unconstrained heights.",
       "date_published": "2026-01-30T06:00:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/canada/heated-rivalry-carney-canada.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/canada/heated-rivalry-carney-canada.html",
+      "title": "The Secret Sauce in ‘Heated Rivalry’? Canada.",
+      "content_html": "The global television phenomenon is full of Canadian iconography and subsidized by Canadian taxpayers. On Thursday, it came home to celebrate.",
+      "content_text": "The global television phenomenon is full of Canadian iconography and subsidized by Canadian taxpayers. On Thursday, it came home to celebrate.",
+      "date_published": "2026-01-30T05:56:37.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",

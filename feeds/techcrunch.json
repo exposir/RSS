@@ -6,6 +6,30 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3088209",
+      "url": "https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/",
+      "title": "Bluesky issues its first transparency report, noting rise in user reports and legal demands",
+      "content_html": "Bluesky's first transparency reports tackles moderation, regulatory compliance, account takedowns and more. The number of government legal requests went up by fivefold.",
+      "content_text": "Bluesky's first transparency reports tackles moderation, regulatory compliance, account takedowns and more. The number of government legal requests went up by fivefold.",
+      "date_published": "2026-01-30T17:25:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3088202",
+      "url": "https://techcrunch.com/2026/01/30/reid-hoffman-urges-silicon-valley-leaders-to-stop-bending-the-knee-to-president-trump/",
+      "title": "Reid Hoffman urges Silicon Valley leaders to stop bending the knee to President Trump",
+      "content_html": "Some Valley CEOs have condemned recent border patrol events, but Hoffman urges them to wield their influence more powerfully.",
+      "content_text": "Some Valley CEOs have condemned recent border patrol events, but Hoffman urges them to wield their influence more powerfully.",
+      "date_published": "2026-01-30T16:51:39.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3088239",
+      "url": "https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/",
+      "title": "Russian hackers breached Polish power grid thanks to bad security, report says",
+      "content_html": "The Polish government accused a Russian government hacking group of hacking into energy facilities taking advantage of default usernames and passwords.",
+      "content_text": "The Polish government accused a Russian government hacking group of hacking into energy facilities taking advantage of default usernames and passwords.",
+      "date_published": "2026-01-30T16:50:24.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3088146",
       "url": "https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/",
       "title": "Last 24 hours to grab your +1 pass at 50% off to TechCrunch Disrupt 2026",

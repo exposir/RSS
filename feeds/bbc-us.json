@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c9dv8y2j8xxo#0",
+      "url": "https://www.bbc.com/news/articles/c9dv8y2j8xxo?at_medium=RSS&at_campaign=rss",
+      "title": "Driver jailed for life over deadly Christmas Day rampage in London's West End",
+      "content_html": "Anthony Gilheaney hit four men on Shaftesbury Avenue, killing Aiden Chapman and injuring the others.",
+      "content_text": "Anthony Gilheaney hit four men on Shaftesbury Avenue, killing Aiden Chapman and injuring the others.",
+      "date_published": "2026-01-30T17:20:06.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c4gw4d871l0o#7",
+      "url": "https://www.bbc.com/sport/football/articles/c4gw4d871l0o?at_medium=RSS&at_campaign=rss",
+      "title": "'Most talked about thing in world football' - Newcastle's life after Isak",
+      "content_html": "Newcastle United face Liverpool on Saturday for the first time since the injured Alexander Isak left the club in September following \"the most talked about\" saga in world football",
+      "content_text": "Newcastle United face Liverpool on Saturday for the first time since the injured Alexander Isak left the club in September following \"the most talked about\" saga in world football",
+      "date_published": "2026-01-30T17:15:17.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c5yvw85jjq2o#3",
+      "url": "https://www.bbc.com/news/articles/c5yvw85jjq2o?at_medium=RSS&at_campaign=rss",
+      "title": "Manchester Pride confirms go-ahead after previous operator went bust",
+      "content_html": "The future of the event had looked uncertain after the organisers went into voluntary liquidation last year.",
+      "content_text": "The future of the event had looked uncertain after the organisers went into voluntary liquidation last year.",
+      "date_published": "2026-01-30T16:48:53.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c78egdg3r0po#0",
       "url": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
       "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
@@ -20,6 +44,14 @@
       "content_html": "António Guterres says the international body could run out of money by July due to members' unpaid fees.",
       "content_text": "António Guterres says the international body could run out of money by July due to members' unpaid fees.",
       "date_published": "2026-01-30T16:24:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cy59geeygp2o#3",
+      "url": "https://www.bbc.com/news/articles/cy59geeygp2o?at_medium=RSS&at_campaign=rss",
+      "title": "Four guilty of murdering innocent woman in drug turf war",
+      "content_html": "Joanne Penney was shot dead at close range when she opened the door of a property in Talbot Green.",
+      "content_text": "Joanne Penney was shot dead at close range when she opened the door of a property in Talbot Green.",
+      "date_published": "2026-01-30T16:00:53.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/tennis/videos/cz9v7xdq0l0o#7",

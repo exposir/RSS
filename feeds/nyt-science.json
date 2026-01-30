@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/climate/greenland-algae-melting-icesheet.html",
+      "url": "https://www.nytimes.com/2026/01/30/climate/greenland-algae-melting-icesheet.html",
+      "title": "Algae Growth on Greenland’s Ice Contributes to Melting, Studies Show",
+      "content_html": "New studies show how algae grows on ice and snow, creating “dark zones” that exacerbate melting in the consequential region.",
+      "content_text": "New studies show how algae grows on ice and snow, creating “dark zones” that exacerbate melting in the consequential region.",
+      "date_published": "2026-01-30T17:11:07.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/health/autism-panel-kennedy-iacc.html",
       "url": "https://www.nytimes.com/2026/01/29/health/autism-panel-kennedy-iacc.html",
       "title": "Kennedy Overhauls Federal Autism Panel in His Own Image",

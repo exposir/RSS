@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "f7d9bd1e-91d9-4654-a0e3-4deab0ba4233",
+      "url": "https://www.smh.com.au/sport/tennis/a-lot-of-experts-wanted-to-retire-me-djokovic-tees-off-at-his-critics-after-five-set-overnight-epic-20260130-p5nyc0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘A lot of experts wanted to retire me’: Djokovic tees off at his critics after five-set, overnight epic",
+      "content_html": "While Novak Djokovic stopped short of calling it the best win of his career, he used the opportunity at a dramatic, near-3am media conference to get a few things off his chest.",
+      "content_text": "While Novak Djokovic stopped short of calling it the best win of his career, he used the opportunity at a dramatic, near-3am media conference to get a few things off his chest.",
+      "date_published": "2026-01-30T16:45:26.000Z"
+    },
+    {
       "id": "22d2e68d-24c5-42a3-9ecb-702b28a40d20",
       "url": "https://www.smh.com.au/world/north-america/trump-taps-kevin-warsh-to-replace-jerome-powell-as-federal-reserve-chairman-20260131-p5nyga.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Trump taps former Federal Reserve insider to replace Powell",
