@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "65d0cb31-8693-427a-9fb8-b6dbe7278fa2",
+      "url": "https://www.smh.com.au/sport/tennis/zverev-confirms-what-he-said-in-umpire-rant-20260130-p5nyfn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Zverev confirms what he said in umpire rant",
+      "content_html": "Alexander Zverev reveals what he said in German during Carlos Alcaraz's timeout.",
+      "content_text": "Alexander Zverev reveals what he said in German during Carlos Alcaraz's timeout.",
+      "date_published": "2026-01-30T11:22:09.000Z"
+    },
+    {
+      "id": "c91e5367-43f4-4f45-8bff-a78b7bdc6188",
+      "url": "https://www.smh.com.au/sport/tennis/sinner-seals-set-with-backhand-20260130-p5nyfm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sinner seals set with backhand",
+      "content_html": "Jannik Sinner wraps up the set with a brilliant winner.",
+      "content_text": "Jannik Sinner wraps up the set with a brilliant winner.",
+      "date_published": "2026-01-30T11:18:01.000Z"
+    },
+    {
+      "id": "f9eebef9-f102-43da-9eec-d8cd27849ae7",
+      "url": "https://www.smh.com.au/national/perth-billionaire-faces-court-and-applies-for-bail-20260130-p5nyfk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Perth billionaire faces court and applies for bail",
+      "content_html": "Perth billionaire Laurence Escalante has been given bail after facing court.",
+      "content_text": "Perth billionaire Laurence Escalante has been given bail after facing court.",
+      "date_published": "2026-01-30T10:53:26.000Z"
+    },
+    {
       "id": "2c93a5b1-9b82-4181-b754-f2afbbca7061",
       "url": "https://www.smh.com.au/national/queensland/why-builders-are-digging-this-huge-hole-in-the-inner-city-20260130-p5nydo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Why builders are digging this huge hole in the inner city",

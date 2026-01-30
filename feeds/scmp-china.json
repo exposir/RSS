@@ -6,6 +6,22 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/tech/article/3341860/alibaba-ai-chip-push-hits-100000-mark-beating-local-rival-cambricon-sources?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/article/3341860/alibaba-ai-chip-push-hits-100000-mark-beating-local-rival-cambricon-sources?utm_source=rss_feed",
+      "title": "Alibaba AI chip push hits 100,000 mark, beating local rival Cambricon: sources",
+      "content_html": "Alibaba Group Holding has delivered more than 100,000 units of its most advanced artificial intelligence chip, the Zhenwu 810E, whose performance is said to be comparable to Nvidia’s H20, according to people familiar with the matter – a milestone that highlights the company’s growing role in China’s race to build domestic alternatives to US processors.\nThe shipments, handled by Alibaba’s semiconductor arm T-Head, have already surpassed those of domestic rival Cambricon Technologies, the sources...",
+      "content_text": "Alibaba Group Holding has delivered more than 100,000 units of its most advanced artificial intelligence chip, the Zhenwu 810E, whose performance is said to be comparable to Nvidia’s H20, according to people familiar with the matter – a milestone that highlights the company’s growing role in China’s race to build domestic alternatives to US processors.\nThe shipments, handled by Alibaba’s semiconductor arm T-Head, have already surpassed those of domestic rival Cambricon Technologies, the sources...",
+      "date_published": "2026-01-30T11:24:07.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/china/science/article/3341641/it-flourishing-chinas-man-made-forest-gobi-produces-good-rubber-military-use?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/science/article/3341641/it-flourishing-chinas-man-made-forest-gobi-produces-good-rubber-military-use?utm_source=rss_feed",
+      "title": "It is ‘flourishing’: China’s man-made forest in Gobi produces good rubber for military use",
+      "content_html": "Chinese scientists are planting high-value alternative “rubber trees” in the Gobi Desert.\nChina is the world’s largest consumer and importer of natural rubber, mainly to support its massive car sector. Consumption last year is expected to have exceeded 7 million tonnes, over 85 per cent of it imported.\nHowever, the unique Chinese medicinal plant Duzhong (scientific name Eucommia ulmoides) may help to resolve this dependency.\nWhile its bark is a valued material in traditional Chinese medicine...",
+      "content_text": "Chinese scientists are planting high-value alternative “rubber trees” in the Gobi Desert.\nChina is the world’s largest consumer and importer of natural rubber, mainly to support its massive car sector. Consumption last year is expected to have exceeded 7 million tonnes, over 85 per cent of it imported.\nHowever, the unique Chinese medicinal plant Duzhong (scientific name Eucommia ulmoides) may help to resolve this dependency.\nWhile its bark is a valued material in traditional Chinese medicine...",
+      "date_published": "2026-01-30T11:00:11.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/article/3341854/shanghai-residents-offload-their-gold-prices-surge-record-highs?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/article/3341854/shanghai-residents-offload-their-gold-prices-surge-record-highs?utm_source=rss_feed",
       "title": "Shanghai residents offload their gold as prices surge to record highs",

@@ -6,6 +6,38 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/tech/article/3341860/alibaba-ai-chip-push-hits-100000-mark-beating-local-rival-cambricon-sources?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/article/3341860/alibaba-ai-chip-push-hits-100000-mark-beating-local-rival-cambricon-sources?utm_source=rss_feed",
+      "title": "Alibaba AI chip push hits 100,000 mark, beating local rival Cambricon: sources",
+      "content_html": "Alibaba Group Holding has delivered more than 100,000 units of its most advanced artificial intelligence chip, the Zhenwu 810E, whose performance is said to be comparable to Nvidia’s H20, according to people familiar with the matter – a milestone that highlights the company’s growing role in China’s race to build domestic alternatives to US processors.\nThe shipments, handled by Alibaba’s semiconductor arm T-Head, have already surpassed those of domestic rival Cambricon Technologies, the sources...",
+      "content_text": "Alibaba Group Holding has delivered more than 100,000 units of its most advanced artificial intelligence chip, the Zhenwu 810E, whose performance is said to be comparable to Nvidia’s H20, according to people familiar with the matter – a milestone that highlights the company’s growing role in China’s race to build domestic alternatives to US processors.\nThe shipments, handled by Alibaba’s semiconductor arm T-Head, have already surpassed those of domestic rival Cambricon Technologies, the sources...",
+      "date_published": "2026-01-30T11:24:07.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/business/article/3341858/hang-lung-flags-tough-slog-property-it-looks-mainland-malls-growth?utm_source=rss_feed",
+      "url": "https://www.scmp.com/business/article/3341858/hang-lung-flags-tough-slog-property-it-looks-mainland-malls-growth?utm_source=rss_feed",
+      "title": "Hang Lung flags ‘tough slog’ for property, as it looks to mainland malls for growth",
+      "content_html": "Hong Kong developer Hang Lung Properties is pinning its medium-term outlook on a recovery in mainland Chinese consumption, even as it warned that both the city’s and China’s property markets remain under strain.\nThe commercial landlord, residential developer and hotel owner said it expected a “tough slog” for the broader sector despite signs of improvement in operating conditions, particularly in the second half of the year.\nNet profit attributable to shareholders fell 16 per cent to HK$1.8...",
+      "content_text": "Hong Kong developer Hang Lung Properties is pinning its medium-term outlook on a recovery in mainland Chinese consumption, even as it warned that both the city’s and China’s property markets remain under strain.\nThe commercial landlord, residential developer and hotel owner said it expected a “tough slog” for the broader sector despite signs of improvement in operating conditions, particularly in the second half of the year.\nNet profit attributable to shareholders fell 16 per cent to HK$1.8...",
+      "date_published": "2026-01-30T11:08:14.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/china/science/article/3341641/it-flourishing-chinas-man-made-forest-gobi-produces-good-rubber-military-use?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/science/article/3341641/it-flourishing-chinas-man-made-forest-gobi-produces-good-rubber-military-use?utm_source=rss_feed",
+      "title": "It is ‘flourishing’: China’s man-made forest in Gobi produces good rubber for military use",
+      "content_html": "Chinese scientists are planting high-value alternative “rubber trees” in the Gobi Desert.\nChina is the world’s largest consumer and importer of natural rubber, mainly to support its massive car sector. Consumption last year is expected to have exceeded 7 million tonnes, over 85 per cent of it imported.\nHowever, the unique Chinese medicinal plant Duzhong (scientific name Eucommia ulmoides) may help to resolve this dependency.\nWhile its bark is a valued material in traditional Chinese medicine...",
+      "content_text": "Chinese scientists are planting high-value alternative “rubber trees” in the Gobi Desert.\nChina is the world’s largest consumer and importer of natural rubber, mainly to support its massive car sector. Consumption last year is expected to have exceeded 7 million tonnes, over 85 per cent of it imported.\nHowever, the unique Chinese medicinal plant Duzhong (scientific name Eucommia ulmoides) may help to resolve this dependency.\nWhile its bark is a valued material in traditional Chinese medicine...",
+      "date_published": "2026-01-30T11:00:11.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/health-environment/article/3341856/over-110000-secure-waivers-within-1-month-after-hong-kong-public-medical-fee-reform?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3341856/over-110000-secure-waivers-within-1-month-after-hong-kong-public-medical-fee-reform?utm_source=rss_feed",
+      "title": "Over 110,000 secure waivers within 1 month after Hong Kong public medical fee reform",
+      "content_html": "More than 110,000 patients secured fee waivers within a month since Hong Kong’s public medical fee reform took effect this year, a jump from 14,000 for a whole year previously, the health minister said while defending the new regime.\nSecretary for Health Lo Chung-mau said on Friday that among the more than 110,000 people with approved waivers, about 53,000 had already received certificates for fee reduction.\nThe roughly 60,000 patients remaining who had failed to provide income and asset proof...",
+      "content_text": "More than 110,000 patients secured fee waivers within a month since Hong Kong’s public medical fee reform took effect this year, a jump from 14,000 for a whole year previously, the health minister said while defending the new regime.\nSecretary for Health Lo Chung-mau said on Friday that among the more than 110,000 people with approved waivers, about 53,000 had already received certificates for fee reduction.\nThe roughly 60,000 patients remaining who had failed to provide income and asset proof...",
+      "date_published": "2026-01-30T10:43:59.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/article/3341854/shanghai-residents-offload-their-gold-prices-surge-record-highs?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/article/3341854/shanghai-residents-offload-their-gold-prices-surge-record-highs?utm_source=rss_feed",
       "title": "Shanghai residents offload their gold as prices surge to record highs",

@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/videos/c368y69ndlwo#7",
+      "url": "https://www.bbc.com/sport/videos/c368y69ndlwo?at_medium=RSS&at_campaign=rss",
+      "title": "'You become more of a man' - Ferguson on life in Italy",
+      "content_html": "Bologna midfielder Lewis Ferguson discusses the World Cup, learning Italian, a positional change at club level and Hamilton Academical's plight.",
+      "content_text": "Bologna midfielder Lewis Ferguson discusses the World Cup, learning Italian, a positional change at club level and Hamilton Academical's plight.",
+      "date_published": "2026-01-30T10:44:10.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c2d7y9k2el3o#3",
+      "url": "https://www.bbc.com/news/articles/c2d7y9k2el3o?at_medium=RSS&at_campaign=rss",
+      "title": "Maya Jama and Ruben Dias' Cheshire home targeted by burglars",
+      "content_html": "Jama was in South Africa filming Love Island and Dias was watching his team Manchester City play.",
+      "content_text": "Jama was in South Africa filming Love Island and Dias was watching his team Manchester City play.",
+      "date_published": "2026-01-30T10:40:10.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/tennis/articles/clyn9l0zvnpo#7",
       "url": "https://www.bbc.com/sport/tennis/articles/clyn9l0zvnpo?at_medium=RSS&at_campaign=rss",
       "title": "Cramping Alcaraz beats Zverev in epic to reach final",

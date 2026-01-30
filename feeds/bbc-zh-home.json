@@ -6,6 +6,14 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/c701y0pqwp9o/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/c701y0pqwp9o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "香港巴士安全帶風波：「強戴令」實施未一週即暫緩，新法例為何惹來爭議？",
+      "content_html": "強制巴士乘客佩戴安全帶的新法例實施不足一周，引來社會巨大不滿，香港政府於法例生效六日後宣佈暫緩推行。",
+      "content_text": "強制巴士乘客佩戴安全帶的新法例實施不足一周，引來社會巨大不滿，香港政府於法例生效六日後宣佈暫緩推行。",
+      "date_published": "2026-01-30T10:57:37.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad?at_medium=RSS&at_campaign=rss",
       "title": "台灣首位「陸配」立委：國安、忠誠與參政權利的拉扯",
@@ -36,6 +44,14 @@
       "content_html": "該法案草案將在法律中明訂終結所謂的「婚內權利」——即婚姻意味著必須履行性義務的觀念。",
       "content_text": "該法案草案將在法律中明訂終結所謂的「婚內權利」——即婚姻意味著必須履行性義務的觀念。",
       "date_published": "2026-01-30T07:28:31.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c5yvzn83ye1o/trad#1",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yvzn83ye1o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "為何中國如此迅速處決明氏家族11人？",
+      "content_html": "明氏家族在靠近中國與緬甸邊境的撣邦地區長期經營詐騙園區，電詐亦成為當地一大經濟支柱。",
+      "content_text": "明氏家族在靠近中國與緬甸邊境的撣邦地區長期經營詐騙園區，電詐亦成為當地一大經濟支柱。",
+      "date_published": "2026-01-30T06:56:04.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/c5yvzn83ye1o/trad#0",
@@ -332,6 +348,14 @@
       "content_html": "國際刑警組織一名舉報人提供的數千份文件首次揭露了俄羅斯濫用該組織打擊海外異見人士的程度。",
       "content_text": "國際刑警組織一名舉報人提供的數千份文件首次揭露了俄羅斯濫用該組織打擊海外異見人士的程度。",
       "date_published": "2026-01-28T00:10:41.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c93vxlny11do/trad#4",
+      "url": "https://www.bbc.com/zhongwen/articles/c93vxlny11do/trad?at_medium=RSS&at_campaign=rss",
+      "title": "印度能在電腦芯片產業佔一席之地嗎？",
+      "content_html": "印度正投入數以億計美元，致力於建立本國的電腦芯片產業。",
+      "content_text": "印度正投入數以億計美元，致力於建立本國的電腦芯片產業。",
+      "date_published": "2026-01-28T00:10:14.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/c93vxlny11do/trad#1",

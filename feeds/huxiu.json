@@ -6,6 +6,14 @@
   "description": "虎嗅网RSS订阅",
   "items": [
     {
+      "id": "http://www.huxiu.com/article/4831068.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4831068.html?f=wangzhan",
+      "title": "实盘战绩全网第1？三位量化大师混战，谁的策略技高一筹?",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/30/150312175994.jpg\"/>\n<p data-check-id=\"542754\">最近看到了几个周频的量化选股策略，年化收益都在15%以上，最高的能有28.5%，最大回撤也不是很大，最小的才12.3%，这些策略都来源于战绩可查的实战派大师，看上去条理清晰、逻辑严密，并且还附带了历史回测结果。不管你心动了没有，反正我是心动了......</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "最近看到了几个周频的量化选股策略，年化收益都在15%以上，最高的能有28.5%，最大回撤也不是很大，最小的才12.3%，这些策略都来源于战绩可查的实战派大师，看上去条理清晰、逻辑严密，并且还附带了历史回测结果。不管你心动了没有，反正我是心动了......下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-30T10:00:00.000Z"
+    },
+    {
       "id": "http://www.huxiu.com/article/4831081.html?f=wangzhan",
       "url": "http://www.huxiu.com/article/4831081.html?f=wangzhan",
       "title": "金银价格大跳水，有色金属变成绿色金属，接下来还能买吗？",

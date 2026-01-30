@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/world/middleeast/syria-kurd-sdf-agreement.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/middleeast/syria-kurd-sdf-agreement.html",
+      "title": "Syrian Government and Kurdish-Led Militia Seal a Deal to Merge Forces",
+      "content_html": "The long-anticipated agreement closes a period of intense uncertainty in northeastern Syria after rebel forces led by Ahmed al-Sharaa, who is now the president, seized power in December 2024.",
+      "content_text": "The long-anticipated agreement closes a period of intense uncertainty in northeastern Syria after rebel forces led by Ahmed al-Sharaa, who is now the president, seized power in December 2024.",
+      "date_published": "2026-01-30T11:06:35.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/world/asia/trump-starmer-china-canada-trade.html",
       "url": "https://www.nytimes.com/2026/01/30/world/asia/trump-starmer-china-canada-trade.html",
       "title": "Trump Tells U.K. and Canada That Boosting Trade With China Is ‘Dangerous’",

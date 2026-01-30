@@ -6,6 +6,54 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/world/middleeast/syria-kurd-sdf-agreement.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/middleeast/syria-kurd-sdf-agreement.html",
+      "title": "Syrian Government and Kurdish-Led Militia Seal a Deal to Merge Forces",
+      "content_html": "The long-anticipated agreement closes a period of intense uncertainty in northeastern Syria after rebel forces led by Ahmed al-Sharaa, who is now the president, seized power in December 2024.",
+      "content_text": "The long-anticipated agreement closes a period of intense uncertainty in northeastern Syria after rebel forces led by Ahmed al-Sharaa, who is now the president, seized power in December 2024.",
+      "date_published": "2026-01-30T11:06:35.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/podcasts/the-headlines/ice-white-supremacist-messaging.html",
+      "url": "https://www.nytimes.com/2026/01/30/podcasts/the-headlines/ice-white-supremacist-messaging.html",
+      "title": "The Push to Rein In ICE, and How the Government Is Echoing White Supremacist Messaging",
+      "content_html": "Plus, your Friday news quiz.",
+      "content_text": "Plus, your Friday news quiz.",
+      "date_published": "2026-01-30T11:00:13.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/weather/carolina-snow-storm-forecast-virginia.html",
+      "url": "https://www.nytimes.com/2026/01/30/weather/carolina-snow-storm-forecast-virginia.html",
+      "title": "Carolinas Forecast to See Rare Blizzard Conditions From Winter Storm",
+      "content_html": "A storm on Saturday is shaping up to be one of the strongest that parts of the South have seen in years. The storm will move through the Northeast on Sunday, but probably with far less snow.",
+      "content_text": "A storm on Saturday is shaping up to be one of the strongest that parts of the South have seen in years. The storm will move through the Northeast on Sunday, but probably with far less snow.",
+      "date_published": "2026-01-30T10:40:02.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/asia/trump-starmer-china-canada-trade.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/asia/trump-starmer-china-canada-trade.html",
+      "title": "Trump Tells U.K. and Canada That Boosting Trade With China Is ‘Dangerous’",
+      "content_html": "The leaders of both countries have recently visited Beijing seeking to strengthen economic ties, as tensions with the United States rise.",
+      "content_text": "The leaders of both countries have recently visited Beijing seeking to strengthen economic ties, as tensions with the United States rise.",
+      "date_published": "2026-01-30T10:29:21.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/georgia-trump-election.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/georgia-trump-election.html",
+      "title": "F.B.I. Search in Georgia Shows Trump’s Willingness to Pursue 2020 Grievances",
+      "content_html": "The search might also be a harbinger of things to come, signaling the president’s disposition to use the powers of law enforcement to intervene in election matters as the 2026 midterms approach.",
+      "content_text": "The search might also be a harbinger of things to come, signaling the president’s disposition to use the powers of law enforcement to intervene in election matters as the 2026 midterms approach.",
+      "date_published": "2026-01-30T10:04:36.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/movies/brett-ratner-melania-trump-documentary.html",
+      "url": "https://www.nytimes.com/2026/01/30/movies/brett-ratner-melania-trump-documentary.html",
+      "title": "Brett Ratner Makes Directing Comeback With ‘Melania’",
+      "content_html": "Once a reliable Hollywood hitmaker, Mr. Ratner hasn’t directed a film since accusations of sexual misconduct in 2017 that he denied.",
+      "content_text": "Once a reliable Hollywood hitmaker, Mr. Ratner hasn’t directed a film since accusations of sexual misconduct in 2017 that he denied.",
+      "date_published": "2026-01-30T10:04:17.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/opinion/trump-minneapolis-america-pretti.html",
       "url": "https://www.nytimes.com/2026/01/30/opinion/trump-minneapolis-america-pretti.html",
       "title": "This Moment Is Asking What Kind of America We Are",
@@ -22,12 +70,124 @@
       "date_published": "2026-01-30T10:03:53.000Z"
     },
     {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/minneapolis-trump-renee-good-alex-pretti.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/minneapolis-trump-renee-good-alex-pretti.html",
+      "title": "Fact-Checking Trump Officials on Minnesota After Shootings by Federal Agents",
+      "content_html": "President Trump and top administration officials, in trying to shift blame over two recent shootings, have mounted an array of arguments for the influx of federal agents.",
+      "content_text": "President Trump and top administration officials, in trying to shift blame over two recent shootings, have mounted an array of arguments for the influx of federal agents.",
+      "date_published": "2026-01-30T10:03:44.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/americas/ice-immigration-enforcement-international-scrutiny-business.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/americas/ice-immigration-enforcement-international-scrutiny-business.html",
+      "title": "International Companies Doing Business With ICE Are Taking Heat",
+      "content_html": "A number of companies have found themselves facing questions about their work with Immigration and Customs Enforcement amid the agency’s intense operation in Minnesota.",
+      "content_text": "A number of companies have found themselves facing questions about their work with Immigration and Customs Enforcement amid the agency’s intense operation in Minnesota.",
+      "date_published": "2026-01-30T10:03:37.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html",
+      "url": "https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html",
+      "title": "The Tech Arsenal That ICE Has Deployed in Minneapolis",
+      "content_html": "Agents use facial recognition, social media monitoring and other tech tools not only to identify undocumented immigrants but also to track protesters, current and former officials said.",
+      "content_text": "Agents use facial recognition, social media monitoring and other tech tools not only to identify undocumented immigrants but also to track protesters, current and former officials said.",
+      "date_published": "2026-01-30T10:03:29.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/magazine/minnesota-investigation-state-federalism.html",
+      "url": "https://www.nytimes.com/2026/01/30/magazine/minnesota-investigation-state-federalism.html",
+      "title": "In Minnesota, America’s Federal System Is Coming Apart",
+      "content_html": "The state is in a standoff with the federal government over who has the power to investigate the killing of protesters. It’s not a fair fight.",
+      "content_text": "The state is in a standoff with the federal government over who has the power to investigate the killing of protesters. It’s not a fair fight.",
+      "date_published": "2026-01-30T10:03:23.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/climate/governors-dive-into-an-impasse-over-colorado-river-water-use.html",
+      "url": "https://www.nytimes.com/2026/01/30/climate/governors-dive-into-an-impasse-over-colorado-river-water-use.html",
+      "title": "Governors Dive Into an Impasse Over Colorado River Water Use",
+      "content_html": "Leaders are set to gather in Washington as an unusual winter drought looms, raising the threat of lawsuits over a diminishing water supply.",
+      "content_text": "Leaders are set to gather in Washington as an unusual winter drought looms, raising the threat of lawsuits over a diminishing water supply.",
+      "date_published": "2026-01-30T10:03:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/its-all-just-going-down-the-toilet-police-chiefs-fume-at-ice-tactics.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/its-all-just-going-down-the-toilet-police-chiefs-fume-at-ice-tactics.html",
+      "title": "‘It’s All Just Going Down the Toilet’: Police Chiefs Fume at ICE Tactics",
+      "content_html": "Many police departments adopted major changes after civilian killings. Now, police chiefs worry ICE is ignoring those lessons and setting back efforts to improve public trust.",
+      "content_text": "Many police departments adopted major changes after civilian killings. Now, police chiefs worry ICE is ignoring those lessons and setting back efforts to improve public trust.",
+      "date_published": "2026-01-30T10:02:11.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/army-tank-m1e3-abrams.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/army-tank-m1e3-abrams.html",
+      "title": "The Army Just Unveiled Its Latest Tank. Will It Be the Last?",
+      "content_html": "The war in Ukraine has shown how vulnerable armored vehicles can be to attacks by cheap, expendable drones, threatening the tank’s century-long primacy on the battlefield.",
+      "content_text": "The war in Ukraine has shown how vulnerable armored vehicles can be to attacks by cheap, expendable drones, threatening the tank’s century-long primacy on the battlefield.",
+      "date_published": "2026-01-30T10:02:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/dining/food-delivery-apps-doordash-uber.html",
+      "url": "https://www.nytimes.com/2026/01/30/dining/food-delivery-apps-doordash-uber.html",
+      "title": "How DoorDash and Other Food Delivery Apps Are Reshaping Mealtime in the U.S.",
+      "content_html": "Almost three of every four restaurant orders in the U.S. weren’t eaten in a restaurant, according to recent data. We spoke to readers who are devoted to delivery but question the costs.",
+      "content_text": "Almost three of every four restaurant orders in the U.S. weren’t eaten in a restaurant, according to recent data. We spoke to readers who are devoted to delivery but question the costs.",
+      "date_published": "2026-01-30T10:00:49.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/upshot/boys-reading-falling-behind.html",
+      "url": "https://www.nytimes.com/2026/01/30/upshot/boys-reading-falling-behind.html",
+      "title": "Girls Are Ahead in Reading at Every Age. Can Boys Catch Up?",
+      "content_html": "Boys’ reading struggles are not inevitable, research suggests, and addressing the deficit could improve outcomes in school and beyond.",
+      "content_text": "Boys’ reading struggles are not inevitable, research suggests, and addressing the deficit could improve outcomes in school and beyond.",
+      "date_published": "2026-01-30T10:00:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/business/energy-environment/lukoil-gas-stations-trump.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/energy-environment/lukoil-gas-stations-trump.html",
+      "title": "Lukoil Gas Station Franchisees Caught in a Fight Between US and Russia",
+      "content_html": "After the United States imposed sanctions on Russia’s two biggest oil producers, the ripple effects wreaked havoc on business for local franchisees.",
+      "content_text": "After the United States imposed sanctions on Russia’s two biggest oil producers, the ripple effects wreaked havoc on business for local franchisees.",
+      "date_published": "2026-01-30T10:00:26.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
+      "title": "Russia Is Finding the Gaps in Ukraine’s Front Line",
+      "content_html": "The swift advance of Moscow’s forces into the town of Huliaipole showcases a central challenge for Kyiv: how to defend 700 miles with too few troops.",
+      "content_text": "The swift advance of Moscow’s forces into the town of Huliaipole showcases a central challenge for Kyiv: how to defend 700 miles with too few troops.",
+      "date_published": "2026-01-30T10:00:20.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/business/media/disney-ceo.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/media/disney-ceo.html",
+      "title": "Can Josh D’Amaro Break Disney’s Succession Curse?",
+      "content_html": "Josh D’Amaro is widely considered a front-runner to be the company’s next C.E.O. His biggest challenge might be escaping Bob Iger’s shadow.",
+      "content_text": "Josh D’Amaro is widely considered a front-runner to be the company’s next C.E.O. His biggest challenge might be escaping Bob Iger’s shadow.",
+      "date_published": "2026-01-30T10:00:14.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/asia/xi-military-purge-taiwan.html",
       "url": "https://www.nytimes.com/2026/01/29/world/asia/xi-military-purge-taiwan.html",
       "title": "Xi’s Military Purge May Set Back His Taiwan Ambitions",
       "content_html": "By ousting his top generals, Xi Jinping has secured absolute control but also hollowed out the command structure preparing for possible war over Taiwan.",
       "content_text": "By ousting his top generals, Xi Jinping has secured absolute control but also hollowed out the command structure preparing for possible war over Taiwan.",
       "date_published": "2026-01-30T08:40:11.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/nyregion/jfk-airport-terminal-one.html",
+      "url": "https://www.nytimes.com/2026/01/30/nyregion/jfk-airport-terminal-one.html",
+      "title": "Inside the Huge New Terminal That Will Transform J.F.K.",
+      "content_html": "The 2.6-million-square-foot Terminal One, part of a multibillion-dollar redevelopment of Kennedy Airport, will be nearly as large as the Empire State Building.",
+      "content_text": "The 2.6-million-square-foot Terminal One, part of a multibillion-dollar redevelopment of Kennedy Airport, will be nearly as large as the Empire State Building.",
+      "date_published": "2026-01-30T08:00:20.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/nyregion/mamdani-free-buses-subway.html",
+      "url": "https://www.nytimes.com/2026/01/30/nyregion/mamdani-free-buses-subway.html",
+      "title": "Free Buses? How About Expanding the Subway by 41 Miles Instead?",
+      "content_html": "In a break from Mayor Zohran Mamdani, some transit advocates are wary of a plan to subsidize bus fares and argue the money would be better spent on a major subway expansion.",
+      "content_text": "In a break from Mayor Zohran Mamdani, some transit advocates are wary of a plan to subsidize bus fares and argue the money would be better spent on a major subway expansion.",
+      "date_published": "2026-01-30T08:00:02.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/business/trump-fed-chair-kevin-warsh.html",

@@ -17,6 +17,86 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189624",
+      "url": "https://www.v2ex.com/t/1189624#reply0",
+      "title": "[生活] 做了一个习惯 APP， V 友们可以尝尝鲜～",
+      "content_html": "<h1>DropDrop：今天做什么习惯，由你的身体状态自己决定</h1>\n<p>打卡 App ，结合 <strong>HRV 、心情和行为记录</strong>，为你生成当天最适合的习惯和计划建议。</p>\n<p><img alt=\"DropDrop\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://oss.dropdrophabit.com/4eef4694e4182bddb23ad3bb691a859f.png\"/></p>\n<p>🌐 <a href=\"https://www.dropdrophabit.com/zh\" rel=\"nofollow\">访问网站</a></p>",
+      "content_text": "DropDrop：今天做什么习惯，由你的身体状态自己决定\n打卡 App ，结合 HRV 、心情和行为记录，为你生成当天最适合的习惯和计划建议。\n\n🌐 访问网站",
+      "date_published": "2026-01-30T11:19:04.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189623",
+      "url": "https://www.v2ex.com/t/1189623#reply0",
+      "title": "[程序员] 转发一篇好文 —— 《What We Talk About When We Talk About Agent Infra》",
+      "content_html": "<p><a href=\"https://me.0xffff.me/agent_infra.html\" rel=\"nofollow\">https://me.0xffff.me/agent_infra.html</a>?</p>",
+      "content_text": "https://me.0xffff.me/agent_infra.html?",
+      "date_published": "2026-01-30T11:18:47.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189622",
+      "url": "https://www.v2ex.com/t/1189622#reply0",
+      "title": "[HodlAI] ClawdBot 接入 HodlAI 免费 API 配置指南",
+      "content_html": "<blockquote>\n<p>📌 <strong>本文适用于已安装 ClawdBot 用户</strong>，介绍如何修改配置以接入 HodlAI 接口。详细安装教程请自行搜索，或借助 AI 指导，后续我们也将推出完整版教程。</p>\n</blockquote>\n<hr/>\n<h2>配置步骤</h2>\n<h3>1️⃣ 编辑配置文件</h3>\n<p>使用任意编辑器打开 <code>clawdbot.json</code>：</p>\n<pre><code class=\"language-bash\">nano ~/.clawdbot/clawdbot.json\n</code></pre>\n<h3>2️⃣ 替换配置内容</h3>\n<p>将 <code>models</code> 和 <code>agents</code> 部分替换为以下内容：</p>\n<blockquote>\n<p>⚠️ <strong>如需更换模型</strong>，请同步修改所有 <code>gpt-5.2</code> 相关字段（<code>id</code>、<code>name</code>、<code>primary</code>、<code>models</code>）</p>\n</blockquote>\n<pre><code class=\"language-json\">\"models\": {\n  \"mode\": \"merge\",\n  \"providers\": {\n    \"llm\": {\n      \"baseUrl\": \"https://api.hodlai.fun/v1\",\n      \"apiKey\": \"你的 API Key\",\n      \"api\": \"openai-completions\",\n      \"models\": [\n        {\n          \"id\": \"gpt-5.2\",\n          \"name\": \"GPT-5.2\",\n          \"reasoning\": true\n        }\n      ]\n    }\n  }\n},\n\n\"agents\": {\n  \"defaults\": {\n    \"model\": {\n      \"primary\": \"llm/gpt-5.2\"\n    },\n    \"models\": {\n      \"gpt-5.2\": {}\n    },\n    \"workspace\": \"/root/clawd\",\n    \"compaction\": {\n      \"mode\": \"safeguard\"\n    },\n    \"maxConcurrent\": 4,\n    \"subagents\": {\n      \"maxConcurrent\": 8\n    }\n  }\n}\n</code></pre>\n<h3>3️⃣ 校验并重启服务</h3>\n<pre><code class=\"language-bash\">clawdbot doctor --fix\nclawdbot gateway restart\n</code></pre>\n<hr/>\n<h2>关于 HodlAI</h2>\n<p>持有 <strong>$HODLAI</strong> 代币，即可免费使用 <strong>200+ AI 模型</strong></p>\n<p>📋 <strong>完整模型列表</strong>：<a href=\"https://api.hodlai.fun/pricing\" rel=\"nofollow\">https://api.hodlai.fun/pricing</a></p>\n<hr/>\n<h2>相关链接</h2>\n<table>\n<thead>\n<tr>\n<th>平台</th>\n<th>链接</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>🌐 官网</td>\n<td><a href=\"https://hodlai.fun/\" rel=\"nofollow\">https://hodlai.fun/</a></td>\n</tr>\n<tr>\n<td>🐦 Twitter</td>\n<td><a href=\"https://x.com/hodlai_bsc\" rel=\"nofollow\">https://x.com/hodlai_bsc</a></td>\n</tr>\n<tr>\n<td>💬 Telegram</td>\n<td><a href=\"https://t.me/hodlai_fun\" rel=\"nofollow\">https://t.me/hodlai_fun</a></td>\n</tr>\n</tbody></table>",
+      "content_text": "📌 本文适用于已安装 ClawdBot 用户，介绍如何修改配置以接入 HodlAI 接口。详细安装教程请自行搜索，或借助 AI 指导，后续我们也将推出完整版教程。\n\n\n配置步骤\n1️⃣ 编辑配置文件\n使用任意编辑器打开 clawdbot.json：\nnano ~/.clawdbot/clawdbot.json\n\n2️⃣ 替换配置内容\n将 models 和 agents 部分替换为以下内容：\n\n⚠️ 如需更换模型，请同步修改所有 gpt-5.2 相关字段（id、name、primary、models）\n\n\"models\": {\n  \"mode\": \"merge\",\n  \"providers\": {\n    \"llm\": {\n      \"baseUrl\": \"https://api.hodlai.fun/v1\",\n      \"apiKey\": \"你的 API Key\",\n      \"api\": \"openai-completions\",\n      \"models\": [\n        {\n          \"id\": \"gpt-5.2\",\n          \"name\": \"GPT-5.2\",\n          \"reasoning\": true\n        }\n      ]\n    }\n  }\n},\n\n\"agents\": {\n  \"defaults\": {\n    \"model\": {\n      \"primary\": \"llm/gpt-5.2\"\n    },\n    \"models\": {\n      \"gpt-5.2\": {}\n    },\n    \"workspace\": \"/root/clawd\",\n    \"compaction\": {\n      \"mode\": \"safeguard\"\n    },\n    \"maxConcurrent\": 4,\n    \"subagents\": {\n      \"maxConcurrent\": 8\n    }\n  }\n}\n\n3️⃣ 校验并重启服务\nclawdbot doctor --fix\nclawdbot gateway restart\n\n\n关于 HodlAI\n持有 $HODLAI 代币，即可免费使用 200+ AI 模型\n📋 完整模型列表：https://api.hodlai.fun/pricing\n\n相关链接\n\n\n\n平台\n链接\n\n\n\n\n🌐 官网\nhttps://hodlai.fun/\n\n\n🐦 Twitter\nhttps://x.com/hodlai_bsc\n\n\n💬 Telegram\nhttps://t.me/hodlai_fun",
+      "date_published": "2026-01-30T11:16:57.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189621",
+      "url": "https://www.v2ex.com/t/1189621#reply0",
+      "title": "[Apple] XCode 一致无法和 手机连接",
+      "content_html": "<a target=\"_blank\" href=\"https://imgur.com/a/09xga5y\" rel=\"nofollow noopener\">https://imgur.com/a/09xga5y</a><br /><br />XCode 升级到 26.2<br /><br />iphone 升级到了 26.2.1<br /><br /><br />然后一直无法连接成功。",
+      "content_text": "https://imgur.com/a/09xga5yXCode 升级到 26.2iphone 升级到了 26.2.1然后一直无法连接成功。",
+      "date_published": "2026-01-30T11:15:41.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189620",
+      "url": "https://www.v2ex.com/t/1189620#reply0",
+      "title": "[推广] 卖点自家的茶叶，评论抽奖送茶叶",
+      "content_html": "<p>又一年年底，卖点自己茶山产安吉白茶，明前特级 400 一斤，明前一级 350 一斤，雨前口粮黄金茶 180 一斤，均包邮，另有礼盒出售，联系方式绿泡泡：ricsun0527</p>\n<hr/>\n<p>备注：买一斤及以上都会多送一两\n抽奖规则：评论回复“安吉白茶”即可参与抽奖，奖品为 50g 小包装价值 350 一斤的茶叶一包（包邮，港澳台或海外恕在下无能为力），抽五个人，抽奖方式为让 deepseek 选五个楼层，实物奖励不支持换现金，无法领奖可以转给他人，截至 2 月 3 日 8 点</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/Wy0Xw8o.jpeg\"/></td>\n<td><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/wsVpbPt.jpeg\"/></td>\n<td><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/FadKkt3.jpeg\"/></td>\n</tr>\n<tr>\n<td><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/MsUitiz.jpeg\"/></td>\n<td><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/fAMRPhk.jpeg\"/></td>\n<td><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/kCJoaWU.jpeg\"/></td>\n</tr>\n<tr>\n<td><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/W9PspaK.jpeg\"/></td>\n<td><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/X4PxsT5.jpeg\"/></td>\n<td><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/zDRfzJ5.jpeg\"/></td>\n</tr>\n</tbody></table>",
+      "content_text": "又一年年底，卖点自己茶山产安吉白茶，明前特级 400 一斤，明前一级 350 一斤，雨前口粮黄金茶 180 一斤，均包邮，另有礼盒出售，联系方式绿泡泡：ricsun0527\n\n备注：买一斤及以上都会多送一两\n抽奖规则：评论回复“安吉白茶”即可参与抽奖，奖品为 50g 小包装价值 350 一斤的茶叶一包（包邮，港澳台或海外恕在下无能为力），抽五个人，抽奖方式为让 deepseek 选五个楼层，实物奖励不支持换现金，无法领奖可以转给他人，截至 2 月 3 日 8 点",
+      "date_published": "2026-01-30T11:12:08.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189619",
+      "url": "https://www.v2ex.com/t/1189619#reply1",
+      "title": "[问与答] chatgpt 现在会员只要 8 刀了么?",
+      "content_html": "<p>好像是个 go, 是啥意思</p>",
+      "content_text": "好像是个 go, 是啥意思",
+      "date_published": "2026-01-30T11:07:11.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189618",
+      "url": "https://www.v2ex.com/t/1189618#reply1",
+      "title": "[问与答] 有什么平台是适合放自己的文章并且永远不会倒闭的吗？",
+      "content_html": "<p>研究了一下 github pages ，请问是否部署后就永远不会倒闭了？</p>",
+      "content_text": "研究了一下 github pages ，请问是否部署后就永远不会倒闭了？",
+      "date_published": "2026-01-30T11:04:02.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189617",
+      "url": "https://www.v2ex.com/t/1189617#reply0",
+      "title": "[分享发现] 感觉抖音的推荐算法越来越拉跨了 信息流让我感到有点恶心了",
+      "content_html": "<p>以我个人为例,我平均每天刷个 20-40 分钟左右,主要看的新闻 手工 IT 等,这 2 年 AI 流行,抖音大幅推广各种 AI 视频,包括它自己推的一大堆 AI 跟拍的,引起很多人反感,又没提供一键屏蔽的功能.</p>\n<p>例如最近这 2 周一直在给我推\"马上过年了 ai 给我设计个新发型...\",我压根从没点过这类视频赞或评论,刷到立马划走,但是抖音跟疯了一样每天给我重复各种不同的号跟拍的这种视频,最疯的时候接连 2 个都是发型 AI 视频,而且没有屏蔽的功能,最后我只能把发型关键词屏蔽了,而且推过来的都是一些没什么播放的垃圾用户发的,抖音是不是把我当第一波流量池评委了...</p>\n<p>现在感觉抖音针对 AI 的管控太弱了,我不反对 AI 视频甚至我自己都在做,但是我很厌烦一天到晚刷到各种低质量视频,抖音应该跟 youtube 学学,低质量/同质化内容不给播放甚至降权,不然迟早被这些低质量视频给毁了</p>",
+      "content_text": "以我个人为例,我平均每天刷个 20-40 分钟左右,主要看的新闻 手工 IT 等,这 2 年 AI 流行,抖音大幅推广各种 AI 视频,包括它自己推的一大堆 AI 跟拍的,引起很多人反感,又没提供一键屏蔽的功能.\n例如最近这 2 周一直在给我推\"马上过年了 ai 给我设计个新发型...\",我压根从没点过这类视频赞或评论,刷到立马划走,但是抖音跟疯了一样每天给我重复各种不同的号跟拍的这种视频,最疯的时候接连 2 个都是发型 AI 视频,而且没有屏蔽的功能,最后我只能把发型关键词屏蔽了,而且推过来的都是一些没什么播放的垃圾用户发的,抖音是不是把我当第一波流量池评委了...\n现在感觉抖音针对 AI 的管控太弱了,我不反对 AI 视频甚至我自己都在做,但是我很厌烦一天到晚刷到各种低质量视频,抖音应该跟 youtube 学学,低质量/同质化内容不给播放甚至降权,不然迟早被这些低质量视频给毁了",
+      "date_published": "2026-01-30T10:59:39.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189615",
+      "url": "https://www.v2ex.com/t/1189615#reply0",
+      "title": "[问与答] typeless 语音输入挺好的，但有没能用自己 api 并且功能类似的语音输入法？",
+      "content_html": "<p>我有自己的大模型 api ，请问有没类似 typeless 功能+自定义 api 的产品？</p>",
+      "content_text": "我有自己的大模型 api ，请问有没类似 typeless 功能+自定义 api 的产品？",
+      "date_published": "2026-01-30T10:51:44.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189614",
+      "url": "https://www.v2ex.com/t/1189614#reply1",
+      "title": "[问与答] 今年购买了什么改善生活的东西？",
+      "content_html": "<p>对我来说：</p>\n<ol>\n<li>Google One ，全平台同步照片；</li>\n<li>5060 主机，偶尔打打 CSGO ，价格实惠；</li>\n<li>黄金，仓位不高小赚一点，足够给爸妈买新年礼物了；</li>\n</ol>\n<p>AI 服务只是让我干活更顺利，不算在内。</p>",
+      "content_text": "对我来说：\n\nGoogle One ，全平台同步照片；\n5060 主机，偶尔打打 CSGO ，价格实惠；\n黄金，仓位不高小赚一点，足够给爸妈买新年礼物了；\n\nAI 服务只是让我干活更顺利，不算在内。",
+      "date_published": "2026-01-30T10:40:54.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189611",
       "url": "https://www.v2ex.com/t/1189611#reply4",
       "title": "[程序员] Idea 是不是要破产了？",

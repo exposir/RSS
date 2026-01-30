@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003297210",
+      "url": "https://www.wsj.com/world/europe/polands-economy-set-to-enter-global-top-20-following-another-strong-year-beea3a49",
+      "title": "Poland&#x2019;s Economy Set to Enter Global Top 20 Following Another Strong Year",
+      "content_html": "Three-and-a-half decades ago, Poland was nearly as poor as Jamaica after adjusting for price levels. Today it is richer than Japan.",
+      "content_text": "Three-and-a-half decades ago, Poland was nearly as poor as Jamaica after adjusting for price levels. Today it is richer than Japan.",
+      "date_published": "2026-01-30T11:15:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003282193",
       "url": "https://www.wsj.com/world/ukraine-young-soldiers-russia-war-e7c28620",
       "title": "Ukraine Can No Longer Spare Its Youngest Soldiers From the Front Lines",
