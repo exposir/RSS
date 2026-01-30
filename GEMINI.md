@@ -1,9 +1,35 @@
 <!--
-- [INPUT]: 依赖 /CLAUDE.md 的模块定位与索引
-- [OUTPUT]: 输出本文件内容
-- [POS]: 位于 项目根目录 的文档
+- [INPUT]: 依赖 项目根目录 的全局配置与结构
+- [OUTPUT]: 本文档提供 L1 级项目宪法与全局架构索引
+- [POS]: 项目根目录 的核心架构文档
 - [PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
 -->
+
+# RSS Archive & Web Reader - 自动化 RSS 归档与多端阅读系统
+
+Node.js + GitHub Actions + VitePress + Next.js + Tailwind CSS
+
+<directory>
+.github/ - 🤖 自动化编排 (2 子目录: workflows, ...)
+docs/ - 📖 稳定版阅读器 (VitePress 站点与 Vue 3 主题配置)
+feeds/ - 📦 数据持久化层 (存储 80+ 订阅源的 JSON Feed 归档文件)
+next-app/ - 🧪 预览版阅读器 (Next.js 16 + React 19 + Tailwind v4)
+scripts/ - 🕷️ 核心业务逻辑 (RSS 抓取、HTML 清洗与增量更新脚本)
+node_modules/ - 项目依赖库
+</directory>
+
+<config>
+feeds.yml - ⚙️ 订阅源核心配置 (Source of Truth)
+package.json - 项目依赖管理与自动化脚本入口
+GEMINI.md - Gemini CLI 上下文规范 (Linus 哥的品味守则)
+AGENTS.md - Antigravity 代理行为规范
+CLAUDE.md - 项目分形架构宪法 (本文件)
+TOOLING.md - 多 AI 工具链索引说明
+</config>
+
+法则: 极简·稳定·导航·版本精确
+
+[PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
 
 <terminology>
 ## 术语说明：CLAUDE.md
@@ -15,11 +41,11 @@ Code 的 Memory Files 机制，但其本质是 **跨 AI 通用的项目上下文
 
 - Claude Code → CLAUDE.md (Memory Files)
 - GitHub Copilot → .github/copilot-instructions.md
-- Cursor → .cursor/rules.md 或 .cursorrules
-- Windsurf → .windsurfrules
+- Cursor → .cursor/rules/*.mdc (Domain Rules) 或 .cursorrules (Legacy)
+- Windsurf → .windsurf/rules/*.md (Cascade Rules)
 - Google Gemini → GEMINI.md
-- Google Deepmind Antigravity → .antigravity/rules.md
-- OpenAI → AGENTS.md 或 CODEX.md
+- Google Deepmind Antigravity → AGENTS.md 或 .agent/rules/*.md
+- OpenAI → CODEX.md 或 .openai/instructions.md
 
 **核心职责**：作为 AI
 Agent 进入项目时的第一读物，提供项目结构、技术栈、架构决策、模块职责等关键上下文。无论你是哪个 AI，看到 CLAUDE.md 就把它当作"项目架构说明书"来理解。
