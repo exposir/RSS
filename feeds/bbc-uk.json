@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/cricket/articles/c62rq6dy54xo#7",
+      "url": "https://www.bbc.com/sport/cricket/articles/c62rq6dy54xo?at_medium=RSS&at_campaign=rss",
+      "title": "Brook lied 'to protect' others after nightclub altercation",
+      "content_html": "England white-ball captain Harry Brook says other players were present when he was involved in an altercation with a nightclub bouncer.",
+      "content_text": "England white-ball captain Harry Brook says other players were present when he was involved in an altercation with a nightclub bouncer.",
+      "date_published": "2026-01-30T19:15:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/cricket/articles/c62rq6dy54xo#0",
+      "url": "https://www.bbc.com/sport/cricket/articles/c62rq6dy54xo?at_medium=RSS&at_campaign=rss",
+      "title": "Harry Brook lied 'to protect' others after nightclub altercation",
+      "content_html": "England white-ball captain Harry Brook says other players were present when he was involved in an altercation with a nightclub bouncer.",
+      "content_text": "England white-ball captain Harry Brook says other players were present when he was involved in an altercation with a nightclub bouncer.",
+      "date_published": "2026-01-30T19:15:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c70lg4jr0xlo#0",
+      "url": "https://www.bbc.com/news/articles/c70lg4jr0xlo?at_medium=RSS&at_campaign=rss",
+      "title": "Labour peer who had sanctions lifted by China says it's 'meagre return' for UK",
+      "content_html": "She says raising the case of campaigner Jimmy Lai is more important than lifting sanctions against her.",
+      "content_text": "She says raising the case of campaigner Jimmy Lai is more important than lifting sanctions against her.",
+      "date_published": "2026-01-30T19:12:17.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/cricket/articles/c5yvw8w6g0po#7",
       "url": "https://www.bbc.com/sport/cricket/articles/c5yvw8w6g0po?at_medium=RSS&at_campaign=rss",
       "title": "Curran takes hat-trick as England win first T20",
@@ -20,6 +44,14 @@
       "content_html": "Is a nervousness among Arsenal fans affecting the players in the Premier League title race? Alex Howell looks at what impact this could have on Mikel Arteta's side as they look to end a run of three second-placed finishes.",
       "content_text": "Is a nervousness among Arsenal fans affecting the players in the Premier League title race? Alex Howell looks at what impact this could have on Mikel Arteta's side as they look to end a run of three second-placed finishes.",
       "date_published": "2026-01-30T18:02:16.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/weather/articles/cvgm4m2wn9po#1",
+      "url": "https://www.bbc.com/weather/articles/cvgm4m2wn9po?at_medium=RSS&at_campaign=rss",
+      "title": "Snow Moon: How to see the last full moon of winter",
+      "content_html": "The full Moon in February is known as the Snow Moon.",
+      "content_text": "The full Moon in February is known as the Snow Moon.",
+      "date_published": "2026-01-30T17:25:46.000Z"
     },
     {
       "id": "https://www.bbc.com/weather/articles/cvgm4m2wn9po#0",
@@ -124,6 +156,14 @@
       "content_html": "Deng Majek must serve a minimum of 29 years in prison after stabbing Rhiannon Whyte 23 times.",
       "content_text": "Deng Majek must serve a minimum of 29 years in prison after stabbing Rhiannon Whyte 23 times.",
       "date_published": "2026-01-30T14:40:48.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c78eyv1zdl3o#3",
+      "url": "https://www.bbc.com/news/articles/c78eyv1zdl3o?at_medium=RSS&at_campaign=rss",
+      "title": "Company behind Prince George's baby shoes warns it may close",
+      "content_html": "The Leicester-based family firm of 73 years said it has been hit by \"prices going up, but demand going down\".",
+      "content_text": "The Leicester-based family firm of 73 years said it has been hit by \"prices going up, but demand going down\".",
+      "date_published": "2026-01-30T14:14:36.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c2d7yddrl2xo#1",

@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/climate/us-grids-are-surviving-the-winter-storm-but-the-next-5-years-could-be-rough.html",
+      "url": "https://www.nytimes.com/2026/01/30/climate/us-grids-are-surviving-the-winter-storm-but-the-next-5-years-could-be-rough.html",
+      "title": "U.S. Grids Are Surviving the Winter Storm. But the Next 5 Years Could be Rough.",
+      "content_html": "A group that monitors the nation’s electricity system warns that grid reliability is “worsening” and blackout risks are rising for millions of people.",
+      "content_text": "A group that monitors the nation’s electricity system warns that grid reliability is “worsening” and blackout risks are rising for millions of people.",
+      "date_published": "2026-01-30T19:01:00.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/arts/television/catherine-ohara-dead.html",
       "url": "https://www.nytimes.com/2026/01/30/arts/television/catherine-ohara-dead.html",
       "title": "Catherine O’Hara, ‘Home Alone’ and ‘Schitt’s Creek’ Actress, Dies at 71",
@@ -20,6 +28,22 @@
       "content_html": "New policies limiting the teaching of race and gender issues led administrators and professors to change hundreds of courses. School leaders say the rules could hurt A&M’s reputation.",
       "content_text": "New policies limiting the teaching of race and gender issues led administrators and professors to change hundreds of courses. School leaders say the rules could hurt A&M’s reputation.",
       "date_published": "2026-01-30T18:27:24.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/well/move/dead-hang-world-record-longevity.html",
+      "url": "https://www.nytimes.com/2026/01/30/well/move/dead-hang-world-record-longevity.html",
+      "title": "Loss, Grief and a World Record Attempt at 81",
+      "content_html": "Facing life on her own for the first time in 60 years, Bonnie Sumner discovered she had a special skill for hanging from a pull-up bar.",
+      "content_text": "Facing life on her own for the first time in 60 years, Bonnie Sumner discovered she had a special skill for hanging from a pull-up bar.",
+      "date_published": "2026-01-30T17:22:18.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/climate/greenland-algae-melting-icesheet.html",
+      "url": "https://www.nytimes.com/2026/01/30/climate/greenland-algae-melting-icesheet.html",
+      "title": "Algae Growth on Greenland’s Ice Contributes to Melting, Studies Show",
+      "content_html": "New studies show how algae grows on ice and snow, creating “dark zones” that exacerbate melting in the consequential region.",
+      "content_text": "New studies show how algae grows on ice and snow, creating “dark zones” that exacerbate melting in the consequential region.",
+      "date_published": "2026-01-30T17:11:07.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html",
@@ -62,6 +86,14 @@
       "date_published": "2026-01-30T15:32:21.000Z"
     },
     {
+      "id": "https://www.nytimes.com/2026/01/30/style/maga-trump-base-minnesota.html",
+      "url": "https://www.nytimes.com/2026/01/30/style/maga-trump-base-minnesota.html",
+      "title": "Is the ‘Influencer Right’ at Odds With Trump Over Minnesota?",
+      "content_html": "A vocal group of Trump supporters broke with the president when he appeared to backpedal on his immigration crackdown in Minneapolis. Is it a rift, or just a passing mood?",
+      "content_text": "A vocal group of Trump supporters broke with the president when he appeared to backpedal on his immigration crackdown in Minneapolis. Is it a rift, or just a passing mood?",
+      "date_published": "2026-01-30T15:29:35.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/world/europe/netherlands-government-rob-jetten.html",
       "url": "https://www.nytimes.com/2026/01/30/world/europe/netherlands-government-rob-jetten.html",
       "title": "The Netherlands Is Getting a New Government. Will It Last?",
@@ -100,6 +132,14 @@
       "content_html": "Iran’s foreign minister ruled out direct talks unless President Trump stops threatening to attack it. He also said Iran would not discuss its ballistic missiles.",
       "content_text": "Iran’s foreign minister ruled out direct talks unless President Trump stops threatening to attack it. He also said Iran would not discuss its ballistic missiles.",
       "date_published": "2026-01-30T13:02:48.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/asia/crying-horse-toy-china.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/asia/crying-horse-toy-china.html",
+      "title": "Born of a Factory Mistake, This Sad Toy Horse Captures China’s Mood",
+      "content_html": "A manufacturing error turned a Lunar New Year toy into an unlikely emblem of workplace fatigue.",
+      "content_text": "A manufacturing error turned a Lunar New Year toy into an unlikely emblem of workplace fatigue.",
+      "date_published": "2026-01-30T12:46:27.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/us/trump-alex-pretti-agitator-minneapolis-shooting-ice.html",

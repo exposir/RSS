@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/climate/us-grids-are-surviving-the-winter-storm-but-the-next-5-years-could-be-rough.html",
+      "url": "https://www.nytimes.com/2026/01/30/climate/us-grids-are-surviving-the-winter-storm-but-the-next-5-years-could-be-rough.html",
+      "title": "U.S. Grids Are Surviving the Winter Storm. But the Next 5 Years Could be Rough.",
+      "content_html": "A group that monitors the nation’s electricity system warns that grid reliability is “worsening” and blackout risks are rising for millions of people.",
+      "content_text": "A group that monitors the nation’s electricity system warns that grid reliability is “worsening” and blackout risks are rising for millions of people.",
+      "date_published": "2026-01-30T19:01:00.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/climate/antarctica-thwaites-glacier-drilling.html",
       "url": "https://www.nytimes.com/2026/01/30/climate/antarctica-thwaites-glacier-drilling.html",
       "title": "Drilling Through the Thwaites Glacier for Clues to Its Melting",

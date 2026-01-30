@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/world/americas/trump-oil-cuba-government.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/americas/trump-oil-cuba-government.html",
+      "title": "Trump Moves to Cut All Oil to Cuba as U.S. Takes Aim at Its Government",
+      "content_html": "President Trump’s threat to impose tariffs on any country that delivers oil to Cuba appeared to be directed largely at Mexico, the only nation that has sent any meaningful fuel shipments to the island.",
+      "content_text": "President Trump’s threat to impose tariffs on any country that delivers oil to Cuba appeared to be directed largely at Mexico, the only nation that has sent any meaningful fuel shipments to the island.",
+      "date_published": "2026-01-30T19:15:02.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/climate/antarctica-thwaites-glacier-drilling.html",
       "url": "https://www.nytimes.com/2026/01/30/climate/antarctica-thwaites-glacier-drilling.html",
       "title": "Drilling Through the Thwaites Glacier for Clues to Its Melting",

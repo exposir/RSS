@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46824098",
+      "url": "https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers",
+      "title": "Wisconsin communities signed secrecy deals for billion-dollar data centers",
+      "content_html": "<p>Article URL: <a href=\"https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers\">https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46824098\">https://news.ycombinator.com/item?id=46824098</a></p>\n<p>Points: 267</p>\n<p># Comments: 296</p>",
+      "content_text": "Article URL: https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers\nComments URL: https://news.ycombinator.com/item?id=46824098\nPoints: 267\n# Comments: 296",
+      "date_published": "2026-01-30T13:23:53.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46822632",
       "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
       "title": "Tesla’s autonomous vehicles are crashing at a rate much higher tha human drivers",

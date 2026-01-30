@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "fe76b246-8425-49ff-89a6-2858d2cc4c9b",
+      "url": "https://www.smh.com.au/national/queensland/the-test-changing-how-one-of-australia-s-deadliest-cancers-is-treated-20260129-p5ny3g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The test changing how one of Australia’s deadliest cancers is treated",
+      "content_html": "The diagnostic device requires little more than a non-invasive blood sample and was developed in a Queensland lab.",
+      "content_text": "The diagnostic device requires little more than a non-invasive blood sample and was developed in a Queensland lab.",
+      "date_published": "2026-01-30T19:00:00.000Z"
+    },
+    {
+      "id": "89bcc8e6-e373-45c2-a1dd-731c40358e3b",
+      "url": "https://www.smh.com.au/national/queensland/the-dangerous-outlawed-health-item-in-organic-store-fridges-20260127-p5nxfi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The ‘dangerous’ outlawed health item in organic store fridges",
+      "content_html": "A dairy industry leader has slammed the inclusion of unpasteurised milk in an organic store chain’s regular dairy display as misleading and unsafe.",
+      "content_text": "A dairy industry leader has slammed the inclusion of unpasteurised milk in an organic store chain’s regular dairy display as misleading and unsafe.",
+      "date_published": "2026-01-30T19:00:00.000Z"
+    },
+    {
+      "id": "ce267b7c-04b5-48a4-ae98-3c0279b3ca7f",
+      "url": "https://www.smh.com.au/culture/celebrity/catherine-o-hara-emmy-winning-comedian-dies-at-71-20260131-p5nygl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Catherine O’Hara, Emmy-winning comedian of Schitt’s Creek, dies at 71",
+      "content_html": "The Canadian-born actor was known for comedic roles across the decades – from Kevin’s beleaguered mum in Home Alone to the iconic Moira Rose.",
+      "content_text": "The Canadian-born actor was known for comedic roles across the decades – from Kevin’s beleaguered mum in Home Alone to the iconic Moira Rose.",
+      "date_published": "2026-01-30T18:47:47.000Z"
+    },
+    {
       "id": "a1d9349f-2fdb-474a-a222-41754cd43a0f",
       "url": "https://www.smh.com.au/world/north-america/luigi-mangione-won-t-face-death-penalty-after-judge-dismisses-murder-charge-20260131-p5nygj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Luigi Mangione won’t face death penalty after judge dismisses murder charge",
