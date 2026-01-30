@@ -33,86 +33,37 @@ export default function RSSReader() {
   }, [])
 
   // Layout persistence logic
-  const handleLayoutChanged = (layout: { [id: string]: number }) => {
-    if (isDesktop && layout['left-panel'] && layout['left-panel'] < 18) return
-    if (typeof window !== 'undefined') {
-      localStorage.setItem('rss-reader-layout-v2', JSON.stringify(layout))
-    }
-  }
+  const [layout, setLayout] = useState<number[]>([20, 30, 50])
 
-  const [defaultLayout, setDefaultLayout] = useState<{ [id: string]: number } | undefined>(undefined)
   useEffect(() => {
     if (typeof window !== 'undefined' && isDesktop) {
       try {
-        const savedLayout = localStorage.getItem('rss-reader-layout-v2')
+        const savedLayout = localStorage.getItem('rss-reader-layout-v3')
         if (savedLayout) {
-          const layoutData = JSON.parse(savedLayout)
-          if (layoutData?.['left-panel'] >= 18) setDefaultLayout(layoutData)
+          const sizes = JSON.parse(savedLayout)
+          if (Array.isArray(sizes) && sizes.length === 3) {
+             // Validate left panel size
+             if (sizes[0] >= 15) {
+               setLayout(sizes)
+             }
+          }
         }
       } catch (e) { console.error(e) }
     }
   }, [isDesktop])
 
-  // Filter Logic
-  const filteredArticles = useMemo(() => {
-    let articles: Article[] = []
-    const today = new Date()
-    const yesterday = new Date()
-    yesterday.setDate(yesterday.getDate() - 1)
-
-    // 1. Gather articles
-    if (selectedFeed === 'today') {
-      feeds.forEach((feed, feedId) => {
-        const feedInfo = feedIndex.find(f => f.id === feedId)
-        feed.items?.forEach(item => {
-          if (isDateMatch(item.date_published, today)) {
-            articles.push({ ...item, source: feed.title || feedInfo?.name || '', feedId })
-          }
-        })
-      })
-    } else if (selectedFeed === 'yesterday') {
-      feeds.forEach((feed, feedId) => {
-        const feedInfo = feedIndex.find(f => f.id === feedId)
-        feed.items?.forEach(item => {
-          if (isDateMatch(item.date_published, yesterday)) {
-            articles.push({ ...item, source: feed.title || feedInfo?.name || '', feedId })
-          }
-        })
-      })
-    } else {
-      const feed = feeds.get(selectedFeed)
-      const feedInfo = feedIndex.find(f => f.id === selectedFeed)
-      if (feed && feed.items) {
-        articles = feed.items.map(item => ({
-          ...item,
-          source: feed.title || feedInfo?.name || '',
-          feedId: selectedFeed
-        }))
-      }
+  const onLayout = (sizes: number[]) => {
+    if (isDesktop) {
+       // Guard against too small left panel
+       if (sizes[0] < 15) return
+       setLayout(sizes)
+       if (typeof window !== 'undefined') {
+         localStorage.setItem('rss-reader-layout-v3', JSON.stringify(sizes))
+       }
     }
+  }
 
-    // 2. Search
-    if (searchQuery.trim()) {
-      const q = searchQuery.toLowerCase().trim()
-      articles = articles.filter(a =>
-        a.title.toLowerCase().includes(q) ||
-        a.source.toLowerCase().includes(q)
-      )
-    }
-
-    // 3. Sort
-    return articles.sort((a, b) =>
-      new Date(b.date_published).getTime() - new Date(a.date_published).getTime()
-    )
-  }, [feeds, feedIndex, selectedFeed, searchQuery])
-
-  const selectedFeedName = useMemo(() => {
-    if (selectedFeed === 'today') return '今日更新'
-    if (selectedFeed === 'yesterday') return '昨日回顾'
-    return feedIndex.find(f => f.id === selectedFeed)?.name || '未知订阅源'
-  }, [selectedFeed, feedIndex])
-
-  if (!isMounted) return null
+  // ... (inside return)
 
   return (
     <div className="h-screen w-full bg-background text-foreground flex flex-col">
@@ -120,16 +71,15 @@ export default function RSSReader() {
         key={isDesktop ? "desktop-layout" : "mobile-layout"}
         direction="horizontal"
         className="flex-1 h-full items-stretch"
-        id="rss-reader-group-v2"
-        defaultLayout={defaultLayout}
-        onLayoutChanged={handleLayoutChanged}
+        id="rss-reader-group-v3"
+        onLayout={onLayout}
       >
         {/* Left: Feed List */}
         {isDesktop && (
           <>
             <ResizablePanel
               id="left-panel"
-              defaultSize={20}
+              defaultSize={layout[0]}
               minSize={18}
               maxSize={35}
               collapsible={false}
@@ -151,7 +101,7 @@ export default function RSSReader() {
         {/* Middle: Article List */}
         <ResizablePanel
           id="middle-panel"
-          defaultSize={isDesktop ? 30 : 100}
+          defaultSize={isDesktop ? layout[1] : 100}
           minSize={20}
           className={cn("border-r border-border overflow-hidden", !isDesktop && "w-full border-none")}
         >
@@ -175,7 +125,7 @@ export default function RSSReader() {
         {isDesktop && (
           <>
             <ResizableHandle />
-            <ResizablePanel id="right-panel" defaultSize={50} className="bg-background overflow-hidden">
+            <ResizablePanel id="right-panel" defaultSize={layout[2]} className="bg-background overflow-hidden">
               <ArticleDetail article={selectedArticle} />
             </ResizablePanel>
           </>
