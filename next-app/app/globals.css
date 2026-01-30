@@ -144,3 +144,25 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Immersive Translation Styles */
+.immersive-translate-target font,
+.immersive-translate-target span[lang] {
+  display: block !important;
+  margin-top: 0 !important;
+  font-size: 1em !important;
+  opacity: 1 !important;
+  line-height: 1.5 !important;
+}
+.immersive-translate-target br {
+  display: none !important;
+}
+.immersive-translate-source font,
+.immersive-translate-source span[lang] {
+  display: block !important;
+  margin-top: 2px !important;
+  width: 100% !important;
+}
+.immersive-translate-source br {
+  display: none !important;
+}

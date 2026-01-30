@@ -1,24 +1,21 @@
 /**
  * [INPUT]: 依赖 useFeeds Hook 获取数据
- * [OUTPUT]: 渲染主页面 (三栏布局: 订阅源-列表-详情)
+ * [OUTPUT]: 渲染主页面 (三栏布局: FeedList - ArticleList - ArticleDetail)
  * [POS]: next-app/app/ 核心页面组件
  * [PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
  */
+
 'use client'
 
 import { useState, useMemo, useEffect } from 'react'
-import { Virtuoso } from 'react-virtuoso'
 import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from '@/components/ui/resizable'
-import { ScrollArea } from '@/components/ui/scroll-area'
-import { Button } from '@/components/ui/button'
-import { Input } from '@/components/ui/input'
-import { Separator } from '@/components/ui/separator'
-import { Badge } from '@/components/ui/badge'
-import { ThemeToggle } from '@/components/theme-toggle'
 import { useFeeds, Article } from '@/hooks/useFeeds'
 import { useMediaQuery } from '@/hooks/use-media-query'
 import { cn } from '@/lib/utils'
-import { Search, RotateCw, Calendar, ChevronLeft, ExternalLink } from 'lucide-react'
+import { isDateMatch } from '@/lib/date'
+import { FeedList } from '@/components/FeedList'
+import { ArticleList } from '@/components/ArticleList'
+import { ArticleDetail } from '@/components/ArticleDetail'
 
 export default function RSSReader() {
   const { feedIndex, feeds, loading, loadingIndex, loadedCount, error, loadAllFeeds } = useFeeds()
@@ -32,127 +29,38 @@ export default function RSSReader() {
 
   useEffect(() => {
     setIsMounted(true)
+    // Clear old layout data logic if needed...
+  }, [])
 
-    // Clear old layout data and migrate to new version
-    if (typeof window !== 'undefined' && isDesktop) {
-      try {
-        // Clear old keys that may have corrupt data
-        localStorage.removeItem('rss-reader-layout')
-        // Also clear any other layout-related keys from old versions
-        const keysToRemove: string[] = []
-        for (let i = 0; i < localStorage.length; i++) {
-          const key = localStorage.key(i)
-          if (key && (key.includes('react-resizable-panels') || key === 'rss-reader-layout')) {
-            keysToRemove.push(key)
-          }
-        }
-        keysToRemove.forEach(key => localStorage.removeItem(key))
-      } catch (e) {
-        console.error('Error clearing layout data:', e)
-      }
-    }
-  }, [isDesktop])
-
-  // Monitor and protect layout to ensure left panel is not too small
+  // Layout persistence logic
   const handleLayoutChanged = (layout: { [id: string]: number }) => {
-    if (isDesktop && layout['left-panel']) {
-      // Ensure left panel is at least 18%
-      if (layout['left-panel'] < 18) {
-        console.warn('Left panel too small, skipping save')
-        return
-      }
-    }
-    // Save to localStorage with new key
+    if (isDesktop && layout['left-panel'] && layout['left-panel'] < 18) return
     if (typeof window !== 'undefined') {
-      try {
-        localStorage.setItem('rss-reader-layout-v2', JSON.stringify(layout))
-      } catch (e) {
-        console.error('Error saving layout:', e)
-      }
+      localStorage.setItem('rss-reader-layout-v2', JSON.stringify(layout))
     }
   }
 
-  // Load default layout from localStorage
   const [defaultLayout, setDefaultLayout] = useState<{ [id: string]: number } | undefined>(undefined)
-
   useEffect(() => {
     if (typeof window !== 'undefined' && isDesktop) {
       try {
         const savedLayout = localStorage.getItem('rss-reader-layout-v2')
         if (savedLayout) {
           const layoutData = JSON.parse(savedLayout)
-          if (layoutData && typeof layoutData === 'object') {
-            // Validate the loaded layout
-            if (layoutData['left-panel'] && layoutData['left-panel'] >= 18) {
-              setDefaultLayout(layoutData)
-            }
-          }
+          if (layoutData?.['left-panel'] >= 18) setDefaultLayout(layoutData)
         }
-      } catch (e) {
-        console.error('Error loading layout:', e)
-      }
+      } catch (e) { console.error(e) }
     }
   }, [isDesktop])
 
-  // Helper: check if date matches today/yesterday
-  const isDateMatch = (dateStr: string, targetDate: Date) => {
-    const d = new Date(dateStr)
-    return d.getDate() === targetDate.getDate() &&
-           d.getMonth() === targetDate.getMonth() &&
-           d.getFullYear() === targetDate.getFullYear()
-  }
-
-  // Calculate counts
-  const todayCount = useMemo(() => {
-    let count = 0
-    const today = new Date()
-    feeds.forEach(feed => {
-      feed.items?.forEach(item => {
-        if (isDateMatch(item.date_published, today)) count++
-      })
-    })
-    return count
-  }, [feeds])
-
-  const yesterdayCount = useMemo(() => {
-    let count = 0
-    const yesterday = new Date()
-    yesterday.setDate(yesterday.getDate() - 1)
-    feeds.forEach(feed => {
-      feed.items?.forEach(item => {
-        if (isDateMatch(item.date_published, yesterday)) count++
-      })
-    })
-    return count
-  }, [feeds])
-
-  const getFeedCount = (feedId: string) => {
-    return feeds.get(feedId)?.items?.length || 0
-  }
-
-  // Check if feed has articles published today
-  const hasTodayUpdate = (feedId: string) => {
-    const feedData = feeds.get(feedId)
-    if (!feedData?.items) return false
-
-    const today = new Date()
-    today.setHours(0, 0, 0, 0)
-
-    return feedData.items.some(item => {
-      const articleDate = new Date(item.date_published)
-      articleDate.setHours(0, 0, 0, 0)
-      return articleDate.getTime() === today.getTime()
-    })
-  }
-
-  // Filter articles
+  // Filter Logic
   const filteredArticles = useMemo(() => {
     let articles: Article[] = []
     const today = new Date()
     const yesterday = new Date()
     yesterday.setDate(yesterday.getDate() - 1)
 
-    // 1. Gather articles based on selection
+    // 1. Gather articles
     if (selectedFeed === 'today') {
       feeds.forEach((feed, feedId) => {
         const feedInfo = feedIndex.find(f => f.id === feedId)
@@ -172,7 +80,6 @@ export default function RSSReader() {
         })
       })
     } else {
-      // Specific feed
       const feed = feeds.get(selectedFeed)
       const feedInfo = feedIndex.find(f => f.id === selectedFeed)
       if (feed && feed.items) {
@@ -184,7 +91,7 @@ export default function RSSReader() {
       }
     }
 
-    // 2. Apply search filter
+    // 2. Search
     if (searchQuery.trim()) {
       const q = searchQuery.toLowerCase().trim()
       articles = articles.filter(a =>
@@ -193,33 +100,11 @@ export default function RSSReader() {
       )
     }
 
-    // 3. Sort by date desc
+    // 3. Sort
     return articles.sort((a, b) =>
       new Date(b.date_published).getTime() - new Date(a.date_published).getTime()
     )
   }, [feeds, feedIndex, selectedFeed, searchQuery])
-
-  // Formatting helpers
-  const formatDate = (dateStr: string) => {
-    const date = new Date(dateStr)
-    const now = new Date()
-    const diff = now.getTime() - date.getTime()
-    const minutes = Math.floor(diff / (1000 * 60))
-    const hours = Math.floor(diff / (1000 * 60 * 60))
-    const days = Math.floor(diff / (1000 * 60 * 60 * 24))
-
-    if (minutes < 1) return '刚刚'  // 1分钟内
-    if (minutes < 60) return `${minutes}分钟前`  // 1小时内
-    if (hours < 24) return `${hours}小时前`  // 24小时内
-    if (days < 7) return `${days}天前`  // 7天内
-    return date.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' })
-  }
-
-  const formatDetailDate = (dateStr: string) => {
-    return new Date(dateStr).toLocaleString('zh-CN', {
-      year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'
-    })
-  }
 
   const selectedFeedName = useMemo(() => {
     if (selectedFeed === 'today') return '今日更新'
@@ -239,241 +124,63 @@ export default function RSSReader() {
         defaultLayout={defaultLayout}
         onLayoutChanged={handleLayoutChanged}
       >
-
-        {/* LEFT COLUMN: Feeds List */}
+        {/* Left: Feed List */}
         {isDesktop && (
           <>
             <ResizablePanel
               id="left-panel"
-              defaultSize="20"
-              minSize="15"
-              maxSize="35"
+              defaultSize={20}
+              minSize={15}
+              maxSize={35}
               collapsible={false}
               className="border-r border-border overflow-hidden"
             >
-              <div className="flex flex-col h-full overflow-hidden">
-                <div className="p-4 border-b border-border flex items-center justify-between flex-shrink-0">
-                  <h2 className="font-semibold">订阅源</h2>
-                  <span className="text-xs text-muted-foreground">{feedIndex.length} 个</span>
-                </div>
-                <div className="flex-1 overflow-y-auto">
-                  <div className="p-2 space-y-1">
-                    {/* Error State */}
-                    {error && (
-                      <div className="p-2 mb-2 text-xs text-destructive bg-destructive/10 rounded">
-                        加载错误: {error}
-                      </div>
-                    )}
-                    <Button
-                      variant={selectedFeed === 'today' ? "secondary" : "ghost"}
-                      className="w-full justify-start font-normal"
-                      onClick={() => { setSelectedFeed('today'); setSelectedArticle(null); }}
-                    >
-                      <Calendar className="mr-2 h-4 w-4" />
-                      <span className="flex-1 text-left">今日</span>
-                      {todayCount > 0 && <Badge variant="secondary" className="ml-auto text-xs">{todayCount}</Badge>}
-                    </Button>
-                    <Button
-                      variant={selectedFeed === 'yesterday' ? "secondary" : "ghost"}
-                      className="w-full justify-start font-normal"
-                      onClick={() => { setSelectedFeed('yesterday'); setSelectedArticle(null); }}
-                    >
-                      <ChevronLeft className="mr-2 h-4 w-4" />
-                      <span className="flex-1 text-left">昨日</span>
-                      {yesterdayCount > 0 && <Badge variant="secondary" className="ml-auto text-xs">{yesterdayCount}</Badge>}
-                    </Button>
-
-                    <Separator className="my-2" />
-
-                    {loadingIndex ? (
-                      <div className="p-4 text-center text-sm text-muted-foreground">加载中...</div>
-                    ) : (
-                      feedIndex.map(feed => {
-                        const hasUpdate = hasTodayUpdate(feed.id)
-                        return (
-                          <Button
-                            key={feed.id}
-                            variant={selectedFeed === feed.id ? "secondary" : "ghost"}
-                            className="w-full justify-start font-normal truncate"
-                            onClick={() => { setSelectedFeed(feed.id); setSelectedArticle(null); }}
-                          >
-                            {hasUpdate && (
-                              <span className="mr-2 flex-shrink-0 w-2 h-2 rounded-full bg-blue-500 animate-pulse" title="今日有更新" />
-                            )}
-                            <span className="truncate flex-1 text-left">{feed.name}</span>
-                            {getFeedCount(feed.id) > 0 && (
-                              <span className="ml-2 text-xs text-muted-foreground">{getFeedCount(feed.id)}</span>
-                            )}
-                          </Button>
-                        )
-                      })
-                    )}
-                  </div>
-                </div>
-              </div>
+              <FeedList
+                feedIndex={feedIndex}
+                feeds={feeds}
+                selectedFeed={selectedFeed}
+                onSelect={(id) => { setSelectedFeed(id); setSelectedArticle(null); }}
+                loadingIndex={loadingIndex}
+                error={error}
+              />
             </ResizablePanel>
             <ResizableHandle />
           </>
         )}
 
-        {/* MIDDLE COLUMN: Article List */}
+        {/* Middle: Article List */}
         <ResizablePanel
           id="middle-panel"
-          defaultSize={isDesktop ? "30" : "100"}
-          minSize="20"
+          defaultSize={isDesktop ? 30 : 100}
+          minSize={20}
           className={cn("border-r border-border overflow-hidden", !isDesktop && "w-full border-none")}
         >
-          <div className="flex flex-col h-full">
-            <div className="p-4 border-b border-border space-y-3">
-              <div className="flex items-center justify-between">
-                <h2 className="font-semibold text-lg truncate pr-2">{selectedFeedName}</h2>
-                <div className="flex items-center gap-2">
-                  <ThemeToggle />
-                  <Button
-                    variant="ghost"
-                    size="sm"
-                    className="h-8 text-muted-foreground"
-                    onClick={() => {
-                      try { localStorage.clear() } catch (e) {}
-                      window.location.reload()
-                    }}
-                    title="重置布局"
-                  >
-                    重置
-                  </Button>
-                  <Button
-                    variant="outline"
-                    size="sm"
-                    onClick={loadAllFeeds}
-                    disabled={loading}
-                    className="h-8"
-                  >
-                    <RotateCw className={cn("h-3.5 w-3.5 mr-2", loading && "animate-spin")} />
-                    {loading ? `${loadedCount}/${feedIndex.length}` : "刷新"}
-                  </Button>
-                </div>
-              </div>
-              <div className="relative">
-                <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
-                <Input
-                  placeholder="搜索文章标题或来源..."
-                  className="pl-9"
-                  value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
-                />
-              </div>
-              {!isDesktop && error && (
-                <div className="p-2 text-xs text-destructive bg-destructive/10 rounded">
-                  加载错误: {error}
-                </div>
-              )}
-            </div>
-
-            <div className="flex-1 min-h-0">
-              {filteredArticles.length === 0 && !loading ? (
-                <div className="flex flex-col items-center justify-center h-40 text-muted-foreground">
-                  <p>暂无文章</p>
-                </div>
-              ) : (
-                <Virtuoso
-                  style={{ height: '100%' }}
-                  data={filteredArticles}
-                  itemContent={(index, article) => (
-                    <div
-                      key={`${article.feedId}-${article.id}`}
-                      className={cn(
-                        "p-4 border-b border-border cursor-pointer hover:bg-muted/50 transition-colors",
-                        selectedArticle?.id === article.id && "bg-muted border-l-4 border-l-primary pl-[15px]"
-                      )}
-                      onClick={() => setSelectedArticle(article)}
-                    >
-                      <h3 className="font-medium text-sm leading-snug mb-1 line-clamp-2 md:line-clamp-none md:block md:whitespace-normal break-words immersive-translate-target">
-                        {article.title}
-                      </h3>
-                      <div className="flex items-center text-xs text-muted-foreground gap-2 mt-1.5 flex-wrap">
-                        <span className="font-medium text-foreground/80 immersive-translate-source block w-full md:w-auto">{article.source}</span>
-                        <span className="hidden md:inline">·</span>
-                        <span>{formatDate(article.date_published)}</span>
-                      </div>
-                    </div>
-                  )}
-                />
-              )}
-            </div>
-          </div>
+          <ArticleList
+            articles={filteredArticles}
+            selectedArticleId={selectedArticle?.id}
+            onSelect={setSelectedArticle}
+            searchQuery={searchQuery}
+            setSearchQuery={setSearchQuery}
+            title={selectedFeedName}
+            loading={loading}
+            loadedCount={loadedCount}
+            totalCount={feedIndex.length}
+            onRefresh={loadAllFeeds}
+            error={error}
+            isDesktop={isDesktop}
+          />
         </ResizablePanel>
 
-        {/* RIGHT COLUMN: Detail */}
+        {/* Right: Detail */}
         {isDesktop && (
           <>
             <ResizableHandle />
-            <ResizablePanel id="right-panel" defaultSize="50" className="bg-background overflow-hidden">
-              {selectedArticle ? (
-                <div className="flex flex-col h-full overflow-hidden">
-                  <div className="p-6 border-b border-border flex-shrink-0">
-                    <a
-                      href={selectedArticle.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-2xl font-bold hover:text-primary hover:underline block mb-2 leading-tight"
-                    >
-                      {selectedArticle.title}
-                      <ExternalLink className="inline-block ml-2 h-5 w-5 opacity-50" />
-                    </a>
-                    <div className="flex items-center text-sm text-muted-foreground gap-2 mt-3">
-                      <span className="font-medium text-foreground">{selectedArticle.source}</span>
-                      <span>·</span>
-                      <span>{formatDetailDate(selectedArticle.date_published)}</span>
-                    </div>
-                  </div>
-                  <div className="flex-1 overflow-y-auto">
-                    <div
-                      className={cn(
-                        "p-8 prose prose-slate dark:prose-invert max-w-none",
-                        "prose-h1:text-2xl prose-h2:text-xl prose-h3:text-lg",
-                        "prose-a:text-primary prose-a:no-underline hover:prose-a:underline",
-                        "prose-img:rounded-lg prose-img:border prose-img:border-border"
-                      )}
-                      dangerouslySetInnerHTML={{ __html: selectedArticle.content_html }}
-                    />
-                  </div>
-                </div>
-              ) : (
-                <div className="flex items-center justify-center h-full text-muted-foreground">
-                  <div className="text-center">
-                    <p>请选择一篇文章开始阅读</p>
-                  </div>
-                </div>
-              )}
+            <ResizablePanel id="right-panel" defaultSize={50} className="bg-background overflow-hidden">
+              <ArticleDetail article={selectedArticle} />
             </ResizablePanel>
           </>
         )}
-
       </ResizablePanelGroup>
-
-      {/* Immersive Translation Styles */}
-      <style jsx global>{`
-        .immersive-translate-target font,
-        .immersive-translate-target span[lang] {
-          display: block !important;
-          margin-top: 0 !important;
-          font-size: 1em !important;
-          opacity: 1 !important;
-          line-height: 1.5 !important;
-        }
-        .immersive-translate-target br {
-          display: none !important;
-        }
-        .immersive-translate-source font,
-        .immersive-translate-source span[lang] {
-          display: block !important;
-          margin-top: 2px !important;
-          width: 100% !important;
-        }
-        .immersive-translate-source br {
-          display: none !important;
-        }
-      `}</style>
     </div>
   )
 }
