@@ -17,6 +17,38 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189641",
+      "url": "https://www.v2ex.com/t/1189641#reply0",
+      "title": "[云计算] 甲骨文 MFA 找客服重置，银行卡早已注销，但客服说卡仍然有效",
+      "content_html": "21 年 8 月注册的甲骨文，用的中行长城全币通金卡，当时卡面有效期是到 23 年 11 月（找中行客服和网点来回拉扯了几次终于问到了），21 年底我就注销了该卡，找客服重置 MFA ，结果被告知，该卡片在甲骨文的系统中仍然是有效状态，原话是<br /><br />The card is still valid in our systems once it expires we can ignore it<br /><br />然后客服稍微透漏下有效期不是今年，这种情况我该怎么知道有效期，有没有大佬们遇到过类似的情况",
+      "content_text": "21 年 8 月注册的甲骨文，用的中行长城全币通金卡，当时卡面有效期是到 23 年 11 月（找中行客服和网点来回拉扯了几次终于问到了），21 年底我就注销了该卡，找客服重置 MFA ，结果被告知，该卡片在甲骨文的系统中仍然是有效状态，原话是The card is still valid in our systems once it expires we can ignore it然后客服稍微透漏下有效期不是今年，这种情况我该怎么知道有效期，有没有大佬们遇到过类似的情况",
+      "date_published": "2026-01-30T13:24:05.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189639",
+      "url": "https://www.v2ex.com/t/1189639#reply0",
+      "title": "[HodlAI] 期望开放下 newapi 的后台",
+      "content_html": "毕竟是现成的功能，开发成本应该只是登录的接入？开放后台以后可以直接允许每个人自己创建 key 和看实时用量（现在和官网同步应该有个延迟），更加灵活和透明",
+      "content_text": "毕竟是现成的功能，开发成本应该只是登录的接入？开放后台以后可以直接允许每个人自己创建 key 和看实时用量（现在和官网同步应该有个延迟），更加灵活和透明",
+      "date_published": "2026-01-30T13:09:10.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189638",
+      "url": "https://www.v2ex.com/t/1189638#reply2",
+      "title": "[电动汽车] 尊界 S800 智驾中突然偏离主干道，撞向路边正在作业的环卫工人，是真的不？",
+      "content_html": "<a target=\"_blank\" href=\"https://chejiahao.autohome.com.cn/info/24805974\" rel=\"nofollow noopener\">https://chejiahao.autohome.com.cn/info/24805974</a><br />尊界 S800 智驾中突然偏离主干道，撞向路边正在作业的环卫工人<br />这新闻是真的不？怎么看？",
+      "content_text": "https://chejiahao.autohome.com.cn/info/24805974尊界 S800 智驾中突然偏离主干道，撞向路边正在作业的环卫工人这新闻是真的不？怎么看？",
+      "date_published": "2026-01-30T13:03:59.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189637",
+      "url": "https://www.v2ex.com/t/1189637#reply0",
+      "title": "[分享创造] [Resume as Code] 维护一份个人职业 Timeline，给每一份投递的岗位生成量身定做的匹配简历",
+      "content_html": "<p>人话：</p>\n<p>每次找工作准备简历的时候都巨烦，认真写一份简历很费精力，一份简历又不可能适用不同的应聘岗位。我工作了很多年，做了很多项目，懂很多的技术，又不能一股脑把这些全堆砌在简历上，不写吧，有些岗位又要求这些，又不可能为每一份投递的岗位都专门改一份简历，那得累死。</p>\n<p>我突然想到，我只需要维护好个人职业生涯的 timeline ，像写日记一样，非常详尽的把工作经历、项目经历作为事件记录下来，可以把想到的全部内容都加上去，最后分析 JD 并结合 timeline 生成一份高度匹配的简历。</p>\n<p>如何自动化，最简单的就是借助我每天都在用的 Trae/GitHub Copilot 这些 AI 编程工具，把它作为 Agent 框架，只需要写提示词就能开发一个个 AI Agent 和 AI Workflow 。</p>\n<p>这样写简历就像写代码一样，只需要粘贴 JD （提需求）就能全自动出一份简历，还可以版本管理，。</p>\n<p>--</p>\n<p>以下是 AI 整理的内容：</p>\n<p>最近我在整理简历准备看机会的时候，深感维护简历的痛苦。</p>\n<h3>😫 我们通常面临的痛点</h3>\n<ol>\n<li><strong>版本混乱</strong>：文件夹里全是 <code>简历_v1.pdf</code>, <code>简历_阿里版.pdf</code>, <code>简历_最终版_改.word</code>...</li>\n<li><strong>针对性差</strong>：如果不针对 JD （职位描述）修改简历，通过率低；但如果要一个个改，不仅耗时，还容易顾此失彼，导致排版乱套。</li>\n<li><strong>内容枯燥</strong>：很多时候写的项目经历像流水账，不知道怎么用 STAR 法则去润色。</li>\n<li><strong>面试准备慌</strong>：发完简历后，针对这个岗位的面试题还得重新去搜、去背。</li>\n</ol>\n<p>为了解决这些问题，我开发了一个基于 <strong>\"Resume as Code\"</strong> 理念的开源工作流，利用 LLM （ GitHub Copilot / Trae ）来自动化这一过程。</p>\n<p>👉 <strong>GitHub 仓库</strong>： <a href=\"https://github.com/zhiweio/resume-as-code\" rel=\"nofollow\">https://github.com/zhiweio/resume-as-code</a>\n<em>(觉得有用的话求一个 Star ⭐️)</em></p>\n<hr/>\n<h3>💡 核心理念：Master Timeline (单一数据源)</h3>\n<p>我不建议维护一个“大而全”的 PDF 文档。这个项目的核心思想是将你的职业生涯看作一个<strong>数据库</strong>。</p>\n<ol>\n<li><strong>数据层</strong>：所有的工作经历、项目经验、教育背景，都以模块化的 <strong>YAML</strong> 文件存储。</li>\n<li><strong>逻辑层</strong>：利用 <strong>AI Agent</strong> 来处理这些数据（润色、筛选、组装）。</li>\n<li><strong>表现层</strong>：最后通过编译器生成 PDF/HTML/Markdown 。</li>\n</ol>\n<h3>🚀 对找工作/写简历的具体帮助</h3>\n<p>这个项目不仅仅是一个“简历生成器”，它是一个<strong>求职全流程辅助工具</strong>：</p>\n<h4>1. 告别“流水账”，自动润色经历 (Timeline Polishing Agent)</h4>\n<p>你只需要把平时工作的“大白话”或者 Git Commit 记录丢给 AI ，它会自动根据 <strong>STAR 法则</strong>（情境、任务、行动、结果）将原本平淡的描述转化为专业的职场语言，并存入你的经历库中。</p>\n<h4>2. 针对 JD 生成“定制化”简历 (Resume Generation Agent)</h4>\n<p>这是最核心的功能。当你看到一个心仪的岗位：</p>\n<ul>\n<li>复制 JD 内容给 AI 。</li>\n<li>AI 会自动分析 JD 的关键词和技术栈。</li>\n<li><strong>AI 从你的经历库中挑选最匹配的项目和经验</strong>，自动生成一份专属简历。</li>\n<li><strong>结果</strong>：你的简历与 JD 高度匹配，显著提高 HR 筛选通过率和 ATS 系统评分。</li>\n</ul>\n<h4>3. 自动生成面试“作弊小抄” (Interview Preparation Agent)</h4>\n<p>简历投递后，利用刚生成的简历文件 + JD + 公司背景分析，AI 会为你生成一份详细的<strong>面试指南</strong>，包含：</p>\n<ul>\n<li>针对该岗位的自我介绍策略。</li>\n<li>简历中每个项目的深挖问题预测（ Deep Dive ）。</li>\n<li>针对性的技术栈 Q&A 。</li>\n<li>高质量的反向面试问题。</li>\n</ul>\n<hr/>\n<h3>🛠️ 技术栈与工作流</h3>\n<ul>\n<li><strong>标准</strong>：基于 <a href=\"https://yamlresume.dev\" rel=\"nofollow\">YAMLResume</a> 标准，支持导出 LaTeX PDF, HTML 等多种格式。</li>\n<li><strong>AI 支持</strong>：深度集成 <strong>GitHub Copilot</strong> 或 <strong>Trae</strong>。你不需要额外部署复杂的后台，直接在 IDE 里通过 Chat 交互即可完成所有操作。</li>\n<li><strong>隐私安全</strong>：所有数据都在本地（ Local-first ），你的经历和隐私掌握在自己手中。</li>\n</ul>\n<h3>👋 结语</h3>\n<p>这个项目原本是我自己为了偷懒和提高效率写的，但在使用过程中发现它极大地缓解了我的求职焦虑。如果你也是习惯用 Markdown/YAML 记录一切的开发者，或者正在为修改简历而头秃，欢迎试用并提 PR ！</p>\n<p><strong>GitHub 地址</strong>：<a href=\"https://github.com/zhiweio/resume-as-code\" rel=\"nofollow\">zhiweio/resume-as-code</a>\n<strong>Gallery 示例</strong>：<a href=\"https://github.com/zhiweio/resume-as-code/blob/master/gallery\" rel=\"nofollow\">点击查看</a></p>\n<p>希望这能帮到大家，祝大家都能拿到满意的 Offer ！</p>",
+      "content_text": "人话：\n每次找工作准备简历的时候都巨烦，认真写一份简历很费精力，一份简历又不可能适用不同的应聘岗位。我工作了很多年，做了很多项目，懂很多的技术，又不能一股脑把这些全堆砌在简历上，不写吧，有些岗位又要求这些，又不可能为每一份投递的岗位都专门改一份简历，那得累死。\n我突然想到，我只需要维护好个人职业生涯的 timeline ，像写日记一样，非常详尽的把工作经历、项目经历作为事件记录下来，可以把想到的全部内容都加上去，最后分析 JD 并结合 timeline 生成一份高度匹配的简历。\n如何自动化，最简单的就是借助我每天都在用的 Trae/GitHub Copilot 这些 AI 编程工具，把它作为 Agent 框架，只需要写提示词就能开发一个个 AI Agent 和 AI Workflow 。\n这样写简历就像写代码一样，只需要粘贴 JD （提需求）就能全自动出一份简历，还可以版本管理，。\n--\n以下是 AI 整理的内容：\n最近我在整理简历准备看机会的时候，深感维护简历的痛苦。\n😫 我们通常面临的痛点\n\n版本混乱：文件夹里全是 简历_v1.pdf, 简历_阿里版.pdf, 简历_最终版_改.word...\n针对性差：如果不针对 JD （职位描述）修改简历，通过率低；但如果要一个个改，不仅耗时，还容易顾此失彼，导致排版乱套。\n内容枯燥：很多时候写的项目经历像流水账，不知道怎么用 STAR 法则去润色。\n面试准备慌：发完简历后，针对这个岗位的面试题还得重新去搜、去背。\n\n为了解决这些问题，我开发了一个基于 \"Resume as Code\" 理念的开源工作流，利用 LLM （ GitHub Copilot / Trae ）来自动化这一过程。\n👉 GitHub 仓库： https://github.com/zhiweio/resume-as-code\n(觉得有用的话求一个 Star ⭐️)\n\n💡 核心理念：Master Timeline (单一数据源)\n我不建议维护一个“大而全”的 PDF 文档。这个项目的核心思想是将你的职业生涯看作一个数据库。\n\n数据层：所有的工作经历、项目经验、教育背景，都以模块化的 YAML 文件存储。\n逻辑层：利用 AI Agent 来处理这些数据（润色、筛选、组装）。\n表现层：最后通过编译器生成 PDF/HTML/Markdown 。\n\n🚀 对找工作/写简历的具体帮助\n这个项目不仅仅是一个“简历生成器”，它是一个求职全流程辅助工具：\n1. 告别“流水账”，自动润色经历 (Timeline Polishing Agent)\n你只需要把平时工作的“大白话”或者 Git Commit 记录丢给 AI ，它会自动根据 STAR 法则（情境、任务、行动、结果）将原本平淡的描述转化为专业的职场语言，并存入你的经历库中。\n2. 针对 JD 生成“定制化”简历 (Resume Generation Agent)\n这是最核心的功能。当你看到一个心仪的岗位：\n\n复制 JD 内容给 AI 。\nAI 会自动分析 JD 的关键词和技术栈。\nAI 从你的经历库中挑选最匹配的项目和经验，自动生成一份专属简历。\n结果：你的简历与 JD 高度匹配，显著提高 HR 筛选通过率和 ATS 系统评分。\n\n3. 自动生成面试“作弊小抄” (Interview Preparation Agent)\n简历投递后，利用刚生成的简历文件 + JD + 公司背景分析，AI 会为你生成一份详细的面试指南，包含：\n\n针对该岗位的自我介绍策略。\n简历中每个项目的深挖问题预测（ Deep Dive ）。\n针对性的技术栈 Q&A 。\n高质量的反向面试问题。\n\n\n🛠️ 技术栈与工作流\n\n标准：基于 YAMLResume 标准，支持导出 LaTeX PDF, HTML 等多种格式。\nAI 支持：深度集成 GitHub Copilot 或 Trae。你不需要额外部署复杂的后台，直接在 IDE 里通过 Chat 交互即可完成所有操作。\n隐私安全：所有数据都在本地（ Local-first ），你的经历和隐私掌握在自己手中。\n\n👋 结语\n这个项目原本是我自己为了偷懒和提高效率写的，但在使用过程中发现它极大地缓解了我的求职焦虑。如果你也是习惯用 Markdown/YAML 记录一切的开发者，或者正在为修改简历而头秃，欢迎试用并提 PR ！\nGitHub 地址：zhiweio/resume-as-code\nGallery 示例：点击查看\n希望这能帮到大家，祝大家都能拿到满意的 Offer ！",
+      "date_published": "2026-01-30T12:57:12.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189634",
       "url": "https://www.v2ex.com/t/1189634#reply0",
       "title": "[HodlAI] HodlAI 项目经济模型的结构风险及战略优化方向建议",

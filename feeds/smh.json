@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "7a0e32a6-89d8-49b4-be5a-2ba7290e102c",
+      "url": "https://www.smh.com.au/sport/tennis/one-wears-gucci-and-appears-on-jimmy-fallon-the-other-gives-you-nothing-behind-the-women-s-final-20260130-p5ny9f.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "One wears Gucci and appears on Jimmy Fallon, the other gives you nothing: Behind the women’s final",
+      "content_html": "Fierce competitors and Australian open finalists Aryna Sabalenka and Elena Ryabakina could not be further apart.",
+      "content_text": "Fierce competitors and Australian open finalists Aryna Sabalenka and Elena Ryabakina could not be further apart.",
+      "date_published": "2026-01-30T13:55:08.000Z"
+    },
+    {
+      "id": "5c6671b8-13cd-472a-8d77-5cce4731cdd3",
+      "url": "https://www.smh.com.au/sport/tennis/djokovic-makes-it-a-five-set-epic-20260131-p5nyg1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic makes it a five-set epic",
+      "content_html": "Novak Djokovic wins the fourth set to force a late-night finish.",
+      "content_text": "Novak Djokovic wins the fourth set to force a late-night finish.",
+      "date_published": "2026-01-30T13:42:47.000Z"
+    },
+    {
+      "id": "3cf6fe82-2048-4f38-a6b7-b274b285fbeb",
+      "url": "https://www.smh.com.au/national/western-australia/tech-billionaire-laurence-escalante-accused-of-assaulting-ex-partner-20260130-p5nybf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Tech billionaire Laurence Escalante accused of assaulting ex-partner",
+      "content_html": "The 44-year-old West Australian billionaire spent a night behind bars before appearing in Perth Magistrates Court on Friday.",
+      "content_text": "The 44-year-old West Australian billionaire spent a night behind bars before appearing in Perth Magistrates Court on Friday.",
+      "date_published": "2026-01-30T13:17:15.000Z"
+    },
+    {
+      "id": "40e7e087-a11b-4cde-b44b-fbdc2a623a95",
+      "url": "https://www.smh.com.au/national/test-your-general-knowledge-with-the-good-weekend-quiz-20260128-p5nxnr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Test your general knowledge with the Good Weekend quiz",
+      "content_html": "Trivia buffs: can you get a perfect score in the interactive superquiz?",
+      "content_text": "Trivia buffs: can you get a perfect score in the interactive superquiz?",
+      "date_published": "2026-01-30T12:59:00.000Z"
+    },
+    {
       "id": "d1f46661-3443-454d-8ff4-5bd8f172da6f",
       "url": "https://www.smh.com.au/sport/tennis/sinner-breaks-to-win-the-set-20260130-p5nyfx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Sinner breaks to win the set",

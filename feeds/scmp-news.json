@@ -6,6 +6,38 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/world/middle-east/article/3341879/israel-signals-limited-rafah-reopening-sunday-after-nearly-2-year-gaza-border-shutdown?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3341879/israel-signals-limited-rafah-reopening-sunday-after-nearly-2-year-gaza-border-shutdown?utm_source=rss_feed",
+      "title": "Israel offers ‘limited’ Rafah reopening on Sunday after nearly 2-year Gaza border shutdown",
+      "content_html": "Israel said Friday that it will reopen the pedestrian border crossing between the Gaza Strip and Egypt in both directions over the weekend, marking an important step forward for US President Donald Trump’s Gaza ceasefire plan.\nCOGAT, the Israeli military body in charge of coordinating aid to Gaza, said in a statement that starting on Sunday a “limited movement of people only” would be allowed through the Rafah crossing, Gaza’s main gateway to the outside world.\nThe announcement followed...",
+      "content_text": "Israel said Friday that it will reopen the pedestrian border crossing between the Gaza Strip and Egypt in both directions over the weekend, marking an important step forward for US President Donald Trump’s Gaza ceasefire plan.\nCOGAT, the Israeli military body in charge of coordinating aid to Gaza, said in a statement that starting on Sunday a “limited movement of people only” would be allowed through the Rafah crossing, Gaza’s main gateway to the outside world.\nThe announcement followed...",
+      "date_published": "2026-01-30T13:10:58.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341873/33-arrested-over-hk150-million-fraud-involving-hong-kong-tech-grant-schemes?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341873/33-arrested-over-hk150-million-fraud-involving-hong-kong-tech-grant-schemes?utm_source=rss_feed",
+      "title": "33 arrested over HK$150 million fraud involving Hong Kong tech grant schemes",
+      "content_html": "Hong Kong’s anti-corruption agency has arrested 33 people on suspicion of defrauding two government technology funding schemes of more than HK$150 million (US$19.2 million).\nThe Independent Commission Against Corruption (ICAC) said on Friday that it had dismantled two syndicates this month and arrested 24 men and nine women aged between 27 and 66, including a former Cyberport Management Company employee.\nThe two funding schemes were the Digital Transformation Support Pilot Programme (DTSPP) and...",
+      "content_text": "Hong Kong’s anti-corruption agency has arrested 33 people on suspicion of defrauding two government technology funding schemes of more than HK$150 million (US$19.2 million).\nThe Independent Commission Against Corruption (ICAC) said on Friday that it had dismantled two syndicates this month and arrested 24 men and nine women aged between 27 and 66, including a former Cyberport Management Company employee.\nThe two funding schemes were the Digital Transformation Support Pilot Programme (DTSPP) and...",
+      "date_published": "2026-01-30T13:02:59.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/china/diplomacy/article/3341859/china-says-philippines-stoking-tensions-large-scale-scarborough-shoal-drill?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3341859/china-says-philippines-stoking-tensions-large-scale-scarborough-shoal-drill?utm_source=rss_feed",
+      "title": "China says Philippines is stoking tensions with large-scale Scarborough Shoal drill",
+      "content_html": "China has accused the Philippines of “deliberately stoking maritime tensions” following reports Manila had warned it would stage military exercises across a large area of the disputed South China Sea for more than two months.\nThe move represents the first external military challenge facing China after two senior generals were placed under investigation on suspicion of corruption, and could serve as a test of Beijing’s ability to handle such tests at a highly sensitive time.\nThe Philippine civil...",
+      "content_text": "China has accused the Philippines of “deliberately stoking maritime tensions” following reports Manila had warned it would stage military exercises across a large area of the disputed South China Sea for more than two months.\nThe move represents the first external military challenge facing China after two senior generals were placed under investigation on suspicion of corruption, and could serve as a test of Beijing’s ability to handle such tests at a highly sensitive time.\nThe Philippine civil...",
+      "date_published": "2026-01-30T13:00:15.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/big-tech/article/3341842/ant-groups-open-source-push-aims-move-robots-lab-demos-real-world-work?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/big-tech/article/3341842/ant-groups-open-source-push-aims-move-robots-lab-demos-real-world-work?utm_source=rss_feed",
+      "title": "Ant Group’s open-source push aims to move robots from lab demos to real-world work",
+      "content_html": "Chinese fintech giant Ant Group has open-sourced its first artificial intelligence models for robotics, as it steps up efforts to build machine intelligence capable of handling complex real-world tasks.\nThe move signals a deeper push by the Hangzhou-based Ant into embodied intelligence – AI systems designed to perceive, reason and act in physical environments rather than purely digital settings. The company is the fintech affiliate of Alibaba Group Holding, owner of the South China Morning...",
+      "content_text": "Chinese fintech giant Ant Group has open-sourced its first artificial intelligence models for robotics, as it steps up efforts to build machine intelligence capable of handling complex real-world tasks.\nThe move signals a deeper push by the Hangzhou-based Ant into embodied intelligence – AI systems designed to perceive, reason and act in physical environments rather than purely digital settings. The company is the fintech affiliate of Alibaba Group Holding, owner of the South China Morning...",
+      "date_published": "2026-01-30T13:00:11.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/asia/east-asia/article/3341874/japan-and-south-korea-upgrade-defence-pact-counter-china-and-north-korea?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/asia/east-asia/article/3341874/japan-and-south-korea-upgrade-defence-pact-counter-china-and-north-korea?utm_source=rss_feed",
       "title": "Japan and South Korea upgrade defence pact to counter China and North Korea",

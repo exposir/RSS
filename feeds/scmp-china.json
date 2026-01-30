@@ -6,6 +6,22 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/diplomacy/article/3341859/china-says-philippines-stoking-tensions-large-scale-scarborough-shoal-drill?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3341859/china-says-philippines-stoking-tensions-large-scale-scarborough-shoal-drill?utm_source=rss_feed",
+      "title": "China says Philippines is stoking tensions with large-scale Scarborough Shoal drill",
+      "content_html": "China has accused the Philippines of “deliberately stoking maritime tensions” following reports Manila had warned it would stage military exercises across a large area of the disputed South China Sea for more than two months.\nThe move represents the first external military challenge facing China after two senior generals were placed under investigation on suspicion of corruption, and could serve as a test of Beijing’s ability to handle such tests at a highly sensitive time.\nThe Philippine civil...",
+      "content_text": "China has accused the Philippines of “deliberately stoking maritime tensions” following reports Manila had warned it would stage military exercises across a large area of the disputed South China Sea for more than two months.\nThe move represents the first external military challenge facing China after two senior generals were placed under investigation on suspicion of corruption, and could serve as a test of Beijing’s ability to handle such tests at a highly sensitive time.\nThe Philippine civil...",
+      "date_published": "2026-01-30T13:00:15.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/big-tech/article/3341842/ant-groups-open-source-push-aims-move-robots-lab-demos-real-world-work?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/big-tech/article/3341842/ant-groups-open-source-push-aims-move-robots-lab-demos-real-world-work?utm_source=rss_feed",
+      "title": "Ant Group’s open-source push aims to move robots from lab demos to real-world work",
+      "content_html": "Chinese fintech giant Ant Group has open-sourced its first artificial intelligence models for robotics, as it steps up efforts to build machine intelligence capable of handling complex real-world tasks.\nThe move signals a deeper push by the Hangzhou-based Ant into embodied intelligence – AI systems designed to perceive, reason and act in physical environments rather than purely digital settings. The company is the fintech affiliate of Alibaba Group Holding, owner of the South China Morning...",
+      "content_text": "Chinese fintech giant Ant Group has open-sourced its first artificial intelligence models for robotics, as it steps up efforts to build machine intelligence capable of handling complex real-world tasks.\nThe move signals a deeper push by the Hangzhou-based Ant into embodied intelligence – AI systems designed to perceive, reason and act in physical environments rather than purely digital settings. The company is the fintech affiliate of Alibaba Group Holding, owner of the South China Morning...",
+      "date_published": "2026-01-30T13:00:11.000Z"
+    },
+    {
       "id": "https://www.scmp.com/opinion/china-opinion/article/3341715/tianxia-20-how-china-can-help-shape-next-world-order?utm_source=rss_feed",
       "url": "https://www.scmp.com/opinion/china-opinion/article/3341715/tianxia-20-how-china-can-help-shape-next-world-order?utm_source=rss_feed",
       "title": "Tianxia 2.0: how China can help shape the next world order",

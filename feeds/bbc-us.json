@@ -6,12 +6,44 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c2d7yddrl2xo#1",
+      "url": "https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss",
+      "title": "Who is Kevin Warsh, Trump's pick for Fed chair?",
+      "content_html": "The 55-year-old economist had been considered for Fed chair during Trump's first term.",
+      "content_text": "The 55-year-old economist had been considered for Fed chair during Trump's first term.",
+      "date_published": "2026-01-30T13:53:21.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c24gm3dz36po#0",
+      "url": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
+      "title": "Former CNN host Don Lemon arrested after anti-ICE protests at Minnesota church ",
+      "content_html": "Lemon says he was just doing his job as a journalist reporting on the protests at the church.",
+      "content_text": "Lemon says he was just doing his job as a journalist reporting on the protests at the church.",
+      "date_published": "2026-01-30T13:44:26.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd7zl3nj1j1o#0",
+      "url": "https://www.bbc.com/news/articles/cd7zl3nj1j1o?at_medium=RSS&at_campaign=rss",
+      "title": "Fire halts Euston rail services to several cities across the UK",
+      "content_html": "There is major disruption on all rail services between Euston station and Watford Junction.",
+      "content_text": "There is major disruption on all rail services between Euston station and Watford Junction.",
+      "date_published": "2026-01-30T13:10:15.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/c3edk98e49po#7",
       "url": "https://www.bbc.com/sport/football/articles/c3edk98e49po?at_medium=RSS&at_campaign=rss",
       "title": "Fulham sign Man City winger Bobb for £27m",
       "content_html": "Fulham sign Norway winger Oscar Bobb from Manchester City for £27m on a five-and-a-half-year contract.",
       "content_text": "Fulham sign Norway winger Oscar Bobb from Manchester City for £27m on a five-and-a-half-year contract.",
       "date_published": "2026-01-30T12:45:33.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cz0pj0n0yk3o#0",
+      "url": "https://www.bbc.com/news/articles/cz0pj0n0yk3o?at_medium=RSS&at_campaign=rss",
+      "title": "Syrian government reaches deal with Kurdish-led forces",
+      "content_html": "The deal will see the gradual integration of Kurdish forces and administration into the Syrian state.",
+      "content_text": "The deal will see the gradual integration of Kurdish forces and administration into the Syrian state.",
+      "date_published": "2026-01-30T12:42:37.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/clyel3z9xxno#0",
@@ -52,6 +84,14 @@
       "content_html": "There is major disruption on all rail services between Euston station and Watford Junction.",
       "content_text": "There is major disruption on all rail services between Euston station and Watford Junction.",
       "date_published": "2026-01-30T11:48:33.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/videos/c3ve0xd451go#1",
+      "url": "https://www.bbc.com/news/videos/c3ve0xd451go?at_medium=RSS&at_campaign=rss",
+      "title": "Inside Syrian camp holding wives and children of suspected IS fighters",
+      "content_html": "Kurdish-run prisons hold about 8,000 suspected IS fighters and around 34,000 of their family members in camps.",
+      "content_text": "Kurdish-run prisons hold about 8,000 suspected IS fighters and around 34,000 of their family members in camps.",
+      "date_published": "2026-01-30T11:38:08.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/football/articles/cgk86k8rllmo#7",
@@ -116,6 +156,14 @@
       "content_html": "A cramping Carlos Alcaraz draws on every physical and mental reserve to beat Alexander Zverev in a five-set epic and reach the Australian Open final.",
       "content_text": "A cramping Carlos Alcaraz draws on every physical and mental reserve to beat Alexander Zverev in a five-set epic and reach the Australian Open final.",
       "date_published": "2026-01-30T09:32:47.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/videos/cgl83rwz15zo#1",
+      "url": "https://www.bbc.com/news/videos/cgl83rwz15zo?at_medium=RSS&at_campaign=rss",
+      "title": "'I get nightmares': Child tells BBC of botched surgery by disgraced GOSH surgeon",
+      "content_html": "12-year-old Vivaan Sharma was one of 94 patients harmed by surgeon Yaser Jabbar",
+      "content_text": "12-year-old Vivaan Sharma was one of 94 patients harmed by surgeon Yaser Jabbar",
+      "date_published": "2026-01-30T09:05:43.000Z"
     },
     {
       "id": "https://www.bbc.com/news/videos/cgl83rwz15zo#0",
@@ -332,6 +380,14 @@
       "content_html": "He allegedly told jail officers that he had paperwork \"signed by a judge\" to free the accused killer, a complaint states.",
       "content_text": "He allegedly told jail officers that he had paperwork \"signed by a judge\" to free the accused killer, a complaint states.",
       "date_published": "2026-01-30T00:08:47.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cm24evgyyzpo#3",
+      "url": "https://www.bbc.com/news/articles/cm24evgyyzpo?at_medium=RSS&at_campaign=rss",
+      "title": "Could weight-loss jabs be behind rising gallbladder removals?",
+      "content_html": "Last year, there was a 15% annual increase in the operations and surgeons want more research.",
+      "content_text": "Last year, there was a 15% annual increase in the operations and surgeons want more research.",
+      "date_published": "2026-01-30T00:03:39.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cm24evgyyzpo#0",

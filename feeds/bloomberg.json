@@ -6,6 +6,222 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/trump-picks-warsh-to-lead-fed-producer-prices-rise-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/trump-picks-warsh-to-lead-fed-producer-prices-rise-more",
+      "title": "Trump Picks Warsh to Lead Fed, Producer Prices Rise, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T13:53:21.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/minnesota-businesses-resisted-ice-and-now-face-dhs-audits",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/minnesota-businesses-resisted-ice-and-now-face-dhs-audits",
+      "title": "Minnesota Businesses Resisted ICE, and Now Face DHS Audits",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T13:17:06.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/trump-picks-a-reinvented-warsh-stocks-trim-losses-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/trump-picks-a-reinvented-warsh-stocks-trim-losses-more",
+      "title": "Trump Picks a Reinvented Warsh, Stocks Trim Losses, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T13:04:38.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/next-africa-nigeria-coup-attempt-a-stark-warning-to-the-region",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/next-africa-nigeria-coup-attempt-a-stark-warning-to-the-region",
+      "title": "Nigeria Coup Attempt a Stark Warning to the Region",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T13:03:44.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/uk-pension-funds-stock-up-on-private-companies",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/uk-pension-funds-stock-up-on-private-companies",
+      "title": "UK Pension Funds Stock Up On Private Companies",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T12:45:17.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/instant-reaction-trump-nominates-warsh-for-fed-chair-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/instant-reaction-trump-nominates-warsh-for-fed-chair-podcast",
+      "title": "Instant Reaction: Trump Nominates Warsh for Fed Chair (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T12:24:47.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/trump-picks-kevin-warsh-to-lead-fed-markets-react-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/trump-picks-kevin-warsh-to-lead-fed-markets-react-more",
+      "title": "Trump Picks Kevin Warsh to Lead Fed, Markets React, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T12:08:58.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/trump-taps-kevin-warsh-to-lead-the-fed",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/trump-taps-kevin-warsh-to-lead-the-fed",
+      "title": "Trump Picks Kevin Warsh to Lead the Fed",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T12:06:55.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/trump-nominates-kevin-warsh-for-fed-chair",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/trump-nominates-kevin-warsh-for-fed-chair",
+      "title": "Trump Nominates Kevin Warsh For Fed Chair",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T12:06:45.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/cocoa-price-plunge-accelerates-as-chocolate-sales-tumble",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/cocoa-price-plunge-accelerates-as-chocolate-sales-tumble",
+      "title": "Less Chocolate, More Pain for Cocoa",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T12:00:28.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/warsh-fed-nomination-prepped-stocks-and-bonds-drop-more-ml0t2hod",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/warsh-fed-nomination-prepped-stocks-and-bonds-drop-more-ml0t2hod",
+      "title": "Warsh Fed Nomination Prepped, Stocks And Bonds Drop, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T11:34:22.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/india-s-adani-steps-up-defense-in-us-bribery-cases-gift-city-eases-liquor-rules",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/india-s-adani-steps-up-defense-in-us-bribery-cases-gift-city-eases-liquor-rules",
+      "title": "India’s Adani Steps Up Defense in US Bribery Cases",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T11:34:18.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/credit-crunch-beach-point-s-hunsaker-on-structured-landscape",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/credit-crunch-beach-point-s-hunsaker-on-structured-landscape",
+      "title": "Credit Crunch: Beach Point’s Hunsaker on Structured Landscape",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T11:30:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/lvmh-ceo-bernard-arnault-turns-gloomy-about-the-global-environment",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/lvmh-ceo-bernard-arnault-turns-gloomy-about-the-global-environment",
+      "title": "LVMH CEO Arnault Turns Gloomy About the Global Environment",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T11:00:16.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/us-job-market-outlook-improves-in-regional-fed-surveys",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/us-job-market-outlook-improves-in-regional-fed-surveys",
+      "title": "Regional Fed Surveys Show Cautious Optimism About the Labor Market",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T11:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/sweden-s-wallenberg-family-prepares-for-succession",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/sweden-s-wallenberg-family-prepares-for-succession",
+      "title": "Sweden’s $40 Billion Business Empire Prepares for New Leadership",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T10:47:41.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-daybreak-trump-eyes-warsh-for-fed-chair-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-daybreak-trump-eyes-warsh-for-fed-chair-podcast",
+      "title": "Bloomberg Daybreak: Trump Eyes Warsh for Fed Chair (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T10:47:40.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/warsh-fed-nomination-prepped-stocks-and-bonds-drop-more-ml0qrcme",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/warsh-fed-nomination-prepped-stocks-and-bonds-drop-more-ml0qrcme",
+      "title": "Warsh Fed Nomination Prepped, Stocks And Bonds Drop, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T10:29:44.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/warsh-fed-nomination-prepped-stocks-and-bonds-drop-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/warsh-fed-nomination-prepped-stocks-and-bonds-drop-more",
+      "title": "Warsh Fed Nomination Prepped, Stocks And Bonds Drop, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T10:28:24.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-asta-swatch-experian-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-asta-swatch-experian-podcast",
+      "title": "Stock Movers: Asta, Swatch, Experian (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T10:12:32.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/here-s-why-a-weaker-dollar-is-ringing-alarm-bells-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/here-s-why-a-weaker-dollar-is-ringing-alarm-bells-podcast",
+      "title": "Here's Why A Weaker Dollar is Ringing Alarm Bells (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T09:34:23.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-adidas-swatch-signify-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-adidas-swatch-signify-podcast",
+      "title": "Stock Movers: Adidas, Swatch, Signify (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T09:11:15.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/jeff-currie-on-the-crazy-surge-in-metals-and-why-the-supercycle-has-years-to-run",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/jeff-currie-on-the-crazy-surge-in-metals-and-why-the-supercycle-has-years-to-run",
+      "title": "Jeff Currie on the Crazy Surge in Metals, And Why The Supercycle Has Years to Run",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T09:00:29.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/stocks-fall-as-trump-set-to-name-long-time-hawk-as-fed-chair",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/stocks-fall-as-trump-set-to-name-long-time-hawk-as-fed-chair",
+      "title": "Stocks Fall as Trump Set to Name Long-Time Hawk as Fed Chair",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T09:00:27.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/odd-lots-jeff-currie-on-the-crazy-surge-in-metals-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/odd-lots-jeff-currie-on-the-crazy-surge-in-metals-podcast",
+      "title": "Odd Lots: Jeff Currie on the Crazy Surge in Metals (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T09:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/warsh-fed-chair-nomination-prepped-iran-options-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/warsh-fed-chair-nomination-prepped-iran-options-more",
+      "title": "Warsh Fed Chair Nomination Prepped, Iran Options, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T08:50:02.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/trump-warns-starmer-over-china-business-deals-after-xi-meeting",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/trump-warns-starmer-over-china-business-deals-after-xi-meeting",
+      "title": "Balancing Beijing and Trump",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T08:18:23.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-30/white-house-preps-warsh-fed-nomination-apple-results-more",
       "url": "https://www.bloomberg.com/news/audio/2026-01-30/white-house-preps-warsh-fed-nomination-apple-results-more",
       "title": "White House Preps Warsh Fed Nomination, Apple Results, More",

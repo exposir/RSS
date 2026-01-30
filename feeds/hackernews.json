@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46821774",
+      "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+      "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+      "content_html": "<p>Article URL: <a href=\"https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/\">https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46821774\">https://news.ycombinator.com/item?id=46821774</a></p>\n<p>Points: 278</p>\n<p># Comments: 144</p>",
+      "content_text": "Article URL: https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/\nComments URL: https://news.ycombinator.com/item?id=46821774\nPoints: 278\n# Comments: 144",
+      "date_published": "2026-01-30T08:09:41.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46820783",
       "url": "https://openclaw.ai/blog/introducing-openclaw",
       "title": "OpenClaw – Moltbot Renamed Again",

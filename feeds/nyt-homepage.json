@@ -6,6 +6,38 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html",
+      "title": "Will Kevin Warsh Do What Trump Wants?",
+      "content_html": "Some investors are worried that President Trump’s nominee to run the Federal Reserve may not be a guaranteed “yes” on cutting interest rates.",
+      "content_text": "Some investors are worried that President Trump’s nominee to run the Federal Reserve may not be a guaranteed “yes” on cutting interest rates.",
+      "date_published": "2026-01-30T13:50:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/arts/denmark-food-fine-art-chefs.html",
+      "url": "https://www.nytimes.com/2026/01/30/arts/denmark-food-fine-art-chefs.html",
+      "title": "Can Food Be Art? Denmark Is Finding Out.",
+      "content_html": "High-level chefs in the country could become eligible for arts funding under a new initiative. Not all in the art and culinary worlds are raising a glass to the idea, though.",
+      "content_text": "High-level chefs in the country could become eligible for arts funding under a new initiative. Not all in the art and culinary worlds are raising a glass to the idea, though.",
+      "date_published": "2026-01-30T13:03:42.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/europe/iran-trump-us-threats-turkey.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/europe/iran-trump-us-threats-turkey.html",
+      "title": "Iran Rules Out Talks With U.S. Until Trump’s Threats Stop",
+      "content_html": "Iran’s foreign minister ruled out direct talks unless President Trump stops threatening to attack it. He also said Iran would not discuss its ballistic missiles.",
+      "content_text": "Iran’s foreign minister ruled out direct talks unless President Trump stops threatening to attack it. He also said Iran would not discuss its ballistic missiles.",
+      "date_published": "2026-01-30T13:02:48.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/trump-alex-pretti-agitator-minneapolis-shooting-ice.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/trump-alex-pretti-agitator-minneapolis-shooting-ice.html",
+      "title": "Trump Repeats Claims Against Alex Pretti, Casting Slain Nurse as ‘Agitator’",
+      "content_html": "After videos resurfaced showing a confrontation between Mr. Pretti and federal agents 11 days before officers fatally shot him, President Trump again sought to cast blame on him.",
+      "content_text": "After videos resurfaced showing a confrontation between Mr. Pretti and federal agents 11 days before officers fatally shot him, President Trump again sought to cast blame on him.",
+      "date_published": "2026-01-30T12:11:53.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/briefing/the-new-fbi.html",
       "url": "https://www.nytimes.com/2026/01/30/briefing/the-new-fbi.html",
       "title": "The New F.B.I.",
