@@ -6,6 +6,46 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/articles/c3edk98e49po#7",
+      "url": "https://www.bbc.com/sport/football/articles/c3edk98e49po?at_medium=RSS&at_campaign=rss",
+      "title": "Fulham sign Man City winger Bobb for £27m",
+      "content_html": "Fulham sign Norway winger Oscar Bobb from Manchester City for £27m on a five-and-a-half-year contract.",
+      "content_text": "Fulham sign Norway winger Oscar Bobb from Manchester City for £27m on a five-and-a-half-year contract.",
+      "date_published": "2026-01-30T12:45:33.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/clyel3z9xxno#0",
+      "url": "https://www.bbc.com/news/articles/clyel3z9xxno?at_medium=RSS&at_campaign=rss",
+      "title": "China has lifted sanctions on six British MPs and peers, Starmer says",
+      "content_html": "The prime minister says a travel ban and other restrictions \"no longer apply\" to six current parliamentarians.",
+      "content_text": "The prime minister says a travel ban and other restrictions \"no longer apply\" to six current parliamentarians.",
+      "date_published": "2026-01-30T12:26:43.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c205jl2nm1mo#7",
+      "url": "https://www.bbc.com/sport/football/articles/c205jl2nm1mo?at_medium=RSS&at_campaign=rss",
+      "title": "Celtic to play Stuttgart & Forest face Fenerbahce",
+      "content_html": "Celtic will play Stuttgart and Nottingham Forest will face Fenerbahce in two-legged play-offs to reach the last 16 of the Europa League.",
+      "content_text": "Celtic will play Stuttgart and Nottingham Forest will face Fenerbahce in two-legged play-offs to reach the last 16 of the Europa League.",
+      "date_published": "2026-01-30T12:22:56.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cgezveezjw4o#3",
+      "url": "https://www.bbc.com/news/articles/cgezveezjw4o?at_medium=RSS&at_campaign=rss",
+      "title": "Queen Camilla among guests at memorial for author Jilly Cooper",
+      "content_html": "Dame Jilly Cooper, known for best-selling novels including Rivals and Riders, died after a fall in October.",
+      "content_text": "Dame Jilly Cooper, known for best-selling novels including Rivals and Riders, died after a fall in October.",
+      "date_published": "2026-01-30T11:56:25.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/videos/c99k8037jxro#7",
+      "url": "https://www.bbc.com/sport/tennis/videos/c99k8037jxro?at_medium=RSS&at_campaign=rss",
+      "title": "Alcaraz beats Zverev in Australian Open classic",
+      "content_html": "Carlos Alcaraz comes back from the brink of defeat to beat Alexander Zverev and reach his first Australian Open final.",
+      "content_text": "Carlos Alcaraz comes back from the brink of defeat to beat Alexander Zverev and reach his first Australian Open final.",
+      "date_published": "2026-01-30T11:52:59.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cd7zl3nj1j1o#3",
       "url": "https://www.bbc.com/news/articles/cd7zl3nj1j1o?at_medium=RSS&at_campaign=rss",
       "title": "Euston services disrupted by fire in north London",
@@ -124,6 +164,14 @@
       "content_html": "Coach and consultant Duane Manyweather has worked with some of NFL's best players in one of the sport's most undervalued positions.",
       "content_text": "Coach and consultant Duane Manyweather has worked with some of NFL's best players in one of the sport's most undervalued positions.",
       "date_published": "2026-01-30T07:35:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c23ryxre907o#3",
+      "url": "https://www.bbc.com/news/articles/c23ryxre907o?at_medium=RSS&at_campaign=rss",
+      "title": "Indonesian couple caned 140 times for sex and alcohol offences",
+      "content_html": "Caning is a common but controversial punishment for violating Islamic law in Aceh province.",
+      "content_text": "Caning is a common but controversial punishment for violating Islamic law in Aceh province.",
+      "date_published": "2026-01-30T06:53:22.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c23ryxre907o#0",
@@ -2692,6 +2740,14 @@
       "content_html": "What is the 1823 doctrine, and how has it been used since by US presidents?",
       "content_text": "What is the 1823 doctrine, and how has it been used since by US presidents?",
       "date_published": "2026-01-19T13:45:00.000Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/iplayer/episode/m0026pqz?at_mid=Wmb0QwHn72&at_campaign=Where_Eagles_Dare&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0026pqz&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Where_Eagles_Dare&at_bbc_team=BBC&at_creation=Film#6",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0026pqz?at_mid=Wmb0QwHn72&at_campaign=Where_Eagles_Dare&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0026pqz&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Where_Eagles_Dare&at_bbc_team=BBC&at_creation=Film",
+      "title": "Richard Burton and Clint Eastwood lead in this classic war film",
+      "content_html": "Seven paratroopers are sent on a seemingly impossible mission",
+      "content_text": "Seven paratroopers are sent on a seemingly impossible mission",
+      "date_published": "2026-01-10T17:46:15.000Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/10628994#4",

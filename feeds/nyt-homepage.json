@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/briefing/the-new-fbi.html",
+      "url": "https://www.nytimes.com/2026/01/30/briefing/the-new-fbi.html",
+      "title": "The New F.B.I.",
+      "content_html": "We look at changes inside the agency.",
+      "content_text": "We look at changes inside the agency.",
+      "date_published": "2026-01-30T11:44:32.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/world/middleeast/syria-kurd-sdf-agreement.html",
       "url": "https://www.nytimes.com/2026/01/30/world/middleeast/syria-kurd-sdf-agreement.html",
       "title": "Syrian Government and Kurdish-Led Militia Seal a Deal to Merge Forces",
@@ -108,6 +116,14 @@
       "content_html": "Leaders are set to gather in Washington as an unusual winter drought looms, raising the threat of lawsuits over a diminishing water supply.",
       "content_text": "Leaders are set to gather in Washington as an unusual winter drought looms, raising the threat of lawsuits over a diminishing water supply.",
       "date_published": "2026-01-30T10:03:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/opinion/david-brooks-leaving-columnist.html",
+      "url": "https://www.nytimes.com/2026/01/30/opinion/david-brooks-leaving-columnist.html",
+      "title": "A Farewell Column From David Brooks",
+      "content_html": "After 22 wonderful years, I’ve decided to take the exciting and terrifying step of leaving in order to try to build something new.",
+      "content_text": "After 22 wonderful years, I’ve decided to take the exciting and terrifying step of leaving in order to try to build something new.",
+      "date_published": "2026-01-30T10:02:51.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/us/its-all-just-going-down-the-toilet-police-chiefs-fume-at-ice-tactics.html",

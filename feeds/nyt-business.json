@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/trump-fed-chair-kevin-hassett.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/trump-fed-chair-kevin-hassett.html",
+      "title": "Trump Picks Kevin Warsh as Fed Chair",
+      "content_html": "If confirmed by the Senate, Kevin M. Warsh, a former governor at the central bank, will replace Jerome H. Powell, whose term as chair ends in May.",
+      "content_text": "If confirmed by the Senate, Kevin M. Warsh, a former governor at the central bank, will replace Jerome H. Powell, whose term as chair ends in May.",
+      "date_published": "2026-01-30T12:21:03.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/energy-environment/chevron-exxon-mobil-earnings.html",
       "url": "https://www.nytimes.com/2026/01/30/business/energy-environment/chevron-exxon-mobil-earnings.html",
       "title": "Chevron Points to Venezuela’s Promise as Big Oil Earnings Fall",

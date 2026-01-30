@@ -6,6 +6,46 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "d1f46661-3443-454d-8ff4-5bd8f172da6f",
+      "url": "https://www.smh.com.au/sport/tennis/sinner-breaks-to-win-the-set-20260130-p5nyfx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sinner breaks to win the set",
+      "content_html": "Novak Djokovic hits a shot long to hand Jannik Sinner the third set.",
+      "content_text": "Novak Djokovic hits a shot long to hand Jannik Sinner the third set.",
+      "date_published": "2026-01-30T12:47:32.000Z"
+    },
+    {
+      "id": "8d761550-7ec8-4cd2-af3f-b0da7b7121bc",
+      "url": "https://www.smh.com.au/national/victoria/victorian-schools-guide-your-one-stop-vce-dashboard-20260129-p5ny1k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Victorian Schools Guide: Your one-stop VCE dashboard",
+      "content_html": "Enter the name of your school or search for schools in your area in our interactive dashboard displaying comprehensive VCE and vocational education data.",
+      "content_text": "Enter the name of your school or search for schools in your area in our interactive dashboard displaying comprehensive VCE and vocational education data.",
+      "date_published": "2026-01-30T12:45:00.000Z"
+    },
+    {
+      "id": "ff2fa557-26c3-40a0-b0c3-65c4d8f6e493",
+      "url": "https://www.smh.com.au/sport/tennis/djokovics-look-of-pure-exhaustion-20260130-p5nyfw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic's look of 'pure exhaustion'",
+      "content_html": "Novak Djokovic struggles in the Australian weather on Rod Laver Arena.",
+      "content_text": "Novak Djokovic struggles in the Australian weather on Rod Laver Arena.",
+      "date_published": "2026-01-30T12:37:44.000Z"
+    },
+    {
+      "id": "5e2af470-737d-4aad-91ab-58f33d2a3971",
+      "url": "https://www.smh.com.au/sport/tennis/novaks-blunder-shocks-commentators-20260130-p5nyfv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Novak's blunder shocks commentators",
+      "content_html": "Novak Djokovic decides to leave a ball that hit the line.",
+      "content_text": "Novak Djokovic decides to leave a ball that hit the line.",
+      "date_published": "2026-01-30T12:22:21.000Z"
+    },
+    {
+      "id": "2f3f9177-315f-472b-bafe-550ee7649ee4",
+      "url": "https://www.smh.com.au/sport/tennis/djokovic-roars-back-to-claim-second-set-20260130-p5nyft.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic roars back to claim second set",
+      "content_html": "Novak Djokovic claims the second set 6-3 to level his semi-final clash with Jannik Sinner.",
+      "content_text": "Novak Djokovic claims the second set 6-3 to level his semi-final clash with Jannik Sinner.",
+      "date_published": "2026-01-30T11:58:08.000Z"
+    },
+    {
       "id": "0bdea425-b747-460f-b419-4b15402ce542",
       "url": "https://www.smh.com.au/sport/tennis/djokovic-swings-momentum-with-break-20260130-p5nyfq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Djokovic swings momentum with break",

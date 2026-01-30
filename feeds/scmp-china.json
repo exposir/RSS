@@ -6,6 +6,30 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/opinion/china-opinion/article/3341715/tianxia-20-how-china-can-help-shape-next-world-order?utm_source=rss_feed",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3341715/tianxia-20-how-china-can-help-shape-next-world-order?utm_source=rss_feed",
+      "title": "Tianxia 2.0: how China can help shape the next world order",
+      "content_html": "Several signals from this year’s World Economic Forum in Davos revealed a fundamental transformation in international politics. The forum laid bare the conclusion of a long era, yet provided little clarity about the coming one.\nThe first signal is the collapse of the post-World War II order shaped by the West – and the West’s own unravelling with it. The West has used its dominance over global discourse to construct and impose concepts it favours on the non-Western world. Yet the West itself is...",
+      "content_text": "Several signals from this year’s World Economic Forum in Davos revealed a fundamental transformation in international politics. The forum laid bare the conclusion of a long era, yet provided little clarity about the coming one.\nThe first signal is the collapse of the post-World War II order shaped by the West – and the West’s own unravelling with it. The West has used its dominance over global discourse to construct and impose concepts it favours on the non-Western world. Yet the West itself is...",
+      "date_published": "2026-01-30T12:30:14.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/economy/global-economy/article/3341866/uk-pm-starmer-leaves-china-what-did-he-achieve-and-what-next-sino-british-ties?utm_source=rss_feed",
+      "url": "https://www.scmp.com/economy/global-economy/article/3341866/uk-pm-starmer-leaves-china-what-did-he-achieve-and-what-next-sino-british-ties?utm_source=rss_feed",
+      "title": "As UK PM Starmer leaves China, what did he achieve – and what next for Sino-British ties?",
+      "content_html": "China and the United Kingdom are expected to sign more business deals as the British delegation, which comprises 54 companies, heads to Shanghai from Beijing as part of Keir Starmer’s visit, the first by a UK prime minister since 2018.\nThe UK delegation will attend a reception in Shanghai on Friday evening, according to Peter Burnett, chief executive of the China-Britain Business Council. A business forum will be held, followed by lunch on Saturday before the group departs the country.\n“I think...",
+      "content_text": "China and the United Kingdom are expected to sign more business deals as the British delegation, which comprises 54 companies, heads to Shanghai from Beijing as part of Keir Starmer’s visit, the first by a UK prime minister since 2018.\nThe UK delegation will attend a reception in Shanghai on Friday evening, according to Peter Burnett, chief executive of the China-Britain Business Council. A business forum will be held, followed by lunch on Saturday before the group departs the country.\n“I think...",
+      "date_published": "2026-01-30T12:02:36.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/big-tech/article/3341863/china-tech-giants-bytedance-and-alibaba-ramp-ai-infrastructure-efforts?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/big-tech/article/3341863/china-tech-giants-bytedance-and-alibaba-ramp-ai-infrastructure-efforts?utm_source=rss_feed",
+      "title": "China tech giants ByteDance and Alibaba to ramp up AI infrastructure efforts",
+      "content_html": "ByteDance and Alibaba Group Holding are poised to ratchet up their artificial intelligence infrastructure initiatives, as the global AI arms race continues to intensify.\nThe two companies’ latest moves lend weight to Nvidia CEO Jensen Huang’s recent remarks at the World Economic Forum in Davos, Switzerland, that the world was witnessing the biggest infrastructure buildout in history and that trillions of dollars of infrastructure still had to be built.\nBeijing-based ByteDance, operator of TikTok...",
+      "content_text": "ByteDance and Alibaba Group Holding are poised to ratchet up their artificial intelligence infrastructure initiatives, as the global AI arms race continues to intensify.\nThe two companies’ latest moves lend weight to Nvidia CEO Jensen Huang’s recent remarks at the World Economic Forum in Davos, Switzerland, that the world was witnessing the biggest infrastructure buildout in history and that trillions of dollars of infrastructure still had to be built.\nBeijing-based ByteDance, operator of TikTok...",
+      "date_published": "2026-01-30T12:00:05.000Z"
+    },
+    {
       "id": "https://www.scmp.com/tech/article/3341860/alibaba-ai-chip-push-hits-100000-mark-beating-local-rival-cambricon-sources?utm_source=rss_feed",
       "url": "https://www.scmp.com/tech/article/3341860/alibaba-ai-chip-push-hits-100000-mark-beating-local-rival-cambricon-sources?utm_source=rss_feed",
       "title": "Alibaba AI chip push hits 100,000 mark, beating local rival Cambricon: sources",

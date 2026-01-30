@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003297389",
+      "url": "https://www.wsj.com/finance/currencies/yen-rally-wasnt-government-engineered-finance-ministry-data-show-17365393",
+      "title": "Yen Rally Wasn&#x2019;t Government-Engineered, Finance Ministry Data Show",
+      "content_html": "Tokyo didn&#x2019;t deploy its reserves to aid the beleaguered currency at any point from Dec. 29 to Jan. 28, according to data released Friday.",
+      "content_text": "Tokyo didn&#x2019;t deploy its reserves to aid the beleaguered currency at any point from Dec. 29 to Jan. 28, according to data released Friday.",
+      "date_published": "2026-01-30T12:25:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003297210",
       "url": "https://www.wsj.com/world/europe/polands-economy-set-to-enter-global-top-20-following-another-strong-year-beea3a49",
       "title": "Poland&#x2019;s Economy Set to Enter Global Top 20 Following Another Strong Year",

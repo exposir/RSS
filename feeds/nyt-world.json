@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/world/asia/crying-horse-toy-china.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/asia/crying-horse-toy-china.html",
+      "title": "Born of a Factory Mistake, This Sad Toy Horse Captures China’s Mood",
+      "content_html": "A manufacturing error turned a Lunar New Year toy into an unlikely emblem of workplace fatigue.",
+      "content_text": "A manufacturing error turned a Lunar New Year toy into an unlikely emblem of workplace fatigue.",
+      "date_published": "2026-01-30T12:46:27.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/world/middleeast/syria-kurd-sdf-agreement.html",
       "url": "https://www.nytimes.com/2026/01/30/world/middleeast/syria-kurd-sdf-agreement.html",
       "title": "Syrian Government and Kurdish-Led Militia Seal a Deal to Merge Forces",
