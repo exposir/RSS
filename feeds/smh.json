@@ -6,6 +6,62 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "2c93a5b1-9b82-4181-b754-f2afbbca7061",
+      "url": "https://www.smh.com.au/national/queensland/why-builders-are-digging-this-huge-hole-in-the-inner-city-20260130-p5nydo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Why builders are digging this huge hole in the inner city",
+      "content_html": "Furniture and homewares store Life previous occupied the site.",
+      "content_text": "Furniture and homewares store Life previous occupied the site.",
+      "date_published": "2026-01-30T10:29:13.000Z"
+    },
+    {
+      "id": "58d7f64b-dfb3-4a08-b321-8d20f18a2f8f",
+      "url": "https://www.smh.com.au/sport/tennis/hewitt-woodbridge-explain-alcarazs-pickle-juice-treatment-20260130-p5nyfj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Hewitt, Woodbridge explain Alcaraz's pickle juice treatment",
+      "content_html": "Lleyton Hewitt and Todd Woodbridge explain what Carlos Alcaraz was feeling with his cramps.",
+      "content_text": "Lleyton Hewitt and Todd Woodbridge explain what Carlos Alcaraz was feeling with his cramps.",
+      "date_published": "2026-01-30T10:17:39.000Z"
+    },
+    {
+      "id": "7c398c31-9024-4de9-be68-77a88a274ba0",
+      "url": "https://www.smh.com.au/national/parents-and-two-sons-found-dead-in-perth-home-20260130-p5nyfi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Parents and two sons found dead in Perth home",
+      "content_html": "A mother and father and their two teenage sons have been found dead in a suspected double murder-suicide in Perth.",
+      "content_text": "A mother and father and their two teenage sons have been found dead in a suspected double murder-suicide in Perth.",
+      "date_published": "2026-01-30T10:13:23.000Z"
+    },
+    {
+      "id": "65c471fc-f29e-4d67-b25f-4087d7dda300",
+      "url": "https://www.smh.com.au/sport/tennis/no-escape-from-alcaraz-the-22-year-old-s-legend-status-grows-in-five-set-rla-epic-20260130-p5nyc9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "No escape from Alcaraz: A 22-year-old’s legend grows in five-set Rod Laver Arena epic",
+      "content_html": "After almost five-and-a-half hours, Carlos Alcaraz surged back from the brink in the fifth set to stun Alexander Zverev and become the youngest man ever to reach the final at all four majors.",
+      "content_text": "After almost five-and-a-half hours, Carlos Alcaraz surged back from the brink in the fifth set to stun Alexander Zverev and become the youngest man ever to reach the final at all four majors.",
+      "date_published": "2026-01-30T10:00:17.000Z"
+    },
+    {
+      "id": "493e1460-0700-4a65-aad9-d9d498153840",
+      "url": "https://www.smh.com.au/national/queensland/economists-warn-qld-has-two-options-to-cut-debt-but-both-mean-breaking-election-promises-20260130-p5nyea.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Economists warn Qld has two options to cut debt – but both mean breaking election promises",
+      "content_html": "The Crisafulli government is stuck between two unpopular moves if it is to deliver on a promise to control state debt, according to economists.",
+      "content_text": "The Crisafulli government is stuck between two unpopular moves if it is to deliver on a promise to control state debt, according to economists.",
+      "date_published": "2026-01-30T09:54:24.000Z"
+    },
+    {
+      "id": "be305271-6dd3-448e-aa48-e300a44ac0e5",
+      "url": "https://www.smh.com.au/sport/tennis/australian-open-highlights-carlos-alcaraz-v-alexander-zverev-20260130-p5nyfg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australian Open Highlights: Carlos Alcaraz v Alexander Zverev",
+      "content_html": "Watch the match highlights between Carlos Alcaraz & Alexander Zverev in the Semifinals of the 2026 Australian Open.",
+      "content_text": "Watch the match highlights between Carlos Alcaraz & Alexander Zverev in the Semifinals of the 2026 Australian Open.",
+      "date_published": "2026-01-30T09:49:59.000Z"
+    },
+    {
+      "id": "ad459cc7-fd50-46c1-9529-5c4626ad7eef",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-explains-how-he-pulled-off-five-set-miracle-20260130-p5nyff.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz explains how he pulled off five-set miracle",
+      "content_html": "Carlos Alcaraz speaks to Nine's Jim Courier after his incredible semi-final victory.",
+      "content_text": "Carlos Alcaraz speaks to Nine's Jim Courier after his incredible semi-final victory.",
+      "date_published": "2026-01-30T09:43:30.000Z"
+    },
+    {
       "id": "3d0d1fb6-10e3-498c-9b11-c7d1a1e965c5",
       "url": "https://www.smh.com.au/sport/tennis/alcaraz-waves-his-hands-at-winning-point-20260130-p5nyfe.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Alcaraz waves his hands at winning point",

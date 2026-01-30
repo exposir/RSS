@@ -6,6 +6,14 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "台灣首位「陸配」立委：國安、忠誠與參政權利的拉扯",
+      "content_html": "出身中國湖南的李貞秀預計在2月3日就職，成為台灣首位「陸配」立委，目前這個社群擔任最高階的公職。她的提名、加上去年花蓮村長鄧萬華因中國國籍遭解職，讓陸配參政的討論浮上檯面。",
+      "content_text": "出身中國湖南的李貞秀預計在2月3日就職，成為台灣首位「陸配」立委，目前這個社群擔任最高階的公職。她的提名、加上去年花蓮村長鄧萬華因中國國籍遭解職，讓陸配參政的討論浮上檯面。",
+      "date_published": "2026-01-30T09:35:17.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/cpdy3g7djn2o/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/cpdy3g7djn2o/trad?at_medium=RSS&at_campaign=rss",
       "title": "高市早苗為何再提台灣問題？北京如何以經濟戰反制日本",
@@ -52,6 +60,14 @@
       "content_html": "強迫行為有時是心理層面的，例如反覆在心中數到某個特定數字；有時則是可見行為，例如明明知道輪胎沒問題，卻一再檢查。",
       "content_text": "強迫行為有時是心理層面的，例如反覆在心中數到某個特定數字；有時則是可見行為，例如明明知道輪胎沒問題，卻一再檢查。",
       "date_published": "2026-01-30T00:21:58.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/cy7mvvrv1peo/trad#1",
+      "url": "https://www.bbc.com/zhongwen/articles/cy7mvvrv1peo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "中國歸化運動員：谷愛凌們的現況、起伏與走向",
+      "content_html": "歸化曾被視為中國體育提升成績和「軟實力」的一條捷徑，但其成效在不同項目呈現分化——從冰雪項目的耀眼成績，到團隊運動的停滯與爭議，那些年入籍中國的知名選手，現在都在做什麼？",
+      "content_text": "歸化曾被視為中國體育提升成績和「軟實力」的一條捷徑，但其成效在不同項目呈現分化——從冰雪項目的耀眼成績，到團隊運動的停滯與爭議，那些年入籍中國的知名選手，現在都在做什麼？",
+      "date_published": "2026-01-30T00:14:47.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/cy7mvvrv1peo/trad#0",

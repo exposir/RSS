@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html",
+      "url": "https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html",
+      "title": "The Tech Arsenal That ICE Has Deployed in Minneapolis",
+      "content_html": "Agents use facial recognition, social media monitoring and other tech tools not only to identify undocumented immigrants but also to track protesters, current and former officials said.",
+      "content_text": "Agents use facial recognition, social media monitoring and other tech tools not only to identify undocumented immigrants but also to track protesters, current and former officials said.",
+      "date_published": "2026-01-30T10:03:29.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html",
       "url": "https://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html",
       "title": "Apple Reports Record iPhone Sales Amid Holiday Bump",

@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/world/asia/trump-starmer-china-canada-trade.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/asia/trump-starmer-china-canada-trade.html",
+      "title": "Trump Tells U.K. and Canada That Boosting Trade With China Is ‘Dangerous’",
+      "content_html": "The leaders of both countries have recently visited Beijing seeking to strengthen economic ties, as tensions with the United States rise.",
+      "content_text": "The leaders of both countries have recently visited Beijing seeking to strengthen economic ties, as tensions with the United States rise.",
+      "date_published": "2026-01-30T10:29:20.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/americas/ice-immigration-enforcement-international-scrutiny-business.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/americas/ice-immigration-enforcement-international-scrutiny-business.html",
+      "title": "International Companies Doing Business With ICE Are Taking Heat",
+      "content_html": "A number of companies have found themselves facing questions about their work with Immigration and Customs Enforcement amid the agency’s intense operation in Minnesota.",
+      "content_text": "A number of companies have found themselves facing questions about their work with Immigration and Customs Enforcement amid the agency’s intense operation in Minnesota.",
+      "date_published": "2026-01-30T10:03:37.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
+      "title": "Russia Is Finding the Gaps in Ukraine’s Front Line",
+      "content_html": "The swift advance of Moscow’s forces into the town of Huliaipole showcases a central challenge for Kyiv: how to defend 700 miles with too few troops.",
+      "content_text": "The swift advance of Moscow’s forces into the town of Huliaipole showcases a central challenge for Kyiv: how to defend 700 miles with too few troops.",
+      "date_published": "2026-01-30T10:00:19.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/asia/xi-military-purge-taiwan.html",
       "url": "https://www.nytimes.com/2026/01/29/world/asia/xi-military-purge-taiwan.html",
       "title": "Xi’s Military Purge May Set Back His Taiwan Ambitions",

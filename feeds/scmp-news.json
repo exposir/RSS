@@ -6,6 +6,38 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/article/3341854/shanghai-residents-offload-their-gold-prices-surge-record-highs?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/article/3341854/shanghai-residents-offload-their-gold-prices-surge-record-highs?utm_source=rss_feed",
+      "title": "Shanghai residents offload their gold as prices surge to record highs",
+      "content_html": "Shanghai residents have been flocking to sell gold as the price of the precious metal surges to record highs.\nThe latest jump in gold prices was fuelled by ongoing economic and geopolitical uncertainties, but prices slumped by 4 per cent on Friday, January 30.",
+      "content_text": "Shanghai residents have been flocking to sell gold as the price of the precious metal surges to record highs.\nThe latest jump in gold prices was fuelled by ongoing economic and geopolitical uncertainties, but prices slumped by 4 per cent on Friday, January 30.",
+      "date_published": "2026-01-30T10:11:16.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/big-tech/article/3341841/china-gives-apple-best-iphone-quarter-history-38-revenue-growth?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/big-tech/article/3341841/china-gives-apple-best-iphone-quarter-history-38-revenue-growth?utm_source=rss_feed",
+      "title": "China gives Apple ‘best iPhone quarter in history’ with 38% revenue growth",
+      "content_html": "China has emerged as the brightest spot in Apple’s quarterly earnings, as the US tech giant achieved record iPhone revenue in the world’s largest smartphone market.\nRevenue in Apple’s Greater China region, which comprises mainland China, Hong Kong and Taiwan, surged 38 per cent from a year earlier in the first quarter of fiscal 2026, which ended December 27, the Cupertino-based company said on Friday.\nThat growth, more than double the company’s overall 16 per cent quarterly revenue increase,...",
+      "content_text": "China has emerged as the brightest spot in Apple’s quarterly earnings, as the US tech giant achieved record iPhone revenue in the world’s largest smartphone market.\nRevenue in Apple’s Greater China region, which comprises mainland China, Hong Kong and Taiwan, surged 38 per cent from a year earlier in the first quarter of fiscal 2026, which ended December 27, the Cupertino-based company said on Friday.\nThat growth, more than double the company’s overall 16 per cent quarterly revenue increase,...",
+      "date_published": "2026-01-30T10:00:25.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3341835/jiangsu-vs-guangdong-why-battle-be-chinas-no-1-economy-heating?utm_source=rss_feed",
+      "url": "https://www.scmp.com/economy/china-economy/article/3341835/jiangsu-vs-guangdong-why-battle-be-chinas-no-1-economy-heating?utm_source=rss_feed",
+      "title": "Jiangsu vs Guangdong: why the battle to be China’s No 1 economy is heating up",
+      "content_html": "The southern Guangdong province has been the largest engine powering China’s economic rise for decades. But the region is now in danger of losing its status as the country’s top regional economy, as a rival to the east outpaces its growth.\nJiangsu, home to a wide range of multinationals and hi-tech enterprises, has long been Guangdong’s closest competitor: together, the two provinces account for over 20 per cent of China’s gross domestic product (GDP).\nAnd the region has shown greater dynamism...",
+      "content_text": "The southern Guangdong province has been the largest engine powering China’s economic rise for decades. But the region is now in danger of losing its status as the country’s top regional economy, as a rival to the east outpaces its growth.\nJiangsu, home to a wide range of multinationals and hi-tech enterprises, has long been Guangdong’s closest competitor: together, the two provinces account for over 20 per cent of China’s gross domestic product (GDP).\nAnd the region has shown greater dynamism...",
+      "date_published": "2026-01-30T10:00:18.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/people-culture/article/3340797/why-china-bulang-ethnic-group-yunnan-blackens-teeth-when-they-reach-teenage-years?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/people-culture/article/3340797/why-china-bulang-ethnic-group-yunnan-blackens-teeth-when-they-reach-teenage-years?utm_source=rss_feed",
+      "title": "Why China Bulang ethnic group in Yunnan blackens teeth when they reach teenage years",
+      "content_html": "China’s Bulang people have an unusual rite of passage known as ranchi in which they dye their teeth black to mark adulthood and social rights.\nThe ethnic group, with a history spanning more than a thousand years, is mainly found in Yunnan province, southwestern China.\nAccording to the China Statistical Yearbook 2021, there are around 127,000 Bulang people today.\n\nLiving in the mountains and forests, they view the colour black as a symbol of beauty and power, believing it protects against evil...",
+      "content_text": "China’s Bulang people have an unusual rite of passage known as ranchi in which they dye their teeth black to mark adulthood and social rights.\nThe ethnic group, with a history spanning more than a thousand years, is mainly found in Yunnan province, southwestern China.\nAccording to the China Statistical Yearbook 2021, there are around 127,000 Bulang people today.\n\nLiving in the mountains and forests, they view the colour black as a symbol of beauty and power, believing it protects against evil...",
+      "date_published": "2026-01-30T10:00:13.000Z"
+    },
+    {
       "id": "https://www.scmp.com/plus/news/china/diplomacy/article/3341814/trump-slams-allies-china-ties-top-generals-fall-cross-strait-talks?utm_source=rss_feed",
       "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3341814/trump-slams-allies-china-ties-top-generals-fall-cross-strait-talks?utm_source=rss_feed",
       "title": "Trump slams allies’ China ties, top generals fall, cross-strait talks",

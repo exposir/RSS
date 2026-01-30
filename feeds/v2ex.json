@@ -17,6 +17,86 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189611",
+      "url": "https://www.v2ex.com/t/1189611#reply4",
+      "title": "[程序员] Idea 是不是要破产了？",
+      "content_html": "<p>今天啥情况， 下午开始 idea 隔一会就死，    2025.2.4   2025.3.2  都是这情况，  切出去以后  其他软件又都是正常的</p>",
+      "content_text": "今天啥情况， 下午开始 idea 隔一会就死，    2025.2.4   2025.3.2  都是这情况，  切出去以后  其他软件又都是正常的",
+      "date_published": "2026-01-30T10:16:40.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189610",
+      "url": "https://www.v2ex.com/t/1189610#reply2",
+      "title": "[问与答] 有没有 AI 生成简历工具？",
+      "content_html": "<p>AI 写文章、写 PPT 、做设计都那么厉害了。有没有什么好用的 AI 生成简历工具推荐。\n我只需要输入过往工作经历、或者项目文档（描述），AI 自动帮我排版、提取技术亮点。</p>",
+      "content_text": "AI 写文章、写 PPT 、做设计都那么厉害了。有没有什么好用的 AI 生成简历工具推荐。\n我只需要输入过往工作经历、或者项目文档（描述），AI 自动帮我排版、提取技术亮点。",
+      "date_published": "2026-01-30T10:11:45.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189609",
+      "url": "https://www.v2ex.com/t/1189609#reply2",
+      "title": "[程序员] 老本 X280 对我来说太够用了，不知道你们用的啥笔记本",
+      "content_html": "<p>X280 ，1T 固态，16G 内存，触摸屏，支持拓展 SD 卡</p>\n<p>我的 X280 是某鱼上购入的二手，但是成色很新很新。\n最开始一段时间我确实觉得配置有点不够，现在感觉是被自己的 R9000P 惯坏了吧</p>\n<h2>主要优点</h2>\n<ul>\n<li>轻巧，上下班随时背着毫无压力</li>\n<li>性能够用，内存常年 90%左右，负载高了会卡，编译会慢，但是能干活就够了</li>\n</ul>\n<p>一般在公司的时候，就外接一个屏幕足够用了。比如过年回家，带着它可比我的游戏本舒服多了，除了显卡一般，我感觉我当前的工作任务之类的，x280 都能胜任了。 对我来说，是真香啊~ 当时某鱼购入是 800 多。</p>\n<h2>R9000P 2023 款</h2>\n<p>内存 64g （现在看同款内存条 7k 了。。。），硬盘 2T ，</p>\n<p>发热大，电量掉的也快，而且还重。</p>\n<p>感觉有时候很多需求都是自己在折腾自己，比如以为自己能吃 2 大碗米饭，实际自己肚量就半碗。 性能现在是妥妥的富裕了。但是我用 x280 是够用的，所以一般 r9000p 闲置半吃灰。</p>",
+      "content_text": "X280 ，1T 固态，16G 内存，触摸屏，支持拓展 SD 卡\n我的 X280 是某鱼上购入的二手，但是成色很新很新。\n最开始一段时间我确实觉得配置有点不够，现在感觉是被自己的 R9000P 惯坏了吧\n主要优点\n\n轻巧，上下班随时背着毫无压力\n性能够用，内存常年 90%左右，负载高了会卡，编译会慢，但是能干活就够了\n\n一般在公司的时候，就外接一个屏幕足够用了。比如过年回家，带着它可比我的游戏本舒服多了，除了显卡一般，我感觉我当前的工作任务之类的，x280 都能胜任了。 对我来说，是真香啊~ 当时某鱼购入是 800 多。\nR9000P 2023 款\n内存 64g （现在看同款内存条 7k 了。。。），硬盘 2T ，\n发热大，电量掉的也快，而且还重。\n感觉有时候很多需求都是自己在折腾自己，比如以为自己能吃 2 大碗米饭，实际自己肚量就半碗。 性能现在是妥妥的富裕了。但是我用 x280 是够用的，所以一般 r9000p 闲置半吃灰。",
+      "date_published": "2026-01-30T10:04:30.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189608",
+      "url": "https://www.v2ex.com/t/1189608#reply0",
+      "title": "[问与答] 准备起诉 Apple, 请问如何确定 apple.com.cn 运营主体是苹果电脑贸易（上海）有限公司还是苹果电子产品商贸（北京）有限公司?",
+      "content_html": "投诉到 12315,两家的市场监管局互相推诿给对方.",
+      "content_text": "投诉到 12315,两家的市场监管局互相推诿给对方.",
+      "date_published": "2026-01-30T10:04:03.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189607",
+      "url": "https://www.v2ex.com/t/1189607#reply0",
+      "title": "[分享创造] [分享创造] 做了一个极简的北美算分工具站，刚上 Product Hunt 求个预约",
+      "content_html": "<p>各位大佬好，分享一个纯静态的 MVP 项目。</p>\n<p>网站地址： <a href=\"https://getfinalgrade.com\" rel=\"nofollow\">https://getfinalgrade.com</a></p>\n<p>背景： 针对北美学生算分焦虑撸的小工具。</p>\n<p>技术栈：</p>\n<p>纯 HTML + JS ，没用框架（除了 Tailwind CSS ）。</p>\n<p>部署在 Vercel ，接入 GA4 监控。</p>\n<p>Product Hunt 预约： 刚在 PH 开启了预约，链接： <a href=\"https://www.producthunt.com/products/getfinalgrade-com?utm_source=v2ex\" rel=\"nofollow\">https://www.producthunt.com/products/getfinalgrade-com?utm_source=v2ex</a></p>\n<p>V 友专属福利： 我在 PH 的 Extras 模块里放了专属 Lifetime 优惠。 优惠码：PH-SPECIAL 算分 3 次后，用这个码可以 $0.99 直接买断（原价 $8.99 ）。</p>\n<p>这种工具出海获客大家有啥建议？欢迎指点，也求个 Notify Me 凑个人气！</p>",
+      "content_text": "各位大佬好，分享一个纯静态的 MVP 项目。\n网站地址： https://getfinalgrade.com\n背景： 针对北美学生算分焦虑撸的小工具。\n技术栈：\n纯 HTML + JS ，没用框架（除了 Tailwind CSS ）。\n部署在 Vercel ，接入 GA4 监控。\nProduct Hunt 预约： 刚在 PH 开启了预约，链接： https://www.producthunt.com/products/getfinalgrade-com?utm_source=v2ex\nV 友专属福利： 我在 PH 的 Extras 模块里放了专属 Lifetime 优惠。 优惠码：PH-SPECIAL 算分 3 次后，用这个码可以 $0.99 直接买断（原价 $8.99 ）。\n这种工具出海获客大家有啥建议？欢迎指点，也求个 Notify Me 凑个人气！",
+      "date_published": "2026-01-30T09:57:46.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189606",
+      "url": "https://www.v2ex.com/t/1189606#reply5",
+      "title": "[网络安全] L 站启用了网页隐水印",
+      "content_html": "<p>LLLLLLLL</p>",
+      "content_text": "LLLLLLLL",
+      "date_published": "2026-01-30T09:56:07.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189605",
+      "url": "https://www.v2ex.com/t/1189605#reply0",
+      "title": "[Tesla] 把 TeslaMate 装进口袋 —— T-Mate：更优雅的特斯拉数据监控移动端",
+      "content_html": "<p>🤝 获取下载链接</p>\n<ul>\n<li>ios 通过 testflight 邀请安装，android 通过 google play 邀请测试安装，需要设备有 play 商店和 google 账号</li>\n<li>testflight 链接： <a href=\"https://testflight.apple.com/join/wMwurJNf\" rel=\"nofollow\">https://testflight.apple.com/join/wMwurJNf</a></li>\n<li>google play 链接： <a href=\"https://play.google.com/store/apps/details?id=com.gdzhujun.teslamatemoblie.teslamatemoblie\" rel=\"nofollow\">https://play.google.com/store/apps/details?id=com.gdzhujun.teslamatemoblie.teslamatemoblie</a></li>\n<li><a href=\"https://play.google.com/apps/testing/com.gdzhujun.teslamatemoblie.teslamatemoblie\" rel=\"nofollow\">https://play.google.com/apps/testing/com.gdzhujun.teslamatemoblie.teslamatemoblie</a></li>\n</ul>\n<p>如果你是 TeslaMate 的重度用户，一定迷恋于它那详尽的 PostgreSQL 数据记录。但 Grafana 的网页端在手机上体验并不理想。为此，我们开发了 T-Mate 。\n核心功能：</p>\n<ul>\n<li>📊 数据可视化矩阵：独家的“速度-温度-能耗”热力图，一眼看透在不同环境下的续航表现。</li>\n<li>🔋 电池健康深度评估：实时计算 Usable Now vs New ，精准掌握电池衰减曲线。</li>\n<li>🛣️ 全量行程还原：支持 OpenStreetMap (OSM) 与高德地图自由切换，100% 细节还原每一段轨迹。</li>\n<li>⚡ 充电明细统计：不仅仅是记录，更有充电效率分析与环境温度对比。</li>\n<li>🛠️ 后端状态监控：直连数据库，随时查看存储占用与数据规模。\n技术亮点：</li>\n<li>采用 Flutter 开发，丝滑的 iOS/Android 原生体验。</li>\n<li>多语言支持（中、英、德、西、日、韩）。</li>\n<li>私有化部署，隐私数据完全掌握在自己手中。</li>\n</ul>\n<p>部署文档： <a href=\"http://www.mypes.online/setup.html\" rel=\"nofollow\">http://www.mypes.online/setup.html</a>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F001.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F002.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F003.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F004.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F005.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F006.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F007.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F008.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F009.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F010.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F011.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F012.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F013.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F014.png\" title=\"这是 T-Mate 的应用截图\"/>\n<img alt=\"T-Mate Logo\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://images.weserv.nl/?url=http%3A%2F%2Fwww.mypes.online%2Fappscreenshot%2F015.png\" title=\"这是 T-Mate 的应用截图\"/></p>",
+      "content_text": "🤝 获取下载链接\n\nios 通过 testflight 邀请安装，android 通过 google play 邀请测试安装，需要设备有 play 商店和 google 账号\ntestflight 链接： https://testflight.apple.com/join/wMwurJNf\ngoogle play 链接： https://play.google.com/store/apps/details?id=com.gdzhujun.teslamatemoblie.teslamatemoblie\nhttps://play.google.com/apps/testing/com.gdzhujun.teslamatemoblie.teslamatemoblie\n\n如果你是 TeslaMate 的重度用户，一定迷恋于它那详尽的 PostgreSQL 数据记录。但 Grafana 的网页端在手机上体验并不理想。为此，我们开发了 T-Mate 。\n核心功能：\n\n📊 数据可视化矩阵：独家的“速度-温度-能耗”热力图，一眼看透在不同环境下的续航表现。\n🔋 电池健康深度评估：实时计算 Usable Now vs New ，精准掌握电池衰减曲线。\n🛣️ 全量行程还原：支持 OpenStreetMap (OSM) 与高德地图自由切换，100% 细节还原每一段轨迹。\n⚡ 充电明细统计：不仅仅是记录，更有充电效率分析与环境温度对比。\n🛠️ 后端状态监控：直连数据库，随时查看存储占用与数据规模。\n技术亮点：\n采用 Flutter 开发，丝滑的 iOS/Android 原生体验。\n多语言支持（中、英、德、西、日、韩）。\n私有化部署，隐私数据完全掌握在自己手中。\n\n部署文档： http://www.mypes.online/setup.html",
+      "date_published": "2026-01-30T09:53:28.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189604",
+      "url": "https://www.v2ex.com/t/1189604#reply0",
+      "title": "[OpenAI] deepseek v3 api 真够拉的",
+      "content_html": "<h2>提示词</h2>\n<pre><code> # 构建提示词\n    system_prompt = f\"\"\"你是一个商品品牌识别专家。你的任务是根据商品信息,分析商品的品牌。\n可选品牌列表:\n{brand_list}\n\n请严格按照以下 JSON 格式返回结果,不要有任何其他内容:\n{{\n  \"action\": \"match 或 create 或 unknown\",\n  \"brand_id\": 品牌 ID(仅 action=match 时),\n  \"brand_name\": \"品牌名称\"(仅 action=create 时),\n  \"confidence\": 置信度 0-1 之间的小数,\n  \"msg\":找不到品牌的原因\n}}\n\n品牌匹配规则:\n首先,从品牌列表中找到匹配的品牌,返回 brand_id 。\n如果找不到,再商品名称分析出来品牌。\n1. action=match: 从品牌列表中找到匹配的品牌,返回 brand_id\n2. action=create: 品牌列表中没有,但能从商品名称中分析出品牌名,返回 brand_name\n3. action=unknown: 无法确定品牌\n\"\"\"\n</code></pre>\n<h2>deepseekv3</h2>\n<p>官方 api: <code><a href=\"https://api.deepseek.com/chat/completions\" rel=\"nofollow\">https://api.deepseek.com/chat/completions</a></code></p>\n<p><img alt=\"https://i.imgur.com/0mYPOWB.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/0mYPOWB.png\"/></p>\n<p>\"珠江零度 600ml\" 你居然不知道品牌!\n这实在太简单了,肯定是我提示词问题。</p>\n<p>毕竟我直接问\"珠江零度 600ml\"品牌是什么?,deepseek 可以回答对的。</p>\n<p>继续改提示词,还是一个鸟样。</p>\n<h2>让 claude 换成 gemini-2.5-flash</h2>\n<pre><code>.env 我配置了,参考:docs\\vertex_update.py,在 script\\v_update.py,换成 gemini-2.5-flash\n</code></pre>\n<p><img alt=\"https://i.imgur.com/L7fHxbf.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/L7fHxbf.png\"/></p>\n<p>一运行:\n全是正确的。</p>\n<hr/>\n<p>我实在不敢相信 deepseekv3 能傻到这种程度,但是现实狠狠抽我一脸光。</p>",
+      "content_text": "提示词\n # 构建提示词\n    system_prompt = f\"\"\"你是一个商品品牌识别专家。你的任务是根据商品信息,分析商品的品牌。\n可选品牌列表:\n{brand_list}\n\n请严格按照以下 JSON 格式返回结果,不要有任何其他内容:\n{{\n  \"action\": \"match 或 create 或 unknown\",\n  \"brand_id\": 品牌 ID(仅 action=match 时),\n  \"brand_name\": \"品牌名称\"(仅 action=create 时),\n  \"confidence\": 置信度 0-1 之间的小数,\n  \"msg\":找不到品牌的原因\n}}\n\n品牌匹配规则:\n首先,从品牌列表中找到匹配的品牌,返回 brand_id 。\n如果找不到,再商品名称分析出来品牌。\n1. action=match: 从品牌列表中找到匹配的品牌,返回 brand_id\n2. action=create: 品牌列表中没有,但能从商品名称中分析出品牌名,返回 brand_name\n3. action=unknown: 无法确定品牌\n\"\"\"\n\ndeepseekv3\n官方 api: https://api.deepseek.com/chat/completions\n\n\"珠江零度 600ml\" 你居然不知道品牌!\n这实在太简单了,肯定是我提示词问题。\n毕竟我直接问\"珠江零度 600ml\"品牌是什么?,deepseek 可以回答对的。\n继续改提示词,还是一个鸟样。\n让 claude 换成 gemini-2.5-flash\n.env 我配置了,参考:docs\\vertex_update.py,在 script\\v_update.py,换成 gemini-2.5-flash\n\n\n一运行:\n全是正确的。\n\n我实在不敢相信 deepseekv3 能傻到这种程度,但是现实狠狠抽我一脸光。",
+      "date_published": "2026-01-30T09:51:55.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189603",
+      "url": "https://www.v2ex.com/t/1189603#reply10",
+      "title": "[问与答] 在当地派出所里手持身份证和当日报纸拍照，是什么新型诈骗吗？",
+      "content_html": "接到村干部的电话，说是我出过国，省公安厅下来的文件，为了反诈骗，避免身份证被人用来出国的，要我在附近在当地派出所里手持身份证和当日报纸拍照，然后发给他<br />感觉像是什么诈骗？<br />我爸确认是村干部，我明确拒绝后，说乡干部打电话过来，说如果不配的以后如果需要他们乡干部出证明办事情，他们就不给盖章<br />这种在特定地点手持身份证拍照的做法，看起来就很可疑。<br />我的疑问是，这是什么新型诈骗么?需要配合么？如果要配合，需要注意哪些事情？",
+      "content_text": "接到村干部的电话，说是我出过国，省公安厅下来的文件，为了反诈骗，避免身份证被人用来出国的，要我在附近在当地派出所里手持身份证和当日报纸拍照，然后发给他感觉像是什么诈骗？我爸确认是村干部，我明确拒绝后，说乡干部打电话过来，说如果不配的以后如果需要他们乡干部出证明办事情，他们就不给盖章这种在特定地点手持身份证拍照的做法，看起来就很可疑。我的疑问是，这是什么新型诈骗么?需要配合么？如果要配合，需要注意哪些事情？",
+      "date_published": "2026-01-30T09:49:24.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189602",
+      "url": "https://www.v2ex.com/t/1189602#reply1",
+      "title": "[加密货币] 正在准备起诉 binance 的 1011，请问大家有一些数据类的证据吗？",
+      "content_html": "<p>我已经在 adgm 写好了所有的证据，如果大家有其他证据，我希望能联系我，提高我的胜率。</p>",
+      "content_text": "我已经在 adgm 写好了所有的证据，如果大家有其他证据，我希望能联系我，提高我的胜率。",
+      "date_published": "2026-01-30T09:42:47.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189599",
       "url": "https://www.v2ex.com/t/1189599#reply1",
       "title": "[全球工单系统] 最新 chrome 里面，用某度搜索“cdn 推荐”或者“腾讯 cdn”无结果",

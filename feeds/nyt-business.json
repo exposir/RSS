@@ -6,6 +6,38 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/dining/food-delivery-apps-doordash-uber.html",
+      "url": "https://www.nytimes.com/2026/01/30/dining/food-delivery-apps-doordash-uber.html",
+      "title": "How DoorDash and Other Food Delivery Apps Are Reshaping Mealtime in the U.S.",
+      "content_html": "Almost three of every four restaurant orders in the U.S. weren’t eaten in a restaurant, according to recent data. We spoke to readers who are devoted to delivery but question the costs.",
+      "content_text": "Almost three of every four restaurant orders in the U.S. weren’t eaten in a restaurant, according to recent data. We spoke to readers who are devoted to delivery but question the costs.",
+      "date_published": "2026-01-30T10:00:49.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/business/energy-environment/lukoil-gas-stations-trump.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/energy-environment/lukoil-gas-stations-trump.html",
+      "title": "Lukoil Gas Station Franchisees Caught in a Fight Between US and Russia",
+      "content_html": "After the United States imposed sanctions on Russia’s two biggest oil producers, the ripple effects wreaked havoc on business for local franchisees.",
+      "content_text": "After the United States imposed sanctions on Russia’s two biggest oil producers, the ripple effects wreaked havoc on business for local franchisees.",
+      "date_published": "2026-01-30T10:00:26.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/business/media/disney-ceo.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/media/disney-ceo.html",
+      "title": "Can Josh D’Amaro Break Disney’s Succession Curse?",
+      "content_html": "Josh D’Amaro is widely considered a front-runner to be the company’s next C.E.O. His biggest challenge might be escaping Bob Iger’s shadow.",
+      "content_text": "Josh D’Amaro is widely considered a front-runner to be the company’s next C.E.O. His biggest challenge might be escaping Bob Iger’s shadow.",
+      "date_published": "2026-01-30T10:00:14.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/trump-fed-chair-kevin-warsh.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/trump-fed-chair-kevin-warsh.html",
+      "title": "Trump Is Expected to Announce Kevin Warsh as Fed Chair",
+      "content_html": "President Trump is set to announce his choice to replace Jerome H. Powell as chair of the Federal Reserve, saying it is someone “known to everybody in the financial world.”",
+      "content_text": "President Trump is set to announce his choice to replace Jerome H. Powell as chair of the Federal Reserve, saying it is someone “known to everybody in the financial world.”",
+      "date_published": "2026-01-30T07:24:44.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
       "url": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
       "title": "Panama Court Strikes Down Hong Kong Firm’s Canal Contract",

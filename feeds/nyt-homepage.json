@@ -6,12 +6,36 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/opinion/trump-minneapolis-america-pretti.html",
+      "url": "https://www.nytimes.com/2026/01/30/opinion/trump-minneapolis-america-pretti.html",
+      "title": "This Moment Is Asking What Kind of America We Are",
+      "content_html": "The clash in Minneapolis has revealed a profound cleavage over the meaning of citizenship.",
+      "content_text": "The clash in Minneapolis has revealed a profound cleavage over the meaning of citizenship.",
+      "date_published": "2026-01-30T10:04:10.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/opinion/minneapolis-dhs-ice-security.html",
+      "url": "https://www.nytimes.com/2026/01/30/opinion/minneapolis-dhs-ice-security.html",
+      "title": "The Department of Homeland Security Was a Mistake From The Start",
+      "content_html": "Since its founding in 2002, DHS has evolved into the unaccountable domestic security apparatus we have today, one that views the very people it is supposed to protect as threats not humans.",
+      "content_text": "Since its founding in 2002, DHS has evolved into the unaccountable domestic security apparatus we have today, one that views the very people it is supposed to protect as threats not humans.",
+      "date_published": "2026-01-30T10:03:53.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/29/world/asia/xi-military-purge-taiwan.html",
       "url": "https://www.nytimes.com/2026/01/29/world/asia/xi-military-purge-taiwan.html",
       "title": "Xi’s Military Purge May Set Back His Taiwan Ambitions",
       "content_html": "By ousting his top generals, Xi Jinping has secured absolute control but also hollowed out the command structure preparing for possible war over Taiwan.",
       "content_text": "By ousting his top generals, Xi Jinping has secured absolute control but also hollowed out the command structure preparing for possible war over Taiwan.",
       "date_published": "2026-01-30T08:40:11.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/business/trump-fed-chair-kevin-warsh.html",
+      "url": "https://www.nytimes.com/2026/01/29/business/trump-fed-chair-kevin-warsh.html",
+      "title": "Trump Is Expected to Announce Kevin Warsh as Fed Chair",
+      "content_html": "President Trump is set to announce his choice to replace Jerome H. Powell as chair of the Federal Reserve, saying it is someone “known to everybody in the financial world.”",
+      "content_text": "President Trump is set to announce his choice to replace Jerome H. Powell as chair of the Federal Reserve, saying it is someone “known to everybody in the financial world.”",
+      "date_published": "2026-01-30T07:24:44.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/arts/television/jimmy-kimmel-melania-trump-documentary.html",
