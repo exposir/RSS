@@ -121,13 +121,13 @@ export default function RSSReader() {
         key={isDesktop ? "desktop-layout" : "mobile-layout"}
         direction="horizontal"
         className="flex-1 h-full items-stretch"
-        id="rss-reader-group-v3"
+        id="rss-reader-group-final"
       >
         {/* Left: Feed List */}
         {isDesktop && (
           <>
             <ResizablePanel
-              id="left-panel"
+              id="left-panel-final"
               defaultSize={20}
               minSize={15}
               maxSize={30}
@@ -152,7 +152,7 @@ export default function RSSReader() {
 
         {/* Middle: Article List */}
         <ResizablePanel
-          id="middle-panel"
+          id="middle-panel-final"
           defaultSize={30}
           minSize={20}
           className={cn(
@@ -181,7 +181,7 @@ export default function RSSReader() {
           <>
             <ResizableHandle />
             <ResizablePanel
-              id="right-panel"
+              id="right-panel-final"
               defaultSize={50}
               className="bg-background overflow-hidden"
             >
