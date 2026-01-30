@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003297990",
+      "url": "https://www.wsj.com/world/middle-east/shake-up-elevates-u-a-e-crown-prince-into-260-billion-sovereign-wealth-role-7a665fa0",
+      "title": "Shake-Up Elevates U.A.E. Crown Prince Into $260 Billion Sovereign Wealth Role",
+      "content_html": "The move marks a generational power shift in Abu Dhabi, one of the world&#x2019;s largest state-backed investors.",
+      "content_text": "The move marks a generational power shift in Abu Dhabi, one of the world&#x2019;s largest state-backed investors.",
+      "date_published": "2026-01-30T16:08:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003297562",
       "url": "https://www.wsj.com/world/zelensky-voices-support-for-u-s-backed-energy-truce-with-russia-1aeadb27",
       "title": "Zelensky Voices Support for U.S.-Backed &#x2018;Energy Truce&#x2019; With Russia",

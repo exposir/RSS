@@ -17,6 +17,70 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189667",
+      "url": "https://www.v2ex.com/t/1189667#reply0",
+      "title": "[宽带症候群] 横琴澳门新街坊假 9929 联通 (2.更多的数据)",
+      "content_html": "<p><img alt=\"路由跟踪\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/5NBXwQQ.png\"/>\n路由跟踪去 google\n<img alt=\"路由跟踪 2\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/iTxfLwv.png\"/>\n跟踪去 ytb\n<img alt=\"DNS 出口\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/AJyih7m.png\"/>\ndns 出口</p>\n<p><img alt=\"多出口\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/IrHd7oP.png\"/>\n多出口</p>\n<p>我实在是没测出来有什么穿透网络什么的 </p>\n<p>但是我朋友说体感很差大概心里也有点数了</p>",
+      "content_text": "路由跟踪去 google\n\n跟踪去 ytb\n\ndns 出口\n\n多出口\n我实在是没测出来有什么穿透网络什么的 \n但是我朋友说体感很差大概心里也有点数了",
+      "date_published": "2026-01-30T16:34:28.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189666",
+      "url": "https://www.v2ex.com/t/1189666#reply0",
+      "title": "[分享发现] 第一次些这种类型的公众号，欢迎大家提提意见",
+      "content_html": "<p>飞天往事：马云的独裁与阿里的命运</p>\n<p><a href=\"https://mp.weixin.qq.com/s/bSoRCyKveQ8kpC6oUmdYjQ\" rel=\"nofollow\">https://mp.weixin.qq.com/s/bSoRCyKveQ8kpC6oUmdYjQ</a></p>",
+      "content_text": "飞天往事：马云的独裁与阿里的命运\nhttps://mp.weixin.qq.com/s/bSoRCyKveQ8kpC6oUmdYjQ",
+      "date_published": "2026-01-30T16:23:01.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189665",
+      "url": "https://www.v2ex.com/t/1189665#reply1",
+      "title": "[HodlAI] 给 OpenClaw 配上了 HodlAI 的 Opus 4.5",
+      "content_html": "<p>这个项目（ Clawdbot -> Moltbot -> OpenClaw ）第二次改名了，很影响 SEO 。</p>\n<p>用 <code>openclaw configure</code> 看起来是无法修改 baseUrl 的，所以需要打开 <code>~/.openclaw/openclaw.json</code></p>\n<p>然后关键是 agents 和 models 这两段 json：</p>\n<pre><code class=\"language-json\">agents: {\n    defaults: {\n      model: { primary: \"hodlai/claude-opus-4-5-20251101\" },\n      models: {\n        \"hodlai/claude-opus-4-5-20251101\": { alias: \"Opus\" }\n      }\n    }\n  },\n  models: {\n    mode: \"merge\",\n    providers: {\n      hodlai: {\n        baseUrl: \"https://api.hodlai.fun/v1\",\n        apiKey: \"这里换成你自己的 API key\",\n        api: \"openai-responses\",\n        models: [\n          {\n            id: \"claude-opus-4-5-20251101\",\n            name: \"Claude Opus 4.5 20251101\",\n            reasoning: true,\n            input: [\"text\"],\n            cost: { input: 0, output: 0, cacheRead: 0, cacheWrite: 0 },\n            contextWindow: 196608,\n            maxTokens: 8192\n          }\n        ]\n      }\n    }\n  },\n</code></pre>\n<p>然后就可以用了。</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/6uF6Wb5A.png\"/></p>",
+      "content_text": "这个项目（ Clawdbot -> Moltbot -> OpenClaw ）第二次改名了，很影响 SEO 。\n用 openclaw configure 看起来是无法修改 baseUrl 的，所以需要打开 ~/.openclaw/openclaw.json\n然后关键是 agents 和 models 这两段 json：\nagents: {\n    defaults: {\n      model: { primary: \"hodlai/claude-opus-4-5-20251101\" },\n      models: {\n        \"hodlai/claude-opus-4-5-20251101\": { alias: \"Opus\" }\n      }\n    }\n  },\n  models: {\n    mode: \"merge\",\n    providers: {\n      hodlai: {\n        baseUrl: \"https://api.hodlai.fun/v1\",\n        apiKey: \"这里换成你自己的 API key\",\n        api: \"openai-responses\",\n        models: [\n          {\n            id: \"claude-opus-4-5-20251101\",\n            name: \"Claude Opus 4.5 20251101\",\n            reasoning: true,\n            input: [\"text\"],\n            cost: { input: 0, output: 0, cacheRead: 0, cacheWrite: 0 },\n            contextWindow: 196608,\n            maxTokens: 8192\n          }\n        ]\n      }\n    }\n  },\n\n然后就可以用了。",
+      "date_published": "2026-01-30T16:18:44.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189664",
+      "url": "https://www.v2ex.com/t/1189664#reply0",
+      "title": "[天黑以后] 20260131 午夜俱乐部",
+      "content_html": "许个愿，把新公司做到存活 20 年。",
+      "content_text": "许个愿，把新公司做到存活 20 年。",
+      "date_published": "2026-01-30T16:02:25.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189662",
+      "url": "https://www.v2ex.com/t/1189662#reply0",
+      "title": "[VPS] 出一台搬瓦工的小机，$46.70 刀，规格 CN2 GIA-E 10G 限量版，需换绑邮箱",
+      "content_html": "<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/natDsO4.png\"/> </p>\n<p>演示站点： <a href=\"https://dc6.bwg.net/\" rel=\"nofollow\">https://dc6.bwg.net/</a></p>\n<p>可以选 5 个 CN2 GIA-E 机房（洛杉矶 DC6/DC9/圣何塞/纽约/温哥华）+日本软银+荷兰联通等共 15 个机房</p>\n<p>续费$46.70 刀</p>\n<p>目前是已过期状态</p>\n<p>可以配合转邮箱</p>\n<p>我也不清楚市价是多少，暂定 1/3 好了，15 刀出</p>\n<p>后面 v 友们可以帮忙瞅瞅，是贵了还是便宜了，可以再调价格</p>\n<p>最终应该是在闲鱼交易，蚂蚁信用极好，可以放心交易</p>\n<p>购买联系 Tg：aHR0cHM6Ly90Lm1lL2NvbnRhY3QvMTc2OTc4Nzg5NzpuS2FYcEYyZ3cwMUZad2JY</p>",
+      "content_text": "演示站点： https://dc6.bwg.net/\n可以选 5 个 CN2 GIA-E 机房（洛杉矶 DC6/DC9/圣何塞/纽约/温哥华）+日本软银+荷兰联通等共 15 个机房\n续费$46.70 刀\n目前是已过期状态\n可以配合转邮箱\n我也不清楚市价是多少，暂定 1/3 好了，15 刀出\n后面 v 友们可以帮忙瞅瞅，是贵了还是便宜了，可以再调价格\n最终应该是在闲鱼交易，蚂蚁信用极好，可以放心交易\n购买联系 Tg：aHR0cHM6Ly90Lm1lL2NvbnRhY3QvMTc2OTc4Nzg5NzpuS2FYcEYyZ3cwMUZad2JY",
+      "date_published": "2026-01-30T15:50:15.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189661",
+      "url": "https://www.v2ex.com/t/1189661#reply1",
+      "title": "[移民] 聊聊德国的免费医疗，比加拿大澳大利亚快得多，以及强过一线的地方",
+      "content_html": "很多人把加拿大澳大利亚这些疯狂移民导致医护奇缺的国家当成欧欧洲，其实欧洲美国澳大利亚美国完全不一样，在德国，以儿科为例子，等候时间几乎不会超过 1 小时，相反，在中国一线二线城市，儿科 3-5 小时排队时间是日常，西欧相比中国和加拿大等儿科并不紧缺，床位欧洲在疫情期间也是很充足而且是标准的一护士一床设备齐全，中国的医院的床位真的就是走廊不要把欧洲跟加拿大澳大利亚混为一谈，欧洲医疗资源没那么缺，看病体验远好于国内。有数据统计的：<br /><br />Wie lange wartet man mit Termin beim Arzt?<br />Die Kassenärztliche Bundesvereinigung (KBV) hat 2021 Patient:innen befragt. Das Ergebnis: Die Wartezeiten beim Arzt sind insgesamt kürzer geworden. Patient:innen verbringen heute weniger Zeit im Wartezimmer als früher.<br /><br />Ergebnisse der Umfrage<br />15 % mussten gar nicht warten.<br />43 % warteten bis zu 15 Minuten.<br />24 % warteten bis zu 30 Minuten.<br />10 % mussten bis zu einer Stunde warten.<br />4 % warteten bis zu zwei Stunden.<br />1 % wartete mehr als zwei Stunden. <br /><br />看不懂德语可以自己翻译去 <br /><br /><a target=\"_blank\" href=\"https://info.doctolib.de/blog/wartezeit-beim-arzt-wie-lange/\" rel=\"nofollow noopener\">https://info.doctolib.de/blog/wartezeit-beim-arzt-wie-lange/</a><br />在德国那么多年排队从来没超过 2h ，一般都是在 1h 内。<br /><br />在 2025 年的今天，我很奇怪还有人对预约制看病体检很奇怪，我在国内一二线城市三甲问全身体检能排队到 5 个月，预约三甲拔牙根管也得抢号，当天几乎不可能，十年前就是如此，反而在德国推门就进。<br /><br />西欧是预约为主，推门就进为排队为辅，不是不能直接去看，而且周末紧急急诊很快。<br /><br />原则上来说，一国排队时间只取决于医护比和看病时长，加班都是次要的（欧美医生手术经验时间从来不少于中国，这是广为流传的谣言，最多有擅长的手术区别，迄今为止，全世界包括中国的运动员看骨科运动等等都是来欧洲。<br /><br />生娃体检这些德国全部免费，十次助产士上门免费指导，<br /><br />儿童如果有心理疾病，过敏严重可以直接申请去隔离疗养医院，大人可以陪同，能直接申请病假报销。<br /><br />几乎绝大部分药全部报销。<br /><br />癌症化疗全部报销大小手术都报销。<br /><br />救护车救护直升机全部报销。<br /><br />新冠 mrna 疫苗全部免费。<br /><br />如果你在球场骨折会直接来救护直升机送到医院，全部报销。<br /><br />有一些比国内预约难的地方：胃镜，皮肤科，皮肤科基本都是因为“美容手术”拍的太满，又不是着急的病，所以预约时间一般在一个月以上，私保更快但是私人保险跟公立保险有利有弊，在西欧绝对不是私保就更好那么简单（私保保费反而更便宜，但前提是你不失业不退休）你不是人在欧洲的就不细说了。<br /><br />做 CT 排队一个月，私保直接掏钱当天能做，几十-100 欧吧也很便宜。牙医做 CT 都是直接推门进拔牙当场做的（拔牙优先级在德国很高毕竟牙疼不是病疼起来真要命）。<br /><br />看病平均提供问诊时间大约在 20 分钟，全诊所非常安静，绝对没有里三层外三层围着没隐私那些事儿。<br /><br />新冠疫情期间证明德国意大利人均床位比很足，而且可不是挂走廊架一张床那种简陋床位。当然护士还是不够的。世界各国都缺护士。<br /><br />对了德国开的药很管用，见效很快，这个原因你懂得。<br /><br />简而言之欧洲不是加拿大疯狂引进移民造成人手严重不足的状态，所谓吐槽排队也就是预约去排 1h-2h 顶天了，毕竟你前面看病的病人不能说到点轰走，医生那么对你你也不同意是吧，而且可不是 2 分钟一位哦<br /><br />全民医保是根据民众收入缴纳的，失业一人可以保全家，全家失业挂劳动局缴纳医保了。高收入如不如私保无所谓有利有弊。<br /><br />德国看病好十几年的真实体验，我真没排队超过 2h 的，基本都是 1h 看上",
+      "content_text": "很多人把加拿大澳大利亚这些疯狂移民导致医护奇缺的国家当成欧欧洲，其实欧洲美国澳大利亚美国完全不一样，在德国，以儿科为例子，等候时间几乎不会超过 1 小时，相反，在中国一线二线城市，儿科 3-5 小时排队时间是日常，西欧相比中国和加拿大等儿科并不紧缺，床位欧洲在疫情期间也是很充足而且是标准的一护士一床设备齐全，中国的医院的床位真的就是走廊不要把欧洲跟加拿大澳大利亚混为一谈，欧洲医疗资源没那么缺，看病体验远好于国内。有数据统计的：Wie lange wartet man mit Termin beim Arzt?Die Kassenärztliche Bundesvereinigung (KBV) hat 2021 Patient:innen befragt. Das Ergebnis: Die Wartezeiten beim Arzt sind insgesamt kürzer geworden. Patient:innen verbringen heute weniger Zeit im Wartezimmer als früher.Ergebnisse der Umfrage15 % mussten gar nicht warten.43 % warteten bis zu 15 Minuten.24 % warteten bis zu 30 Minuten.10 % mussten bis zu einer Stunde warten.4 % warteten bis zu zwei Stunden.1 % wartete mehr als zwei Stunden. 看不懂德语可以自己翻译去 https://info.doctolib.de/blog/wartezeit-beim-arzt-wie-lange/在德国那么多年排队从来没超过 2h ，一般都是在 1h 内。在 2025 年的今天，我很奇怪还有人对预约制看病体检很奇怪，我在国内一二线城市三甲问全身体检能排队到 5 个月，预约三甲拔牙根管也得抢号，当天几乎不可能，十年前就是如此，反而在德国推门就进。西欧是预约为主，推门就进为排队为辅，不是不能直接去看，而且周末紧急急诊很快。原则上来说，一国排队时间只取决于医护比和看病时长，加班都是次要的（欧美医生手术经验时间从来不少于中国，这是广为流传的谣言，最多有擅长的手术区别，迄今为止，全世界包括中国的运动员看骨科运动等等都是来欧洲。生娃体检这些德国全部免费，十次助产士上门免费指导，儿童如果有心理疾病，过敏严重可以直接申请去隔离疗养医院，大人可以陪同，能直接申请病假报销。几乎绝大部分药全部报销。癌症化疗全部报销大小手术都报销。救护车救护直升机全部报销。新冠 mrna 疫苗全部免费。如果你在球场骨折会直接来救护直升机送到医院，全部报销。有一些比国内预约难的地方：胃镜，皮肤科，皮肤科基本都是因为“美容手术”拍的太满，又不是着急的病，所以预约时间一般在一个月以上，私保更快但是私人保险跟公立保险有利有弊，在西欧绝对不是私保就更好那么简单（私保保费反而更便宜，但前提是你不失业不退休）你不是人在欧洲的就不细说了。做 CT 排队一个月，私保直接掏钱当天能做，几十-100 欧吧也很便宜。牙医做 CT 都是直接推门进拔牙当场做的（拔牙优先级在德国很高毕竟牙疼不是病疼起来真要命）。看病平均提供问诊时间大约在 20 分钟，全诊所非常安静，绝对没有里三层外三层围着没隐私那些事儿。新冠疫情期间证明德国意大利人均床位比很足，而且可不是挂走廊架一张床那种简陋床位。当然护士还是不够的。世界各国都缺护士。对了德国开的药很管用，见效很快，这个原因你懂得。简而言之欧洲不是加拿大疯狂引进移民造成人手严重不足的状态，所谓吐槽排队也就是预约去排 1h-2h 顶天了，毕竟你前面看病的病人不能说到点轰走，医生那么对你你也不同意是吧，而且可不是 2 分钟一位哦全民医保是根据民众收入缴纳的，失业一人可以保全家，全家失业挂劳动局缴纳医保了。高收入如不如私保无所谓有利有弊。德国看病好十几年的真实体验，我真没排队超过 2h 的，基本都是 1h 看上",
+      "date_published": "2026-01-30T15:47:06.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189660",
+      "url": "https://www.v2ex.com/t/1189660#reply0",
+      "title": "[推广] Nano Banana Pro AI 图片生成 2 毛钱一张，白菜价了",
+      "content_html": "每月在 AI 工具上花费不少，自己平时做自媒体需要生成图片的，目前最后的还是 Nano Banana Pro ，而谷歌的额度有限使用也不方便，干脆自己搭了一个 Java 的 Nano Banana Pro 生图平台，后面加入了批量生图和 Sora2 视频生成，有需要的可以过来试试，有免费的体验额度，主打一个便宜。<br /><br />访问网址： <a target=\"_blank\" href=\"https://aicodehub.net\" rel=\"nofollow noopener\">https://aicodehub.net</a>",
+      "content_text": "每月在 AI 工具上花费不少，自己平时做自媒体需要生成图片的，目前最后的还是 Nano Banana Pro ，而谷歌的额度有限使用也不方便，干脆自己搭了一个 Java 的 Nano Banana Pro 生图平台，后面加入了批量生图和 Sora2 视频生成，有需要的可以过来试试，有免费的体验额度，主打一个便宜。访问网址： https://aicodehub.net",
+      "date_published": "2026-01-30T15:44:57.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189659",
+      "url": "https://www.v2ex.com/t/1189659#reply0",
+      "title": "[宽带症候群] 很多打着海外住宅代理 IP 的网络被端了",
+      "content_html": "<p>什么海外家庭代理代理这种, 被 Google 安全团队直接给域名都封了,还联合 CF 执行. 这种代理都是后门盗取流量的吧.</p>\n<h4></h4>\n<p><a href=\"https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network\" rel=\"nofollow\">https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network</a></p>\n<h4></h4>\n<p>还是国人搞灰产牛逼,Google 都说是世界最大的代理网络. 在用户设备里面偷偷安装后门, 然后卖流量,卖 IP 赚钱. 真暴力啊</p>\n<p>360 Proxy\n922 Proxy\nABC Proxy\nCherry Proxy\nDoor VPN\nGalleon VPN\nip2world\nIpidea\nLuna Proxy\nPIA S5 Proxy\nPY Proxy\nRadish VPN\nTab Proxy</p>",
+      "content_text": "什么海外家庭代理代理这种, 被 Google 安全团队直接给域名都封了,还联合 CF 执行. 这种代理都是后门盗取流量的吧.\n\nhttps://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network\n\n还是国人搞灰产牛逼,Google 都说是世界最大的代理网络. 在用户设备里面偷偷安装后门, 然后卖流量,卖 IP 赚钱. 真暴力啊\n360 Proxy\n922 Proxy\nABC Proxy\nCherry Proxy\nDoor VPN\nGalleon VPN\nip2world\nIpidea\nLuna Proxy\nPIA S5 Proxy\nPY Proxy\nRadish VPN\nTab Proxy",
+      "date_published": "2026-01-30T15:43:17.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189658",
       "url": "https://www.v2ex.com/t/1189658#reply1",
       "title": "[程序员] Trellis 更新日志: 支持 Windows 系统",

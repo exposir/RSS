@@ -6,6 +6,38 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c78egdg3r0po#0",
+      "url": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
+      "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
+      "content_html": "The judge dismissed a federal murder charge against the 27 year old.",
+      "content_text": "The judge dismissed a federal murder charge against the 27 year old.",
+      "date_published": "2026-01-30T16:29:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cr579mdv4m7o#0",
+      "url": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
+      "title": "UN risks 'imminent financial collapse', secretary general warns",
+      "content_html": "António Guterres says the international body could run out of money by July due to members' unpaid fees.",
+      "content_text": "António Guterres says the international body could run out of money by July due to members' unpaid fees.",
+      "date_published": "2026-01-30T16:24:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/videos/cz9v7xdq0l0o#7",
+      "url": "https://www.bbc.com/sport/tennis/videos/cz9v7xdq0l0o?at_medium=RSS&at_campaign=rss",
+      "title": "Djokovic stuns Sinner in thriller to set up Alcaraz final",
+      "content_html": "Novak Djokovic will meet Carlos Alcaraz in the Australian Open final for the chance of winning a 25th Grand Slam title after winning a five-set epic against defending champion Jannik Sinner.",
+      "content_text": "Novak Djokovic will meet Carlos Alcaraz in the Australian Open final for the chance of winning a 25th Grand Slam title after winning a five-set epic against defending champion Jannik Sinner.",
+      "date_published": "2026-01-30T16:00:37.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvgj5gplpl9o#3",
+      "url": "https://www.bbc.com/news/articles/cvgj5gplpl9o?at_medium=RSS&at_campaign=rss",
+      "title": "Greens name Gorton and Denton by-election pick",
+      "content_html": "The Green Party's leader on Trafford Council has also worked as a plumber since she was 16.",
+      "content_text": "The Green Party's leader on Trafford Council has also worked as a plumber since she was 16.",
+      "date_published": "2026-01-30T16:00:26.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c87r2700dq8o#0",
       "url": "https://www.bbc.com/news/articles/c87r2700dq8o?at_medium=RSS&at_campaign=rss",
       "title": "Three reasons for the record rise in gold prices, and one why they are falling",
@@ -86,6 +118,14 @@
       "date_published": "2026-01-30T12:45:33.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cz0pj0n0yk3o#3",
+      "url": "https://www.bbc.com/news/articles/cz0pj0n0yk3o?at_medium=RSS&at_campaign=rss",
+      "title": "Syrian government reaches deal with Kurdish-led forces",
+      "content_html": "The deal will see the gradual integration of Kurdish forces and administration into the Syrian state.",
+      "content_text": "The deal will see the gradual integration of Kurdish forces and administration into the Syrian state.",
+      "date_published": "2026-01-30T12:42:37.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cz0pj0n0yk3o#0",
       "url": "https://www.bbc.com/news/articles/cz0pj0n0yk3o?at_medium=RSS&at_campaign=rss",
       "title": "Syrian government reaches deal with Kurdish-led forces",
@@ -140,6 +180,14 @@
       "content_html": "The Green Party's leader on Trafford Council has also worked as a plumber since she was 16.",
       "content_text": "The Green Party's leader on Trafford Council has also worked as a plumber since she was 16.",
       "date_published": "2026-01-30T11:45:57.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/cly5xlzjxy3o#7",
+      "url": "https://www.bbc.com/sport/tennis/articles/cly5xlzjxy3o?at_medium=RSS&at_campaign=rss",
+      "title": "Power versus power - will Rybakina or Sabalenka blink first?",
+      "content_html": "Fire versus ice - a contrasting match-up of personalities tennis knows all too well. But how might the Australian Open final between Aryna Sabalenka and Elena Rybakina play out?",
+      "content_text": "Fire versus ice - a contrasting match-up of personalities tennis knows all too well. But how might the Australian Open final between Aryna Sabalenka and Elena Rybakina play out?",
+      "date_published": "2026-01-30T11:42:29.000Z"
     },
     {
       "id": "https://www.bbc.com/news/videos/c3ve0xd451go#1",
@@ -206,6 +254,14 @@
       "date_published": "2026-01-30T10:35:16.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c62w1202jj6o#0",
+      "url": "https://www.bbc.com/news/articles/c62w1202jj6o?at_medium=RSS&at_campaign=rss",
+      "title": "Lib Dems name Gorton and Denton by-election choice",
+      "content_html": "Local activist Jackie Pearcey is the Liberal Democrats' candidate for the Greater Manchester seat.",
+      "content_text": "Local activist Jackie Pearcey is the Liberal Democrats' candidate for the Greater Manchester seat.",
+      "date_published": "2026-01-30T10:20:29.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c62w1202jj6o#3",
       "url": "https://www.bbc.com/news/articles/c62w1202jj6o?at_medium=RSS&at_campaign=rss",
       "title": "Lib Dems name Gorton and Denton by-election choice",
@@ -260,6 +316,14 @@
       "content_html": "Welsh boxer Lauren Price will defend her unified welterweight world titles against Puerto Rican challenger Stephanie Pineiro Aquino on Saturday, 4 April at Cardiff's Utilita Arena.",
       "content_text": "Welsh boxer Lauren Price will defend her unified welterweight world titles against Puerto Rican challenger Stephanie Pineiro Aquino on Saturday, 4 April at Cardiff's Utilita Arena.",
       "date_published": "2026-01-30T08:30:00.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cm2j04lk83zo#1",
+      "url": "https://www.bbc.com/news/articles/cm2j04lk83zo?at_medium=RSS&at_campaign=rss",
+      "title": "Healthcare, visas and whisky: What did UK and China get from Starmer's visit?",
+      "content_html": "Sir Keir Starmer's visit to China brought agreements on visas, services, healthcare, green tech and finance.",
+      "content_text": "Sir Keir Starmer's visit to China brought agreements on visas, services, healthcare, green tech and finance.",
+      "date_published": "2026-01-30T08:23:12.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cm2j04lk83zo#0",

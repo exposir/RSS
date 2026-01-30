@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "22d2e68d-24c5-42a3-9ecb-702b28a40d20",
+      "url": "https://www.smh.com.au/world/north-america/trump-taps-kevin-warsh-to-replace-jerome-powell-as-federal-reserve-chairman-20260131-p5nyga.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Trump taps former Federal Reserve insider to replace Powell",
+      "content_html": "Kevin Warsh, a confidant of the US president, looks poised to push many of Trump’s priorities as a “shadow” Fed chief until Powell’s tenure ends in mid-May.",
+      "content_text": "Kevin Warsh, a confidant of the US president, looks poised to push many of Trump’s priorities as a “shadow” Fed chief until Powell’s tenure ends in mid-May.",
+      "date_published": "2026-01-30T15:45:37.000Z"
+    },
+    {
       "id": "bc611dbd-cc95-4783-b97d-f1a977764abe",
       "url": "https://www.smh.com.au/sport/tennis/djokovic-lost-for-words-after-semi-final-20260131-p5nyg6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Djokovic lost for words after semi final",

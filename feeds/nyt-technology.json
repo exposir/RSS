@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
+      "title": "Tesla’s Model S, Soon to Be History, Changed the Auto Industry",
+      "content_html": "The company’s chief executive, Elon Musk, said this week that it would stop making the car, an electric pioneer in 2012, as well as the Model X.",
+      "content_text": "The company’s chief executive, Elon Musk, said this week that it would stop making the car, an electric pioneer in 2012, as well as the Model X.",
+      "date_published": "2026-01-30T15:52:37.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/podcasts/hardfork-ice-clawdbot.html",
       "url": "https://www.nytimes.com/2026/01/30/podcasts/hardfork-ice-clawdbot.html",
       "title": "Tech Grapples With ICE + Casey Tries Clawdbot, a Risky New A.I. Assistant + HatGPT",
