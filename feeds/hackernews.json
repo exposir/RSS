@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46820360",
+      "url": "https://www.moltbook.com/",
+      "title": "Moltbook",
+      "content_html": "<p>Article URL: <a href=\"https://www.moltbook.com/\">https://www.moltbook.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46820360\">https://news.ycombinator.com/item?id=46820360</a></p>\n<p>Points: 308</p>\n<p># Comments: 156</p>",
+      "content_text": "Article URL: https://www.moltbook.com/\nComments URL: https://news.ycombinator.com/item?id=46820360\nPoints: 308\n# Comments: 156",
+      "date_published": "2026-01-30T03:55:34.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46817813",
       "url": "https://grid.space/stem/",
       "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",

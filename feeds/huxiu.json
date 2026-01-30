@@ -6,6 +6,14 @@
   "description": "虎嗅网RSS订阅",
   "items": [
     {
+      "id": "http://www.huxiu.com/article/4831081.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4831081.html?f=wangzhan",
+      "title": "金银价格大跳水，有色金属变成绿色金属，接下来还能买吗？",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/30/154627001910.jpg\"/>\n<p data-check-id=\"463926\">金银刚创历史新高就来了高台跳水，有色金属也都变成了绿色。金银铜铝油气米，这条涨价链条正在一步步上演，黄金避险，白银跟涨，第三棒铜接力，资本开始切换阵地。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "金银刚创历史新高就来了高台跳水，有色金属也都变成了绿色。金银铜铝油气米，这条涨价链条正在一步步上演，黄金避险，白银跟涨，第三棒铜接力，资本开始切换阵地。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-30T08:33:45.000Z"
+    },
+    {
       "id": "http://www.huxiu.com/article/4830765.html?f=wangzhan",
       "url": "http://www.huxiu.com/article/4830765.html?f=wangzhan",
       "title": "内存缺货，PC涨价：AI需求引发的消费电子涨价潮已至",

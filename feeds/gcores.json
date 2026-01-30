@@ -6,6 +6,14 @@
   "description": "不止是游戏",
   "items": [
     {
+      "id": "https://www.gcores.com/radios/210308",
+      "url": "https://www.gcores.com/radios/210308",
+      "title": "当三个男子躺在一张床上，录音笔VOL.631",
+      "content_html": "<img src=\"https://image.gcores.com/2d7cd8f8c72fce1d8744324f04aa1c61-1600-900.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90\" /><p>【录音笔】是GPASS推出的一档会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右（大概吧）。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。  </p>",
+      "content_text": "【录音笔】是GPASS推出的一档会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右（大概吧）。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。",
+      "date_published": "2026-01-30T09:00:00.000Z"
+    },
+    {
       "id": "https://www.gcores.com/articles/210304",
       "url": "https://www.gcores.com/articles/210304",
       "title": "“蛇叔”登场！《彩虹六号：围攻》将与《潜龙谍影》展开联动",

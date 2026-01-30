@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/29/world/asia/xi-military-purge-taiwan.html",
+      "url": "https://www.nytimes.com/2026/01/29/world/asia/xi-military-purge-taiwan.html",
+      "title": "Xi’s Military Purge May Set Back His Taiwan Ambitions",
+      "content_html": "By ousting his top generals, Xi Jinping has secured absolute control but also hollowed out the command structure preparing for possible war over Taiwan.",
+      "content_text": "By ousting his top generals, Xi Jinping has secured absolute control but also hollowed out the command structure preparing for possible war over Taiwan.",
+      "date_published": "2026-01-30T08:40:11.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/world/canada/heated-rivalry-carney-canada.html",
       "url": "https://www.nytimes.com/2026/01/30/world/canada/heated-rivalry-carney-canada.html",
       "title": "The Secret Sauce in ‘Heated Rivalry’? Canada.",

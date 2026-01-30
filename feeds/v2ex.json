@@ -17,6 +17,174 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189599",
+      "url": "https://www.v2ex.com/t/1189599#reply1",
+      "title": "[全球工单系统] 最新 chrome 里面，用某度搜索“cdn 推荐”或者“腾讯 cdn”无结果",
+      "content_html": "用 ai 之后，就很少用某度了。这是触发了什么关键词还是屏蔽词了吗",
+      "content_text": "用 ai 之后，就很少用某度了。这是触发了什么关键词还是屏蔽词了吗",
+      "date_published": "2026-01-30T09:34:56.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189598",
+      "url": "https://www.v2ex.com/t/1189598#reply0",
+      "title": "[分享创造] 我做了一个网站，想把论文的故事讲清楚",
+      "content_html": "<p>我想讲的是我一个朋友的事。</p>\n<p>他做科研，方向不算冷门，东西也挺扎实。\n有一次他把一篇刚投出去的论文发给我，说你先别看正文，先看 graphical abstract 。\n我点开那张图，看了十几秒，说实话没太看懂。</p>\n<p>他有点急，开始跟我解释：\n这里是背景，这一步是方法，右边其实是最重要的结果。\n他讲的时候逻辑很顺，我一下就明白了。</p>\n<p>我当时心里挺不是滋味的。\n明明这个研究是个好故事，但那张图没把故事讲出来。</p>\n<p>后来他跟我吐槽，说做这张 graphical abstract 花了好几天。\n不是想不清楚逻辑，是全耗在画图上了：\n框怎么摆、箭头怎么连、颜色会不会太乱。\n改到最后，他自己都有点麻木了。</p>\n<p>这件事之后我一直在想一个问题：\n如果 graphical abstract 不是从“画”开始，而是从“讲故事”开始，会不会不一样？</p>\n<p>于是我后来做了一个小网站，叫 <a href=\"https://gaabstract.com\" rel=\"nofollow\"><strong>GAAbstract</strong></a></p>\n<p>我希望它先做的，是把研究里的那条故事线拎出来。\n你给它一段 abstract ，或者一个 PDF ，\n它先帮你理清：为什么要做、怎么做、得到了什么、意味着什么，\n再把这条线变成一张可以继续调整的图。</p>\n<p>我自己后来把这个工具给那位朋友用。\n他说最轻松的地方是：\n终于不用一边画框，一边在脑子里补故事了。</p>\n<p>这个网站就是从那次聊天开始的。\n不是为了把图做得多漂亮，\n只是不想再看到好研究被一张图“讲糊了”。</p>\n<p>如果你也遇到过类似的情况，\n也许这个小工具能帮上一点忙。</p>\n<p><a href=\"https://gaabstract.com\" rel=\"nofollow\">https://gaabstract.com</a></p>",
+      "content_text": "我想讲的是我一个朋友的事。\n他做科研，方向不算冷门，东西也挺扎实。\n有一次他把一篇刚投出去的论文发给我，说你先别看正文，先看 graphical abstract 。\n我点开那张图，看了十几秒，说实话没太看懂。\n他有点急，开始跟我解释：\n这里是背景，这一步是方法，右边其实是最重要的结果。\n他讲的时候逻辑很顺，我一下就明白了。\n我当时心里挺不是滋味的。\n明明这个研究是个好故事，但那张图没把故事讲出来。\n后来他跟我吐槽，说做这张 graphical abstract 花了好几天。\n不是想不清楚逻辑，是全耗在画图上了：\n框怎么摆、箭头怎么连、颜色会不会太乱。\n改到最后，他自己都有点麻木了。\n这件事之后我一直在想一个问题：\n如果 graphical abstract 不是从“画”开始，而是从“讲故事”开始，会不会不一样？\n于是我后来做了一个小网站，叫 GAAbstract\n我希望它先做的，是把研究里的那条故事线拎出来。\n你给它一段 abstract ，或者一个 PDF ，\n它先帮你理清：为什么要做、怎么做、得到了什么、意味着什么，\n再把这条线变成一张可以继续调整的图。\n我自己后来把这个工具给那位朋友用。\n他说最轻松的地方是：\n终于不用一边画框，一边在脑子里补故事了。\n这个网站就是从那次聊天开始的。\n不是为了把图做得多漂亮，\n只是不想再看到好研究被一张图“讲糊了”。\n如果你也遇到过类似的情况，\n也许这个小工具能帮上一点忙。\nhttps://gaabstract.com",
+      "date_published": "2026-01-30T09:27:36.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189596",
+      "url": "https://www.v2ex.com/t/1189596#reply0",
+      "title": "[Java] 关于商用 jdk 收费的问题，有遥测吗？",
+      "content_html": "<p>问了 ai 没答出个所以然，</p>\n<p>比如，azul 的 prime 可以下载用的，商用的，我要是用了，不给钱，还盈利了，小规模比如就一台服务器，azul 是怎么知道我用了的，让我掏钱的？</p>\n<p>还是小公司他们其实也不管，只有大公司才会主动解决这些问题，\n还是说真有什么遥测什么的？</p>",
+      "content_text": "问了 ai 没答出个所以然，\n比如，azul 的 prime 可以下载用的，商用的，我要是用了，不给钱，还盈利了，小规模比如就一台服务器，azul 是怎么知道我用了的，让我掏钱的？\n还是小公司他们其实也不管，只有大公司才会主动解决这些问题，\n还是说真有什么遥测什么的？",
+      "date_published": "2026-01-30T09:19:55.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189595",
+      "url": "https://www.v2ex.com/t/1189595#reply0",
+      "title": "[程序员] [开源] 重构博客：基于 Next.js 16 + Fumadocs",
+      "content_html": "<p>从 xLog 回归自建，为了探索更极致的文档交互与开发者体验，我基于 <strong>Fumadocs</strong> 重构了个人博客。</p>\n<p>使用 <strong>Next.js 16 (React 19)</strong> 和 <strong>Tailwind v4</strong>，引入了 <strong>Twoslash</strong> 静态类型检查，让技术文章拥有 IDE 般的阅读质感。</p>\n<ul>\n<li><strong>GitHub：</strong> [ <a href=\"https://github.com/occupy5/blog\" rel=\"nofollow\">https://github.com/occupy5/blog</a> ]</li>\n<li><strong>Demo：</strong> [ <a href=\"https://shenn.xyz/posts/refactor_blog\" rel=\"nofollow\">https://shenn.xyz/posts/refactor_blog</a> ]</li>\n</ul>\n<h3>核心特性</h3>\n<p><strong>1. 沉浸式代码阅读体验</strong></p>\n<ul>\n<li><strong>IDE 级交互</strong>：集成 Twoslash ，支持代码块内的静态类型检查。鼠标悬停变量即可查看 TypeScript 类型定义。</li>\n<li><strong>智能高亮</strong>：基于 Shiki 的构建时渲染，支持 diff 、focus 等丰富的代码块修饰。</li>\n</ul>\n<p><strong>2. 代码驱动的内容创作</strong></p>\n<ul>\n<li><strong>Mermaid / KaTeX</strong>：原生支持流程图绘制与复杂数学公式渲染。</li>\n<li><strong>MDX 驱动</strong>：组件化写作，灵活嵌入 React 组件。</li>\n</ul>\n<p><strong>3. 极简设计</strong></p>\n<ul>\n<li><strong>排版</strong>：正文 Geist Sans + 代码 JetBrains Mono ，几何无衬线与等宽字体的舒适组合。</li>\n<li><strong>深色模式</strong>：基于 Tailwind CSS v4 的语义化配置，丝滑切换。</li>\n<li><strong>移动优先</strong>：完美的移动端适配。</li>\n</ul>\n<h3>技术栈</h3>\n<ul>\n<li><strong>Framework</strong>: Next.js 16 (App Router) + React 19</li>\n<li><strong>Runtime</strong>: Bun (极速依赖安装与冷启动)</li>\n<li><strong>Linter</strong>: Biome (替代 ESLint/Prettier ，秒级格式化)</li>\n<li><strong>Search</strong>: 本地全文索引（无外部依赖）</li>\n</ul>",
+      "content_text": "从 xLog 回归自建，为了探索更极致的文档交互与开发者体验，我基于 Fumadocs 重构了个人博客。\n使用 Next.js 16 (React 19) 和 Tailwind v4，引入了 Twoslash 静态类型检查，让技术文章拥有 IDE 般的阅读质感。\n\nGitHub： [ https://github.com/occupy5/blog ]\nDemo： [ https://shenn.xyz/posts/refactor_blog ]\n\n核心特性\n1. 沉浸式代码阅读体验\n\nIDE 级交互：集成 Twoslash ，支持代码块内的静态类型检查。鼠标悬停变量即可查看 TypeScript 类型定义。\n智能高亮：基于 Shiki 的构建时渲染，支持 diff 、focus 等丰富的代码块修饰。\n\n2. 代码驱动的内容创作\n\nMermaid / KaTeX：原生支持流程图绘制与复杂数学公式渲染。\nMDX 驱动：组件化写作，灵活嵌入 React 组件。\n\n3. 极简设计\n\n排版：正文 Geist Sans + 代码 JetBrains Mono ，几何无衬线与等宽字体的舒适组合。\n深色模式：基于 Tailwind CSS v4 的语义化配置，丝滑切换。\n移动优先：完美的移动端适配。\n\n技术栈\n\nFramework: Next.js 16 (App Router) + React 19\nRuntime: Bun (极速依赖安装与冷启动)\nLinter: Biome (替代 ESLint/Prettier ，秒级格式化)\nSearch: 本地全文索引（无外部依赖）",
+      "date_published": "2026-01-30T09:16:33.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189594",
+      "url": "https://www.v2ex.com/t/1189594#reply2",
+      "title": "[问与答] 关于 AI 代码生成与评审的疑问",
+      "content_html": "<p>公司在推行使用 AI 进行研发提效，要求尽量使用 AI 生成软件代码，现在同时也推出了一个代码评审 AI ，即在代码提交后，用 AI 评审代码，生成一些评审意见，供 SA 或 TL 参考，决定代码是否入库。我的疑问是，假如我本地使用 AI 生成代码时，已经让 AI 完全遵循公司要求的规则，但是审核时 AI 评审提出了问题，那到底是代码生成 AI 的问题，还是评审 AI 的问题？</p>",
+      "content_text": "公司在推行使用 AI 进行研发提效，要求尽量使用 AI 生成软件代码，现在同时也推出了一个代码评审 AI ，即在代码提交后，用 AI 评审代码，生成一些评审意见，供 SA 或 TL 参考，决定代码是否入库。我的疑问是，假如我本地使用 AI 生成代码时，已经让 AI 完全遵循公司要求的规则，但是审核时 AI 评审提出了问题，那到底是代码生成 AI 的问题，还是评审 AI 的问题？",
+      "date_published": "2026-01-30T09:15:22.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189593",
+      "url": "https://www.v2ex.com/t/1189593#reply0",
+      "title": "[奇思妙想] 分享一套临时的黑绿色 CSS",
+      "content_html": "1 、首页，开启暗黑模式<br />2 、进入设置，自定义 CSS 里，贴入以下 CSS<br /><br />\t:root{<br />\t\t--box-background-color: rgba(255,255,255, 0.11);<br />\t\t--box-background-alt-color: rgba(255,255,255,0.15);<br />\t\t--box-border-color: rgba(255,255,255,0.1);<br />\t\t--link-color: #858e5a;<br />\t\t--box-border-focus-color: #858e5a;<br />\t\t--box-background-hover-color: #858e5a;<br />\t}<br />\t<br />\t#Top {<br />\t\tbackground-color: rgba(0, 0, 0, 0.3);<br />\t\tposition: sticky;<br />\t\ttop: 0;<br />\t\tbackdrop-filter: blur(10px);<br />\t\tz-index: 100;<br />\t}<br />\t<br />\t#Logo {<br />\t\ttransform: rotateY(180deg);<br />\t}<br />\t<br />\tbody, #Wrapper {<br />\t\tbackground-color: black;<br />\t}<br />\t<br />\t.box {<br />\t\t.cell {<br />\t\t\tborder-bottom: 0.5px dashed rgba(255,255,255,0.2);<br />\t\t}<br />\t}<br />\t<br />\t.avatar {<br />\t\tborder-radius: 5px !important;<br />\t}<br />\t<br />\ta.node:active, a.node:link, a.node:visited {<br />\t\tcolor: rgba(255,255,255,0.6);<br />\t}",
+      "content_text": "1 、首页，开启暗黑模式2 、进入设置，自定义 CSS 里，贴入以下 CSS\t:root{\t\t--box-background-color: rgba(255,255,255, 0.11);\t\t--box-background-alt-color: rgba(255,255,255,0.15);\t\t--box-border-color: rgba(255,255,255,0.1);\t\t--link-color: #858e5a;\t\t--box-border-focus-color: #858e5a;\t\t--box-background-hover-color: #858e5a;\t}\t\t#Top {\t\tbackground-color: rgba(0, 0, 0, 0.3);\t\tposition: sticky;\t\ttop: 0;\t\tbackdrop-filter: blur(10px);\t\tz-index: 100;\t}\t\t#Logo {\t\ttransform: rotateY(180deg);\t}\t\tbody, #Wrapper {\t\tbackground-color: black;\t}\t\t.box {\t\t.cell {\t\t\tborder-bottom: 0.5px dashed rgba(255,255,255,0.2);\t\t}\t}\t\t.avatar {\t\tborder-radius: 5px !important;\t}\t\ta.node:active, a.node:link, a.node:visited {\t\tcolor: rgba(255,255,255,0.6);\t}",
+      "date_published": "2026-01-30T09:14:29.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189592",
+      "url": "https://www.v2ex.com/t/1189592#reply0",
+      "title": "[问与答] 关于 Cursor 的计费问题",
+      "content_html": "<p>pro 订阅,这个月 auto 用掉 1.9 亿 tokens US$72.30 。pro 订阅不是每个月只有$20 吗,是因为我是年付$192 的关系,所以扣的是整年的金额吗</p>",
+      "content_text": "pro 订阅,这个月 auto 用掉 1.9 亿 tokens US$72.30 。pro 订阅不是每个月只有$20 吗,是因为我是年付$192 的关系,所以扣的是整年的金额吗",
+      "date_published": "2026-01-30T09:11:18.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189591",
+      "url": "https://www.v2ex.com/t/1189591#reply4",
+      "title": "[人工智能] 群里看到个 AI 删数据的趣事",
+      "content_html": "<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/a0cKb98.jpeg\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/1p3Nb5D.jpeg\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/aFh4rY6.jpeg\"/>\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/FdzPy6r.png\"/></p>",
+      "content_text": "",
+      "date_published": "2026-01-30T09:09:03.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189590",
+      "url": "https://www.v2ex.com/t/1189590#reply0",
+      "title": "[酷工作] [赞德科技] [坐班/社招内推] 招聘 前端 / 后端 / Flutter / QA",
+      "content_html": "<h2>公司简介</h2>\n<p>赞德科技（深圳）有限公司，是 MEDAD HOLDING 全球技术研发的核心引擎，专注于核心系统 开发、前沿科技创新与 7×24 小时全天候技术支持。 加入我们，您将成为一支多元、卓越的国际化团队中的一员。依托深圳作为全球科技人才高地的 独特优势，赞德科技汇聚了顶尖的金融科技研发精英，持续夯实 Medad Holding 平台的技术领 先性、系统安全性与运营稳定性，共创数字金融的未来。</p>\n<h2>高级 Web 前端开发工程师</h2>\n<h3>职位概述：</h3>\n<p>负责公司核心 Web 产品的前端架构设计与开发，主导技术方案选型与性能优化，打造高性能、用户体验优秀的前端产品。</p>\n<h3>核心职责：</h3>\n<ul>\n<li>负责 React 、Next.js 等现代前端框架下的 Web 应用开发与架构设计</li>\n<li>搭建可复用 UI 组件库和前端设计系统，提升团队开发效率</li>\n<li>优化前端性能，保障页面加载速度与用户体验</li>\n<li>与后端团队协作，设计并实现 API 接口与数据交互方案</li>\n<li>推进前端工程化建设，完善 CI/CD 流程与自动化测试体系</li>\n<li>主导前端技术方案选型，解决复杂业务场景下的技术难题</li>\n</ul>\n<h3>任职要求：</h3>\n<ul>\n<li>3-5 年前端开发经验，精通 JavaScript/TypeScript</li>\n<li>熟练掌握 React 、Next.js 等主流前端框架及其生态</li>\n<li>具备前端工程化经验，熟悉 Webpack 、Vite 等构建工具</li>\n<li>熟悉前端性能优化方法与用户体验优化技巧</li>\n<li>了解微前端、跨端技术等前沿架构方案</li>\n<li>具备良好的团队协作能力和技术文档撰写能力</li>\n<li>本科及以上学历，计算机相关专业</li>\n</ul>\n<p><strong>加分项</strong>：</p>\n<ul>\n<li>有大型 SaaS 平台前端架构经验</li>\n<li>熟悉 Node.js 全栈开发</li>\n<li>具备前端安全防护实践经验</li>\n<li>有团队管理或技术引领经验</li>\n</ul>\n<p><strong>我们提供</strong>：</p>\n<ul>\n<li>具有竞争力的薪酬待遇</li>\n<li>参与核心产品研发的机会</li>\n<li>完善的技术成长体系</li>\n<li>开放创新的技术氛围</li>\n</ul>\n<h2>高级后端开发工程师</h2>\n<p>高级后端开发工程师将负责设计、构建和维护集团内多个项目及产品线的后端系统。您将在快节奏、多产品并行的环境中工作，支持包括电子商务、金融科技、运营看板、移动应用以及内部企业系统在内的多种业务单元。\n此职位需要扎实的技术能力、高度责任心，并能在同时构建、改进和维护多个后端架构与服务的环境中游刃有余。</p>\n<h3>一、 主要职责</h3>\n<ul>\n<li>跨多个活跃项目设计、开发、优化和维护后端应用程序。</li>\n<li>构建可支持多产品、多团队及多业务领域的后端系统与可复用组件。</li>\n<li>与前端开发人员紧密协作，交付清晰且文档完备的后端 API （ REST / OpenAPI / GraphQL ）。</li>\n<li>与业务分析师和项目经理协作，细化产品需求。</li>\n<li>对分配的任务具备主人翁意识，并确保其完成。</li>\n<li>使用 Golang 实现可扩展且健壮的后端服务。</li>\n<li>编写自动化测试。</li>\n<li>维护编码规范。</li>\n<li>应用金融科技级别的安全准则。</li>\n<li>跟踪并管理开源依赖项。</li>\n<li>进行代码审查。</li>\n</ul>\n<h3>二、 敏捷与交付支持</h3>\n<ul>\n<li>参与迭代周期内的各项会议。</li>\n<li>协助项目经理和业务分析师。</li>\n<li>提供架构设计方面的建议。</li>\n<li>在 DevSecOps 文化氛围中工作。</li>\n<li>确保系统达到生产就绪标准。</li>\n</ul>\n<h3>三、 关键资质与技能</h3>\n<p>技术技能</p>\n<ul>\n<li>扎实的算法基础。</li>\n<li>后端开发：精通 Golang ，熟悉 JavaScript 、TypeScript 、Java 。</li>\n<li>拥有微服务架构设计经验。</li>\n<li>对前端技术（如 ReactJS ）有所了解。</li>\n<li>理解移动应用的后端需求。</li>\n<li>API 专业知识：精通 REST 、GraphQL ，具备支付集成经验。</li>\n<li>云平台与 DevSecOps：熟悉 AWS/GCP/Azure 、Docker 、Kubernetes 。</li>\n<li>缓存与性能优化：熟悉 Redis 、Kafka 。</li>\n<li>拥有全栈系统开发经验。</li>\n<li>精通 Git 工作流。</li>\n<li>软技能与协作能力</li>\n<li>能够同时管理多个并行项目中的职责。</li>\n<li>出色的跨职能协作能力。</li>\n<li>具备主导技术交付的经验。</li>\n<li>优秀的问题解决能力。</li>\n<li>能适应快节奏工作环境并表现出色。</li>\n<li>强大的沟通能力。  </li>\n</ul>\n<p><strong>加入我们的理由</strong>:</p>\n<ul>\n<li>参与多个创新产品的工作。</li>\n<li>接触现代技术栈。</li>\n<li>职位影响力大，职业发展前景广阔。</li>\n<li>融入国际化的分布式工程团队文化。</li>\n</ul>\n<h2>高级移动应用开发工程师</h2>\n<h3>职位描述</h3>\n<p>负责核心移动应用产品的设计、开发与优化，主导技术方案选型与架构演进，打造高性能、高可用的移动端产品体验。</p>\n<h3>核心职责</h3>\n<ul>\n<li>负责 Flutter 跨平台应用及原生 Android 模块的架构设计、开发与迭代优化</li>\n<li>构建可复用的 UI 组件库和业务模块，提升团队开发效率</li>\n<li>深入优化应用性能，保障帧率稳定性、内存使用效率和功耗控制</li>\n<li>设计与后端 API 的交互方案，确保数据安全与接口稳定性</li>\n<li>建立完善的移动 CI/CD 流程，实现自动化构建、测试与发布</li>\n<li>主导关键技术攻关，解决复杂业务场景下的技术难题</li>\n</ul>\n<h3>任职要求</h3>\n<ul>\n<li>3 年以上移动开发经验，精通 Flutter 框架及 Dart 语言</li>\n<li>具备 Kotlin 跨平台开发或 Jetpack Compose 实战经验</li>\n<li>熟悉 Android/iOS 平台特性，掌握性能优化方法论</li>\n<li>精通主流状态管理方案，熟悉 MVVM 等架构模式</li>\n<li>具备完整的应用上架及迭代发布经验</li>\n<li>具有良好的团队协作意识和系统设计能力</li>\n</ul>\n<p><strong>优先条件</strong>：</p>\n<ul>\n<li>有大型跨平台项目架构设计经验</li>\n<li>具备 Flutter 与原生混合开发实战经验</li>\n<li>熟悉移动端安全规范与加密技术</li>\n</ul>\n<p><strong>我们提供</strong>：</p>\n<ul>\n<li>有竞争力的薪酬体系与晋升通道</li>\n<li>参与核心产品研发的技术成长空间</li>\n<li>完善的移动开发生态与技术栈支持</li>\n</ul>\n<h2>高级测试工程师</h2>\n<h3>职责描述</h3>\n<p>负责公司数字产品的质量保障工作，构建自动化测试体系，确保产品交付质量，提升测试效率。</p>\n<h3>核心职责</h3>\n<ul>\n<li>制定和完善测试策略，编写测试用例，执行功能测试、回归测试、兼容性测试等</li>\n<li>搭建和维护自动化测试框架，开发自动化测试脚本</li>\n<li>进行 API 测试、移动端测试和性能测试</li>\n<li>参与需求评审，提前识别质量风险，制定测试计划</li>\n<li>使用缺陷管理工具跟踪问题，推动问题及时解决</li>\n<li>持续改进测试流程，提升测试效率和覆盖率</li>\n<li>编写和维护测试文档，沉淀测试知识</li>\n</ul>\n<h3>任职要求</h3>\n<ul>\n<li>计算机相关专业本科以上学历，5 年以上测试经验</li>\n<li>精通软件测试理论和测试流程，掌握各种测试方法</li>\n<li>熟练使用 Python/Java 等至少一种编程语言</li>\n<li>掌握 Selenium 、Playwright 等主流自动化测试工具</li>\n<li>具备 API 测试经验，熟悉 Postman 等接口测试工具</li>\n<li>了解持续集成流程，熟悉 Jenkins 、Git 等工具</li>\n<li>具备良好的沟通能力和团队协作精神</li>\n<li>逻辑清晰，责任心强，注重细节</li>\n</ul>\n<p><strong>优先条件</strong>:</p>\n<ul>\n<li>有大型互联网项目测试经验</li>\n<li>熟悉性能测试、安全测试</li>\n<li>具备测试团队管理经验</li>\n</ul>\n<p><strong>我们提供</strong>:</p>\n<ul>\n<li>有竞争力的薪酬待遇</li>\n<li>完善的职业发展通道</li>\n<li>参与核心产品质量建设的机会</li>\n<li>技术交流和培训资源</li>\n</ul>\n<p><strong>加分项</strong>：有银行、区块链、电商相关的经验</p>\n<p>以上岗位，欢迎投递到邮箱(base64)：MTY5MDM4NDUyM0BxcS5jb20=</p>\n<p>PS: 上面是个人邮箱，可帮忙跟踪进度，来信会统一回复。</p>",
+      "content_text": "公司简介\n赞德科技（深圳）有限公司，是 MEDAD HOLDING 全球技术研发的核心引擎，专注于核心系统 开发、前沿科技创新与 7×24 小时全天候技术支持。 加入我们，您将成为一支多元、卓越的国际化团队中的一员。依托深圳作为全球科技人才高地的 独特优势，赞德科技汇聚了顶尖的金融科技研发精英，持续夯实 Medad Holding 平台的技术领 先性、系统安全性与运营稳定性，共创数字金融的未来。\n高级 Web 前端开发工程师\n职位概述：\n负责公司核心 Web 产品的前端架构设计与开发，主导技术方案选型与性能优化，打造高性能、用户体验优秀的前端产品。\n核心职责：\n\n负责 React 、Next.js 等现代前端框架下的 Web 应用开发与架构设计\n搭建可复用 UI 组件库和前端设计系统，提升团队开发效率\n优化前端性能，保障页面加载速度与用户体验\n与后端团队协作，设计并实现 API 接口与数据交互方案\n推进前端工程化建设，完善 CI/CD 流程与自动化测试体系\n主导前端技术方案选型，解决复杂业务场景下的技术难题\n\n任职要求：\n\n3-5 年前端开发经验，精通 JavaScript/TypeScript\n熟练掌握 React 、Next.js 等主流前端框架及其生态\n具备前端工程化经验，熟悉 Webpack 、Vite 等构建工具\n熟悉前端性能优化方法与用户体验优化技巧\n了解微前端、跨端技术等前沿架构方案\n具备良好的团队协作能力和技术文档撰写能力\n本科及以上学历，计算机相关专业\n\n加分项：\n\n有大型 SaaS 平台前端架构经验\n熟悉 Node.js 全栈开发\n具备前端安全防护实践经验\n有团队管理或技术引领经验\n\n我们提供：\n\n具有竞争力的薪酬待遇\n参与核心产品研发的机会\n完善的技术成长体系\n开放创新的技术氛围\n\n高级后端开发工程师\n高级后端开发工程师将负责设计、构建和维护集团内多个项目及产品线的后端系统。您将在快节奏、多产品并行的环境中工作，支持包括电子商务、金融科技、运营看板、移动应用以及内部企业系统在内的多种业务单元。\n此职位需要扎实的技术能力、高度责任心，并能在同时构建、改进和维护多个后端架构与服务的环境中游刃有余。\n一、 主要职责\n\n跨多个活跃项目设计、开发、优化和维护后端应用程序。\n构建可支持多产品、多团队及多业务领域的后端系统与可复用组件。\n与前端开发人员紧密协作，交付清晰且文档完备的后端 API （ REST / OpenAPI / GraphQL ）。\n与业务分析师和项目经理协作，细化产品需求。\n对分配的任务具备主人翁意识，并确保其完成。\n使用 Golang 实现可扩展且健壮的后端服务。\n编写自动化测试。\n维护编码规范。\n应用金融科技级别的安全准则。\n跟踪并管理开源依赖项。\n进行代码审查。\n\n二、 敏捷与交付支持\n\n参与迭代周期内的各项会议。\n协助项目经理和业务分析师。\n提供架构设计方面的建议。\n在 DevSecOps 文化氛围中工作。\n确保系统达到生产就绪标准。\n\n三、 关键资质与技能\n技术技能\n\n扎实的算法基础。\n后端开发：精通 Golang ，熟悉 JavaScript 、TypeScript 、Java 。\n拥有微服务架构设计经验。\n对前端技术（如 ReactJS ）有所了解。\n理解移动应用的后端需求。\nAPI 专业知识：精通 REST 、GraphQL ，具备支付集成经验。\n云平台与 DevSecOps：熟悉 AWS/GCP/Azure 、Docker 、Kubernetes 。\n缓存与性能优化：熟悉 Redis 、Kafka 。\n拥有全栈系统开发经验。\n精通 Git 工作流。\n软技能与协作能力\n能够同时管理多个并行项目中的职责。\n出色的跨职能协作能力。\n具备主导技术交付的经验。\n优秀的问题解决能力。\n能适应快节奏工作环境并表现出色。\n强大的沟通能力。  \n\n加入我们的理由:\n\n参与多个创新产品的工作。\n接触现代技术栈。\n职位影响力大，职业发展前景广阔。\n融入国际化的分布式工程团队文化。\n\n高级移动应用开发工程师\n职位描述\n负责核心移动应用产品的设计、开发与优化，主导技术方案选型与架构演进，打造高性能、高可用的移动端产品体验。\n核心职责\n\n负责 Flutter 跨平台应用及原生 Android 模块的架构设计、开发与迭代优化\n构建可复用的 UI 组件库和业务模块，提升团队开发效率\n深入优化应用性能，保障帧率稳定性、内存使用效率和功耗控制\n设计与后端 API 的交互方案，确保数据安全与接口稳定性\n建立完善的移动 CI/CD 流程，实现自动化构建、测试与发布\n主导关键技术攻关，解决复杂业务场景下的技术难题\n\n任职要求\n\n3 年以上移动开发经验，精通 Flutter 框架及 Dart 语言\n具备 Kotlin 跨平台开发或 Jetpack Compose 实战经验\n熟悉 Android/iOS 平台特性，掌握性能优化方法论\n精通主流状态管理方案，熟悉 MVVM 等架构模式\n具备完整的应用上架及迭代发布经验\n具有良好的团队协作意识和系统设计能力\n\n优先条件：\n\n有大型跨平台项目架构设计经验\n具备 Flutter 与原生混合开发实战经验\n熟悉移动端安全规范与加密技术\n\n我们提供：\n\n有竞争力的薪酬体系与晋升通道\n参与核心产品研发的技术成长空间\n完善的移动开发生态与技术栈支持\n\n高级测试工程师\n职责描述\n负责公司数字产品的质量保障工作，构建自动化测试体系，确保产品交付质量，提升测试效率。\n核心职责\n\n制定和完善测试策略，编写测试用例，执行功能测试、回归测试、兼容性测试等\n搭建和维护自动化测试框架，开发自动化测试脚本\n进行 API 测试、移动端测试和性能测试\n参与需求评审，提前识别质量风险，制定测试计划\n使用缺陷管理工具跟踪问题，推动问题及时解决\n持续改进测试流程，提升测试效率和覆盖率\n编写和维护测试文档，沉淀测试知识\n\n任职要求\n\n计算机相关专业本科以上学历，5 年以上测试经验\n精通软件测试理论和测试流程，掌握各种测试方法\n熟练使用 Python/Java 等至少一种编程语言\n掌握 Selenium 、Playwright 等主流自动化测试工具\n具备 API 测试经验，熟悉 Postman 等接口测试工具\n了解持续集成流程，熟悉 Jenkins 、Git 等工具\n具备良好的沟通能力和团队协作精神\n逻辑清晰，责任心强，注重细节\n\n优先条件:\n\n有大型互联网项目测试经验\n熟悉性能测试、安全测试\n具备测试团队管理经验\n\n我们提供:\n\n有竞争力的薪酬待遇\n完善的职业发展通道\n参与核心产品质量建设的机会\n技术交流和培训资源\n\n加分项：有银行、区块链、电商相关的经验\n以上岗位，欢迎投递到邮箱(base64)：MTY5MDM4NDUyM0BxcS5jb20=\nPS: 上面是个人邮箱，可帮忙跟踪进度，来信会统一回复。",
+      "date_published": "2026-01-30T09:08:22.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189589",
+      "url": "https://www.v2ex.com/t/1189589#reply7",
+      "title": "[问与答] 何为国漫？什么才算好作品？",
+      "content_html": "<p>漫画这个词，是舶来品。</p>\n<p>以前有个词，小人书。诸位，看过《老夫子》吗？</p>\n<p>90 年代的时候，学生看小人书，被老师发现，是要挨板子的。</p>\n<hr/>\n<p>作为一个 80 后，我看过太多日本动画《聪明的一休》《六神合体》《龙神罗斗士》等等，</p>\n<p>还有一堆美国动画《猫与老鼠》《希曼》《唐老鸭和米老鼠》等等。</p>\n<p>那个时候还有，《舒克与贝塔》《邋遢大王》《葫芦娃》《黑猫警长》《阿凡提》等等。</p>\n<p>连环画看过吗？《陈真》《精武门》《霍元甲》等等。</p>\n<hr/>\n<p>漫画，这个东西，在文化历史面前，就是一坨，你懂得。</p>\n<p>仅仅是商业催化的产物，用完即扔。</p>\n<p><strong>有兴趣的人，可以去了解一下，日本动漫黄金时段的社会背景，是个什么情况。</strong></p>\n<hr/>\n<p>不可否认，动漫（动画+漫画）陪伴了许多 80 、90 ，甚至 00 很长一段时间。</p>\n<p>每个时期，每个人能接触到的都不一样。</p>\n<hr/>\n<p>现在成人了，再回过头去看日本动画和漫画，感觉是小儿科</p>\n<p>有这个时间，还不如看看《剑来》《明朝那些事》</p>\n<hr/>\n<p>国内不缺乏好作品，只是没有那么大的驱动力去做。</p>\n<p>如果你以为是吹牛，可以去了解一下，<strong>上海美术电影制片厂</strong>。</p>\n<hr/>\n<p>那些还在使用繁体字的华人圈，比如香港。</p>\n<p>香港也有属于他们自己的“港漫”</p>\n<p>港漫，算国漫吗？</p>\n<hr/>\n<p>现在韩漫也蛮火的，你觉得条漫是发明创造吗？</p>\n<p>《 XX 霸道总裁》《穿越 XX 》《我与 XX 约会》</p>\n<p>这些糟粕未来谁还会记得？谁还会愿意提及？都是一些精神鸦片，难以启齿。</p>\n<hr/>\n<blockquote>\n<p>“有时候，自身接触少，才回有一些奇怪言论。”</p>\n</blockquote>",
+      "content_text": "漫画这个词，是舶来品。\n以前有个词，小人书。诸位，看过《老夫子》吗？\n90 年代的时候，学生看小人书，被老师发现，是要挨板子的。\n\n作为一个 80 后，我看过太多日本动画《聪明的一休》《六神合体》《龙神罗斗士》等等，\n还有一堆美国动画《猫与老鼠》《希曼》《唐老鸭和米老鼠》等等。\n那个时候还有，《舒克与贝塔》《邋遢大王》《葫芦娃》《黑猫警长》《阿凡提》等等。\n连环画看过吗？《陈真》《精武门》《霍元甲》等等。\n\n漫画，这个东西，在文化历史面前，就是一坨，你懂得。\n仅仅是商业催化的产物，用完即扔。\n有兴趣的人，可以去了解一下，日本动漫黄金时段的社会背景，是个什么情况。\n\n不可否认，动漫（动画+漫画）陪伴了许多 80 、90 ，甚至 00 很长一段时间。\n每个时期，每个人能接触到的都不一样。\n\n现在成人了，再回过头去看日本动画和漫画，感觉是小儿科\n有这个时间，还不如看看《剑来》《明朝那些事》\n\n国内不缺乏好作品，只是没有那么大的驱动力去做。\n如果你以为是吹牛，可以去了解一下，上海美术电影制片厂。\n\n那些还在使用繁体字的华人圈，比如香港。\n香港也有属于他们自己的“港漫”\n港漫，算国漫吗？\n\n现在韩漫也蛮火的，你觉得条漫是发明创造吗？\n《 XX 霸道总裁》《穿越 XX 》《我与 XX 约会》\n这些糟粕未来谁还会记得？谁还会愿意提及？都是一些精神鸦片，难以启齿。\n\n\n“有时候，自身接触少，才回有一些奇怪言论。”",
+      "date_published": "2026-01-30T09:06:49.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189588",
+      "url": "https://www.v2ex.com/t/1189588#reply0",
+      "title": "[程序员] 好消息, 硬盘好像没坏",
+      "content_html": "<a target=\"_blank\" href=\"https://www.v2ex.com/t/1188009\" rel=\"nofollow noopener\">https://www.v2ex.com/t/1188009</a><br /><br />接上次, 今天又折腾了一下<br /><br />过程很神奇, 我依然不太明白咋回事<br /><br />我找了一块以前库存硬盘, 打算换上去那个 down 的 pve 机器, 准备重装(我认为原来硬盘已经坏了)<br /><br />结果, 依然无法重装系统, 中途报错...<br /><br />我傻了, 到底是这块硬盘本来就是坏的, 还是因为装到这台机坏了呢, 我有点糊涂了<br /><br />又过了一会, 我突然想, 难道硬盘没坏, 不可能这么巧<br /><br />我找了一台老笔记本, 把原来认为有问题硬盘插上, 插上 u 盘, 娴熟的安装 windows, 结果你猜怎么着, 丝滑完成, 没有任何问题, 顺利重启进入桌面, 我还试了试看几个网页和视频, 没任何问题<br /><br />我现在怀疑那台电脑主板坏了, 可能什么 io 问题,  不能复制文件写文件啥的, 具体是啥还不清楚, 这问题从来没见过, 一块硬盘在这台电脑无法装系统, 另一台却可以<br /><br />坏消息, 我当时以为硬盘坏了, 已经格式化数据了, 真是想不到阿",
+      "content_text": "https://www.v2ex.com/t/1188009接上次, 今天又折腾了一下过程很神奇, 我依然不太明白咋回事我找了一块以前库存硬盘, 打算换上去那个 down 的 pve 机器, 准备重装(我认为原来硬盘已经坏了)结果, 依然无法重装系统, 中途报错...我傻了, 到底是这块硬盘本来就是坏的, 还是因为装到这台机坏了呢, 我有点糊涂了又过了一会, 我突然想, 难道硬盘没坏, 不可能这么巧我找了一台老笔记本, 把原来认为有问题硬盘插上, 插上 u 盘, 娴熟的安装 windows, 结果你猜怎么着, 丝滑完成, 没有任何问题, 顺利重启进入桌面, 我还试了试看几个网页和视频, 没任何问题我现在怀疑那台电脑主板坏了, 可能什么 io 问题,  不能复制文件写文件啥的, 具体是啥还不清楚, 这问题从来没见过, 一块硬盘在这台电脑无法装系统, 另一台却可以坏消息, 我当时以为硬盘坏了, 已经格式化数据了, 真是想不到阿",
+      "date_published": "2026-01-30T09:06:43.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189587",
+      "url": "https://www.v2ex.com/t/1189587#reply1",
+      "title": "[问与答] Whatsapp 成品号有卖吗, 如果接码现在大概什么价位",
+      "content_html": "<p>想要买一批账号做 API, 看了有开源项目可以用. 但是账号问题现在有什么解决方案吗, 看了闲鱼有一些卖的, 但是账号比较少</p>",
+      "content_text": "想要买一批账号做 API, 看了有开源项目可以用. 但是账号问题现在有什么解决方案吗, 看了闲鱼有一些卖的, 但是账号比较少",
+      "date_published": "2026-01-30T09:02:12.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189586",
+      "url": "https://www.v2ex.com/t/1189586#reply2",
+      "title": "[macOS] mac 连接拓展坞会导致系统卡顿吗",
+      "content_html": "<p>拓展坞用的绿联的，鼠标用的罗技 G304 ，macOS 是 26.2</p>\n<p>插上拓展坞使用鼠标，系统就会有肉眼可见的卡顿或掉帧，拔了拓展坞就正常了，不知道大家有没有遇到过类似情况。</p>",
+      "content_text": "拓展坞用的绿联的，鼠标用的罗技 G304 ，macOS 是 26.2\n插上拓展坞使用鼠标，系统就会有肉眼可见的卡顿或掉帧，拔了拓展坞就正常了，不知道大家有没有遇到过类似情况。",
+      "date_published": "2026-01-30T09:00:49.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189585",
+      "url": "https://www.v2ex.com/t/1189585#reply1",
+      "title": "[Vibe Coding] 大家最近有玩那个 Moltbot 吗？ github 上最近很多的那个，感到 10 万多个 star 了！",
+      "content_html": "<p>今天上午抽空玩了一下，就是能通过移动端操作 PC 端这样的一个东西，不过感觉确实会有点方便，但不知道会不会特别费 token 啥的？大家都配置了吗？如何玩的，这是我玩的例子。\n<a href=\"https://mp.weixin.qq.com/s/A_YFMsMQA4uQ4hRliPrX3Q\" rel=\"nofollow\">https://mp.weixin.qq.com/s/A_YFMsMQA4uQ4hRliPrX3Q</a></p>",
+      "content_text": "今天上午抽空玩了一下，就是能通过移动端操作 PC 端这样的一个东西，不过感觉确实会有点方便，但不知道会不会特别费 token 啥的？大家都配置了吗？如何玩的，这是我玩的例子。\nhttps://mp.weixin.qq.com/s/A_YFMsMQA4uQ4hRliPrX3Q",
+      "date_published": "2026-01-30T08:58:27.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189583",
+      "url": "https://www.v2ex.com/t/1189583#reply2",
+      "title": "[分享发现] 三角洲通过火绒禁止上传流量实现灵魂出窍？",
+      "content_html": "<p>在网上看到一个视频，通过火绒自带的流量监控工具禁止三角洲的上传流量，实现灵魂出窍的效果。</p>\n<p>灵魂出窍是指本机可以自由移动角色位置，看到对面的实时信息，但在服务器端并没有移动、</p>",
+      "content_text": "在网上看到一个视频，通过火绒自带的流量监控工具禁止三角洲的上传流量，实现灵魂出窍的效果。\n灵魂出窍是指本机可以自由移动角色位置，看到对面的实时信息，但在服务器端并没有移动、",
+      "date_published": "2026-01-30T08:56:32.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189582",
+      "url": "https://www.v2ex.com/t/1189582#reply0",
+      "title": "[VPS] 使用 CF 反代的 VPS 借路，会有哪些风险？",
+      "content_html": "<ol>\n<li>\n<p>CF 官方允许的后台面板开黄云；</p>\n</li>\n<li>\n<p>优选官方 CDN 的 IP ，手动指定；</p>\n</li>\n<li>\n<p>优先域名设置，后台手动指定；</p>\n</li>\n<li>\n<p>手动指定搜索的 CF 反代第三方 IP ；</p>\n</li>\n</ol>\n<p>第 2 、3 、4 种情况会有风险吗？特别的是第 4 种情况下，有些 IP 是国内的，会不会是陷阱？</p>",
+      "content_text": "CF 官方允许的后台面板开黄云；\n\n\n优选官方 CDN 的 IP ，手动指定；\n\n\n优先域名设置，后台手动指定；\n\n\n手动指定搜索的 CF 反代第三方 IP ；\n\n\n第 2 、3 、4 种情况会有风险吗？特别的是第 4 种情况下，有些 IP 是国内的，会不会是陷阱？",
+      "date_published": "2026-01-30T08:52:48.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189580",
+      "url": "https://www.v2ex.com/t/1189580#reply3",
+      "title": "[问与答] 刚买了 115 网盘 8 年 VIP，请问有啥好玩的路子",
+      "content_html": "<p>老婆喜欢用 Apple TV 看剧，自己找资源的话还是 115 更新的最快，而且直接转存播放就行，也不需要再通过 nas 下载</p>\n<p>好奇问一下 115 网盘还可以用来干嘛，或者追剧有没有其他软件可以配合，以更愉快的观影？</p>",
+      "content_text": "老婆喜欢用 Apple TV 看剧，自己找资源的话还是 115 更新的最快，而且直接转存播放就行，也不需要再通过 nas 下载\n好奇问一下 115 网盘还可以用来干嘛，或者追剧有没有其他软件可以配合，以更愉快的观影？",
+      "date_published": "2026-01-30T08:51:07.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189578",
+      "url": "https://www.v2ex.com/t/1189578#reply6",
+      "title": "[Vibe Coding] glm4.7 是真的拉胯，玩具项目都做不好了。",
+      "content_html": "<p>我买的是 Pro 编码套餐，刚买完前一周左右用起来还行。后面真的是越来越拉胯了。现在连玩具项目都做不好了，真是不想吐槽了。一个点击保存回显的小问题，跑了半个小时愣是跑不出来，还跟我说已经完美解决。暂时还没用过 Anthropic 官方的那些模型，没有对比，不知道是不是也这样。</p>",
+      "content_text": "我买的是 Pro 编码套餐，刚买完前一周左右用起来还行。后面真的是越来越拉胯了。现在连玩具项目都做不好了，真是不想吐槽了。一个点击保存回显的小问题，跑了半个小时愣是跑不出来，还跟我说已经完美解决。暂时还没用过 Anthropic 官方的那些模型，没有对比，不知道是不是也这样。",
+      "date_published": "2026-01-30T08:45:59.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189577",
+      "url": "https://www.v2ex.com/t/1189577#reply3",
+      "title": "[程序员] 重构一个高耦合的模块， agent 用得非常折磨，最后还是 cursor tab 爽",
+      "content_html": "<p>重构对象是一个上游模块，原本采用了比较扭曲的单线程队列调度，重构目标是改成多线程的并发队列，为此还需要把下游全部打通，以对齐队列并发度。这个领域比较偏门，甚至编程思路都不太一样，感觉对 AI 不太友好，实际体验确实比较折腾。</p>\n<p>一开始想用手头的 GLM Coding Plan 接入 Claude Code 当个“甩手掌柜”，结果指示文档都快写成伪代码级别了，效果还是差强人意：agent 只是照猫画虎搞了个并发队列，但关键的状态判断都丢了，跑出来各种静默卡死和数据错误。如果我得把逻辑依赖全部嚼碎了喂给它，那 AI 真是用了个寂寞。</p>\n<p>不过在跟 agent 搏斗的过程中，我对模块的理解确实更加清晰了，因此到了一个是继续细化 Prompt 去控制 Agent 的编码行为还不如自己写来得快的临界点。后来眼看工作进度要受影响了，不得已又开了一个月 Cursor Pro 去用 Tab 功能。自己知道怎么写，再加上 Tab 补全那些机械啰嗦的部分，效率高了很多，简直是最后 3 小时狂推里程碑。Cursor 自己的 agent 也没起什么大作用，基本也就干点替换日志格式之类的杂活比较放心。</p>",
+      "content_text": "重构对象是一个上游模块，原本采用了比较扭曲的单线程队列调度，重构目标是改成多线程的并发队列，为此还需要把下游全部打通，以对齐队列并发度。这个领域比较偏门，甚至编程思路都不太一样，感觉对 AI 不太友好，实际体验确实比较折腾。\n一开始想用手头的 GLM Coding Plan 接入 Claude Code 当个“甩手掌柜”，结果指示文档都快写成伪代码级别了，效果还是差强人意：agent 只是照猫画虎搞了个并发队列，但关键的状态判断都丢了，跑出来各种静默卡死和数据错误。如果我得把逻辑依赖全部嚼碎了喂给它，那 AI 真是用了个寂寞。\n不过在跟 agent 搏斗的过程中，我对模块的理解确实更加清晰了，因此到了一个是继续细化 Prompt 去控制 Agent 的编码行为还不如自己写来得快的临界点。后来眼看工作进度要受影响了，不得已又开了一个月 Cursor Pro 去用 Tab 功能。自己知道怎么写，再加上 Tab 补全那些机械啰嗦的部分，效率高了很多，简直是最后 3 小时狂推里程碑。Cursor 自己的 agent 也没起什么大作用，基本也就干点替换日志格式之类的杂活比较放心。",
+      "date_published": "2026-01-30T08:42:21.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189576",
+      "url": "https://www.v2ex.com/t/1189576#reply9",
+      "title": "[程序员] 「单日 800 Star」经过 8 个月 Claude Code 高强度实战，我们决定开源内部的最佳实践",
+      "content_html": "<p>前天我的 CTO 在 l 站发布了一篇技术贴，没想到竟然小爆了一下。我们当时正在准备开源，原本规划几周后再发,但这次的反响让我们意识到大家对 AI coding 的需求远超想象，于是决定提前开源。</p>\n<p>前天下午，我们正式发布了 Trellis ，在纯自然流的情况下首日收获了 100+ star ，次日收获了 800+ star ，收到了很多有价值的反馈和建议。我们正在开发对 Opencode 和 Windows 的支持，预计今天能完成，其余的大部分问题也我们都会在接下来的几天内解决。</p>\n<p>在此，我准备开源使用 CC 8 个月以来我们的全部心路历程，以及为什么我们选择构建 Trellis ，希望能帮助到大家。</p>\n<p><img alt=\"discord 和 wx 的讨论\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://free-img.400040.xyz/4/2026/01/30/697c69e724123.png\"/></p>\n<p><img alt=\"Star History Chart\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://api.star-history.com/svg?repos=mindfold-ai/Trellis&type=Date\"/></p>\n<h3>我们踩过的坑</h3>\n<p>在说这一切之前必须从我们踩过的坑说起。从 8 个月前 Claude Code 发布开始，我们就在尝试各种开发流程：从最早的 OpenSpec ，到前段时间爆火的 plan-with-files ，再到最近霸榜 trending 的 Superpowers ，我们都有过使用，但可惜结果都是初看很惊艳，但实际效果不尽如人意</p>\n<p>核心问题有两个：</p>\n<ol>\n<li>OpenSpec 类框架：本质上是 PRD-driven ， 而不是 Coding-Spec-driven 。缺少了对代码质量的全局约束，每次开发新任务都需要新建关于项目的架构约束、代码风格、错误处理规则等文档。</li>\n<li>Superpowers 类框架：开源的 skill 都是比较宽泛的，没法解决项目内各种特化的问题，但是即使我们定义了自己的项目规范 skill ，有时也因为幻觉或者上下文过长而没有调用，这带来了不可预测性。最后大部分时候 skill 必须手动使用，使用体感很差。</li>\n</ol>\n<h3>我们的思考</h3>\n<p>我们认为在未来的 AI Framework 里，Spec 和 Skill 必须同时存在：</p>\n<ul>\n<li>Spec 负责约束：确保 AI 始终遵循项目规范，提供可预测性</li>\n<li>Skill 负责能力：按需扩展 AI 的能力边界，保持灵活性</li>\n</ul>\n<p>解决了这两个问题，才能真正提升 AI 的代码质量，再配合上自动上下文注入之后，并行调用、团队协作等能力也就成为可能了。</p>\n<h3>Trellis：为 AI 编码提供结构化支撑</h3>\n<p>下面就要讲到我们的开源框架 Trellis： <a href=\"https://github.com/mindfold-ai/Trellis\" rel=\"nofollow\">https://github.com/mindfold-ai/Trellis</a></p>\n<p>Trellis 的寓意是植物的爬架——我们希望它能像爬架一样，为 AI 编码提供结构化的支撑，让代码自然生长的同时保持方向可控。同时也希望它就像庭院里真实的爬架一样，是高度可自定义的。</p>\n<ol>\n<li>我们给 Spec 加上了分层和索引机制，这样它就拥有了 Skill 的渐进式披露，在节省上下文的同时也确保永远不会遗失关键 context ；</li>\n<li>我们用脚本整合了一套自动注入上下文的 Skill 工作流，让你每次对话都能自动完成一套规范的工作流，而不需要手动调用一堆 command ；</li>\n<li>我们加上了更强的 Todo 管理系统，结合 json 和 md 文档，让它在有丰富的 prd 的同时，有了优先级、能关联工程师、关联 branch&worktree</li>\n<li>最后我们结合上述功能并加上了 multi-agent && multi-session 功能，这样你的 AI 可以判断 Task 复杂度，自行开启一个或多个 worktree 开发任务甚至直接 PR</li>\n</ol>\n<h3>更多可能性</h3>\n<p>这套系统的玩法还非常多，比如 task 系统和任务管理系统比如 Linear 的双向同步；比如自动多模型 Review PR ；甚至像 ClawdBot 一样嵌入到 Slack 、discord 等任何地方…</p>\n<p>最重要的是，没有学习成本：只需三行命令完成初始化，之后像平常一样用 Claude Code 就好了。(因为所有的复杂逻辑我们都已经原生做在了框架内部)</p>\n<p>在过去的几天，我们内部搓了一个自动生成 Leads 的系统；一个每天帮我们刷各种社媒的 agent ；一个支持 ACP 、嵌入 Trellis 的 Cowork GUI…</p>\n<h3>Roadmap</h3>\n<p>与此同时我们还在准备 Trellis 下两个版本的大更新，以及整理团队内部使用的 Skill 包，很快就全量会放出来。</p>\n<p>容我再次插入一个 CTA ，感兴趣的朋友可以 star 一下，支持我们，关注后续进度 👉 <a href=\"https://github.com/mindfold-ai/Trellis\" rel=\"nofollow\">https://github.com/mindfold-ai/Trellis</a></p>",
+      "content_text": "前天我的 CTO 在 l 站发布了一篇技术贴，没想到竟然小爆了一下。我们当时正在准备开源，原本规划几周后再发,但这次的反响让我们意识到大家对 AI coding 的需求远超想象，于是决定提前开源。\n前天下午，我们正式发布了 Trellis ，在纯自然流的情况下首日收获了 100+ star ，次日收获了 800+ star ，收到了很多有价值的反馈和建议。我们正在开发对 Opencode 和 Windows 的支持，预计今天能完成，其余的大部分问题也我们都会在接下来的几天内解决。\n在此，我准备开源使用 CC 8 个月以来我们的全部心路历程，以及为什么我们选择构建 Trellis ，希望能帮助到大家。\n\n\n我们踩过的坑\n在说这一切之前必须从我们踩过的坑说起。从 8 个月前 Claude Code 发布开始，我们就在尝试各种开发流程：从最早的 OpenSpec ，到前段时间爆火的 plan-with-files ，再到最近霸榜 trending 的 Superpowers ，我们都有过使用，但可惜结果都是初看很惊艳，但实际效果不尽如人意\n核心问题有两个：\n\nOpenSpec 类框架：本质上是 PRD-driven ， 而不是 Coding-Spec-driven 。缺少了对代码质量的全局约束，每次开发新任务都需要新建关于项目的架构约束、代码风格、错误处理规则等文档。\nSuperpowers 类框架：开源的 skill 都是比较宽泛的，没法解决项目内各种特化的问题，但是即使我们定义了自己的项目规范 skill ，有时也因为幻觉或者上下文过长而没有调用，这带来了不可预测性。最后大部分时候 skill 必须手动使用，使用体感很差。\n\n我们的思考\n我们认为在未来的 AI Framework 里，Spec 和 Skill 必须同时存在：\n\nSpec 负责约束：确保 AI 始终遵循项目规范，提供可预测性\nSkill 负责能力：按需扩展 AI 的能力边界，保持灵活性\n\n解决了这两个问题，才能真正提升 AI 的代码质量，再配合上自动上下文注入之后，并行调用、团队协作等能力也就成为可能了。\nTrellis：为 AI 编码提供结构化支撑\n下面就要讲到我们的开源框架 Trellis： https://github.com/mindfold-ai/Trellis\nTrellis 的寓意是植物的爬架——我们希望它能像爬架一样，为 AI 编码提供结构化的支撑，让代码自然生长的同时保持方向可控。同时也希望它就像庭院里真实的爬架一样，是高度可自定义的。\n\n我们给 Spec 加上了分层和索引机制，这样它就拥有了 Skill 的渐进式披露，在节省上下文的同时也确保永远不会遗失关键 context ；\n我们用脚本整合了一套自动注入上下文的 Skill 工作流，让你每次对话都能自动完成一套规范的工作流，而不需要手动调用一堆 command ；\n我们加上了更强的 Todo 管理系统，结合 json 和 md 文档，让它在有丰富的 prd 的同时，有了优先级、能关联工程师、关联 branch&worktree\n最后我们结合上述功能并加上了 multi-agent && multi-session 功能，这样你的 AI 可以判断 Task 复杂度，自行开启一个或多个 worktree 开发任务甚至直接 PR\n\n更多可能性\n这套系统的玩法还非常多，比如 task 系统和任务管理系统比如 Linear 的双向同步；比如自动多模型 Review PR ；甚至像 ClawdBot 一样嵌入到 Slack 、discord 等任何地方…\n最重要的是，没有学习成本：只需三行命令完成初始化，之后像平常一样用 Claude Code 就好了。(因为所有的复杂逻辑我们都已经原生做在了框架内部)\n在过去的几天，我们内部搓了一个自动生成 Leads 的系统；一个每天帮我们刷各种社媒的 agent ；一个支持 ACP 、嵌入 Trellis 的 Cowork GUI…\nRoadmap\n与此同时我们还在准备 Trellis 下两个版本的大更新，以及整理团队内部使用的 Skill 包，很快就全量会放出来。\n容我再次插入一个 CTA ，感兴趣的朋友可以 star 一下，支持我们，关注后续进度 👉 https://github.com/mindfold-ai/Trellis",
+      "date_published": "2026-01-30T08:41:07.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189575",
+      "url": "https://www.v2ex.com/t/1189575#reply0",
+      "title": "[问与答] 调查下大家实际收到 CRS 的资金规模门槛都是多少，我是 23 万",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T08:39:40.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189574",
       "url": "https://www.v2ex.com/t/1189574#reply0",
       "title": "[分享创造] [分享] 发现一个挺硬核的开源个人 AI 助理： OpenClaw，让 AI 真正“动起来”",

@@ -6,12 +6,44 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/tennis/articles/clyn9l0zvnpo#7",
+      "url": "https://www.bbc.com/sport/tennis/articles/clyn9l0zvnpo?at_medium=RSS&at_campaign=rss",
+      "title": "Cramping Alcaraz beats Zverev in epic to reach final",
+      "content_html": "A cramping Carlos Alcaraz draws on every physical and mental reserve to beat Alexander Zverev in a five-set epic and reach the Australian Open final.",
+      "content_text": "A cramping Carlos Alcaraz draws on every physical and mental reserve to beat Alexander Zverev in a five-set epic and reach the Australian Open final.",
+      "date_published": "2026-01-30T09:32:47.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/videos/cgl83rwz15zo#0",
+      "url": "https://www.bbc.com/news/videos/cgl83rwz15zo?at_medium=RSS&at_campaign=rss",
+      "title": "'I get nightmares of him': Former patient of surgeon who harmed nearly 100 children tells BBC",
+      "content_html": "12-year-old Vivaan Sharma was one of 94 patients harmed by surgeon Yaser Jabbar",
+      "content_text": "12-year-old Vivaan Sharma was one of 94 patients harmed by surgeon Yaser Jabbar",
+      "date_published": "2026-01-30T09:05:43.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/ce8rr507k7po#3",
+      "url": "https://www.bbc.com/news/articles/ce8rr507k7po?at_medium=RSS&at_campaign=rss",
+      "title": "Welsh horror film shot in England due to smoking ban",
+      "content_html": "The film is a horror involving mythical Welsh fairies, with both main characters chain smokers.",
+      "content_text": "The film is a horror involving mythical Welsh fairies, with both main characters chain smokers.",
+      "date_published": "2026-01-30T08:54:13.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/boxing/articles/cn8jk2y22meo#7",
       "url": "https://www.bbc.com/sport/boxing/articles/cn8jk2y22meo?at_medium=RSS&at_campaign=rss",
       "title": "World champion Price to face Aquino live on BBC",
       "content_html": "Welsh boxer Lauren Price will defend her unified welterweight world titles against Puerto Rican challenger Stephanie Pineiro Aquino on Saturday, 4 April at Cardiff's Utilita Arena.",
       "content_text": "Welsh boxer Lauren Price will defend her unified welterweight world titles against Puerto Rican challenger Stephanie Pineiro Aquino on Saturday, 4 April at Cardiff's Utilita Arena.",
       "date_published": "2026-01-30T08:30:00.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cm2j04lk83zo#0",
+      "url": "https://www.bbc.com/news/articles/cm2j04lk83zo?at_medium=RSS&at_campaign=rss",
+      "title": "What did UK and China get out of Starmer's reset visit? ",
+      "content_html": "Sir Keir Starmer's visit to China brought agreements on visas, services, healthcare, green tech and finance.",
+      "content_text": "Sir Keir Starmer's visit to China brought agreements on visas, services, healthcare, green tech and finance.",
+      "date_published": "2026-01-30T08:23:12.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/american-football/articles/c39pmrln8x9o#7",
@@ -22,12 +54,28 @@
       "date_published": "2026-01-30T07:35:18.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c23ryxre907o#0",
+      "url": "https://www.bbc.com/news/articles/c23ryxre907o?at_medium=RSS&at_campaign=rss",
+      "title": "Indonesian couple caned 140 times for sex and alcohol offences",
+      "content_html": "Caning is a common but controversial punishment for violating Islamic law in Aceh province.",
+      "content_text": "Caning is a common but controversial punishment for violating Islamic law in Aceh province.",
+      "date_published": "2026-01-30T06:53:22.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c24gg91z69eo#1",
       "url": "https://www.bbc.com/news/articles/c24gg91z69eo?at_medium=RSS&at_campaign=rss",
       "title": "A legal blunder allowed the man who abused us at school to escape justice – until now",
       "content_html": "William Brydson, who was \"head of care\" at a Newton Stewart boarding school, has been jailed for a litany of offences.",
       "content_text": "William Brydson, who was \"head of care\" at a Newton Stewart boarding school, has been jailed for a litany of offences.",
       "date_published": "2026-01-30T06:23:37.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c394ymdpjwvo#3",
+      "url": "https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says 'it would be great' if US 'didn't have to use' military force on Iran",
+      "content_html": "The US president says he has told Iran it has to do \"two things\" to avoid military action, as the US builds up its forces in the Gulf.",
+      "content_text": "The US president says he has told Iran it has to do \"two things\" to avoid military action, as the US builds up its forces in the Gulf.",
+      "date_published": "2026-01-30T06:12:01.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c394ymdpjwvo#0",
@@ -292,6 +340,14 @@
       "content_html": "Anthony Joshua posts an emotional YouTube video thanking fans for their support following the deaths of his two close friends in a car crash in Nigeria.",
       "content_text": "Anthony Joshua posts an emotional YouTube video thanking fans for their support following the deaths of his two close friends in a car crash in Nigeria.",
       "date_published": "2026-01-29T21:03:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/cx204g4rn8xo#7",
+      "url": "https://www.bbc.com/sport/football/articles/cx204g4rn8xo?at_medium=RSS&at_campaign=rss",
+      "title": "Sutton's predictions v boxer Francesca Hennessy",
+      "content_html": "BBC Sport football expert Chris Sutton takes on boxer Francesca Hennessy and AI with his predictions for this week's Premier League fixtures.",
+      "content_text": "BBC Sport football expert Chris Sutton takes on boxer Francesca Hennessy and AI with his predictions for this week's Premier League fixtures.",
+      "date_published": "2026-01-29T20:23:04.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c79ry5dwq9jo#3",

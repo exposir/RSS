@@ -6,6 +6,54 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "3d0d1fb6-10e3-498c-9b11-c7d1a1e965c5",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-waves-his-hands-at-winning-point-20260130-p5nyfe.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz waves his hands at winning point",
+      "content_html": "Carlos Alcaraz stays alive in the final set against Alexander Zverev.",
+      "content_text": "Carlos Alcaraz stays alive in the final set against Alexander Zverev.",
+      "date_published": "2026-01-30T09:02:17.000Z"
+    },
+    {
+      "id": "da8b1601-c980-4006-87cb-cb75bf76554f",
+      "url": "https://www.smh.com.au/culture/movies/lavish-documentary-on-us-first-lady-beautifully-shot-but-short-on-substance-20260130-p5nyay.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Melania review: Lavish documentary on US First Lady beautifully shot but short on substance",
+      "content_html": "Amazon is spending more than $100 million on this documentary about Melania Trump. Is it getting its money’s worth?",
+      "content_text": "Amazon is spending more than $100 million on this documentary about Melania Trump. Is it getting its money’s worth?",
+      "date_published": "2026-01-30T08:55:00.000Z"
+    },
+    {
+      "id": "f774a431-78f3-4476-9fdb-173ed987bea8",
+      "url": "https://www.smh.com.au/national/andrew-hastie-says-he-will-not-fight-to-become-liberals-leader-20260130-p5nyfc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Andrew Hastie says he will not fight to become Liberals leader",
+      "content_html": "Andrew Hastie will not challenge Opposition Leader Sussan Ley for leadership of the Liberal Party next week.",
+      "content_text": "Andrew Hastie will not challenge Opposition Leader Sussan Ley for leadership of the Liberal Party next week.",
+      "date_published": "2026-01-30T08:48:48.000Z"
+    },
+    {
+      "id": "33c594eb-fb6a-40a2-9ac8-9796ca29f495",
+      "url": "https://www.smh.com.au/national/man-killed-after-bulldozer-rolls-at-port-of-brisbane-worksite-20260130-p5nyfd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man killed after bulldozer rolls at Port of Brisbane worksite",
+      "content_html": "A man has been killed after a bulldozer rolled at a cement site at the Port of Brisbane.",
+      "content_text": "A man has been killed after a bulldozer rolled at a cement site at the Port of Brisbane.",
+      "date_published": "2026-01-30T08:48:33.000Z"
+    },
+    {
+      "id": "bbf0c2b9-c377-4f96-accb-73c4f7d5e35e",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-hurting-from-zverevs-clinical-shot-20260130-p5nyfb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz 'hurting' from Zverev's clinical shot",
+      "content_html": "Carlos Alcaraz hunches over after Alexander Zverev's winner.",
+      "content_text": "Carlos Alcaraz hunches over after Alexander Zverev's winner.",
+      "date_published": "2026-01-30T08:48:24.000Z"
+    },
+    {
+      "id": "bea1b4c0-cf01-46e4-b738-57fb54926ade",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-receives-standing-ovation-for-miracle-shot-20260130-p5nyfa.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz receives standing ovation for miracle shot",
+      "content_html": "Carlos Alcaraz arrives just in time to pull off a miracle effort.",
+      "content_text": "Carlos Alcaraz arrives just in time to pull off a miracle effort.",
+      "date_published": "2026-01-30T08:48:16.000Z"
+    },
+    {
       "id": "f2479b61-8615-4cc1-98a6-e4d7c90414a4",
       "url": "https://www.smh.com.au/business/companies/1000-fine-for-hiding-45-million-in-bribes-embarrassing-end-to-landmark-corruption-case-20260130-p5nybd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "$1000 fine for hiding $45 million in bribes: ‘Embarrassing’ end to landmark corruption case",
