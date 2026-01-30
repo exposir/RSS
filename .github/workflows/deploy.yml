@@ -40,12 +40,12 @@ jobs:
       # Build Next.js App
       - name: Install Next.js Dependencies
         run: |
-          cd next-app/next-app
+          cd next-app
           npm ci
 
       - name: Build Next.js
         run: |
-          cd next-app/next-app
+          cd next-app
           npm run build
         env:
           NEXT_PUBLIC_BASE_PATH: /RSS/next
@@ -54,7 +54,7 @@ jobs:
       - name: Move Next.js Build to Subpath
         run: |
           mkdir -p dist/next
-          cp -r next-app/next-app/out/* dist/next/
+          cp -r next-app/out/* dist/next/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

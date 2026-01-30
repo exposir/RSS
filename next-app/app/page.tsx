@@ -1,3 +1,9 @@
+/**
+ * [INPUT]: 依赖 useFeeds Hook 获取数据
+ * [OUTPUT]: 渲染主页面 (三栏布局: 订阅源-列表-详情)
+ * [POS]: next-app/app/ 核心页面组件
+ * [PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
+ */
 'use client'
 
 import { useState, useMemo, useEffect } from 'react'
