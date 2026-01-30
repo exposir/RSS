@@ -121,17 +121,16 @@ export default function RSSReader() {
         key={isDesktop ? "desktop-layout" : "mobile-layout"}
         direction="horizontal"
         className="flex-1 h-full items-stretch"
-        id="rss-reader-group-final"
+        id="rss-reader-group-final-v2"
       >
         {/* Left: Feed List */}
         {isDesktop && (
           <>
             <ResizablePanel
-              id="left-panel-final"
-              defaultSize={20}
-              minSize={15}
-              maxSize={30}
-              collapsible={false}
+              id="left-panel-final-v2"
+              defaultSize="20"
+              minSize="15"
+              maxSize="30"
               className="border-r border-border overflow-hidden"
             >
               <FeedList
@@ -152,9 +151,9 @@ export default function RSSReader() {
 
         {/* Middle: Article List */}
         <ResizablePanel
-          id="middle-panel-final"
-          defaultSize={30}
-          minSize={20}
+          id="middle-panel-final-v2"
+          defaultSize="30"
+          minSize="20"
           className={cn(
             "border-r border-border overflow-hidden",
             !isDesktop && "w-full border-none",
@@ -181,8 +180,8 @@ export default function RSSReader() {
           <>
             <ResizableHandle />
             <ResizablePanel
-              id="right-panel-final"
-              defaultSize={50}
+              id="right-panel-final-v2"
+              defaultSize="50"
               className="bg-background overflow-hidden"
             >
               <ArticleDetail article={selectedArticle} />
