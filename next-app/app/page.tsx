@@ -126,6 +126,11 @@ export default function RSSReader() {
         {/* Left: Feed List */}
         {isDesktop && (
           <>
+            {/* 
+              WARNING: react-resizable-panels treats numeric values as PIXELS (e.g. 20 = 20px).
+              For percentages, you MUST use string values (e.g. "20" = 20%).
+              DO NOT CHANGE TO NUMBERS unless you want fixed pixel widths.
+            */}
             <ResizablePanel
               id="left-panel-final-v2"
               defaultSize="20"
