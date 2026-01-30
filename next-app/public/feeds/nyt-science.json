@@ -1,0 +1,361 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "NYT > Science",
+  "home_page_url": "https://www.nytimes.com/section/science",
+  "feed_url": "https://exposir.github.io/RSS/feeds/nyt-science.json",
+  "description": "",
+  "items": [
+    {
+      "id": "https://www.nytimes.com/2026/01/29/health/autism-panel-kennedy-iacc.html",
+      "url": "https://www.nytimes.com/2026/01/29/health/autism-panel-kennedy-iacc.html",
+      "title": "Kennedy Overhauls Federal Autism Panel in His Own Image",
+      "content_html": "The new panel, which advises the government on research and service priorities for people with autism, includes many members who have argued that vaccines cause the disorder.",
+      "content_text": "The new panel, which advises the government on research and service priorities for people with autism, includes many members who have argued that vaccines cause the disorder.",
+      "date_published": "2026-01-30T00:32:45.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/health/longevity-lifespan-age-genes.html",
+      "url": "https://www.nytimes.com/2026/01/29/health/longevity-lifespan-age-genes.html",
+      "title": "Genes May Control Your Longevity, However Healthily You Live",
+      "content_html": "A new study suggests that those with long-lived families probably have the best prospects of making it to a very old age.",
+      "content_text": "A new study suggests that those with long-lived families probably have the best prospects of making it to a very old age.",
+      "date_published": "2026-01-29T19:00:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
+      "url": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
+      "title": "Svalbard Polar Bears Are Getting Fatter (for Now), Study Finds",
+      "content_html": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary.",
+      "content_text": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary.",
+      "date_published": "2026-01-29T18:39:16.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/climate/why-a-new-mexico-developer-quit-natural-gas.html",
+      "url": "https://www.nytimes.com/2026/01/29/climate/why-a-new-mexico-developer-quit-natural-gas.html",
+      "title": "Why a New Mexico Developer Quit Natural Gas",
+      "content_html": "For John Moscato, a land developer in Las Cruces, N.M., installing gas lines at new home sites was “an ongoing headache.” Ditching gas saved him money.",
+      "content_text": "For John Moscato, a land developer in Las Cruces, N.M., installing gas lines at new home sites was “an ongoing headache.” Ditching gas saved him money.",
+      "date_published": "2026-01-29T16:40:19.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/climate/netherlands-bonaire-climate-ruling.html",
+      "url": "https://www.nytimes.com/2026/01/28/climate/netherlands-bonaire-climate-ruling.html",
+      "title": "Dutch Court Orders Netherlands to Protect Bonaire From Climate Change",
+      "content_html": "Bonaire, a Dutch overseas territory, deserves the same protections as Europe, the ruling said. The decision adds to a growing body of precedent worldwide.",
+      "content_text": "Bonaire, a Dutch overseas territory, deserves the same protections as Europe, the ruling said. The decision adds to a growing body of precedent worldwide.",
+      "date_published": "2026-01-28T19:49:22.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/health/texas-lawsuit-delaware-abortion-pills.html",
+      "url": "https://www.nytimes.com/2026/01/28/health/texas-lawsuit-delaware-abortion-pills.html",
+      "title": "Texas Sues Delaware Nurse Practitioner for Mailing Abortion Pills to the State",
+      "content_html": "The case is the latest action taken by a state with an abortion ban against providers in states that support abortion rights.",
+      "content_text": "The case is the latest action taken by a state with an abortion ban against providers in states that support abortion rights.",
+      "date_published": "2026-01-28T19:34:58.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
+      "url": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
+      "title": "Camping on Thwaites Glacier",
+      "content_html": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them.",
+      "content_text": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them.",
+      "date_published": "2026-01-28T17:03:50.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
+      "url": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
+      "title": "With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint",
+      "content_html": "AlphaGenome is a leap forward in the ability to study the human blueprint. But the fine workings of our DNA are still largely a mystery.",
+      "content_text": "AlphaGenome is a leap forward in the ability to study the human blueprint. But the fine workings of our DNA are still largely a mystery.",
+      "date_published": "2026-01-28T16:00:25.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/travel/florida-artemis-ii-moon-launch.html",
+      "url": "https://www.nytimes.com/2026/01/28/travel/florida-artemis-ii-moon-launch.html",
+      "title": "How to View the Artemis II Moon Launch",
+      "content_html": "The first crewed mission around the moon in more than 50 years is coming up. Here’s how to see it at sites in and around the Kennedy Space Center in Florida.",
+      "content_text": "The first crewed mission around the moon in more than 50 years is coming up. Here’s how to see it at sites in and around the Kennedy Space Center in Florida.",
+      "date_published": "2026-01-28T10:02:55.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/climate/isopods-pillbugs-for-sale-online.html",
+      "url": "https://www.nytimes.com/2026/01/28/climate/isopods-pillbugs-for-sale-online.html",
+      "title": "Pillbugs Are Getting Top Dollar Online. Poachers Have Noticed.",
+      "content_html": "A robust, largely unregulated online trade in isopods could pose a serious threat to some vulnerable species, scientists warn.",
+      "content_text": "A robust, largely unregulated online trade in isopods could pose a serious threat to some vulnerable species, scientists warn.",
+      "date_published": "2026-01-28T10:00:33.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/climate/isopods-pillbugs-for-sale-onlilne.html",
+      "url": "https://www.nytimes.com/2026/01/28/climate/isopods-pillbugs-for-sale-onlilne.html",
+      "title": "Pillbugs Are Getting Top Dollar Online. Poachers Have Noticed.",
+      "content_html": "A robust, largely unregulated online trade in isopods could pose a serious threat to some vulnerable species, scientists warn.",
+      "content_text": "A robust, largely unregulated online trade in isopods could pose a serious threat to some vulnerable species, scientists warn.",
+      "date_published": "2026-01-28T10:00:32.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/science/gladys-west-dead.html",
+      "url": "https://www.nytimes.com/2026/01/27/science/gladys-west-dead.html",
+      "title": "Gladys West, Unsung Figure in Development of GPS, Dies at 95",
+      "content_html": "As a Navy mathematician in the 1950s and beyond, she played an unheralded but foundational role in making possible the global satellite-based mapping system.",
+      "content_text": "As a Navy mathematician in the 1950s and beyond, she played an unheralded but foundational role in making possible the global satellite-based mapping system.",
+      "date_published": "2026-01-27T23:13:16.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/science/peter-duesberg-dead.html",
+      "url": "https://www.nytimes.com/2026/01/27/science/peter-duesberg-dead.html",
+      "title": "Peter H. Duesberg, 89, Renowned Biologist Turned H.I.V. Denialist, Dies",
+      "content_html": "His pioneering work on the origins of cancer was later overshadowed by his contrarian views, notably his rejection of the established theory that H.I.V. causes AIDS.",
+      "content_text": "His pioneering work on the origins of cancer was later overshadowed by his contrarian views, notably his rejection of the established theory that H.I.V. causes AIDS.",
+      "date_published": "2026-01-27T22:33:43.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html",
+      "url": "https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html",
+      "title": "How to Cut an Infinitely Large Pancake into as Many Pieces as Possible",
+      "content_html": "A team of mathematicians seeks to cut an infinitely large pancake into as many pieces as possible, in a new take on an old puzzle.",
+      "content_text": "A team of mathematicians seeks to cut an infinitely large pancake into as many pieces as possible, in a new take on an old puzzle.",
+      "date_published": "2026-01-27T22:06:46.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/climate/antarctica-thwaites-radar.html",
+      "url": "https://www.nytimes.com/2026/01/27/climate/antarctica-thwaites-radar.html",
+      "title": "Radar Scans of Antarctica Offer Clues to What’s Happening on Jupiter’s Moon",
+      "content_html": "Scientists are using radar to study damaged ice both in Antarctica and, with the help of a NASA spacecraft, on Jupiter’s ocean moon of Europa.",
+      "content_text": "Scientists are using radar to study damaged ice both in Antarctica and, with the help of a NASA spacecraft, on Jupiter’s ocean moon of Europa.",
+      "date_published": "2026-01-27T21:57:10.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/climate/noaa-deep-sea-mining.html",
+      "url": "https://www.nytimes.com/2026/01/27/climate/noaa-deep-sea-mining.html",
+      "title": "A Shift for NOAA’s Surveys: From Science to Mining",
+      "content_html": "A $20 million agency project will aid companies prospecting the sea for rare-earth elements.",
+      "content_text": "A $20 million agency project will aid companies prospecting the sea for rare-earth elements.",
+      "date_published": "2026-01-27T21:16:39.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
+      "url": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
+      "title": "How Computer Warfare Is Becoming Part of the Pentagon’s Arsenal",
+      "content_html": "The military tested a new approach in Venezuela and during strikes on Iranian nuclear facilities.",
+      "content_text": "The military tested a new approach in Venezuela and during strikes on Iranian nuclear facilities.",
+      "date_published": "2026-01-27T19:50:22.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/climate/michigan-oil-companies-lawsuit-antitrust-affordability.html",
+      "url": "https://www.nytimes.com/2026/01/27/climate/michigan-oil-companies-lawsuit-antitrust-affordability.html",
+      "title": "Michigan Sues Oil Giants, Saying They Collude to Make Energy Costlier",
+      "content_html": "The lawsuit accuses the companies of raising prices by working against solar and wind power and by downplaying the risks of climate change.",
+      "content_text": "The lawsuit accuses the companies of raising prices by working against solar and wind power and by downplaying the risks of climate change.",
+      "date_published": "2026-01-27T19:36:09.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/science/thomas-fogarty-dead.html",
+      "url": "https://www.nytimes.com/2026/01/26/science/thomas-fogarty-dead.html",
+      "title": "Thomas Fogarty, 91, Who Helped Revolutionize Vascular Surgery, Dies",
+      "content_html": "Drawing on his love of fly-fishing, he developed a balloon catheter that removes blood clots from patients’ limbs in a minimally invasive way. It has saved millions of lives.",
+      "content_text": "Drawing on his love of fly-fishing, he developed a balloon catheter that removes blood clots from patients’ limbs in a minimally invasive way. It has saved millions of lives.",
+      "date_published": "2026-01-27T16:23:18.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/climate/paris-climate-agreement-withdrawal.html",
+      "url": "https://www.nytimes.com/2026/01/27/climate/paris-climate-agreement-withdrawal.html",
+      "title": "U.S Has Officially Withdrawn From the Paris Climate Accord",
+      "content_html": "The United States is the only country to pull out of the global agreement among nations to fight climate change. European diplomats say the U.S. reputation is suffering.",
+      "content_text": "The United States is the only country to pull out of the global agreement among nations to fight climate change. European diplomats say the U.S. reputation is suffering.",
+      "date_published": "2026-01-27T15:55:20.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/science/raptor-fossil-dinosaur-skull.html",
+      "url": "https://www.nytimes.com/2026/01/27/science/raptor-fossil-dinosaur-skull.html",
+      "title": "You Wouldn’t Want to Butt Heads With This Small Dinosaur",
+      "content_html": "A newly discovered raptor had a knobby bump on its head, suggesting that, like some larger dinosaurs, it engaged in competitive head bashing.",
+      "content_text": "A newly discovered raptor had a knobby bump on its head, suggesting that, like some larger dinosaurs, it engaged in competitive head bashing.",
+      "date_published": "2026-01-27T10:02:46.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+      "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+      "title": "430,000-Year-Old Wooden Tools Are the Oldest Ever Found",
+      "content_html": "The finding, along with the discovery of a 500,000-year-old hammer made of bone, indicates that our human ancestors were making tools even earlier than archaeologists thought.",
+      "content_text": "The finding, along with the discovery of a 500,000-year-old hammer made of bone, indicates that our human ancestors were making tools even earlier than archaeologists thought.",
+      "date_published": "2026-01-26T22:40:19.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/science/cuttlefish-camouflage-sexual-display.html",
+      "url": "https://www.nytimes.com/2026/01/26/science/cuttlefish-camouflage-sexual-display.html",
+      "title": "A New Way to Flirt: Dazzle Potential Mates With Patterns Invisible to Humans",
+      "content_html": "Cuttlefish attract prospective sexual partners by creating a pattern on their skin, based on the orientation of light waves.",
+      "content_text": "Cuttlefish attract prospective sexual partners by creating a pattern on their skin, based on the orientation of light waves.",
+      "date_published": "2026-01-26T20:00:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/science/edith-flanigen-dead.html",
+      "url": "https://www.nytimes.com/2026/01/24/science/edith-flanigen-dead.html",
+      "title": "Edith Flanigen, Award-Winning Research Chemist, Dies at 96",
+      "content_html": "She and her staff at Union Carbide created synthetic materials that improved various industrial processes, including purifying water. She also developed a way to make emeralds.",
+      "content_text": "She and her staff at Union Carbide created synthetic materials that improved various industrial processes, including purifying water. She also developed a way to make emeralds.",
+      "date_published": "2026-01-25T02:50:32.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/us/william-h-foege-dead.html",
+      "url": "https://www.nytimes.com/2026/01/24/us/william-h-foege-dead.html",
+      "title": "William H. Foege, Key Figure in the Eradication of Smallpox, Dies at 89",
+      "content_html": "His containment strategy helped wipe out the disease in the 1970s, one of the world’s greatest public health triumphs. He also led the C.D.C. and promoted childhood vaccination worldwide.",
+      "content_text": "His containment strategy helped wipe out the disease in the 1970s, one of the world’s greatest public health triumphs. He also led the C.D.C. and promoted childhood vaccination worldwide.",
+      "date_published": "2026-01-25T02:21:41.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/science/pedro-sanchez-dead.html",
+      "url": "https://www.nytimes.com/2026/01/23/science/pedro-sanchez-dead.html",
+      "title": "Pedro Sanchez, Who Helped Feed the Developing World, Dies at 85",
+      "content_html": "A soil scientist, he partnered with the United Nations and other organizations to bring productive agricultural practices to uncooperative terrain.",
+      "content_text": "A soil scientist, he partnered with the United Nations and other organizations to bring productive agricultural practices to uncooperative terrain.",
+      "date_published": "2026-01-25T02:01:50.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/climate/climate-change-polar-vortex.html",
+      "url": "https://www.nytimes.com/2026/01/24/climate/climate-change-polar-vortex.html",
+      "title": "Is Climate Change Weakening the Polar Vortex?",
+      "content_html": "Rising Arctic temperatures and melting sea ice could be causing cold air to flow into the Northern Hemisphere. But not all scientists agree.",
+      "content_text": "Rising Arctic temperatures and melting sea ice could be causing cold air to flow into the Northern Hemisphere. But not all scientists agree.",
+      "date_published": "2026-01-24T20:30:44.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/science/louis-e-brus-dead.html",
+      "url": "https://www.nytimes.com/2026/01/23/science/louis-e-brus-dead.html",
+      "title": "Louis E. Brus, Nobel Laureate Who Illuminated the Nanoworld, Dies at 82",
+      "content_html": "He accidentally created some of the first quantum dots, tiny semiconductors that now power many electronics.",
+      "content_text": "He accidentally created some of the first quantum dots, tiny semiconductors that now power many electronics.",
+      "date_published": "2026-01-24T14:20:34.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/us/children-genetics-race-science.html",
+      "url": "https://www.nytimes.com/2026/01/24/us/children-genetics-race-science.html",
+      "title": "Genetic Data From Over 20,000 U.S. Children Misused for ‘Race Science’",
+      "content_html": "The National Institutes of Health failed to protect brain scans that an international group of fringe researchers used to argue for the intellectual superiority of white people.",
+      "content_text": "The National Institutes of Health failed to protect brain scans that an international group of fringe researchers used to argue for the intellectual superiority of white people.",
+      "date_published": "2026-01-24T10:00:11.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/health/milhoan-vaccines-optional-polio.html",
+      "url": "https://www.nytimes.com/2026/01/23/health/milhoan-vaccines-optional-polio.html",
+      "title": "Vaccine Panel Chair Says Polio and Other Shots Should Be Optional, Rejecting Decades of Science",
+      "content_html": "Dr. Kirk Milhoan, a pediatric cardiologist who leads the Advisory Committee on Immunization Practices, said a person’s right to refuse a vaccine outweighed concerns about illness or death from infectious diseases.",
+      "content_text": "Dr. Kirk Milhoan, a pediatric cardiologist who leads the Advisory Committee on Immunization Practices, said a person’s right to refuse a vaccine outweighed concerns about illness or death from infectious diseases.",
+      "date_published": "2026-01-24T01:15:23.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/health/hepatitis-b-vaccine-africa-study.html",
+      "url": "https://www.nytimes.com/2026/01/22/health/hepatitis-b-vaccine-africa-study.html",
+      "title": "RFK Jr. Plan to Test a Vaccine in West African Babies Is Blocked",
+      "content_html": "A planned U.S.-funded study of a hepatitis B vaccine drew widespread condemnation from researchers. Now the host country says it cannot proceed.",
+      "content_text": "A planned U.S.-funded study of a hepatitis B vaccine drew widespread condemnation from researchers. Now the host country says it cannot proceed.",
+      "date_published": "2026-01-23T16:50:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/climate/antarctica-robot-glider.html",
+      "url": "https://www.nytimes.com/2026/01/23/climate/antarctica-robot-glider.html",
+      "title": "An Antarctic Mission to Recover a Robot’s Data",
+      "content_html": "In the unforgiving polar wilderness, scientists go to great lengths to safeguard the devices that gather precious data.",
+      "content_text": "In the unforgiving polar wilderness, scientists go to great lengths to safeguard the devices that gather precious data.",
+      "date_published": "2026-01-23T12:59:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/us/organ-donation.html",
+      "url": "https://www.nytimes.com/2026/01/23/us/organ-donation.html",
+      "title": "Increased Scrutiny Leads to an Improved Organ Transplant System",
+      "content_html": "A crackdown on problems with fairness and safety is achieving results, including a big drop in the number of sick patients being passed over for transplants.",
+      "content_text": "A crackdown on problems with fairness and safety is achieving results, including a big drop in the number of sick patients being passed over for transplants.",
+      "date_published": "2026-01-23T10:03:35.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/health/health-insurers-obamacare-congress.html",
+      "url": "https://www.nytimes.com/2026/01/22/health/health-insurers-obamacare-congress.html",
+      "title": "Big Insurers Try to Shift Blame for High Health Costs to Hospitals and Drug Makers",
+      "content_html": "At two congressional hearings, lawmakers slammed executives of major companies, saying they were failing to rein in the cost of medical care for consumers.",
+      "content_text": "At two congressional hearings, lawmakers slammed executives of major companies, saying they were failing to rein in the cost of medical care for consumers.",
+      "date_published": "2026-01-22T23:28:33.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/climate/energy-dept-says-it-is-canceling-30-billion-in-clean-energy-loans.html",
+      "url": "https://www.nytimes.com/2026/01/22/climate/energy-dept-says-it-is-canceling-30-billion-in-clean-energy-loans.html",
+      "title": "Energy Dept. Says It Is Canceling $30 Billion in Clean Energy Loans",
+      "content_html": "Many of the cancellations had been known for months, but the announcement underscored the drastic change in the energy landscape under President Trump.",
+      "content_text": "Many of the cancellations had been known for months, but the announcement underscored the drastic change in the energy landscape under President Trump.",
+      "date_published": "2026-01-22T22:41:51.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/health/fetal-tissue-research-ban-trump-nih.html",
+      "url": "https://www.nytimes.com/2026/01/22/health/fetal-tissue-research-ban-trump-nih.html",
+      "title": "Trump Administration Cuts Off Funding for Fetal Tissue Research. Again.",
+      "content_html": "The prohibition halts support for projects both inside and outside the N.I.H. President Biden had restored funding after an earlier ban by President Trump during his first term.",
+      "content_text": "The prohibition halts support for projects both inside and outside the N.I.H. President Biden had restored funding after an earlier ban by President Trump during his first term.",
+      "date_published": "2026-01-22T21:10:47.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/science/space-junk-seismographs.html",
+      "url": "https://www.nytimes.com/2026/01/22/science/space-junk-seismographs.html",
+      "title": "Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands",
+      "content_html": "The sensors used to listen for earthquakes could help protect people from the hazards created by falling spacecraft.",
+      "content_text": "The sensors used to listen for earthquakes could help protect people from the hazards created by falling spacecraft.",
+      "date_published": "2026-01-22T19:00:11.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/world/asia/indonesia-handprint-rock-art-research.html",
+      "url": "https://www.nytimes.com/2026/01/22/world/asia/indonesia-handprint-rock-art-research.html",
+      "title": "A 67,800-Year-Old Handprint May Be the World’s Oldest Rock Art",
+      "content_html": "“It was hiding in plain sight all this time,” one researcher said.",
+      "content_text": "“It was hiding in plain sight all this time,” one researcher said.",
+      "date_published": "2026-01-22T16:22:25.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/health/lung-cancer-antibodies-immune-system.html",
+      "url": "https://www.nytimes.com/2026/01/22/health/lung-cancer-antibodies-immune-system.html",
+      "title": "Some Immune Systems Defeat Cancer. Could That Become a Drug?",
+      "content_html": "Researchers found an antibody that seems to play a role in people with better lung cancer prognoses, but turning it into a treatment could be difficult.",
+      "content_text": "Researchers found an antibody that seems to play a role in people with better lung cancer prognoses, but turning it into a treatment could be difficult.",
+      "date_published": "2026-01-22T14:46:32.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/20/science/birds-feathers-filoplumes-cornell.html",
+      "url": "https://www.nytimes.com/2026/01/20/science/birds-feathers-filoplumes-cornell.html",
+      "title": "Filoplumes Are Nature’s Super Feather",
+      "content_html": "Filoplumes may be tiny, but these hairlike feathers enable nonstop flights that span thousands of miles.",
+      "content_text": "Filoplumes may be tiny, but these hairlike feathers enable nonstop flights that span thousands of miles.",
+      "date_published": "2026-01-21T14:56:03.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/21/climate/winter-olympics-climate-change.html",
+      "url": "https://www.nytimes.com/2026/01/21/climate/winter-olympics-climate-change.html",
+      "title": "Rising Global Temperatures May Affect Choices for Winter Olympic Venues",
+      "content_html": "Future games will need to be held at higher altitudes, and spread over multiple venues in order to adapt to a changing climate, new research suggests.",
+      "content_text": "Future games will need to be held at higher altitudes, and spread over multiple venues in order to adapt to a changing climate, new research suggests.",
+      "date_published": "2026-01-21T12:00:08.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/21/climate/epa-human-life-value.html",
+      "url": "https://www.nytimes.com/2026/01/21/climate/epa-human-life-value.html",
+      "title": "What’s a Human Life Worth? The E.P.A. Says Zero Dollars.",
+      "content_html": "The Environmental Protection Agency has stopped estimating the dollar value of lives saved in the cost-benefit analyses for new pollution rules.",
+      "content_text": "The Environmental Protection Agency has stopped estimating the dollar value of lives saved in the cost-benefit analyses for new pollution rules.",
+      "date_published": "2026-01-21T10:03:16.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html",
+      "url": "https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html",
+      "title": "Thing-Like Robotic Hand Makes Life Resemble ‘The Addams Family’",
+      "content_html": "The very capable robotic picker-upper can grasp things on both sides and roam around freely.",
+      "content_text": "The very capable robotic picker-upper can grasp things on both sides and roam around freely.",
+      "date_published": "2026-01-20T16:00:18.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/19/science/animals-cows-intelligence-tools.html",
+      "url": "https://www.nytimes.com/2026/01/19/science/animals-cows-intelligence-tools.html",
+      "title": "Cows Use Tools, Too, New Study Finds",
+      "content_html": "A pet cow named Veronika can scratch her own back with a broom — the first scientifically documented case of tool use in cows, researchers say.",
+      "content_text": "A pet cow named Veronika can scratch her own back with a broom — the first scientifically documented case of tool use in cows, researchers say.",
+      "date_published": "2026-01-19T16:00:08.000Z"
+    }
+  ]
+}

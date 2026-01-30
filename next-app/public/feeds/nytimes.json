@@ -1,0 +1,265 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "纽约时报中文网 国际纵览",
+  "home_page_url": "https://cn.nytimes.com",
+  "feed_url": "https://exposir.github.io/RSS/feeds/nytimes.json",
+  "description": "纽约时报中文网 国际纵览",
+  "items": [
+    {
+      "id": "https://cn.nytimes.com/business/20260130/ai-secrets-stolen-google-china/",
+      "url": "https://cn.nytimes.com/business/20260130/ai-secrets-stolen-google-china/?utm_source=RSS",
+      "title": "为中国创业项目窃取AI技术，前谷歌工程师被定罪",
+      "content_html": "丁林葳被裁定犯有七项盗窃商业秘密罪和七项经济间谍罪。检方称他从谷歌内部窃取了大量机密资料，随后为一个中国AI创业项目寻求融资，并申请上海的政府人才计划。<p><img src='https://static01.nyt.com/images/2026/01/29/multimedia/29biz-GOOGLE-CHINA-fhmv/29biz-GOOGLE-CHINA-fhmv-articleLarge.jpg' alt='随着技术主导权争夺日趋激烈，近年来针对在美中国公民的类似案件已出现多起。 Kelsey McClellan for The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Kelsey McClellan for The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>随着技术主导权争夺日趋激烈，近年来针对在美中国公民的类似案件已出现多起。</p>",
+      "content_text": "丁林葳被裁定犯有七项盗窃商业秘密罪和七项经济间谍罪。检方称他从谷歌内部窃取了大量机密资料，随后为一个中国AI创业项目寻求融资，并申请上海的政府人才计划。                    Kelsey McClellan for The New York Times                    随着技术主导权争夺日趋激烈，近年来针对在美中国公民的类似案件已出现多起。",
+      "date_published": "2026-01-30T02:25:25.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/world/20260130/china-starmer-xi-jinping/",
+      "url": "https://cn.nytimes.com/world/20260130/china-starmer-xi-jinping/?utm_source=RSS",
+      "title": "斯塔默与习近平会晤，中英关系为何“破冰”？",
+      "content_html": "斯塔默是2018年以来首位访华的英国领导人。美国与其欧洲盟友因安全与贸易争端关系陷入紧张之际，斯塔默试图在不触怒特朗普的情况下向北京示好。<p><img src='https://static01.nyt.com/images/2026/01/29/multimedia/29int-china-starmer-zlqw/29int-china-starmer-zlqw-articleLarge.jpg' alt='周四，在北京参加习近平主席与英国首相斯塔默双边会谈的中英两国代表团。 Carl Court/Getty Images'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Carl Court/Getty Images</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>周四，在北京参加习近平主席与英国首相斯塔默双边会谈的中英两国代表团。</p>",
+      "content_text": "斯塔默是2018年以来首位访华的英国领导人。美国与其欧洲盟友因安全与贸易争端关系陷入紧张之际，斯塔默试图在不触怒特朗普的情况下向北京示好。                    Carl Court/Getty Images                    周四，在北京参加习近平主席与英国首相斯塔默双边会谈的中英两国代表团。",
+      "date_published": "2026-01-30T01:51:38.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/china/20260130/china-woman-mental-illness-rape/",
+      "url": "https://cn.nytimes.com/china/20260130/china-woman-mental-illness-rape/?utm_source=RSS",
+      "title": "精神残障女硕士“被收留”案：男方不予起诉引发众怒",
+      "content_html": "这名被称为“花花”的女子13年前离家出走，被发现时已与一名男子育有多名子女。检方称这名女子“无性自我防卫能力”，但该男子行为与“与强奸犯罪行为存在本质区别”。<p><img src='https://static01.nyt.com/images/2026/01/29/multimedia/29int-china-woman-hltm/29int-china-woman-hltm-articleLarge.jpg' alt='在山西某医院，一名卜姓女子在失踪多年后与亲属重聚，照片由她的嫂子发布在社交媒体上。 Huahuasaozi, via Douyin'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Huahuasaozi, via Douyin</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>在山西某医院，一名卜姓女子在失踪多年后与亲属重聚，照片由她的嫂子发布在社交媒体上。</p>",
+      "content_text": "这名被称为“花花”的女子13年前离家出走，被发现时已与一名男子育有多名子女。检方称这名女子“无性自我防卫能力”，但该男子行为与“与强奸犯罪行为存在本质区别”。                    Huahuasaozi, via Douyin                    在山西某医院，一名卜姓女子在失踪多年后与亲属重聚，照片由她的嫂子发布在社交媒体上。",
+      "date_published": "2026-01-30T01:25:10.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/opinion/20260130/trump-china-policy-xi/",
+      "url": "https://cn.nytimes.com/opinion/20260130/trump-china-policy-xi/?utm_source=RSS",
+      "title": "特朗普对华政策可能让美国付出灾难性代价",
+      "content_html": "特朗普第二任期的对华政策充满矛盾。若其只是为了巩固国内政治地位而对中国采取绥靖政策，那么美国人付出的代价可能是灾难性的。<p><img src='https://static01.nyt.com/images/2026/01/29/multimedia/28campbell-kjtw/28campbell-kjtw-videoLarge.jpg' alt=' Haiyun Jiang/The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Haiyun Jiang/The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'></p>",
+      "content_text": "特朗普第二任期的对华政策充满矛盾。若其只是为了巩固国内政治地位而对中国采取绥靖政策，那么美国人付出的代价可能是灾难性的。                    Haiyun Jiang/The New York Times",
+      "date_published": "2026-01-29T19:42:09.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/china/20260130/xi-zhang-military-purge-taiwan/",
+      "url": "https://cn.nytimes.com/china/20260130/xi-zhang-military-purge-taiwan/?utm_source=RSS",
+      "title": "习近平的军方高层大清洗或阻碍其攻台野心",
+      "content_html": "解放军领导层的空心化使习近平征服台湾的愿景变得更加复杂。他可能需要数年时间来培养可以信任的新一代军官，由此造成的延宕与震荡可能会阻扰其军事目标。<p><img src='https://static01.nyt.com/images/2026/01/30/multimedia/30int-china-general-taiwan-01-zgjb/30int-china-general-taiwan-01-zgjb-articleLarge.jpg' alt='张又侠曾是中国最高级别的军事将领，直到他在习近平对军方高层的清洗行动骤然升级中被立案调查。 Ng Han Guan/Associated Press'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Ng Han Guan/Associated Press</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>张又侠曾是中国最高级别的军事将领，直到他在习近平对军方高层的清洗行动骤然升级中被立案调查。</p>",
+      "content_text": "解放军领导层的空心化使习近平征服台湾的愿景变得更加复杂。他可能需要数年时间来培养可以信任的新一代军官，由此造成的延宕与震荡可能会阻扰其军事目标。                    Ng Han Guan/Associated Press                    张又侠曾是中国最高级别的军事将领，直到他在习近平对军方高层的清洗行动骤然升级中被立案调查。",
+      "date_published": "2026-01-29T18:56:22.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/usa/20260129/heng-guan-china-uyghurs-asylum/",
+      "url": "https://cn.nytimes.com/usa/20260129/heng-guan-china-uyghurs-asylum/?utm_source=RSS",
+      "title": "关恒获美国政治庇护，曾秘密记录新疆拘禁营",
+      "content_html": "关恒曾冒着巨大风险秘密记录中共对维吾尔人的大规模拘禁和监控。他在美国申请政治庇护，但在去年一次移民执法行动中被拘留，其支持者一度担心他会被遣返回中国。<p><img src='https://static01.nyt.com/images/2025/12/15/us/politics/00hfo-nat-chinese-asylum/00nat-chinese-deport1-videoLarge-v2.jpg' alt='关恒，摄于台湾。去年8月，他在纽约州北部被ICE拘留。 via Luo Yun'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>via Luo Yun</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>关恒，摄于台湾。去年8月，他在纽约州北部被ICE拘留。</p>",
+      "content_text": "关恒曾冒着巨大风险秘密记录中共对维吾尔人的大规模拘禁和监控。他在美国申请政治庇护，但在去年一次移民执法行动中被拘留，其支持者一度担心他会被遣返回中国。                    via Luo Yun                    关恒，摄于台湾。去年8月，他在纽约州北部被ICE拘留。",
+      "date_published": "2026-01-29T02:30:18.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/business/20260129/china-economy/",
+      "url": "https://cn.nytimes.com/business/20260129/china-economy/?utm_source=RSS",
+      "title": "在世界最繁忙的港口，感受中国经济的“最好”和“最坏”",
+      "content_html": "宁波港是全球货物吞吐量最大的港口。这座城市的航运和出口工厂从未停止运转，但当地的房地产市场持续低迷，商户和居民感受到经济压力，许多商铺和餐馆门可罗雀。<p><img src='https://static01.nyt.com/images/2026/01/28/multimedia/biz-china-dichotomy-video-still-wfzh/biz-china-dichotomy-video-still-wfzh-articleLarge.jpg' alt=' The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'></p>",
+      "content_text": "宁波港是全球货物吞吐量最大的港口。这座城市的航运和出口工厂从未停止运转，但当地的房地产市场持续低迷，商户和居民感受到经济压力，许多商铺和餐馆门可罗雀。                    The New York Times",
+      "date_published": "2026-01-28T19:49:35.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/usa/20260129/trump-minnesota-noem-bovino-homan-miller/",
+      "url": "https://cn.nytimes.com/usa/20260129/trump-minnesota-noem-bovino-homan-miller/?utm_source=RSS",
+      "title": "特朗普如何意识到他在明尼阿波利斯遇到了大麻烦",
+      "content_html": "特朗普罕见做出策略调整，派白宫边境事务特别顾问前往明尼阿波利斯，称希望“缓和”当地局势。这意味着他意识到自己的惯用手段已在这场危机面前失效。<p><img src='https://static01.nyt.com/images/2026/01/27/multimedia/27dc-trump-minnesota-top-cpqh/27dc-trump-minnesota-top-cpqh-articleLarge.jpg' alt='多年来，特朗普总统磨练出一套面对公众批评的生存策略。 Doug Mills/The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Doug Mills/The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>多年来，特朗普总统磨练出一套面对公众批评的生存策略。</p>",
+      "content_text": "特朗普罕见做出策略调整，派白宫边境事务特别顾问前往明尼阿波利斯，称希望“缓和”当地局势。这意味着他意识到自己的惯用手段已在这场危机面前失效。                    Doug Mills/The New York Times                    多年来，特朗普总统磨练出一套面对公众批评的生存策略。",
+      "date_published": "2026-01-28T17:24:36.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/usa/20260128/census-2025-estimates-population-immigration/",
+      "url": "https://cn.nytimes.com/usa/20260128/census-2025-estimates-population-immigration/?utm_source=RSS",
+      "title": "移民人数骤减，美国人口增长急剧放缓",
+      "content_html": "官方统计数据显示，美国去年人口增长率跌至历史最低水平之一。在特朗普强硬的反移民政策下，移民数较前一年暴跌超50%，而出生率也延续了近20年的下滑趋势。<p><img src='https://static01.nyt.com/images/2026/01/27/multimedia/27nat-census-fjcl/27nat-census-fjcl-videoLarge.jpg' alt='根据最新人口普查估计，佛罗里达州去年人口增长明显放缓。 Scott McIntyre for The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Scott McIntyre for The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>根据最新人口普查估计，佛罗里达州去年人口增长明显放缓。</p>",
+      "content_text": "官方统计数据显示，美国去年人口增长率跌至历史最低水平之一。在特朗普强硬的反移民政策下，移民数较前一年暴跌超50%，而出生率也延续了近20年的下滑趋势。                    Scott McIntyre for The New York Times                    根据最新人口普查估计，佛罗里达州去年人口增长明显放缓。",
+      "date_published": "2026-01-28T02:52:32.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/usa/20260128/alex-pretti-shooting-minneapolis-reaction/",
+      "url": "https://cn.nytimes.com/usa/20260128/alex-pretti-shooting-minneapolis-reaction/?utm_source=RSS",
+      "title": "“看着美国走向分崩离析”：明尼阿波利斯事件震动全美",
+      "content_html": "三周内，两名美国公民遭联邦探员枪杀。明尼阿波利斯暴力动荡的画面让全美各地民众震惊。批评者痛斥执法行动冷酷无情，甚至违背美国精神，但也有人表达了不同看法。<p><img src='https://static01.nyt.com/images/2026/01/26/multimedia/26nat-minn-mood-top-qfmj/26nat-minn-mood-top-qfmj-articleLarge.jpg' alt='在明尼阿波利斯市，联邦特工枪杀亚历克斯·普雷蒂的现场变成了一处悼念地点。 David Guttenfelder/The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>David Guttenfelder/The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>在明尼阿波利斯市，联邦特工枪杀亚历克斯·普雷蒂的现场变成了一处悼念地点。</p>",
+      "content_text": "三周内，两名美国公民遭联邦探员枪杀。明尼阿波利斯暴力动荡的画面让全美各地民众震惊。批评者痛斥执法行动冷酷无情，甚至违背美国精神，但也有人表达了不同看法。                    David Guttenfelder/The New York Times                    在明尼阿波利斯市，联邦特工枪杀亚历克斯·普雷蒂的现场变成了一处悼念地点。",
+      "date_published": "2026-01-28T02:21:55.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/health/20260128/food-diet-nutrition-cancer-risk/",
+      "url": "https://cn.nytimes.com/health/20260128/food-diet-nutrition-cancer-risk/?utm_source=RSS",
+      "title": "吃很重要：这些食物可能降低患癌风险",
+      "content_html": "数十年的研究表明，整体饮食习惯会影响患癌风险。全谷物、新鲜果蔬、豆类等为什么与较低的患癌风险有关？红肉能吃吗？健康饮品有哪些？本文总结了当前已知的研究结论。<p><img src='https://static01.nyt.com/images/2026/01/22/well/WELL-FOOD-CANCER2/WELL-FOOD-CANCER2-videoLarge.jpg' alt=' Bobbi Lin for The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Bobbi Lin for The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'></p>",
+      "content_text": "数十年的研究表明，整体饮食习惯会影响患癌风险。全谷物、新鲜果蔬、豆类等为什么与较低的患癌风险有关？红肉能吃吗？健康饮品有哪些？本文总结了当前已知的研究结论。                    Bobbi Lin for The New York Times",
+      "date_published": "2026-01-27T18:41:58.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/world/20260128/spain-undocumented-migrants-residency/",
+      "url": "https://cn.nytimes.com/world/20260128/spain-undocumented-migrants-residency/?utm_source=RSS",
+      "title": "逆保守潮流，西班牙将“大赦”无证移民",
+      "content_html": "新政将允许已在西班牙居住的无证移民申请临时居留许可，据估算目前该国有超过50万无证移民。移民劳动力对西班牙农业、旅游业等领域至关重要，为经济增长提供了助力。<p><img src='https://static01.nyt.com/images/2026/02/10/multimedia/100000010671007-01-hfjg/100000010671007-01-hfjg-articleLarge.jpg' alt='1月上旬，马德里的一家委内瑞拉小吃摊。周二通过的这项措施将适用于已在西班牙生活的无证移民，其中许多人来自拉丁美洲。 Finbarr O'Reilly for The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Finbarr O'Reilly for The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>1月上旬，马德里的一家委内瑞拉小吃摊。周二通过的这项措施将适用于已在西班牙生活的无证移民，其中许多人来自拉丁美洲。</p>",
+      "content_text": "新政将允许已在西班牙居住的无证移民申请临时居留许可，据估算目前该国有超过50万无证移民。移民劳动力对西班牙农业、旅游业等领域至关重要，为经济增长提供了助力。                    Finbarr O'Reilly for The New York Times                    1月上旬，马德里的一家委内瑞拉小吃摊。周二通过的这项措施将适用于已在西班牙生活的无证移民，其中许多人来自拉丁美洲。",
+      "date_published": "2026-01-27T18:11:55.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/opinion/20260127/taiwan-china-us-trump-xi/",
+      "url": "https://cn.nytimes.com/opinion/20260127/taiwan-china-us-trump-xi/?utm_source=RSS",
+      "title": "美国人最应该关心的岛屿是台湾",
+      "content_html": "在未来十年可能降临世界的种种灾难中，台海战争堪称最恶劣的之一。特朗普沉迷于格陵兰岛的幻想，却对台湾问题漠不关心，这很危险。<p><img src='https://static01.nyt.com/images/2026/01/24/opinion/24kristof/24kristof-articleLarge.jpg' alt='台湾台北。 An Rong Xu'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>An Rong Xu</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>台湾台北。</p>",
+      "content_text": "在未来十年可能降临世界的种种灾难中，台海战争堪称最恶劣的之一。特朗普沉迷于格陵兰岛的幻想，却对台湾问题漠不关心，这很危险。                    An Rong Xu                    台湾台北。",
+      "date_published": "2026-01-27T03:34:25.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/china/20260127/china-xi-zhang-youxia-military/",
+      "url": "https://cn.nytimes.com/china/20260127/china-xi-zhang-youxia-military/?utm_source=RSS",
+      "title": "习近平为何对解放军“二把手”张又侠下手？",
+      "content_html": "张又侠与习近平同为“太子党”，他也是解放军中为数不多拥有实战经验的将领，在军中地位一度看似不可动摇。他落马的消息令外界震惊，也引发了许多疑问。<p><img src='https://static01.nyt.com/images/2026/01/26/multimedia/26int-china-general-khjv/26int-china-general-khjv-articleLarge-v2.jpg' alt='张又侠去年3月在北京出席人大会议。张又侠是习近平钦点的负责解放军改革的几名军官之一。 Adek Berry/Agence France-Presse — Getty Images'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Adek Berry/Agence France-Presse — Getty Images</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>张又侠去年3月在北京出席人大会议。张又侠是习近平钦点的负责解放军改革的几名军官之一。</p>",
+      "content_text": "张又侠与习近平同为“太子党”，他也是解放军中为数不多拥有实战经验的将领，在军中地位一度看似不可动摇。他落马的消息令外界震惊，也引发了许多疑问。                    Adek Berry/Agence France-Presse — Getty Images                    张又侠去年3月在北京出席人大会议。张又侠是习近平钦点的负责解放军改革的几名军官之一。",
+      "date_published": "2026-01-27T01:22:31.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/world/20260127/uk-china-visit-starmer-trade/",
+      "url": "https://cn.nytimes.com/world/20260127/uk-china-visit-starmer-trade/?utm_source=RSS",
+      "title": "英国首相斯塔默访华，伦敦在中美之间“走钢丝”",
+      "content_html": "斯塔默希望从中国寻求新的贸易与投资机会以提振经济，但他必须谨慎周旋于两个超级大国之间。对斯塔默而言，与习近平会面也充满风险。英国社会反中政治情绪日益强烈。<p><img src='https://static01.nyt.com/images/2026/01/27/multimedia/27int-china-starmer-01-tcbl/27int-china-starmer-01-tcbl-articleLarge.jpg' alt='2024年，英国首相斯塔默与中国最高领导人习近平在巴西里约热内卢出席会议。 Stefan Rousseau/Pool, via Reuters'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Stefan Rousseau/Pool, via Reuters</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>2024年，英国首相斯塔默与中国最高领导人习近平在巴西里约热内卢出席会议。</p>",
+      "content_text": "斯塔默希望从中国寻求新的贸易与投资机会以提振经济，但他必须谨慎周旋于两个超级大国之间。对斯塔默而言，与习近平会面也充满风险。英国社会反中政治情绪日益强烈。                    Stefan Rousseau/Pool, via Reuters                    2024年，英国首相斯塔默与中国最高领导人习近平在巴西里约热内卢出席会议。",
+      "date_published": "2026-01-26T20:26:52.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/usa/20260127/minneapolis-protests-midterm-politics/",
+      "url": "https://cn.nytimes.com/usa/20260127/minneapolis-protests-midterm-politics/?utm_source=RSS",
+      "title": "明尼阿波利斯事件对美国意味着什么",
+      "content_html": "特朗普政府打击移民的行动在明尼阿波利斯引发恐惧和混乱，也改变了政治格局。美国各地许多平时避谈政治的人也在讨论此事。至少有部分共和党人与特朗普政府立场相左。<p><img src='https://static01.nyt.com/images/2026/01/26/multimedia/newsletter-1-gjqf/newsletter-1-gjqf-articleLarge.jpg' alt='明尼阿波利斯市为遭联邦特工枪杀的亚历克斯·普雷蒂设立的悼念地点。 Jamie Kelter Davis for The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Jamie Kelter Davis for The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>明尼阿波利斯市为遭联邦特工枪杀的亚历克斯·普雷蒂设立的悼念地点。</p>",
+      "content_text": "特朗普政府打击移民的行动在明尼阿波利斯引发恐惧和混乱，也改变了政治格局。美国各地许多平时避谈政治的人也在讨论此事。至少有部分共和党人与特朗普政府立场相左。                    Jamie Kelter Davis for The New York Times                    明尼阿波利斯市为遭联邦特工枪杀的亚历克斯·普雷蒂设立的悼念地点。",
+      "date_published": "2026-01-26T19:25:08.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/business/20260126/tiktok-china-technology/",
+      "url": "https://cn.nytimes.com/business/20260126/tiktok-china-technology/?utm_source=RSS",
+      "title": "TikTok分拆结局凸显中国科技企业“出海”难题",
+      "content_html": "怀揣全球化愿景的中国企业面临艰难抉择：在美国市场，它们不得不应对地缘政治裂痕及美国各界对中资企业的不信任；而若绕过美国，则意味着无缘进入全球最大的经济体。<p><img src='https://static01.nyt.com/images/2025/09/18/business/CHINA-TIKTOK-1/CHINA-TIKTOK-1-articleLarge.jpg' alt='字节跳动旗下的短视频平台TikTok已成为中美关系中的地缘政治角力场。 Qilai Shen/Bloomberg'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Qilai Shen/Bloomberg</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>字节跳动旗下的短视频平台TikTok已成为中美关系中的地缘政治角力场。</p>",
+      "content_text": "怀揣全球化愿景的中国企业面临艰难抉择：在美国市场，它们不得不应对地缘政治裂痕及美国各界对中资企业的不信任；而若绕过美国，则意味着无缘进入全球最大的经济体。                    Qilai Shen/Bloomberg                    字节跳动旗下的短视频平台TikTok已成为中美关系中的地缘政治角力场。",
+      "date_published": "2026-01-26T03:40:09.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/china/20260126/china-top-general-xi-military-purge/",
+      "url": "https://cn.nytimes.com/china/20260126/china-top-general-xi-military-purge/?utm_source=RSS",
+      "title": "张又侠落马，习近平清洗解放军高层行动再升级",
+      "content_html": "中央军委副主席张又侠是解放军中地位仅次于习近平的将领，且似乎一直是习近平的亲信。他的落马是习近平清洗军方高层行动中迄今最激烈也最令人震惊的一步。<p><img src='https://static01.nyt.com/images/2026/01/24/multimedia/24int-china-military-mvfl/24int-china-military-mvfl-articleLarge.jpg' alt='中国国防部周六表示，中央军委副主席张又侠上将涉嫌严重违纪违法。 Ng Han Guan/Associated Press'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Ng Han Guan/Associated Press</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>中国国防部周六表示，中央军委副主席张又侠上将涉嫌严重违纪违法。</p>",
+      "content_text": "中央军委副主席张又侠是解放军中地位仅次于习近平的将领，且似乎一直是习近平的亲信。他的落马是习近平清洗军方高层行动中迄今最激烈也最令人震惊的一步。                    Ng Han Guan/Associated Press                    中国国防部周六表示，中央军委副主席张又侠上将涉嫌严重违纪违法。",
+      "date_published": "2026-01-26T02:14:40.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/world/20260126/peru-president-chinese-businessmen-meetings/",
+      "url": "https://cn.nytimes.com/world/20260126/peru-president-chinese-businessmen-meetings/?utm_source=RSS",
+      "title": "密会华商引发丑闻，秘鲁总统或遭弹劾",
+      "content_html": "这名华商在秘鲁拥有十多家公司，其中一家建筑公司被指与中资企业的腐败行为有关。两人会面的商店由该华商经营，此前曾因违反市政条例被停业。检方表示已展开贪腐调查。<p><img src='https://static01.nyt.com/images/2026/01/23/multimedia/23int-peru-scandal-kjqc/23int-peru-scandal-kjqc-articleLarge.jpg' alt='周三，秘鲁总统何塞·耶里抵达利马的国会大厦向议员发表讲话。此前他因未公开与华商的会面而陷入丑闻。 Martin Mejia/Associated Press'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Martin Mejia/Associated Press</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>周三，秘鲁总统何塞·耶里抵达利马的国会大厦向议员发表讲话。此前他因未公开与华商的会面而陷入丑闻。</p>",
+      "content_text": "这名华商在秘鲁拥有十多家公司，其中一家建筑公司被指与中资企业的腐败行为有关。两人会面的商店由该华商经营，此前曾因违反市政条例被停业。检方表示已展开贪腐调查。                    Martin Mejia/Associated Press                    周三，秘鲁总统何塞·耶里抵达利马的国会大厦向议员发表讲话。此前他因未公开与华商的会面而陷入丑闻。",
+      "date_published": "2026-01-25T20:37:56.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/world/20260126/trump-china-russia-greenland/",
+      "url": "https://cn.nytimes.com/world/20260126/trump-china-russia-greenland/?utm_source=RSS",
+      "title": "特朗普称格陵兰岛面临中俄威胁，果真如此吗？",
+      "content_html": "专家、现任和前任美国官员均表示，尽管中俄在许多地区与美国存在竞争，但它们并未对美国在格陵兰岛及其周边地区的利益构成威胁。中国在北极地区的实际影响力始终有限。<p><img src='https://static01.nyt.com/images/2026/01/23/multimedia/23dc-greenland-security-01-kmjq/23dc-greenland-security-01-kmjq-articleLarge.jpg' alt='特朗普总统多次声称安全是他希望获得格陵兰岛的理由。 Jonathan Nackstrand/Agence France-Presse — Getty Images'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Jonathan Nackstrand/Agence France-Presse — Getty Images</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>特朗普总统多次声称安全是他希望获得格陵兰岛的理由。</p>",
+      "content_text": "专家、现任和前任美国官员均表示，尽管中俄在许多地区与美国存在竞争，但它们并未对美国在格陵兰岛及其周边地区的利益构成威胁。中国在北极地区的实际影响力始终有限。                    Jonathan Nackstrand/Agence France-Presse — Getty Images                    特朗普总统多次声称安全是他希望获得格陵兰岛的理由。",
+      "date_published": "2026-01-25T20:15:33.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/asia-pacific/20260126/climbing-buildings-skyscrapers-alex-honnold/",
+      "url": "https://cn.nytimes.com/asia-pacific/20260126/climbing-buildings-skyscrapers-alex-honnold/?utm_source=RSS",
+      "title": "徒手攀爬台北101大楼，一场全球直播大冒险",
+      "content_html": "《徒手攀岩》主角霍诺德周日成功登顶了高达508米的台北101大楼。这场徒手攀爬行动由Netflix进行了全球直播，一些人担心这可能会助长未经训练的鲁莽尝试。<p><img src='https://static01.nyt.com/images/2026/02/23/multimedia/23xp-climbing-hwzk/23xp-climbing-hwzk-articleLarge.jpg' alt='成功徒手攀登台北101大楼后，亚历克斯·霍诺德在楼顶向众人挥手致意。 I-Hwa Cheng/Agence France-Presse — Getty Images'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>I-Hwa Cheng/Agence France-Presse — Getty Images</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>成功徒手攀登台北101大楼后，亚历克斯·霍诺德在楼顶向众人挥手致意。</p>",
+      "content_text": "《徒手攀岩》主角霍诺德周日成功登顶了高达508米的台北101大楼。这场徒手攀爬行动由Netflix进行了全球直播，一些人担心这可能会助长未经训练的鲁莽尝试。                    I-Hwa Cheng/Agence France-Presse — Getty Images                    成功徒手攀登台北101大楼后，亚历克斯·霍诺德在楼顶向众人挥手致意。",
+      "date_published": "2026-01-25T18:39:10.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/usa/20260123/greenland-trump-cold-war/",
+      "url": "https://cn.nytimes.com/usa/20260123/greenland-trump-cold-war/?utm_source=RSS",
+      "title": "纳粹、苏联和特朗普：美国对格陵兰岛的迷恋",
+      "content_html": "从二战到冷战，格陵兰岛因战略性地理位置和矿产资源被视为对美国国安至关重要的军事要地，这种理念在冷战结束后短暂衰落，但在特朗普时代强势回归。<p><img src='https://static01.nyt.com/images/2026/01/22/multimedia/22dc-greenland-coldwar-01-zbgk/22dc-greenland-coldwar-01-zbgk-articleLarge.jpg' alt='1966年，格陵兰岛北部，一名当地人带着他的狗拉雪橇，凝望着美国人建造的图勒空军基地。 Scanpix, via Getty Images'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Scanpix, via Getty Images</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>1966年，格陵兰岛北部，一名当地人带着他的狗拉雪橇，凝望着美国人建造的图勒空军基地。</p>",
+      "content_text": "从二战到冷战，格陵兰岛因战略性地理位置和矿产资源被视为对美国国安至关重要的军事要地，这种理念在冷战结束后短暂衰落，但在特朗普时代强势回归。                    Scanpix, via Getty Images                    1966年，格陵兰岛北部，一名当地人带着他的狗拉雪橇，凝望着美国人建造的图勒空军基地。",
+      "date_published": "2026-01-25T01:40:42.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/world/20260123/trump-greenland-foreign-policy/",
+      "url": "https://cn.nytimes.com/world/20260123/trump-greenland-foreign-policy/?utm_source=RSS",
+      "title": "反复无常、有恃无恐：特朗普的达沃斯外交风暴",
+      "content_html": "特朗普在达沃斯充分展现了他令人眩晕的外交风格。他一直将自己的不可预测性视为优势之一，但这也让欧洲人开始质疑美国的可靠性，以及世界是否已抛弃二战后的架构。<p><img src='https://static01.nyt.com/images/2026/01/22/multimedia/22int-davos-trump-wrapup01-photo-jmqh/22int-davos-trump-wrapup01-photo-jmqh-articleLarge.jpg' alt='特朗普总统周三在瑞士达沃斯世界经济论坛与商业领袖们的招待会上。 Doug Mills/The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Doug Mills/The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>特朗普总统周三在瑞士达沃斯世界经济论坛与商业领袖们的招待会上。</p>",
+      "content_text": "特朗普在达沃斯充分展现了他令人眩晕的外交风格。他一直将自己的不可预测性视为优势之一，但这也让欧洲人开始质疑美国的可靠性，以及世界是否已抛弃二战后的架构。                    Doug Mills/The New York Times                    特朗普总统周三在瑞士达沃斯世界经济论坛与商业领袖们的招待会上。",
+      "date_published": "2026-01-23T03:42:03.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/opinion/20260123/trump-europe-greenland/",
+      "url": "https://cn.nytimes.com/opinion/20260123/trump-europe-greenland/?utm_source=RSS",
+      "title": "特朗普让世界认识到来自美国的威胁",
+      "content_html": "特朗普见到弱者会痛打，面对强者则会退缩。他对格陵兰岛的主张终于让人们认识到来自美国的威胁。世界各国的领导人们：请不要绥靖美国。<p><img src='https://static01.nyt.com/images/2026/01/22/multimedia/21kristof-zckb/21kristof-zckb-articleLarge-v2.jpg' alt=' Sean Gallup/Getty Images'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Sean Gallup/Getty Images</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'></p>",
+      "content_text": "特朗普见到弱者会痛打，面对强者则会退缩。他对格陵兰岛的主张终于让人们认识到来自美国的威胁。世界各国的领导人们：请不要绥靖美国。                    Sean Gallup/Getty Images",
+      "date_published": "2026-01-23T02:28:57.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/world/20260123/carney-trump-canada-speech/",
+      "url": "https://cn.nytimes.com/world/20260123/carney-trump-canada-speech/?utm_source=RSS",
+      "title": "对特朗普“掀桌”，加拿大总理卡尼跃升全球政坛明星",
+      "content_html": "卡尼在达沃斯的演讲收获了全球精英的起立鼓掌，他指出各国不应再对特朗普“逆来顺受以求平安”，敦促中等强国共同开辟一条独立于超级大国的道路，获得广泛赞誉。<p><img src='https://static01.nyt.com/images/2026/01/22/multimedia/22canada-carney-bzlg/22canada-carney-bzlg-articleLarge.jpg' alt='周四，加拿大总理马克·卡尼在魁北克市的新闻发布会上。 Mathieu Belanger/Reuters'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Mathieu Belanger/Reuters</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>周四，加拿大总理马克·卡尼在魁北克市的新闻发布会上。</p>",
+      "content_text": "卡尼在达沃斯的演讲收获了全球精英的起立鼓掌，他指出各国不应再对特朗普“逆来顺受以求平安”，敦促中等强国共同开辟一条独立于超级大国的道路，获得广泛赞誉。                    Mathieu Belanger/Reuters                    周四，加拿大总理马克·卡尼在魁北克市的新闻发布会上。",
+      "date_published": "2026-01-22T19:33:48.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/technology/20260123/tiktok-deal-oracle-bytedance-china-us/",
+      "url": "https://cn.nytimes.com/technology/20260123/tiktok-deal-oracle-bytedance-china-us/?utm_source=RSS",
+      "title": "TikTok美国方案落地，结束长达六年法律风波",
+      "content_html": "甲骨文、银湖资本，以及阿联酋投资公司MGX将拥有新公司超过80%的股份。这项协议旨在切断TikTok与中国之间的联系，以解决美国的国家安全担忧。<p><img src='https://static01.nyt.com/images/2026/01/23/business/00tiktok/00tiktok-articleLarge.jpg' alt=' Timo Lenzen'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Timo Lenzen</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'></p>",
+      "content_text": "甲骨文、银湖资本，以及阿联酋投资公司MGX将拥有新公司超过80%的股份。这项协议旨在切断TikTok与中国之间的联系，以解决美国的国家安全担忧。                    Timo Lenzen",
+      "date_published": "2026-01-22T17:34:58.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/asia-pacific/20260122/taiwan-trump-military-gridlock-china/",
+      "url": "https://cn.nytimes.com/asia-pacific/20260122/taiwan-trump-military-gridlock-china/?utm_source=RSS",
+      "title": "赖清德国防特别预算受阻，台湾内部分歧加剧",
+      "content_html": "台湾的政治僵局阻碍了赖清德提出的400亿美元特别军事预算。在特朗普敦促盟友为自身安全承担更多责任之际，这可能引发外界质疑台湾增强防卫的能力。<p><img src='https://static01.nyt.com/images/2026/02/10/multimedia/00int-taiwan-politics-qvcp/00int-taiwan-politics-qvcp-articleLarge.jpg' alt='2025年，台湾总统赖清德视察台湾台东空军基地时检查F-16战斗机驾驶舱。赖清德增加军费的提议遭到了反对党成员的抨击。 Ritchie B Tongo/EPA, via Shutterstock'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Ritchie B Tongo/EPA, via Shutterstock</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>2025年，台湾总统赖清德视察台湾台东空军基地时检查F-16战斗机驾驶舱。赖清德增加军费的提议遭到了反对党成员的抨击。</p>",
+      "content_text": "台湾的政治僵局阻碍了赖清德提出的400亿美元特别军事预算。在特朗普敦促盟友为自身安全承担更多责任之际，这可能引发外界质疑台湾增强防卫的能力。                    Ritchie B Tongo/EPA, via Shutterstock                    2025年，台湾总统赖清德视察台湾台东空军基地时检查F-16战斗机驾驶舱。赖清德增加军费的提议遭到了反对党成员的抨击。",
+      "date_published": "2026-01-22T01:58:16.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/world/20260122/davos-trump-speech-greenland-deal/",
+      "url": "https://cn.nytimes.com/world/20260122/davos-trump-speech-greenland-deal/?utm_source=RSS",
+      "title": "特朗普在达沃斯：美国与盟友上演戏剧性“决裂”",
+      "content_html": "几十年来，各国政治经济领袖齐聚达沃斯，探讨共同的经济和政治未来。但特朗普将它变成了一个舞台，对西方联盟、其领导人和社会的价值观以及世界贸易框架发起言语攻击。<p><img src='https://static01.nyt.com/images/2026/01/21/multimedia/21int-davos-scene01-photo-bqgm/21int-davos-scene01-photo-bqgm-articleLarge.jpg' alt='周三，在达沃斯聆听特朗普总统演讲的与会者。 Doug Mills/The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Doug Mills/The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>周三，在达沃斯聆听特朗普总统演讲的与会者。</p>",
+      "content_text": "几十年来，各国政治经济领袖齐聚达沃斯，探讨共同的经济和政治未来。但特朗普将它变成了一个舞台，对西方联盟、其领导人和社会的价值观以及世界贸易框架发起言语攻击。                    Doug Mills/The New York Times                    周三，在达沃斯聆听特朗普总统演讲的与会者。",
+      "date_published": "2026-01-21T20:22:23.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/business/20260122/davos-trump-xi-china/",
+      "url": "https://cn.nytimes.com/business/20260122/davos-trump-xi-china/?utm_source=RSS",
+      "title": "特朗普抨击全球经济秩序，中国在达沃斯“获胜”？",
+      "content_html": "特朗普宣称美国不会再向欧洲盟友开放市场、誓言推进贸易战。这宣告了美国作为自由民主秩序领导者地位的彻底终结，也凸显了美中在经济理念上的鲜明反差。<p><img src='https://static01.nyt.com/images/2026/01/22/multimedia/22Biz-Davos-Xi-Trump-01-fqlk/22Biz-Davos-Xi-Trump-01-fqlk-articleLarge.jpg' alt='特朗普总统周三在世界经济论坛上对听众表示：“所有人都在占美国的便宜。” Doug Mills/The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Doug Mills/The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>特朗普总统周三在世界经济论坛上对听众表示：“所有人都在占美国的便宜。”</p>",
+      "content_text": "特朗普宣称美国不会再向欧洲盟友开放市场、誓言推进贸易战。这宣告了美国作为自由民主秩序领导者地位的彻底终结，也凸显了美中在经济理念上的鲜明反差。                    Doug Mills/The New York Times                    特朗普总统周三在世界经济论坛上对听众表示：“所有人都在占美国的便宜。”",
+      "date_published": "2026-01-21T19:38:55.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/opinion/20260122/us-china-cold-war-tariffs-trump/",
+      "url": "https://cn.nytimes.com/opinion/20260122/us-china-cold-war-tariffs-trump/?utm_source=RSS",
+      "title": "美国已在与中国的新冷战中举起白旗",
+      "content_html": "经过十年的持续升温，美国关于中美竞争的叙事已悄然转向。华盛顿曾有的歇斯底里正被一种更为克制、充满不确定性，甚至不安的情绪取代。<p><img src='https://static01.nyt.com/images/2026/01/21/opinion/21wallace-wells-newsletter-image/21wallace-wells-newsletter-image-articleLarge.jpg' alt=' Ibrahim Rayintakath'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Ibrahim Rayintakath</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'></p>",
+      "content_text": "经过十年的持续升温，美国关于中美竞争的叙事已悄然转向。华盛顿曾有的歇斯底里正被一种更为克制、充满不确定性，甚至不安的情绪取代。                    Ibrahim Rayintakath",
+      "date_published": "2026-01-21T17:20:42.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/usa/20260121/trump-europe-tensions-greenland/",
+      "url": "https://cn.nytimes.com/usa/20260121/trump-europe-tensions-greenland/?utm_source=RSS",
+      "title": "特朗普继续威胁挑衅，达沃斯前美欧紧张升级",
+      "content_html": "特朗普在格陵兰岛问题上态度强硬，达沃斯论坛俨然成为对决的舞台。他嘲讽性回应欧洲领导人的外交示好，发出新关税威胁。这加深了人们对北约命运的担忧。<p><img src='https://static01.nyt.com/images/2026/01/20/multimedia/20dc-prexy-top-vhtl/20dc-prexy-top-vhtl-articleLarge.jpg' alt='当被问及愿采取何种极端手段夺取格陵兰岛时，特朗普总统对记者表示：“你们会知道的。” Allison Robbert for The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Allison Robbert for The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>当被问及愿采取何种极端手段夺取格陵兰岛时，特朗普总统对记者表示：“你们会知道的。”</p>",
+      "content_text": "特朗普在格陵兰岛问题上态度强硬，达沃斯论坛俨然成为对决的舞台。他嘲讽性回应欧洲领导人的外交示好，发出新关税威胁。这加深了人们对北约命运的担忧。                    Allison Robbert for The New York Times                    当被问及愿采取何种极端手段夺取格陵兰岛时，特朗普总统对记者表示：“你们会知道的。”",
+      "date_published": "2026-01-20T20:07:30.000Z"
+    },
+    {
+      "id": "https://cn.nytimes.com/usa/20260121/trump-one-year-unpredicatability/",
+      "url": "https://cn.nytimes.com/usa/20260121/trump-one-year-unpredicatability/?utm_source=RSS",
+      "title": "特朗普重返白宫一周年：“不可预测”是一种策略吗？",
+      "content_html": "特朗普第二任期的一大真相是没有人知道明天会发生什么。而更深层次的问题是：这些惊人的不可预测性背后是否有什么深谋远虑？还是说这根本只反映了战略的缺失？<p><img src='https://static01.nyt.com/images/2026/01/20/us/politics/20DC-TRUMP-TEAR-TOP-new/20DC-TRUMP-TEAR-TOP-new-videoLarge.jpg' alt='问题正进一步加剧：特朗普总统这些惊人的不可预测性背后是否有什么深谋远虑？还是说根本只是反映了战略的缺失？ Doug Mills/The New York Times'/></p>                    <p style='text-align: right; color: gray; font-size: 11px!important; line-height: 10px;'>Doug Mills/The New York Times</p>                    <p style='text-align: left; color: gray; font-size: 11px!important; line-height: 10px;'>问题正进一步加剧：特朗普总统这些惊人的不可预测性背后是否有什么深谋远虑？还是说根本只是反映了战略的缺失？</p>",
+      "content_text": "特朗普第二任期的一大真相是没有人知道明天会发生什么。而更深层次的问题是：这些惊人的不可预测性背后是否有什么深谋远虑？还是说这根本只反映了战略的缺失？                    Doug Mills/The New York Times                    问题正进一步加剧：特朗普总统这些惊人的不可预测性背后是否有什么深谋远虑？还是说根本只是反映了战略的缺失？",
+      "date_published": "2026-01-20T19:46:04.000Z"
+    }
+  ]
+}

@@ -37,11 +37,24 @@ export function useFeeds() {
   const [error, setError] = useState<string | null>(null)
   const [loadedCount, setLoadedCount] = useState(0)
 
+  // Use configured base path
+  const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || '/RSS/next'
+
   // Load feed index
   const loadFeedIndex = useCallback(async () => {
     try {
-      // Assuming feeds are served from the root path
-      const response = await fetch('/RSS/feeds/index.json')
+      // Fetch from the base path (served from public/feeds in dev, or root feeds/ in prod?)
+      // Wait, in prod (GitHub Pages), feeds are at /RSS/feeds/..., NOT /RSS/next/feeds/...
+      // In dev (Next.js), feeds are at /RSS/next/feeds/... (from public/feeds)
+      
+      // We need a way to distinguish data source origin.
+      // Prod: /RSS/feeds/index.json
+      // Dev: /RSS/next/feeds/index.json (because of basePath)
+      
+      const isDev = process.env.NODE_ENV === 'development'
+      const dataUrl = isDev ? `${BASE_PATH}/feeds/index.json` : '/RSS/feeds/index.json'
+
+      const response = await fetch(dataUrl)
       if (!response.ok) {
         throw new Error(`Failed to load feed index: ${response.statusText}`)
       }
@@ -55,12 +68,21 @@ export function useFeeds() {
       setLoadingIndex(false)
       return []
     }
-  }, [])
+  }, [BASE_PATH])
 
   // Load a single feed
   const loadFeed = useCallback(async (feedInfo: FeedIndex): Promise<Feed | null> => {
     try {
-      const response = await fetch(`/RSS/${feedInfo.output}`)
+      const isDev = process.env.NODE_ENV === 'development'
+      // Handle feed.output which usually starts with 'feeds/'
+      // Prod: /RSS/feeds/xxx.json
+      // Dev: /RSS/next/feeds/xxx.json
+      
+      const relativePath = feedInfo.output.startsWith('/') ? feedInfo.output.slice(1) : feedInfo.output
+      const baseUrl = isDev ? BASE_PATH : '/RSS'
+      const url = `${baseUrl}/${relativePath}`
+
+      const response = await fetch(url)
       if (!response.ok) {
         throw new Error(`Failed to load ${feedInfo.name}`)
       }
@@ -70,7 +92,7 @@ export function useFeeds() {
       console.error(`Error loading feed ${feedInfo.name}:`, err)
       return null
     }
-  }, [])
+  }, [BASE_PATH])
 
   // Load all feeds progressively
   const loadAllFeeds = useCallback(async () => {

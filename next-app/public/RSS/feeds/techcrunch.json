@@ -1,0 +1,761 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "TechCrunch",
+  "home_page_url": "https://techcrunch.com/",
+  "feed_url": "https://exposir.github.io/RSS/feeds/techcrunch.json",
+  "description": "Startup and Technology News",
+  "items": [
+    {
+      "id": "https://techcrunch.com/?p=3088129",
+      "url": "https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/",
+      "title": "How Sequoia-backed Ethos reached the public market while rivals fell short",
+      "content_html": "The profitable life-insurance platform was one of the first major tech companies to test the 2026 public markets.",
+      "content_text": "The profitable life-insurance platform was one of the first major tech companies to test the 2026 public markets.",
+      "date_published": "2026-01-30T01:33:13.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3088085",
+      "url": "https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/",
+      "title": "The iPhone just had its best quarter ever",
+      "content_html": "Growth in regions like China and India are credited with pushing Apple's phone sales higher than ever.",
+      "content_text": "Growth in regions like China and India are credited with pushing Apple's phone sales higher than ever.",
+      "date_published": "2026-01-29T23:57:21.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3088089",
+      "url": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
+      "title": "Guys, I don&#8217;t think Tim Cook knows how to monetize AI",
+      "content_html": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
+      "content_text": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
+      "date_published": "2026-01-29T23:51:17.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3088038",
+      "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+      "title": "Amazon is reportedly in talks to invest $50 billion in OpenAI",
+      "content_html": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
+      "content_text": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
+      "date_published": "2026-01-29T22:11:09.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3088006",
+      "url": "https://techcrunch.com/2026/01/29/medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice/",
+      "title": "Medium gives employees Friday off to participate in national strike protesting ICE",
+      "content_html": "Medium gives its employees the option to take the day off to protest on Friday.",
+      "content_text": "Medium gives its employees the option to take the day off to protest on Friday.",
+      "date_published": "2026-01-29T21:49:15.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3088004",
+      "url": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
+      "title": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+      "content_html": "Microsoft says its own chip leapfrogs those made by other cloud providers like Amazon and Google. But it needs more.",
+      "content_text": "Microsoft says its own chip leapfrogs those made by other cloud providers like Amazon and Google. But it needs more.",
+      "date_published": "2026-01-29T21:21:46.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087955",
+      "url": "https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/",
+      "title": "Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach",
+      "content_html": "The fintech giant said it plans to \"seek recoupment of any expenses\" from its firewall provider SonicWall after a 2025 data breach exposed customer firewall configurations.",
+      "content_text": "The fintech giant said it plans to \"seek recoupment of any expenses\" from its firewall provider SonicWall after a 2025 data breach exposed customer firewall configurations.",
+      "date_published": "2026-01-29T20:31:43.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087908",
+      "url": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+      "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+      "content_html": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+      "content_text": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+      "date_published": "2026-01-29T20:06:56.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087906",
+      "url": "https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/",
+      "title": "Elon Musk&#8217;s SpaceX and xAI in talks to merge, report says",
+      "content_html": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+      "content_text": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+      "date_published": "2026-01-29T19:30:59.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087901",
+      "url": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+      "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+      "content_html": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
+      "content_text": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
+      "date_published": "2026-01-29T18:58:07.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087816",
+      "url": "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/",
+      "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
+      "content_html": "Waymo's SFO win comes as the company faces criticism and concerns about safety in some of the cities it operates.",
+      "content_text": "Waymo's SFO win comes as the company faces criticism and concerns about safety in some of the cities it operates.",
+      "date_published": "2026-01-29T17:55:43.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087840",
+      "url": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
+      "title": "I built marshmallow castles in Google’s new AI world generator",
+      "content_html": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google’s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini.",
+      "content_text": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google’s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini.",
+      "date_published": "2026-01-29T17:29:11.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087814",
+      "url": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+      "title": "OpenAI&#8217;s Sora app is struggling after its stellar launch",
+      "content_html": "Sora's mobile app downloads fell 45% in January, and consumer spending dropped.",
+      "content_text": "Sora's mobile app downloads fell 45% in January, and consumer spending dropped.",
+      "date_published": "2026-01-29T16:48:44.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087790",
+      "url": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+      "title": "Music publishers sue Anthropic for $3B over &#8216;flagrant piracy&#8217; of 20,000 works",
+      "content_html": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
+      "content_text": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
+      "date_published": "2026-01-29T16:30:29.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087477",
+      "url": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
+      "title": "India is teaching Google how AI in education can scale",
+      "content_html": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
+      "content_text": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
+      "date_published": "2026-01-29T15:29:31.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087787",
+      "url": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
+      "title": "Flapping Airplanes and the promise of research-driven AI",
+      "content_html": "A new AI lab called Flapping Airplanes launched yesterday, and a Sequoia partner has an interesting take on why they stand out.",
+      "content_text": "A new AI lab called Flapping Airplanes launched yesterday, and a Sequoia partner has an interesting take on why they stand out.",
+      "date_published": "2026-01-29T15:22:29.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087791",
+      "url": "https://techcrunch.com/2026/01/29/teslas-energy-storage-business-is-growing-faster-than-any-other-part-of-the-company/",
+      "title": "Tesla’s energy storage business is growing faster than any other part of the company",
+      "content_html": "Energy storage products like the Megapack, Megablock, and Powerwall drove",
+      "content_text": "Energy storage products like the Megapack, Megablock, and Powerwall drove",
+      "date_published": "2026-01-29T14:58:47.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087783",
+      "url": "https://techcrunch.com/2026/01/29/spotify-rolls-out-group-chats/",
+      "title": "Spotify rolls out group chats",
+      "content_html": "Spotify users can now share the podcasts, playlists, and audiobooks they're listening to with up 10 people.",
+      "content_text": "Spotify users can now share the podcasts, playlists, and audiobooks they're listening to with up 10 people.",
+      "date_published": "2026-01-29T14:52:13.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087775",
+      "url": "https://techcrunch.com/2026/01/29/apples-new-iphone-and-ipad-security-feature-limits-cell-networks-from-collecting-precise-location-data/",
+      "title": "Apple&#8217;s new iPhone and iPad security feature limits cell networks from collecting precise location data",
+      "content_html": "The new security feature makes it more difficult for police and malicious hackers to obtain a person's precise location data from a cell phone company.",
+      "content_text": "The new security feature makes it more difficult for police and malicious hackers to obtain a person's precise location data from a cell phone company.",
+      "date_published": "2026-01-29T14:50:57.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087434",
+      "url": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
+      "title": "Google Maps now lets you access Gemini while walking and cycling",
+      "content_html": "When you're walking around and navigating with Maps, you can now ask Gemini questions like \"What neighborhood am I in?\" or \"What are top-rated restaurants nearby?\"",
+      "content_text": "When you're walking around and navigating with Maps, you can now ask Gemini questions like \"What neighborhood am I in?\" or \"What are top-rated restaurants nearby?\"",
+      "date_published": "2026-01-29T14:30:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087763",
+      "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
+      "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+      "content_html": "The child, whose age is not public, sustained minor injuries according to Waymo. The National Highway Traffic Safety Administration is investigating.",
+      "content_text": "The child, whose age is not public, sustained minor injuries according to Waymo. The National Highway Traffic Safety Administration is investigating.",
+      "date_published": "2026-01-29T12:53:49.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087062",
+      "url": "https://techcrunch.com/2026/01/29/upwind-raises-250m-at-1-5b-valuation-to-continue-building-runtime-cloud-security/",
+      "title": "Upwind raises $250M at $1.5B valuation to continue building &#8216;runtime&#8217; cloud security",
+      "content_html": "The $250 million Series B was led by Bessemer Venture Partners, with participation from Salesforce Ventures and Picture Capital.",
+      "content_text": "The $250 million Series B was led by Bessemer Venture Partners, with participation from Salesforce Ventures and Picture Capital.",
+      "date_published": "2026-01-29T12:35:16.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087750",
+      "url": "https://techcrunch.com/2026/01/29/apple-hires-iphone-camera-app-halides-co-founder-for-its-design-team/",
+      "title": "Apple hires iPhone camera app Halide&#8217;s co-founder for its design team",
+      "content_html": "Halide also released a public preview of its up coming app Halide Mark III.",
+      "content_text": "Halide also released a public preview of its up coming app Halide Mark III.",
+      "date_published": "2026-01-29T12:30:27.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087328",
+      "url": "https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/",
+      "title": "Deezer makes it easier for rival platforms to take a stance against AI-generated music",
+      "content_html": "Last year, Deezer introduced an AI detection tool that automatically tags fully AI-generated music for listeners and removes it from algorithmic and editorial recommendations. The company announced on Thursday that it&#8217;s now making the tool available to other streaming platforms in an effort to help address the rise of AI and fraudulent streams, as well [&#8230;]",
+      "content_text": "Last year, Deezer introduced an AI detection tool that automatically tags fully AI-generated music for listeners and removes it from algorithmic and editorial recommendations. The company announced on Thursday that it&#8217;s now making the tool available to other streaming platforms in an effort to help address the rise of AI and fraudulent streams, as well [&#8230;]",
+      "date_published": "2026-01-29T08:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087652",
+      "url": "https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/",
+      "title": "Meta burned $19 billion on VR last year, and 2026 won’t be any better",
+      "content_html": "The reported financial losses follow a series of layoffs at the VR unit.",
+      "content_text": "The reported financial losses follow a series of layoffs at the VR unit.",
+      "date_published": "2026-01-29T00:20:18.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087558",
+      "url": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
+      "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
+      "content_html": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"",
+      "content_text": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"",
+      "date_published": "2026-01-28T23:16:02.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087510",
+      "url": "https://techcrunch.com/2026/01/28/trump-energy-department-loosens-rules-on-nuclear-safety/",
+      "title": "Trump energy department loosens rules on nuclear safety",
+      "content_html": "The new rules apply to nuclear reactors built on Department of Energy property, which includes several currently being developed by startups.",
+      "content_text": "The new rules apply to nuclear reactors built on Department of Energy property, which includes several currently being developed by startups.",
+      "date_published": "2026-01-28T22:50:18.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087517",
+      "url": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
+      "title": "Microsoft gained $7.6 billion from OpenAI last quarter",
+      "content_html": "Microsoft, one of OpenAI's major investors, is benefiting greatly from the AI lab's growth.",
+      "content_text": "Microsoft, one of OpenAI's major investors, is benefiting greatly from the AI lab's growth.",
+      "date_published": "2026-01-28T22:47:24.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087635",
+      "url": "https://techcrunch.com/2026/01/28/tesla-is-killing-off-the-model-s-and-model-x/",
+      "title": "Tesla is killing off the Model S and Model X",
+      "content_html": "The company will stop making the pioneering EVs in the second quarter of 2026, CEO Elon Musk announced Wednesday.",
+      "content_text": "The company will stop making the pioneering EVs in the second quarter of 2026, CEO Elon Musk announced Wednesday.",
+      "date_published": "2026-01-28T22:40:53.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087229",
+      "url": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
+      "title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’",
+      "content_html": "Take Zuckerberg's outlook with a grain of salt. After all, he thought we'd all be hanging out in the metaverse by now.",
+      "content_text": "Take Zuckerberg's outlook with a grain of salt. After all, he thought we'd all be hanging out in the metaverse by now.",
+      "date_published": "2026-01-28T22:31:20.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087539",
+      "url": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
+      "title": "Tesla invested $2B in Elon Musk&#8217;s xAI",
+      "content_html": "Elon Musk's AI company xAI  disclosed earlier this month it had raised $20 billion.",
+      "content_text": "Elon Musk's AI company xAI  disclosed earlier this month it had raised $20 billion.",
+      "date_published": "2026-01-28T21:52:21.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087446",
+      "url": "https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/",
+      "title": "Elon Musk teases a new image-labeling system for X…we think?",
+      "content_html": "Elon Musk says X will begin identifying \"manipulated media\" but doesn't share details.",
+      "content_text": "Elon Musk says X will begin identifying \"manipulated media\" but doesn't share details.",
+      "date_published": "2026-01-28T21:46:18.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&#038;p=3087562",
+      "url": "https://techcrunch.com/video/spacex-is-coming-to-the-public-markets-and-secondaries-are-already-on-fire/",
+      "title": "SpaceX is coming to the public markets, and secondaries are already on fire",
+      "content_html": "paceX is&#160;reportedly lining&#160;up&#160;four major Wall Street banks&#160;for a&#160;2026 IPO&#160;that could provide the&#160;reset&#160;the market needs.&#160; The company just completed a tender offer at an&#160;$800 billion&#160;valuation, and secondary market demand is through the roof. If SpaceX goes public anywhere near its&#160;rumored&#160;$1.5 trillion&#160;valuation, it&#160;could trigger&#160;an IPO cascade for&#160;other&#160;late-stage unicorns like OpenAI, Stripe, and Databricks.&#160; Watch as Equity host Rebecca Bellan [&#8230;]",
+      "content_text": "paceX is&#160;reportedly lining&#160;up&#160;four major Wall Street banks&#160;for a&#160;2026 IPO&#160;that could provide the&#160;reset&#160;the market needs.&#160; The company just completed a tender offer at an&#160;$800 billion&#160;valuation, and secondary market demand is through the roof. If SpaceX goes public anywhere near its&#160;rumored&#160;$1.5 trillion&#160;valuation, it&#160;could trigger&#160;an IPO cascade for&#160;other&#160;late-stage unicorns like OpenAI, Stripe, and Databricks.&#160; Watch as Equity host Rebecca Bellan [&#8230;]",
+      "date_published": "2026-01-28T21:35:29.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087428",
+      "url": "https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/",
+      "title": "AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman and other big names",
+      "content_html": "Outtake makes an agentic cybersecurity platform to help enterprises detect identity fraud. Its angel investors are a who's who.",
+      "content_text": "Outtake makes an agentic cybersecurity platform to help enterprises detect identity fraud. Its angel investors are a who's who.",
+      "date_published": "2026-01-28T21:18:52.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087513",
+      "url": "https://techcrunch.com/2026/01/28/tesla-earnings-profit-q4-2025/",
+      "title": "Tesla profit tanked 46% in 2025",
+      "content_html": "The company's sales fell for a second year in a row despite CEO Elon Musk spending years promising 50% annual growth.",
+      "content_text": "The company's sales fell for a second year in a row despite CEO Elon Musk spending years promising 50% annual growth.",
+      "date_published": "2026-01-28T21:16:11.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087398",
+      "url": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
+      "title": "ServiceNow inks another AI partnership, this time with Anthropic",
+      "content_html": "ServiceNow partners with Anthropic just a week after announcing a partnership with OpenAI as the company takes a multi-model approach.",
+      "content_text": "ServiceNow partners with Anthropic just a week after announcing a partnership with OpenAI as the company takes a multi-model approach.",
+      "date_published": "2026-01-28T21:13:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087141",
+      "url": "https://techcrunch.com/2026/01/28/luminar-sale-approved-despite-last-minute-mystery-bid/",
+      "title": "Luminar sale approved despite last-minute mystery bid",
+      "content_html": "An unidentified bidder submitted a Hail Mary offer that was \"substantially higher\" than the winning bid at auction. Founder Austin Russell has been circling a bid, but it's not clear he was behind it.",
+      "content_text": "An unidentified bidder submitted a Hail Mary offer that was \"substantially higher\" than the winning bid at auction. Founder Austin Russell has been circling a bid, but it's not clear he was behind it.",
+      "date_published": "2026-01-28T20:41:13.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087325",
+      "url": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
+      "title": "WhatsApp will now charge AI chatbots to operate in Italy",
+      "content_html": "WhatsApp plans to charge developers of AI chatbots per message.",
+      "content_text": "WhatsApp plans to charge developers of AI chatbots per message.",
+      "date_published": "2026-01-28T19:18:59.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087307",
+      "url": "https://techcrunch.com/2026/01/28/jennifer-garners-once-upon-a-farm-resumes-ipo-plans/",
+      "title": "Jennifer Garner&#8217;s Once Upon a Farm resumes IPO plans",
+      "content_html": "The organic kids' snack food company may debut as soon as next week. It has issued a price range for shares, an SEC filing shows.",
+      "content_text": "The organic kids' snack food company may debut as soon as next week. It has issued a price range for shares, an SEC filing shows.",
+      "date_published": "2026-01-28T19:09:24.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087279",
+      "url": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/",
+      "title": "AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others",
+      "content_html": "The deal is structured as an acquihire of nine key Cleanlab's researchers.",
+      "content_text": "The deal is structured as an acquihire of nine key Cleanlab's researchers.",
+      "date_published": "2026-01-28T19:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086514",
+      "url": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+      "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+      "content_html": "Google Chrome is adding Gemini in sidebar and is rolling out an agentic feature for AI Pro and Ultra users",
+      "content_text": "Google Chrome is adding Gemini in sidebar and is rolling out an agentic feature for AI Pro and Ultra users",
+      "date_published": "2026-01-28T18:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087258",
+      "url": "https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/",
+      "title": "Apple tells Patreon to move creators to in-app purchase for subscriptions by November",
+      "content_html": "Patreon isn’t happy about Apple’s new subscription billing mandate, arguing Apple’s shifting rules create uncertainty for creators.",
+      "content_text": "Patreon isn’t happy about Apple’s new subscription billing mandate, arguing Apple’s shifting rules create uncertainty for creators.",
+      "date_published": "2026-01-28T17:45:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086608",
+      "url": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+      "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta&#8217;s Llama",
+      "content_html": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a US company.",
+      "content_text": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a US company.",
+      "date_published": "2026-01-28T17:30:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087205",
+      "url": "https://techcrunch.com/2026/01/28/elon-musk-reportedly-wants-a-june-spacex-ipo-to-align-with-his-birthday-the-planets/",
+      "title": "Elon Musk reportedly wants a June SpaceX IPO to align with his birthday, the planets",
+      "content_html": "SpaceX eyes June for IPO to align with Musk's birthday and the planets.",
+      "content_text": "SpaceX eyes June for IPO to align with Musk's birthday and the planets.",
+      "date_published": "2026-01-28T17:12:38.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087197",
+      "url": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
+      "title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
+      "content_html": "Apple’s Creator Studio Pro leverages AI to help creators with tedious tasks—like finding clips or building slides—without trying to do the work for them",
+      "content_text": "Apple’s Creator Studio Pro leverages AI to help creators with tedious tasks—like finding clips or building slides—without trying to do the work for them",
+      "date_published": "2026-01-28T17:04:50.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086198",
+      "url": "https://techcrunch.com/2026/01/28/san-francisco-police-department-investigating-zoox-collision-with-a-parked-car/",
+      "title": "San Francisco Police Department investigating Zoox collision with a parked car",
+      "content_html": "The investigation is looking into a January 17 crash where a Zoox robotaxi hit the driver's side door of a parked car, which Zoox said was \"suddenly opened.\"",
+      "content_text": "The investigation is looking into a January 17 crash where a Zoox robotaxi hit the driver's side door of a parked car, which Zoox said was \"suddenly opened.\"",
+      "date_published": "2026-01-28T17:04:12.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087226",
+      "url": "https://techcrunch.com/2026/01/28/modelence-raises-13-million-to-smooth-out-the-vibe-coding-stack/",
+      "title": "Modelence raises $13 million to smooth out the vibe-coding stack",
+      "content_html": "How do you build tooling for the AI software stack? A company called Modelence has an interesting answer.",
+      "content_text": "How do you build tooling for the AI software stack? A company called Modelence has an interesting answer.",
+      "date_published": "2026-01-28T17:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087194",
+      "url": "https://techcrunch.com/2026/01/28/allbirds-closing-last-store-san-francisco/",
+      "title": "Allbirds is closing its last brick-and-mortar store in San Francisco",
+      "content_html": "Once symbolic of a mid-2010s San Francisco tech bro, Allbirds is cutting costs to \"support the long-term health of the business.\"",
+      "content_text": "Once symbolic of a mid-2010s San Francisco tech bro, Allbirds is cutting costs to \"support the long-term health of the business.\"",
+      "date_published": "2026-01-28T16:48:07.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087018",
+      "url": "https://techcrunch.com/2026/01/28/techcrunch-disrupt-2026-plus-one-passes-are-almost-gone-and-only-3-days-remain/",
+      "title": "TechCrunch Disrupt 2026: Plus-one passes are almost gone and only 3 days remain",
+      "content_html": "The TechCrunch Disrupt 2026 plus-one passes at 50% off are almost sold out, and this deal ends in 3 days. Register here before this deal ends on Friday, January 30 at 11:59 p.m. PT.",
+      "content_text": "The TechCrunch Disrupt 2026 plus-one passes at 50% off are almost sold out, and this deal ends in 3 days. Register here before this deal ends on Friday, January 30 at 11:59 p.m. PT.",
+      "date_published": "2026-01-28T15:30:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087168",
+      "url": "https://techcrunch.com/2026/01/28/trumps-acting-cybersecurity-chief-uploaded-sensitive-government-docs-to-chatgpt/",
+      "title": "Trump&#8217;s acting cybersecurity chief uploaded sensitive government docs to ChatGPT",
+      "content_html": "A report cited officials as saying that Homeland Security sought to determine if there was any harm to government security as a result of the lapse.",
+      "content_text": "A report cited officials as saying that Homeland Security sought to determine if there was any harm to government security as a result of the lapse.",
+      "date_published": "2026-01-28T15:22:37.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087120",
+      "url": "https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/",
+      "title": "The AI infrastructure boom shows no sign of slowing down",
+      "content_html": "ASML’s record orders show chipmakers are still betting big on AI data centers.",
+      "content_text": "ASML’s record orders show chipmakers are still betting big on AI data centers.",
+      "date_published": "2026-01-28T15:21:35.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086905",
+      "url": "https://techcrunch.com/2026/01/28/standard-nuclear-raises-140m-as-nuclear-power-enters-its-gold-rush-era/",
+      "title": "Standard Nuclear raises $140M as nuclear power enters its gold rush era",
+      "content_html": "Investors including a16z are betting that nuclear industry suppliers will be the big winners of the AI demand-driven nuclear renaissance.",
+      "content_text": "Investors including a16z are betting that nuclear industry suppliers will be the big winners of the AI demand-driven nuclear renaissance.",
+      "date_published": "2026-01-28T15:07:37.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087128",
+      "url": "https://techcrunch.com/2026/01/28/linkedin-will-let-you-show-off-your-vibe-coding-chops-with-a-certificate/",
+      "title": "LinkedIn will let you show off your vibe coding chops with a certificate",
+      "content_html": "LinkedIn is partnering with Descript, Lovable, Replit, and Relay.app at launch",
+      "content_text": "LinkedIn is partnering with Descript, Lovable, Replit, and Relay.app at launch",
+      "date_published": "2026-01-28T15:06:27.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086897",
+      "url": "https://techcrunch.com/2026/01/28/the-conference-where-founders-scale-founder-summit-2026-tickets-are-now-live-at-the-lowest-prices/",
+      "title": "The conference where founders scale: TechCrunch Founder Summit 2026 tickets are now live at the lowest prices",
+      "content_html": "TechCrunch Founder Summit 2026 unites 1,100 founders and investors in Boston on June 23 for a day focused on real-world scaling insights and networking that pushes the needle. Save up to $300 on your ticket.",
+      "content_text": "TechCrunch Founder Summit 2026 unites 1,100 founders and investors in Boston on June 23 for a day focused on real-world scaling insights and networking that pushes the needle. Save up to $300 on your ticket.",
+      "date_published": "2026-01-28T15:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087119",
+      "url": "https://techcrunch.com/2026/01/28/samsung-teases-new-privacy-feature-to-hide-your-galaxy-phone-screen-from-onlookers/",
+      "title": "Samsung teases new privacy feature to hide your Galaxy phone screen from onlookers",
+      "content_html": "Samsung said that the upcoming feature will let you protect selected parts of the screen like notification popup area.",
+      "content_text": "Samsung said that the upcoming feature will let you protect selected parts of the screen like notification popup area.",
+      "date_published": "2026-01-28T14:44:18.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087124",
+      "url": "https://techcrunch.com/2026/01/28/amazon-says-it-is-laying-off-16000-employees/",
+      "title": "Amazon says it is laying off 16,000 employees",
+      "content_html": "This is Amazon's second layoff after the company cut 14,000 corporate jobs in October.",
+      "content_text": "This is Amazon's second layoff after the company cut 14,000 corporate jobs in October.",
+      "date_published": "2026-01-28T14:17:30.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087074",
+      "url": "https://techcrunch.com/2026/01/28/redwood-attracts-google-for-its-425m-series-e-as-ai-power-needs-rise/",
+      "title": "Redwood attracts Google for its $425M Series E as AI power needs rise",
+      "content_html": "Google is the latest investor to back Redwood Materials as the battery recycling startup scales a new energy storage venture to power AI data centers and other industrial sites.",
+      "content_text": "Google is the latest investor to back Redwood Materials as the battery recycling startup scales a new energy storage venture to power AI data centers and other industrial sites.",
+      "date_published": "2026-01-28T14:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086736",
+      "url": "https://techcrunch.com/2026/01/28/snap-gets-serious-about-specs-spins-ar-glasses-into-standalone-company/",
+      "title": "Snap gets serious about Specs, spins AR glasses into standalone company",
+      "content_html": "The social media company's smartglasses are set to be released to the public later this year.",
+      "content_text": "The social media company's smartglasses are set to be released to the public later this year.",
+      "date_published": "2026-01-28T14:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087051",
+      "url": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
+      "title": "Waabi raises $1B and expands into robotaxis with Uber",
+      "content_html": "Waabi has secured a $750 million Series C round to accelerate autonomous trucking, and another roughly $250 million commitment from Uber to deploy 25,000 robotaxis exclusively on its platform.",
+      "content_text": "Waabi has secured a $750 million Series C round to accelerate autonomous trucking, and another roughly $250 million commitment from Uber to deploy 25,000 robotaxis exclusively on its platform.",
+      "date_published": "2026-01-28T11:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087102",
+      "url": "https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/",
+      "title": "Google pitches Gemini to students studying for India&#8217;s most competitive college entrance exam",
+      "content_html": "Google's launch of practice tests for JEE follows its recent move to offer full-length SAT practice tests in Gemini.",
+      "content_text": "Google's launch of practice tests for JEE follows its recent move to offer full-length SAT practice tests in Gemini.",
+      "date_published": "2026-01-28T10:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087077",
+      "url": "https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/",
+      "title": "Google Photos brings its prompt-based editing feature to India, Australia and Japan",
+      "content_html": "Users can describe their edits in natural language to modify an image.",
+      "content_text": "Users can describe their edits in natural language to modify an image.",
+      "date_published": "2026-01-28T06:07:33.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3087079",
+      "url": "https://techcrunch.com/2026/01/27/indias-shadowfax-slips-on-listing-as-client-concentration-spooks-investors/",
+      "title": "India&#8217;s Shadowfax slips on listing, as client concentration spooks investors",
+      "content_html": "Shadowfax shares fell about 9% on theirdebut, valuing the logistics firm near its last private valuation.",
+      "content_text": "Shadowfax shares fell about 9% on theirdebut, valuing the logistics firm near its last private valuation.",
+      "date_published": "2026-01-28T05:44:03.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086102",
+      "url": "https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok/",
+      "title": "What you should know about the owners of US TikTok",
+      "content_html": "​ByteDance, TikTok’s Chinese parent company, recently established a separate American entity to run the app’s U.S. operations. This restructuring aims to separate U.S. TikTok from its Chinese parent, addressing concerns about data privacy and foreign control. The move came after years of pressure from lawmakers, who feared the Chinese government&#8217;s potential access to Americans’ data. [&#8230;]",
+      "content_text": "​ByteDance, TikTok’s Chinese parent company, recently established a separate American entity to run the app’s U.S. operations. This restructuring aims to separate U.S. TikTok from its Chinese parent, addressing concerns about data privacy and foreign control. The move came after years of pressure from lawmakers, who feared the Chinese government&#8217;s potential access to Americans’ data. [&#8230;]",
+      "date_published": "2026-01-28T03:27:06.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086417",
+      "url": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
+      "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
+      "content_html": "Personal AI assistant Moltbot —formerly Clawdbot — has gone viral in a matter of weeks. But there’s more you should know before jumping on the bandwagon.",
+      "content_text": "Personal AI assistant Moltbot —formerly Clawdbot — has gone viral in a matter of weeks. But there’s more you should know before jumping on the bandwagon.",
+      "date_published": "2026-01-28T00:12:43.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086578",
+      "url": "https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/",
+      "title": "Fashion rental app By Rotation and Uber partner to help deliver ski clothing",
+      "content_html": "By Rotation, one of the U.K.’s most popular peer-to-peer fashion rental platforms, is partnering with Uber to deliver ski clothes.",
+      "content_text": "By Rotation, one of the U.K.’s most popular peer-to-peer fashion rental platforms, is partnering with Uber to deliver ski clothes.",
+      "date_published": "2026-01-28T00:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086813",
+      "url": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
+      "title": "Anduril has invented a wild new drone flying contest where jobs are the prize",
+      "content_html": "This is a race series for software programmers and the brainchild of founder Palmer Luckey, he tells TechCrunch.",
+      "content_text": "This is a race series for software programmers and the brainchild of founder Palmer Luckey, he tells TechCrunch.",
+      "date_published": "2026-01-27T21:54:38.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086636",
+      "url": "https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/",
+      "title": "Bluesky teases 2026 roadmap: a better Discover feed, real-time features and more",
+      "content_html": "Bluesky is teasing new features  and improvements ranging from the Discover feed to video support.",
+      "content_text": "Bluesky is teasing new features  and improvements ranging from the Discover feed to video support.",
+      "date_published": "2026-01-27T21:32:18.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086766",
+      "url": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+      "title": "Anthropic reportedly upped its latest raise to $20B",
+      "content_html": "Anthropic looks to raise $20 billion at more than $300 billion valuation, according to reports.",
+      "content_text": "Anthropic looks to raise $20 billion at more than $300 billion valuation, according to reports.",
+      "date_published": "2026-01-27T21:16:10.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086721",
+      "url": "https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/",
+      "title": "Amazon agrees to pay consumers $309M in returns policy settlement",
+      "content_html": "The lawsuit, filed in 2023, alleged that Amazon caused \"substantial unjustified monetary losses” for consumers who returned an item but were still charged for it.",
+      "content_text": "The lawsuit, filed in 2023, alleged that Amazon caused \"substantial unjustified monetary losses” for consumers who returned an item but were still charged for it.",
+      "date_published": "2026-01-27T20:38:03.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086707",
+      "url": "https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/",
+      "title": "TikTok joins Snap to settle social media addiction lawsuit",
+      "content_html": "Jury selection begins Tuesday as this case moves closer to trial.",
+      "content_text": "Jury selection begins Tuesday as this case moves closer to trial.",
+      "date_published": "2026-01-27T19:40:46.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086660",
+      "url": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+      "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+      "content_html": "Anthropic's Dario Amodei and OpenAI's Sam Altman spoke out against ICE enforcement tactics following Minneapolis violence, with one addressing concerns publicly and the other in an internal message.",
+      "content_text": "Anthropic's Dario Amodei and OpenAI's Sam Altman spoke out against ICE enforcement tactics following Minneapolis violence, with one addressing concerns publicly and the other in an internal message.",
+      "date_published": "2026-01-27T18:19:19.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086571",
+      "url": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
+      "title": "Google&#8217;s more affordable AI Plus plan rolls out to all markets, including the U.S.",
+      "content_html": "Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.",
+      "content_text": "Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.",
+      "date_published": "2026-01-27T18:00:39.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086665",
+      "url": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
+      "title": "OpenAI launches Prism, a new AI workspace for scientists",
+      "content_html": "OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.",
+      "content_text": "OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.",
+      "date_published": "2026-01-27T18:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086633",
+      "url": "https://techcrunch.com/2026/01/27/amid-trump-attacks-and-weaponized-sanctions-europeans-look-to-rely-less-on-us-tech/",
+      "title": "Amid Trump attacks and weaponized sanctions, Europeans look to rely less on US tech",
+      "content_html": "European governments are looking to move away from U.S. tech and reclaim their digital sovereignty at a time of unpredictability and volatility in the United States.",
+      "content_text": "European governments are looking to move away from U.S. tech and reclaim their digital sovereignty at a time of unpredictability and volatility in the United States.",
+      "date_published": "2026-01-27T17:56:47.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086568",
+      "url": "https://techcrunch.com/2026/01/27/the-price-gap-between-waymo-and-uber-is-narrowing/",
+      "title": "The price gap between Waymo and Uber is narrowing",
+      "content_html": "Data collected and analyzed by Obi suggest a shift is underway.",
+      "content_text": "Data collected and analyzed by Obi suggest a shift is underway.",
+      "date_published": "2026-01-27T17:43:19.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086598",
+      "url": "https://techcrunch.com/2026/01/27/if-you-live-in-the-uk-you-probably-wont-be-able-to-visit-pornhub-anymore/",
+      "title": "If you live in the UK, you probably won&#8217;t be able to visit Pornhub anymore",
+      "content_html": "Pornhub parent company Aylo will restrict access from U.K. users, rather than comply with age verification mandates, which the company said it believes have not succeeded in promoting online safety.",
+      "content_text": "Pornhub parent company Aylo will restrict access from U.K. users, rather than comply with age verification mandates, which the company said it believes have not succeeded in promoting online safety.",
+      "date_published": "2026-01-27T17:31:05.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086628",
+      "url": "https://techcrunch.com/2026/01/27/tiktok-says-its-still-working-to-recover-its-u-s-infrastructure/",
+      "title": "TikTok says it&#8217;s still working to recover its U.S. infrastructure",
+      "content_html": "TikTok says some of the glitches continue but it's making \"significant progress\" in recovering its U.S. infrastructure.",
+      "content_text": "TikTok says some of the glitches continue but it's making \"significant progress\" in recovering its U.S. infrastructure.",
+      "date_published": "2026-01-27T17:29:34.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086615",
+      "url": "https://techcrunch.com/2026/01/27/whatsapp-is-rolling-out-a-new-stricter-security-setting-to-protect-users-from-cyber-attacts/",
+      "title": "WhatsApp is rolling out a new stricter security setting to protect users from cyber attacts",
+      "content_html": "Days after Meta was sued by over alleged false privacy claims by its chat app WhatsApp, the company has rolled out a new setting to protect users against cyber attacks. The feature, called Strict Account Settings, adds restrictions like automatically blocking media and attachments from unknown senders, and silencing calls from unknown numbers. Under this setting, link [&#8230;]",
+      "content_text": "Days after Meta was sued by over alleged false privacy claims by its chat app WhatsApp, the company has rolled out a new setting to protect users against cyber attacks. The feature, called Strict Account Settings, adds restrictions like automatically blocking media and attachments from unknown senders, and silencing calls from unknown numbers. Under this setting, link [&#8230;]",
+      "date_published": "2026-01-27T17:24:22.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086593",
+      "url": "https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/",
+      "title": "Android phones are getting more anti-theft features",
+      "content_html": "Google says Android devices will get new security features, like stronger authentication safeguards and enhanced recovery tools.",
+      "content_text": "Google says Android devices will get new security features, like stronger authentication safeguards and enhanced recovery tools.",
+      "date_published": "2026-01-27T17:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086581",
+      "url": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
+      "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
+      "content_html": "The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally.",
+      "content_text": "The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally.",
+      "date_published": "2026-01-27T17:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086579",
+      "url": "https://techcrunch.com/2026/01/27/indian-states-weigh-australia-style-ban-on-social-media-for-children/",
+      "title": "Indian states weigh Australia-style ban on social media for children",
+      "content_html": "Any move to restrict children's access to social media in India would carry significant implications for global technology companies, for which the South Asian nation is a critical growth market.",
+      "content_text": "Any move to restrict children's access to social media in India would carry significant implications for global technology companies, for which the South Asian nation is a critical growth market.",
+      "date_published": "2026-01-27T16:58:01.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086577",
+      "url": "https://techcrunch.com/2026/01/27/amazon-is-closing-its-physical-amazon-go-and-amazon-fresh-stores/",
+      "title": "Amazon is closing its physical Amazon Go and Amazon Fresh stores",
+      "content_html": "These retail closures will not impact customers who use Amazon for grocery delivery.",
+      "content_text": "These retail closures will not impact customers who use Amazon for grocery delivery.",
+      "date_published": "2026-01-27T16:21:32.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086554",
+      "url": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
+      "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
+      "content_html": "Designed to autonomously resolve help desk tickets, Risotto has raised $10 million in seed funding in a round led by Bonfire Ventures.",
+      "content_text": "Designed to autonomously resolve help desk tickets, Risotto has raised $10 million in seed funding in a round led by Bonfire Ventures.",
+      "date_published": "2026-01-27T15:25:22.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086552",
+      "url": "https://techcrunch.com/2026/01/27/samsungs-trifold-phone-will-cost-2899-in-the-us/",
+      "title": "Samsung&#8217;s TriFold phone will cost $2,899 in the US",
+      "content_html": "The phone's display unfolds twice to reveal a 10-inch display, which is the largest screen ever on a Galaxy phone.",
+      "content_text": "The phone's display unfolds twice to reveal a 10-inch display, which is the largest screen ever on a Galaxy phone.",
+      "date_published": "2026-01-27T15:13:19.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086495",
+      "url": "https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/",
+      "title": "Airtable gets into the AI agent game with Superagent",
+      "content_html": "SuperAgent is Airtable's first standalone product in its 13-year history, and signals both the company's ambitions and the reality of the current AI moment: every serious software player is racing to prove they can deliver on agents.",
+      "content_text": "SuperAgent is Airtable's first standalone product in its 13-year history, and signals both the company's ambitions and the reality of the current AI moment: every serious software player is racing to prove they can deliver on agents.",
+      "date_published": "2026-01-27T15:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086436",
+      "url": "https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/",
+      "title": "Phoebe Gates and Sophia Kianni’s Phia raises $35M to ‘make shopping fun again’",
+      "content_html": "“We’re on the cusp of a completely new way of shopping,” Gates told TechCrunch.",
+      "content_text": "“We’re on the cusp of a completely new way of shopping,” Gates told TechCrunch.",
+      "date_published": "2026-01-27T15:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086534",
+      "url": "https://techcrunch.com/2026/01/27/pinterest-layoffs-impact-15-of-staff-as-resources-redirected-to-ai/",
+      "title": "Pinterest layoffs impact 15% of staff as resources redirected to AI",
+      "content_html": "Pinterest says it's \"reallocating resources to AI-focused roles and teams that drive AI adoption and execution\" and \"prioritizing AI‑powered products and capabilities.\"",
+      "content_text": "Pinterest says it's \"reallocating resources to AI-focused roles and teams that drive AI adoption and execution\" and \"prioritizing AI‑powered products and capabilities.\"",
+      "date_published": "2026-01-27T14:44:47.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086516",
+      "url": "https://techcrunch.com/2026/01/27/luminar-receives-a-larger-33-million-bid-for-its-lidar-business/",
+      "title": "Luminar receives a larger $33 million bid for its lidar business",
+      "content_html": "A new leading bidder has appeared in the Luminar bankruptcy case: Redmond, Washington-based MicroVision, which beat out Quantum Computing Inc.'s bid by $5 million.",
+      "content_text": "A new leading bidder has appeared in the Luminar bankruptcy case: Redmond, Washington-based MicroVision, which beat out Quantum Computing Inc.'s bid by $5 million.",
+      "date_published": "2026-01-27T14:17:32.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086507",
+      "url": "https://techcrunch.com/2026/01/27/chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent/",
+      "title": "China&#8217;s Moonshot releases a new open-source model Kimi K2.5 and a coding agent",
+      "content_html": "The company said that the model was trained on 15 trillion mixed visual and text tokens.",
+      "content_text": "The company said that the model was trained on 15 trillion mixed visual and text tokens.",
+      "date_published": "2026-01-27T14:11:10.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085956",
+      "url": "https://techcrunch.com/2026/01/27/node-based-design-tool-flora-raises-42m-from-redpoint-ventures/",
+      "title": "Node-based design tool Flora raises $42M from Redpoint Ventures",
+      "content_html": "Flora's node-based design tool is being used by companies like Pentagram and Lionsgate.",
+      "content_text": "Flora's node-based design tool is being used by companies like Pentagram and Lionsgate.",
+      "date_published": "2026-01-27T14:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086118",
+      "url": "https://techcrunch.com/2026/01/27/uber-launches-an-av-labs-division-to-gather-driving-data-for-robotaxi-partners/",
+      "title": "Uber launches an &#8216;AV Labs&#8217; division to gather driving data for robotaxi partners",
+      "content_html": "Uber is not developing its own robotaxis again; instead it plans to collect and offer data. It's a bet that more volume will help autonomous vehicle partners solve the weirdest edge cases.",
+      "content_text": "Uber is not developing its own robotaxis again; instead it plans to collect and offer data. It's a bet that more volume will help autonomous vehicle partners solve the weirdest edge cases.",
+      "date_published": "2026-01-27T13:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086332",
+      "url": "https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/",
+      "title": "Northwood Space secures a $100M Series B and a $50M Space Force contract",
+      "content_html": "This is the El Segundo, California-based startup's second raise in less than a year.",
+      "content_text": "This is the El Segundo, California-based startup's second raise in less than a year.",
+      "date_published": "2026-01-27T10:30:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3086437",
+      "url": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
+      "title": "&#8216;Among the worst we&#8217;ve seen&#8217;: report slams xAI&#8217;s Grok over child safety failures",
+      "content_html": "“We assess a lot of AI chatbots at Common Sense Media, and they all have risks, but Grok is among the worst we’ve seen,” Robbie Torney of Common Sense Media said.",
+      "content_text": "“We assess a lot of AI chatbots at Common Sense Media, and they all have risks, but Grok is among the worst we’ve seen,” Robbie Torney of Common Sense Media said.",
+      "date_published": "2026-01-27T10:00:00.000Z"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3085854",
+      "url": "https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/",
+      "title": "South Korea’s Edenlux set for U.S. debut of eye-strain wellness device",
+      "content_html": "Edenlux builds wearable tech to protect and train your eyes, inspired by its founder’s personal vision recovery.",
+      "content_text": "Edenlux builds wearable tech to protect and train your eyes, inspired by its founder’s personal vision recovery.",
+      "date_published": "2026-01-27T01:30:00.000Z"
+    }
+  ]
+}

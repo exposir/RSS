@@ -1,0 +1,753 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Hacker News: Best",
+  "home_page_url": "https://news.ycombinator.com/best",
+  "feed_url": "https://exposir.github.io/RSS/feeds/hackernews.json",
+  "description": "Hacker News RSS",
+  "items": [
+    {
+      "id": "https://news.ycombinator.com/item?id=46817813",
+      "url": "https://grid.space/stem/",
+      "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
+      "content_html": "<p>Article URL: <a href=\"https://grid.space/stem/\">https://grid.space/stem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46817813\">https://news.ycombinator.com/item?id=46817813</a></p>\n<p>Points: 266</p>\n<p># Comments: 90</p>",
+      "content_text": "Article URL: https://grid.space/stem/\nComments URL: https://news.ycombinator.com/item?id=46817813\nPoints: 266\n# Comments: 90",
+      "date_published": "2026-01-29T22:38:57.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46814743",
+      "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+      "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+      "content_html": "<p>Article URL: <a href=\"https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/\">https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46814743\">https://news.ycombinator.com/item?id=46814743</a></p>\n<p>Points: 263</p>\n<p># Comments: 106</p>",
+      "content_text": "Article URL: https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/\nComments URL: https://news.ycombinator.com/item?id=46814743\nPoints: 263\n# Comments: 106",
+      "date_published": "2026-01-29T18:55:38.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46814614",
+      "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+      "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
+      "content_html": "<p>Article URL: <a href=\"https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/\">https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46814614\">https://news.ycombinator.com/item?id=46814614</a></p>\n<p>Points: 290</p>\n<p># Comments: 152</p>",
+      "content_text": "Article URL: https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/\nComments URL: https://news.ycombinator.com/item?id=46814614\nPoints: 290\n# Comments: 152",
+      "date_published": "2026-01-29T18:48:09.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46814089",
+      "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/",
+      "title": "Tesla is committing automotive suicide",
+      "content_html": "<p>Article URL: <a href=\"https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/\">https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46814089\">https://news.ycombinator.com/item?id=46814089</a></p>\n<p>Points: 242</p>\n<p># Comments: 289</p>",
+      "content_text": "Article URL: https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/\nComments URL: https://news.ycombinator.com/item?id=46814089\nPoints: 242\n# Comments: 289",
+      "date_published": "2026-01-29T18:16:45.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46812933",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "content_html": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/\">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46812933\">https://news.ycombinator.com/item?id=46812933</a></p>\n<p>Points: 246</p>\n<p># Comments: 128</p>",
+      "content_text": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/\nComments URL: https://news.ycombinator.com/item?id=46812933\nPoints: 246\n# Comments: 128",
+      "date_published": "2026-01-29T17:02:39.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46812173",
+      "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+      "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+      "content_html": "<p>Article URL: <a href=\"https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/\">https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46812173\">https://news.ycombinator.com/item?id=46812173</a></p>\n<p>Points: 244</p>\n<p># Comments: 132</p>",
+      "content_text": "Article URL: https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/\nComments URL: https://news.ycombinator.com/item?id=46812173\nPoints: 244\n# Comments: 132",
+      "date_published": "2026-01-29T16:12:19.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46812159",
+      "url": "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/",
+      "title": "Drug trio found to block tumour resistance in pancreatic cancer in mouse models",
+      "content_html": "<p>Article URL: <a href=\"https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/\">https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46812159\">https://news.ycombinator.com/item?id=46812159</a></p>\n<p>Points: 245</p>\n<p># Comments: 133</p>",
+      "content_text": "Article URL: https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/\nComments URL: https://news.ycombinator.com/item?id=46812159\nPoints: 245\n# Comments: 133",
+      "date_published": "2026-01-29T16:11:04.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46810401",
+      "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
+      "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+      "content_html": "<p>Article URL: <a href=\"https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/\">https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810401\">https://news.ycombinator.com/item?id=46810401</a></p>\n<p>Points: 238</p>\n<p># Comments: 415</p>",
+      "content_text": "Article URL: https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/\nComments URL: https://news.ycombinator.com/item?id=46810401\nPoints: 238\n# Comments: 415",
+      "date_published": "2026-01-29T14:08:56.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46810282",
+      "url": "https://marginlab.ai/trackers/claude-code/",
+      "title": "Claude Code Daily Benchmarks for Degradation Tracking",
+      "content_html": "<p>Article URL: <a href=\"https://marginlab.ai/trackers/claude-code/\">https://marginlab.ai/trackers/claude-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810282\">https://news.ycombinator.com/item?id=46810282</a></p>\n<p>Points: 239</p>\n<p># Comments: 123</p>",
+      "content_text": "Article URL: https://marginlab.ai/trackers/claude-code/\nComments URL: https://news.ycombinator.com/item?id=46810282\nPoints: 239\n# Comments: 123",
+      "date_published": "2026-01-29T13:59:07.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46810027",
+      "url": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
+      "title": "A lot of population numbers are fake",
+      "content_html": "<p>Article URL: <a href=\"https://davidoks.blog/p/a-lot-of-population-numbers-are-fake\">https://davidoks.blog/p/a-lot-of-population-numbers-are-fake</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810027\">https://news.ycombinator.com/item?id=46810027</a></p>\n<p>Points: 249</p>\n<p># Comments: 224</p>",
+      "content_text": "Article URL: https://davidoks.blog/p/a-lot-of-population-numbers-are-fake\nComments URL: https://news.ycombinator.com/item?id=46810027\nPoints: 249\n# Comments: 224",
+      "date_published": "2026-01-29T13:36:54.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46809708",
+      "url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
+      "title": "AGENTS.md outperforms skills in our agent evals",
+      "content_html": "<p>Article URL: <a href=\"https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals\">https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46809708\">https://news.ycombinator.com/item?id=46809708</a></p>\n<p>Points: 243</p>\n<p># Comments: 106</p>",
+      "content_text": "Article URL: https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals\nComments URL: https://news.ycombinator.com/item?id=46809708\nPoints: 243\n# Comments: 106",
+      "date_published": "2026-01-29T13:08:11.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46809069",
+      "url": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
+      "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
+      "content_html": "<p>Article URL: <a href=\"https://bayramovanar.substack.com/p/tech-market-is-fucked-up\">https://bayramovanar.substack.com/p/tech-market-is-fucked-up</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46809069\">https://news.ycombinator.com/item?id=46809069</a></p>\n<p>Points: 254</p>\n<p># Comments: 160</p>",
+      "content_text": "Article URL: https://bayramovanar.substack.com/p/tech-market-is-fucked-up\nComments URL: https://news.ycombinator.com/item?id=46809069\nPoints: 254\n# Comments: 160",
+      "date_published": "2026-01-29T12:03:13.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46808251",
+      "url": "https://blog.ncase.me/on-depression/",
+      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+      "content_html": "<p>Article URL: <a href=\"https://blog.ncase.me/on-depression/\">https://blog.ncase.me/on-depression/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46808251\">https://news.ycombinator.com/item?id=46808251</a></p>\n<p>Points: 523</p>\n<p># Comments: 363</p>",
+      "content_text": "Article URL: https://blog.ncase.me/on-depression/\nComments URL: https://news.ycombinator.com/item?id=46808251\nPoints: 523\n# Comments: 363",
+      "date_published": "2026-01-29T10:35:00.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46806773",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
+      "title": "Europe’s next-generation weather satellite sends back first images",
+      "content_html": "<p>Article URL: <a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\">https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46806773\">https://news.ycombinator.com/item?id=46806773</a></p>\n<p>Points: 444</p>\n<p># Comments: 63</p>",
+      "content_text": "Article URL: https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\nComments URL: https://news.ycombinator.com/item?id=46806773\nPoints: 444\n# Comments: 63",
+      "date_published": "2026-01-29T07:07:17.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46805665",
+      "url": "https://web.mit.edu/jemorris/humor/500-miles",
+      "title": "We can’t send mail farther than 500 miles (2002)",
+      "content_html": "<p>See also <a href=\"https://ibiblio.org/harris/500milemail-faq.html\" rel=\"nofollow\">https://ibiblio.org/harris/500milemail-faq.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46805665\">https://news.ycombinator.com/item?id=46805665</a></p>\n<p>Points: 501</p>\n<p># Comments: 76</p>",
+      "content_text": "See also https://ibiblio.org/harris/500milemail-faq.html\n\nComments URL: https://news.ycombinator.com/item?id=46805665\nPoints: 501\n# Comments: 76",
+      "date_published": "2026-01-29T03:58:33.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46804828",
+      "url": "https://github.com/lukilabs/beautiful-mermaid",
+      "title": "Render Mermaid diagrams as SVGs or ASCII art",
+      "content_html": "<p>Article URL: <a href=\"https://github.com/lukilabs/beautiful-mermaid\">https://github.com/lukilabs/beautiful-mermaid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46804828\">https://news.ycombinator.com/item?id=46804828</a></p>\n<p>Points: 327</p>\n<p># Comments: 48</p>",
+      "content_text": "Article URL: https://github.com/lukilabs/beautiful-mermaid\nComments URL: https://news.ycombinator.com/item?id=46804828\nPoints: 327\n# Comments: 48",
+      "date_published": "2026-01-29T02:08:40.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46803356",
+      "url": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
+      "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
+      "content_html": "<p>Article URL: <a href=\"https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in\">https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46803356\">https://news.ycombinator.com/item?id=46803356</a></p>\n<p>Points: 384</p>\n<p># Comments: 162</p>",
+      "content_text": "Article URL: https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in\nComments URL: https://news.ycombinator.com/item?id=46803356\nPoints: 384\n# Comments: 162",
+      "date_published": "2026-01-28T23:36:23.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46803229",
+      "url": "https://www.reuters.com/world/us/evidence-contradicts-trump-immigration-officials-accounts-violent-encounters-2026-01-27/",
+      "title": "In 6 violent encounters, evidence contradicts immigration officials' narratives",
+      "content_html": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/evidence-contradicts-trump-immigration-officials-accounts-violent-encounters-2026-01-27/\">https://www.reuters.com/world/us/evidence-contradicts-trump-immigration-officials-accounts-violent-encounters-2026-01-27/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46803229\">https://news.ycombinator.com/item?id=46803229</a></p>\n<p>Points: 236</p>\n<p># Comments: 117</p>",
+      "content_text": "Article URL: https://www.reuters.com/world/us/evidence-contradicts-trump-immigration-officials-accounts-violent-encounters-2026-01-27/\nComments URL: https://news.ycombinator.com/item?id=46803229\nPoints: 236\n# Comments: 117",
+      "date_published": "2026-01-28T23:25:41.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46803119",
+      "url": "https://mahadk.com/posts/ai-skills-hub",
+      "title": "UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M",
+      "content_html": "<p>Article URL: <a href=\"https://mahadk.com/posts/ai-skills-hub\">https://mahadk.com/posts/ai-skills-hub</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46803119\">https://news.ycombinator.com/item?id=46803119</a></p>\n<p>Points: 261</p>\n<p># Comments: 74</p>",
+      "content_text": "Article URL: https://mahadk.com/posts/ai-skills-hub\nComments URL: https://news.ycombinator.com/item?id=46803119\nPoints: 261\n# Comments: 74",
+      "date_published": "2026-01-28T23:16:12.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46802867",
+      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+      "title": "Tesla ending Models S and X production",
+      "content_html": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html\">https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46802867\">https://news.ycombinator.com/item?id=46802867</a></p>\n<p>Points: 441</p>\n<p># Comments: 877</p>",
+      "content_text": "Article URL: https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html\nComments URL: https://news.ycombinator.com/item?id=46802867\nPoints: 441\n# Comments: 877",
+      "date_published": "2026-01-28T22:53:54.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46802067",
+      "url": "https://alecmuffett.com/article/143548",
+      "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+      "content_html": "<p><a href=\"https://archive.ph/VrEtg\" rel=\"nofollow\">https://archive.ph/VrEtg</a><p><a href=\"https://globe.adsbexchange.com/?icao=adfdf9&lat=26.678&lon=-80.030&zoom=14.4&showTrace=2026-01-28\" rel=\"nofollow\">https://globe.adsbexchange.com/?icao=adfdf9&lat=26.678&lon=-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46802067\">https://news.ycombinator.com/item?id=46802067</a></p>\n<p>Points: 373</p>\n<p># Comments: 94</p>",
+      "content_text": "https://archive.ph/VrEtghttps://globe.adsbexchange.com/?icao=adfdf9&lat=26.678&lon=-...\n\nComments URL: https://news.ycombinator.com/item?id=46802067\nPoints: 373\n# Comments: 94",
+      "date_published": "2026-01-28T21:50:47.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46801419",
+      "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
+      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+      "content_html": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/01/28/patreon-apple-tax/\">https://www.macrumors.com/2026/01/28/patreon-apple-tax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46801419\">https://news.ycombinator.com/item?id=46801419</a></p>\n<p>Points: 705</p>\n<p># Comments: 587</p>",
+      "content_text": "Article URL: https://www.macrumors.com/2026/01/28/patreon-apple-tax/\nComments URL: https://news.ycombinator.com/item?id=46801419\nPoints: 705\n# Comments: 587",
+      "date_published": "2026-01-28T20:59:30.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46799304",
+      "url": "https://danq.me/2026/01/28/hsbc-dont-understand-email/",
+      "title": "That's not how email works",
+      "content_html": "<p>Article URL: <a href=\"https://danq.me/2026/01/28/hsbc-dont-understand-email/\">https://danq.me/2026/01/28/hsbc-dont-understand-email/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46799304\">https://news.ycombinator.com/item?id=46799304</a></p>\n<p>Points: 232</p>\n<p># Comments: 145</p>",
+      "content_text": "Article URL: https://danq.me/2026/01/28/hsbc-dont-understand-email/\nComments URL: https://news.ycombinator.com/item?id=46799304\nPoints: 232\n# Comments: 145",
+      "date_published": "2026-01-28T18:12:02.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46798402",
+      "url": "https://github.com/ratatui/mousefood",
+      "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+      "content_html": "<p>Article URL: <a href=\"https://github.com/ratatui/mousefood\">https://github.com/ratatui/mousefood</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46798402\">https://news.ycombinator.com/item?id=46798402</a></p>\n<p>Points: 236</p>\n<p># Comments: 47</p>",
+      "content_text": "Article URL: https://github.com/ratatui/mousefood\nComments URL: https://news.ycombinator.com/item?id=46798402\nPoints: 236\n# Comments: 47",
+      "date_published": "2026-01-28T17:20:31.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46797594",
+      "url": "https://www.dimamik.com/posts/oban_py/",
+      "title": "Oban, the job processing framework from Elixir, has come to Python",
+      "content_html": "<p>Article URL: <a href=\"https://www.dimamik.com/posts/oban_py/\">https://www.dimamik.com/posts/oban_py/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46797594\">https://news.ycombinator.com/item?id=46797594</a></p>\n<p>Points: 248</p>\n<p># Comments: 97</p>",
+      "content_text": "Article URL: https://www.dimamik.com/posts/oban_py/\nComments URL: https://news.ycombinator.com/item?id=46797594\nPoints: 248\n# Comments: 97",
+      "date_published": "2026-01-28T16:32:00.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46796745",
+      "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+      "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",
+      "content_html": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/\">https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46796745\">https://news.ycombinator.com/item?id=46796745</a></p>\n<p>Points: 270</p>\n<p># Comments: 320</p>",
+      "content_text": "Article URL: https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/\nComments URL: https://news.ycombinator.com/item?id=46796745\nPoints: 270\n# Comments: 320",
+      "date_published": "2026-01-28T15:39:11.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46795908",
+      "url": "https://ciechanow.ski/airfoil/",
+      "title": "Airfoil (2024)",
+      "content_html": "<p>Article URL: <a href=\"https://ciechanow.ski/airfoil/\">https://ciechanow.ski/airfoil/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46795908\">https://news.ycombinator.com/item?id=46795908</a></p>\n<p>Points: 239</p>\n<p># Comments: 39</p>",
+      "content_text": "Article URL: https://ciechanow.ski/airfoil/\nComments URL: https://news.ycombinator.com/item?id=46795908\nPoints: 239\n# Comments: 39",
+      "date_published": "2026-01-28T14:32:30.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46795864",
+      "url": "https://www.himthe.dev/blog/microsoft-to-linux",
+      "title": "Microsoft forced me to switch to Linux",
+      "content_html": "<p>Article URL: <a href=\"https://www.himthe.dev/blog/microsoft-to-linux\">https://www.himthe.dev/blog/microsoft-to-linux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46795864\">https://news.ycombinator.com/item?id=46795864</a></p>\n<p>Points: 355</p>\n<p># Comments: 270</p>",
+      "content_text": "Article URL: https://www.himthe.dev/blog/microsoft-to-linux\nComments URL: https://news.ycombinator.com/item?id=46795864\nPoints: 355\n# Comments: 270",
+      "date_published": "2026-01-28T14:28:21.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46794365",
+      "url": "https://www.bmj.com/content/392/bmj.s168",
+      "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+      "content_html": "<p>Article URL: <a href=\"https://www.bmj.com/content/392/bmj.s168\">https://www.bmj.com/content/392/bmj.s168</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46794365\">https://news.ycombinator.com/item?id=46794365</a></p>\n<p>Points: 372</p>\n<p># Comments: 216</p>",
+      "content_text": "Article URL: https://www.bmj.com/content/392/bmj.s168\nComments URL: https://news.ycombinator.com/item?id=46794365\nPoints: 372\n# Comments: 216",
+      "date_published": "2026-01-28T12:18:12.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46793693",
+      "url": "https://andrewgy8.github.io/hnarcade/",
+      "title": "Show HN: The HN Arcade",
+      "content_html": "<p>I love seeing all the small games that people build and post to this site.<p>I don't want to forget any, so I have built a directory/arcade for the games here that I maintain.<p>Feel free to check it out, add your game if its missing and let me know what you think. Thanks!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46793693\">https://news.ycombinator.com/item?id=46793693</a></p>\n<p>Points: 247</p>\n<p># Comments: 65</p>",
+      "content_text": "I love seeing all the small games that people build and post to this site.I don't want to forget any, so I have built a directory/arcade for the games here that I maintain.Feel free to check it out, add your game if its missing and let me know what you think. Thanks!\n\nComments URL: https://news.ycombinator.com/item?id=46793693\nPoints: 247\n# Comments: 65",
+      "date_published": "2026-01-28T10:50:32.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46792370",
+      "url": "https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation",
+      "title": "ASML staffing changes could result in a net reduction of around 1700 positions",
+      "content_html": "<p>Article URL: <a href=\"https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation\">https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46792370\">https://news.ycombinator.com/item?id=46792370</a></p>\n<p>Points: 262</p>\n<p># Comments: 246</p>",
+      "content_text": "Article URL: https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation\nComments URL: https://news.ycombinator.com/item?id=46792370\nPoints: 262\n# Comments: 246",
+      "date_published": "2026-01-28T08:02:42.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46792194",
+      "url": "https://matklad.github.io/2026/01/27/make-ts.html",
+      "title": "Make.ts",
+      "content_html": "<p>Article URL: <a href=\"https://matklad.github.io/2026/01/27/make-ts.html\">https://matklad.github.io/2026/01/27/make-ts.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46792194\">https://news.ycombinator.com/item?id=46792194</a></p>\n<p>Points: 235</p>\n<p># Comments: 128</p>",
+      "content_text": "Article URL: https://matklad.github.io/2026/01/27/make-ts.html\nComments URL: https://news.ycombinator.com/item?id=46792194\nPoints: 235\n# Comments: 128",
+      "date_published": "2026-01-28T07:35:51.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46791742",
+      "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+      "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+      "content_html": "<p>Article URL: <a href=\"https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/\">https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791742\">https://news.ycombinator.com/item?id=46791742</a></p>\n<p>Points: 225</p>\n<p># Comments: 112</p>",
+      "content_text": "Article URL: https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/\nComments URL: https://news.ycombinator.com/item?id=46791742\nPoints: 225\n# Comments: 112",
+      "date_published": "2026-01-28T06:21:07.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46790740",
+      "url": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+      "title": "Android’s desktop interface leaks",
+      "content_html": "<p>Article URL: <a href=\"https://9to5google.com/2026/01/27/android-desktop-leak/\">https://9to5google.com/2026/01/27/android-desktop-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46790740\">https://news.ycombinator.com/item?id=46790740</a></p>\n<p>Points: 268</p>\n<p># Comments: 350</p>",
+      "content_text": "Article URL: https://9to5google.com/2026/01/27/android-desktop-leak/\nComments URL: https://news.ycombinator.com/item?id=46790740\nPoints: 268\n# Comments: 350",
+      "date_published": "2026-01-28T03:34:45.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46789961",
+      "url": "https://monkeyball-online.pages.dev/",
+      "title": "Super Monkey Ball ported to a website",
+      "content_html": "<p>Article URL: <a href=\"https://monkeyball-online.pages.dev/\">https://monkeyball-online.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46789961\">https://news.ycombinator.com/item?id=46789961</a></p>\n<p>Points: 258</p>\n<p># Comments: 77</p>",
+      "content_text": "Article URL: https://monkeyball-online.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=46789961\nPoints: 258\n# Comments: 77",
+      "date_published": "2026-01-28T01:44:25.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46789561",
+      "url": "https://www.arcee.ai/blog/trinity-large",
+      "title": "Trinity large: An open 400B sparse MoE model",
+      "content_html": "<p>Article URL: <a href=\"https://www.arcee.ai/blog/trinity-large\">https://www.arcee.ai/blog/trinity-large</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46789561\">https://news.ycombinator.com/item?id=46789561</a></p>\n<p>Points: 229</p>\n<p># Comments: 79</p>",
+      "content_text": "Article URL: https://www.arcee.ai/blog/trinity-large\nComments URL: https://news.ycombinator.com/item?id=46789561\nPoints: 229\n# Comments: 79",
+      "date_published": "2026-01-28T00:57:52.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46788384",
+      "url": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+      "title": "Some notes on starting to use Django",
+      "content_html": "<p>Article URL: <a href=\"https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/\">https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46788384\">https://news.ycombinator.com/item?id=46788384</a></p>\n<p>Points: 234</p>\n<p># Comments: 126</p>",
+      "content_text": "Article URL: https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/\nComments URL: https://news.ycombinator.com/item?id=46788384\nPoints: 234\n# Comments: 126",
+      "date_published": "2026-01-27T22:58:30.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46787521",
+      "url": "https://www.web3isgoinggreat.com/single/lick-theft",
+      "title": "Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son",
+      "content_html": "<p>Article URL: <a href=\"https://www.web3isgoinggreat.com/single/lick-theft\">https://www.web3isgoinggreat.com/single/lick-theft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46787521\">https://news.ycombinator.com/item?id=46787521</a></p>\n<p>Points: 260</p>\n<p># Comments: 56</p>",
+      "content_text": "Article URL: https://www.web3isgoinggreat.com/single/lick-theft\nComments URL: https://news.ycombinator.com/item?id=46787521\nPoints: 260\n# Comments: 56",
+      "date_published": "2026-01-27T21:54:29.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46786196",
+      "url": "https://campedersen.com/vcad",
+      "title": "Parametric CAD in Rust",
+      "content_html": "<p>Article URL: <a href=\"https://campedersen.com/vcad\">https://campedersen.com/vcad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46786196\">https://news.ycombinator.com/item?id=46786196</a></p>\n<p>Points: 226</p>\n<p># Comments: 158</p>",
+      "content_text": "Article URL: https://campedersen.com/vcad\nComments URL: https://news.ycombinator.com/item?id=46786196\nPoints: 226\n# Comments: 158",
+      "date_published": "2026-01-27T20:36:14.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46786183",
+      "url": "https://github.com/kangtastic/timestation",
+      "title": "Time Station Emulator",
+      "content_html": "<p>Article URL: <a href=\"https://github.com/kangtastic/timestation\">https://github.com/kangtastic/timestation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46786183\">https://news.ycombinator.com/item?id=46786183</a></p>\n<p>Points: 227</p>\n<p># Comments: 54</p>",
+      "content_text": "Article URL: https://github.com/kangtastic/timestation\nComments URL: https://news.ycombinator.com/item?id=46786183\nPoints: 227\n# Comments: 54",
+      "date_published": "2026-01-27T20:35:34.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46784572",
+      "url": "https://amutable.com/about",
+      "title": "Lennart Poettering, Christian Brauner founded a new company",
+      "content_html": "<p>Article URL: <a href=\"https://amutable.com/about\">https://amutable.com/about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784572\">https://news.ycombinator.com/item?id=46784572</a></p>\n<p>Points: 249</p>\n<p># Comments: 328</p>",
+      "content_text": "Article URL: https://amutable.com/about\nComments URL: https://news.ycombinator.com/item?id=46784572\nPoints: 249\n# Comments: 328",
+      "date_published": "2026-01-27T18:57:15.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46784263",
+      "url": "https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office",
+      "title": "U.S. government has lost more than 10k STEM PhDs since Trump took office",
+      "content_html": "<p>Article URL: <a href=\"https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office\">https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784263\">https://news.ycombinator.com/item?id=46784263</a></p>\n<p>Points: 286</p>\n<p># Comments: 183</p>",
+      "content_text": "Article URL: https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office\nComments URL: https://news.ycombinator.com/item?id=46784263\nPoints: 286\n# Comments: 183",
+      "date_published": "2026-01-27T18:35:33.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46783863",
+      "url": "https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6",
+      "title": "Clawdbot Renames to Moltbot",
+      "content_html": "<p>Article URL: <a href=\"https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6\">https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46783863\">https://news.ycombinator.com/item?id=46783863</a></p>\n<p>Points: 227</p>\n<p># Comments: 210</p>",
+      "content_text": "Article URL: https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6\nComments URL: https://news.ycombinator.com/item?id=46783863\nPoints: 227\n# Comments: 210",
+      "date_published": "2026-01-27T18:08:36.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46783752",
+      "url": "https://openai.com/index/introducing-prism",
+      "title": "Prism",
+      "content_html": "<p>Article URL: <a href=\"https://openai.com/index/introducing-prism\">https://openai.com/index/introducing-prism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46783752\">https://news.ycombinator.com/item?id=46783752</a></p>\n<p>Points: 266</p>\n<p># Comments: 166</p>",
+      "content_text": "Article URL: https://openai.com/index/introducing-prism\nComments URL: https://news.ycombinator.com/item?id=46783752\nPoints: 266\n# Comments: 166",
+      "date_published": "2026-01-27T18:03:10.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46783254",
+      "url": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
+      "title": "FBI is investigating Minnesota Signal chats tracking ICE",
+      "content_html": "<p>Article URL: <a href=\"https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041\">https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46783254\">https://news.ycombinator.com/item?id=46783254</a></p>\n<p>Points: 301</p>\n<p># Comments: 297</p>",
+      "content_text": "Article URL: https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041\nComments URL: https://news.ycombinator.com/item?id=46783254\nPoints: 301\n# Comments: 297",
+      "date_published": "2026-01-27T17:32:05.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46783017",
+      "url": "https://allenai.org/blog/open-coding-agents",
+      "title": "AI2: Open Coding Agents",
+      "content_html": "<p>Article URL: <a href=\"https://allenai.org/blog/open-coding-agents\">https://allenai.org/blog/open-coding-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46783017\">https://news.ycombinator.com/item?id=46783017</a></p>\n<p>Points: 228</p>\n<p># Comments: 42</p>",
+      "content_text": "Article URL: https://allenai.org/blog/open-coding-agents\nComments URL: https://news.ycombinator.com/item?id=46783017\nPoints: 228\n# Comments: 42",
+      "date_published": "2026-01-27T17:17:54.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46781707",
+      "url": "https://www.cnn.com/2026/01/27/food/amazon-fresh-go-closures",
+      "title": "Amazon to shut down Go and Fresh stores",
+      "content_html": "<p><a href=\"https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7\" rel=\"nofollow\">https://www.wsj.com/business/retail/amazon-to-shut-down-all-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46781707\">https://news.ycombinator.com/item?id=46781707</a></p>\n<p>Points: 233</p>\n<p># Comments: 4</p>",
+      "content_text": "https://www.wsj.com/business/retail/amazon-to-shut-down-all-...\n\nComments URL: https://news.ycombinator.com/item?id=46781707\nPoints: 233\n# Comments: 4",
+      "date_published": "2026-01-27T15:58:05.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46781530",
+      "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
+      "content_html": "<p><a href=\"https://archive.ph/mHlUT\" rel=\"nofollow\">https://archive.ph/mHlUT</a><p><a href=\"https://apnews.com/article/oldest-wooden-tools-marathousa-1-6e07cfc79f6d8ba648138f805531b933\" rel=\"nofollow\">https://apnews.com/article/oldest-wooden-tools-marathousa-1-...</a><p><a href=\"https://archaeologymag.com/2026/01/430000-year-old-wooden-tools-marathousa/\" rel=\"nofollow\">https://archaeologymag.com/2026/01/430000-year-old-wooden-to...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46781530\">https://news.ycombinator.com/item?id=46781530</a></p>\n<p>Points: 277</p>\n<p># Comments: 152</p>",
+      "content_text": "https://archive.ph/mHlUThttps://apnews.com/article/oldest-wooden-tools-marathousa-1-...https://archaeologymag.com/2026/01/430000-year-old-wooden-to...\n\nComments URL: https://news.ycombinator.com/item?id=46781530\nPoints: 277\n# Comments: 152",
+      "date_published": "2026-01-27T15:46:29.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46781516",
+      "url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
+      "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
+      "content_html": "<p>Article URL: <a href=\"https://tech.lgbt/@JadedBlueEyes/115967791152135761\">https://tech.lgbt/@JadedBlueEyes/115967791152135761</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46781516\">https://news.ycombinator.com/item?id=46781516</a></p>\n<p>Points: 267</p>\n<p># Comments: 116</p>",
+      "content_text": "Article URL: https://tech.lgbt/@JadedBlueEyes/115967791152135761\nComments URL: https://news.ycombinator.com/item?id=46781516\nPoints: 267\n# Comments: 116",
+      "date_published": "2026-01-27T15:45:45.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46781444",
+      "url": "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html",
+      "title": "Amazon closing its Fresh and Go stores",
+      "content_html": "<p><a href=\"https://www.cnn.com/2026/01/27/food/amazon-fresh-go-closures\" rel=\"nofollow\">https://www.cnn.com/2026/01/27/food/amazon-fresh-go-closures</a><p><a href=\"https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7\" rel=\"nofollow\">https://www.wsj.com/business/retail/amazon-to-shut-down-all-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46781444\">https://news.ycombinator.com/item?id=46781444</a></p>\n<p>Points: 269</p>\n<p># Comments: 490</p>",
+      "content_text": "https://www.cnn.com/2026/01/27/food/amazon-fresh-go-closureshttps://www.wsj.com/business/retail/amazon-to-shut-down-all-...\n\nComments URL: https://news.ycombinator.com/item?id=46781444\nPoints: 269\n# Comments: 490",
+      "date_published": "2026-01-27T15:41:14.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46779809",
+      "url": "https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec",
+      "title": "TikTok users can't upload anti-ICE videos. The company blames tech issues",
+      "content_html": "<p>Article URL: <a href=\"https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec\">https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779809\">https://news.ycombinator.com/item?id=46779809</a></p>\n<p>Points: 643</p>\n<p># Comments: 416</p>",
+      "content_text": "Article URL: https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec\nComments URL: https://news.ycombinator.com/item?id=46779809\nPoints: 643\n# Comments: 416",
+      "date_published": "2026-01-27T13:44:24.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46779645",
+      "url": "https://alexxcons.github.io/blogpost_15.html",
+      "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
+      "content_html": "<p>Article URL: <a href=\"https://alexxcons.github.io/blogpost_15.html\">https://alexxcons.github.io/blogpost_15.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779645\">https://news.ycombinator.com/item?id=46779645</a></p>\n<p>Points: 268</p>\n<p># Comments: 209</p>",
+      "content_text": "Article URL: https://alexxcons.github.io/blogpost_15.html\nComments URL: https://news.ycombinator.com/item?id=46779645\nPoints: 268\n# Comments: 209",
+      "date_published": "2026-01-27T13:25:53.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46779522",
+      "url": "https://emsh.cat/one-human-one-agent-one-browser/",
+      "title": "Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC",
+      "content_html": "<p>Related: <a href=\"https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/\" rel=\"nofollow\">https://simonwillison.net/2026/Jan/27/one-human-one-agent-on...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779522\">https://news.ycombinator.com/item?id=46779522</a></p>\n<p>Points: 250</p>\n<p># Comments: 116</p>",
+      "content_text": "Related: https://simonwillison.net/2026/Jan/27/one-human-one-agent-on...\n\nComments URL: https://news.ycombinator.com/item?id=46779522\nPoints: 250\n# Comments: 116",
+      "date_published": "2026-01-27T13:13:56.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46778341",
+      "url": "https://tonystr.net/blog/git_immitation",
+      "title": "I made my own Git",
+      "content_html": "<p>Article URL: <a href=\"https://tonystr.net/blog/git_immitation\">https://tonystr.net/blog/git_immitation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46778341\">https://news.ycombinator.com/item?id=46778341</a></p>\n<p>Points: 254</p>\n<p># Comments: 103</p>",
+      "content_text": "Article URL: https://tonystr.net/blog/git_immitation\nComments URL: https://news.ycombinator.com/item?id=46778341\nPoints: 254\n# Comments: 103",
+      "date_published": "2026-01-27T10:55:37.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46777652",
+      "url": "https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas",
+      "title": "Celebrities say they are being censored by TikTok after speaking out against ICE",
+      "content_html": "<p>Article URL: <a href=\"https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas\">https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46777652\">https://news.ycombinator.com/item?id=46777652</a></p>\n<p>Points: 255</p>\n<p># Comments: 198</p>",
+      "content_text": "Article URL: https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas\nComments URL: https://news.ycombinator.com/item?id=46777652\nPoints: 255\n# Comments: 198",
+      "date_published": "2026-01-27T09:38:59.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46776155",
+      "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
+      "title": "Doing the thing is doing the thing",
+      "content_html": "<p>Article URL: <a href=\"https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing\">https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46776155\">https://news.ycombinator.com/item?id=46776155</a></p>\n<p>Points: 259</p>\n<p># Comments: 97</p>",
+      "content_text": "Article URL: https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing\nComments URL: https://news.ycombinator.com/item?id=46776155\nPoints: 259\n# Comments: 97",
+      "date_published": "2026-01-27T06:17:46.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46775961",
+      "url": "https://www.kimi.com/blog/kimi-k2-5.html",
+      "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
+      "content_html": "<p>Article URL: <a href=\"https://www.kimi.com/blog/kimi-k2-5.html\">https://www.kimi.com/blog/kimi-k2-5.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46775961\">https://news.ycombinator.com/item?id=46775961</a></p>\n<p>Points: 384</p>\n<p># Comments: 166</p>",
+      "content_text": "Article URL: https://www.kimi.com/blog/kimi-k2-5.html\nComments URL: https://news.ycombinator.com/item?id=46775961\nPoints: 384\n# Comments: 166",
+      "date_published": "2026-01-27T05:42:27.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46775135",
+      "url": "https://telnet.org/htm/places.htm",
+      "title": "A list of fun destinations for telnet",
+      "content_html": "<p>Article URL: <a href=\"https://telnet.org/htm/places.htm\">https://telnet.org/htm/places.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46775135\">https://news.ycombinator.com/item?id=46775135</a></p>\n<p>Points: 257</p>\n<p># Comments: 84</p>",
+      "content_text": "Article URL: https://telnet.org/htm/places.htm\nComments URL: https://news.ycombinator.com/item?id=46775135\nPoints: 257\n# Comments: 84",
+      "date_published": "2026-01-27T03:24:13.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46773242",
+      "url": "https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/",
+      "title": "Y Combinator website no longer lists Canada as a country it invests in",
+      "content_html": "<p>Article URL: <a href=\"https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/\">https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46773242\">https://news.ycombinator.com/item?id=46773242</a></p>\n<p>Points: 225</p>\n<p># Comments: 140</p>",
+      "content_text": "Article URL: https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/\nComments URL: https://news.ycombinator.com/item?id=46773242\nPoints: 225\n# Comments: 140",
+      "date_published": "2026-01-26T23:32:00.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46772495",
+      "url": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
+      "title": "I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor",
+      "content_html": "<p>Article URL: <a href=\"https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip\">https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46772495\">https://news.ycombinator.com/item?id=46772495</a></p>\n<p>Points: 235</p>\n<p># Comments: 220</p>",
+      "content_text": "Article URL: https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip\nComments URL: https://news.ycombinator.com/item?id=46772495\nPoints: 235\n# Comments: 220",
+      "date_published": "2026-01-26T22:29:54.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46771564",
+      "url": "https://twitter.com/karpathy/status/2015883857489522876",
+      "title": "A few random notes from Claude coding quite a bit last few weeks",
+      "content_html": "<p><a href=\"https://xcancel.com/karpathy/status/2015883857489522876\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2015883857489522876</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46771564\">https://news.ycombinator.com/item?id=46771564</a></p>\n<p>Points: 275</p>\n<p># Comments: 300</p>",
+      "content_text": "https://xcancel.com/karpathy/status/2015883857489522876\n\nComments URL: https://news.ycombinator.com/item?id=46771564\nPoints: 275\n# Comments: 300",
+      "date_published": "2026-01-26T21:09:19.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46770274",
+      "url": "https://visualrambling.space/dithering-part-2/",
+      "title": "Dithering – Part 2: The Ordered Dithering",
+      "content_html": "<p>Article URL: <a href=\"https://visualrambling.space/dithering-part-2/\">https://visualrambling.space/dithering-part-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46770274\">https://news.ycombinator.com/item?id=46770274</a></p>\n<p>Points: 248</p>\n<p># Comments: 34</p>",
+      "content_text": "Article URL: https://visualrambling.space/dithering-part-2/\nComments URL: https://news.ycombinator.com/item?id=46770274\nPoints: 248\n# Comments: 34",
+      "date_published": "2026-01-26T19:23:54.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46770221",
+      "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+      "content_html": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jan/26/chatgpt-containers/\">https://simonwillison.net/2026/Jan/26/chatgpt-containers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46770221\">https://news.ycombinator.com/item?id=46770221</a></p>\n<p>Points: 408</p>\n<p># Comments: 290</p>",
+      "content_text": "Article URL: https://simonwillison.net/2026/Jan/26/chatgpt-containers/\nComments URL: https://news.ycombinator.com/item?id=46770221\nPoints: 408\n# Comments: 290",
+      "date_published": "2026-01-26T19:19:40.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46769965",
+      "url": "https://www.theregister.com/2026/01/26/cursor_opinion/",
+      "title": "When AI 'builds a browser,' check the repo before believing the hype",
+      "content_html": "<p>Article URL: <a href=\"https://www.theregister.com/2026/01/26/cursor_opinion/\">https://www.theregister.com/2026/01/26/cursor_opinion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46769965\">https://news.ycombinator.com/item?id=46769965</a></p>\n<p>Points: 234</p>\n<p># Comments: 139</p>",
+      "content_text": "Article URL: https://www.theregister.com/2026/01/26/cursor_opinion/\nComments URL: https://news.ycombinator.com/item?id=46769965\nPoints: 234\n# Comments: 139",
+      "date_published": "2026-01-26T18:58:37.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46769188",
+      "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+      "title": "AI code and software craft",
+      "content_html": "<p>Article URL: <a href=\"https://alexwennerberg.com/blog/2026-01-25-slop.html\">https://alexwennerberg.com/blog/2026-01-25-slop.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46769188\">https://news.ycombinator.com/item?id=46769188</a></p>\n<p>Points: 241</p>\n<p># Comments: 149</p>",
+      "content_text": "Article URL: https://alexwennerberg.com/blog/2026-01-25-slop.html\nComments URL: https://news.ycombinator.com/item?id=46769188\nPoints: 241\n# Comments: 149",
+      "date_published": "2026-01-26T18:04:15.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46769051",
+      "url": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
+      "title": "Fedora Asahi Remix is now working on Apple M3",
+      "content_html": "<p>Article URL: <a href=\"https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o\">https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46769051\">https://news.ycombinator.com/item?id=46769051</a></p>\n<p>Points: 562</p>\n<p># Comments: 209</p>",
+      "content_text": "Article URL: https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o\nComments URL: https://news.ycombinator.com/item?id=46769051\nPoints: 562\n# Comments: 209",
+      "date_published": "2026-01-26T17:54:20.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46768909",
+      "url": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
+      "title": "JuiceSSH – Give me my pro features back",
+      "content_html": "<p>Article URL: <a href=\"https://nproject.io/blog/juicessh-give-me-back-my-pro-features/\">https://nproject.io/blog/juicessh-give-me-back-my-pro-features/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46768909\">https://news.ycombinator.com/item?id=46768909</a></p>\n<p>Points: 379</p>\n<p># Comments: 155</p>",
+      "content_text": "Article URL: https://nproject.io/blog/juicessh-give-me-back-my-pro-features/\nComments URL: https://news.ycombinator.com/item?id=46768909\nPoints: 379\n# Comments: 155",
+      "date_published": "2026-01-26T17:46:38.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46768257",
+      "url": "https://www.darioamodei.com/essay/the-adolescence-of-technology",
+      "title": "The Adolescence of Technology",
+      "content_html": "<p>Article URL: <a href=\"https://www.darioamodei.com/essay/the-adolescence-of-technology\">https://www.darioamodei.com/essay/the-adolescence-of-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46768257\">https://news.ycombinator.com/item?id=46768257</a></p>\n<p>Points: 245</p>\n<p># Comments: 146</p>",
+      "content_text": "Article URL: https://www.darioamodei.com/essay/the-adolescence-of-technology\nComments URL: https://news.ycombinator.com/item?id=46768257\nPoints: 245\n# Comments: 146",
+      "date_published": "2026-01-26T17:07:24.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46767668",
+      "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
+      "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
+      "content_html": "<p>Article URL: <a href=\"https://twitter.com/lellouchenico/status/2015775970330882319\">https://twitter.com/lellouchenico/status/2015775970330882319</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46767668\">https://news.ycombinator.com/item?id=46767668</a></p>\n<p>Points: 826</p>\n<p># Comments: 714</p>",
+      "content_text": "Article URL: https://twitter.com/lellouchenico/status/2015775970330882319\nComments URL: https://news.ycombinator.com/item?id=46767668\nPoints: 826\n# Comments: 714",
+      "date_published": "2026-01-26T16:27:46.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46767440",
+      "url": "https://www.zackliscio.com/posts/rip-low-code-2014-2025/",
+      "title": "RIP Low-Code 2014-2025",
+      "content_html": "<p>Article URL: <a href=\"https://www.zackliscio.com/posts/rip-low-code-2014-2025/\">https://www.zackliscio.com/posts/rip-low-code-2014-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46767440\">https://news.ycombinator.com/item?id=46767440</a></p>\n<p>Points: 267</p>\n<p># Comments: 141</p>",
+      "content_text": "Article URL: https://www.zackliscio.com/posts/rip-low-code-2014-2025/\nComments URL: https://news.ycombinator.com/item?id=46767440\nPoints: 267\n# Comments: 141",
+      "date_published": "2026-01-26T16:11:28.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46766961",
+      "url": "https://www.greptile.com/blog/ai-code-review-bubble",
+      "title": "There is an AI code review bubble",
+      "content_html": "<p>Article URL: <a href=\"https://www.greptile.com/blog/ai-code-review-bubble\">https://www.greptile.com/blog/ai-code-review-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46766961\">https://news.ycombinator.com/item?id=46766961</a></p>\n<p>Points: 319</p>\n<p># Comments: 217</p>",
+      "content_text": "Article URL: https://www.greptile.com/blog/ai-code-review-bubble\nComments URL: https://news.ycombinator.com/item?id=46766961\nPoints: 319\n# Comments: 217",
+      "date_published": "2026-01-26T15:38:50.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46766741",
+      "url": "https://qwen.ai/blog?id=qwen3-max-thinking",
+      "title": "Qwen3-Max-Thinking",
+      "content_html": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3-max-thinking\">https://qwen.ai/blog?id=qwen3-max-thinking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46766741\">https://news.ycombinator.com/item?id=46766741</a></p>\n<p>Points: 485</p>\n<p># Comments: 416</p>",
+      "content_text": "Article URL: https://qwen.ai/blog?id=qwen3-max-thinking\nComments URL: https://news.ycombinator.com/item?id=46766741\nPoints: 485\n# Comments: 416",
+      "date_published": "2026-01-26T15:23:00.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46766526",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot",
+      "title": "Windows 11's Patch Tuesday nightmare gets worse",
+      "content_html": "<p>Article URL: <a href=\"https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot\">https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46766526\">https://news.ycombinator.com/item?id=46766526</a></p>\n<p>Points: 398</p>\n<p># Comments: 310</p>",
+      "content_text": "Article URL: https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot\nComments URL: https://news.ycombinator.com/item?id=46766526\nPoints: 398\n# Comments: 310",
+      "date_published": "2026-01-26T15:07:37.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46766188",
+      "url": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
+      "title": "Television is 100 years old today",
+      "content_html": "<p>Article URL: <a href=\"https://diamondgeezer.blogspot.com/2026/01/tv100.html\">https://diamondgeezer.blogspot.com/2026/01/tv100.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46766188\">https://news.ycombinator.com/item?id=46766188</a></p>\n<p>Points: 629</p>\n<p># Comments: 246</p>",
+      "content_text": "Article URL: https://diamondgeezer.blogspot.com/2026/01/tv100.html\nComments URL: https://news.ycombinator.com/item?id=46766188\nPoints: 629\n# Comments: 246",
+      "date_published": "2026-01-26T14:41:04.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46766031",
+      "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+      "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
+      "content_html": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study\">https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46766031\">https://news.ycombinator.com/item?id=46766031</a></p>\n<p>Points: 396</p>\n<p># Comments: 206</p>",
+      "content_text": "Article URL: https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study\nComments URL: https://news.ycombinator.com/item?id=46766031\nPoints: 396\n# Comments: 206",
+      "date_published": "2026-01-26T14:27:00.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46765819",
+      "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+      "title": "Apple introduces new AirTag with longer range and improved findability",
+      "content_html": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/\">https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46765819\">https://news.ycombinator.com/item?id=46765819</a></p>\n<p>Points: 552</p>\n<p># Comments: 664</p>",
+      "content_text": "Article URL: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/\nComments URL: https://news.ycombinator.com/item?id=46765819\nPoints: 552\n# Comments: 664",
+      "date_published": "2026-01-26T14:10:25.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46765694",
+      "url": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+      "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
+      "content_html": "<p>Article URL: <a href=\"https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html\">https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46765694\">https://news.ycombinator.com/item?id=46765694</a></p>\n<p>Points: 241</p>\n<p># Comments: 160</p>",
+      "content_text": "Article URL: https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html\nComments URL: https://news.ycombinator.com/item?id=46765694\nPoints: 241\n# Comments: 160",
+      "date_published": "2026-01-26T13:58:27.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46765460",
+      "url": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+      "title": "After two years of vibecoding, I'm back to writing by hand",
+      "content_html": "<p>Article URL: <a href=\"https://atmoio.substack.com/p/after-two-years-of-vibecoding-im\">https://atmoio.substack.com/p/after-two-years-of-vibecoding-im</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46765460\">https://news.ycombinator.com/item?id=46765460</a></p>\n<p>Points: 811</p>\n<p># Comments: 590</p>",
+      "content_text": "Article URL: https://atmoio.substack.com/p/after-two-years-of-vibecoding-im\nComments URL: https://news.ycombinator.com/item?id=46765460\nPoints: 811\n# Comments: 590",
+      "date_published": "2026-01-26T13:36:22.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46765120",
+      "url": "https://arxiv.org/abs/2601.15494",
+      "title": "Vibe coding kills open source",
+      "content_html": "<p>Article URL: <a href=\"https://arxiv.org/abs/2601.15494\">https://arxiv.org/abs/2601.15494</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46765120\">https://news.ycombinator.com/item?id=46765120</a></p>\n<p>Points: 317</p>\n<p># Comments: 275</p>",
+      "content_text": "Article URL: https://arxiv.org/abs/2601.15494\nComments URL: https://news.ycombinator.com/item?id=46765120\nPoints: 317\n# Comments: 275",
+      "date_published": "2026-01-26T13:01:00.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46763864",
+      "url": "https://maplibre.org/news/2026-01-23-mlt-release/",
+      "title": "MapLibre Tile: a modern and efficient vector tile format",
+      "content_html": "<p>Article URL: <a href=\"https://maplibre.org/news/2026-01-23-mlt-release/\">https://maplibre.org/news/2026-01-23-mlt-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46763864\">https://news.ycombinator.com/item?id=46763864</a></p>\n<p>Points: 423</p>\n<p># Comments: 85</p>",
+      "content_text": "Article URL: https://maplibre.org/news/2026-01-23-mlt-release/\nComments URL: https://news.ycombinator.com/item?id=46763864\nPoints: 423\n# Comments: 85",
+      "date_published": "2026-01-26T10:19:51.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46762150",
+      "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
+      "title": "The browser is the sandbox",
+      "content_html": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/\">https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46762150\">https://news.ycombinator.com/item?id=46762150</a></p>\n<p>Points: 342</p>\n<p># Comments: 186</p>",
+      "content_text": "Article URL: https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/\nComments URL: https://news.ycombinator.com/item?id=46762150\nPoints: 342\n# Comments: 186",
+      "date_published": "2026-01-26T05:23:01.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46761822",
+      "url": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
+      "title": "Iran's internet blackout may become permanent, with access for elites only",
+      "content_html": "<p>Article URL: <a href=\"https://restofworld.org/2026/iran-blackout-tiered-internet/\">https://restofworld.org/2026/iran-blackout-tiered-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46761822\">https://news.ycombinator.com/item?id=46761822</a></p>\n<p>Points: 405</p>\n<p># Comments: 346</p>",
+      "content_text": "Article URL: https://restofworld.org/2026/iran-blackout-tiered-internet/\nComments URL: https://news.ycombinator.com/item?id=46761822\nPoints: 405\n# Comments: 346",
+      "date_published": "2026-01-26T04:18:19.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46760329",
+      "url": "https://www.iranintl.com/en/202601255198",
+      "title": "Over 36,500 killed in Iran's deadliest massacre, documents reveal",
+      "content_html": "<p>Article URL: <a href=\"https://www.iranintl.com/en/202601255198\">https://www.iranintl.com/en/202601255198</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46760329\">https://news.ycombinator.com/item?id=46760329</a></p>\n<p>Points: 763</p>\n<p># Comments: 503</p>",
+      "content_text": "Article URL: https://www.iranintl.com/en/202601255198\nComments URL: https://news.ycombinator.com/item?id=46760329\nPoints: 763\n# Comments: 503",
+      "date_published": "2026-01-26T00:40:01.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46760237",
+      "url": "https://github.com/clawdbot/clawdbot",
+      "title": "Clawdbot - open source personal AI assistant",
+      "content_html": "<p>Article URL: <a href=\"https://github.com/clawdbot/clawdbot\">https://github.com/clawdbot/clawdbot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46760237\">https://news.ycombinator.com/item?id=46760237</a></p>\n<p>Points: 382</p>\n<p># Comments: 250</p>",
+      "content_text": "Article URL: https://github.com/clawdbot/clawdbot\nComments URL: https://news.ycombinator.com/item?id=46760237\nPoints: 382\n# Comments: 250",
+      "date_published": "2026-01-26T00:27:41.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46760099",
+      "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+      "title": "Scientists identify brain waves that define the limits of 'you'",
+      "content_html": "<p>Original paper: <a href=\"https://www.nature.com/articles/s41467-025-67657-w\" rel=\"nofollow\">https://www.nature.com/articles/s41467-025-67657-w</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46760099\">https://news.ycombinator.com/item?id=46760099</a></p>\n<p>Points: 313</p>\n<p># Comments: 96</p>",
+      "content_text": "Original paper: https://www.nature.com/articles/s41467-025-67657-w\n\nComments URL: https://news.ycombinator.com/item?id=46760099\nPoints: 313\n# Comments: 96",
+      "date_published": "2026-01-26T00:10:42.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46759063",
+      "url": "https://swizec.com/blog/the-future-of-software-engineering-is-sre/",
+      "title": "The future of software engineering is SRE",
+      "content_html": "<p>Article URL: <a href=\"https://swizec.com/blog/the-future-of-software-engineering-is-sre/\">https://swizec.com/blog/the-future-of-software-engineering-is-sre/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46759063\">https://news.ycombinator.com/item?id=46759063</a></p>\n<p>Points: 253</p>\n<p># Comments: 134</p>",
+      "content_text": "Article URL: https://swizec.com/blog/the-future-of-software-engineering-is-sre/\nComments URL: https://news.ycombinator.com/item?id=46759063\nPoints: 253\n# Comments: 134",
+      "date_published": "2026-01-25T22:18:38.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46758450",
+      "url": "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world",
+      "title": "The '3.5% rule': How a small minority can change the world (2019)",
+      "content_html": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world\">https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46758450\">https://news.ycombinator.com/item?id=46758450</a></p>\n<p>Points: 313</p>\n<p># Comments: 226</p>",
+      "content_text": "Article URL: https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world\nComments URL: https://news.ycombinator.com/item?id=46758450\nPoints: 313\n# Comments: 226",
+      "date_published": "2026-01-25T21:27:11.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46757944",
+      "url": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+      "title": "Oneplus phone update introduces hardware anti-rollback",
+      "content_html": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback\">https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46757944\">https://news.ycombinator.com/item?id=46757944</a></p>\n<p>Points: 458</p>\n<p># Comments: 271</p>",
+      "content_text": "Article URL: https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback\nComments URL: https://news.ycombinator.com/item?id=46757944\nPoints: 458\n# Comments: 271",
+      "date_published": "2026-01-25T20:39:25.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46757822",
+      "url": "https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/",
+      "title": "Yes, It's Fascism",
+      "content_html": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/\">https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46757822\">https://news.ycombinator.com/item?id=46757822</a></p>\n<p>Points: 639</p>\n<p># Comments: 382</p>",
+      "content_text": "Article URL: https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/\nComments URL: https://news.ycombinator.com/item?id=46757822\nPoints: 639\n# Comments: 382",
+      "date_published": "2026-01-25T20:28:33.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46757067",
+      "url": "https://gwern.net/blog/2026/make-me-care",
+      "title": "First, make me care",
+      "content_html": "<p>Article URL: <a href=\"https://gwern.net/blog/2026/make-me-care\">https://gwern.net/blog/2026/make-me-care</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46757067\">https://news.ycombinator.com/item?id=46757067</a></p>\n<p>Points: 791</p>\n<p># Comments: 241</p>",
+      "content_text": "Article URL: https://gwern.net/blog/2026/make-me-care\nComments URL: https://news.ycombinator.com/item?id=46757067\nPoints: 791\n# Comments: 241",
+      "date_published": "2026-01-25T19:03:40.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46756117",
+      "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+      "title": "ICE using Palantir tool that feeds on Medicaid data",
+      "content_html": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data\">https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46756117\">https://news.ycombinator.com/item?id=46756117</a></p>\n<p>Points: 1410</p>\n<p># Comments: 928</p>",
+      "content_text": "Article URL: https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data\nComments URL: https://news.ycombinator.com/item?id=46756117\nPoints: 1410\n# Comments: 928",
+      "date_published": "2026-01-25T17:36:19.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46755999",
+      "url": "https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs",
+      "title": "FAA institutes nationwide drone no-fly zones around ICE operations",
+      "content_html": "<p>Article URL: <a href=\"https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs\">https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46755999\">https://news.ycombinator.com/item?id=46755999</a></p>\n<p>Points: 293</p>\n<p># Comments: 213</p>",
+      "content_text": "Article URL: https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs\nComments URL: https://news.ycombinator.com/item?id=46755999\nPoints: 293\n# Comments: 213",
+      "date_published": "2026-01-25T17:24:42.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46755734",
+      "url": "https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/",
+      "title": "White House alters arrest photo of ICE protester, says \"the memes will continue\"",
+      "content_html": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/\">https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46755734\">https://news.ycombinator.com/item?id=46755734</a></p>\n<p>Points: 340</p>\n<p># Comments: 113</p>",
+      "content_text": "Article URL: https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/\nComments URL: https://news.ycombinator.com/item?id=46755734\nPoints: 340\n# Comments: 113",
+      "date_published": "2026-01-25T16:58:19.000Z"
+    }
+  ]
+}

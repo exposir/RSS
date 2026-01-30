@@ -1,0 +1,412 @@
+[
+  {
+    "id": "people-politics",
+    "name": "人民网-政治",
+    "output": "feeds/people-politics.json"
+  },
+  {
+    "id": "diqiuzhishiju",
+    "name": "地球知识局",
+    "output": "feeds/diqiuzhishiju.json"
+  },
+  {
+    "id": "qqtech",
+    "name": "腾讯科技",
+    "output": "feeds/qqtech.json"
+  },
+  {
+    "id": "ai-era",
+    "name": "新智元",
+    "output": "feeds/ai-era.json"
+  },
+  {
+    "id": "people-daily",
+    "name": "人民日报",
+    "output": "feeds/people-daily.json"
+  },
+  {
+    "id": "wallstreetcn",
+    "name": "华尔街见闻",
+    "output": "feeds/wallstreetcn.json"
+  },
+  {
+    "id": "ifanr",
+    "name": "爱范儿",
+    "output": "feeds/ifanr.json"
+  },
+  {
+    "id": "chaping",
+    "name": "差评X.PIN",
+    "output": "feeds/chaping.json"
+  },
+  {
+    "id": "zaobao",
+    "name": "联合早报",
+    "output": "feeds/zaobao.json"
+  },
+  {
+    "id": "geekpark",
+    "name": "极客公园",
+    "output": "feeds/geekpark.json"
+  },
+  {
+    "id": "jiemian",
+    "name": "界面财经",
+    "output": "feeds/jiemian.json"
+  },
+  {
+    "id": "meituan",
+    "name": "美团技术",
+    "output": "feeds/meituan.json"
+  },
+  {
+    "id": "ruanyifeng",
+    "name": "阮一峰",
+    "output": "feeds/ruanyifeng.json"
+  },
+  {
+    "id": "sspai",
+    "name": "少数派",
+    "output": "feeds/sspai.json"
+  },
+  {
+    "id": "smh",
+    "name": "悉尼先驱晨报",
+    "output": "feeds/smh.json"
+  },
+  {
+    "id": "v2ex",
+    "name": "V2EX",
+    "output": "feeds/v2ex.json"
+  },
+  {
+    "id": "lanxi",
+    "name": "阑夕",
+    "output": "feeds/lanxi.json"
+  },
+  {
+    "id": "guangming",
+    "name": "光明日报",
+    "output": "feeds/guangming.json"
+  },
+  {
+    "id": "cctv",
+    "name": "央视新闻",
+    "output": "feeds/cctv.json"
+  },
+  {
+    "id": "bbc",
+    "name": "BBC中文",
+    "output": "feeds/bbc.json"
+  },
+  {
+    "id": "xinhua",
+    "name": "新华社",
+    "output": "feeds/xinhua.json"
+  },
+  {
+    "id": "idaily",
+    "name": "iDaily",
+    "output": "feeds/idaily.json"
+  },
+  {
+    "id": "randy",
+    "name": "Randy's Blog",
+    "output": "feeds/randy.json"
+  },
+  {
+    "id": "huxiu",
+    "name": "虎嗅网",
+    "output": "feeds/huxiu.json"
+  },
+  {
+    "id": "36kr",
+    "name": "36氪",
+    "output": "feeds/36kr.json"
+  },
+  {
+    "id": "gcores",
+    "name": "机核",
+    "output": "feeds/gcores.json"
+  },
+  {
+    "id": "ithome",
+    "name": "IT之家",
+    "output": "feeds/ithome.json"
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch",
+    "output": "feeds/techcrunch.json"
+  },
+  {
+    "id": "hackernews",
+    "name": "Hacker News",
+    "output": "feeds/hackernews.json"
+  },
+  {
+    "id": "nytimes",
+    "name": "纽约时报中文",
+    "output": "feeds/nytimes.json"
+  },
+  {
+    "id": "dw",
+    "name": "德国之声",
+    "output": "feeds/dw.json"
+  },
+  {
+    "id": "bbc-uk",
+    "name": "BBC UK",
+    "output": "feeds/bbc-uk.json"
+  },
+  {
+    "id": "bbc-us",
+    "name": "BBC US",
+    "output": "feeds/bbc-us.json"
+  },
+  {
+    "id": "bbc-zh-home",
+    "name": "BBC中文-主頁",
+    "output": "feeds/bbc-zh-home.json"
+  },
+  {
+    "id": "reuters-news",
+    "name": "Reuters新闻",
+    "output": "feeds/reuters-news.json"
+  },
+  {
+    "id": "reuters-events",
+    "name": "Reuters活动",
+    "output": "feeds/reuters-events.json"
+  },
+  {
+    "id": "reuters-sec",
+    "name": "Reuters SEC",
+    "output": "feeds/reuters-sec.json"
+  },
+  {
+    "id": "scmp-news",
+    "name": "南华早报News",
+    "output": "feeds/scmp-news.json"
+  },
+  {
+    "id": "scmp-china",
+    "name": "南华早报China",
+    "output": "feeds/scmp-china.json"
+  },
+  {
+    "id": "nyt-world",
+    "name": "NYT World",
+    "output": "feeds/nyt-world.json"
+  },
+  {
+    "id": "wsj-world",
+    "name": "WSJ World",
+    "output": "feeds/wsj-world.json"
+  },
+  {
+    "id": "wsj-opinion",
+    "name": "WSJ Opinion",
+    "output": "feeds/wsj-opinion.json"
+  },
+  {
+    "id": "caixin-article",
+    "name": "财新文章",
+    "output": "feeds/caixin-article.json"
+  },
+  {
+    "id": "caixin-latest",
+    "name": "财新最新",
+    "output": "feeds/caixin-latest.json"
+  },
+  {
+    "id": "elon-musk",
+    "name": "Elon Musk",
+    "output": "feeds/elon-musk.json"
+  },
+  {
+    "id": "elon-musk-noreplies",
+    "name": "Elon Musk (无回复)",
+    "output": "feeds/elon-musk-noreplies.json"
+  },
+  {
+    "id": "trump",
+    "name": "Donald Trump",
+    "output": "feeds/trump.json"
+  },
+  {
+    "id": "weibo-hot",
+    "name": "微博热搜",
+    "output": "feeds/weibo-hot.json"
+  },
+  {
+    "id": "t66y",
+    "name": "草榴技术讨论",
+    "output": "feeds/t66y.json"
+  },
+  {
+    "id": "youtube-trending",
+    "name": "YouTube趋势",
+    "output": "feeds/youtube-trending.json"
+  },
+  {
+    "id": "zhihu-hot",
+    "name": "知乎热榜",
+    "output": "feeds/zhihu-hot.json"
+  },
+  {
+    "id": "pornhub-chinese",
+    "name": "Pornhub中文",
+    "output": "feeds/pornhub-chinese.json"
+  },
+  {
+    "id": "pornhub-guochan",
+    "name": "Pornhub国产",
+    "output": "feeds/pornhub-guochan.json"
+  },
+  {
+    "id": "caixin-weekly",
+    "name": "财新周刊",
+    "output": "feeds/caixin-weekly.json"
+  },
+  {
+    "id": "xueqiu-hot",
+    "name": "雪球热帖",
+    "output": "feeds/xueqiu-hot.json"
+  },
+  {
+    "id": "zhihu-hot2",
+    "name": "知乎热榜2",
+    "output": "feeds/zhihu-hot2.json"
+  },
+  {
+    "id": "github-trending-js",
+    "name": "GitHub Trending JS",
+    "output": "feeds/github-trending-js.json"
+  },
+  {
+    "id": "readhub-daily",
+    "name": "Readhub每日早报",
+    "output": "feeds/readhub-daily.json"
+  },
+  {
+    "id": "readhub",
+    "name": "Readhub",
+    "output": "feeds/readhub.json"
+  },
+  {
+    "id": "xueqiu-8790885129",
+    "name": "雪球用户8790885129",
+    "output": "feeds/xueqiu-8790885129.json"
+  },
+  {
+    "id": "xueqiu-1247347556",
+    "name": "雪球用户1247347556",
+    "output": "feeds/xueqiu-1247347556.json"
+  },
+  {
+    "id": "91porn",
+    "name": "91porn",
+    "output": "feeds/91porn.json"
+  },
+  {
+    "id": "latepost",
+    "name": "晚点LatePost",
+    "output": "feeds/latepost.json"
+  },
+  {
+    "id": "xwlb",
+    "name": "新闻联播",
+    "output": "feeds/xwlb.json"
+  },
+  {
+    "id": "bloomberg",
+    "name": "彭博商业周刊",
+    "output": "feeds/bloomberg.json"
+  },
+  {
+    "id": "cls-depth",
+    "name": "财联社深度",
+    "output": "feeds/cls-depth.json"
+  },
+  {
+    "id": "cls-telegraph",
+    "name": "财联社电报",
+    "output": "feeds/cls-telegraph.json"
+  },
+  {
+    "id": "cls-telegraph-red",
+    "name": "财联社电报红",
+    "output": "feeds/cls-telegraph-red.json"
+  },
+  {
+    "id": "cls-telegraph-watch",
+    "name": "财联社电报看",
+    "output": "feeds/cls-telegraph-watch.json"
+  },
+  {
+    "id": "cls-hot",
+    "name": "财联社热门",
+    "output": "feeds/cls-hot.json"
+  },
+  {
+    "id": "wsj-world-news",
+    "name": "WSJ世界新闻",
+    "output": "feeds/wsj-world-news.json"
+  },
+  {
+    "id": "wsj-us-business",
+    "name": "WSJ美国商业",
+    "output": "feeds/wsj-us-business.json"
+  },
+  {
+    "id": "wsj-markets",
+    "name": "WSJ市场动态",
+    "output": "feeds/wsj-markets.json"
+  },
+  {
+    "id": "wsj-tech",
+    "name": "WSJ科技频道",
+    "output": "feeds/wsj-tech.json"
+  },
+  {
+    "id": "wsj-chinese",
+    "name": "WSJ中文",
+    "output": "feeds/wsj-chinese.json"
+  },
+  {
+    "id": "nyt-homepage",
+    "name": "NYT今日头条",
+    "output": "feeds/nyt-homepage.json"
+  },
+  {
+    "id": "nyt-business",
+    "name": "NYT商业新闻",
+    "output": "feeds/nyt-business.json"
+  },
+  {
+    "id": "nyt-technology",
+    "name": "NYT科技频道",
+    "output": "feeds/nyt-technology.json"
+  },
+  {
+    "id": "nyt-science",
+    "name": "NYT科学频道",
+    "output": "feeds/nyt-science.json"
+  },
+  {
+    "id": "reuters-world",
+    "name": "Reuters世界新闻",
+    "output": "feeds/reuters-world.json"
+  },
+  {
+    "id": "reuters-business",
+    "name": "Reuters商业新闻",
+    "output": "feeds/reuters-business.json"
+  },
+  {
+    "id": "reuters-tech",
+    "name": "Reuters科技快讯",
+    "output": "feeds/reuters-tech.json"
+  }
+]
