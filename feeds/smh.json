@@ -6,6 +6,62 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "7518f15e-0573-4d2c-88de-b4891d2eb088",
+      "url": "https://www.smh.com.au/world/catherine-o-hara-passes-away-aged-71-20260131-p5nyh3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Catherine O’Hara passes away aged 71",
+      "content_html": "Beloved actress Catherine O’Hara, best known for work in Home Alone and Schitt's Creek, has died aged 71.",
+      "content_text": "Beloved actress Catherine O’Hara, best known for work in Home Alone and Schitt's Creek, has died aged 71.",
+      "date_published": "2026-01-30T20:28:50.000Z"
+    },
+    {
+      "id": "e068915e-de79-4c4e-b3e7-2a651baf0bbd",
+      "url": "https://www.smh.com.au/national/powerful-winds-cause-power-outages-across-adelaide-20260131-p5nyh0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Powerful winds cause power outages across Adelaide.",
+      "content_html": "Strong winds have caused mass destruction across Adelaide, leaving tens of thousands without electricity.",
+      "content_text": "Strong winds have caused mass destruction across Adelaide, leaving tens of thousands without electricity.",
+      "date_published": "2026-01-30T20:19:02.000Z"
+    },
+    {
+      "id": "5ab33a38-fa35-42d0-ab43-3894f5db5267",
+      "url": "https://www.smh.com.au/national/two-injured-after-stabbing-in-sydney-s-west-20260131-p5nyh1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Two injured after stabbing in Sydney’s West",
+      "content_html": "A man has been stabbed and a woman injured following a violent attack in Sydney’s west.",
+      "content_text": "A man has been stabbed and a woman injured following a violent attack in Sydney’s west.",
+      "date_published": "2026-01-30T20:18:55.000Z"
+    },
+    {
+      "id": "1c8ef13b-6133-4d4e-a069-c4ebcf109d63",
+      "url": "https://www.smh.com.au/national/queensland-police-to-roll-out-more-police-patrols-and-rbt-sites-across-the-state-20260131-p5nyh2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Queensland Police to roll out more police patrols and RBT sites across the state",
+      "content_html": "More police patrols, new RBT sites, and social media campaigns are set to be rolled out in Queensland.",
+      "content_text": "More police patrols, new RBT sites, and social media campaigns are set to be rolled out in Queensland.",
+      "date_published": "2026-01-30T20:18:15.000Z"
+    },
+    {
+      "id": "3aec38d3-e57c-4f26-940e-315a5cedbe91",
+      "url": "https://www.smh.com.au/world/north-america/us-justice-department-releases-millions-of-pages-of-epstein-documents-20260131-p5nygu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "US Justice Department releases millions of pages of Epstein documents",
+      "content_html": "The department is releasing more than 3 million pages of documents in the latest Epstein disclosure, as well as more than 2,000 videos and 180,000 images.",
+      "content_text": "The department is releasing more than 3 million pages of documents in the latest Epstein disclosure, as well as more than 2,000 videos and 180,000 images.",
+      "date_published": "2026-01-30T20:09:43.000Z"
+    },
+    {
+      "id": "d832a912-7751-49be-b0ba-3322e6d48cad",
+      "url": "https://www.smh.com.au/sport/tennis/the-morning-serve-day-14-20260131-p5nygt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The Morning Serve Day 14",
+      "content_html": "Casey Dellacqua and Alicia Molik join Nick McArdle to preview the women's singles final.",
+      "content_text": "Casey Dellacqua and Alicia Molik join Nick McArdle to preview the women's singles final.",
+      "date_published": "2026-01-30T19:42:12.000Z"
+    },
+    {
+      "id": "15d13ac6-16e9-45fb-b9ca-ea3661197134",
+      "url": "https://www.smh.com.au/world/north-america/former-cnn-journalist-arrested-over-anti-ice-protest-at-minnesota-church-20260131-p5nygi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Former CNN journalist arrested over anti-ICE protest at Minnesota church",
+      "content_html": "Don Lemon said he was covering the demonstration as a reporter, while his lawyer labelled the arrest “an unprecedented attack on the First Amendment”.",
+      "content_text": "Don Lemon said he was covering the demonstration as a reporter, while his lawyer labelled the arrest “an unprecedented attack on the First Amendment”.",
+      "date_published": "2026-01-30T19:40:03.000Z"
+    },
+    {
       "id": "fe76b246-8425-49ff-89a6-2858d2cc4c9b",
       "url": "https://www.smh.com.au/national/queensland/the-test-changing-how-one-of-australia-s-deadliest-cancers-is-treated-20260129-p5ny3g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "The test changing how one of Australia’s deadliest cancers is treated",

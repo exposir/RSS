@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html",
+      "title": "Children Were Arrested in Iran’s Brutal Crackdown on Protests",
+      "content_html": "An Iranian government official said some children had been detained, the first such acknowledgment in weeks of anti-government protests.",
+      "content_text": "An Iranian government official said some children had been detained, the first such acknowledgment in weeks of anti-government protests.",
+      "date_published": "2026-01-30T20:20:51.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/texas-population-growth-migration-census.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/texas-population-growth-migration-census.html",
+      "title": "Texas May Be Losing Its Grip as America’s Fastest-Growing State",
+      "content_html": "Long accustomed to rapid growth, Texas saw the overall number of people moving from other states sink to its lowest level in two decades, census estimates show.",
+      "content_text": "Long accustomed to rapid growth, Texas saw the overall number of people moving from other states sink to its lowest level in two decades, census estimates show.",
+      "date_published": "2026-01-30T20:00:14.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/climate/us-grids-are-surviving-the-winter-storm-but-the-next-5-years-could-be-rough.html",
       "url": "https://www.nytimes.com/2026/01/30/climate/us-grids-are-surviving-the-winter-storm-but-the-next-5-years-could-be-rough.html",
       "title": "U.S. Grids Are Surviving the Winter Storm. But the Next 5 Years Could be Rough.",

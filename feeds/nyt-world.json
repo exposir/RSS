@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html",
+      "title": "Children Were Arrested in Iran’s Brutal Crackdown on Protests",
+      "content_html": "An Iranian government official said some children had been detained, the first such acknowledgment in weeks of anti-government protests.",
+      "content_text": "An Iranian government official said some children had been detained, the first such acknowledgment in weeks of anti-government protests.",
+      "date_published": "2026-01-30T20:20:51.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/world/americas/trump-oil-cuba-government.html",
       "url": "https://www.nytimes.com/2026/01/30/world/americas/trump-oil-cuba-government.html",
       "title": "Trump Moves to Cut All Oil to Cuba as U.S. Takes Aim at Its Government",

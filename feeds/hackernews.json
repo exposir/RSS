@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46827003",
+      "url": "https://ztechtalk.com/microsoft-teams",
+      "title": "Microsoft 365 now tracks you in real time?",
+      "content_html": "<p>Article URL: <a href=\"https://ztechtalk.com/microsoft-teams\">https://ztechtalk.com/microsoft-teams</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46827003\">https://news.ycombinator.com/item?id=46827003</a></p>\n<p>Points: 305</p>\n<p># Comments: 236</p>",
+      "content_text": "Article URL: https://ztechtalk.com/microsoft-teams\nComments URL: https://news.ycombinator.com/item?id=46827003\nPoints: 305\n# Comments: 236",
+      "date_published": "2026-01-30T17:12:39.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46824098",
       "url": "https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers",
       "title": "Wisconsin communities signed secrecy deals for billion-dollar data centers",

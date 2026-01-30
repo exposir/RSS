@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/climate/energy-department-climate-ruling.html",
+      "url": "https://www.nytimes.com/2026/01/30/climate/energy-department-climate-ruling.html",
+      "title": "D.O.E. Panel to Question Climate Science Was Unlawful, Judge Rules",
+      "content_html": "The researchers produced a report that was central in a Trump administration effort to stop regulating climate pollution.",
+      "content_text": "The researchers produced a report that was central in a Trump administration effort to stop regulating climate pollution.",
+      "date_published": "2026-01-30T20:20:56.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/climate/us-grids-are-surviving-the-winter-storm-but-the-next-5-years-could-be-rough.html",
       "url": "https://www.nytimes.com/2026/01/30/climate/us-grids-are-surviving-the-winter-storm-but-the-next-5-years-could-be-rough.html",
       "title": "U.S. Grids Are Surviving the Winter Storm. But the Next 5 Years Could be Rough.",
