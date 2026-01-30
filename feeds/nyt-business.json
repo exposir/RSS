@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/trump-lawsuit-irs-taxes.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/trump-lawsuit-irs-taxes.html",
+      "title": "Trump’s Lawsuit Against I.R.S. Creates ‘Enormous Conflict of Interest’",
+      "content_html": "The president is demanding that the federal government pay him at least $10 billion over the unauthorized disclosure of his tax returns during his first term.",
+      "content_text": "The president is demanding that the federal government pay him at least $10 billion over the unauthorized disclosure of his tax returns during his first term.",
+      "date_published": "2026-01-30T22:33:18.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/media/produce-pete-napolitano-dead.html",
       "url": "https://www.nytimes.com/2026/01/30/business/media/produce-pete-napolitano-dead.html",
       "title": "‘Produce Pete’ Napolitano, a Fruit and Vegetable Celebrity, Dies at 80",

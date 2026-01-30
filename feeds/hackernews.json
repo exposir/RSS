@@ -78,6 +78,14 @@
       "date_published": "2026-01-30T03:55:34.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46819809",
+      "url": "https://www.uni-bonn.de/en/news/017-2026",
+      "title": "Two days of oatmeal reduce cholesterol level",
+      "content_html": "<p>Article URL: <a href=\"https://www.uni-bonn.de/en/news/017-2026\">https://www.uni-bonn.de/en/news/017-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46819809\">https://news.ycombinator.com/item?id=46819809</a></p>\n<p>Points: 293</p>\n<p># Comments: 240</p>",
+      "content_text": "Article URL: https://www.uni-bonn.de/en/news/017-2026\nComments URL: https://news.ycombinator.com/item?id=46819809\nPoints: 293\n# Comments: 240",
+      "date_published": "2026-01-30T02:16:21.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46817813",
       "url": "https://grid.space/stem/",
       "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",

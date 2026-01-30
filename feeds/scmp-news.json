@@ -6,6 +6,14 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/us/diplomacy/article/3341911/us-likely-averts-major-government-shutdown-splitting-bill-partial-closure-looms?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3341911/us-likely-averts-major-government-shutdown-splitting-bill-partial-closure-looms?utm_source=rss_feed",
+      "title": "US likely averts major government shutdown by splitting bill, but partial closure looms",
+      "content_html": "The US is poised to avoid a major shutdown after senators agreed on Friday to separate out a controversial bill funding the Department of Homeland Security (DHS) from a package that also includes funding for the State Department and the Pentagon.\nThe House, which is out of session this week, will still need to approve the package before it can be signed into law, meaning that there will be at least a brief funding lapse after current funding expires on Friday. But the chamber is expected to move...",
+      "content_text": "The US is poised to avoid a major shutdown after senators agreed on Friday to separate out a controversial bill funding the Department of Homeland Security (DHS) from a package that also includes funding for the State Department and the Pentagon.\nThe House, which is out of session this week, will still need to approve the package before it can be signed into law, meaning that there will be at least a brief funding lapse after current funding expires on Friday. But the chamber is expected to move...",
+      "date_published": "2026-01-30T22:50:24.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/diplomacy/article/3341809/how-will-china-respond-us-expands-foreign-ship-seizures?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3341809/how-will-china-respond-us-expands-foreign-ship-seizures?utm_source=rss_feed",
       "title": "How will China respond as US expands foreign ship seizures?",

@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "a56e8912-2cd1-4698-95f3-e326e069c24f",
+      "url": "https://www.smh.com.au/national/brook-celebrates-quickfire-century-20260131-p5nyhk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Brook celebrates quickfire century",
+      "content_html": "England batter Harry Brook pulled out an intriguing celebration after scoring a fast ODI century against Sri Lanka.",
+      "content_text": "England batter Harry Brook pulled out an intriguing celebration after scoring a fast ODI century against Sri Lanka.",
+      "date_published": "2026-01-30T22:53:08.000Z"
+    },
+    {
+      "id": "2eaed658-b749-4b45-9e13-b8c83aa5dbac",
+      "url": "https://www.smh.com.au/national/nsw/if-a-summer-of-sharks-restores-our-respect-for-the-ocean-that-s-no-bad-thing-20260130-p5ny8q.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "If a summer of sharks restores our respect for the ocean, that’s no bad thing",
+      "content_html": "Fatalities on our beaches shouldn’t terrify us; they should make us more humble in our approach to the ocean, more respectful, and more willing to learn.",
+      "content_text": "Fatalities on our beaches shouldn’t terrify us; they should make us more humble in our approach to the ocean, more respectful, and more willing to learn.",
+      "date_published": "2026-01-30T22:30:00.000Z"
+    },
+    {
       "id": "6a8cdb5a-6d7d-4bbd-90bb-3ad2571627df",
       "url": "https://www.smh.com.au/national/denmark-s-king-frederik-and-queen-mary-to-visit-australia-20260131-p5nyhb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Denmark’s King Frederik and Queen Mary to visit Australia",

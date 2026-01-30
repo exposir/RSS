@@ -6,6 +6,46 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "SB11888047140129784519804592588013768597288",
+      "url": "https://www.wsj.com/opinion/states-school-choice-education-savings-accounts-15dd5ee5",
+      "title": "How States Can Improve School Choice",
+      "content_html": "Lawmakers can make ESAs truly universal with more funding.",
+      "content_text": "Lawmakers can make ESAs truly universal with more funding.",
+      "date_published": "2026-01-30T22:53:00.000Z"
+    },
+    {
+      "id": "SB11930060785218553820404592650051807584734",
+      "url": "https://www.wsj.com/opinion/a-slow-cooked-peace-in-ukraine-0d45430b",
+      "title": "A Slow-Cooked Peace in Ukraine",
+      "content_html": "It isn&#x2019;t too soon for pundits to decide how to&#xa0;consume their crow if Donald Trump succeeds.",
+      "content_text": "It isn&#x2019;t too soon for pundits to decide how to&#xa0;consume their crow if Donald Trump succeeds.",
+      "date_published": "2026-01-30T22:42:00.000Z"
+    },
+    {
+      "id": "SB10381197850595854896404592650030063770936",
+      "url": "https://www.wsj.com/opinion/kevin-warsh-on-the-feds-mistakes-and-the-consequences-7922f46f",
+      "title": "Kevin Warsh on the Fed&#x2019;s Mistakes and the Consequences",
+      "content_html": "The chairman-designate on where the central bank has gone wrong and what independence means.",
+      "content_text": "The chairman-designate on where the central bank has gone wrong and what independence means.",
+      "date_published": "2026-01-30T22:41:00.000Z"
+    },
+    {
+      "id": "SB11336906705384833482504592649070824414902",
+      "url": "https://www.wsj.com/opinion/california-wealth-tax-gavin-newsom-billionaires-13c91e8e",
+      "title": "Gavin Newsom Opines on Wealth and Taxes",
+      "content_html": "The California Governor finally admits who pays for Sacramento&#x2019;s spending&#x2014;billionaires.",
+      "content_text": "The California Governor finally admits who pays for Sacramento&#x2019;s spending&#x2014;billionaires.",
+      "date_published": "2026-01-30T22:31:00.000Z"
+    },
+    {
+      "id": "SB12264937453160404360904592634222161111952",
+      "url": "https://www.wsj.com/opinion/hong-kong-tiananmen-square-vigil-trial-chow-hang-tung-albert-ho-lee-cheuk-yan-e9815d1f",
+      "title": "A Tiananmen Memory Crime in Hong Kong",
+      "content_html": "Three Hong Kong citizens face a decade in prison for lighting memorial candles.",
+      "content_text": "Three Hong Kong citizens face a decade in prison for lighting memorial candles.",
+      "date_published": "2026-01-30T22:30:00.000Z"
+    },
+    {
       "id": "SB11336906705384833482504592644561437665858",
       "url": "https://www.wsj.com/opinion/donald-j-trump-my-tariffs-have-brought-america-back-2248391b",
       "title": "Donald J. Trump: My Tariffs Have Brought America Back",

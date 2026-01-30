@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/czx1qrx5jgzo#1",
+      "url": "https://www.bbc.com/news/articles/czx1qrx5jgzo?at_medium=RSS&at_campaign=rss",
+      "title": "Will Trump's pick to lead US central bank get him the change he wants?",
+      "content_html": "Opinion is divided over whether Warsh will align with the US president's views over how the Federal Reserve should be run.",
+      "content_text": "Opinion is divided over whether Warsh will align with the US president's views over how the Federal Reserve should be run.",
+      "date_published": "2026-01-30T22:15:36.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c3r10n94jxro#1",
       "url": "https://www.bbc.com/news/articles/c3r10n94jxro?at_medium=RSS&at_campaign=rss",
       "title": "Chris Mason: What Starmer's China reset tells us about his foreign policy",

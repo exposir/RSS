@@ -6,6 +6,38 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/nyregion/nyc-snow-death-toll.html",
+      "url": "https://www.nytimes.com/2026/01/30/nyregion/nyc-snow-death-toll.html",
+      "title": "Death Toll During New York City Cold Snap Rises to 13",
+      "content_html": "The people who died, at least several of whom were believed to be homeless, had been found outdoors, including at a playground and near a hospital.",
+      "content_text": "The people who died, at least several of whom were believed to be homeless, had been found outdoors, including at a playground and near a hospital.",
+      "date_published": "2026-01-30T22:37:03.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/nyregion/queens-exoneration-allen-porter.html",
+      "url": "https://www.nytimes.com/2026/01/30/nyregion/queens-exoneration-allen-porter.html",
+      "title": "Decades Later, a Man’s Conviction Is Overturned With Ex-Inmate’s Help",
+      "content_html": "On Friday, a Queens judge vacated the double-murder conviction of Allen Porter. Jabbar Collins, who was exonerated 16 years ago, never stopped fighting for the friend he met in custody.",
+      "content_text": "On Friday, a Queens judge vacated the double-murder conviction of Allen Porter. Jabbar Collins, who was exonerated 16 years ago, never stopped fighting for the friend he met in custody.",
+      "date_published": "2026-01-30T22:23:57.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/movies/melania-documentary-movie-takeaways-trump.html",
+      "url": "https://www.nytimes.com/2026/01/30/movies/melania-documentary-movie-takeaways-trump.html",
+      "title": "6 Takeaways from ‘Melania,’ the Melania Trump Documentary",
+      "content_html": "The film, which counts Melania Trump as a producer, touches on her immigrant roots, her love for her mother and her style, but there are few revelations.",
+      "content_text": "The film, which counts Melania Trump as a producer, touches on her immigrant roots, her love for her mother and her style, but there are few revelations.",
+      "date_published": "2026-01-30T22:06:22.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html",
+      "url": "https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html",
+      "title": "Young People Are Using A.I. to Skip the Hardest Part of Growing Up",
+      "content_html": "Artificial intelligence is replacing young people's social intuitions.",
+      "content_text": "Artificial intelligence is replacing young people's social intuitions.",
+      "date_published": "2026-01-30T21:59:42.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/us/biffle-nascar-crash-ntsb.html",
       "url": "https://www.nytimes.com/2026/01/30/us/biffle-nascar-crash-ntsb.html",
       "title": "NASCAR Star’s Plane Had Several Instrument Failures Before Crash",
@@ -28,6 +60,14 @@
       "content_html": "Stock and bond markets were unfazed by Kevin Warsh’s nomination as the next Fed chair, with the S&P 500 lower on Friday.",
       "content_text": "Stock and bond markets were unfazed by Kevin Warsh’s nomination as the next Fed chair, with the S&P 500 lower on Friday.",
       "date_published": "2026-01-30T21:10:59.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/video/world/middleeast/100000010675129/why-trump-is-going-after-iran-now.html",
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010675129/why-trump-is-going-after-iran-now.html",
+      "title": "Why Trump Is Going After Iran Now",
+      "content_html": "As President Trump warns that “we have a lot of very big, very powerful ships sailing to Iran right now,” our national security correspondent David E. Sanger breaks down what to know.",
+      "content_text": "As President Trump warns that “we have a lot of very big, very powerful ships sailing to Iran right now,” our national security correspondent David E. Sanger breaks down what to know.",
+      "date_published": "2026-01-30T21:06:12.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html",
