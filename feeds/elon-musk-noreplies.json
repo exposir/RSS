@@ -6,6 +6,14 @@
   "description": "Twitter @Elon Musk - Powered by RSSHub",
   "items": [
     {
+      "id": "https://twitter.com/elonmusk/status/2017373159213973553",
+      "url": "https://x.com/elonmusk/status/2017373159213973553",
+      "title": "Grok Imagine is improving super fast! What are the highest priority improvements you want? Please reply below.",
+      "content_html": "Grok Imagine is improving super fast!<br><br>What are the highest priority improvements you want? Please reply below.<div class=\"rsshub-quote\"><br><br>Wes Roth: xAI has launched the Grok Imagine API, a powerful suite for video and audio generation that sets a new benchmark in speed, cost, and quality. <br><br>Built for creators, developers, and enterprise workflows, it lets users generate cinematic videos from text or images, edit scenes with<br><br><img width=\"819\" height=\"673\" style=\"\" src=\"https://pbs.twimg.com/media/G_3kotRbUAI_21M?format=png&name=orig\" referrerpolicy=\"no-referrer\"></div>",
+      "content_text": "Grok Imagine is improving super fast!What are the highest priority improvements you want? Please reply below.Wes Roth: xAI has launched the Grok Imagine API, a powerful suite for video and audio generation that sets a new benchmark in speed, cost, and quality. Built for creators, developers, and enterprise workflows, it lets users generate cinematic videos from text or images, edit scenes with",
+      "date_published": "2026-01-30T23:03:36.000Z"
+    },
+    {
       "id": "https://twitter.com/elonmusk/status/2017368593663725571",
       "url": "https://x.com/elonmusk/status/2017368593663725571",
       "title": "These are actually my goals!",

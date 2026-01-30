@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3088386",
+      "url": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
+      "title": "OpenClaw&#8217;s AI assistants are now building their own social network",
+      "content_html": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name.",
+      "content_text": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name.",
+      "date_published": "2026-01-30T23:36:34.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3088374",
       "url": "https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/",
       "title": "Informant told FBI that Jeffrey Epstein had a ‘personal hacker’",

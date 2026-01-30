@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "76ab870e-b775-4d1c-85dd-bf222fbaf1cc",
+      "url": "https://www.smh.com.au/culture/live-reviews/flashback-to-marriage-equality-vote-evokes-tumult-of-a-devastating-time-20260128-p5nxok.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Nick Cave’s odyssey into the darkness is tempered by light",
+      "content_html": "His work has always courted darkness yet, equally, he is attuned to beauty and salvation. It is in the tension between these two impulses that the strength of Nick Cave’s artistry lies.",
+      "content_text": "His work has always courted darkness yet, equally, he is attuned to beauty and salvation. It is in the tension between these two impulses that the strength of Nick Cave’s artistry lies.",
+      "date_published": "2026-01-30T23:38:14.000Z"
+    },
+    {
+      "id": "31ac7a94-e1ca-4aea-a9b5-da72d613fcac",
+      "url": "https://www.smh.com.au/sport/us-olympic-star-airlifted-after-horror-crash-20260131-p5nyhq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "US Olympic star airlifted after horror crash",
+      "content_html": "US ski star Lindsey Vonn is airlifted to hospital after a disaster crash on the slopes a week out from the Olympic Games.",
+      "content_text": "US ski star Lindsey Vonn is airlifted to hospital after a disaster crash on the slopes a week out from the Olympic Games.",
+      "date_published": "2026-01-30T23:37:14.000Z"
+    },
+    {
       "id": "01496148-5faa-49b7-8522-d97453a91f38",
       "url": "https://www.smh.com.au/world/north-america/bill-gates-caught-std-from-russian-girls-epstein-claimed-20260131-p5nyhi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Bill Gates caught STD from Russian girls, Epstein claimed",

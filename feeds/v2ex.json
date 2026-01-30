@@ -17,6 +17,14 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189680",
+      "url": "https://www.v2ex.com/t/1189680#reply0",
+      "title": "[Telegram] tg 频道监控机器人实现思路",
+      "content_html": "<p>我关注了一个公开的 tg 频道会推送消息，我想写一个监控机器人，把符合我条件的消息推送给到我的 tg 群组。想用 bun 写，就是不知道怎么监控消息。问了 ai 说要 API ID 和 API Hash （从 <a href=\"http://my.telegram.org\" rel=\"nofollow\">my.telegram.org</a> 获得）。但是一天填表就报错。</p>",
+      "content_text": "我关注了一个公开的 tg 频道会推送消息，我想写一个监控机器人，把符合我条件的消息推送给到我的 tg 群组。想用 bun 写，就是不知道怎么监控消息。问了 ai 说要 API ID 和 API Hash （从 my.telegram.org 获得）。但是一天填表就报错。",
+      "date_published": "2026-01-30T23:35:18.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189679",
       "url": "https://www.v2ex.com/t/1189679#reply0",
       "title": "[酷工作] [远程招聘] 兼职 QA 测试",
