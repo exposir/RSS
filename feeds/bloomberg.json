@@ -6,6 +6,14 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/white-house-preps-warsh-fed-nomination-apple-results-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/white-house-preps-warsh-fed-nomination-apple-results-more",
+      "title": "White House Preps Warsh Fed Nomination, Apple Results, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T07:32:10.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-30/daybreak-europe-warsh-fed-chair-nomination-prepped-podcast",
       "url": "https://www.bloomberg.com/news/audio/2026-01-30/daybreak-europe-warsh-fed-chair-nomination-prepped-podcast",
       "title": "Daybreak Europe: Warsh Fed Chair Nomination Prepped (Podcast)",

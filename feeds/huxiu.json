@@ -6,6 +6,22 @@
   "description": "虎嗅网RSS订阅",
   "items": [
     {
+      "id": "http://www.huxiu.com/article/4830765.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4830765.html?f=wangzhan",
+      "title": "内存缺货，PC涨价：AI需求引发的消费电子涨价潮已至",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/29/163712873778.jpg\"/>\n<p data-check-id=\"139303\">内存荒+涨价潮！AI吞40%内存产能，数码全线提价，原来这就是AI时代的首个消费阵痛，你中招了吗？</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "内存荒+涨价潮！AI吞40%内存产能，数码全线提价，原来这就是AI时代的首个消费阵痛，你中招了吗？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-30T06:00:00.000Z"
+    },
+    {
+      "id": "http://www.huxiu.com/article/4830904.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4830904.html?f=wangzhan",
+      "title": "沃尔玛也学甄嬛了？",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/30/114023233948.jpg\"/>\n<p data-check-id=\"156731\">沃尔玛现在也学甄嬛玩权谋了？山姆（沈眉庄）刚刚有点儿风吹草动，沃尔玛赶紧扶持了沃集鲜（安陵容）。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "沃尔玛现在也学甄嬛玩权谋了？山姆（沈眉庄）刚刚有点儿风吹草动，沃尔玛赶紧扶持了沃集鲜（安陵容）。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-30T05:00:00.000Z"
+    },
+    {
       "id": "http://www.huxiu.com/article/4830702.html?f=wangzhan",
       "url": "http://www.huxiu.com/article/4830702.html?f=wangzhan",
       "title": "索尼电视遭分拆，日本彩电巨头为何全军覆没？",

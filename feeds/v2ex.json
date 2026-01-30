@@ -17,6 +17,86 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189549",
+      "url": "https://www.v2ex.com/t/1189549#reply0",
+      "title": "[小散户的日常] 比特币交易日记：第十天复盘",
+      "content_html": "<p>以下内容仅为个人交易复盘，不构成投资建议。 强烈不建议任何人入市参与。 本人只是日内小仓位操作，纯练手，切勿抱有赚钱幻想。</p>\n<p>今日出现一定幅度的回升。总体来看，既定策略仍然有效。“慢即是快，快即是慢”，若能持续严格执行原有策略，整体进度反而会快于当前表现。需要明确的是，不应试图获取超出自身能力和策略范围之外的收益。收益趋势仍保持稳步上行。</p>\n<p><img alt=\"1705ad7b084e48e99b6d70f8d9425bea.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.mji.rip/2026/01/30/1705ad7b084e48e99b6d70f8d9425bea.png\"/></p>",
+      "content_text": "以下内容仅为个人交易复盘，不构成投资建议。 强烈不建议任何人入市参与。 本人只是日内小仓位操作，纯练手，切勿抱有赚钱幻想。\n今日出现一定幅度的回升。总体来看，既定策略仍然有效。“慢即是快，快即是慢”，若能持续严格执行原有策略，整体进度反而会快于当前表现。需要明确的是，不应试图获取超出自身能力和策略范围之外的收益。收益趋势仍保持稳步上行。",
+      "date_published": "2026-01-30T07:31:22.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189548",
+      "url": "https://www.v2ex.com/t/1189548#reply0",
+      "title": "[问与答] 微信群消息免打扰后,怎么能让群里发的红包提醒",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T07:31:17.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189547",
+      "url": "https://www.v2ex.com/t/1189547#reply0",
+      "title": "[App推荐] 开发了一款 AI 情感日记应用 Aicho Journal",
+      "content_html": "大家好，我最近开发了一款 AI 情感日记应用 Aicho Journal ，已经上架 App Store 。现在比较迷茫开发方向 希望得到一些建议<br />本来是因为一次偶然的机会 在使用 CherryStudio 询问 AI 问题的时候感觉有被关心到 然后正巧那段时间有写日记的习惯 平常工作也天天两点一线 没什么可以倾诉的对象 还考虑到日记是比较私密的东西 随后就想 能不能让自己的日记得到 AI 的认可 得到 AI 的关心和鼓励 然后就用 AiStudio 做了第一版的 AI 日记网页<br />随后就想完整的把这个应用做出来 一开始就想到自己用的苹果 那就给自己做一个 ios 应用 在 cursor 的帮助下也是大概一两周就做出了 demo 为了让自己用上更是买了开发者账号上架 AppStore 在朋友的建议下尝试做了商业化的相关功能 但是也完全不知道如何宣传 目前的想法就是面向海外 希望可以得到一些经验和建议<br />Web 版目前部署在 https://aicho.chat<br /><br />主要功能：<br />- 个性化 AI 朋友：自定义 AI 性格，随时陪伴<br />- 智能情感洞察：AI 分析日记，生成心情趋势<br />- 语音日记：语音转文字 + 声音克隆<br />- RAG 记忆系统：AI 记住你所有过往记录",
+      "content_text": "大家好，我最近开发了一款 AI 情感日记应用 Aicho Journal ，已经上架 App Store 。现在比较迷茫开发方向 希望得到一些建议本来是因为一次偶然的机会 在使用 CherryStudio 询问 AI 问题的时候感觉有被关心到 然后正巧那段时间有写日记的习惯 平常工作也天天两点一线 没什么可以倾诉的对象 还考虑到日记是比较私密的东西 随后就想 能不能让自己的日记得到 AI 的认可 得到 AI 的关心和鼓励 然后就用 AiStudio 做了第一版的 AI 日记网页随后就想完整的把这个应用做出来 一开始就想到自己用的苹果 那就给自己做一个 ios 应用 在 cursor 的帮助下也是大概一两周就做出了 demo 为了让自己用上更是买了开发者账号上架 AppStore 在朋友的建议下尝试做了商业化的相关功能 但是也完全不知道如何宣传 目前的想法就是面向海外 希望可以得到一些经验和建议Web 版目前部署在 https://aicho.chat主要功能：- 个性化 AI 朋友：自定义 AI 性格，随时陪伴- 智能情感洞察：AI 分析日记，生成心情趋势- 语音日记：语音转文字 + 声音克隆- RAG 记忆系统：AI 记住你所有过往记录",
+      "date_published": "2026-01-30T07:31:07.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189546",
+      "url": "https://www.v2ex.com/t/1189546#reply1",
+      "title": "[Apple] 个人经验：一些路由和网络设置，解决断流/AirDrop 失败/鼠标丢帧/蓝牙耳机卡顿",
+      "content_html": "论坛里的常见问题，其实并不一定是设备的问题，建议先自查网络配置与网络环境，能极大概率缓解和解决：<br />1 ，iPhone/Android 手机上网时断流<br />2 ，AirDrop 转圈。安卓的互联互通相关功能卡顿或者失败<br />3 ，鼠标跳帧，丢帧，蓝牙耳机断断续续<br />4 ，微信语音/视频卡顿，不流畅，发热大<br />5 ，P2P 下载缓慢或者失败。Xbox/PS 游戏联机不顺畅。<br /><br />无法写的事无巨细，建议当综述看，具体操作可以论坛搜索或者问 AI 。<br />一，检查光猫与运营商配置。<br />尽量光猫桥接，路由器拨号。千万不要光猫拨号然后路由器又 DHCP 自动获取，相当于套了两层 NAT 。这是 99%的人都会犯的错。若光猫性能好(推荐购买 F7615 系列)可以直接光猫拨号兼职 WIFI(或者路由器调成 AP 模式)。若光猫垃圾则光猫改桥接，路由器拨号。一定要开启 UPNP(微信迅雷都会用)，FullCone NAT ，关闭所有防火墙。<br />二，检查开启 IPV6 。<br />光猫中是 LAN 侧关闭 DHCPv6 Server ，开启 RA 通告并关闭 O 和 M Flag ，这样能开启最好的 SLAAC IPV6 。关闭 IPV6 防火墙。如果发现你有 IPV6 ，很多服务会尝试用 IPV6 点对点，因为 IPV6 一般没有 NAT 。<br />三，考虑关闭 Windows 防火墙。Windows 防火墙会导致 FullCone NAT(NAT1)降级为 NAT3 或者 NAT4 。若追求最大化性能，可以考虑关闭 Windows Defender 和相关安全组件。<br />四，检查路由器配置，能避免很多奇奇怪怪的问题。且 WIFI 的稳定性丢包率这些参数比峰值测速重要的多。<br />建议 2.4G 和 5G 分开命名，一些设备总是喜欢莫名其妙连 2.4Ghz 。安全性选纯 WPA3 或者纯 WPA2-AES ，不用选 WPA2/3 这种。2.4GHz 只给物联网设备用，模式选 n Only ，20Mhz ，信道自动，功率选最小，能极大改善蓝牙和无线设备的干扰问题。你路由器放身边还开最大功率的 40Mhz 的 2.4G ，那你鼠标耳机不爆炸谁的爆炸？ 5GHz 模式选最多的就行了。信道不要无脑 160Mhz ，强烈建议先下一个 WiFiAnalyzer ，看下周边信道，首选一个最不拥挤的。往往是 80Mhz ，52 信道。但是若邻居有 160Mhz 覆盖满了 48-64 所有信道且 149-161 也没空闲，那建议你选 20Mhz ，165 信道。尽量不要和邻居信道有重叠。<br />五，安卓手机中不要用所谓的双 WIFI 加速。<br /><br />后面想到了再补充。欢迎大家补充",
+      "content_text": "论坛里的常见问题，其实并不一定是设备的问题，建议先自查网络配置与网络环境，能极大概率缓解和解决：1 ，iPhone/Android 手机上网时断流2 ，AirDrop 转圈。安卓的互联互通相关功能卡顿或者失败3 ，鼠标跳帧，丢帧，蓝牙耳机断断续续4 ，微信语音/视频卡顿，不流畅，发热大5 ，P2P 下载缓慢或者失败。Xbox/PS 游戏联机不顺畅。无法写的事无巨细，建议当综述看，具体操作可以论坛搜索或者问 AI 。一，检查光猫与运营商配置。尽量光猫桥接，路由器拨号。千万不要光猫拨号然后路由器又 DHCP 自动获取，相当于套了两层 NAT 。这是 99%的人都会犯的错。若光猫性能好(推荐购买 F7615 系列)可以直接光猫拨号兼职 WIFI(或者路由器调成 AP 模式)。若光猫垃圾则光猫改桥接，路由器拨号。一定要开启 UPNP(微信迅雷都会用)，FullCone NAT ，关闭所有防火墙。二，检查开启 IPV6 。光猫中是 LAN 侧关闭 DHCPv6 Server ，开启 RA 通告并关闭 O 和 M Flag ，这样能开启最好的 SLAAC IPV6 。关闭 IPV6 防火墙。如果发现你有 IPV6 ，很多服务会尝试用 IPV6 点对点，因为 IPV6 一般没有 NAT 。三，考虑关闭 Windows 防火墙。Windows 防火墙会导致 FullCone NAT(NAT1)降级为 NAT3 或者 NAT4 。若追求最大化性能，可以考虑关闭 Windows Defender 和相关安全组件。四，检查路由器配置，能避免很多奇奇怪怪的问题。且 WIFI 的稳定性丢包率这些参数比峰值测速重要的多。建议 2.4G 和 5G 分开命名，一些设备总是喜欢莫名其妙连 2.4Ghz 。安全性选纯 WPA3 或者纯 WPA2-AES ，不用选 WPA2/3 这种。2.4GHz 只给物联网设备用，模式选 n Only ，20Mhz ，信道自动，功率选最小，能极大改善蓝牙和无线设备的干扰问题。你路由器放身边还开最大功率的 40Mhz 的 2.4G ，那你鼠标耳机不爆炸谁的爆炸？ 5GHz 模式选最多的就行了。信道不要无脑 160Mhz ，强烈建议先下一个 WiFiAnalyzer ，看下周边信道，首选一个最不拥挤的。往往是 80Mhz ，52 信道。但是若邻居有 160Mhz 覆盖满了 48-64 所有信道且 149-161 也没空闲，那建议你选 20Mhz ，165 信道。尽量不要和邻居信道有重叠。五，安卓手机中不要用所谓的双 WIFI 加速。后面想到了再补充。欢迎大家补充",
+      "date_published": "2026-01-30T07:23:10.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189544",
+      "url": "https://www.v2ex.com/t/1189544#reply0",
+      "title": "[VPS] 最近访问 Gemini 提示不支持的地区，是因为 vps 的问题吗？",
+      "content_html": "<p>我一直在用 racknerd 洛杉矶的 vps 做代理。之前访问 gemini 没问题，开了 20 刀的 pro 会员一直在用。最近 app 加载历史记录失败提示重试，用 web 端访问就会跳转到不支持的地区的页面。求问这样是只能更换 vps 了吗？</p>",
+      "content_text": "我一直在用 racknerd 洛杉矶的 vps 做代理。之前访问 gemini 没问题，开了 20 刀的 pro 会员一直在用。最近 app 加载历史记录失败提示重试，用 web 端访问就会跳转到不支持的地区的页面。求问这样是只能更换 vps 了吗？",
+      "date_published": "2026-01-30T07:17:24.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189543",
+      "url": "https://www.v2ex.com/t/1189543#reply1",
+      "title": "[奇思妙想] 不是吧？真的会有人用佳明手表看小说？佳明小说阅读软件 WristTale.com",
+      "content_html": "<p>看这标题，你可能也想打出一个大大的问号。</p>\n<p>没错，真有。</p>\n<p>最初我同样不理解，同样很抗拒这个需求。</p>\n<p>直到我意识到：每个人生命中，都有一些很难熬的时光，你无法逃离，只能硬撑着度过。</p>\n<p>它也许是一场长达数小时的培训会，手机被要求统一上交，放在门口的“机场”里。</p>\n<p>它也许是在令人窒息的晚自习，你被淹没在堆积如山的试卷中，抬头是写满公式的黑板，回头是班主任在后门窗户上一闪而过的锐利目光。</p>\n<p>也许是作为新人，坐在角落里陪听一场与你毫无关系的汇报，连呼吸都不敢太大声。</p>\n<p>又或许是作为监考老师，在死寂的考场里坐立难安的 3 个小时。</p>\n<p>那种窒息感，不是因为忙碌，而是因为“无意义的消耗”。身体被困在椅子上，但大脑在尖叫：我想要自由。</p>\n<p>这就是我开发 WristTale 的初衷。</p>\n<p>Image</p>\n<p>WristTale （网站： <a href=\"https://wristtale.com\" rel=\"nofollow\">https://wristtale.com</a> ）作为一款佳明手表阅读器，它能帮佳明用户将小说等书籍从手机同步到手表上阅读。</p>\n<p>WristTale 不是带你逃避责任的“摸鱼工具”，而是为了让你在无法逃离的时刻，拥有一个“精神避难所”。</p>\n<p>在那些看似严肃的场合——无论是讲师口沫横飞的培训会、班主任来回巡视的晚自习，还是落针可闻的考场……</p>\n<p>你只是平静地抬起手腕，眉头微皱。在外人眼里，你是一个惜时如金、严谨自律的职场人或优等生。</p>\n<p>但只有你自己知道，在那块 1.4 英寸的屏幕上：你正屏住呼吸，目睹水滴如死神的眼泪般洞穿人类的太空舰队；或是正提着风灯，跟胡八一在精绝古城的角落里，点亮那一支摇曳的蜡烛。</p>\n<p>那是属于你一个人的别有洞天。</p>\n<p>这一刻，讲台上永远翻不到头的 PPT 不再刺眼了，桌上堆积如山的模拟卷也没那么令人窒息了。</p>\n<p>你不再是那个被困在会议室里的职场人，也不再是只会刷题的机器。 你是自由的阅读者，是无数个平行宇宙的观测者。</p>\n<p>如果你也正处于一段难熬的时光，希望 WristTale 这盏小小的烛火，能陪你顺利度过。</p>\n<p>愿你腕上有书，眼里有光。</p>\n<p>我不确定到底会有多少用户会需要这样的产品，欢迎走过路过的各路互联网大神们指点两句。</p>\n<p>佳明端： <a href=\"https://apps.garmin.cn/apps/46b0b8a9-15c2-49a4-83ac-51f9e694111d\" rel=\"nofollow\">https://apps.garmin.cn/apps/46b0b8a9-15c2-49a4-83ac-51f9e694111d</a></p>\n<p>海外安卓版本： <a href=\"https://play.google.com/store/apps/details?id=com.niulasong.wristtale\" rel=\"nofollow\">https://play.google.com/store/apps/details?id=com.niulasong.wristtale</a></p>\n<p>国内安卓版本： <a href=\"https://static.wristtale.com/WristTale_1.0.0%2B8_cn_release.apk\" rel=\"nofollow\">https://static.wristtale.com/WristTale_1.0.0%2B8_cn_release.apk</a></p>\n<p>iOS 版本还在审核中；</p>\n<p>2 月 1 日前可享受 5.5 折购买终生使用权益，联系 niuverse 购买即可，请备注 wt 。</p>",
+      "content_text": "看这标题，你可能也想打出一个大大的问号。\n没错，真有。\n最初我同样不理解，同样很抗拒这个需求。\n直到我意识到：每个人生命中，都有一些很难熬的时光，你无法逃离，只能硬撑着度过。\n它也许是一场长达数小时的培训会，手机被要求统一上交，放在门口的“机场”里。\n它也许是在令人窒息的晚自习，你被淹没在堆积如山的试卷中，抬头是写满公式的黑板，回头是班主任在后门窗户上一闪而过的锐利目光。\n也许是作为新人，坐在角落里陪听一场与你毫无关系的汇报，连呼吸都不敢太大声。\n又或许是作为监考老师，在死寂的考场里坐立难安的 3 个小时。\n那种窒息感，不是因为忙碌，而是因为“无意义的消耗”。身体被困在椅子上，但大脑在尖叫：我想要自由。\n这就是我开发 WristTale 的初衷。\nImage\nWristTale （网站： https://wristtale.com ）作为一款佳明手表阅读器，它能帮佳明用户将小说等书籍从手机同步到手表上阅读。\nWristTale 不是带你逃避责任的“摸鱼工具”，而是为了让你在无法逃离的时刻，拥有一个“精神避难所”。\n在那些看似严肃的场合——无论是讲师口沫横飞的培训会、班主任来回巡视的晚自习，还是落针可闻的考场……\n你只是平静地抬起手腕，眉头微皱。在外人眼里，你是一个惜时如金、严谨自律的职场人或优等生。\n但只有你自己知道，在那块 1.4 英寸的屏幕上：你正屏住呼吸，目睹水滴如死神的眼泪般洞穿人类的太空舰队；或是正提着风灯，跟胡八一在精绝古城的角落里，点亮那一支摇曳的蜡烛。\n那是属于你一个人的别有洞天。\n这一刻，讲台上永远翻不到头的 PPT 不再刺眼了，桌上堆积如山的模拟卷也没那么令人窒息了。\n你不再是那个被困在会议室里的职场人，也不再是只会刷题的机器。 你是自由的阅读者，是无数个平行宇宙的观测者。\n如果你也正处于一段难熬的时光，希望 WristTale 这盏小小的烛火，能陪你顺利度过。\n愿你腕上有书，眼里有光。\n我不确定到底会有多少用户会需要这样的产品，欢迎走过路过的各路互联网大神们指点两句。\n佳明端： https://apps.garmin.cn/apps/46b0b8a9-15c2-49a4-83ac-51f9e694111d\n海外安卓版本： https://play.google.com/store/apps/details?id=com.niulasong.wristtale\n国内安卓版本： https://static.wristtale.com/WristTale_1.0.0%2B8_cn_release.apk\niOS 版本还在审核中；\n2 月 1 日前可享受 5.5 折购买终生使用权益，联系 niuverse 购买即可，请备注 wt 。",
+      "date_published": "2026-01-30T07:16:57.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189542",
+      "url": "https://www.v2ex.com/t/1189542#reply5",
+      "title": "[程序员] 19 款的 inter 还能战几年",
+      "content_html": "<p>2.3 GHz 八核 Intel Core i9\nAMD Radeon Pro 5500M 4 GB\nIntel UHD Graphics 630 1536 MB\n32 GB 2667 MHz DDR4</p>\n<p>现在用 cursor 电脑会特别卡</p>",
+      "content_text": "2.3 GHz 八核 Intel Core i9\nAMD Radeon Pro 5500M 4 GB\nIntel UHD Graphics 630 1536 MB\n32 GB 2667 MHz DDR4\n现在用 cursor 电脑会特别卡",
+      "date_published": "2026-01-30T07:16:18.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189541",
+      "url": "https://www.v2ex.com/t/1189541#reply1",
+      "title": "[问与答] 过年打算给老丈人送块华为 GT6 PRO，大家觉得咋样",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T07:00:54.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189540",
+      "url": "https://www.v2ex.com/t/1189540#reply5",
+      "title": "[分享创造] 都说做网站赚钱，真的吗？做了一年，终于有一点点的收入了，这个站，真不容易容易容易。。。。",
+      "content_html": "LoRA AI - AI Image Generator - Create Stunning Images with LoRA Models | AI 图片生成器<br />Powerful LoRA AI Image Generation Tools<br /><br />Experience the future of digital art creation with our cutting-edge LoRA AI tools. Generate stunning images in seconds with advanced AI technology.<br /><br /><a target=\"_blank\" href=\"https://loraai.me/\" rel=\"nofollow noopener\">https://loraai.me/</a>",
+      "content_text": "LoRA AI - AI Image Generator - Create Stunning Images with LoRA Models | AI 图片生成器Powerful LoRA AI Image Generation ToolsExperience the future of digital art creation with our cutting-edge LoRA AI tools. Generate stunning images in seconds with advanced AI technology.https://loraai.me/",
+      "date_published": "2026-01-30T06:53:36.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189539",
+      "url": "https://www.v2ex.com/t/1189539#reply4",
+      "title": "[程序员] 忍无可忍，关掉了 Smart App Control",
+      "content_html": "<p>不知道最近是什么情况，老是遇到 Smart App Control 拦截我的应用</p>\n<p>刚开始是拦截 Antigravity, 导致动不动就得罢工, 有时候重启电脑可以临时解决，但是接着可能不久就又开始弹提示</p>\n<p>这两天开始对 Cherry Studio 启动 MCP 命令，以及用 Rust 库编译 (cargo.exe) 进行拦截</p>\n<p>没找到很有效的办法，有兄弟遇到过类似情况吗？是怎么解决的？</p>\n<p><img alt=\"Antigravity\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/04SWjBgZ.png\"/></p>\n<p><img alt=\"cargo.exe\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/T9n18zh0.png\"/></p>",
+      "content_text": "不知道最近是什么情况，老是遇到 Smart App Control 拦截我的应用\n刚开始是拦截 Antigravity, 导致动不动就得罢工, 有时候重启电脑可以临时解决，但是接着可能不久就又开始弹提示\n这两天开始对 Cherry Studio 启动 MCP 命令，以及用 Rust 库编译 (cargo.exe) 进行拦截\n没找到很有效的办法，有兄弟遇到过类似情况吗？是怎么解决的？",
+      "date_published": "2026-01-30T06:53:15.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189538",
       "url": "https://www.v2ex.com/t/1189538#reply1",
       "title": "[问与答] 现在有一种推销电话是人家打过来,接了之后没人说话,然后嘟嘟嘟叫,有点像是自己打出去的那种,然后才有人接了说话,然后推销. 这种是啥情况?",

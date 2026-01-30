@@ -6,6 +6,94 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "64f06420-20c3-4e15-9846-32c7edce326e",
+      "url": "https://www.smh.com.au/national/nine-sells-radio-empire-to-aussie-pub-tycoon-and-family-20260130-p5nyes.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Nine sells radio empire to Aussie pub tycoon and family",
+      "content_html": "Nine has sold its radio empire, including top-rating talkback station 2GB, to pub baron Arthur Laundy and his family.",
+      "content_text": "Nine has sold its radio empire, including top-rating talkback station 2GB, to pub baron Arthur Laundy and his family.",
+      "date_published": "2026-01-30T07:38:47.000Z"
+    },
+    {
+      "id": "cd996c33-6e04-4e65-b16d-088ae5911911",
+      "url": "https://www.smh.com.au/national/students-fear-as-shots-fired-after-car-backs-into-bus-20260130-p5nyer.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Students' fear as shots fired after car backs into bus",
+      "content_html": "New vision shows the moment police fired at an allegedly stolen vehicle seconds after it reversed into a busload of terrified students in Geelong.",
+      "content_text": "New vision shows the moment police fired at an allegedly stolen vehicle seconds after it reversed into a busload of terrified students in Geelong.",
+      "date_published": "2026-01-30T07:37:30.000Z"
+    },
+    {
+      "id": "da530a72-65f5-4288-ae4e-e5e2166a30ac",
+      "url": "https://www.smh.com.au/national/teens-body-found-after-blue-mountains-camping-trip-disappearance-20260130-p5nyep.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Teen's body found after Blue Mountains camping trip disappearance",
+      "content_html": "A 16-year-old boy has been found dead in a Blue Mountains creek after losing touch with his companion on a camping trip.",
+      "content_text": "A 16-year-old boy has been found dead in a Blue Mountains creek after losing touch with his companion on a camping trip.",
+      "date_published": "2026-01-30T07:36:03.000Z"
+    },
+    {
+      "id": "f944ddaa-c808-4d9a-aaa6-d3fdcb501d97",
+      "url": "https://www.smh.com.au/national/locals-on-edge-as-hunt-for-alleged-triple-killer-continues-20260130-p5nyen.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Locals on edge as hunt for alleged triple-killer continues",
+      "content_html": "As the hunt for an alleged triple-killer enters week two, locals in the small town are worried the conditions may create difficulties in finding the fugitive.",
+      "content_text": "As the hunt for an alleged triple-killer enters week two, locals in the small town are worried the conditions may create difficulties in finding the fugitive.",
+      "date_published": "2026-01-30T07:35:37.000Z"
+    },
+    {
+      "id": "535b07d7-9efd-45ab-909b-20dde96b7d81",
+      "url": "https://www.smh.com.au/world/us-city-calls-for-answers-following-fatal-ice-shootings-20260130-p5nyem.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "US city calls for answers following fatal ICE shootings",
+      "content_html": "The Minneapolis community demands answers following a series of deadly shootings involving federal immigration agents.",
+      "content_text": "The Minneapolis community demands answers following a series of deadly shootings involving federal immigration agents.",
+      "date_published": "2026-01-30T07:35:37.000Z"
+    },
+    {
+      "id": "99adfe32-d546-4c04-9975-822408b1a0c9",
+      "url": "https://www.smh.com.au/national/government-reaches-deal-to-boost-hospital-funding-20260130-p5nyeq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Government reaches deal to boost hospital funding",
+      "content_html": "The prime minister and premiers have reached a long-awaited deal worth $25 billion to increase hospital funding.",
+      "content_text": "The prime minister and premiers have reached a long-awaited deal worth $25 billion to increase hospital funding.",
+      "date_published": "2026-01-30T07:35:23.000Z"
+    },
+    {
+      "id": "fb950e4b-a7bc-4a5f-8052-a58479c0a77d",
+      "url": "https://www.smh.com.au/national/queen-mary-king-frederik-announce-fourth-official-australia-visit-20260130-p5nyeo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Queen Mary, King Frederik announce fourth official Australia visit",
+      "content_html": "Queen Mary of Denmark will return to her homeland in March with husband King Frederik, the royals announcing a six-day tour.",
+      "content_text": "Queen Mary of Denmark will return to her homeland in March with husband King Frederik, the royals announcing a six-day tour.",
+      "date_published": "2026-01-30T07:33:58.000Z"
+    },
+    {
+      "id": "1e601180-4dea-471a-b27a-d827a13dd99b",
+      "url": "https://www.smh.com.au/national/nsw/liberals-noes-have-it-it-s-time-to-plan-for-new-careers-20260130-p5ny83.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Liberals’ noes have it: it’s time to plan for new careers",
+      "content_html": "No respect, no idea about learning from earlier mistakes, no ability to read the room - just self-interest and pathetic behaviour",
+      "content_text": "No respect, no idea about learning from earlier mistakes, no ability to read the room - just self-interest and pathetic behaviour",
+      "date_published": "2026-01-30T07:30:00.000Z"
+    },
+    {
+      "id": "bc6c552f-f845-4c98-a21b-e5230defc38b",
+      "url": "https://www.smh.com.au/sport/tennis/billionaire-gates-adds-special-flavour-to-aussie-mixed-doubles-triumph-20260130-p5nydp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Billionaire Gates adds a rich flavour to Aussie mixed doubles triumph",
+      "content_html": "John Peers and Olivia Gadecki win back-to-back titles before a special guest – one of the richest people on the planet.",
+      "content_text": "John Peers and Olivia Gadecki win back-to-back titles before a special guest – one of the richest people on the planet.",
+      "date_published": "2026-01-30T07:23:26.000Z"
+    },
+    {
+      "id": "e9ffedb3-1753-45b0-95ca-3cc90712b6ad",
+      "url": "https://www.smh.com.au/politics/nsw/parliamentary-committee-gives-government-green-light-to-ban-controversial-chant-20260130-p5ny9l.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Parliamentary committee gives government green light to ban controversial chant",
+      "content_html": "The phrase “globalise the intifada” is hateful and should be banned, an inquiry found, despite pushback from constitutional experts and religious groups.",
+      "content_text": "The phrase “globalise the intifada” is hateful and should be banned, an inquiry found, despite pushback from constitutional experts and religious groups.",
+      "date_published": "2026-01-30T07:00:23.000Z"
+    },
+    {
+      "id": "3599eb74-2f60-4c86-8f31-5f8ca3aa8925",
+      "url": "https://www.smh.com.au/sport/tennis/alcaraz-drops-first-set-of-tournament-20260130-p5nyef.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alcaraz drops first set of tournament",
+      "content_html": "Carlos Alcaraz drops his first set of the tournament as Alexander Zverev wins the tie-break to claim the third.",
+      "content_text": "Carlos Alcaraz drops his first set of the tournament as Alexander Zverev wins the tie-break to claim the third.",
+      "date_published": "2026-01-30T06:58:47.000Z"
+    },
+    {
       "id": "d08411db-fdf3-4da5-9bd1-3475d9df068f",
       "url": "https://www.smh.com.au/politics/federal/albanese-ends-hospital-stalemate-with-25b-deal-to-move-kids-off-ndis-20260130-p5ny8k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Albanese ends hospital stalemate with $25b deal to move kids off NDIS",

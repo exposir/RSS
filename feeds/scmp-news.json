@@ -6,6 +6,38 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/business/banking-finance/article/3341805/hsbc-suffers-system-shutdown-stopping-services-hong-kong?utm_source=rss_feed",
+      "url": "https://www.scmp.com/business/banking-finance/article/3341805/hsbc-suffers-system-shutdown-stopping-services-hong-kong?utm_source=rss_feed",
+      "title": "HSBC suffers system shutdown, stopping services in Hong Kong",
+      "content_html": "HSBC, Hong Kong’s biggest bank with a customer base of 6.2 million, saw a system breakdown on Friday afternoon.\nThe bank’s mobile banking app could not be accessed, instead showing a message stating the system was under maintenance and would be available at a later time.\nA staff member at the bank’s Mong Kok branch said HSBC’s computer network across the city had failed, but did not know the reason for the stoppage.\nAn official with the bank also confirmed there had been a breakdown, but the...",
+      "content_text": "HSBC, Hong Kong’s biggest bank with a customer base of 6.2 million, saw a system breakdown on Friday afternoon.\nThe bank’s mobile banking app could not be accessed, instead showing a message stating the system was under maintenance and would be available at a later time.\nA staff member at the bank’s Mong Kok branch said HSBC’s computer network across the city had failed, but did not know the reason for the stoppage.\nAn official with the bank also confirmed there had been a breakdown, but the...",
+      "date_published": "2026-01-30T07:13:47.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/week-asia/lifestyle-culture/article/3341803/singapore-begins-ban-undesirable-visitors-airline-boarding-rules-take-effect?utm_source=rss_feed",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3341803/singapore-begins-ban-undesirable-visitors-airline-boarding-rules-take-effect?utm_source=rss_feed",
+      "title": "Singapore begins ban on ‘undesirable’ visitors as airline boarding rules take effect",
+      "content_html": "Singapore’s ban against undesirable visitors began on Friday, with airlines flying to the city state required to bar passengers flagged as risks from boarding.\nThe new directive is aimed at preventing “undesirable or prohibited immigrants, and those who do not meet Singapore’s entry requirements, from boarding flights bound for Singapore”, according to an Immigration and Checkpoints Authority (ICA) statement released on November 28 last year.\nStarting on Monday, airlines flying into Seletar and...",
+      "content_text": "Singapore’s ban against undesirable visitors began on Friday, with airlines flying to the city state required to bar passengers flagged as risks from boarding.\nThe new directive is aimed at preventing “undesirable or prohibited immigrants, and those who do not meet Singapore’s entry requirements, from boarding flights bound for Singapore”, according to an Immigration and Checkpoints Authority (ICA) statement released on November 28 last year.\nStarting on Monday, airlines flying into Seletar and...",
+      "date_published": "2026-01-30T07:07:06.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/economy/global-economy/article/3341801/us-presses-china-let-yuan-strengthen-avoids-currency-manipulator-label?utm_source=rss_feed",
+      "url": "https://www.scmp.com/economy/global-economy/article/3341801/us-presses-china-let-yuan-strengthen-avoids-currency-manipulator-label?utm_source=rss_feed",
+      "title": "US presses China to let yuan strengthen, avoids ‘currency manipulator’ label",
+      "content_html": "The United States has urged China to allow the yuan to appreciate, accusing Beijing of a lack of transparency and describing the currency as “substantially undervalued”.\n“It is important that the Chinese authorities allow the RMB exchange rate to strengthen in a timely and orderly manner in line with market pressure and macroeconomic fundamentals,” the US Treasury said in a report released on Thursday.\nChina’s exchange-rate policies stood out among major US trading partners for their “relative...",
+      "content_text": "The United States has urged China to allow the yuan to appreciate, accusing Beijing of a lack of transparency and describing the currency as “substantially undervalued”.\n“It is important that the Chinese authorities allow the RMB exchange rate to strengthen in a timely and orderly manner in line with market pressure and macroeconomic fundamentals,” the US Treasury said in a report released on Thursday.\nChina’s exchange-rate policies stood out among major US trading partners for their “relative...",
+      "date_published": "2026-01-30T07:01:09.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/week-asia/politics/article/3341797/will-us-warship-visit-calm-fears-intelligence-outpost-cambodian-naval-base?utm_source=rss_feed",
+      "url": "https://www.scmp.com/week-asia/politics/article/3341797/will-us-warship-visit-calm-fears-intelligence-outpost-cambodian-naval-base?utm_source=rss_feed",
+      "title": "Will US warship visit calm fears of ‘intelligence outpost’ at Cambodian naval base?",
+      "content_html": "A visit by a United States warship to a Cambodian port built with major Chinese backing has underscored Phnom Penh’s superpower balancing act, but observers say American concerns will linger over the facility’s usage being dominated by Beijing.\nThe USS Cincinnati arrived on Saturday at Ream Naval Base as part of a mission to strengthen cooperation between Cambodian-US forces and departed from the Preah Sihanouk location on Wednesday, local media reported.\nThe littoral combat ship is the first...",
+      "content_text": "A visit by a United States warship to a Cambodian port built with major Chinese backing has underscored Phnom Penh’s superpower balancing act, but observers say American concerns will linger over the facility’s usage being dominated by Beijing.\nThe USS Cincinnati arrived on Saturday at Ream Naval Base as part of a mission to strengthen cooperation between Cambodian-US forces and departed from the Preah Sihanouk location on Wednesday, local media reported.\nThe littoral combat ship is the first...",
+      "date_published": "2026-01-30T06:53:59.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341792/hong-kong-police-probe-theft-58-million-japanese-yen-currency-exchange-shop?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3341792/hong-kong-police-probe-theft-58-million-japanese-yen-currency-exchange-shop?utm_source=rss_feed",
       "title": "Hong Kong police probe theft of 58 million yen at currency exchange shop",
