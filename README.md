@@ -90,10 +90,10 @@ GitHub Actions (`.github/workflows/rss.yml`) 负责：
 
 ## 🛠️ 技术栈
 
+
+
 - **Core**: Node.js, fast-xml-parser, GitHub Actions
+
 - **Reader (Stable)**: VitePress 1.6, Vue 3.5
+
 - **Reader (Next)**: Next.js 16, React 19, Tailwind CSS v4, Radix UI
-
----
-
-_Created by Antigravity AI_
