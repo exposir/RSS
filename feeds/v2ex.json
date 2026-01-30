@@ -17,6 +17,14 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189674",
+      "url": "https://www.v2ex.com/t/1189674#reply1",
+      "title": "[投资] 所以周一国内的 有色金属 ETF 是什么效果？",
+      "content_html": "<p>黄金\n白银</p>",
+      "content_text": "黄金\n白银",
+      "date_published": "2026-01-30T21:32:08.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189673",
       "url": "https://www.v2ex.com/t/1189673#reply0",
       "title": "[HodlAI] openrouter 有点 buggy 啊",

@@ -6,6 +6,22 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/world/united-states-canada/article/3341909/ex-google-engineer-ding-linwei-convicted-stealing-ai-secrets-chinese-companies?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3341909/ex-google-engineer-ding-linwei-convicted-stealing-ai-secrets-chinese-companies?utm_source=rss_feed",
+      "title": "Ex-Google engineer Ding Linwei convicted of stealing AI secrets for Chinese companies",
+      "content_html": "Former Google software engineer Ding Linwei was convicted by a federal jury in San Francisco ‌on Thursday of stealing AI trade secrets from the US tech ‍giant to benefit two Chinese companies he was secretly working for, the US Department of Justice said on Thursday.\nDing, a 38-year-old Chinese national, was found guilty after an 11-day trial ⁠of seven counts of economic espionage and seven counts of theft of trade secrets for stealing thousands of pages of confidential information.\nEach...",
+      "content_text": "Former Google software engineer Ding Linwei was convicted by a federal jury in San Francisco ‌on Thursday of stealing AI trade secrets from the US tech ‍giant to benefit two Chinese companies he was secretly working for, the US Department of Justice said on Thursday.\nDing, a 38-year-old Chinese national, was found guilty after an 11-day trial ⁠of seven counts of economic espionage and seven counts of theft of trade secrets for stealing thousands of pages of confidential information.\nEach...",
+      "date_published": "2026-01-30T21:30:30.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/opinion/world-opinion/article/3341636/when-doubt-eu-leaders-dig-even-bigger-hole?utm_source=rss_feed",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3341636/when-doubt-eu-leaders-dig-even-bigger-hole?utm_source=rss_feed",
+      "title": "When in doubt, EU leaders dig an even bigger hole",
+      "content_html": "Three news items caught my eye over the past few days. The European Union is finally ready to totally ban the import of Russian natural gas. (You mean they have still been buying Russian gas?)\nThe new National Defence Strategy put out by the Pentagon says the United States will de-prioritise Europe – which must address its own regional security needs – and focus on deterring China.\nAnd former German chancellor Gerhard Schröder wrote a piece in a newspaper that ended up drawing a lot of flak for...",
+      "content_text": "Three news items caught my eye over the past few days. The European Union is finally ready to totally ban the import of Russian natural gas. (You mean they have still been buying Russian gas?)\nThe new National Defence Strategy put out by the Pentagon says the United States will de-prioritise Europe – which must address its own regional security needs – and focus on deterring China.\nAnd former German chancellor Gerhard Schröder wrote a piece in a newspaper that ended up drawing a lot of flak for...",
+      "date_published": "2026-01-30T21:30:09.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/article/3341908/us-hails-panama-high-court-ruling-against-ck-hutchisons-ports-concession?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/article/3341908/us-hails-panama-high-court-ruling-against-ck-hutchisons-ports-concession?utm_source=rss_feed",
       "title": "US hails Panama high court ruling against CK Hutchison’s ports concession",

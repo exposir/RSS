@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46829147",
+      "url": "https://antirender.com/",
+      "title": "Antirender: remove the glossy shine on architectural renderings",
+      "content_html": "<p>Article URL: <a href=\"https://antirender.com/\">https://antirender.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46829147\">https://news.ycombinator.com/item?id=46829147</a></p>\n<p>Points: 315</p>\n<p># Comments: 85</p>",
+      "content_text": "Article URL: https://antirender.com/\nComments URL: https://news.ycombinator.com/item?id=46829147\nPoints: 315\n# Comments: 85",
+      "date_published": "2026-01-30T20:05:24.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46827003",
       "url": "https://ztechtalk.com/microsoft-teams",
       "title": "Microsoft 365 now tracks you in real time?",
