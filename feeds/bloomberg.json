@@ -6,6 +6,54 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/mangione-death-penalty-charge-dropped-trump-picks-warsh-for-fed",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/mangione-death-penalty-charge-dropped-trump-picks-warsh-for-fed",
+      "title": "Mangione Death Penalty Charge Dropped, Trump Picks Warsh for Fed",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T15:30:29.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/depression-era-paintings-recovered-by-general-services-administration",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/depression-era-paintings-recovered-by-general-services-administration",
+      "title": "How Lost 1930s-Era Paintings Owned By US Government Were Recovered",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T15:30:27.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/votes-verdicts-ted-murphy-on-scotus-ieepa-tariff-ruling",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/votes-verdicts-ted-murphy-on-scotus-ieepa-tariff-ruling",
+      "title": "Votes & Verdicts: Ted Murphy on SCOTUS IEEPA Tariff Ruling",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T15:11:39.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-talks-thom-tillis-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-talks-thom-tillis-podcast",
+      "title": "Bloomberg Talks: Thom Tillis (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T15:07:25.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-surveillance-warsh-named-new-fed-chair-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-surveillance-warsh-named-new-fed-chair-podcast",
+      "title": "Bloomberg Surveillance: Warsh Named New Fed Chair (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T15:06:42.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/walmart-target-have-new-ceos-arriving-at-the-same-time",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/walmart-target-have-new-ceos-arriving-at-the-same-time",
+      "title": "Walmart and Target Are Welcoming New CEOs at the Same Time",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T15:00:10.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-30/stocks-fall-as-trump-picks-warsh-tillis-still-opposes-more",
       "url": "https://www.bloomberg.com/news/audio/2026-01-30/stocks-fall-as-trump-picks-warsh-tillis-still-opposes-more",
       "title": "Stocks Fall as Trump Picks Warsh, Tillis Still Opposes, More",

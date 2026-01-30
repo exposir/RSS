@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/nyregion/death-penalty-luigi-mangione.html",
+      "url": "https://www.nytimes.com/2026/01/30/nyregion/death-penalty-luigi-mangione.html",
+      "title": "Federal Judge Drops Death Penalty Charge Against Luigi Mangione",
+      "content_html": "The judge, Margaret Garnett of Federal District Court, said the case against Luigi Mangione would still proceed to trial on other counts.",
+      "content_text": "The judge, Margaret Garnett of Federal District Court, said the case against Luigi Mangione would still proceed to trial on other counts.",
+      "date_published": "2026-01-30T15:32:21.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/europe/netherlands-government-rob-jetten.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/europe/netherlands-government-rob-jetten.html",
+      "title": "The Netherlands Is Getting a New Government. Will It Last?",
+      "content_html": "Rob Jetten, a 38-year-old centrist, is poised to be the youngest prime minister in Dutch history. But his government will be in a daunting position.",
+      "content_text": "Rob Jetten, a 38-year-old centrist, is poised to be the youngest prime minister in Dutch history. But his government will be in a daunting position.",
+      "date_published": "2026-01-30T14:43:05.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html",
       "url": "https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html",
       "title": "Will Kevin Warsh Do What Trump Wants?",

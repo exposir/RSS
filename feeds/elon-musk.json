@@ -6,6 +6,38 @@
   "description": "Twitter @Elon Musk - Powered by RSSHub",
   "items": [
     {
+      "id": "https://twitter.com/elonmusk/status/2017259391586812032",
+      "url": "https://x.com/elonmusk/status/2017259391586812032",
+      "title": "You’re most welcome",
+      "content_html": "You’re most welcome<div class=\"rsshub-quote\"><br><br>Mykhailo Fedorov: I am grateful to SpaceX President @Gwynne_Shotwell and personally to @elonmusk for their swift response and for immediately beginning work on a solution.<br><br>Elon Musk’s decision to urgently activate Starlink and send the first batch of terminals to Ukraine at the outset of the<br></div>",
+      "content_text": "You’re most welcomeMykhailo Fedorov: I am grateful to SpaceX President @Gwynne_Shotwell and personally to @elonmusk for their swift response and for immediately beginning work on a solution.Elon Musk’s decision to urgently activate Starlink and send the first batch of terminals to Ukraine at the outset of the",
+      "date_published": "2026-01-30T15:31:32.000Z"
+    },
+    {
+      "id": "https://twitter.com/elonmusk/status/2017256875792990335",
+      "url": "https://x.com/elonmusk/status/2017256875792990335",
+      "title": "And the latest Grok 4.20 checkpoints are much better. Largest model variant of 4.20 still hasn’t finished training.",
+      "content_html": "And the latest Grok 4.20 checkpoints are much better. Largest model variant of 4.20 still hasn’t finished training.<div class=\"rsshub-quote\"><br><br>X Freeze: Grok 4.20 (Preview) from xAI just ranked #2 on ForecastBench’s global AI forecasting leaderboard<br><br>Outperforming GPT‑5, Gemini 3 Pro, and Claude Opus 4.5, while closing in on elite human superforecasters<br><br><img width=\"2048\" height=\"2048\" style=\"\" src=\"https://pbs.twimg.com/media/G_631QuWQAEqasQ?format=jpg&name=orig\" referrerpolicy=\"no-referrer\"></div>",
+      "content_text": "And the latest Grok 4.20 checkpoints are much better. Largest model variant of 4.20 still hasn’t finished training.X Freeze: Grok 4.20 (Preview) from xAI just ranked #2 on ForecastBench’s global AI forecasting leaderboardOutperforming GPT‑5, Gemini 3 Pro, and Claude Opus 4.5, while closing in on elite human superforecasters",
+      "date_published": "2026-01-30T15:21:32.000Z"
+    },
+    {
+      "id": "https://twitter.com/elonmusk/status/2017250106580643974",
+      "url": "https://x.com/elonmusk/status/2017250106580643974",
+      "title": "True",
+      "content_html": "True<div class=\"rsshub-quote\"><br><br>Testlabor: Did you know that you can use Grok Imagine entirely to generate an epic commercial in under 30 seconds?<br><br><video width=\"1080\" height=\"1080\" src=\"https://video.twimg.com/ext_tw_video/2017241912718086144/pu/vid/avc1/1080x1080/mBp0AgUlZt2pS9d7.mp4?tag=19\" controls=\"controls\" poster=\"https://pbs.twimg.com/ext_tw_video_thumb/2017241912718086144/pu/img/dB7zRL-AIo4tW4xp.jpg\"></video></div>",
+      "content_text": "TrueTestlabor: Did you know that you can use Grok Imagine entirely to generate an epic commercial in under 30 seconds?",
+      "date_published": "2026-01-30T14:54:38.000Z"
+    },
+    {
+      "id": "https://twitter.com/elonmusk/status/2017249425203310750",
+      "url": "https://x.com/elonmusk/status/2017249425203310750",
+      "title": "Cool",
+      "content_html": "Cool<div class=\"rsshub-quote\"><br><br>Kiri: Wow, I gotta say, Imagine is a beast over API.<br><br>I'm still up integrating it into NoSpoon, and I'm *almost* done. Had a few headaches with package dependencies which required me to switch a few things up, and this took slightly longer than I would like.<br><br>I will say a few things:<br></div>",
+      "content_text": "CoolKiri: Wow, I gotta say, Imagine is a beast over API.I'm still up integrating it into NoSpoon, and I'm *almost* done. Had a few headaches with package dependencies which required me to switch a few things up, and this took slightly longer than I would like.I will say a few things:",
+      "date_published": "2026-01-30T14:51:56.000Z"
+    },
+    {
       "id": "https://twitter.com/elonmusk/status/2017245267947667555",
       "url": "https://x.com/elonmusk/status/2017245267947667555",
       "title": "",

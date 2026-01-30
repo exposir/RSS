@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "bc611dbd-cc95-4783-b97d-f1a977764abe",
+      "url": "https://www.smh.com.au/sport/tennis/djokovic-lost-for-words-after-semi-final-20260131-p5nyg6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic lost for words after semi final",
+      "content_html": "Novak Djokovic is literally speechless following his win over Jannik Sinner.",
+      "content_text": "Novak Djokovic is literally speechless following his win over Jannik Sinner.",
+      "date_published": "2026-01-30T15:02:29.000Z"
+    },
+    {
+      "id": "c3310c09-0871-4ceb-8415-01c5e874acc4",
+      "url": "https://www.smh.com.au/sport/tennis/djokovic-turns-back-time-to-reach-australian-open-final-20260131-p5nyg5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Djokovic 'turns back time' to reach Australian Open final",
+      "content_html": "Novak Djokovic defeats Jannik Sinner to seal his spot in the Australian Open final.",
+      "content_text": "Novak Djokovic defeats Jannik Sinner to seal his spot in the Australian Open final.",
+      "date_published": "2026-01-30T14:48:16.000Z"
+    },
+    {
       "id": "dad35cd3-00d8-4947-9e12-c2219584ec87",
       "url": "https://www.smh.com.au/sport/tennis/novak-pants-after-saving-three-break-points-20260131-p5nyg3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Novak pants after saving three break points",

@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3088146",
+      "url": "https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/",
+      "title": "Last 24 hours to grab your +1 pass at 50% off to TechCrunch Disrupt 2026",
+      "content_html": "Today is the last day to lock in a +1 pass at 50% off to TechCrunch Disrupt 2026, happening on October 13-15 in San Francisco. Register here.",
+      "content_text": "Today is the last day to lock in a +1 pass at 50% off to TechCrunch Disrupt 2026, happening on October 13-15 in San Francisco. Register here.",
+      "date_published": "2026-01-30T15:00:00.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3088129",
       "url": "https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/",
       "title": "How Sequoia-backed Ethos reached the public market while rivals fell short",

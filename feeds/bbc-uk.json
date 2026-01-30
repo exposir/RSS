@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c87r2700dq8o#0",
+      "url": "https://www.bbc.com/news/articles/c87r2700dq8o?at_medium=RSS&at_campaign=rss",
+      "title": "Three reasons for the record rise in gold prices, and one why they are falling",
+      "content_html": "Gold has fallen from recent highs but there are several reasons investors are still finding refuge in the precious metal.",
+      "content_text": "Gold has fallen from recent highs but there are several reasons investors are still finding refuge in the precious metal.",
+      "date_published": "2026-01-30T15:24:32.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c1dk1pe4gkgo#7",
+      "url": "https://www.bbc.com/sport/football/articles/c1dk1pe4gkgo?at_medium=RSS&at_campaign=rss",
+      "title": "Mateta 'not in right place' to play against Forest",
+      "content_html": "Crystal Palace striker Jean-Philippe Mateta is \"not in the right place\" to play against Nottingham Forest as he continues to be linked with a move away, says Oliver Glasner.",
+      "content_text": "Crystal Palace striker Jean-Philippe Mateta is \"not in the right place\" to play against Nottingham Forest as he continues to be linked with a move away, says Oliver Glasner.",
+      "date_published": "2026-01-30T15:09:37.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/c0mk7z174e9o#7",
+      "url": "https://www.bbc.com/sport/football/articles/c0mk7z174e9o?at_medium=RSS&at_campaign=rss",
+      "title": "Carrick not ruling out Man Utd deadline day moves",
+      "content_html": "Manchester United's interim head coach Michael Carrick is not ruling out the possibility of the club doing business on transfer deadline day",
+      "content_text": "Manchester United's interim head coach Michael Carrick is not ruling out the possibility of the club doing business on transfer deadline day",
+      "date_published": "2026-01-30T15:06:37.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c5yvwdgjpj3o#0",
       "url": "https://www.bbc.com/news/articles/c5yvwdgjpj3o?at_medium=RSS&at_campaign=rss",
       "title": "Asylum seeker sentenced to at least 29 years for murdering hotel worker Rhiannon Whyte",

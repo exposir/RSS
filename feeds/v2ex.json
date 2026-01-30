@@ -17,6 +17,78 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189658",
+      "url": "https://www.v2ex.com/t/1189658#reply1",
+      "title": "[程序员] Trellis 更新日志: 支持 Windows 系统",
+      "content_html": "之前的 trellis 相关流程用的是 bash 脚本,为了更好兼容 Windows 用户,已将 sh 脚本全部迁移成 py 脚本,欢迎各位 Windows 用户体验/捉虫~<br /><br />下载/更新方式<br />```bash<br />npm install -g @<a target=\"_blank\" href=\"/member/mindfoldhq\" rel=\"nofollow noopener\">mindfoldhq</a>/trellis@beta --registry=<a target=\"_blank\" href=\"https://registry.npmjs.org\" rel=\"nofollow noopener\">https://registry.npmjs.org</a><br />```<br /><br />原 repo:<br /><a target=\"_blank\" href=\"https://github.com/mindfold-ai/Trellis\" rel=\"nofollow noopener\">https://github.com/mindfold-ai/Trellis</a>",
+      "content_text": "之前的 trellis 相关流程用的是 bash 脚本,为了更好兼容 Windows 用户,已将 sh 脚本全部迁移成 py 脚本,欢迎各位 Windows 用户体验/捉虫~下载/更新方式```bashnpm install -g @mindfoldhq/trellis@beta --registry=https://registry.npmjs.org```原 repo:https://github.com/mindfold-ai/Trellis",
+      "date_published": "2026-01-30T15:30:52.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189657",
+      "url": "https://www.v2ex.com/t/1189657#reply0",
+      "title": "[分享创造] 做了个 AI 视频生成工具，文字转视频， 6 秒/10 秒",
+      "content_html": "<p>自己做的一个小工具，输入文字描述就能生成视频：</p>\n<p><a href=\"https://genie3ai.one\" rel=\"nofollow\">https://genie3ai.one</a>\n还在打磨中，生成速度和复杂场景效果还有待优化。欢迎试用和反馈～\n感觉这个模型不太稳定老报错</p>",
+      "content_text": "自己做的一个小工具，输入文字描述就能生成视频：\nhttps://genie3ai.one\n还在打磨中，生成速度和复杂场景效果还有待优化。欢迎试用和反馈～\n感觉这个模型不太稳定老报错",
+      "date_published": "2026-01-30T15:28:12.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189656",
+      "url": "https://www.v2ex.com/t/1189656#reply0",
+      "title": "[云计算] 求问 ai 小模型训练的云服务器 租用 选项",
+      "content_html": "本来有四台 4090 * 8 的服务器可用，最近 down 了<br /><br />也想探索一下云服务的可能<br /><br />Lambda 考虑过用，以前还试过腾讯云，感觉体验屎烂（忘了具体的了<br /><br />请问各位高手一般租哪家的比较中规中矩？<br /><br />我差不多会同时用 16-32 张 4090 级别显卡，更慢不太接受，不需要 HBM",
+      "content_text": "本来有四台 4090 * 8 的服务器可用，最近 down 了也想探索一下云服务的可能Lambda 考虑过用，以前还试过腾讯云，感觉体验屎烂（忘了具体的了请问各位高手一般租哪家的比较中规中矩？我差不多会同时用 16-32 张 4090 级别显卡，更慢不太接受，不需要 HBM",
+      "date_published": "2026-01-30T15:23:27.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189655",
+      "url": "https://www.v2ex.com/t/1189655#reply0",
+      "title": "[V2EX] 精品域名 Starkly.ai 适合 AI 创业/数据分析品牌，诚意出给有缘人",
+      "content_html": "整理手中域名资产，现打算为 <a target=\"_blank\" href=\"http://Starkly.ai\" rel=\"nofollow noopener\">Starkly.ai</a> 寻找一个新的主人。<br /><br />域名概况：<br /><br />Domain: <a target=\"_blank\" href=\"http://Starkly.ai\" rel=\"nofollow noopener\">Starkly.ai</a><br /><br />Registry: Spaceship (支持站内 Push ，秒转)<br /><br />Expiry: 2028-01-15 (超长有效期)<br /><br />核心价值：<br /><br />语义力量：Starkly 作为副词，在英文语境中带有“鲜明、坚定、显而易见”的暗示，非常符合 AI 模型追求的“精准”和“确定性”。<br /><br />品牌兼容性：7 字母短域名，发音干脆，完美契合当前硅谷主流的简洁命名风格（类似 Slowly, Deeply 这种副词流派）。<br /><br />技术背书： \"Stark\" 词根在当前 Web3 与 AI 交叉领域（如 Starknet 生态）具有天然的品牌加成和权威感。<br /><br />出售说明： 因近期个人业务重心调整，考虑将此域名转让。此前曾有海外终端意向报价，但因沟通周期原因未成交。现面向社区诚意出让，如果你正在筹备 AI 相关的初创项目，或者公司需要品牌升级，欢迎带价私聊。<br /><br />比起卖给国外的倒爷，我更希望能看到这个域名在国内优秀的 AI 项目中落地。<br /><br />联系方式：<br /><br />WeChat [15992478448] (加好友请备注：Starkly)",
+      "content_text": "整理手中域名资产，现打算为 Starkly.ai 寻找一个新的主人。域名概况：Domain: Starkly.aiRegistry: Spaceship (支持站内 Push ，秒转)Expiry: 2028-01-15 (超长有效期)核心价值：语义力量：Starkly 作为副词，在英文语境中带有“鲜明、坚定、显而易见”的暗示，非常符合 AI 模型追求的“精准”和“确定性”。品牌兼容性：7 字母短域名，发音干脆，完美契合当前硅谷主流的简洁命名风格（类似 Slowly, Deeply 这种副词流派）。技术背书： \"Stark\" 词根在当前 Web3 与 AI 交叉领域（如 Starknet 生态）具有天然的品牌加成和权威感。出售说明： 因近期个人业务重心调整，考虑将此域名转让。此前曾有海外终端意向报价，但因沟通周期原因未成交。现面向社区诚意出让，如果你正在筹备 AI 相关的初创项目，或者公司需要品牌升级，欢迎带价私聊。比起卖给国外的倒爷，我更希望能看到这个域名在国内优秀的 AI 项目中落地。联系方式：WeChat [15992478448] (加好友请备注：Starkly)",
+      "date_published": "2026-01-30T15:19:54.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189654",
+      "url": "https://www.v2ex.com/t/1189654#reply0",
+      "title": "[宽带症候群] 杭州联通宽带不给动态公网 v4",
+      "content_html": "新装的联通宽带，让安装小哥改了桥接，结果获取的也是 172 的内网 ip,开 v6 拨号倒是有公网。<br />打客服电话要求开通动态 v4 公网，回电说没有，要专线才有公网，不满意，继续上报让我等消息，我问等多久，等一天还是一年十年，客服回答不上来，看明天怎么说。<br />搜索了一圈网上大家在说杭州联通就算工信部投诉了也不给公网 v4 ，说是 ip 资源不够，但我还是想工信部投诉一次。",
+      "content_text": "新装的联通宽带，让安装小哥改了桥接，结果获取的也是 172 的内网 ip,开 v6 拨号倒是有公网。打客服电话要求开通动态 v4 公网，回电说没有，要专线才有公网，不满意，继续上报让我等消息，我问等多久，等一天还是一年十年，客服回答不上来，看明天怎么说。搜索了一圈网上大家在说杭州联通就算工信部投诉了也不给公网 v4 ，说是 ip 资源不够，但我还是想工信部投诉一次。",
+      "date_published": "2026-01-30T15:19:51.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189653",
+      "url": "https://www.v2ex.com/t/1189653#reply0",
+      "title": "[酷工作] 招一位网络安全售前高级顾问 | base 上海",
+      "content_html": "内推邮箱:YWxhbi53YW5nQG9yYW5nZWN5YmVyZGVmZW5zZS5jb20=<br /><br />工作地点：上海<br />岗位职责：<br />作为客户安全领导层值得信赖的安全顾问，建立并维护战略合作伙伴关系。密切关注市场动态、趋势、竞争格局及 OCD 产品组合的市场定价。评估市场中的新技术、服务和解决方案，确保对关键客户账户保持高度市场敏感度，提出未来发展建议，并制定符合客户既定战略的新技术采用计划。<br />与区域销售及客户管理团队建立并深化合作关系。<br />协同客户经理识别、定义并评估商机，确保目标客户业务增长。负责支持客户销售全球服务组合中定义的端到端 OCD 网络安全服务组合。<br /><br />技能要求：信息系统、计算机科学、信息管理或相关专业学士学位 8 年 IT 或信息安全行业渐进式经验具备安全销售岗位实证经验，优先考虑拥有中国市场咨询及技术售前经验者具备客户对接经验及出色演示能力熟悉广义安全行业产品与服务流利的英语听、说、读、写能力持有任何安全行业认可认证：CISSP/CISA/CISM/OSCP/OSCE/CEH/CREST 认证者优先",
+      "content_text": "内推邮箱:YWxhbi53YW5nQG9yYW5nZWN5YmVyZGVmZW5zZS5jb20=工作地点：上海岗位职责：作为客户安全领导层值得信赖的安全顾问，建立并维护战略合作伙伴关系。密切关注市场动态、趋势、竞争格局及 OCD 产品组合的市场定价。评估市场中的新技术、服务和解决方案，确保对关键客户账户保持高度市场敏感度，提出未来发展建议，并制定符合客户既定战略的新技术采用计划。与区域销售及客户管理团队建立并深化合作关系。协同客户经理识别、定义并评估商机，确保目标客户业务增长。负责支持客户销售全球服务组合中定义的端到端 OCD 网络安全服务组合。技能要求：信息系统、计算机科学、信息管理或相关专业学士学位 8 年 IT 或信息安全行业渐进式经验具备安全销售岗位实证经验，优先考虑拥有中国市场咨询及技术售前经验者具备客户对接经验及出色演示能力熟悉广义安全行业产品与服务流利的英语听、说、读、写能力持有任何安全行业认可认证：CISSP/CISA/CISM/OSCP/OSCE/CEH/CREST 认证者优先",
+      "date_published": "2026-01-30T15:13:15.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189652",
+      "url": "https://www.v2ex.com/t/1189652#reply1",
+      "title": "[黄金] 这波黄金回调，你们会抄底吗？",
+      "content_html": "依我看这次回调只是短期上涨过快的技术性回调，世界的冲突没有结束，黄金就会继续前进。",
+      "content_text": "依我看这次回调只是短期上涨过快的技术性回调，世界的冲突没有结束，黄金就会继续前进。",
+      "date_published": "2026-01-30T15:04:07.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189651",
+      "url": "https://www.v2ex.com/t/1189651#reply3",
+      "title": "[问与答] 遇到这样的人该怎么办",
+      "content_html": "<p>你说一个东西不好，他立刻跳出来指责你说都是你自己的问题，就感觉你在说他的东西不好一样，这种人是什么心理，怼他又显得我没素质。</p>\n<p>（几次在微信群咨询/分享时的经历）</p>",
+      "content_text": "你说一个东西不好，他立刻跳出来指责你说都是你自己的问题，就感觉你在说他的东西不好一样，这种人是什么心理，怼他又显得我没素质。\n（几次在微信群咨询/分享时的经历）",
+      "date_published": "2026-01-30T14:56:43.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-30:/t/1189650",
+      "url": "https://www.v2ex.com/t/1189650#reply0",
+      "title": "[OpenClaw] 本地虚拟机沙箱一键启动 ClawdBot/MoltBot，再也不用担心 AI 删库跑路了～",
+      "content_html": "<ul>\n<li>保存下面代码为 <code><a href=\"http://moltbox.py\" rel=\"nofollow\">moltbox.py</a></code></li>\n</ul>\n<pre><code>#!/usr/bin/env python3\nimport asyncio\nimport os\nimport sys\n\nasync def main():\n    print(\"Starting MoltBot in micro-VM sandbox...\")\n    print(\"Type 'exit' or press Ctrl+D to quit\\n\")\n    try:\n        from boxlite import InteractiveBox\n        term_mode = os.environ.get(\"TERM\", \"xterm-256color\")\n        async with InteractiveBox(name=\"moltbox\", image=\"ubuntu:26.04\", env=[(\"TERM\", term_mode)], ports=[(18789, 18789)], auto_remove=False, reuse_existing=True) as itbox:\n            await itbox.wait()\n    except KeyboardInterrupt:\n        print(\"\\n\\nInterrupted by Ctrl+C\")\n    except Exception as e:\n        print(f\"\\nError: {e}\", file=sys.stderr)\n        import traceback\n        traceback.print_exc()\n        sys.exit(1)\n\nif __name__ == \"__main__\":\n    asyncio.run(main())\n</code></pre>\n<ul>\n<li>\n<p>执行 <code>pip install boxlite</code></p>\n</li>\n<li>\n<p>执行 <code>python <a href=\"http://moltbox.py\" rel=\"nofollow\">moltbox.py</a></code> 进入沙箱</p>\n</li>\n<li>\n<p>进入沙箱后，粘贴以下命令，按回车</p>\n</li>\n</ul>\n<pre><code>  apt-get update -y\n  apt-get install -y --no-install-recommends curl ca-certificates\n  curl -fsSL https://deb.nodesource.com/setup_22.x | bash -\n  apt-get install -y nodejs\n\n  Or the full updated script for Ubuntu:\n\n  #!/bin/sh\n  set -e\n  export DEBIAN_FRONTEND=noninteractive\n  export PATH=/usr/local/bin:$PATH\n\n  # --- Install Node.js + clawdbot if missing ---\n  if ! command -v clawdbot >/dev/null 2>&1; then\n    apt-get update -y\n    apt-get install -y --no-install-recommends python3 make g++ git ca-certificates curl lsof\n    curl -fsSL https://deb.nodesource.com/setup_22.x | bash -\n    apt-get install -y nodejs\n    npm config set cache /tmp/npm-cache\n    npm install -g clawdbot@latest\n  fi\n\n  # --- Configure & start gateway ---\n  set -eu\n  CONF_DIR=/root/.clawdbot\n  mkdir -p \"$CONF_DIR\"\n\n  BIN=$(command -v clawdbot || true)\n  if [ -z \"$BIN\" ]; then\n    BIN=\"$(npm bin -g)/clawdbot\"\n  fi\n\n  export CLAWDBOT_STATE_DIR=\"$CONF_DIR\"\n  export CLAWDBOT_CONFIG_PATH=\"$CONF_DIR/clawdbot.json\"\n\n  TOKEN=$(head -c 16 /dev/urandom | od -A n -t x1 | tr -d ' \\n')\n  PORT=18789\n\n  cat > \"$CLAWDBOT_CONFIG_PATH\" <<EOF\n  {\n    \"gateway\": {\n      \"mode\": \"local\",\n      \"bind\": \"lan\",\n      \"port\": $PORT,\n      \"auth\": {\n        \"mode\": \"token\",\n        \"token\": \"$TOKEN\"\n      },\n      \"controlUi\": {\n        \"enabled\": true,\n        \"allowInsecureAuth\": true\n      }\n    }\n  }\n  EOF\n\n  \"$BIN\" gateway run --allow-unconfigured --force --dev --bind lan --port \"$PORT\" --token \"$TOKEN\" &\n  PID=$!\n  echo \"Gateway PID: $PID\"\n  echo \"Endpoint: http://127.0.0.1:$PORT?token=$TOKEN\"\n\n  for i in $(seq 1 120); do\n    if curl -so /dev/null --connect-timeout 1 \"http://127.0.0.1:$PORT/\" 2>/dev/null; then\n      echo \"Gateway is ready!\"\n      break\n    fi\n    sleep 2\n  done\n</code></pre>\n<ul>\n<li>enjoy!</li>\n</ul>\n<hr/>\n<p>本方案沙箱基于\n<a href=\"https://github.com/boxlite-ai/boxlite\" rel=\"nofollow\">https://github.com/boxlite-ai/boxlite</a>\n一个轻松跑在本地，基于 micro-VM 的沙箱实现</p>",
+      "content_text": "保存下面代码为 moltbox.py\n\n#!/usr/bin/env python3\nimport asyncio\nimport os\nimport sys\n\nasync def main():\n    print(\"Starting MoltBot in micro-VM sandbox...\")\n    print(\"Type 'exit' or press Ctrl+D to quit\\n\")\n    try:\n        from boxlite import InteractiveBox\n        term_mode = os.environ.get(\"TERM\", \"xterm-256color\")\n        async with InteractiveBox(name=\"moltbox\", image=\"ubuntu:26.04\", env=[(\"TERM\", term_mode)], ports=[(18789, 18789)], auto_remove=False, reuse_existing=True) as itbox:\n            await itbox.wait()\n    except KeyboardInterrupt:\n        print(\"\\n\\nInterrupted by Ctrl+C\")\n    except Exception as e:\n        print(f\"\\nError: {e}\", file=sys.stderr)\n        import traceback\n        traceback.print_exc()\n        sys.exit(1)\n\nif __name__ == \"__main__\":\n    asyncio.run(main())\n\n\n\n执行 pip install boxlite\n\n\n执行 python moltbox.py 进入沙箱\n\n\n进入沙箱后，粘贴以下命令，按回车\n\n\n  apt-get update -y\n  apt-get install -y --no-install-recommends curl ca-certificates\n  curl -fsSL https://deb.nodesource.com/setup_22.x | bash -\n  apt-get install -y nodejs\n\n  Or the full updated script for Ubuntu:\n\n  #!/bin/sh\n  set -e\n  export DEBIAN_FRONTEND=noninteractive\n  export PATH=/usr/local/bin:$PATH\n\n  # --- Install Node.js + clawdbot if missing ---\n  if ! command -v clawdbot >/dev/null 2>&1; then\n    apt-get update -y\n    apt-get install -y --no-install-recommends python3 make g++ git ca-certificates curl lsof\n    curl -fsSL https://deb.nodesource.com/setup_22.x | bash -\n    apt-get install -y nodejs\n    npm config set cache /tmp/npm-cache\n    npm install -g clawdbot@latest\n  fi\n\n  # --- Configure & start gateway ---\n  set -eu\n  CONF_DIR=/root/.clawdbot\n  mkdir -p \"$CONF_DIR\"\n\n  BIN=$(command -v clawdbot || true)\n  if [ -z \"$BIN\" ]; then\n    BIN=\"$(npm bin -g)/clawdbot\"\n  fi\n\n  export CLAWDBOT_STATE_DIR=\"$CONF_DIR\"\n  export CLAWDBOT_CONFIG_PATH=\"$CONF_DIR/clawdbot.json\"\n\n  TOKEN=$(head -c 16 /dev/urandom | od -A n -t x1 | tr -d ' \\n')\n  PORT=18789\n\n  cat > \"$CLAWDBOT_CONFIG_PATH\" /dev/null; then\n      echo \"Gateway is ready!\"\n      break\n    fi\n    sleep 2\n  done\n\n\nenjoy!\n\n\n本方案沙箱基于\nhttps://github.com/boxlite-ai/boxlite\n一个轻松跑在本地，基于 micro-VM 的沙箱实现",
+      "date_published": "2026-01-30T14:43:31.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-30:/t/1189649",
       "url": "https://www.v2ex.com/t/1189649#reply0",
       "title": "[Android] 一加 15 bl 后刷 OxygenOS 后，能回锁吗",
