@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o#0",
+      "url": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o?at_medium=RSS&at_campaign=rss",
+      "title": "Rybakina beats Sabalenka for first Australian Open title",
+      "content_html": "Elena Rybakina inflicts further Grand Slam final heartbreak on Aryna Sabalenka with a stunning third-set fightback to win the Australian Open.",
+      "content_text": "Elena Rybakina inflicts further Grand Slam final heartbreak on Aryna Sabalenka with a stunning third-set fightback to win the Australian Open.",
+      "date_published": "2026-01-31T11:23:44.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o#8",
       "url": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o?at_medium=RSS&at_campaign=rss",
       "title": "Rybakina beats Sabalenka for first Australian Open title",

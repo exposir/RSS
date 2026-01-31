@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "71989914-7bc2-4b93-b4a1-2ee3787cca24",
+      "url": "https://www.smh.com.au/sport/tennis/rybakina-salutes-kazakhstan-rival-sabalenka-in-winner-s-speech-20260131-p5nyjo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rybakina salutes Kazakhstan, rival Sabalenka in winner’s speech",
+      "content_html": "In her winner's speech, Elena Rybakina delivers a gracious series of thank-yous, balancing her personal triumph with respect for her opponent and her supporters.",
+      "content_text": "In her winner's speech, Elena Rybakina delivers a gracious series of thank-yous, balancing her personal triumph with respect for her opponent and her supporters.",
+      "date_published": "2026-01-31T11:35:18.000Z"
+    },
+    {
+      "id": "6b421f50-68f6-4e9c-90ea-a020c7041327",
+      "url": "https://www.smh.com.au/sport/tennis/speechless-sabalenka-delivers-gracious-runner-up-speech-20260131-p5nyjn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "'Speechless': Sabalenka delivers gracious runner-up speech",
+      "content_html": "In a gracious runner-up speech, Aryna Sabalenka expresses a mix of heartbreak and gratitude following the gruelling women's singles final.",
+      "content_text": "In a gracious runner-up speech, Aryna Sabalenka expresses a mix of heartbreak and gratitude following the gruelling women's singles final.",
+      "date_published": "2026-01-31T11:29:46.000Z"
+    },
+    {
       "id": "50c84f0c-81b4-4919-8f05-f985052a3d4e",
       "url": "https://www.smh.com.au/sport/tennis/rybakina-claims-maiden-australian-open-title-20260131-p5nyjl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Rybakina claims maiden Australian Open title",

@@ -17,6 +17,30 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189777",
+      "url": "https://www.v2ex.com/t/1189777#reply0",
+      "title": "[问与答] 征信花了到底有多大影响",
+      "content_html": "失业一段时间了，失业金另完，房子老破小挂牌无人问津，每月还有 5k 房贷，现在打散工勉强凑过来。<br />下个月打算延期房贷或者甚至先不换了，不知道不换上征信了，日后生活会有什么不便。",
+      "content_text": "失业一段时间了，失业金另完，房子老破小挂牌无人问津，每月还有 5k 房贷，现在打散工勉强凑过来。下个月打算延期房贷或者甚至先不换了，不知道不换上征信了，日后生活会有什么不便。",
+      "date_published": "2026-01-31T11:35:20.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189776",
+      "url": "https://www.v2ex.com/t/1189776#reply3",
+      "title": "[MacBook Pro] M3 Max (16+40)/64G/2T 跟 M5 (10+10)/32G/1T 的选择",
+      "content_html": "<ul>\n<li>M3 Max (16+40)/64G/2T 摩集电商 16650</li>\n<li>M5 (10+10)/32G/1T PDD 15199</li>\n</ul>\n<p>都是 14 寸（ 16 寸太大了，暂不考虑）</p>\n<p>全栈开发，大家会倾向于选哪个？</p>",
+      "content_text": "M3 Max (16+40)/64G/2T 摩集电商 16650\nM5 (10+10)/32G/1T PDD 15199\n\n都是 14 寸（ 16 寸太大了，暂不考虑）\n全栈开发，大家会倾向于选哪个？",
+      "date_published": "2026-01-31T11:21:23.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189775",
+      "url": "https://www.v2ex.com/t/1189775#reply0",
+      "title": "[iDev] 开源 macOS DMG 构建工具",
+      "content_html": "<h2>DMGEditor</h2>\n<p><a href=\"https://github.com/purpleaxis-fb/DMGEditor\" rel=\"nofollow\">https://github.com/purpleaxis-fb/DMGEditor</a></p>\n<p>平时自己也需要 dmg 打包，单人开发，一般都是用 shell 脚本解决。感觉还是麻烦，特别是多版本的时候，每次都要改脚本。然后就有了这个...</p>\n<h4>需要的自取，不需要的略过</h4>\n<h4>暂时没有 release ，后面会补上</h4>\n<h4>因为是 SwiftUI 所以低版本支持的不好</h4>\n<h4>最低开发兼容版本为 macOS15.7.3 ，测过的版本就是 15.7.3 和 26.2</h4>\n<h4>不求 star ，欢迎提 issue</h4>\n<p><code>有时间就持续更新，没时间看是否有人有需求</code></p>",
+      "content_text": "DMGEditor\nhttps://github.com/purpleaxis-fb/DMGEditor\n平时自己也需要 dmg 打包，单人开发，一般都是用 shell 脚本解决。感觉还是麻烦，特别是多版本的时候，每次都要改脚本。然后就有了这个...\n需要的自取，不需要的略过\n暂时没有 release ，后面会补上\n因为是 SwiftUI 所以低版本支持的不好\n最低开发兼容版本为 macOS15.7.3 ，测过的版本就是 15.7.3 和 26.2\n不求 star ，欢迎提 issue\n有时间就持续更新，没时间看是否有人有需求",
+      "date_published": "2026-01-31T11:20:38.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189774",
       "url": "https://www.v2ex.com/t/1189774#reply0",
       "title": "[Claude] Claude Code 2.1.27 是不是用不了，卡死了",

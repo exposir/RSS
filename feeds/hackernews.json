@@ -14,6 +14,14 @@
       "date_published": "2026-01-31T00:02:30.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46829582",
+      "url": "https://peerweb.lol/",
+      "title": "Peerweb: Decentralized website hosting via WebTorrent",
+      "content_html": "<p><a href=\"https://github.com/omodaka9375/peerweb\" rel=\"nofollow\">https://github.com/omodaka9375/peerweb</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46829582\">https://news.ycombinator.com/item?id=46829582</a></p>\n<p>Points: 266</p>\n<p># Comments: 92</p>",
+      "content_text": "https://github.com/omodaka9375/peerweb\n\nComments URL: https://news.ycombinator.com/item?id=46829582\nPoints: 266\n# Comments: 92",
+      "date_published": "2026-01-30T20:40:00.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46829147",
       "url": "https://antirender.com/",
       "title": "Antirender: remove the glossy shine on architectural renderings",
