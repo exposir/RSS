@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/health/doctors-cognitive-decline.html",
+      "url": "https://www.nytimes.com/2026/01/31/health/doctors-cognitive-decline.html",
+      "title": "When the Doctor Needs a Checkup",
+      "content_html": "The physician work force is aging fast, and some hospitals now require that older clinicians undergo testing for cognitive decline. Many have resisted.",
+      "content_text": "The physician work force is aging fast, and some hospitals now require that older clinicians undergo testing for cognitive decline. Many have resisted.",
+      "date_published": "2026-01-31T15:25:48.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/obituaries/morris-waxler-dead.html",
       "url": "https://www.nytimes.com/2026/01/31/obituaries/morris-waxler-dead.html",
       "title": "Morris Waxler, F.D.A. Official Who Switched Stance on Lasik, Dies at 88",

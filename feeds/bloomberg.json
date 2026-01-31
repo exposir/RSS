@@ -6,6 +6,14 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-s-openai-investment-plans-partial-shutdown-begins-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-s-openai-investment-plans-partial-shutdown-begins-more",
+      "title": "Nvidia's OpenAI Investment Plans, Partial Shutdown Begins, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T15:38:59.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-moving-forward-with-openai-partial-govt-shutdown-more",
       "url": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-moving-forward-with-openai-partial-govt-shutdown-more",
       "title": "Nvidia Moving Forward with OpenAI, Partial Govt Shutdown, More",
