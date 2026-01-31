@@ -30,6 +30,22 @@
       "date_published": "2026-01-31T10:34:07.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46835208",
+      "url": "https://antirez.com/news/159",
+      "title": "Automatic Programming",
+      "content_html": "<p>Article URL: <a href=\"https://antirez.com/news/159\">https://antirez.com/news/159</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46835208\">https://news.ycombinator.com/item?id=46835208</a></p>\n<p>Points: 193</p>\n<p># Comments: 195</p>",
+      "content_text": "Article URL: https://antirez.com/news/159\nComments URL: https://news.ycombinator.com/item?id=46835208\nPoints: 193\n# Comments: 195",
+      "date_published": "2026-01-31T10:11:25.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46834953",
+      "url": "https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/",
+      "title": "We have ipinfo at home or how to geolocate IPs in your CLI using latency",
+      "content_html": "<p>Article URL: <a href=\"https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/\">https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46834953\">https://news.ycombinator.com/item?id=46834953</a></p>\n<p>Points: 184</p>\n<p># Comments: 48</p>",
+      "content_text": "Article URL: https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/\nComments URL: https://news.ycombinator.com/item?id=46834953\nPoints: 184\n# Comments: 48",
+      "date_published": "2026-01-31T09:30:05.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46832751",
       "url": "https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/",
       "title": "Court Filings: ICE App Identifies Protesters; Global Entry, PreCheck Get Revoked",

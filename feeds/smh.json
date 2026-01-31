@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "2d7b2f08-c6c7-4a6f-b23f-111b56a6844a",
+      "url": "https://www.smh.com.au/national/nsw/be-brave-for-nico-family-and-friends-paddle-out-for-shark-attack-victim-20260201-p5nykk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Be brave for Nico’: Family and friends paddle out for shark attack victim",
+      "content_html": "Nico Antic’s parents were supported by hundreds of swimmers and paddlers at North Bondi to remember their son who they will “miss forever”.",
+      "content_text": "Nico Antic’s parents were supported by hundreds of swimmers and paddlers at North Bondi to remember their son who they will “miss forever”.",
+      "date_published": "2026-01-31T22:45:37.000Z"
+    },
+    {
+      "id": "a098ab82-c461-47f8-be91-dc09381a4732",
+      "url": "https://www.smh.com.au/world/europe/how-a-boy-from-the-western-suburbs-conquered-covent-garden-20260129-p5nxv2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How a boy from the western suburbs conquered Covent Garden",
+      "content_html": "Steven McRae danced his way from Rooty Hill to a coveted place with London’s Royal Ballet. Now he wants to help open doors for other Australian kids with a dream.",
+      "content_text": "Steven McRae danced his way from Rooty Hill to a coveted place with London’s Royal Ballet. Now he wants to help open doors for other Australian kids with a dream.",
+      "date_published": "2026-01-31T22:38:47.000Z"
+    },
+    {
+      "id": "83a2de8f-4c92-408f-9ac3-47e2b94099af",
+      "url": "https://www.smh.com.au/world/europe/starmer-calls-for-andrew-to-face-congress-over-epstein-20260201-p5nykf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Starmer calls for Andrew to face Congress over Epstein",
+      "content_html": "Pressure is mounting on the former prince to formally answer questions about what he saw during his friendship with the convicted sex offender.",
+      "content_text": "Pressure is mounting on the former prince to formally answer questions about what he saw during his friendship with the convicted sex offender.",
+      "date_published": "2026-01-31T22:37:40.000Z"
+    },
+    {
+      "id": "882525e5-104c-43c7-b89a-fa5ff5701c92",
+      "url": "https://www.smh.com.au/sport/cricket/green-mocks-action-of-pakistan-bowler-during-t20-loss-20260201-p5nykt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Green mocks action of Pakistan bowler during T20 loss",
+      "content_html": "During Australia’s T20 loss to Pakistan, all-rounder Cameron Green was left miffed by the action of the bowler who dismissed him.",
+      "content_text": "During Australia’s T20 loss to Pakistan, all-rounder Cameron Green was left miffed by the action of the bowler who dismissed him.",
+      "date_published": "2026-01-31T22:34:41.000Z"
+    },
+    {
       "id": "5c5736bb-0151-43eb-8fc9-cbe3059410a9",
       "url": "https://www.smh.com.au/sport/soccer/rapid-recap-mw24-leeds-vs-arsenal-20260201-p5nyl0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Rapid Recap | MW24: Leeds vs Arsenal",
