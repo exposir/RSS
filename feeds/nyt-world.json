@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/world/middleeast/gaza-medical-evacuation-rafah-crossing.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/middleeast/gaza-medical-evacuation-rafah-crossing.html",
+      "title": "These Gazans May Finally Get a Lifeline to the World",
+      "content_html": "Thousands of Palestinians are waiting to be evacuated for medical treatment as the border between Gaza and Egypt looks set to reopen in the coming days.",
+      "content_text": "Thousands of Palestinians are waiting to be evacuated for medical treatment as the border between Gaza and Egypt looks set to reopen in the coming days.",
+      "date_published": "2026-01-31T10:41:37.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/world/europe/russia-economy-oil.html",
       "url": "https://www.nytimes.com/2026/01/31/world/europe/russia-economy-oil.html",
       "title": "Russia’s Oil Revenue Is Plummeting",

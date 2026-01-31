@@ -6,6 +6,22 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-31/kem-one-gets-30-million-extra-debt-as-it-eyes-restructuring",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/kem-one-gets-30-million-extra-debt-as-it-eyes-restructuring",
+      "title": "Kem One Gets €30 Million Extra Debt as it Eyes Restructuring",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T10:24:40.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-31/ineos-unit-gets-500-million-fresh-funds-ahead-of-bond-maturity",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/ineos-unit-gets-500-million-fresh-funds-ahead-of-bond-maturity",
+      "title": "Ineos Unit Gets €500 Million Fresh Funds Ahead of Bond Maturity",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T10:05:29.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/articles/2026-01-31/france-lowers-limit-for-toxin-in-baby-formula-may-spark-recalls",
       "url": "https://www.bloomberg.com/news/articles/2026-01-31/france-lowers-limit-for-toxin-in-baby-formula-may-spark-recalls",
       "title": "France Lowers Limit for Toxin in Baby Formula, May Spark Recalls",

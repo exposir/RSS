@@ -6,6 +6,78 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/business/kevin-warsh-fed-chair.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/kevin-warsh-fed-chair.html",
+      "title": "Kevin Warsh Has a Tough Job Ahead. It’s Not the First Time.",
+      "content_html": "Mr. Warsh is known as a consensus builder, skills he will need if he is to head the Federal Reserve when President Trump is demanding rock-bottom rates.",
+      "content_text": "Mr. Warsh is known as a consensus builder, skills he will need if he is to head the Federal Reserve when President Trump is demanding rock-bottom rates.",
+      "date_published": "2026-01-31T10:02:52.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/business/scott-bessent-kevin-warsh-trump.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/scott-bessent-kevin-warsh-trump.html",
+      "title": "A Hawkish Kevin Warsh at the Fed Could Haunt Bessent",
+      "content_html": "The Treasury Secretary Scott Bessent tried to avoid providing President Trump with a clear recommendation to lead the central bank.",
+      "content_text": "The Treasury Secretary Scott Bessent tried to avoid providing President Trump with a clear recommendation to lead the central bank.",
+      "date_published": "2026-01-31T10:02:39.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/business/sell-america-dollar-financial-markets.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/sell-america-dollar-financial-markets.html",
+      "title": "Sell America Is the New Trade on Wall Street",
+      "content_html": "Investors are increasingly souring on the United States, as illustrated by the declining dollar, the stalled stock market and rising government borrowing costs.",
+      "content_text": "Investors are increasingly souring on the United States, as illustrated by the declining dollar, the stalled stock market and rising government borrowing costs.",
+      "date_published": "2026-01-31T10:02:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/us/politics/minnesota-protests-insurgency.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/politics/minnesota-protests-insurgency.html",
+      "title": "Politicians Are Calling the Protests in Minnesota an Insurgency",
+      "content_html": "The term, used to describe war, poses dangers when applied to American political unrest.",
+      "content_text": "The term, used to describe war, poses dangers when applied to American political unrest.",
+      "date_published": "2026-01-31T10:02:31.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/us/minneapolis-school-district-ice-agents.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/minneapolis-school-district-ice-agents.html",
+      "title": "How Fear of ICE Upended Life in One Minnesota School District",
+      "content_html": "In Fridley, a Minneapolis suburb, school officials are driving nervous teachers and buying families groceries. At dismissal, the superintendent patrols for federal agents.",
+      "content_text": "In Fridley, a Minneapolis suburb, school officials are driving nervous teachers and buying families groceries. At dismissal, the superintendent patrols for federal agents.",
+      "date_published": "2026-01-31T10:02:27.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/world/europe/russia-economy-oil.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/europe/russia-economy-oil.html",
+      "title": "Russia’s Oil Revenue Is Plummeting",
+      "content_html": "The new reality has forced the Kremlin to raise taxes and increase debt, and hovers over peace talks with Ukraine.",
+      "content_text": "The new reality has forced the Kremlin to raise taxes and increase debt, and hovers over peace talks with Ukraine.",
+      "date_published": "2026-01-31T10:02:09.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/business/energy-environment/energy-bills-costs-states-trump-power-plants.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/energy-environment/energy-bills-costs-states-trump-power-plants.html",
+      "title": "Energy Bills Have Soared Recently. How Can States Bring Costs Down?",
+      "content_html": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them.",
+      "content_text": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them.",
+      "date_published": "2026-01-31T10:00:56.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/business/kevin-hassett-trump-loyalty-fed.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/kevin-hassett-trump-loyalty-fed.html",
+      "title": "For Hassett, Loyalty to Trump Became a Liability in Fed Race",
+      "content_html": "Kevin A. Hassett had been seen as the front-runner in the Fed race, but his deep ties to the president raised questions about his independence.",
+      "content_text": "Kevin A. Hassett had been seen as the front-runner in the Fed race, but his deep ties to the president raised questions about his independence.",
+      "date_published": "2026-01-31T10:00:23.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/article/alexander-brothers-what-we-know-trial.html",
+      "url": "https://www.nytimes.com/article/alexander-brothers-what-we-know-trial.html",
+      "title": "What to Know About the Alexander Brothers Sex Trafficking Trial",
+      "content_html": "The men used their wealth and fame to lure women and then assault them, prosecutors say. The brothers have denied all allegations.",
+      "content_text": "The men used their wealth and fame to lure women and then assault them, prosecutors say. The brothers have denied all allegations.",
+      "date_published": "2026-01-31T08:00:17.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
       "url": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
       "title": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
@@ -70,6 +142,14 @@
       "date_published": "2026-01-31T02:22:06.000Z"
     },
     {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/senate-vote-shutdown-ice.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/senate-vote-shutdown-ice.html",
+      "title": "Senate Passes Deal to Fund Government and Negotiate ICE Limits",
+      "content_html": "Democrats agreed to fund the Department of Homeland Security for two weeks while they negotiate with President Trump on restricting his immigration crackdown.",
+      "content_text": "Democrats agreed to fund the Department of Homeland Security for two weeks while they negotiate with President Trump on restricting his immigration crackdown.",
+      "date_published": "2026-01-31T02:12:35.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/us/politics/epstein-files-release.html",
       "url": "https://www.nytimes.com/2026/01/30/us/politics/epstein-files-release.html",
       "title": "Release of Three Million Epstein Pages Falls Short, Survivors Say",
@@ -92,6 +172,14 @@
       "content_html": "The decision to nominate Brett Matsumoto, a career government economist, came six months after the president fired the previous commissioner.",
       "content_text": "The decision to nominate Brett Matsumoto, a career government economist, came six months after the president fired the previous commissioner.",
       "date_published": "2026-01-31T01:02:32.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/movies/catherine-ohara-characters.html",
+      "url": "https://www.nytimes.com/2026/01/30/movies/catherine-ohara-characters.html",
+      "title": "Catherine O’Hara Was Always a Delight",
+      "content_html": "The Emmy-winning actress was especially adept at playing women who had been cast off but maintained an inflated sense of self, always with a great comedic payoff.",
+      "content_text": "The Emmy-winning actress was especially adept at playing women who had been cast off but maintained an inflated sense of self, always with a great comedic payoff.",
+      "date_published": "2026-01-31T00:39:54.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/us/what-to-know-epstein-files.html",
@@ -308,6 +396,14 @@
       "content_html": "New policies limiting the teaching of race and gender issues led administrators and professors to change hundreds of courses. School leaders say the rules could hurt A&M’s reputation.",
       "content_text": "New policies limiting the teaching of race and gender issues led administrators and professors to change hundreds of courses. School leaders say the rules could hurt A&M’s reputation.",
       "date_published": "2026-01-30T18:27:24.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/climate/antarctica-thwaites-glacier-drilling.html",
+      "url": "https://www.nytimes.com/2026/01/30/climate/antarctica-thwaites-glacier-drilling.html",
+      "title": "Drilling Through the Thwaites Glacier for Clues to Its Melting",
+      "content_html": "A team hopes to place instruments in the waters beneath the colossal Thwaites Glacier, with the help of a drill that uses hot water to punch through ice.",
+      "content_text": "A team hopes to place instruments in the waters beneath the colossal Thwaites Glacier, with the help of a drill that uses hot water to punch through ice.",
+      "date_published": "2026-01-30T17:59:02.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/well/move/dead-hang-world-record-longevity.html",
@@ -1292,6 +1388,14 @@
       "content_html": "Filmed 60 years ago, the new trove includes footage from Andy Warhol’s Screen Tests series and explicit rolls that reveal the artist as a ‘porn-oisseur.’",
       "content_text": "Filmed 60 years ago, the new trove includes footage from Andy Warhol’s Screen Tests series and explicit rolls that reveal the artist as a ‘porn-oisseur.’",
       "date_published": "2026-01-29T10:02:33.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/arts/television/the-pitt.html",
+      "url": "https://www.nytimes.com/2026/01/29/arts/television/the-pitt.html",
+      "title": "They’re Stepping Up on ‘The Pitt’",
+      "content_html": "Four actors discuss the evolution of their young clinician characters on “The Pitt.” In Season 2 they are a little older, a little wiser and still soaked in fake blood.",
+      "content_text": "Four actors discuss the evolution of their young clinician characters on “The Pitt.” In Season 2 they are a little older, a little wiser and still soaked in fake blood.",
+      "date_published": "2026-01-29T10:02:16.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/29/business/economy/manufacturing-factories-tariffs.html",
