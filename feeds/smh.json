@@ -6,6 +6,166 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "06b76b83-52d4-44ef-808a-2e84a1a48faf",
+      "url": "https://www.smh.com.au/politics/nsw/the-government-warned-homes-on-this-floodplain-would-put-lives-at-risk-then-it-approved-960-of-them-20260122-p5nw9c.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The government warned homes on this floodplain would ‘put lives at risk’. Then, it approved 960 of them",
+      "content_html": "A scaled-back version of a proposal previously rejected by the state government has been placed on public exhibition after lobbying by a former premier’s firm.",
+      "content_text": "A scaled-back version of a proposal previously rejected by the state government has been placed on public exhibition after lobbying by a former premier’s firm.",
+      "date_published": "2026-01-31T18:20:00.000Z"
+    },
+    {
+      "id": "5c27a14d-54d8-4f02-a4a4-03f6e0273e83",
+      "url": "https://www.smh.com.au/sport/tennis/why-one-smile-makes-carlos-alcaraz-the-most-dangerous-man-in-tennis-20260131-p5nyij.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Why one smile makes Carlos Alcaraz the most dangerous man in tennis",
+      "content_html": "It is reasonable to surmise that Alcaraz is somehow unbothered by the mounting expectation around him.",
+      "content_text": "It is reasonable to surmise that Alcaraz is somehow unbothered by the mounting expectation around him.",
+      "date_published": "2026-01-31T18:15:00.000Z"
+    },
+    {
+      "id": "241421b2-6f1c-4065-8c48-bf376aff4452",
+      "url": "https://www.smh.com.au/politics/federal/the-sports-minister-s-summer-of-no-sport-20260130-p5ny8n.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The sports minister’s summer of no sport",
+      "content_html": "Anika Wells has skipped every major sporting event this summer and stayed home in Brisbane after her expenses scandal.",
+      "content_text": "Anika Wells has skipped every major sporting event this summer and stayed home in Brisbane after her expenses scandal.",
+      "date_published": "2026-01-31T18:04:00.000Z"
+    },
+    {
+      "id": "81ba2b47-f8b9-4456-872d-08857eb8e2a1",
+      "url": "https://www.smh.com.au/money/saving/chasing-the-magic-number-why-no-salary-seems-high-enough-any-more-20260130-p5ny91.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Chasing the magic number: Why no salary seems high enough any more",
+      "content_html": "Australians are still concerned about the cost-of-living crisis and it’s starting to warp what we perceive as a ‘good’ salary.",
+      "content_text": "Australians are still concerned about the cost-of-living crisis and it’s starting to warp what we perceive as a ‘good’ salary.",
+      "date_published": "2026-01-31T18:01:00.000Z"
+    },
+    {
+      "id": "11aafce4-d431-4441-adca-f3fc17bbce0e",
+      "url": "https://www.smh.com.au/money/planning-and-budgeting/i-m-53-and-earning-5600-a-month-should-i-be-adding-more-to-my-super-20260130-p5ny8b.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "I’m 53 and earning $5600 a month. Should I be adding more to my super?",
+      "content_html": "The benefit of sending extra savings to superannuation depends on your other goals, but it can help your retirement fund.",
+      "content_text": "The benefit of sending extra savings to superannuation depends on your other goals, but it can help your retirement fund.",
+      "date_published": "2026-01-31T18:01:00.000Z"
+    },
+    {
+      "id": "7ed29578-9114-459b-b73b-18ebe1a50ca6",
+      "url": "https://www.smh.com.au/property/news/birkenstock-heir-emerges-as-83-5m-cash-buyer-of-sydney-s-top-sale-of-2025-20260127-p5nxe8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Birkenstock heir emerges as $83.5m cash buyer of Sydney’s top sale of 2025",
+      "content_html": "Billionaire Alex Birkenstock, heir of German cult sandal brand Birkenstock, and his wife Vanessa have settled on a waterfront estate in Rose Bay.",
+      "content_text": "Billionaire Alex Birkenstock, heir of German cult sandal brand Birkenstock, and his wife Vanessa have settled on a waterfront estate in Rose Bay.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "ce87298e-c986-4ee8-ba17-ef06a39cdd71",
+      "url": "https://www.smh.com.au/world/north-america/the-last-us-russia-nuclear-treaty-expires-this-week-what-now-20260126-p5nwzs.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The last US-Russia nuclear treaty expires this week. What now?",
+      "content_html": "Since the dawn of the nuclear age, there have been efforts to limit nuclear arms. What does this treaty’s lapse mean for the world?",
+      "content_text": "Since the dawn of the nuclear age, there have been efforts to limit nuclear arms. What does this treaty’s lapse mean for the world?",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "e49ea72e-21fa-4b72-9d49-297685282443",
+      "url": "https://www.smh.com.au/business/the-economy/trump-is-pushing-china-and-europe-together-to-create-a-new-world-order-20260126-p5nwwz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Trump is pushing China and Europe together to create a new world order",
+      "content_html": "It takes a lot to throw these two foes together, but the US president may have pulled it off over the 10 days that shook the world, culminating in the Greenland disgrace.",
+      "content_text": "It takes a lot to throw these two foes together, but the US president may have pulled it off over the 10 days that shook the world, culminating in the Greenland disgrace.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "85251150-3d59-427e-914c-a257b03da120",
+      "url": "https://www.smh.com.au/traveller/inspiration/everyone-seems-to-have-photographed-the-aurora-here-s-why-i-m-not-jealous-20260122-p5nwb3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Everyone seems to have photographed the aurora. Here’s why I’m not jealous",
+      "content_html": "I may have been the only person in southern Australia to have slept through the recent showstopping display of the elusive Aurora Australis, or Southern Lights.",
+      "content_text": "I may have been the only person in southern Australia to have slept through the recent showstopping display of the elusive Aurora Australis, or Southern Lights.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "26249e5e-8ac4-426b-986a-91aab61352e3",
+      "url": "https://www.smh.com.au/traveller/inspiration/forget-bali-indonesia-has-17-000-islands-here-are-10-of-the-best-20260120-p5nvhn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Forget Bali. Indonesia has 17,000 islands – here are 10 of the best",
+      "content_html": "For decades, many Australian travellers have treated Indonesia as though it begins and ends with Bali. It’s time to move on.",
+      "content_text": "For decades, many Australian travellers have treated Indonesia as though it begins and ends with Bali. It’s time to move on.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "8f2f3ed6-3b8b-406e-913c-41500faaa385",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/the-advice-leigh-sales-gave-lisa-millar-56-during-the-darkest-period-of-her-life-20260119-p5nv4m.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The advice Leigh Sales gave Lisa Millar, 56, during the darkest period of her life",
+      "content_html": "After leaving breakfast TV, Millar talks about finding happiness both on and off screen, and shares some exciting personal news.",
+      "content_text": "After leaving breakfast TV, Millar talks about finding happiness both on and off screen, and shares some exciting personal news.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "bc237744-f72c-4c96-9db8-b7fe4bc53d1a",
+      "url": "https://www.smh.com.au/lifestyle/health-and-wellness/we-need-to-front-load-our-day-with-more-veggies-a-dietitian-shares-how-20260116-p5nuly.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "We need to ‘front-load’ our day with more veggies. A dietitian shares how",
+      "content_html": "Opera singer Jane Ede shares her day on a plate.",
+      "content_text": "Opera singer Jane Ede shares her day on a plate.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "d7228753-1d96-4191-a23f-e44cdf2218c6",
+      "url": "https://www.smh.com.au/lifestyle/fashion/i-wore-this-outfit-on-my-only-first-date-it-obviously-worked-as-we-re-married-now-20260114-p5nu1x.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "I wore this outfit on my only first date. It obviously worked, as we’re married now",
+      "content_html": "Set designer Elizabeth Gadsby also shares where to buy the best cropped, wide-legged jeans, and how to make your plane outfits more cosy.",
+      "content_text": "Set designer Elizabeth Gadsby also shares where to buy the best cropped, wide-legged jeans, and how to make your plane outfits more cosy.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "33b45409-7c2f-49ce-a4ca-e4558d107911",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/who-s-looking-after-the-baby-when-laura-needed-support-she-faced-this-instead-20260114-p5ntwc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Who’s looking after the baby?’: When Laura needed support, she faced this instead",
+      "content_html": "We assume that most new mothers will be surrounded by love and support. But for many, even those with a “village”, the loneliness can be debilitating.",
+      "content_text": "We assume that most new mothers will be surrounded by love and support. But for many, even those with a “village”, the loneliness can be debilitating.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "0a59952d-0cf3-4474-8937-403b5661c494",
+      "url": "https://www.smh.com.au/national/victoria/the-secret-formula-adding-up-to-vce-maths-success-at-this-expanding-school-20251212-p5nn6m.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The secret formula adding up to VCE maths success at this expanding school",
+      "content_html": "An early uptake of general maths has helped VCE results soar at this school west of Melbourne. Use our interactive to find out your school’s top subjects.",
+      "content_text": "An early uptake of general maths has helped VCE results soar at this school west of Melbourne. Use our interactive to find out your school’s top subjects.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "c1934655-938b-4ea7-9545-7b60214161db",
+      "url": "https://www.smh.com.au/lifestyle/beauty/the-koreans-famously-do-it-in-10-steps-here-s-how-to-cleanse-perfectly-in-just-three-20251210-p5nmgt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The Koreans famously do it in 10 steps. Here’s how to cleanse perfectly in just three",
+      "content_html": "What type of cleanser is best and how often should you use it?",
+      "content_text": "What type of cleanser is best and how often should you use it?",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "0bb0dc45-4a18-4495-8faa-f63652f5f525",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/as-a-time-poor-mum-i-was-shocked-at-how-a-two-day-retreat-left-me-feeling-20251209-p5nm9l.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "As a time-poor mum, I was shocked at how a two-day retreat left me feeling",
+      "content_html": "But was it enough of a kick-start to make lasting changes?",
+      "content_text": "But was it enough of a kick-start to make lasting changes?",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "77d2a613-69c0-4ed7-a11a-c283ef25f85f",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/aquarius-enjoy-the-present-something-better-is-in-the-mix-20251204-p5nkuv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Aquarius: Enjoy the present, something better is in the mix",
+      "content_html": "Free weekly forecast in life, love and career from renowned astrologer, Hedy Damari.",
+      "content_text": "Free weekly forecast in life, love and career from renowned astrologer, Hedy Damari.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "087d1c30-7a06-4f0c-b79f-04b4fe9d24a9",
+      "url": "https://www.smh.com.au/national/victoria/flash-juries-and-bible-verses-how-sovereign-citizens-clog-up-australian-courts-20251127-p5nizw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Flash juries and Bible verses: How sovereign citizens clog up Australian courts",
+      "content_html": "“You get one sovereign citizen and your whole day goes to shit,” said former magistrate David Helipern.",
+      "content_text": "“You get one sovereign citizen and your whole day goes to shit,” said former magistrate David Helipern.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
+      "id": "9b1f7c16-d38f-4d2f-9930-0266694ede48",
+      "url": "https://www.smh.com.au/traveller/reviews-and-advice/cool-well-priced-hotel-gets-you-to-the-heart-of-istanbul-s-action-20251119-p5ngrq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Cool, well-priced hotel gets you to the heart of Istanbul’s action",
+      "content_html": "A bland hotel in the tourist area or a design hotel in a trendy neighbourhood? This property is a no-brainer if you’re looking for a place with style.",
+      "content_text": "A bland hotel in the tourist area or a design hotel in a trendy neighbourhood? This property is a no-brainer if you’re looking for a place with style.",
+      "date_published": "2026-01-31T18:00:00.000Z"
+    },
+    {
       "id": "fa25d583-e444-4182-8852-44b186bf965a",
       "url": "https://www.smh.com.au/sport/with-ice-we-make-granita-anti-ice-protests-erupt-in-milan-ahead-of-winter-olympics-20260201-p5nyjt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "‘With ICE, we make granita’: Anti-ICE protests erupt in Milan ahead of Winter Olympics",

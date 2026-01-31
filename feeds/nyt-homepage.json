@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
+      "title": "Danes Who Fought Alongside US Troops March Against Trump’s Comments",
+      "content_html": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
+      "content_text": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
+      "date_published": "2026-01-31T18:17:23.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/us/judge-minnesota-ice-ruling.html",
       "url": "https://www.nytimes.com/2026/01/31/us/judge-minnesota-ice-ruling.html",
       "title": "Federal Judge Denies Request to Block ICE Surge in Minnesota",
@@ -20,6 +28,14 @@
       "content_html": "Gregory Bovino, the Border Patrol field leader, made disparaging remarks in reference to the U.S. attorney in Minnesota, an Orthodox Jew, people with knowledge of the phone call said.",
       "content_text": "Gregory Bovino, the Border Patrol field leader, made disparaging remarks in reference to the U.S. attorney in Minnesota, an Orthodox Jew, people with knowledge of the phone call said.",
       "date_published": "2026-01-31T16:12:23.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/us/politics/affirmative-action-ruling-dei-lawsuits.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/politics/affirmative-action-ruling-dei-lawsuits.html",
+      "title": "Should Any Programs Help Minority Groups? In Lawsuits, Conservatives Say No.",
+      "content_html": "Lawyers have filed a rush of lawsuits against corporations, law firms, health care companies, art groups and nonprofits. And they are mostly winning.",
+      "content_text": "Lawyers have filed a rush of lawsuits against corporations, law firms, health care companies, art groups and nonprofits. And they are mostly winning.",
+      "date_published": "2026-01-31T15:53:01.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/31/world/americas/canada-pierre-poilievre-conservatives.html",

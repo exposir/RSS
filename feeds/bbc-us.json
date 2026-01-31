@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/ice-hockey/articles/cq6vdpnelvzo#8",
+      "url": "https://www.bbc.com/sport/ice-hockey/articles/cq6vdpnelvzo?at_medium=RSS&at_campaign=rss",
+      "title": "Ice hockey venue unfinished days before Winter Olympics",
+      "content_html": "Olympic organisers face a race against time to finish the new ice hockey arena in Milan - five days before the venue is due to host its first match.",
+      "content_text": "Olympic organisers face a race against time to finish the new ice hockey arena in Milan - five days before the venue is due to host its first match.",
+      "date_published": "2026-01-31T17:34:27.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cyv5l24mrjmo#2",
       "url": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&at_campaign=rss",
       "title": "Musk's SpaceX applies to launch 1m satellites into orbit",

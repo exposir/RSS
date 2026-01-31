@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
+      "title": "Danes Who Fought Alongside US Troops March Against Trump’s Comments",
+      "content_html": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
+      "content_text": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
+      "date_published": "2026-01-31T18:17:23.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/world/americas/canada-pierre-poilievre-conservatives.html",
       "url": "https://www.nytimes.com/2026/01/31/world/americas/canada-pierre-poilievre-conservatives.html",
       "title": "Pierre Poilievre Is Retained as Leader of Canada’s Conservatives",
