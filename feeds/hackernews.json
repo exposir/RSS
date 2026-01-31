@@ -14,6 +14,14 @@
       "date_published": "2026-01-31T10:34:07.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46832751",
+      "url": "https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/",
+      "title": "Court Filings: ICE App Identifies Protesters; Global Entry, PreCheck Get Revoked",
+      "content_html": "<p>Article URL: <a href=\"https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/\">https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46832751\">https://news.ycombinator.com/item?id=46832751</a></p>\n<p>Points: 201</p>\n<p># Comments: 85</p>",
+      "content_text": "Article URL: https://viewfromthewing.com/court-filings-ice-uses-mobile-fortify-to-identify-protesters-global-entry-and-precheck-get-revoked/\nComments URL: https://news.ycombinator.com/item?id=46832751\nPoints: 201\n# Comments: 85",
+      "date_published": "2026-01-31T02:29:45.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46832074",
       "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
       "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
@@ -76,6 +84,14 @@
       "content_html": "<p>Article URL: <a href=\"https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf\">https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46826597\">https://news.ycombinator.com/item?id=46826597</a></p>\n<p>Points: 234</p>\n<p># Comments: 94</p>",
       "content_text": "Article URL: https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf\nComments URL: https://news.ycombinator.com/item?id=46826597\nPoints: 234\n# Comments: 94",
       "date_published": "2026-01-30T16:43:50.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46826277",
+      "url": "https://news.ycombinator.com/item?id=46826277",
+      "title": "Ask HN: Do you also \"hoard\" notes/links but struggle to turn them into actions?",
+      "content_html": "<p>Hi HN — I’m exploring an idea and would love your feedback.<p>I’m a builder and user of Obsidian, validating a concept called Concerns. Today it’s only a landing page + short survey (no product yet) to test whether this pain is real.<p>The core idea (2–3 bullets):<p>- Many of us capture tons of useful info (notes/links/docs), but it rarely becomes shipped work.<p>- Instead of better “organization” (tags/folders), I’m exploring an “action engine” that:<p><pre><code>  1.detects what you’re actively targetting/working on (“active projects”)\n\n  2.surfaces relevant saved material at the right moment\n\n  3.proposes a concrete next action (ideally pushed into your existing task tool)\n</code></pre>\nMy own “second brain” became a graveyard of good intentions: the organizing tax was higher than the value I got back. I’m trying to validate whether the real bottleneck is execution, not capture.<p>Before writing code, I’m trying to pin down two things:<p>- Project context signals (repo/PRs? issues? tasks? calendar? a “project doc”?)<p>- How to close the loop: ingest knowledge → rank against active projects → emit a small set of next-actions into an existing todo tool → learn from outcomes (done/ignored/edited) and optionally write back the minimal state. The open question: what’s the cleanest feedback signal without creating noise or privacy risk? (explicit ratings vs completion events vs doc-based write-back)<p>What I’m asking from you:<p>1.Where does your “second brain” break down the most?<p>capture / organization / retrieval / execution\n(If you can, share a concrete recent example.)<p>2.What best represents “active project context” for you today?<p><pre><code>  task project (Todoist/Things/Reminders)\n\n  issues/boards (GitHub/Linear/Jira)\n\n  a doc/wiki page (Notion/Docs)\n\n  calendar\n\n  \"in my head\"\n</code></pre>\nWhich one would you actually allow a tool to read?<p>3.What’s your hard “no” for an AI that suggests actions from your notes/links? (pick 1–2)<p><pre><code>  privacy/data retention\n\n  noisy suggestions / interruption\n\n  hallucinations / wrong suggestions\n\n  workflow change / migration cost\n\n  pricing\n\n  others</code></pre></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46826277\">https://news.ycombinator.com/item?id=46826277</a></p>\n<p>Points: 211</p>\n<p># Comments: 182</p>",
+      "content_text": "Hi HN — I’m exploring an idea and would love your feedback.I’m a builder and user of Obsidian, validating a concept called Concerns. Today it’s only a landing page + short survey (no product yet) to test whether this pain is real.The core idea (2–3 bullets):- Many of us capture tons of useful info (notes/links/docs), but it rarely becomes shipped work.- Instead of better “organization” (tags/folders), I’m exploring an “action engine” that:  1.detects what you’re actively targetting/working on (“active projects”)\n\n  2.surfaces relevant saved material at the right moment\n\n  3.proposes a concrete next action (ideally pushed into your existing task tool)\n\nMy own “second brain” became a graveyard of good intentions: the organizing tax was higher than the value I got back. I’m trying to validate whether the real bottleneck is execution, not capture.Before writing code, I’m trying to pin down two things:- Project context signals (repo/PRs? issues? tasks? calendar? a “project doc”?)- How to close the loop: ingest knowledge → rank against active projects → emit a small set of next-actions into an existing todo tool → learn from outcomes (done/ignored/edited) and optionally write back the minimal state. The open question: what’s the cleanest feedback signal without creating noise or privacy risk? (explicit ratings vs completion events vs doc-based write-back)What I’m asking from you:1.Where does your “second brain” break down the most?capture / organization / retrieval / execution\n(If you can, share a concrete recent example.)2.What best represents “active project context” for you today?  task project (Todoist/Things/Reminders)\n\n  issues/boards (GitHub/Linear/Jira)\n\n  a doc/wiki page (Notion/Docs)\n\n  calendar\n\n  \"in my head\"\n\nWhich one would you actually allow a tool to read?3.What’s your hard “no” for an AI that suggests actions from your notes/links? (pick 1–2)  privacy/data retention\n\n  noisy suggestions / interruption\n\n  hallucinations / wrong suggestions\n\n  workflow change / migration cost\n\n  pricing\n\n  others\n\nComments URL: https://news.ycombinator.com/item?id=46826277\nPoints: 211\n# Comments: 182",
+      "date_published": "2026-01-30T16:22:05.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46825415",
@@ -188,6 +204,14 @@
       "content_html": "<p>Article URL: <a href=\"https://grid.space/stem/\">https://grid.space/stem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46817813\">https://news.ycombinator.com/item?id=46817813</a></p>\n<p>Points: 266</p>\n<p># Comments: 90</p>",
       "content_text": "Article URL: https://grid.space/stem/\nComments URL: https://news.ycombinator.com/item?id=46817813\nPoints: 266\n# Comments: 90",
       "date_published": "2026-01-29T22:38:57.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46817452",
+      "url": "https://blog.mikeswanson.com/backseat-software/",
+      "title": "Backseat Software",
+      "content_html": "<p>Article URL: <a href=\"https://blog.mikeswanson.com/backseat-software/\">https://blog.mikeswanson.com/backseat-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46817452\">https://news.ycombinator.com/item?id=46817452</a></p>\n<p>Points: 205</p>\n<p># Comments: 104</p>",
+      "content_text": "Article URL: https://blog.mikeswanson.com/backseat-software/\nComments URL: https://news.ycombinator.com/item?id=46817452\nPoints: 205\n# Comments: 104",
+      "date_published": "2026-01-29T22:10:07.000Z"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46816539",

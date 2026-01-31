@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/business/melania-documentary-box-office.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/melania-documentary-box-office.html",
+      "title": "‘Melania’ Arrives With Strong Box Office Showing for a Documentary",
+      "content_html": "Amazon backed up the Brink’s trucks to promote the vanity film, resulting in opening-weekend ticket sales of roughly $8 million, or 60 percent more than expected.",
+      "content_text": "Amazon backed up the Brink’s trucks to promote the vanity film, resulting in opening-weekend ticket sales of roughly $8 million, or 60 percent more than expected.",
+      "date_published": "2026-01-31T20:19:32.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/business/media/pentagon-new-york-times-lawsuit.html",
       "url": "https://www.nytimes.com/2026/01/31/business/media/pentagon-new-york-times-lawsuit.html",
       "title": "Pentagon Defends Restrictions on Media Outlets",

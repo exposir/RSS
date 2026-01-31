@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "7310a26e-d9a4-41d3-b358-0c7d1df1bfaa",
+      "url": "https://www.smh.com.au/sport/soccer/tensions-boil-over-in-stoppage-time-20260201-p5nyk5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Tensions boil over in stoppage time",
+      "content_html": "West Ham's Jean-Clair Todibo receives a red card after a fight breaks out against Chelsea.",
+      "content_text": "West Ham's Jean-Clair Todibo receives a red card after a fight breaks out against Chelsea.",
+      "date_published": "2026-01-31T20:10:03.000Z"
+    },
+    {
+      "id": "5bd2328d-7226-482c-bbfd-40be17add79a",
+      "url": "https://www.smh.com.au/sport/tennis/the-morning-serve-day-15-20260201-p5nyk3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The Morning Serve Day 15",
+      "content_html": "Jelena Dokic and John Millman join Nick McArdle to preview the men's singles final.",
+      "content_text": "Jelena Dokic and John Millman join Nick McArdle to preview the men's singles final.",
+      "date_published": "2026-01-31T19:42:50.000Z"
+    },
+    {
       "id": "7950971b-7403-4231-842a-916f4f3cb9d4",
       "url": "https://www.smh.com.au/national/woman-fighting-for-life-after-alleged-altercation-with-housemate-20260201-p5nyk0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Woman fighting for life after alleged altercation with housemate",

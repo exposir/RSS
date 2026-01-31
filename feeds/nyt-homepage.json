@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/us/winter-storm-snow-carolina-north-south.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/winter-storm-snow-carolina-north-south.html",
+      "title": "Winter Storm Hits the Carolinas",
+      "content_html": "Some felt fatigued. Others were excited, as puffy white flakes floated down from the sky. Either way, North Carolina and South Carolina were bracing for a rare burst of cold and snow.",
+      "content_text": "Some felt fatigued. Others were excited, as puffy white flakes floated down from the sky. Either way, North Carolina and South Carolina were bracing for a rare burst of cold and snow.",
+      "date_published": "2026-01-31T19:58:54.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/business/media/pentagon-new-york-times-lawsuit.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/media/pentagon-new-york-times-lawsuit.html",
+      "title": "Pentagon Defends Restrictions on Media Outlets",
+      "content_html": "The purpose of the new rules is to “stop activity that could compromise national security,” the Defense Department said in response to a New York Times lawsuit.",
+      "content_text": "The purpose of the new rules is to “stop activity that could compromise national security,” the Defense Department said in response to a New York Times lawsuit.",
+      "date_published": "2026-01-31T19:41:26.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/us/epstein-trump-gates-musk-tisch-andrew.html",
       "url": "https://www.nytimes.com/2026/01/31/us/epstein-trump-gates-musk-tisch-andrew.html",
       "title": "New Epstein Files Name Elon Musk, Bill Gates and Other Powerful Men",
@@ -20,6 +36,22 @@
       "content_html": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
       "content_text": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
       "date_published": "2026-01-31T18:17:23.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/arts/television/demond-wilson-dead.html",
+      "url": "https://www.nytimes.com/2026/01/31/arts/television/demond-wilson-dead.html",
+      "title": "Demond Wilson, Long-Suffering Son on ‘Sanford and Son,’ Dies at 79",
+      "content_html": "As Lamont, he was a young man in constant battle with his father and business partner, played by Redd Foxx, on the popular 1970s series.",
+      "content_text": "As Lamont, he was a young man in constant battle with his father and business partner, played by Redd Foxx, on the popular 1970s series.",
+      "date_published": "2026-01-31T17:32:59.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/us/alex-pretti-memorial-minneapolis.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/alex-pretti-memorial-minneapolis.html",
+      "title": "Alex Pretti Memorial Grows, a Week After He Was Killed",
+      "content_html": "One week after the I.C.U. nurse was shot dead by federal agents, tributes continue to build on the sidewalk where he fell.",
+      "content_text": "One week after the I.C.U. nurse was shot dead by federal agents, tributes continue to build on the sidewalk where he fell.",
+      "date_published": "2026-01-31T17:24:54.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/31/us/judge-minnesota-ice-ruling.html",
