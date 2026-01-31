@@ -6,6 +6,30 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/partial-shutdown-nvidia-absolutely-investing-in-openai-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/partial-shutdown-nvidia-absolutely-investing-in-openai-more",
+      "title": "Partial Shutdown, Nvidia 'Absolutely' Investing in OpenAI, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T12:45:47.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-31/maxeda-strikes-deal-to-cut-debt-goldentree-to-inject-new-equity",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/maxeda-strikes-deal-to-cut-debt-goldentree-to-inject-new-equity",
+      "title": "Maxeda Strikes Deal to Cut Debt, GoldenTree to Inject New Equity",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T12:13:45.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/partial-govt-shutdown-mixed-reaction-on-trump-s-fed-pick-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/partial-govt-shutdown-mixed-reaction-on-trump-s-fed-pick-more",
+      "title": "Partial Govt Shutdown, Mixed Reaction on Trump's Fed Pick, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T11:45:11.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/articles/2026-01-31/us-container-growth-vanishes-with-world-trade-flows-moving-on",
       "url": "https://www.bloomberg.com/news/articles/2026-01-31/us-container-growth-vanishes-with-world-trade-flows-moving-on",
       "title": "US Container Growth Vanishes With World Trade Flows ‘Moving On’",

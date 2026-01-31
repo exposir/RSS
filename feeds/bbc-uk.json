@@ -6,12 +6,36 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cdjn0nmnjmwo#2",
+      "url": "https://www.bbc.com/news/articles/cdjn0nmnjmwo?at_medium=RSS&at_campaign=rss",
+      "title": "Pokémon cancels event at controversial Japan shrine following backlash",
+      "content_html": "The event, advertised through official channels, was criticised in China for being held at a military memorial.",
+      "content_text": "The event, advertised through official channels, was criticised in China for being held at a military memorial.",
+      "date_published": "2026-01-31T12:08:05.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c75xg17rr1xo#0",
+      "url": "https://www.bbc.com/news/articles/c75xg17rr1xo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainians brace for -20C despite energy truce: 'It will be a catastrophe'",
+      "content_html": "Already facing electricity cuts, civilians are struggling to keep warm in their own homes as temperatures are set to plummet.",
+      "content_text": "Already facing electricity cuts, civilians are struggling to keep warm in their own homes as temperatures are set to plummet.",
+      "date_published": "2026-01-31T12:02:00.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o#0",
       "url": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o?at_medium=RSS&at_campaign=rss",
       "title": "Rybakina beats Sabalenka for first Australian Open title",
       "content_html": "Elena Rybakina inflicts further Grand Slam final heartbreak on Aryna Sabalenka with a stunning third-set fightback to win the Australian Open.",
       "content_text": "Elena Rybakina inflicts further Grand Slam final heartbreak on Aryna Sabalenka with a stunning third-set fightback to win the Australian Open.",
       "date_published": "2026-01-31T11:23:44.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/rugby-union/articles/cwyr4r00925o#8",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cwyr4r00925o?at_medium=RSS&at_campaign=rss",
+      "title": "Six Nations blow for Italy as teenage Saints wing Todaro tears cruciate",
+      "content_html": "Northampton Saints wing Edoardo Todaro is facing a long lay-off after suffering a serious knee injury at a training camp with Italy.",
+      "content_text": "Northampton Saints wing Edoardo Todaro is facing a long lay-off after suffering a serious knee injury at a training camp with Italy.",
+      "date_published": "2026-01-31T11:21:22.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o#8",
@@ -294,12 +318,28 @@
       "date_published": "2026-01-31T00:53:13.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cj6w3zgden0o#1",
+      "url": "https://www.bbc.com/news/articles/cj6w3zgden0o?at_medium=RSS&at_campaign=rss",
+      "title": "I mocked the Saudi leader on YouTube - then my phone was hacked and I was beaten up in London",
+      "content_html": "Satirist Ghanem al-Masarir has been awarded £3m in damages, but it's unclear if Saudi Arabia will pay.",
+      "content_text": "Satirist Ghanem al-Masarir has been awarded £3m in damages, but it's unclear if Saudi Arabia will pay.",
+      "date_published": "2026-01-31T00:50:39.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cj6w3zgden0o#0",
       "url": "https://www.bbc.com/news/articles/cj6w3zgden0o?at_medium=RSS&at_campaign=rss",
       "title": "I mocked the Saudi leader on YouTube - then my phone was hacked and I was beaten up in London",
       "content_html": "Satirist Ghanem al-Masarir has been awarded £3m in damages, but it's unclear if Saudi Arabia will pay.",
       "content_text": "Satirist Ghanem al-Masarir has been awarded £3m in damages, but it's unclear if Saudi Arabia will pay.",
       "date_published": "2026-01-31T00:50:39.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c70lgwprw7ko#2",
+      "url": "https://www.bbc.com/news/articles/c70lgwprw7ko?at_medium=RSS&at_campaign=rss",
+      "title": "One wrong move and it could all go wrong - the men clearing deadly undersea Russian mines",
+      "content_html": "A team of divers are tasked with de-mining parts of the Black Sea still under Ukraine's control.",
+      "content_text": "A team of divers are tasked with de-mining parts of the Black Sea still under Ukraine's control.",
+      "date_published": "2026-01-31T00:19:00.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c70lgwprw7ko#1",
@@ -324,6 +364,14 @@
       "content_html": "The president’s son, notorious for explosive remarks on X, has ambitions to  succeed his father.",
       "content_text": "The president’s son, notorious for explosive remarks on X, has ambitions to  succeed his father.",
       "date_published": "2026-01-31T00:05:52.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvgx7ykl12go#2",
+      "url": "https://www.bbc.com/news/articles/cvgx7ykl12go?at_medium=RSS&at_campaign=rss",
+      "title": "An ingredient for this curry is missing - and in eight minutes it's at the door",
+      "content_html": "India's quick-commerce boom means groceries in minutes - but it can be dangerous for riders.",
+      "content_text": "India's quick-commerce boom means groceries in minutes - but it can be dangerous for riders.",
+      "date_published": "2026-01-31T00:01:04.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cvgx7ykl12go#1",

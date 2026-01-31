@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/opinion/ice-kids-liam-ramos.html",
+      "url": "https://www.nytimes.com/2026/01/31/opinion/ice-kids-liam-ramos.html",
+      "title": "ICE Took Their Classmate. They Started Writing Letters.",
+      "content_html": "Letters from students living in fear.",
+      "content_text": "Letters from students living in fear.",
+      "date_published": "2026-01-31T12:12:59.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/opinion/trump-midterms-election-security.html",
+      "url": "https://www.nytimes.com/2026/01/31/opinion/trump-midterms-election-security.html",
+      "title": "Trump Could Interfere With the Midterm Elections. Here’s How to Help.",
+      "content_html": "The sanctity of the 2026 vote is indeed under threat.",
+      "content_text": "The sanctity of the 2026 vote is indeed under threat.",
+      "date_published": "2026-01-31T12:00:12.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/briefing/good-company.html",
+      "url": "https://www.nytimes.com/2026/01/31/briefing/good-company.html",
+      "title": "Good Company",
+      "content_html": "Let’s talk about the new and old shows we’ll be watching this winter.",
+      "content_text": "Let’s talk about the new and old shows we’ll be watching this winter.",
+      "date_published": "2026-01-31T11:55:38.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/business/kevin-warsh-fed-chair.html",
       "url": "https://www.nytimes.com/2026/01/31/business/kevin-warsh-fed-chair.html",
       "title": "Kevin Warsh Has a Tough Job Ahead. It’s Not the First Time.",

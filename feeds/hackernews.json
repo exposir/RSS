@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46832074",
+      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+      "content_html": "<p>Built this because tones are killing my spoken Mandarin and I can't reliably hear my own mistakes.<p>It's a 9M Conformer-CTC model trained on ~300h (AISHELL + Primewords), quantized to INT8 (11 MB), runs 100% in-browser via ONNX Runtime Web.<p>Grades per-syllable pronunciation + tones with Viterbi forced alignment.<p>Try it here: <a href=\"https://simedw.com/projects/ear/\" rel=\"nofollow\">https://simedw.com/projects/ear/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46832074\">https://news.ycombinator.com/item?id=46832074</a></p>\n<p>Points: 266</p>\n<p># Comments: 95</p>",
+      "content_text": "Built this because tones are killing my spoken Mandarin and I can't reliably hear my own mistakes.It's a 9M Conformer-CTC model trained on ~300h (AISHELL + Primewords), quantized to INT8 (11 MB), runs 100% in-browser via ONNX Runtime Web.Grades per-syllable pronunciation + tones with Viterbi forced alignment.Try it here: https://simedw.com/projects/ear/\n\nComments URL: https://news.ycombinator.com/item?id=46832074\nPoints: 266\n# Comments: 95",
+      "date_published": "2026-01-31T00:51:27.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46831702",
       "url": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
       "title": "The $100B megadeal between OpenAI and Nvidia is on ice",

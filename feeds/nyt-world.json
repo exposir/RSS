@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/briefing/good-company.html",
+      "url": "https://www.nytimes.com/2026/01/31/briefing/good-company.html",
+      "title": "Good Company",
+      "content_html": "Let’s talk about the new and old shows we’ll be watching this winter.",
+      "content_text": "Let’s talk about the new and old shows we’ll be watching this winter.",
+      "date_published": "2026-01-31T11:55:38.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/world/canada/carney-heated-rivalry-hudson-williams.html",
       "url": "https://www.nytimes.com/2026/01/31/world/canada/carney-heated-rivalry-hudson-williams.html",
       "title": "Mark Carney Meets ‘Heated Rivalry’ Star Hudson Williams",

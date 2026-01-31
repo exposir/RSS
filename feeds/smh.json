@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "80b582e7-7e24-46b0-8dfc-a80b95ac77e8",
+      "url": "https://www.smh.com.au/sport/tennis/rybakina-overcomes-2023-heartbreak-20260131-p5nyjq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rybakina overcomes 2023 heartbreak",
+      "content_html": "Reflecting on her 2023 Australian Open final loss, Elena Rybakina explains that she stayed stronger this time around, focusing on recent encounters and maintaining her service game to secure the title in 2026.",
+      "content_text": "Reflecting on her 2023 Australian Open final loss, Elena Rybakina explains that she stayed stronger this time around, focusing on recent encounters and maintaining her service game to secure the title in 2026.",
+      "date_published": "2026-01-31T12:08:59.000Z"
+    },
+    {
+      "id": "84785ce1-b813-4f0c-8d0d-3a38d99de971",
+      "url": "https://www.smh.com.au/sport/tennis/rybakina-s-redemption-star-vanquishes-2023-demons-topples-sabalenka-in-a-classic-ao-final-20260131-p5nyic.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rybakina’s redemption: Star vanquishes 2023 demons, topples Sabalenka in a classic AO final",
+      "content_html": "Three years ago, Elena Rybakina’s Australian Open dream ended in heartbreak. Now, she’s the queen of the tennis world.",
+      "content_text": "Three years ago, Elena Rybakina’s Australian Open dream ended in heartbreak. Now, she’s the queen of the tennis world.",
+      "date_published": "2026-01-31T11:47:21.000Z"
+    },
+    {
       "id": "71989914-7bc2-4b93-b4a1-2ee3787cca24",
       "url": "https://www.smh.com.au/sport/tennis/rybakina-salutes-kazakhstan-rival-sabalenka-in-winner-s-speech-20260131-p5nyjo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Rybakina salutes Kazakhstan, rival Sabalenka in winner’s speech",

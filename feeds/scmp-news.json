@@ -6,6 +6,38 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/world/europe/article/3341957/film-scotland-community-resisting-immigration-raid-wins-sundance-award?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/europe/article/3341957/film-scotland-community-resisting-immigration-raid-wins-sundance-award?utm_source=rss_feed",
+      "title": "Film on Scotland community resisting immigration raid wins Sundance award",
+      "content_html": "A documentary about a community resisting an immigration raid in Scotland has won an award at a major film festival.\nEverybody To Kenmure Street was recognised with the World Cinema Documentary Special Jury Award for Civil Resistance at the Sundance Film Festival in the US.\nThe film documents events on May 13, 2021, when hundreds of people gathered in Kenmure Street in the Pollokshields area of Glasgow to prevent two of their neighbours being detained.\nThe two men were released after protesters...",
+      "content_text": "A documentary about a community resisting an immigration raid in Scotland has won an award at a major film festival.\nEverybody To Kenmure Street was recognised with the World Cinema Documentary Special Jury Award for Civil Resistance at the Sundance Film Festival in the US.\nThe film documents events on May 13, 2021, when hundreds of people gathered in Kenmure Street in the Pollokshields area of Glasgow to prevent two of their neighbours being detained.\nThe two men were released after protesters...",
+      "date_published": "2026-01-31T12:32:11.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/hong-kong/education/article/3341955/hong-kong-steps-scrutiny-private-schools?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3341955/hong-kong-steps-scrutiny-private-schools?utm_source=rss_feed",
+      "title": "Hong Kong steps up scrutiny of private schools",
+      "content_html": "Hong Kong’s private schools could be ordered to cease operating or have their registration revoked if their management is deemed unsatisfactory under new guidelines issued by education authorities.\nThe Education Bureau released a code of practice on Friday for private primary and secondary schools, following reports of poor management – including some allegedly offering unauthorised courses and collecting fees from parents without approval.\nThe document said the bureau might issue an advisory or...",
+      "content_text": "Hong Kong’s private schools could be ordered to cease operating or have their registration revoked if their management is deemed unsatisfactory under new guidelines issued by education authorities.\nThe Education Bureau released a code of practice on Friday for private primary and secondary schools, following reports of poor management – including some allegedly offering unauthorised courses and collecting fees from parents without approval.\nThe document said the bureau might issue an advisory or...",
+      "date_published": "2026-01-31T12:10:14.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/world/russia-central-asia/article/3341954/electricity-lines-between-ukraine-moldova-romania-fail-causing-mass-outages?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3341954/electricity-lines-between-ukraine-moldova-romania-fail-causing-mass-outages?utm_source=rss_feed",
+      "title": "Electricity lines between Ukraine, Moldova, Romania fail, causing mass outages",
+      "content_html": "Ukraine’s power grid experienced mass outages on Saturday after a “technical malfunction” caused electrical lines between Moldova, Romania and Ukraine to fail, Ukraine’s energy minister said.\nThe outages knocked out water supplies to Ukraine’s capital, Kyiv, and prompted a complete shutdown of the city’s metro network, paralysing transport for thousands.\n“Today at 10.42am a technical malfunction occurred, causing a simultaneous shutdown of the 400-kilovolt line between the power grids of Romania...",
+      "content_text": "Ukraine’s power grid experienced mass outages on Saturday after a “technical malfunction” caused electrical lines between Moldova, Romania and Ukraine to fail, Ukraine’s energy minister said.\nThe outages knocked out water supplies to Ukraine’s capital, Kyiv, and prompted a complete shutdown of the city’s metro network, paralysing transport for thousands.\n“Today at 10.42am a technical malfunction occurred, causing a simultaneous shutdown of the 400-kilovolt line between the power grids of Romania...",
+      "date_published": "2026-01-31T12:03:17.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/china/military/article/3341934/chinas-military-tightens-fuel-supply-rules-us-investigates-cause-twin-air-crashes?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/military/article/3341934/chinas-military-tightens-fuel-supply-rules-us-investigates-cause-twin-air-crashes?utm_source=rss_feed",
+      "title": "China’s military tightens fuel supply rules as US investigates cause of twin air crashes",
+      "content_html": "The People’s Liberation Army has moved to tighten control over fuel supplies as part of its latest efforts to improve logistics – a cornerstone of combat readiness.\nNew regulations issued “recently” aimed to standardise the process of military fuel management in areas such as procurement, transport, storage and disposal, the official PLA Daily said on Tuesday.\nThe rules were also designed to introduce strict controls and joint military-civilian oversight to prevent misuse and to ensure...",
+      "content_text": "The People’s Liberation Army has moved to tighten control over fuel supplies as part of its latest efforts to improve logistics – a cornerstone of combat readiness.\nNew regulations issued “recently” aimed to standardise the process of military fuel management in areas such as procurement, transport, storage and disposal, the official PLA Daily said on Tuesday.\nThe rules were also designed to introduce strict controls and joint military-civilian oversight to prevent misuse and to ensure...",
+      "date_published": "2026-01-31T12:00:08.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/hong-kong/politics/article/3341951/outcomes-not-output-exco-held-25-fewer-meetings-over-john-lees-tenure-so-far?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/hong-kong/politics/article/3341951/outcomes-not-output-exco-held-25-fewer-meetings-over-john-lees-tenure-so-far?utm_source=rss_feed",
       "title": "‘Outcomes, not output’: Exco held 25% fewer meetings over John Lee’s tenure so far",
