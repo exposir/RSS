@@ -6,6 +6,14 @@
   "description": "Startup and Technology News",
   "items": [
     {
+      "id": "https://techcrunch.com/?p=3088510",
+      "url": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
+      "title": "Waymo reportedly raising a $16B funding round",
+      "content_html": "Waymo is reportedly finalizing a new funding round that will value the robotaxi company at $110 billion.",
+      "content_text": "Waymo is reportedly finalizing a new funding round that will value the robotaxi company at $110 billion.",
+      "date_published": "2026-01-31T21:56:22.000Z"
+    },
+    {
       "id": "https://techcrunch.com/?p=3088505",
       "url": "https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/",
       "title": "SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers",

@@ -6,6 +6,38 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-in-on-openai-funding-judge-orders-5-year-old-released",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-in-on-openai-funding-judge-orders-5-year-old-released",
+      "title": "Nvidia in on OpenAI Funding, Judge Orders 5-Year-Old Released",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T21:30:38.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-31/wealthy-and-powerful-in-spotlight-after-latest-epstein-release",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/wealthy-and-powerful-in-spotlight-after-latest-epstein-release",
+      "title": "Wealthy and Powerful in Spotlight After Latest Epstein Release",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T21:27:58.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-to-join-openai-s-funding-mn-loses-bid-to-block-ice-surge",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-to-join-openai-s-funding-mn-loses-bid-to-block-ice-surge",
+      "title": "Nvidia to Join OpenAI's Funding, MN Loses Bid to Block ICE Surge",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T20:04:12.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/weekend-law-ice-social-media-kid-rock-testifies-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/weekend-law-ice-social-media-kid-rock-testifies-podcast",
+      "title": "Weekend Law: ICE, Social Media & Kid Rock Testifies (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T20:01:35.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-to-fund-openai-mn-loses-bid-to-block-ice-surge-more",
       "url": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-to-fund-openai-mn-loses-bid-to-block-ice-surge-more",
       "title": "Nvidia to Fund OpenAI, MN Loses Bid to Block ICE Surge, More",

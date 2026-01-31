@@ -6,6 +6,62 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "5c5736bb-0151-43eb-8fc9-cbe3059410a9",
+      "url": "https://www.smh.com.au/sport/soccer/rapid-recap-mw24-leeds-vs-arsenal-20260201-p5nyl0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rapid Recap | MW24: Leeds vs Arsenal",
+      "content_html": "Catchup with Rapid Recap: Watch the goals and big moments from Arsenal's visit to Elland Road to face Leeds United in Premier League Matchweek 24 action.",
+      "content_text": "Catchup with Rapid Recap: Watch the goals and big moments from Arsenal's visit to Elland Road to face Leeds United in Premier League Matchweek 24 action.",
+      "date_published": "2026-01-31T22:07:22.000Z"
+    },
+    {
+      "id": "3a532203-715c-4633-b4f1-1dbc827a59a2",
+      "url": "https://www.smh.com.au/sport/soccer/rapid-recap-mw24-chelsea-vs-west-ham-20260201-p5nyl1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rapid Recap | MW24: Chelsea vs West Ham",
+      "content_html": "Catchup with Rapid Recap: Watch the goals and big moments from West Ham's visit to Stamford Bridge to face Chelsea in Premier League Matchweek 24 action.",
+      "content_text": "Catchup with Rapid Recap: Watch the goals and big moments from West Ham's visit to Stamford Bridge to face Chelsea in Premier League Matchweek 24 action.",
+      "date_published": "2026-01-31T22:07:16.000Z"
+    },
+    {
+      "id": "c3424750-be85-453c-8f48-8faefb9c0621",
+      "url": "https://www.smh.com.au/sport/soccer/rapid-recap-mw24-brighton-vs-everton-20260201-p5nykz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rapid Recap | MW24: Brighton vs Everton",
+      "content_html": "Catchup with Rapid Recap: Watch the goals and big moments from Everton's visit to The AMEX Stadium to face Brighton and Hove Albion in Premier League Matchweek 24 action.",
+      "content_text": "Catchup with Rapid Recap: Watch the goals and big moments from Everton's visit to The AMEX Stadium to face Brighton and Hove Albion in Premier League Matchweek 24 action.",
+      "date_published": "2026-01-31T22:06:31.000Z"
+    },
+    {
+      "id": "aa12b052-c9ba-4b8c-b447-50a9b98861bb",
+      "url": "https://www.smh.com.au/sport/soccer/rapid-recap-mw24-wolves-vs-bournemouth-20260201-p5nyky.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rapid Recap | MW24: Wolves vs Bournemouth",
+      "content_html": "Catchup with Rapid Recap: Watch the goals and big moments from Bournemouth's visit to Molineux Stadium to face Wolves in Premier League Matchweek 24 action.",
+      "content_text": "Catchup with Rapid Recap: Watch the goals and big moments from Bournemouth's visit to Molineux Stadium to face Wolves in Premier League Matchweek 24 action.",
+      "date_published": "2026-01-31T22:05:08.000Z"
+    },
+    {
+      "id": "1460eb7d-90c8-4547-ade6-7f444c3f8dcf",
+      "url": "https://www.smh.com.au/sport/basketball/kaila-s-dad-says-she-s-a-better-basketballer-than-her-brother-he-plays-in-the-nba-20260121-p5nvpi.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Kaila’s dad says she’s a better basketballer than her brother. He plays in the NBA",
+      "content_html": "Kaila Proctor is the third person in her immediate family to be offered a university scholarship to play basketball in the US.",
+      "content_text": "Kaila Proctor is the third person in her immediate family to be offered a university scholarship to play basketball in the US.",
+      "date_published": "2026-01-31T22:00:00.000Z"
+    },
+    {
+      "id": "cbd78295-a2d8-4f10-b596-f83b03b68895",
+      "url": "https://www.smh.com.au/sport/soccer/ekitekes-classy-finish-for-double-20260201-p5nykr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Ekiteke's classy finish for double",
+      "content_html": "Hugo Ekiteke's classy finish for a goal double for Liverpool against Newcastle.",
+      "content_text": "Hugo Ekiteke's classy finish for a goal double for Liverpool against Newcastle.",
+      "date_published": "2026-01-31T21:49:08.000Z"
+    },
+    {
+      "id": "09ffb212-c55e-4a93-a20e-6f158f512e66",
+      "url": "https://www.smh.com.au/national/thick-haze-of-smoke-blankets-sydney-20260201-p5nykq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Thick haze of smoke blankets Sydney",
+      "content_html": "Sydneysiders woke to a thick haze of smoke which blanketed the city following fires on the NSW Mid-North coast.",
+      "content_text": "Sydneysiders woke to a thick haze of smoke which blanketed the city following fires on the NSW Mid-North coast.",
+      "date_published": "2026-01-31T21:48:55.000Z"
+    },
+    {
       "id": "e3c4d2f7-f089-4a4c-9517-1e64896fb17f",
       "url": "https://www.smh.com.au/goodfood/nsw-good-food-guide/mountain-culture-20260131-p5nyix.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Mountain Culture",
