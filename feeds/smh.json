@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "e3c4d2f7-f089-4a4c-9517-1e64896fb17f",
+      "url": "https://www.smh.com.au/goodfood/nsw-good-food-guide/mountain-culture-20260131-p5nyix.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Mountain Culture",
+      "content_html": "A Katoomba brewpub set in an old printing press.",
+      "content_text": "A Katoomba brewpub set in an old printing press.",
+      "date_published": "2026-01-31T21:29:48.000Z"
+    },
+    {
       "id": "ecc5f64e-1061-4535-89f9-9a5543e3ab33",
       "url": "https://www.smh.com.au/world/prince-andrew-photo-seen-in-latest-epstein-file-release-20260201-p5nykh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Prince Andrew photo seen in latest Epstein file release",

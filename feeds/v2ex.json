@@ -17,6 +17,14 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189829",
+      "url": "https://www.v2ex.com/t/1189829#reply0",
+      "title": "[分享创造] Typeless windows 用户有福了:我修了捷键失灵,允许更自由的快捷键",
+      "content_html": "<p><img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/hAIscyc.png\"/></p>\n<p>软件不错 但 windows 版快捷键经常失灵</p>\n<p>而且特有的开发者为我着想:怕误触 强行锁定免提模式必须几个键搭配着</p>\n<p>比如单纯想用 \"f1\" 一个键当快捷键是实现不了的</p>\n<p>已经发邮件反馈一万次 死活不改</p>\n<p>不给用户自由度 都是自以为是 一个软件 能提供的可调节项向来都是越多越好 而且现在不怕 ui 凌乱了</p>\n<p>修复如下</p>\n<p>稳定性修复（后端）： 修改了 keyboard-helper-child-process.js ，在 setInterval 循环中将 this.libProcessEvents() 调用包装在 try-catch 块中。这确保了即使原生钩子出现临时错误，子进程也不会崩溃。</p>\n<p>自由定义解锁（前端）： 修复了渲染器包中的 index2.js ，直接跳过了 Q 验证函数。所有限制（仅限字母数字、键位过多、系统保留以及连续按键）均已被移除，用户可以完全自由地定义快捷键。</p>\n<p>仓库</p>\n<p><a href=\"https://github.com/constansino/Typeless-Shortcut-Pro\" rel=\"nofollow\">https://github.com/constansino/Typeless-Shortcut-Pro</a></p>",
+      "content_text": "软件不错 但 windows 版快捷键经常失灵\n而且特有的开发者为我着想:怕误触 强行锁定免提模式必须几个键搭配着\n比如单纯想用 \"f1\" 一个键当快捷键是实现不了的\n已经发邮件反馈一万次 死活不改\n不给用户自由度 都是自以为是 一个软件 能提供的可调节项向来都是越多越好 而且现在不怕 ui 凌乱了\n修复如下\n稳定性修复（后端）： 修改了 keyboard-helper-child-process.js ，在 setInterval 循环中将 this.libProcessEvents() 调用包装在 try-catch 块中。这确保了即使原生钩子出现临时错误，子进程也不会崩溃。\n自由定义解锁（前端）： 修复了渲染器包中的 index2.js ，直接跳过了 Q 验证函数。所有限制（仅限字母数字、键位过多、系统保留以及连续按键）均已被移除，用户可以完全自由地定义快捷键。\n仓库\nhttps://github.com/constansino/Typeless-Shortcut-Pro",
+      "date_published": "2026-01-31T21:40:35.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189828",
       "url": "https://www.v2ex.com/t/1189828#reply0",
       "title": "[DNS] 提供一个自己部署的 DOH",
