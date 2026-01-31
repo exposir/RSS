@@ -6,6 +6,14 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-to-fund-openai-mn-loses-bid-to-block-ice-surge-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-to-fund-openai-mn-loses-bid-to-block-ice-surge-more",
+      "title": "Nvidia to Fund OpenAI, MN Loses Bid to Block ICE Surge, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T17:32:59.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/articles/2026-01-31/minnesota-loses-bid-to-block-us-surge-of-immigration-agents",
       "url": "https://www.bloomberg.com/news/articles/2026-01-31/minnesota-loses-bid-to-block-us-surge-of-immigration-agents",
       "title": "Minnesota Loses Bid to Block US Surge of Immigration Agents",
