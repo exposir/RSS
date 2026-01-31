@@ -6,6 +6,62 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "c1fd1003-1c95-4997-b753-4d805ae26459",
+      "url": "https://www.smh.com.au/sport/tennis/aussie-pair-speak-after-doubles-final-defeat-20260131-p5nyiv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Aussie pair speak after doubles final defeat",
+      "content_html": "Aussies Marc Polmans and Jason Kubler speak after going down in the doubles final.",
+      "content_text": "Aussies Marc Polmans and Jason Kubler speak after going down in the doubles final.",
+      "date_published": "2026-01-31T06:38:29.000Z"
+    },
+    {
+      "id": "8c02f77b-6dc6-479c-8995-1cfd6a562d14",
+      "url": "https://www.smh.com.au/sport/tennis/nadal-makes-his-pick-for-aus-open-mens-final-20260131-p5nyiu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Nadal makes his pick for Aus Open men's final",
+      "content_html": "Rafa Nadal has made his pick for tomorrow night's men's Australian Open final.",
+      "content_text": "Rafa Nadal has made his pick for tomorrow night's men's Australian Open final.",
+      "date_published": "2026-01-31T06:38:18.000Z"
+    },
+    {
+      "id": "f91765bb-363e-4297-9e7c-7960c595a67b",
+      "url": "https://www.smh.com.au/national/ex-brothel-owner-eddie-hayson-back-behind-bars-after-alleged-bail-breach-20260131-p5nyin.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Ex-brothel owner Eddie Hayson back behind bars after alleged bail breach",
+      "content_html": "His return to prison on remand comes a week after this masthead revealed the police watchdog is investigating allegations senior officers accepted free services from sex workers.",
+      "content_text": "His return to prison on remand comes a week after this masthead revealed the police watchdog is investigating allegations senior officers accepted free services from sex workers.",
+      "date_published": "2026-01-31T06:18:07.000Z"
+    },
+    {
+      "id": "2ca15915-fd20-4de5-921f-82182ac33759",
+      "url": "https://www.smh.com.au/world/europe/the-woman-who-stared-down-donald-trump-on-greenland-20260131-p5nyit.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The woman who stared down Donald Trump on Greenland",
+      "content_html": "Denmark’s Prime Minister, Mette Frederiksen, is not a fan of bullies and her determined stand against Donald Trump’s callous Arctic ambitions shouldn’t come as a surprise.",
+      "content_text": "Denmark’s Prime Minister, Mette Frederiksen, is not a fan of bullies and her determined stand against Donald Trump’s callous Arctic ambitions shouldn’t come as a surprise.",
+      "date_published": "2026-01-31T06:13:18.000Z"
+    },
+    {
+      "id": "c61f4d1d-0391-4126-9d66-31d7cc681454",
+      "url": "https://www.smh.com.au/world/north-america/no-records-of-this-meeting-rudd-denies-visiting-epstein-s-ny-home-20260131-p5nyh8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘No records of this meeting’: Rudd denies visiting Epstein’s NY home",
+      "content_html": "The former prime minister Kevin Rudd says he never met Jeffrey Epstein nor attended any meetings at his home as the US Department of Justice releases a fresh batch of documents.",
+      "content_text": "The former prime minister Kevin Rudd says he never met Jeffrey Epstein nor attended any meetings at his home as the US Department of Justice releases a fresh batch of documents.",
+      "date_published": "2026-01-31T06:00:58.000Z"
+    },
+    {
+      "id": "11480f1f-1af7-445f-97cd-54ea0c649dbc",
+      "url": "https://www.smh.com.au/sport/racing/family-team-with-triple-shot-at-bega-cup-with-eye-on-big-dance-20260131-p5nyih.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Family team with triple shot at Bega Cup with eye on Big Dance",
+      "content_html": "Local trainers Barbara Joseph and Paul and Matt Jones are set to play their usual strong hand in Sunday’s $80,000 Bega Showcase Cup.",
+      "content_text": "Local trainers Barbara Joseph and Paul and Matt Jones are set to play their usual strong hand in Sunday’s $80,000 Bega Showcase Cup.",
+      "date_published": "2026-01-31T06:00:00.000Z"
+    },
+    {
+      "id": "429c136d-5baa-493c-8735-683f0d1cb538",
+      "url": "https://www.smh.com.au/sport/racing/race-by-race-preview-and-tips-for-sapphire-coast-on-sunday-20260131-p5nyig.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Race-by-race preview and tips for Sapphire Coast on Sunday",
+      "content_html": "All the information you need to pick a winner on the second day of the Bega Cup carnival at Sapphire Coast.",
+      "content_text": "All the information you need to pick a winner on the second day of the Bega Cup carnival at Sapphire Coast.",
+      "date_published": "2026-01-31T06:00:00.000Z"
+    },
+    {
       "id": "193f8117-521d-4ff2-9db8-e58aab152c94",
       "url": "https://www.smh.com.au/sport/tennis/aussie-pulls-off-incredible-feat-in-doubles-final-20260131-p5nyir.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Aussie pulls off incredible feat in doubles final",

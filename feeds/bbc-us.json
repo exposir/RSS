@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/articles/c98prz4296vo#7",
+      "url": "https://www.bbc.com/sport/football/articles/c98prz4296vo?at_medium=RSS&at_campaign=rss",
+      "title": "Nine siblings and a dog called Zoomer - Wirtz in his own words",
+      "content_html": "Florian Wirtz sits down with Kelly Somers to talk about his slow start at Anfield, playing padel and making Bundesliga history.",
+      "content_text": "Florian Wirtz sits down with Kelly Somers to talk about his slow start at Anfield, playing padel and making Bundesliga history.",
+      "date_published": "2026-01-31T06:31:09.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/clymp8v7ye2o#0",
+      "url": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss",
+      "title": "'A vaccine against murder'? Israel split over return of death penalty",
+      "content_html": "In a highly controversial move, some Israeli MPs are trying to introduce the death penalty for Palestinian attackers.",
+      "content_text": "In a highly controversial move, some Israeli MPs are trying to introduce the death penalty for Palestinian attackers.",
+      "date_published": "2026-01-31T06:09:39.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/ce8rk33dpvmo#0",
       "url": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
       "title": "US government partially shuts down despite last minute funding deal",
@@ -300,6 +316,14 @@
       "content_html": "Deng Majek is told by the mother of victim Rhiannon Whyte that she hopes he never sees the outside world.",
       "content_text": "Deng Majek is told by the mother of victim Rhiannon Whyte that she hopes he never sees the outside world.",
       "date_published": "2026-01-30T17:57:13.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/weather/articles/cvgm4m2wn9po#3",
+      "url": "https://www.bbc.com/weather/articles/cvgm4m2wn9po?at_medium=RSS&at_campaign=rss",
+      "title": "Snow Moon: How to see the last full moon of winter",
+      "content_html": "The full Moon in February is known as the Snow Moon.",
+      "content_text": "The full Moon in February is known as the Snow Moon.",
+      "date_published": "2026-01-30T17:25:46.000Z"
     },
     {
       "id": "https://www.bbc.com/weather/articles/cvgm4m2wn9po#1",

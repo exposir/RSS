@@ -17,6 +17,78 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189737",
+      "url": "https://www.v2ex.com/t/1189737#reply1",
+      "title": "[各地食品价格] 香港尖沙咀 Dondon Donki 2026.1",
+      "content_html": "到香港一游，没去普通超市，去了这家日本商品店。",
+      "content_text": "到香港一游，没去普通超市，去了这家日本商品店。",
+      "date_published": "2026-01-31T06:51:03.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189736",
+      "url": "https://www.v2ex.com/t/1189736#reply0",
+      "title": "[推广] web 串口和 web adb",
+      "content_html": "<p>推介两个工具网站：</p>\n<ul>\n<li>网页串口： <a href=\"https://kekxv.github.io/web-serial/\" rel=\"nofollow\">https://kekxv.github.io/web-serial/</a></li>\n<li>网页 ADB: <a href=\"https://kekxv.github.io/web-adb/\" rel=\"nofollow\">https://kekxv.github.io/web-adb/</a></li>\n</ul>\n<p>网页串口支持串口和低功耗蓝牙，支持 shell 和指令模式。支持自定义协议包和显示</p>\n<p>网页 ADB 支持连接安卓手机，或者支持 adb 协议的设备，例如 luckfox ，支持文件管理、应用管理、以及手机镜像。</p>\n<p>感兴趣可以试试，只需要 chrome 或者 chrome 系列浏览器即可尝试（部分手机不支持，即使是 chrome ，例如 iPhone ）</p>",
+      "content_text": "推介两个工具网站：\n\n网页串口： https://kekxv.github.io/web-serial/\n网页 ADB: https://kekxv.github.io/web-adb/\n\n网页串口支持串口和低功耗蓝牙，支持 shell 和指令模式。支持自定义协议包和显示\n网页 ADB 支持连接安卓手机，或者支持 adb 协议的设备，例如 luckfox ，支持文件管理、应用管理、以及手机镜像。\n感兴趣可以试试，只需要 chrome 或者 chrome 系列浏览器即可尝试（部分手机不支持，即使是 chrome ，例如 iPhone ）",
+      "date_published": "2026-01-31T06:36:34.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189735",
+      "url": "https://www.v2ex.com/t/1189735#reply4",
+      "title": "[分享发现] L 站站长名下另一站点同样存在隐水印",
+      "content_html": "今天早上在 x 上看到了关于 L 站存在隐水印的信息，便立刻验证，并尝试控制了以下变量：<br /><br />同账号的情况下：<br />在电脑手机 Safari ，Chrome 均存在水印<br /><br />同设备和浏览器的情况下：<br />老账号和新账号均存在水印<br />活跃账号和不活跃账号均存在水印<br /><br />随后测试了其站长的另一个站点 IDC Flare 发现同样存在隐水印<br /><br />我将此事直接发布在 L 站和 IDC 站上之后出现了不同的结果：<br />L 站：<br />帖子仅存活 5 分钟便立刻被管理员删除，而且并非普通违规的删除会提示该帖子已被删除，且有通知记录。此次删除完全抹除了这条帖子存在的记录。<br />IDC 站：<br />帖子至少存在了 1 个小时，但是随后也惨遭和 L 站一样的抹除。",
+      "content_text": "今天早上在 x 上看到了关于 L 站存在隐水印的信息，便立刻验证，并尝试控制了以下变量：同账号的情况下：在电脑手机 Safari ，Chrome 均存在水印同设备和浏览器的情况下：老账号和新账号均存在水印活跃账号和不活跃账号均存在水印随后测试了其站长的另一个站点 IDC Flare 发现同样存在隐水印我将此事直接发布在 L 站和 IDC 站上之后出现了不同的结果：L 站：帖子仅存活 5 分钟便立刻被管理员删除，而且并非普通违规的删除会提示该帖子已被删除，且有通知记录。此次删除完全抹除了这条帖子存在的记录。IDC 站：帖子至少存在了 1 个小时，但是随后也惨遭和 L 站一样的抹除。",
+      "date_published": "2026-01-31T06:32:29.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189734",
+      "url": "https://www.v2ex.com/t/1189734#reply2",
+      "title": "[推广] 「亏否」分享一下运营一年的小程序，评论就送一年会员",
+      "content_html": "<p>先来一张截图</p>\n<p><img alt=\"1769840549242.webp\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://img.lanol.cn/wRfjKy.webp\"/></p>\n<p>其实呢就是一个物品收纳的小程序，可以记录物品的一些信息，参考下图</p>\n<p><img alt=\"1769840709363.webp\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://img.lanol.cn/n8yQMC.webp\"/></p>\n<p>没有收费，也没有充值渠道，所谓的 VIP 也只是用来引流的，区别就是 VIP 可以有专属的金色主题和不限制图标数量，其他没有限制。\n各位感兴趣的可以在评论区回复亏否里面的用户 ID ，一年会员奉上，谢谢，打扰了。</p>\n<p><img alt=\"1769840855300.webp\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://img.lanol.cn/s3m8wK.webp\"/></p>",
+      "content_text": "先来一张截图\n\n其实呢就是一个物品收纳的小程序，可以记录物品的一些信息，参考下图\n\n没有收费，也没有充值渠道，所谓的 VIP 也只是用来引流的，区别就是 VIP 可以有专属的金色主题和不限制图标数量，其他没有限制。\n各位感兴趣的可以在评论区回复亏否里面的用户 ID ，一年会员奉上，谢谢，打扰了。",
+      "date_published": "2026-01-31T06:27:41.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189733",
+      "url": "https://www.v2ex.com/t/1189733#reply5",
+      "title": "[问与答] 昨天黄金和白银跌幅大家怎么看？",
+      "content_html": "<p>我先说：积存金买了点 之前的利润几乎缩水殆尽。。。一天跌 1000 美元，我怀疑这就是黄毛和华尔街做的局，现在好了 赚的盆满钵满他们。什么技术性支撑 在昨天都是扯。</p>\n<p>想问问大家，未来的走势（给自己一个不割肉离场的信心）</p>",
+      "content_text": "我先说：积存金买了点 之前的利润几乎缩水殆尽。。。一天跌 1000 美元，我怀疑这就是黄毛和华尔街做的局，现在好了 赚的盆满钵满他们。什么技术性支撑 在昨天都是扯。\n想问问大家，未来的走势（给自己一个不割肉离场的信心）",
+      "date_published": "2026-01-31T06:26:51.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189732",
+      "url": "https://www.v2ex.com/t/1189732#reply1",
+      "title": "[分享创造] 告别“只会通知”的自动化： Ask4Me 发布啦",
+      "content_html": "<p>使用示例：</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.v2ex.co/95Efm93J.gif\"/></p>\n<p>简单的说，就是可以 ① 推送通知、② 获取在通知页面输入的信息，③ 然后返回给推送发起方 的工具。</p>\n<p>特色是极简，这三步只需要一个 http 请求。</p>\n<ul>\n<li>通知渠道对接了 Apprise 可以支持上百种；</li>\n<li>网络抖动问题通过 request id 查询和 SSE 输出来优化。</li>\n<li>Go 编写、NPM 安装、MIT 协议开源</li>\n</ul>\n<ul>\n<li>官方网站：<a href=\"https://ask4me.ft07.com/\" rel=\"nofollow\">https://ask4me.ft07.com/</a></li>\n<li>GitHub：<a href=\"https://github.com/easychen/ask4me\" rel=\"nofollow\">https://github.com/easychen/ask4me</a></li>\n</ul>",
+      "content_text": "使用示例：\n\n简单的说，就是可以 ① 推送通知、② 获取在通知页面输入的信息，③ 然后返回给推送发起方 的工具。\n特色是极简，这三步只需要一个 http 请求。\n\n通知渠道对接了 Apprise 可以支持上百种；\n网络抖动问题通过 request id 查询和 SSE 输出来优化。\nGo 编写、NPM 安装、MIT 协议开源\n\n\n官方网站：https://ask4me.ft07.com/\nGitHub：https://github.com/easychen/ask4me",
+      "date_published": "2026-01-31T06:06:52.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189731",
+      "url": "https://www.v2ex.com/t/1189731#reply10",
+      "title": "[生活] 是我的问题还是女朋友的问题",
+      "content_html": "<p>女朋友感冒已经好得 7788 了，还剩一些咳嗽和鼻涕，其他都正常\n然后我周五下班想出去打会球，就几个小时，晚上就会回来。\n但是女朋友觉得我一点都不关心她，这个时候都没有陪着她。想问一下是我的问题比较大吗</p>",
+      "content_text": "女朋友感冒已经好得 7788 了，还剩一些咳嗽和鼻涕，其他都正常\n然后我周五下班想出去打会球，就几个小时，晚上就会回来。\n但是女朋友觉得我一点都不关心她，这个时候都没有陪着她。想问一下是我的问题比较大吗",
+      "date_published": "2026-01-31T06:04:43.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189730",
+      "url": "https://www.v2ex.com/t/1189730#reply8",
+      "title": "[问与答] 我们是不是处于第四次工业（科技）革命中。",
+      "content_html": "历史上的三次工业革命，蒸汽机，电气，信息技术计算机。三次工业革命都推动了人类的快速发展，同时也创造了更大的生产价值，更多的生产信息，人类就业量也爆增。<br />    现在的 AI 和机器人时代，是不是也算得上第四次工业革命开端？或者说如果人类有第四次工业革命，那一定是 AI ？未来的几十年，如果 AGI 到来和更实用的机器人制造，AI 能帮助人类解决大部分的复杂问题，但同时可能就业量会被急剧的压缩，以后可能只是需要顶级的研究员继续研究，以及熟练使用 AI 和机器人的操作员。大部分的普通人都将面临无业可就？",
+      "content_text": "历史上的三次工业革命，蒸汽机，电气，信息技术计算机。三次工业革命都推动了人类的快速发展，同时也创造了更大的生产价值，更多的生产信息，人类就业量也爆增。    现在的 AI 和机器人时代，是不是也算得上第四次工业革命开端？或者说如果人类有第四次工业革命，那一定是 AI ？未来的几十年，如果 AGI 到来和更实用的机器人制造，AI 能帮助人类解决大部分的复杂问题，但同时可能就业量会被急剧的压缩，以后可能只是需要顶级的研究员继续研究，以及熟练使用 AI 和机器人的操作员。大部分的普通人都将面临无业可就？",
+      "date_published": "2026-01-31T06:02:34.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189729",
+      "url": "https://www.v2ex.com/t/1189729#reply0",
+      "title": "[问与答] 有没有什么真 1000 倍 二手显微镜的科普和推荐？谢谢，偶然瞎看看",
+      "content_html": "<p>感觉是不是有一些注意的点？淘宝打开标题就几十万的放大倍率，太扯了。怪不得 AI 告诉我说要提防虚假的放大倍率<br/>\n想找个不踩坑的机器，看到一些注意事项主要是说，大倍率不失真要用油镜之类的</p>",
+      "content_text": "感觉是不是有一些注意的点？淘宝打开标题就几十万的放大倍率，太扯了。怪不得 AI 告诉我说要提防虚假的放大倍率\n想找个不踩坑的机器，看到一些注意事项主要是说，大倍率不失真要用油镜之类的",
+      "date_published": "2026-01-31T05:59:42.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189727",
       "url": "https://www.v2ex.com/t/1189727#reply0",
       "title": "[推广] [kookeey 动态住宅 ip 免费测试] 空投 ip/撸毛 ip：动态 IP vs 静态 IP 核心选型指南",

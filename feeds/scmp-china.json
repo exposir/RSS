@@ -6,6 +6,22 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/tech/big-tech/article/3341932/chinas-wingtech-owner-nexperia-expects-wider-loss-amid-row-over-dutch-chipmaker?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/big-tech/article/3341932/chinas-wingtech-owner-nexperia-expects-wider-loss-amid-row-over-dutch-chipmaker?utm_source=rss_feed",
+      "title": "China’s Wingtech, owner of Nexperia, expects wider loss amid row over Dutch chipmaker",
+      "content_html": "Wingtech Technology, the Chinese owner of chipmaker Nexperia, is expected to post a loss of between 9 billion yuan (US$1.3 billion) and 13.5 billion yuan in 2025, owing to the Dutch government’s takeover of the semiconductor firm, the Shanghai-listed company said in a statement on Friday.\nWingtech said that its authority over the chipmaker continues to be “temporarily restricted” since the October 7 ruling of the Dutch Enterprise Chamber, a special division of the Amsterdam Court of Appeal,...",
+      "content_text": "Wingtech Technology, the Chinese owner of chipmaker Nexperia, is expected to post a loss of between 9 billion yuan (US$1.3 billion) and 13.5 billion yuan in 2025, owing to the Dutch government’s takeover of the semiconductor firm, the Shanghai-listed company said in a statement on Friday.\nWingtech said that its authority over the chipmaker continues to be “temporarily restricted” since the October 7 ruling of the Dutch Enterprise Chamber, a special division of the Amsterdam Court of Appeal,...",
+      "date_published": "2026-01-31T06:31:31.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/tech/tech-trends/article/3341834/chinas-semiconductor-firms-post-hefty-2025-profits-amid-ai-boom-tech-self-reliance-drive?utm_source=rss_feed",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3341834/chinas-semiconductor-firms-post-hefty-2025-profits-amid-ai-boom-tech-self-reliance-drive?utm_source=rss_feed",
+      "title": "China’s semiconductor firms post hefty 2025 profits amid AI boom, tech self-reliance drive",
+      "content_html": "Enterprises across China’s semiconductor industry recorded hefty profit growth last year, according to their unaudited financial results, driven by the country’s artificial intelligence infrastructure buildout and Beijing’s push for tech self-reliance.\nGraphics processing unit (GPU) designer Cambricon Technologies on Friday reported a net profit of 2.2 billion yuan (US$316 million) in 2025, its first profitable year, on the back of “the continuous rise in computing power demand within the AI...",
+      "content_text": "Enterprises across China’s semiconductor industry recorded hefty profit growth last year, according to their unaudited financial results, driven by the country’s artificial intelligence infrastructure buildout and Beijing’s push for tech self-reliance.\nGraphics processing unit (GPU) designer Cambricon Technologies on Friday reported a net profit of 2.2 billion yuan (US$316 million) in 2025, its first profitable year, on the back of “the continuous rise in computing power demand within the AI...",
+      "date_published": "2026-01-31T06:00:19.000Z"
+    },
+    {
       "id": "https://www.scmp.com/business/china-business/article/3341925/chinas-factory-activity-contracts-january-weak-domestic-demand?utm_source=rss_feed",
       "url": "https://www.scmp.com/business/china-business/article/3341925/chinas-factory-activity-contracts-january-weak-domestic-demand?utm_source=rss_feed",
       "title": "China’s factory activity contracts in January on weak domestic demand",
