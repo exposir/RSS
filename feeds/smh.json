@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "6b5602c6-a731-44b0-a0e3-cc9239746de1",
+      "url": "https://www.smh.com.au/culture/live-reviews/renee-rapp-australian-open-20260129-p5ny55.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Even this pop star thinks having her gig at the tennis is a bit weird",
+      "content_html": "On the rest of her tour, Reneé Rapp plays normal evening shows. Here, she’s been folded into the tennis, playing a gig timed to fit before the women’s final.",
+      "content_text": "On the rest of her tour, Reneé Rapp plays normal evening shows. Here, she’s been folded into the tennis, playing a gig timed to fit before the women’s final.",
+      "date_published": "2026-01-31T23:42:30.000Z"
+    },
+    {
+      "id": "f312cd0a-54ab-4ce2-a24f-5bd312eb68fa",
+      "url": "https://www.smh.com.au/national/western-australia/freo-bridge-has-officially-closed-what-happens-next-20260201-p5nyjs.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Freo bridge has officially closed. What happens next?",
+      "content_html": "While the new bridge rounds out the Fremantle port, don’t expect the next year without a crucial river crossing in one of Perth’s busiest corners to be smooth sailing.",
+      "content_text": "While the new bridge rounds out the Fremantle port, don’t expect the next year without a crucial river crossing in one of Perth’s busiest corners to be smooth sailing.",
+      "date_published": "2026-01-31T23:28:40.000Z"
+    },
+    {
       "id": "824971ec-b5ba-4924-a43c-a8e49f957a6b",
       "url": "https://www.smh.com.au/sport/soccer/rapid-recap-mw24-liverpool-vs-newcastle-20260201-p5nylk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Rapid Recap | MW24: Liverpool vs Newcastle",
