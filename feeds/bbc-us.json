@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/ce8rk33dpvmo#0",
+      "url": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
+      "title": "US government partially shuts down despite last minute funding deal",
+      "content_html": "The soonest the US House of Representatives can vote on the funding deal and end the shutdown is Monday.",
+      "content_text": "The soonest the US House of Representatives can vote on the funding deal and end the shutdown is Monday.",
+      "date_published": "2026-01-31T05:10:27.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c78vgnz3z6eo#0",
+      "url": "https://www.bbc.com/news/articles/c78vgnz3z6eo?at_medium=RSS&at_campaign=rss",
+      "title": "US cities hold anti-ICE protests during nationwide day of action ",
+      "content_html": "Demonstrations were held to protest the fatal shootings of Renee Good and Alex Pretti by federal agents in Minneapolis.",
+      "content_text": "Demonstrations were held to protest the fatal shootings of Renee Good and Alex Pretti by federal agents in Minneapolis.",
+      "date_published": "2026-01-31T04:27:58.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cwy1ed1vgxro#0",
       "url": "https://www.bbc.com/news/articles/cwy1ed1vgxro?at_medium=RSS&at_campaign=rss",
       "title": "What we learned - and didn't - from the Melania documentary",
@@ -70,6 +86,14 @@
       "date_published": "2026-01-31T01:42:40.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c24gm3dz36po#3",
+      "url": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
+      "title": "Former CNN host Don Lemon charged in anti-ICE protest at Minnesota church ",
+      "content_html": "Lemon says he was just doing his job as a journalist reporting on the protests at the church.",
+      "content_text": "Lemon says he was just doing his job as a journalist reporting on the protests at the church.",
+      "date_published": "2026-01-31T01:25:43.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/czx3q0qw0npo#1",
       "url": "https://www.bbc.com/news/articles/czx3q0qw0npo?at_medium=RSS&at_campaign=rss",
       "title": "Has Harry Styles killed the world tour? ",
@@ -124,6 +148,14 @@
       "content_html": "World number one Luke Littler comes through a \"tough\" night to win his first-round game after opponent Mike de Decker misses a match dart.",
       "content_text": "World number one Luke Littler comes through a \"tough\" night to win his first-round game after opponent Mike de Decker misses a match dart.",
       "date_published": "2026-01-30T23:39:46.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c78egdg3r0po#3",
+      "url": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
+      "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
+      "content_html": "A judge dismisses two federal counts against the 27-year-old, but he still faces state murder charges.",
+      "content_text": "A judge dismisses two federal counts against the 27-year-old, but he still faces state murder charges.",
+      "date_published": "2026-01-30T23:30:03.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c4g5490xmkeo#0",

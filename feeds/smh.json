@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "193f8117-521d-4ff2-9db8-e58aab152c94",
+      "url": "https://www.smh.com.au/sport/tennis/aussie-pulls-off-incredible-feat-in-doubles-final-20260131-p5nyir.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Aussie pulls off incredible feat in doubles final",
+      "content_html": "Marc Polmans has hit an incredible winner in the doubles final.",
+      "content_text": "Marc Polmans has hit an incredible winner in the doubles final.",
+      "date_published": "2026-01-31T05:53:21.000Z"
+    },
+    {
+      "id": "5976ee2d-8116-4de8-816b-0096c6cede35",
+      "url": "https://www.smh.com.au/national/parents-are-paying-2500-to-falsify-vaccine-records-it-s-endangering-babies-like-riley-20260127-p5nxah.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Parents are paying $2500 to falsify vaccine records. It’s endangering babies like Riley",
+      "content_html": "Australian parents are boasting about paying anti-vaccine nurses to falsify Medicare records of their children, putting lives at risk, an investigation has revealed.",
+      "content_text": "Australian parents are boasting about paying anti-vaccine nurses to falsify Medicare records of their children, putting lives at risk, an investigation has revealed.",
+      "date_published": "2026-01-31T05:45:00.000Z"
+    },
+    {
+      "id": "eeaa14c4-d668-47e6-880b-f2f28bbf6257",
+      "url": "https://www.smh.com.au/sport/nrl/the-wests-tigers-crash-bros-who-stripped-15kgs-between-them-20260130-p5nycm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The Wests Tigers’ ‘Crash Bros’ who stripped 15kgs between them",
+      "content_html": "These two Wests Tigers props have slimmed down but will be impossible to miss when launching off the back fence this year.",
+      "content_text": "These two Wests Tigers props have slimmed down but will be impossible to miss when launching off the back fence this year.",
+      "date_published": "2026-01-31T05:28:00.000Z"
+    },
+    {
+      "id": "b3d1f1ee-b932-404b-bfe5-6fe3c5112f5a",
+      "url": "https://www.smh.com.au/sport/tennis/crowd-roars-as-british-star-smashes-set-point-20260131-p5nyio.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Crowd roars as British star smashes set point",
+      "content_html": "The crowd at Rod Laver Arena erupts as Neal Skupski smashes the ball to win the first-set point.",
+      "content_text": "The crowd at Rod Laver Arena erupts as Neal Skupski smashes the ball to win the first-set point.",
+      "date_published": "2026-01-31T05:23:12.000Z"
+    },
+    {
       "id": "8a8fe254-8261-4bec-b59c-68a97368f156",
       "url": "https://www.smh.com.au/national/victoria/the-age-photos-of-the-week-january-31-2026-20260131-p5nyh7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "The Age photos of the week, January 31, 2026",
