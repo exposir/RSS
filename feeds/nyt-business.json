@@ -6,6 +6,46 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/business/kevin-warsh-fed-chair.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/kevin-warsh-fed-chair.html",
+      "title": "Kevin Warsh Has a Tough Job Ahead. It’s Not the First Time.",
+      "content_html": "Mr. Warsh is known as a consensus builder, skills he will need if he is to head the Federal Reserve when President Trump is demanding rock-bottom rates.",
+      "content_text": "Mr. Warsh is known as a consensus builder, skills he will need if he is to head the Federal Reserve when President Trump is demanding rock-bottom rates.",
+      "date_published": "2026-01-31T10:02:52.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/business/scott-bessent-kevin-warsh-trump.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/scott-bessent-kevin-warsh-trump.html",
+      "title": "A Hawkish Kevin Warsh at the Fed Could Haunt Bessent",
+      "content_html": "The Treasury Secretary Scott Bessent tried to avoid providing President Trump with a clear recommendation to lead the central bank.",
+      "content_text": "The Treasury Secretary Scott Bessent tried to avoid providing President Trump with a clear recommendation to lead the central bank.",
+      "date_published": "2026-01-31T10:02:39.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/business/sell-america-dollar-financial-markets.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/sell-america-dollar-financial-markets.html",
+      "title": "Sell America Is the New Trade on Wall Street",
+      "content_html": "Investors are increasingly souring on the United States, as illustrated by the declining dollar, the stalled stock market and rising government borrowing costs.",
+      "content_text": "Investors are increasingly souring on the United States, as illustrated by the declining dollar, the stalled stock market and rising government borrowing costs.",
+      "date_published": "2026-01-31T10:02:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/business/energy-environment/energy-bills-costs-states-trump-power-plants.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/energy-environment/energy-bills-costs-states-trump-power-plants.html",
+      "title": "Energy Bills Have Soared Recently. How Can States Bring Costs Down?",
+      "content_html": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them.",
+      "content_text": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them.",
+      "date_published": "2026-01-31T10:00:56.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/business/kevin-hassett-trump-loyalty-fed.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/kevin-hassett-trump-loyalty-fed.html",
+      "title": "For Hassett, Loyalty to Trump Became a Liability in Fed Race",
+      "content_html": "Kevin A. Hassett had been seen as the front-runner in the Fed race, but his deep ties to the president raised questions about his independence.",
+      "content_text": "Kevin A. Hassett had been seen as the front-runner in the Fed race, but his deep ties to the president raised questions about his independence.",
+      "date_published": "2026-01-31T10:00:23.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/trump-bureau-of-labor-statistics-brett-matsumoto.html",
       "url": "https://www.nytimes.com/2026/01/30/business/trump-bureau-of-labor-statistics-brett-matsumoto.html",
       "title": "Trump Names ‘Data Nerd’ to Lead Labor Statistics Agency",

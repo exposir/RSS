@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "0e2fa2aa-433d-4994-b848-76f9f82772cd",
+      "url": "https://www.smh.com.au/sport/tennis/sabalenka-forces-title-decider-20260131-p5nyjh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sabalenka forces title decider",
+      "content_html": "Aryna Sabalenka snags her elusive break late to claim the second set 6-4 and force a decider for the Australian Open title.",
+      "content_text": "Aryna Sabalenka snags her elusive break late to claim the second set 6-4 and force a decider for the Australian Open title.",
+      "date_published": "2026-01-31T10:18:59.000Z"
+    },
+    {
+      "id": "cccfe9ba-8206-4e18-8da6-1305770c3703",
+      "url": "https://www.smh.com.au/sport/tennis/extraordinary-sabalenka-stuns-in-defensive-rally-20260131-p5nyjg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "'Extraordinary': Sabalenka stuns in defensive rally",
+      "content_html": "In an extraordinary display of defensive craft and end-range volleying, Aryna Sabalenka wins a crucial point with a forehand winner.",
+      "content_text": "In an extraordinary display of defensive craft and end-range volleying, Aryna Sabalenka wins a crucial point with a forehand winner.",
+      "date_published": "2026-01-31T10:09:05.000Z"
+    },
+    {
       "id": "2206d690-4025-45e3-9434-cfa23d90bf71",
       "url": "https://www.smh.com.au/national/prominent-builders-battle-to-stay-afloat-20260131-p5nyjf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Prominent builders battle to stay afloat",

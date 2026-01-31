@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/health/parents-teens-social-life.html",
+      "url": "https://www.nytimes.com/2026/01/31/health/parents-teens-social-life.html",
+      "title": "A Predictor of a Good Social Life? Your Parents.",
+      "content_html": "A decades-long study suggested that close relationships with family members during teenage years could lead to a rich network of friendships in adulthood.",
+      "content_text": "A decades-long study suggested that close relationships with family members during teenage years could lead to a rich network of friendships in adulthood.",
+      "date_published": "2026-01-31T10:02:34.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
       "url": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
       "title": "Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon",

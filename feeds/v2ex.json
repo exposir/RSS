@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189768",
+      "url": "https://www.v2ex.com/t/1189768#reply0",
+      "title": "[分享创造] 假装在旅游～",
+      "content_html": "<p><a href=\"https://www.bilibili.com/video/BV13m61BJEf3/?share_source=copy_web&vd_source=b38d30b9afa4cdb7d6538c4c2978a4c8\" rel=\"nofollow\">演示</a></p>\n<p>AI 智能路线规划、风格化打卡照生成以及沿途风光视频搜索功能，帮助用户虚拟探索并规划 AI 旅程。</p>\n<p>印象中好像有个类似的！</p>",
+      "content_text": "演示\nAI 智能路线规划、风格化打卡照生成以及沿途风光视频搜索功能，帮助用户虚拟探索并规划 AI 旅程。\n印象中好像有个类似的！",
+      "date_published": "2026-01-31T10:12:51.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189767",
+      "url": "https://www.v2ex.com/t/1189767#reply0",
+      "title": "[分享创造] [分享] 周末项目 yomemo.ai：跨 LLM 的持久安全记忆 API，已接支付、挂 fly.io，求指点",
+      "content_html": "<p>大家好，</p>\n<p>周末抽时间把一直在做的项目完整跑通了一版，想发出来请大家帮忙看看、给点建议。</p>\n<p><strong>项目是啥</strong>\n做一个给开发者用的「跨 LLM 持久记忆」服务：在 Cursor 、MCP 或多工具之间，把偏好、决策、上下文存到云端，下次换会话、换工具还能用。面向的是「希望 AI 记住自己习惯」的开发者。</p>\n<p><strong>当前进度</strong></p>\n<ul>\n<li>核心 API （存/取、按 handle 查）已实现</li>\n<li>支付已接入（免费额度 1000 条/50MB ，超出可付费），走了 <a href=\"http://creem.io\" rel=\"nofollow\">creem.io</a></li>\n<li>全流程自测通过，部署在 <a href=\"http://fly.io\" rel=\"nofollow\">fly.io</a></li>\n<li>已有一个真实付费用户</li>\n</ul>\n<p><strong>技术栈</strong>\nGo + PostgreSQL ，Serverless 倾向，文档在 <a href=\"http://doc.yomemo.ai\" rel=\"nofollow\">doc.yomemo.ai</a> 。</p>\n<p><strong>求指点～</strong></p>\n<ol>\n<li>产品方向：这种「跨 LLM 记忆」需求，大家觉得在真实工作流里强不强？还缺什么场景？</li>\n<li>目前关注于： 目前核心是安全， 主要面向私有记忆，服务端无法查询，除了非敏感描述信息外，无法向量搜索，大家有啥好办法？</li>\n</ol>\n<p>项目在目前发布在 <a href=\"https://yomemo.ai\" rel=\"nofollow\">https://yomemo.ai</a> 上</p>",
+      "content_text": "大家好，\n周末抽时间把一直在做的项目完整跑通了一版，想发出来请大家帮忙看看、给点建议。\n项目是啥\n做一个给开发者用的「跨 LLM 持久记忆」服务：在 Cursor 、MCP 或多工具之间，把偏好、决策、上下文存到云端，下次换会话、换工具还能用。面向的是「希望 AI 记住自己习惯」的开发者。\n当前进度\n\n核心 API （存/取、按 handle 查）已实现\n支付已接入（免费额度 1000 条/50MB ，超出可付费），走了 creem.io\n全流程自测通过，部署在 fly.io\n已有一个真实付费用户\n\n技术栈\nGo + PostgreSQL ，Serverless 倾向，文档在 doc.yomemo.ai 。\n求指点～\n\n产品方向：这种「跨 LLM 记忆」需求，大家觉得在真实工作流里强不强？还缺什么场景？\n目前关注于： 目前核心是安全， 主要面向私有记忆，服务端无法查询，除了非敏感描述信息外，无法向量搜索，大家有啥好办法？\n\n项目在目前发布在 https://yomemo.ai 上",
+      "date_published": "2026-01-31T09:55:00.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189766",
       "url": "https://www.v2ex.com/t/1189766#reply0",
       "title": "[Vibe Coding] 分享土豪专用提示词， cursor 中实现自动任务分割，并行开发",

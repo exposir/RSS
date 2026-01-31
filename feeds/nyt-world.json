@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/world/europe/russia-economy-oil.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/europe/russia-economy-oil.html",
+      "title": "Russia’s Oil Revenue Is Plummeting",
+      "content_html": "The new reality has forced the Kremlin to raise taxes and increase debt, and hovers over peace talks with Ukraine.",
+      "content_text": "The new reality has forced the Kremlin to raise taxes and increase debt, and hovers over peace talks with Ukraine.",
+      "date_published": "2026-01-31T10:02:09.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
       "url": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
       "title": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
