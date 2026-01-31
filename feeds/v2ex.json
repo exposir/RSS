@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189828",
+      "url": "https://www.v2ex.com/t/1189828#reply0",
+      "title": "[DNS] 提供一个自己部署的 DOH",
+      "content_html": "<p>国内可直连 <a href=\"https://rvv.amd.pub/ix\" rel=\"nofollow\">https://rvv.amd.pub/ix</a>\n套 cf cdn 的是 <a href=\"https://int.amd.pub/ix\" rel=\"nofollow\">https://int.amd.pub/ix</a>\n上海反代 <a href=\"https://amd.pub/ix\" rel=\"nofollow\">https://amd.pub/ix</a>\n纯粹是出于兴趣弄得，希望不要滥用。可以当作上游。\n上游是 controld+cf zero trust+google.\ncontrold 开启广告拦截（大概率开，不过不会过于激进）。\n后端是基于 rust 写的程序，然后 nginx 反代。</p>",
+      "content_text": "国内可直连 https://rvv.amd.pub/ix\n套 cf cdn 的是 https://int.amd.pub/ix\n上海反代 https://amd.pub/ix\n纯粹是出于兴趣弄得，希望不要滥用。可以当作上游。\n上游是 controld+cf zero trust+google.\ncontrold 开启广告拦截（大概率开，不过不会过于激进）。\n后端是基于 rust 写的程序，然后 nginx 反代。",
+      "date_published": "2026-01-31T21:15:20.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189827",
+      "url": "https://www.v2ex.com/t/1189827#reply1",
+      "title": "[信息安全] 飞牛 fnOS 发布重要安全更新通知，并提醒用户更新至 1.1.18 最新版本",
+      "content_html": "<a target=\"_blank\" href=\"https://i.imgur.com/w3bGeRq.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/w3bGeRq.png\" class=\"embedded_image\" rel=\"noreferrer\"></a><br /><br /><br />通篇文章依旧嘴硬不谈大面积被挂马的问题，用户都被挂完马了，最后只发了个更新补丁出来。<br /><br />最搞笑的是，如果你的设备已经感染木马，你是无法更新到最新的 1.1.18 版本的。直到这个公告发出，官方甚至都没给出一个像样的查杀补丁或者工具，目前所有操作都需要用户发挥动手能力，自己找木马或者查杀脚本，直接切割所有被挂马用户。<br /><br />如果真如官方所说的，在过去一周对木马样本进行了深度分析，解决方案在哪里？",
+      "content_text": "通篇文章依旧嘴硬不谈大面积被挂马的问题，用户都被挂完马了，最后只发了个更新补丁出来。最搞笑的是，如果你的设备已经感染木马，你是无法更新到最新的 1.1.18 版本的。直到这个公告发出，官方甚至都没给出一个像样的查杀补丁或者工具，目前所有操作都需要用户发挥动手能力，自己找木马或者查杀脚本，直接切割所有被挂马用户。如果真如官方所说的，在过去一周对木马样本进行了深度分析，解决方案在哪里？",
+      "date_published": "2026-01-31T21:05:40.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189826",
       "url": "https://www.v2ex.com/t/1189826#reply0",
       "title": "[酷工作] 做了一个离职焦虑网站-用来加深你的焦虑",

@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "ecc5f64e-1061-4535-89f9-9a5543e3ab33",
+      "url": "https://www.smh.com.au/world/prince-andrew-photo-seen-in-latest-epstein-file-release-20260201-p5nykh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Prince Andrew photo seen in latest Epstein file release",
+      "content_html": "The former Prince Andrew was pictured crouching over an unknown woman in the latest tranche of documents released in the Epstein files.",
+      "content_text": "The former Prince Andrew was pictured crouching over an unknown woman in the latest tranche of documents released in the Epstein files.",
+      "date_published": "2026-01-31T20:55:15.000Z"
+    },
+    {
+      "id": "35f1c2be-c2e2-4ee5-b1c2-15867c28a67f",
+      "url": "https://www.smh.com.au/national/tribute-in-bondi-for-young-shark-attack-victim-20260201-p5nykj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Tribute in Bondi for young shark attack victim",
+      "content_html": "A paddle out has taken place in Bondi to honour 12-year-old shark victim Nico Antic.",
+      "content_text": "A paddle out has taken place in Bondi to honour 12-year-old shark victim Nico Antic.",
+      "date_published": "2026-01-31T20:55:11.000Z"
+    },
+    {
+      "id": "2e7f66f9-2e91-488e-a506-4cc1de677f3a",
+      "url": "https://www.smh.com.au/national/ndis-funding-cut-from-children-found-dead-in-perth-friends-say-20260201-p5nyki.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "NDIS funding cut from children found dead in Perth, friends say",
+      "content_html": "Friends of the family found dead inside a Perth home say the children’s NDIS funding had been recently cut.",
+      "content_text": "Friends of the family found dead inside a Perth home say the children’s NDIS funding had been recently cut.",
+      "date_published": "2026-01-31T20:55:06.000Z"
+    },
+    {
+      "id": "28106c2b-ab2c-4d94-86b9-fb7c5d01697f",
+      "url": "https://www.smh.com.au/national/molotov-cocktails-thrown-at-home-in-south-west-sydney-20260201-p5nyke.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Molotov cocktails thrown at home in south-west Sydney",
+      "content_html": "Police are investigating after multiple glass fire bombs were thrown at a home in south-west Sydney in a “targeted” attack.",
+      "content_text": "Police are investigating after multiple glass fire bombs were thrown at a home in south-west Sydney in a “targeted” attack.",
+      "date_published": "2026-01-31T20:49:39.000Z"
+    },
+    {
       "id": "7310a26e-d9a4-41d3-b358-0c7d1df1bfaa",
       "url": "https://www.smh.com.au/sport/soccer/tensions-boil-over-in-stoppage-time-20260201-p5nyk5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Tensions boil over in stoppage time",
