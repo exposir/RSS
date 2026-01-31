@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "7950971b-7403-4231-842a-916f4f3cb9d4",
+      "url": "https://www.smh.com.au/national/woman-fighting-for-life-after-alleged-altercation-with-housemate-20260201-p5nyk0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Woman fighting for life after alleged altercation with housemate",
+      "content_html": "A woman was allegedly stabbed by her housemate at a Woodlands home, in Perth's north-west, following an alleged altercation.",
+      "content_text": "A woman was allegedly stabbed by her housemate at a Woodlands home, in Perth's north-west, following an alleged altercation.",
+      "date_published": "2026-01-31T19:24:53.000Z"
+    },
+    {
+      "id": "c6316a70-c8bb-4aeb-916f-e7fef46fb0b2",
+      "url": "https://www.smh.com.au/national/second-note-found-in-perth-home-following-double-murder-suicide-20260201-p5nyjz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Second note found in Perth home following double murder-suicide",
+      "content_html": "Police found another note after the apparent double murder-suicide of two brothers and their parents.",
+      "content_text": "Police found another note after the apparent double murder-suicide of two brothers and their parents.",
+      "date_published": "2026-01-31T19:20:10.000Z"
+    },
+    {
       "id": "995e6ab5-f086-4f0f-a378-d07acc4f684a",
       "url": "https://www.smh.com.au/national/green-blows-up-after-dismissal-20260201-p5nyjy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Green blows up after dismissal",

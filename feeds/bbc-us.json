@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/articles/ckgjd8ej3ggo#8",
+      "url": "https://www.bbc.com/sport/football/articles/ckgjd8ej3ggo?at_medium=RSS&at_campaign=rss",
+      "title": "'A great headache' - can Madueke stake claim for Arsenal and England?",
+      "content_html": "The sight of Noni Madueke flying past defenders and putting dangerous crosses into the penalty will have been a welcome sight for Mikel Arteta.",
+      "content_text": "The sight of Noni Madueke flying past defenders and putting dangerous crosses into the penalty will have been a welcome sight for Mikel Arteta.",
+      "date_published": "2026-01-31T19:19:12.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/ice-hockey/articles/cq6vdpnelvzo#8",
       "url": "https://www.bbc.com/sport/ice-hockey/articles/cq6vdpnelvzo?at_medium=RSS&at_campaign=rss",
       "title": "Ice hockey venue unfinished days before Winter Olympics",

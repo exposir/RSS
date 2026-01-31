@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/business/media/pentagon-new-york-times-lawsuit.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/media/pentagon-new-york-times-lawsuit.html",
+      "title": "Pentagon Defends Restrictions on Media Outlets",
+      "content_html": "The purpose of the new rules is to “stop activity that could compromise national security,” the Defense Department said in response to a New York Times lawsuit.",
+      "content_text": "The purpose of the new rules is to “stop activity that could compromise national security,” the Defense Department said in response to a New York Times lawsuit.",
+      "date_published": "2026-01-31T19:32:19.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/business/dealbook/buy-the-whole-village.html",
       "url": "https://www.nytimes.com/2026/01/31/business/dealbook/buy-the-whole-village.html",
       "title": "The Latest Way to Create an Isolated Retreat: Buy a Whole Village",
