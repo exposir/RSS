@@ -6,6 +6,14 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-plans-to-fund-openai-judge-release-5-year-old-boy-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-plans-to-fund-openai-judge-release-5-year-old-boy-more",
+      "title": "Nvidia Plans to Fund OpenAI, Judge: Release 5-Year-Old Boy, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T23:02:59.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-in-on-openai-funding-judge-orders-5-year-old-released",
       "url": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-in-on-openai-funding-judge-orders-5-year-old-released",
       "title": "Nvidia in on OpenAI Funding, Judge Orders 5-Year-Old Released",

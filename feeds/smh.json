@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "824971ec-b5ba-4924-a43c-a8e49f957a6b",
+      "url": "https://www.smh.com.au/sport/soccer/rapid-recap-mw24-liverpool-vs-newcastle-20260201-p5nylk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rapid Recap | MW24: Liverpool vs Newcastle",
+      "content_html": "Catchup with Rapid Recap: Watch the goals and big moments from Newcastle United's visit to Anfield to face Liverpool in Premier League Matchweek 24 action.",
+      "content_text": "Catchup with Rapid Recap: Watch the goals and big moments from Newcastle United's visit to Anfield to face Liverpool in Premier League Matchweek 24 action.",
+      "date_published": "2026-01-31T23:14:04.000Z"
+    },
+    {
+      "id": "631792ee-a7af-484e-868c-8b31796f9c60",
+      "url": "https://www.smh.com.au/national/queensland/why-these-south-east-clubs-are-surging-in-popularity-20260127-p5nxdc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Why these south-east clubs are surging in popularity",
+      "content_html": "The desire to make genuine connections is driving participation in social hiking groups, which are delivering powerful health benefits – both physical and mental.",
+      "content_text": "The desire to make genuine connections is driving participation in social hiking groups, which are delivering powerful health benefits – both physical and mental.",
+      "date_published": "2026-01-31T23:00:00.000Z"
+    },
+    {
+      "id": "b468e869-26d1-4900-a15a-e78b63338c56",
+      "url": "https://www.smh.com.au/business/workplace/air-traffic-controller-shortages-trigger-calls-for-government-monitoring-20260129-p5ny0v.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Air traffic controller shortages trigger calls for government monitoring",
+      "content_html": "A rash of flight cancellations that affected 200,000 passengers in Sydney last month is prompting calls for urgent changes.",
+      "content_text": "A rash of flight cancellations that affected 200,000 passengers in Sydney last month is prompting calls for urgent changes.",
+      "date_published": "2026-01-31T22:59:15.000Z"
+    },
+    {
       "id": "2d7b2f08-c6c7-4a6f-b23f-111b56a6844a",
       "url": "https://www.smh.com.au/national/nsw/be-brave-for-nico-family-and-friends-paddle-out-for-shark-attack-victim-20260201-p5nykk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "‘Be brave for Nico’: Family and friends paddle out for shark attack victim",
