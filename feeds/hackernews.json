@@ -182,6 +182,14 @@
       "date_published": "2026-01-29T16:11:04.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46810828",
+      "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
+      "title": "Moltworker: a self-hosted personal AI agent, minus the minis",
+      "content_html": "<p>Article URL: <a href=\"https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/\">https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810828\">https://news.ycombinator.com/item?id=46810828</a></p>\n<p>Points: 231</p>\n<p># Comments: 65</p>",
+      "content_text": "Article URL: https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/\nComments URL: https://news.ycombinator.com/item?id=46810828\nPoints: 231\n# Comments: 65",
+      "date_published": "2026-01-29T14:43:07.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46810401",
       "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
       "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",

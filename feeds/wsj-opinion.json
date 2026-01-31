@@ -6,6 +6,14 @@
   "description": "RSSOpinion",
   "items": [
     {
+      "id": "WP-WSJO-0000245874",
+      "url": "https://www.wsj.com/opinion/pepperand-salt-b4337a45",
+      "title": "Pepper&#x2026;and Salt",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T05:00:00.000Z"
+    },
+    {
       "id": "SB11888047140129784519804592588013768597288",
       "url": "https://www.wsj.com/opinion/states-school-choice-education-savings-accounts-15dd5ee5",
       "title": "How States Can Improve School Choice",

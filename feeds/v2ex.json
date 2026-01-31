@@ -17,6 +17,54 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189724",
+      "url": "https://www.v2ex.com/t/1189724#reply0",
+      "title": "[汽车] 这个 4S 贴的强生车膜是正品吗？",
+      "content_html": "说是 IR75 的强生车膜，但给我的照片写的是 DC-P75-1 ，照片晚点发",
+      "content_text": "说是 IR75 的强生车膜，但给我的照片写的是 DC-P75-1 ，照片晚点发",
+      "date_published": "2026-01-31T05:11:33.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189723",
+      "url": "https://www.v2ex.com/t/1189723#reply1",
+      "title": "[问与答] 除了 next.js，在 2026 年，还有哪些 React 全栈框架推荐？",
+      "content_html": "next.js 也不是说不好，但是总感觉有些臃肿<br />另外 'use client'、'use server' 总感觉有点不标准",
+      "content_text": "next.js 也不是说不好，但是总感觉有些臃肿另外 'use client'、'use server' 总感觉有点不标准",
+      "date_published": "2026-01-31T05:07:40.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189722",
+      "url": "https://www.v2ex.com/t/1189722#reply0",
+      "title": "[装修] 装修行业有没有比较好的软件帮助用户做规划和需求管理？",
+      "content_html": "<p><strong>最近在为新房装修做准备工作，接触了几家装修公司，发现他们很难帮我管理和细化需求，基本都是用表格或 cad 图纸去简单设计一下。</strong></p>\n<p>我想有一套系统，能采用逐步深入的方式帮我对装修进行规划、设计和需求进行管理。</p>\n<h2>比如说：</h2>\n<p>1.能让我选择新房所在的小区，帮我查找相同的户型图（酷家乐目前有这个功能）。</p>\n<p>2.能让我对户型图做简单的修改，比如改墙改房间等。</p>\n<p>3.能让我选择我想要的装修选项，并生成汇总。比如让我勾选或选择水电方面的需求，也能选打包好的服务比如做防水的公司和工艺，能选择瓷砖规格，选择吊顶样式，柜子、床的规格等。然后自动帮我做水管线管规划，插座开关面板的规划，瓷砖排版，能帮我智能规划家具的排放防止过道过窄等。系统给出的规划也支持我自己个性化修改。</p>\n<p>4.希望这个系统有一套非常强大的智能模板，比如根据我的规划帮我统计角阀、龙头等建材的用量，也支持我自己修改数量，也能集成很多供应商包括报价。</p>\n<p>5.能根据我的选择大概给出相应的报价，如果这个系统能集成一些建材、家具供应商、装修公司并开出相应的报价当然最好了。</p>\n<p>6.能根据我的配置帮我生成相应每个大项的表单，方便我在装修过程中对每一项进行管理和验收，以及费用管理。</p>\n<p><strong>大家帮我推荐下有没有现成的系统？或者分析下如果创业做一套这样的系统有没有市场？</strong></p>",
+      "content_text": "最近在为新房装修做准备工作，接触了几家装修公司，发现他们很难帮我管理和细化需求，基本都是用表格或 cad 图纸去简单设计一下。\n我想有一套系统，能采用逐步深入的方式帮我对装修进行规划、设计和需求进行管理。\n比如说：\n1.能让我选择新房所在的小区，帮我查找相同的户型图（酷家乐目前有这个功能）。\n2.能让我对户型图做简单的修改，比如改墙改房间等。\n3.能让我选择我想要的装修选项，并生成汇总。比如让我勾选或选择水电方面的需求，也能选打包好的服务比如做防水的公司和工艺，能选择瓷砖规格，选择吊顶样式，柜子、床的规格等。然后自动帮我做水管线管规划，插座开关面板的规划，瓷砖排版，能帮我智能规划家具的排放防止过道过窄等。系统给出的规划也支持我自己个性化修改。\n4.希望这个系统有一套非常强大的智能模板，比如根据我的规划帮我统计角阀、龙头等建材的用量，也支持我自己修改数量，也能集成很多供应商包括报价。\n5.能根据我的选择大概给出相应的报价，如果这个系统能集成一些建材、家具供应商、装修公司并开出相应的报价当然最好了。\n6.能根据我的配置帮我生成相应每个大项的表单，方便我在装修过程中对每一项进行管理和验收，以及费用管理。\n大家帮我推荐下有没有现成的系统？或者分析下如果创业做一套这样的系统有没有市场？",
+      "date_published": "2026-01-31T05:05:51.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189721",
+      "url": "https://www.v2ex.com/t/1189721#reply0",
+      "title": "[推广] 油管上说免费的 nano-banana 文生图网站",
+      "content_html": "<a target=\"_blank\" href=\"https://arena.ai/c/new?mode=direct&chat-modality=image\" rel=\"nofollow noopener\">https://arena.ai/c/new?mode=direct&chat-modality=image</a>",
+      "content_text": "https://arena.ai/c/new?mode=direct&chat-modality=image",
+      "date_published": "2026-01-31T04:57:23.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189719",
+      "url": "https://www.v2ex.com/t/1189719#reply4",
+      "title": "[macOS] 闲鱼上 100 多的 Parallels 26 永久激活版可靠吗。",
+      "content_html": "想必是有坑，但是也不想破解，也不想买死贵的正版。。。<br />vmware fusion 好像安装不了 macos 的虚拟机",
+      "content_text": "想必是有坑，但是也不想破解，也不想买死贵的正版。。。vmware fusion 好像安装不了 macos 的虚拟机",
+      "date_published": "2026-01-31T04:27:32.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189718",
+      "url": "https://www.v2ex.com/t/1189718#reply0",
+      "title": "[分享创造] 信息流增强小插件",
+      "content_html": "<p><a href=\"https://appstore.cornradio.org/\" rel=\"nofollow\">https://appstore.cornradio.org/</a>分享一下最近写的几个信息流增强小插件 。可以在电脑上方便的用键盘来快速查看信息流。</p>\n<p>适配  <a href=\"https://jandan.net/\" rel=\"nofollow\">jandan</a> 、 <a href=\"https://x.com/\" rel=\"nofollow\">x</a> 、 <a href=\"https://www.xiaohongshu.com/\" rel=\"nofollow\">小红书</a></p>\n<hr/>\n<ul>\n<li><a href=\"https://greasyfork.org/zh-CN/scripts/564520\" rel=\"nofollow\">煎蛋无聊图增强</a></li>\n<li><a href=\"https://greasyfork.org/zh-CN/scripts/564566\" rel=\"nofollow\">X (Twitter) 信息流增强</a></li>\n<li><a href=\"https://greasyfork.org/zh-CN/scripts/564583\" rel=\"nofollow\">小红书增强</a></li>\n</ul>\n<hr/>\n<p>⌨️ 通用快捷键</p>\n<p>快捷键功能 J K / ↓ ↑内容滚动</p>\n<ul>\n<li>D 切换大屏模式</li>\n<li>Space 进入详情页</li>\n<li>S 下载当前图片</li>\n<li>Z 点赞</li>\n</ul>\n<p>更方便的是你可以拿着这一个脚本然后放到 AI 工具里边让它适配一个你喜欢用的任何新网站。\n我认为我这套逻辑是适合所有的信息流的（当然最好是带图片的）\n喜欢的可以试试呀</p>",
+      "content_text": "https://appstore.cornradio.org/分享一下最近写的几个信息流增强小插件 。可以在电脑上方便的用键盘来快速查看信息流。\n适配  jandan 、 x 、 小红书\n\n\n煎蛋无聊图增强\nX (Twitter) 信息流增强\n小红书增强\n\n\n⌨️ 通用快捷键\n快捷键功能 J K / ↓ ↑内容滚动\n\nD 切换大屏模式\nSpace 进入详情页\nS 下载当前图片\nZ 点赞\n\n更方便的是你可以拿着这一个脚本然后放到 AI 工具里边让它适配一个你喜欢用的任何新网站。\n我认为我这套逻辑是适合所有的信息流的（当然最好是带图片的）\n喜欢的可以试试呀",
+      "date_published": "2026-01-31T04:22:03.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189717",
       "url": "https://www.v2ex.com/t/1189717#reply0",
       "title": "[问与答] AirPods Pro1 耳机盒充不了电了， 能否买个华强北的用一下？",

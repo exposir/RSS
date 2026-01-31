@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
+      "title": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
+      "content_html": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security.",
+      "content_text": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security.",
+      "date_published": "2026-01-31T05:01:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html",
+      "title": "How Europe Is Moving to Reduce Dependence on Trump",
+      "content_html": "Since President Trump made threats about Greenland, the continent’s leaders have debated the rapid deterioration of U.S. ties in policy papers and at dinner.",
+      "content_text": "Since President Trump made threats about Greenland, the continent’s leaders have debated the rapid deterioration of U.S. ties in policy papers and at dinner.",
+      "date_published": "2026-01-31T05:01:07.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html",
       "url": "https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html",
       "title": "U.N. Says It’s in Danger of Financial Collapse Because of Members’ Unpaid Dues",

@@ -6,6 +6,14 @@
   "description": "财新网 - 最新文章 - Powered by RSSHub",
   "items": [
     {
+      "id": "caixin:latest:https://www.caixin.com/2026-01-31/102410125.html",
+      "url": "https://www.caixin.com/2026-01-31/102410125.html",
+      "title": "马斯克停汽车产线换造机器人 Optimus何时量产？",
+      "content_html": "<blockquote><p>马斯克长远目标是Optimus年产100万台</p></blockquote><br>\n       <p>　　<b>【财新网】</b>马斯克在财报会上宣布，汽车生产将为人形机器人让路，特斯拉在2026年第二季度停产Model S和Model X两款车型，并将其工厂改造为人形机器人产线。马斯克称两款车型到了收官时刻，而Optimus将是特斯拉有史以来产量规模最大的产品。（详见《<a href=\"https://www.caixin.com/2026-01-29/102409411.html\" target=\"_blank\">特斯拉将停产两款车型 一季度发布第三代人形机器人</a>》）</p>\n<p>　　Optimus最早于2021年8月的“特斯拉人工智能日”（Tesla AI Day）宣布。当时并没有真机展示，而是由一个人穿着机器人服装上台表演。2022年9月的AI Day ，特斯拉展示了Optimus的雏形Bumblebee，它被放在一个支架上，由工作人员推着入场。</p>",
+      "content_text": "马斯克长远目标是Optimus年产100万台\n       　　【财新网】马斯克在财报会上宣布，汽车生产将为人形机器人让路，特斯拉在2026年第二季度停产Model S和Model X两款车型，并将其工厂改造为人形机器人产线。马斯克称两款车型到了收官时刻，而Optimus将是特斯拉有史以来产量规模最大的产品。（详见《特斯拉将停产两款车型 一季度发布第三代人形机器人》）\n　　Optimus最早于2021年8月的“特斯拉人工智能日”（Tesla AI Day）宣布。当时并没有真机展示，而是由一个人穿着机器人服装上台表演。2022年9月的AI Day ，特斯拉展示了Optimus的雏形Bumblebee，它被放在一个支架上，由工作人员推着入场。",
+      "date_published": "2026-01-31T05:21:58.000Z"
+    },
+    {
       "id": "caixin:latest:https://economy.caixin.com/2026-01-31/102410048.html",
       "url": "https://economy.caixin.com/2026-01-31/102410048.html",
       "title": "1月国家统计局制造业PMI降至49.3 需求重现收缩",

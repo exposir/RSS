@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
+      "title": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
+      "content_html": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security.",
+      "content_text": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security.",
+      "date_published": "2026-01-31T05:01:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html",
+      "title": "How Europe Is Moving to Reduce Dependence on Trump",
+      "content_html": "Since President Trump made threats about Greenland, the continent’s leaders have debated the rapid deterioration of U.S. ties in policy papers and at dinner.",
+      "content_text": "Since President Trump made threats about Greenland, the continent’s leaders have debated the rapid deterioration of U.S. ties in policy papers and at dinner.",
+      "date_published": "2026-01-31T05:01:07.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/epstein-2007-draft-indictment.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/epstein-2007-draft-indictment.html",
+      "title": "Draft Epstein Indictment Accused Him of Crimes Against More Than a Dozen Girls",
+      "content_html": "Jeffrey Epstein, who ended up pleading to a much lesser state charge, told one victim that bad things could happen to her if she talked, the 2007 document said.",
+      "content_text": "Jeffrey Epstein, who ended up pleading to a much lesser state charge, told one victim that bad things could happen to her if she talked, the 2007 document said.",
+      "date_published": "2026-01-31T03:41:47.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/nyregion/inna-vernikov-nyc-council.html",
       "url": "https://www.nytimes.com/2026/01/30/nyregion/inna-vernikov-nyc-council.html",
       "title": "She Called Mamdani a ‘Terrorist Lover.’ Did She Deserve to Be Promoted?",
@@ -44,6 +68,14 @@
       "content_html": "The move was the third time the Trump administration has tried to expedite arms shipments to Israel by going around the review process for weapons sales.",
       "content_text": "The move was the third time the Trump administration has tried to expedite arms shipments to Israel by going around the review process for weapons sales.",
       "date_published": "2026-01-31T02:22:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/epstein-files-release.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/epstein-files-release.html",
+      "title": "Release of Three Million Epstein Pages Falls Short, Survivors Say",
+      "content_html": "Todd Blanche, the deputy attorney general, told reporters on Friday that “there’s a hunger or a thirst for information that I do not think will be satisfied by the review of these documents.”",
+      "content_text": "Todd Blanche, the deputy attorney general, told reporters on Friday that “there’s a hunger or a thirst for information that I do not think will be satisfied by the review of these documents.”",
+      "date_published": "2026-01-31T02:08:01.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/weather/hudson-river-new-york-frozen.html",

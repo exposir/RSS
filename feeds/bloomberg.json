@@ -6,6 +6,350 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/partial-government-shutdown-underway-warsh-reaction-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/partial-government-shutdown-underway-warsh-reaction-more",
+      "title": "Partial Government Shutdown Underway, Warsh Reaction, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T05:02:59.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/senate-passes-funding-deal-senator-warren-on-warsh-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/senate-passes-funding-deal-senator-warren-on-warsh-more",
+      "title": "Senate Passes Funding Deal, Senator Warren on Warsh, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T04:02:50.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/funding-deal-passes-senate-warsh-nomination-reaction-more-ml1q9jad",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/funding-deal-passes-senate-warsh-nomination-reaction-more-ml1q9jad",
+      "title": "Funding Deal Passes Senate, Warsh Nomination Reaction, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T03:03:39.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/-uncle-jeffrey-goldman-s-top-lawyer-features-in-epstein-files",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/-uncle-jeffrey-goldman-s-top-lawyer-features-in-epstein-files",
+      "title": "‘Uncle Jeffrey’: Top Goldman Lawyer Features in Epstein Docs",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T02:49:20.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/senate-passes-funding-deal-elizabeth-warren-on-kevin-warsh-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/senate-passes-funding-deal-elizabeth-warren-on-kevin-warsh-more",
+      "title": "Senate Passes Funding Deal, Elizabeth Warren on Kevin Warsh,More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T02:08:59.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/funding-deal-passes-senate-warsh-nomination-reaction-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/funding-deal-passes-senate-warsh-nomination-reaction-more",
+      "title": "Funding Deal Passes Senate, Warsh Nomination Reaction, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T01:03:01.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-31/singapore-dollar-and-stocks-rally-means-singaporeans-may-feel-richer-in-2026",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-31/singapore-dollar-and-stocks-rally-means-singaporeans-may-feel-richer-in-2026",
+      "title": "Singaporeans May Feel Richer in 2026 as Currency, Stocks Rally",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T01:00:02.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-31/nvidia-pauses-plan-to-invest-100-billion-in-openai-wsj-says",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/nvidia-pauses-plan-to-invest-100-billion-in-openai-wsj-says",
+      "title": "Nvidia Halts Plan to Invest $100 Billion in OpenAI, WSJ Says",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T00:35:19.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/senate-passes-funding-deal-elizabeth-warren-on-warsh-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/senate-passes-funding-deal-elizabeth-warren-on-warsh-more",
+      "title": "Senate Passes Funding Deal, Elizabeth Warren on Warsh, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T00:09:14.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-31/la-parrilla-xpress-is-the-discount-steakhouse-hong-kong-needs-right-now",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/la-parrilla-xpress-is-the-discount-steakhouse-hong-kong-needs-right-now",
+      "title": "La Parrilla Xpress Is the Discount Steakhouse Hong Kong Needs Right Now",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T00:00:26.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/elizabeth-warren-on-warsh-nomination-potential-shutdown-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/elizabeth-warren-on-warsh-nomination-potential-shutdown-more",
+      "title": "Elizabeth Warren on Warsh Nomination, Potential Shutdown, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T23:05:14.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/seattle-seahawks-to-be-up-for-sale-after-super-bowl-espn-says",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/seattle-seahawks-to-be-up-for-sale-after-super-bowl-espn-says",
+      "title": "Seattle Seahawks to Be Up for Sale After Super Bowl, ESPN Says",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T22:55:37.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-businessweek-daily-aon-s-risk-outlook-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-businessweek-daily-aon-s-risk-outlook-podcast",
+      "title": "Bloomberg Businessweek Daily: Aon's Risk Outlook (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T22:52:06.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/warsh-gets-trump-s-fed-chair-nod-evening-briefing-americas",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/warsh-gets-trump-s-fed-chair-nod-evening-briefing-americas",
+      "title": "Warsh Gets Fed Chair Nod With Economy at Crossroads",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T22:51:16.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-businessweek-daily-trump-taps-warsh-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-businessweek-daily-trump-taps-warsh-podcast",
+      "title": "Bloomberg Businessweek Daily: Trump Taps Warsh (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T22:51:06.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/trump-nominates-former-governor-kevin-warsh-to-lead-fed-big-take-podcast",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/trump-nominates-former-governor-kevin-warsh-to-lead-fed-big-take-podcast",
+      "title": "Trump Taps Former Fed Governor Kevin Warsh to Lead Central Bank",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T22:45:49.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/big-take-trump-taps-kevin-warsh-to-lead-fed-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/big-take-trump-taps-kevin-warsh-to-lead-fed-podcast",
+      "title": "Big Take: Trump Taps Kevin Warsh to Lead Fed (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T22:39:29.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-sandisk-microsoft-humana-podcast-ml1g7kqu",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-sandisk-microsoft-humana-podcast-ml1g7kqu",
+      "title": "Stock Movers: SanDisk, Microsoft, Humana (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T22:22:11.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/trump-targets-canada-with-plane-tariffs-decertification-threat",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/trump-targets-canada-with-plane-tariffs-decertification-threat",
+      "title": "Trump’s Jet Blast Sparks Confusion and Scrambling in Canada and US",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T22:19:28.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-sandisk-microsoft-humana-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-sandisk-microsoft-humana-podcast",
+      "title": "Stock Movers: SanDisk, Microsoft, Humana (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T22:18:54.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/gold-silver-plunge-reaction-to-warsh-senate-to-vote-on-funds",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/gold-silver-plunge-reaction-to-warsh-senate-to-vote-on-funds",
+      "title": "Gold, Silver Plunge, Reaction to Warsh, Senate to Vote on Funds",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T21:58:41.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/hedge-funds-rush-into-bullish-oil-bets-amid-iran-risk-us-freeze",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/hedge-funds-rush-into-bullish-oil-bets-amid-iran-risk-us-freeze",
+      "title": "Hedge Funds Rush Into Bullish Oil Bets Amid Iran Risk, US Freeze",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T21:56:09.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/fidelity-backed-ad-tech-platform-moloco-is-said-to-weigh-ipo",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/fidelity-backed-ad-tech-platform-moloco-is-said-to-weigh-ipo",
+      "title": "Fidelity-Backed Ad Tech Platform Moloco Is Said to Weigh IPO",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T21:39:34.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/balance-of-power-trump-taps-kevin-warsh-to-lead-fed-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/balance-of-power-trump-taps-kevin-warsh-to-lead-fed-podcast",
+      "title": "Balance of Power: Trump Taps Kevin Warsh To Lead Fed (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T21:27:15.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-deckers-sandisk-unity-software-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-deckers-sandisk-unity-software-podcast",
+      "title": "Stock Movers: Deckers, SanDisk, Unity Software (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T21:18:40.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/stocks-close-lower-gold-silver-sink-reaction-to-warsh-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/stocks-close-lower-gold-silver-sink-reaction-to-warsh-more",
+      "title": "Stocks Close Lower, Gold & Silver Sink, Reaction to Warsh, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T21:15:39.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-business-of-sports-liv-golf-to-sell-stakes-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-business-of-sports-liv-golf-to-sell-stakes-podcast",
+      "title": "Bloomberg Business of Sports: LIV Golf to Sell Stakes (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T21:03:51.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-talks-stephen-miran-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-talks-stephen-miran-podcast",
+      "title": "Bloomberg Talks: Stephen Miran (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T20:46:19.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-businessweek-weekend-january-30th-2026-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-businessweek-weekend-january-30th-2026-podcast",
+      "title": "Bloomberg Businessweek Weekend - January 30th, 2026 (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T20:33:23.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-sandisk-verizon-apple-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/stock-movers-sandisk-verizon-apple-podcast",
+      "title": "Stock Movers: Sandisk, Verizon, Apple (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T20:17:27.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/gold-silver-plunge-trump-warsh-wants-rate-cuts-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/gold-silver-plunge-trump-warsh-wants-rate-cuts-more",
+      "title": "Gold, Silver Plunge, Trump: Warsh Wants Rate Cuts, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T20:08:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/lots-more-with-skanda-amarnath-on-the-kevin-warsh-risk-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/lots-more-with-skanda-amarnath-on-the-kevin-warsh-risk-podcast",
+      "title": "Lots More With Skanda Amarnath on the Kevin Warsh Risk (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T19:47:41.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-30/power-engineering-firm-solv-seeks-512-5-million-in-us-ipo",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/power-engineering-firm-solv-seeks-512-5-million-in-us-ipo",
+      "title": "Power Engineering Firm Solv Seeks $512.5 Million in US IPO",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T19:45:55.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/more-epstein-files-gold-sinks-wall-street-reacts-to-warsh",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/more-epstein-files-gold-sinks-wall-street-reacts-to-warsh",
+      "title": "More Epstein Files, Gold Sinks, Wall Street Reacts to Warsh",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T19:14:05.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/masters-in-business-kate-burke-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/masters-in-business-kate-burke-podcast",
+      "title": "Masters in Business: Kate Burke (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T19:06:09.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-hot-pursuit-record-breaking-auto-auctions-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-hot-pursuit-record-breaking-auto-auctions-podcast",
+      "title": "Bloomberg Hot Pursuit: Record-Breaking Auto Auctions (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T18:49:58.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/what-software-stocks-are-telling-us-about-the-copper-boom",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/what-software-stocks-are-telling-us-about-the-copper-boom",
+      "title": "What Software Stocks Are Telling Us About the Copper Boom",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T18:45:31.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-tech-musk-empire-merger-possibility-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-tech-musk-empire-merger-possibility-podcast",
+      "title": "Bloomberg Tech: Musk Empire Merger Possibility (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T18:26:41.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/trump-warsh-wants-cuts-gold-sinks-more-epstein-files-released",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/trump-warsh-wants-cuts-gold-sinks-more-epstein-files-released",
+      "title": "Trump: Warsh Wants Cuts, Gold Sinks, More Epstein Files Released",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T18:24:28.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-intelligence-cost-fears-for-apple-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/bloomberg-intelligence-cost-fears-for-apple-podcast",
+      "title": "Bloomberg Intelligence: Cost Fears for Apple (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T18:21:23.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/-highguard-maker-wildlight-entertainment-talks-about-the-game-s-dramatic-launch",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/-highguard-maker-wildlight-entertainment-talks-about-the-game-s-dramatic-launch",
+      "title": "‘Highguard’ Maker Talks About the Game’s Dramatic Launch",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T18:00:01.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/newsletters/2026-01-30/allegra-stratton-less-stress-or-just-different-stress",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-30/allegra-stratton-less-stress-or-just-different-stress",
+      "title": "Allegra Stratton: Less Stress, or Just Different Stress?",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T17:45:09.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-30/single-best-idea-neil-dutta-claudia-sahm-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-30/single-best-idea-neil-dutta-claudia-sahm-podcast",
+      "title": "Single Best Idea: Neil Dutta & Claudia Sahm (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-30T17:45:08.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-30/mangione-death-penalty-charge-dropped-trump-picks-warsh-for-fed",
       "url": "https://www.bloomberg.com/news/audio/2026-01-30/mangione-death-penalty-charge-dropped-trump-picks-warsh-for-fed",
       "title": "Mangione Death Penalty Charge Dropped, Trump Picks Warsh for Fed",

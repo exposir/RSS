@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "8a8fe254-8261-4bec-b59c-68a97368f156",
+      "url": "https://www.smh.com.au/national/victoria/the-age-photos-of-the-week-january-31-2026-20260131-p5nyh7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The Age photos of the week, January 31, 2026",
+      "content_html": "The week in photos from our award-winning staff photographers and regular contributing photographers at The Age",
+      "content_text": "The week in photos from our award-winning staff photographers and regular contributing photographers at The Age",
+      "date_published": "2026-01-31T04:37:56.000Z"
+    },
+    {
+      "id": "0b9398a6-db1b-42c3-839d-b445dcabebff",
+      "url": "https://www.smh.com.au/sport/tennis/why-djokovic-shouldnt-retire-just-yet-20260131-p5nyik.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Why Djokovic shouldn't retire just yet",
+      "content_html": "Jelena Dokic weighs in on the future of Novak Djokovic amid calls by some for the grand slam champion to retire from the sport.",
+      "content_text": "Jelena Dokic weighs in on the future of Novak Djokovic amid calls by some for the grand slam champion to retire from the sport.",
+      "date_published": "2026-01-31T04:19:31.000Z"
+    },
+    {
       "id": "84ef67c9-b04e-43e3-ada0-b7d60a9a232c",
       "url": "https://www.smh.com.au/sport/tennis/australian-open-2026-live-updates-aussie-stars-in-doubles-final-rybakina-takes-up-the-fight-to-sabalenka-20260130-p5nydm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Australian Open 2026 LIVE updates: Aussie stars in doubles final; Rybakina takes the fight up to Sabalenka",
