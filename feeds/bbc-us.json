@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c20z4ze349jo#0",
+      "url": "https://www.bbc.com/news/articles/c20z4ze349jo?at_medium=RSS&at_campaign=rss",
+      "title": "Latest Epstein revelations dig even deeper hole for Andrew",
+      "content_html": "More unedifying pictures and words mean it doesn't get any better for Andrew Mountbatten-Windsor.",
+      "content_text": "More unedifying pictures and words mean it doesn't get any better for Andrew Mountbatten-Windsor.",
+      "date_published": "2026-01-31T14:54:27.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/videos/c5yvw9zq5q0o#2",
+      "url": "https://www.bbc.com/news/videos/c5yvw9zq5q0o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Frozen river hosts dance party in Kyiv",
+      "content_html": "Residents in the Ukrainian capital are finding joy in unusual places, despite power cuts caused by Russian attacks and freezing winter temperatures.",
+      "content_text": "Residents in the Ukrainian capital are finding joy in unusual places, despite power cuts caused by Russian attacks and freezing winter temperatures.",
+      "date_published": "2026-01-31T14:45:15.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/cp9jev077j3o#8",
       "url": "https://www.bbc.com/sport/football/articles/cp9jev077j3o?at_medium=RSS&at_campaign=rss",
       "title": "Forest agree Ortega deal and target Inter's Frattesi",

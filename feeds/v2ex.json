@@ -17,6 +17,54 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189808",
+      "url": "https://www.v2ex.com/t/1189808#reply0",
+      "title": "[职场话题] 某东就是这样招人的吗？",
+      "content_html": "贴主最近投了某东一个岗位信息 20k*19 的岗位，面完谈薪，给了个 10k ，一顿说 19 薪，我真后悔把自己薪资啥的信息给过去，HR 到底有没有这个权利在给 offer 之前套薪资信息套对方公司运作模式的信息？我甚至觉得这个都违法。拉了个 10k 在我手上😅一把直接好感败完了，狗东。",
+      "content_text": "贴主最近投了某东一个岗位信息 20k*19 的岗位，面完谈薪，给了个 10k ，一顿说 19 薪，我真后悔把自己薪资啥的信息给过去，HR 到底有没有这个权利在给 offer 之前套薪资信息套对方公司运作模式的信息？我甚至觉得这个都违法。拉了个 10k 在我手上😅一把直接好感败完了，狗东。",
+      "date_published": "2026-01-31T15:15:57.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189807",
+      "url": "https://www.v2ex.com/t/1189807#reply0",
+      "title": "[分享创造] 自媒体吹牛的太多了,现阶段 AI 能力边界?,AI 到底能干啥? 做了个专门说这事的博客有戏吗?",
+      "content_html": "<p>最近自己整理 AI 相关信息时，发现一个问题：</p>\n<p>关于 AI 到底 能干啥 不能干啥，信息差实在太大</p>\n<p>俺也一直认为 现阶段弄清楚 ai 的能力边界 必整天搜集 api 重要的多(都是咕噜咕噜害的)</p>\n<p>很多内容要么是 demo ，要么是营销，很少有人讲清楚能力边界这回事</p>\n<p>所以自己搭了一个小博客 <a href=\"http://aiya.de5.net\" rel=\"nofollow\">aiya.de5.net</a> ，就很简单俩模块吧 aiok 就是能的 aiya 就是哎呀拉跨的\n定位很简单：不谈未来不卖课，只记录当下 AI 的真实能力边界和价格。</p>\n<p>也搭了公益站 api 正在慢慢接入</p>\n<p>不是教程站，也不卖课，只是希望把踩过的坑和真实数据留下来 只记录 ai 干啥很快干成了 干啥拉胯了</p>\n<p>如果你也在折腾 AI / workflow ，欢迎来看看或补充信息</p>\n<p>刚建好 抛砖引玉下今天晚上用 ai 一句话做的事:</p>\n<p><img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/cDBNLv4.png\"/></p>",
+      "content_text": "最近自己整理 AI 相关信息时，发现一个问题：\n关于 AI 到底 能干啥 不能干啥，信息差实在太大\n俺也一直认为 现阶段弄清楚 ai 的能力边界 必整天搜集 api 重要的多(都是咕噜咕噜害的)\n很多内容要么是 demo ，要么是营销，很少有人讲清楚能力边界这回事\n所以自己搭了一个小博客 aiya.de5.net ，就很简单俩模块吧 aiok 就是能的 aiya 就是哎呀拉跨的\n定位很简单：不谈未来不卖课，只记录当下 AI 的真实能力边界和价格。\n也搭了公益站 api 正在慢慢接入\n不是教程站，也不卖课，只是希望把踩过的坑和真实数据留下来 只记录 ai 干啥很快干成了 干啥拉胯了\n如果你也在折腾 AI / workflow ，欢迎来看看或补充信息\n刚建好 抛砖引玉下今天晚上用 ai 一句话做的事:",
+      "date_published": "2026-01-31T15:11:31.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189806",
+      "url": "https://www.v2ex.com/t/1189806#reply0",
+      "title": "[信息安全] 飞牛这个漏洞 POC 太容易了啊",
+      "content_html": "打开 FN Connect 随便输入一个 id ，只要撞上了能打开登录页，加上<br /><br />/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../<br /><br />直接就到 /了啊<br /><br />太离谱了",
+      "content_text": "打开 FN Connect 随便输入一个 id ，只要撞上了能打开登录页，加上/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../直接就到 /了啊太离谱了",
+      "date_published": "2026-01-31T15:11:29.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189805",
+      "url": "https://www.v2ex.com/t/1189805#reply13",
+      "title": "[程序员] 昨天在 reddit 上发了个开源插件介绍，被骂了。",
+      "content_html": "<p>插件基本是 vibe coding ，包括 github action 等配套，当然发的帖子也是 ai 写的。因为小插件，不浪费 tokens （主要是穷），用了 trae 免费版（此处不是广）。</p>\n<p>帖子初期反响还可以，直到收到了一条评论：<code>I can't Read the AI posts anymore it feel so pointless and empty</code></p>\n<p>然后就崩了，他的点赞蹭蹭蹭往上涨，但帖子点赞跌到 0 ，然后帖子被版主删了。</p>\n<p>我们有在帖子下讨论，他的观点：</p>\n<blockquote>\n<p>Sadly after reading soo many posts and going though soo many repos of new plug-ins it is tiring. I do software for a living. All theese projects have in common is bad practices, bad maintainability and so much more. If it's something people need and rely on but for the creator it's just an afternoon project wich is easily abandoned it leads to bad faith in the software. Maintaining a project is time intensive. If a new version of obsidian breaks the plug-in but the maintainer nolonger does any work it leads to many sad users.</p>\n</blockquote>\n<blockquote>\n<p>Additionally I have no faith in the software delivered. It could have a major exploit ore be harmful, even if not intentionally. But not be found because the maintainer has no clue how the code actually works.</p>\n</blockquote>\n<blockquote>\n<p>Good things take time. It takes so much time to test and make sure the program is reliable that I doubt any project I see with is vibe coded.</p>\n</blockquote>\n<blockquote>\n<p>The AI has glaring flaws if you know the subject you're using it for. But if you're not knowledgeable it all looks correct but really is full of half truths.</p>\n</blockquote>\n<p>大致意思就是 ai 写的代码粗制滥造，并且容易弃更、以及未知的漏洞。最后说的行内人一看就知道是 ai 写的，外行人就半信半疑（我也是靠翻译的，不确定是不是这个意思）。</p>\n<p>我给他回的观点：</p>\n<blockquote>\n<p>AI 是工具，消除了阶级，不对等的问题，以至于普通人也能制作自己的工具，减少了时间和成本，而且对于普通软件来讲，够用了就行。至于担心维护问题，这个插件本来就是开源的，克隆下来在自己 ai 修改下就行了呗。当然我也反对在高风险项目中使用没有 reveiw 的代码（至少要加一层保障）。</p>\n</blockquote>\n<p>随后帖子被删了，我没有再回复了。</p>\n<p>想问下大家对 ai 写代码是什么看法？为什么感觉有很大一部分人厌恶 vibe coding ？</p>",
+      "content_text": "插件基本是 vibe coding ，包括 github action 等配套，当然发的帖子也是 ai 写的。因为小插件，不浪费 tokens （主要是穷），用了 trae 免费版（此处不是广）。\n帖子初期反响还可以，直到收到了一条评论：I can't Read the AI posts anymore it feel so pointless and empty\n然后就崩了，他的点赞蹭蹭蹭往上涨，但帖子点赞跌到 0 ，然后帖子被版主删了。\n我们有在帖子下讨论，他的观点：\n\nSadly after reading soo many posts and going though soo many repos of new plug-ins it is tiring. I do software for a living. All theese projects have in common is bad practices, bad maintainability and so much more. If it's something people need and rely on but for the creator it's just an afternoon project wich is easily abandoned it leads to bad faith in the software. Maintaining a project is time intensive. If a new version of obsidian breaks the plug-in but the maintainer nolonger does any work it leads to many sad users.\n\n\nAdditionally I have no faith in the software delivered. It could have a major exploit ore be harmful, even if not intentionally. But not be found because the maintainer has no clue how the code actually works.\n\n\nGood things take time. It takes so much time to test and make sure the program is reliable that I doubt any project I see with is vibe coded.\n\n\nThe AI has glaring flaws if you know the subject you're using it for. But if you're not knowledgeable it all looks correct but really is full of half truths.\n\n大致意思就是 ai 写的代码粗制滥造，并且容易弃更、以及未知的漏洞。最后说的行内人一看就知道是 ai 写的，外行人就半信半疑（我也是靠翻译的，不确定是不是这个意思）。\n我给他回的观点：\n\nAI 是工具，消除了阶级，不对等的问题，以至于普通人也能制作自己的工具，减少了时间和成本，而且对于普通软件来讲，够用了就行。至于担心维护问题，这个插件本来就是开源的，克隆下来在自己 ai 修改下就行了呗。当然我也反对在高风险项目中使用没有 reveiw 的代码（至少要加一层保障）。\n\n随后帖子被删了，我没有再回复了。\n想问下大家对 ai 写代码是什么看法？为什么感觉有很大一部分人厌恶 vibe coding ？",
+      "date_published": "2026-01-31T14:57:16.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189804",
+      "url": "https://www.v2ex.com/t/1189804#reply1",
+      "title": "[生活] 兄弟们 我超了刚刚在外面蒸桑拿差点晕过去",
+      "content_html": "<h2>实际当时感觉快死了</h2>\n<h2>泡了半小时,蒸桑拿整了半个小时,擦擦出来冷风一吹,卧槽了,头不知道怎么形容晕,感觉血液往头上涌,当时马上想到脑溢血三个字,眼冒金星,耳朵听不见,我整个人撑着不敢动,坐下缓了有一分钟.</h2>\n<h2>我擦干净出来的,就一分钟满头大汗.坐的凳子上全是汗水,当时第一时间想到家里 12 个 t 的黄片被家人发现怎么办 哈哈</h2>\n<h2>还好最后缓过来了,主要是小时候有个同学老妈就是在澡堂洗澡死的,真的怕</h2>\n<h2>脑溢血我记得只要出现,就死不可再生的神经细胞,就算救回来人基本也要歪嘴斜眼</h2>\n<h2>.....</h2>\n<h2>兄弟们洗澡小心了,建议洗完冲凉慢慢降温到体温再出来,尤其是咱们不运动的 coder,小命要紧,over</h2>",
+      "content_text": "实际当时感觉快死了\n泡了半小时,蒸桑拿整了半个小时,擦擦出来冷风一吹,卧槽了,头不知道怎么形容晕,感觉血液往头上涌,当时马上想到脑溢血三个字,眼冒金星,耳朵听不见,我整个人撑着不敢动,坐下缓了有一分钟.\n我擦干净出来的,就一分钟满头大汗.坐的凳子上全是汗水,当时第一时间想到家里 12 个 t 的黄片被家人发现怎么办 哈哈\n还好最后缓过来了,主要是小时候有个同学老妈就是在澡堂洗澡死的,真的怕\n脑溢血我记得只要出现,就死不可再生的神经细胞,就算救回来人基本也要歪嘴斜眼\n.....\n兄弟们洗澡小心了,建议洗完冲凉慢慢降温到体温再出来,尤其是咱们不运动的 coder,小命要紧,over",
+      "date_published": "2026-01-31T14:55:16.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189802",
+      "url": "https://www.v2ex.com/t/1189802#reply0",
+      "title": "[远程工作] [全职远程] 招聘 Python 工程师",
+      "content_html": "<p>因项目需要招聘 Python 软件工程师，具体要求如下：</p>\n<p><strong>任职要求</strong></p>\n<ul>\n<li>沟通主动积极，有良好的职业素养、工作习惯和团队意识</li>\n<li>有良好的英语读写能力（基本的读写是必要的，用于阅读、书写英文文档）</li>\n<li>4 年以上 Python 开发经验，有性能敏感型应用开发背景</li>\n<li>精通 Python 3.x 及科学计算栈（ NumPy 、Pandas 、SciPy ）</li>\n<li>熟悉高性能 Python 技术：Cython 、向量化、多进程、内存优化等</li>\n<li>深入理解时序数据处理与大规模数据分析</li>\n<li>有 FastAPI 或 Flask 等现代 Web 框架的生产级 API 开发经验</li>\n<li>熟练使用 SQL/NoSQL 数据库（如 PostgreSQL 、TimescaleDB 、MongoDB 、Redis ）</li>\n<li>扎实的 Linux/Unix 能力，有分布式系统经验</li>\n<li>熟悉 Git 、CI/CD 流程及 DevOps 实践</li>\n<li>计算机、工程、数学、物理或相关专业本科及以上学历</li>\n</ul>\n<p><strong>优先考虑</strong></p>\n<ul>\n<li>有高频交易、做市、算法交易或电子交易平台经验</li>\n<li>熟悉金融协议（ FIX 、FAST 、ITCH ）或交易所 API</li>\n<li>使用过 Kafka 、RabbitMQ 、ZeroMQ 等消息中间件</li>\n<li>了解订单簿结构、行情标准化及衍生指标计算</li>\n<li>有数据可视化经验（ Plotly 、Dash 、Grafana 、Tableau ）</li>\n<li>熟悉 Docker 容器化与 Kubernetes 编排</li>\n<li>了解网络协议，能使用 Wireshark/tcpdump 分析数据包</li>\n<li>有通过 ctypes 、CFFI 或 pybind11 集成 C/C++ 的经验</li>\n</ul>\n<p>薪资面议</p>\n<p>WX base64：dG9ueWNoZW5j</p>",
+      "content_text": "因项目需要招聘 Python 软件工程师，具体要求如下：\n任职要求\n\n沟通主动积极，有良好的职业素养、工作习惯和团队意识\n有良好的英语读写能力（基本的读写是必要的，用于阅读、书写英文文档）\n4 年以上 Python 开发经验，有性能敏感型应用开发背景\n精通 Python 3.x 及科学计算栈（ NumPy 、Pandas 、SciPy ）\n熟悉高性能 Python 技术：Cython 、向量化、多进程、内存优化等\n深入理解时序数据处理与大规模数据分析\n有 FastAPI 或 Flask 等现代 Web 框架的生产级 API 开发经验\n熟练使用 SQL/NoSQL 数据库（如 PostgreSQL 、TimescaleDB 、MongoDB 、Redis ）\n扎实的 Linux/Unix 能力，有分布式系统经验\n熟悉 Git 、CI/CD 流程及 DevOps 实践\n计算机、工程、数学、物理或相关专业本科及以上学历\n\n优先考虑\n\n有高频交易、做市、算法交易或电子交易平台经验\n熟悉金融协议（ FIX 、FAST 、ITCH ）或交易所 API\n使用过 Kafka 、RabbitMQ 、ZeroMQ 等消息中间件\n了解订单簿结构、行情标准化及衍生指标计算\n有数据可视化经验（ Plotly 、Dash 、Grafana 、Tableau ）\n熟悉 Docker 容器化与 Kubernetes 编排\n了解网络协议，能使用 Wireshark/tcpdump 分析数据包\n有通过 ctypes 、CFFI 或 pybind11 集成 C/C++ 的经验\n\n薪资面议\nWX base64：dG9ueWNoZW5j",
+      "date_published": "2026-01-31T14:51:01.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189800",
       "url": "https://www.v2ex.com/t/1189800#reply0",
       "title": "[路由器] [请教] 软路由 passwall 和 ipv6 的问题",

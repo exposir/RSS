@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/obituaries/morris-waxler-dead.html",
+      "url": "https://www.nytimes.com/2026/01/31/obituaries/morris-waxler-dead.html",
+      "title": "Morris Waxler, F.D.A. Official Who Switched Stance on Lasik, Dies at 88",
+      "content_html": "While at the federal agency, he approved the laser device for eye surgery but later warned of its potential to cause harm.",
+      "content_text": "While at the federal agency, he approved the laser device for eye surgery but later warned of its potential to cause harm.",
+      "date_published": "2026-01-31T14:56:50.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/health/parents-teens-social-life.html",
       "url": "https://www.nytimes.com/2026/01/31/health/parents-teens-social-life.html",
       "title": "A Predictor of a Good Social Life? Your Parents.",
