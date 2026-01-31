@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/golf/articles/ckgxv4ddpewo#8",
+      "url": "https://www.bbc.com/sport/golf/articles/ckgxv4ddpewo?at_medium=RSS&at_campaign=rss",
+      "title": "Rose four clear as Koepka makes cut on PGA return",
+      "content_html": "England's Justin Rose shoots a seven-under-par 65 to extend his lead to four shots at the Farmers Insurance Open while returning Brooks Koepka made the cut.",
+      "content_text": "England's Justin Rose shoots a seven-under-par 65 to extend his lead to four shots at the Farmers Insurance Open while returning Brooks Koepka made the cut.",
+      "date_published": "2026-01-31T07:50:13.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c75xg17rr1xo#2",
+      "url": "https://www.bbc.com/news/articles/c75xg17rr1xo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainians brace for -20C despite energy truce: 'It will be a catastrophe'",
+      "content_html": "Already facing electricity cuts, civilians are struggling to keep warm in their own homes as temperatures are set to plummet.",
+      "content_text": "Already facing electricity cuts, civilians are struggling to keep warm in their own homes as temperatures are set to plummet.",
+      "date_published": "2026-01-31T07:47:58.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/tennis/articles/ce3eqkz1nl0o#8",
       "url": "https://www.bbc.com/sport/tennis/articles/ce3eqkz1nl0o?at_medium=RSS&at_campaign=rss",
       "title": "GB's Skupski wins Australian Open doubles title",
@@ -46,12 +62,28 @@
       "date_published": "2026-01-31T06:09:39.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c74vgz1n0w2o#2",
+      "url": "https://www.bbc.com/news/articles/c74vgz1n0w2o?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Epstein invited to Palace' and 'I have Russian friend for you'",
+      "content_html": "Revelations from newly released documents related to Jeffrey Epstein dominate Saturday's papers.",
+      "content_text": "Revelations from newly released documents related to Jeffrey Epstein dominate Saturday's papers.",
+      "date_published": "2026-01-31T05:26:25.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/ce8rk33dpvmo#0",
       "url": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
       "title": "US government partially shuts down despite last minute funding deal",
       "content_html": "The soonest the US House of Representatives can vote on the funding deal and end the shutdown is Monday.",
       "content_text": "The soonest the US House of Representatives can vote on the funding deal and end the shutdown is Monday.",
       "date_published": "2026-01-31T05:10:27.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c78vgnz3z6eo#2",
+      "url": "https://www.bbc.com/news/articles/c78vgnz3z6eo?at_medium=RSS&at_campaign=rss",
+      "title": "US cities hold anti-ICE protests during nationwide day of action ",
+      "content_html": "Demonstrations were held to protest the fatal shootings of Renee Good and Alex Pretti by federal agents in Minneapolis.",
+      "content_text": "Demonstrations were held to protest the fatal shootings of Renee Good and Alex Pretti by federal agents in Minneapolis.",
+      "date_published": "2026-01-31T04:27:58.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c78vgnz3z6eo#0",
@@ -68,6 +100,14 @@
       "content_html": "Melania, directed by Brett Ratner, provides a fleeting glimpse into the life of the enigmatic first lady.",
       "content_text": "Melania, directed by Brett Ratner, provides a fleeting glimpse into the life of the enigmatic first lady.",
       "date_published": "2026-01-31T03:03:31.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cg4ewrw2drpo#2",
+      "url": "https://www.bbc.com/news/articles/cg4ewrw2drpo?at_medium=RSS&at_campaign=rss",
+      "title": "'I spoke to ChatGPT 8 times a day' - Gen Z's loneliness 'crisis'",
+      "content_html": "AI chatbots are being used as 'surrogate friends' by young people who have lost the ability to socialise.",
+      "content_text": "AI chatbots are being used as 'surrogate friends' by young people who have lost the ability to socialise.",
+      "date_published": "2026-01-31T02:39:24.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cg4ewrw2drpo#0",
@@ -124,6 +164,14 @@
       "content_html": "Revelations from newly released documents related to Jeffrey Epstein dominate Saturday's papers.",
       "content_text": "Revelations from newly released documents related to Jeffrey Epstein dominate Saturday's papers.",
       "date_published": "2026-01-31T01:42:40.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/czr4jn4621lo#2",
+      "url": "https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss",
+      "title": "Schitt's Creek and Home Alone star Catherine O'Hara dies aged 71",
+      "content_html": "The Emmy-winning actress died at her home in Los Angeles on Friday after a brief illness, her agent said.",
+      "content_text": "The Emmy-winning actress died at her home in Los Angeles on Friday after a brief illness, her agent said.",
+      "date_published": "2026-01-31T01:30:06.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c24gm3dz36po#2",
@@ -294,6 +342,14 @@
       "date_published": "2026-01-30T22:01:47.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c3r10n94jxro#2",
+      "url": "https://www.bbc.com/news/articles/c3r10n94jxro?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Mason: What Starmer's China reset tells us about his foreign policy",
+      "content_html": "The prime minister has set out his vision - and now begun to match it with actions and overseas visits.",
+      "content_text": "The prime minister has set out his vision - and now begun to match it with actions and overseas visits.",
+      "date_published": "2026-01-30T21:38:44.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c3r10n94jxro#0",
       "url": "https://www.bbc.com/news/articles/c3r10n94jxro?at_medium=RSS&at_campaign=rss",
       "title": "Chris Mason: What Starmer's China reset tells us about his foreign policy",
@@ -388,6 +444,22 @@
       "content_html": "She says raising the case of campaigner Jimmy Lai is more important than lifting sanctions against her.",
       "content_text": "She says raising the case of campaigner Jimmy Lai is more important than lifting sanctions against her.",
       "date_published": "2026-01-30T19:12:17.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c87r2700dq8o#2",
+      "url": "https://www.bbc.com/news/articles/c87r2700dq8o?at_medium=RSS&at_campaign=rss",
+      "title": "Three reasons for the record rise in gold prices, and one why they are falling",
+      "content_html": "Gold has fallen from recent highs but there are several reasons investors are still finding refuge in the precious metal.",
+      "content_text": "Gold has fallen from recent highs but there are several reasons investors are still finding refuge in the precious metal.",
+      "date_published": "2026-01-30T19:11:23.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c3wz49z6gyyo#2",
+      "url": "https://www.bbc.com/news/articles/c3wz49z6gyyo?at_medium=RSS&at_campaign=rss",
+      "title": "This tiny Australian town is up for sale - but the locals don't want to leave",
+      "content_html": "Residents say the sale of Licola - population, five - jeopardises its future.",
+      "content_text": "Residents say the sale of Licola - population, five - jeopardises its future.",
+      "date_published": "2026-01-30T19:02:00.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c3wz49z6gyyo#1",

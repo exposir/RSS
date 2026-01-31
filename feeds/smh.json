@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "b3fce3ce-d177-4688-a746-bd41514d677b",
+      "url": "https://www.smh.com.au/sport/mjf-is-pro-wrestling-s-scumbag-champ-and-wouldn-t-have-it-any-other-way-20260130-p5nye5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "MJF is pro wrestling’s scumbag champ and wouldn’t have it any other way",
+      "content_html": "The AEW world champion heads Down Under for the first time for two major events and speaks about Aussie fans vs. US fans, his Jewish heritage and – almost – learns about State of Origin.",
+      "content_text": "The AEW world champion heads Down Under for the first time for two major events and speaks about Aussie fans vs. US fans, his Jewish heritage and – almost – learns about State of Origin.",
+      "date_published": "2026-01-31T08:03:20.000Z"
+    },
+    {
+      "id": "ed51aa90-586b-4902-9dec-bc1a33c2fbba",
+      "url": "https://www.smh.com.au/national/victoria/this-suburb-s-residents-fight-for-their-last-patch-of-undeveloped-open-space-20260128-p5nxk9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "This suburb’s residents fight for their last patch of undeveloped open space",
+      "content_html": "Two councils and more than 100 residents have teamed up to block a proposal to turn Point Cook’s last major undeveloped site into an industrial park.",
+      "content_text": "Two councils and more than 100 residents have teamed up to block a proposal to turn Point Cook’s last major undeveloped site into an industrial park.",
+      "date_published": "2026-01-31T08:00:00.000Z"
+    },
+    {
+      "id": "b2149762-4b16-408c-a721-1340284bbff6",
+      "url": "https://www.smh.com.au/national/victoria/i-feel-like-everything-s-changed-kids-in-bushfire-ravaged-victoria-are-returning-to-school-20260131-p5nyhg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘I feel like everything’s changed’: Kids in bushfire-ravaged Victoria are returning to school",
+      "content_html": "In many blackened towns, families are still putting out fires, mourning euthanised farm animals and defending their homes as preppies and school kids prepare for their first days of school on Monday.",
+      "content_text": "In many blackened towns, families are still putting out fires, mourning euthanised farm animals and defending their homes as preppies and school kids prepare for their first days of school on Monday.",
+      "date_published": "2026-01-31T07:56:33.000Z"
+    },
+    {
+      "id": "c22cfeba-298b-49b0-89a9-bdd9795dae3c",
+      "url": "https://www.smh.com.au/national/violent-brawl-takes-over-adelaide-street-20260131-p5nyj6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Violent brawl takes over Adelaide street",
+      "content_html": "Residents of a beachside Adelaide suburb have been forced to lock themselves inside their homes to avoid a violent brawl that broke out on their street.",
+      "content_text": "Residents of a beachside Adelaide suburb have been forced to lock themselves inside their homes to avoid a violent brawl that broke out on their street.",
+      "date_published": "2026-01-31T07:53:25.000Z"
+    },
+    {
       "id": "ca2d7d4f-8944-44b0-8e48-5c2effe6169d",
       "url": "https://www.smh.com.au/national/australian-open-womens-final-tonight-20260131-p5nyj3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Australian Open women's final tonight",
