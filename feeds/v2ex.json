@@ -17,6 +17,142 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189717",
+      "url": "https://www.v2ex.com/t/1189717#reply0",
+      "title": "[问与答] AirPods Pro1 耳机盒充不了电了， 能否买个华强北的用一下？",
+      "content_html": "1. 在公司充电耳机盒经常从工位上掉下来， 昨天想充电发现耳机盒不亮灯了； 打开盒子也不亮灯， 充电也充不进去； 大概率就是摔坏了。 <br />2. 请教一下， 能否买个华强北的， 主要是用人家的耳机盒；不知这个方案是否可行？<br /><br />分享下查耳机盒的型号，我的是 A2190  <br /><a target=\"_blank\" href=\"https://support.apple.com/zh-cn/109525\" rel=\"nofollow noopener\">https://support.apple.com/zh-cn/109525</a>",
+      "content_text": "1. 在公司充电耳机盒经常从工位上掉下来， 昨天想充电发现耳机盒不亮灯了； 打开盒子也不亮灯， 充电也充不进去； 大概率就是摔坏了。 2. 请教一下， 能否买个华强北的， 主要是用人家的耳机盒；不知这个方案是否可行？分享下查耳机盒的型号，我的是 A2190  https://support.apple.com/zh-cn/109525",
+      "date_published": "2026-01-31T03:55:46.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189716",
+      "url": "https://www.v2ex.com/t/1189716#reply0",
+      "title": "[程序员] 我做了一个本地 AI 搜索工具，今天正式开源了！",
+      "content_html": "<h1>前言</h1>\n<p>花了一段时间，我终于把<strong>小遥搜索 XiaoyaoSearch</strong>做出来了。\n这是一个支持语音、文本、图片多模态输入的本地 AI 搜索桌面应用。最特别的是，它<strong>100%通过 Vibe Coding （ AI 辅助编程）实现</strong>，从零开始，所有源码、设计文档、开发经验，今天全部开源。</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://github.com/dtsola/xiaoyaosearch/blob/main/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/%E5%BA%94%E7%94%A8%E6%88%AA%E5%9B%BE/%E5%B0%8F%E9%81%A5%E6%90%9C%E7%B4%A2.png?raw=true\"/></p>\n<h1>为什么要做这个工具？</h1>\n<p>作为知识工作者，我经常遇到这些痛点：\n● 文件太多找不到：电脑里存了成千上万个文档、图片、音视频，想找个特定内容翻半天\n● 搜索不够智能：系统自带的搜索只能匹配文件名，搜不到文件内容\n● 隐私安全担忧：很多搜索工具要上传数据到云端，不太放心\n● AI 工具太复杂：想用 AI 提升效率，但不会配置，门槛太高\n所以我就想：能不能做一个本地运行的、支持多种输入方式的 AI 搜索工具？</p>\n<h1>小遥搜索是什么？</h1>\n<p>简单来说，它是一个本地 AI 搜索桌面应用，核心特点：</p>\n<p>🎤 多模态输入\n● 语音搜索：点一下录音，说出你要找的内容，30 秒内语音自动转文字搜索\n● 文本搜索：输入关键词，AI 理解语义，精准匹配文件内容\n● 图片搜索：上传一张图片，AI 理解图像内容，帮你搜索相关文件</p>\n<p>🔍 深度检索\n● 文档：TXT 、Markdown 、Word 、Excel 、PPT 、PDF 全文检索\n● 音视频：MP4 、AVI 、MP3 、WAV 内容索引和搜索（支持 10 分钟内音视频字幕提取）\n● 文件名：传统的文件名搜索也不缺席</p>\n<p>🧠 AI 技术\n集成了多个先进 AI 模型：\n● BGE-M3：文本嵌入，理解语义\n● FasterWhisper：语音识别，语音转文字\n● CN-CLIP：图像理解，以图搜图\n● Ollama：本地大语言模型</p>\n<p>🔒 隐私安全\n● 完全本地：所有数据处理都在本地，不上传云端\n● 隐私模式：可选不记录搜索历史\n● 自主可控：数据完全由你自己掌控</p>\n<h1>核心界面一览</h1>\n<h2>搜索主界面</h2>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://github.com/dtsola/xiaoyaosearch/blob/main/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/%E5%BA%94%E7%94%A8%E6%88%AA%E5%9B%BE/%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2-%E4%B8%BB%E7%95%8C%E9%9D%A2.png?raw=true\"/></p>\n<h2>文本搜索</h2>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://github.com/dtsola/xiaoyaosearch/blob/main/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/%E5%BA%94%E7%94%A8%E6%88%AA%E5%9B%BE/%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2-%E6%96%87%E6%9C%AC%E6%90%9C%E7%B4%A2.png?raw=true\"/></p>\n<h2>语音搜索</h2>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://github.com/dtsola/xiaoyaosearch/blob/main/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/%E5%BA%94%E7%94%A8%E6%88%AA%E5%9B%BE/%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2-%E8%AF%AD%E9%9F%B3%E6%90%9C%E7%B4%A2.png?raw=true\"/></p>\n<h2>图片搜索</h2>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://github.com/dtsola/xiaoyaosearch/blob/main/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/%E5%BA%94%E7%94%A8%E6%88%AA%E5%9B%BE/%E6%90%9C%E7%B4%A2%E7%95%8C%E9%9D%A2-%E5%9B%BE%E7%89%87%E6%90%9C%E7%B4%A2.png?raw=true\"/></p>\n<h1>技术架构</h1>\n<p>前端：Electron + Vue 3 + TypeScript\n后端：Python 3.10 + FastAPI\nAI 引擎：BGE-M3 + FasterWhisper + CN-CLIP + Ollama\n搜索：Faiss （向量搜索）+ Whoosh （全文搜索）\n数据库：SQLite\n系统架构图</p>\n<h1>Vibe Coding 实践案例</h1>\n<p>这是我特别想分享的部分。\n这个项目从零开始，完全通过 Vibe Coding 实现，包括：</p>\n<p>● ✅ 完整源代码（前端 + 后端 + 所有功能模块）\n● ✅ 设计文档（ PRD 、技术方案、数据库设计、API 文档）\n● ✅ 开发流程（任务分解、进度跟踪、测试验证）\n● ✅ 部署配置（环境搭建、依赖管理、打包发布）\n开源的价值：对于想要学习 AI 辅助开发、本地 AI 应用、Electron 桌面应用的开发者，这是一个完整的参考实现。</p>\n<h1>产品路线图</h1>\n<p>当前版本（ v1.1.1 ）✅\n● 多模态 AI 搜索（语音、文本、图片）\n● 本地文件深度检索\n● AI 模型灵活配置\n● 隐私安全保护</p>\n<h2>未来规划</h2>\n<p>🚀 微内核架构演进\n插件化系统，支持自定义扩展</p>\n<p>🌐 多数据源扩展\n● 文档协作平台（语雀、飞书、Notion ）\n● 项目管理平台（ Jira 、禅道、GitHub ）\n● 实时同步和智能缓存</p>\n<p>🎬 音视频搜索增强\n● 视频画面内容理解和搜索\n● 长视频处理（集成水母平台）\n● 音频声纹识别和情感分析</p>\n<p>🧠 RAG 系统升级\n● 自适应分块算法\n● 知识图谱构建\n● 检索结果智能增强</p>\n<p>💬 智能聊天助手\n● 多轮对话和上下文记忆\n● 基于本地知识库的问答</p>\n<p>🔌 MCP 能力集成\n连接 Claude 生态，扩展 AI 能力\n详细路线图：<a href=\"https://github.com/dtsola/xiaoyaosearch/blob/main/ROADMAP.md\" rel=\"nofollow\">ROADMAP.md</a></p>\n<h1>适合谁使用？</h1>\n<p>知识工作者\n搜索本地文档、笔记、研究报告，快速定位关键信息\n内容创作者\n搜索素材和灵感，整理音视频内容，管理创作资源\n技术开发者\n搜索代码库和技术文档，整理学习资料，管理项目文件\n研究人员\n搜索论文和研究资料，整理文献笔记，管理研究数据</p>\n<h1>邀请你参与</h1>\n<p>为什么需要你？\n一个人的力量有限，开源社区的力量是无限的！\n优先贡献方向</p>\n<ol>\n<li>插件系统开发（高优先级）\n○ 设计插件接口规范\n○ 实现插件加载机制</li>\n<li>多数据源连接器（高优先级）\n○ 语雀、飞书、Notion API 集成</li>\n<li>UI/UX 优化（中优先级）\n○ 搜索结果展示优化\n○ 暗色模式支持</li>\n<li>性能优化（中优先级）\n○ 大文件处理优化\n○ 索引构建速度提升</li>\n<li>测试覆盖（中优先级）\n○ 单元测试补充\n○ 集成测试完善</li>\n</ol>\n<h1>项目地址</h1>\n<p>GitHub：<a href=\"https://github.com/dtsola/xiaoyaosearch\" rel=\"nofollow\">https://github.com/dtsola/xiaoyaosearch</a></p>\n<p>欢迎：\n● ⭐️ Star 本项目，关注最新进展\n● 🍴 Fork 本项目，开始你的贡献\n● 👀 Watch 本项目，及时获取更新\n● 🐛 提 Issue ，报告问题和建议功能\n● 💡 参与讨论，分享你的想法</p>\n<h1>关于我</h1>\n<p>dtsola - IT 解决方案架构师 | 一人公司实践者</p>\n<p>● 网站：<a href=\"https://www.dtsola.com\" rel=\"nofollow\">https://www.dtsola.com</a></p>\n<p>● B 站：<a href=\"https://space.bilibili.com/736015\" rel=\"nofollow\">https://space.bilibili.com/736015</a></p>\n<h1>开源协议</h1>\n<p>本项目采用小遥搜索软件授权协议：</p>\n<p>● ✅ 免费使用（非商业用途）\n● ✅ 可以学习和研究代码\n● ✅ 可以修改后二次分发（需保留版权声明和协议）\n● ✅ 可以集成到其他非商业项目\n● ❌ 商业使用需授权</p>\n<p>这是一个类似 CC-BY-NC-SA 的开源协议，鼓励学习、分享和贡献！\n详细协议：<a href=\"https://github.com/dtsola/xiaoyaosearch/blob/main/LICENSE\" rel=\"nofollow\">LICENSE</a></p>\n<h1>结语</h1>\n<p>小遥搜索是我对本地 AI 搜索工具的一次探索和实践，也是 Vibe Coding 的完整案例展示。\n我相信，开源社区的力量会让这个项目变得更好。\n无论你是：\n● 🔨 想要贡献代码的开发者\n● 💡 想要提供建议的产品经理\n● 📖 想要学习 AI 应用的学生\n● 🚀 想要参与创业的伙伴</p>\n<p>都欢迎加入我们，一起打造更好的本地 AI 搜索工具！\n让我们一起，用 AI 技术改变知识管理方式！ 🚀</p>",
+      "content_text": "前言\n花了一段时间，我终于把小遥搜索 XiaoyaoSearch做出来了。\n这是一个支持语音、文本、图片多模态输入的本地 AI 搜索桌面应用。最特别的是，它100%通过 Vibe Coding （ AI 辅助编程）实现，从零开始，所有源码、设计文档、开发经验，今天全部开源。\n\n为什么要做这个工具？\n作为知识工作者，我经常遇到这些痛点：\n● 文件太多找不到：电脑里存了成千上万个文档、图片、音视频，想找个特定内容翻半天\n● 搜索不够智能：系统自带的搜索只能匹配文件名，搜不到文件内容\n● 隐私安全担忧：很多搜索工具要上传数据到云端，不太放心\n● AI 工具太复杂：想用 AI 提升效率，但不会配置，门槛太高\n所以我就想：能不能做一个本地运行的、支持多种输入方式的 AI 搜索工具？\n小遥搜索是什么？\n简单来说，它是一个本地 AI 搜索桌面应用，核心特点：\n🎤 多模态输入\n● 语音搜索：点一下录音，说出你要找的内容，30 秒内语音自动转文字搜索\n● 文本搜索：输入关键词，AI 理解语义，精准匹配文件内容\n● 图片搜索：上传一张图片，AI 理解图像内容，帮你搜索相关文件\n🔍 深度检索\n● 文档：TXT 、Markdown 、Word 、Excel 、PPT 、PDF 全文检索\n● 音视频：MP4 、AVI 、MP3 、WAV 内容索引和搜索（支持 10 分钟内音视频字幕提取）\n● 文件名：传统的文件名搜索也不缺席\n🧠 AI 技术\n集成了多个先进 AI 模型：\n● BGE-M3：文本嵌入，理解语义\n● FasterWhisper：语音识别，语音转文字\n● CN-CLIP：图像理解，以图搜图\n● Ollama：本地大语言模型\n🔒 隐私安全\n● 完全本地：所有数据处理都在本地，不上传云端\n● 隐私模式：可选不记录搜索历史\n● 自主可控：数据完全由你自己掌控\n核心界面一览\n搜索主界面\n\n文本搜索\n\n语音搜索\n\n图片搜索\n\n技术架构\n前端：Electron + Vue 3 + TypeScript\n后端：Python 3.10 + FastAPI\nAI 引擎：BGE-M3 + FasterWhisper + CN-CLIP + Ollama\n搜索：Faiss （向量搜索）+ Whoosh （全文搜索）\n数据库：SQLite\n系统架构图\nVibe Coding 实践案例\n这是我特别想分享的部分。\n这个项目从零开始，完全通过 Vibe Coding 实现，包括：\n● ✅ 完整源代码（前端 + 后端 + 所有功能模块）\n● ✅ 设计文档（ PRD 、技术方案、数据库设计、API 文档）\n● ✅ 开发流程（任务分解、进度跟踪、测试验证）\n● ✅ 部署配置（环境搭建、依赖管理、打包发布）\n开源的价值：对于想要学习 AI 辅助开发、本地 AI 应用、Electron 桌面应用的开发者，这是一个完整的参考实现。\n产品路线图\n当前版本（ v1.1.1 ）✅\n● 多模态 AI 搜索（语音、文本、图片）\n● 本地文件深度检索\n● AI 模型灵活配置\n● 隐私安全保护\n未来规划\n🚀 微内核架构演进\n插件化系统，支持自定义扩展\n🌐 多数据源扩展\n● 文档协作平台（语雀、飞书、Notion ）\n● 项目管理平台（ Jira 、禅道、GitHub ）\n● 实时同步和智能缓存\n🎬 音视频搜索增强\n● 视频画面内容理解和搜索\n● 长视频处理（集成水母平台）\n● 音频声纹识别和情感分析\n🧠 RAG 系统升级\n● 自适应分块算法\n● 知识图谱构建\n● 检索结果智能增强\n💬 智能聊天助手\n● 多轮对话和上下文记忆\n● 基于本地知识库的问答\n🔌 MCP 能力集成\n连接 Claude 生态，扩展 AI 能力\n详细路线图：ROADMAP.md\n适合谁使用？\n知识工作者\n搜索本地文档、笔记、研究报告，快速定位关键信息\n内容创作者\n搜索素材和灵感，整理音视频内容，管理创作资源\n技术开发者\n搜索代码库和技术文档，整理学习资料，管理项目文件\n研究人员\n搜索论文和研究资料，整理文献笔记，管理研究数据\n邀请你参与\n为什么需要你？\n一个人的力量有限，开源社区的力量是无限的！\n优先贡献方向\n\n插件系统开发（高优先级）\n○ 设计插件接口规范\n○ 实现插件加载机制\n多数据源连接器（高优先级）\n○ 语雀、飞书、Notion API 集成\nUI/UX 优化（中优先级）\n○ 搜索结果展示优化\n○ 暗色模式支持\n性能优化（中优先级）\n○ 大文件处理优化\n○ 索引构建速度提升\n测试覆盖（中优先级）\n○ 单元测试补充\n○ 集成测试完善\n\n项目地址\nGitHub：https://github.com/dtsola/xiaoyaosearch\n欢迎：\n● ⭐️ Star 本项目，关注最新进展\n● 🍴 Fork 本项目，开始你的贡献\n● 👀 Watch 本项目，及时获取更新\n● 🐛 提 Issue ，报告问题和建议功能\n● 💡 参与讨论，分享你的想法\n关于我\ndtsola - IT 解决方案架构师 | 一人公司实践者\n● 网站：https://www.dtsola.com\n● B 站：https://space.bilibili.com/736015\n开源协议\n本项目采用小遥搜索软件授权协议：\n● ✅ 免费使用（非商业用途）\n● ✅ 可以学习和研究代码\n● ✅ 可以修改后二次分发（需保留版权声明和协议）\n● ✅ 可以集成到其他非商业项目\n● ❌ 商业使用需授权\n这是一个类似 CC-BY-NC-SA 的开源协议，鼓励学习、分享和贡献！\n详细协议：LICENSE\n结语\n小遥搜索是我对本地 AI 搜索工具的一次探索和实践，也是 Vibe Coding 的完整案例展示。\n我相信，开源社区的力量会让这个项目变得更好。\n无论你是：\n● 🔨 想要贡献代码的开发者\n● 💡 想要提供建议的产品经理\n● 📖 想要学习 AI 应用的学生\n● 🚀 想要参与创业的伙伴\n都欢迎加入我们，一起打造更好的本地 AI 搜索工具！\n让我们一起，用 AI 技术改变知识管理方式！ 🚀",
+      "date_published": "2026-01-31T03:52:34.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189715",
+      "url": "https://www.v2ex.com/t/1189715#reply2",
+      "title": "[Android] 才发现摩托罗拉的手机这么好用啊。",
+      "content_html": "<p>摩托罗拉真是手机界的一股清流\n决定以后都买摩托罗拉了，超级适合喜欢折腾的，BL 锁直接给解锁码\n官方还提供刷机救砖工具，什么系统都能装\n就算不折腾的，原装的系统也很干净，最重要的 myui 居然什么软件都能直接冻结，都不用自己费劲 root 去卸载。</p>",
+      "content_text": "摩托罗拉真是手机界的一股清流\n决定以后都买摩托罗拉了，超级适合喜欢折腾的，BL 锁直接给解锁码\n官方还提供刷机救砖工具，什么系统都能装\n就算不折腾的，原装的系统也很干净，最重要的 myui 居然什么软件都能直接冻结，都不用自己费劲 root 去卸载。",
+      "date_published": "2026-01-31T03:50:13.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189714",
+      "url": "https://www.v2ex.com/t/1189714#reply0",
+      "title": "[VPS] DigVPS 测评 - CubeCloud（魔方云）更新 USA|洛杉矶 Pro (CN2 GIA)产品详评数据，产品稳定性不错， IP 干净，不过移动回程 9929 速率不太好看了。",
+      "content_html": "<p>规格：</p>\n<p><img alt=\"1-la-pro-cn2-gia.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/31/hmr4CRvLDYGSzcT.png\"/></p>\n<p>摘要：</p>\n<p><img alt=\"2-la-pro-cn2-gia.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/31/bIvJSsrV39gPAEX.png\"/></p>\n<p>硬件：</p>\n<p><img alt=\"3-la-pro-cn2-gia.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/31/HVgsLW3vNYPSFbr.png\"/></p>\n<p>速率：</p>\n<p><img alt=\"4-la-pro-cn2-gia.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/31/oDyt1mgujn6EGA7.png\"/></p>\n<p>IPv4 质量：</p>\n<p><img alt=\"5-la-pro-cn2-gia.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/31/RO4aZpKdXyjrU2v.png\"/></p>\n<p>IPv6 质量：</p>\n<p><img alt=\"6-la-pro-cn2-gia.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/31/58zqmLVKQjdGIkb.png\"/></p>\n<p>ICMP 延迟：</p>\n<p><img alt=\"7-la-pro-cn2-gia.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/31/QN6FmMdSLaUDG7h.png\"/></p>\n<p>TCP 延迟：</p>\n<p><img alt=\"8-la-pro-cn2-gia.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/31/j8XNMKHQvnVCAYd.png\"/></p>\n<p>BGP IPv4：</p>\n<p><img alt=\"9-la-pro-cn2-gia.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/31/ND9s7JgbCh3eiPr.png\"/></p>\n<p>BGP IPv6：</p>\n<p><img alt=\"10-la-pro-cn2-gia.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/01/31/aoAu6OEYMc9bIgU.png\"/></p>\n<blockquote>\n<p>如对该产品感兴趣，想要持续关注其<strong>实时与历史数据表现</strong>，欢迎访问我们的<a href=\"https://digvps.com/review/cubecloud#la-pro-cn2-gia\" rel=\"nofollow\">站点</a>进行长期跟踪。</p>\n</blockquote>",
+      "content_text": "规格：\n\n摘要：\n\n硬件：\n\n速率：\n\nIPv4 质量：\n\nIPv6 质量：\n\nICMP 延迟：\n\nTCP 延迟：\n\nBGP IPv4：\n\nBGP IPv6：\n\n\n如对该产品感兴趣，想要持续关注其实时与历史数据表现，欢迎访问我们的站点进行长期跟踪。",
+      "date_published": "2026-01-31T03:48:05.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189713",
+      "url": "https://www.v2ex.com/t/1189713#reply0",
+      "title": "[问与答] bilibili 上最近看了一些小孩教数学的视频，惊讶之余想说这事真的吗，都是务必高深的数学专业课，是怎么做到的呢",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T03:39:49.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189711",
+      "url": "https://www.v2ex.com/t/1189711#reply6",
+      "title": "[macOS] 还是忍不住想吐槽一遍 macOS 26 太丑了",
+      "content_html": "<a target=\"_blank\" href=\"https://i.imgur.com/rpWi58s.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/rpWi58s.png\" class=\"embedded_image\" rel=\"noreferrer\"></a><br /> <br /> 这边角，这粗大的滚动条",
+      "content_text": "这边角，这粗大的滚动条",
+      "date_published": "2026-01-31T03:28:46.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189709",
+      "url": "https://www.v2ex.com/t/1189709#reply1",
+      "title": "[V2EX] 几个重要但还没有被创建的节点",
+      "content_html": "<p>个人觉得重要但是还没有被创建的节点：</p>\n<ul>\n<li>睡眠</li>\n<li>动漫</li>\n</ul>\n<p>有权限的、也认为重要/有流量的，可以创建了，这不大把的铜币。</p>",
+      "content_text": "个人觉得重要但是还没有被创建的节点：\n\n睡眠\n动漫\n\n有权限的、也认为重要/有流量的，可以创建了，这不大把的铜币。",
+      "date_published": "2026-01-31T03:12:55.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189708",
+      "url": "https://www.v2ex.com/t/1189708#reply1",
+      "title": "[问与答] 请问 V 友曾做出一款爆款产品，没有继续投入也能赚钱的经验感想吗",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T02:57:32.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189707",
+      "url": "https://www.v2ex.com/t/1189707#reply1",
+      "title": "[问与答] 有什么好用的投资复盘的工具软件？",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T02:57:26.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189706",
+      "url": "https://www.v2ex.com/t/1189706#reply8",
+      "title": "[Google] Antigravity 开始大面积封号了",
+      "content_html": "<p>大家快检查下自己的账号。。。</p>",
+      "content_text": "大家快检查下自己的账号。。。",
+      "date_published": "2026-01-31T02:48:37.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189705",
+      "url": "https://www.v2ex.com/t/1189705#reply0",
+      "title": "[分享创造] 半年前 Vibe Coding 的小程序今天开通流量主啦",
+      "content_html": "在此感谢 Claude 、GPT 、Gemini 提供的代码，感谢豆包帮我设计的各种素材<br /><br />半年前做了一个图片切分的小程序，一开始是自嗨，但是后面看到有人在用又加了不少新功能，像是长图拼接、纯色背景绘制、水印制作、头像 DIY 功能。<br /><br />UI 这块随着功能的增加也经历了三次重构，目前暂时还比较满意，感慨现在 AI 时代个人开发者真的蛮幸福的。小程序名字叫 PicSlicer ，大家有想体验可以试试看，有什么功能需求也可以一起交流<br /><br /> <a target=\"_blank\" href=\"https://i.imgur.com/8tw7hGr.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/8tw7hGr.png\" class=\"embedded_image\" rel=\"noreferrer\"></a><br /> <a target=\"_blank\" href=\"https://i.imgur.com/MtBtdlU.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/MtBtdlU.png\" class=\"embedded_image\" rel=\"noreferrer\"></a><br /> <a target=\"_blank\" href=\"https://i.imgur.com/d20DKla.png\" rel=\"nofollow noopener\" target=\"_blank\"><img src=\"https://i.imgur.com/d20DKla.png\" class=\"embedded_image\" rel=\"noreferrer\"></a><br /> <br /> 之前用 v0 设计了一个小程序的介绍网站，不过内容比较旧了，最近有空也去翻新一下： <a target=\"_blank\" href=\"https://picslicer.com/\" rel=\"nofollow noopener\">https://picslicer.com/</a>",
+      "content_text": "在此感谢 Claude 、GPT 、Gemini 提供的代码，感谢豆包帮我设计的各种素材半年前做了一个图片切分的小程序，一开始是自嗨，但是后面看到有人在用又加了不少新功能，像是长图拼接、纯色背景绘制、水印制作、头像 DIY 功能。UI 这块随着功能的增加也经历了三次重构，目前暂时还比较满意，感慨现在 AI 时代个人开发者真的蛮幸福的。小程序名字叫 PicSlicer ，大家有想体验可以试试看，有什么功能需求也可以一起交流     之前用 v0 设计了一个小程序的介绍网站，不过内容比较旧了，最近有空也去翻新一下： https://picslicer.com/",
+      "date_published": "2026-01-31T02:44:49.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189704",
+      "url": "https://www.v2ex.com/t/1189704#reply10",
+      "title": "[程序员] antigravity 中的模型清单列表都是骗人的， gemini 3 pro 实际是 Gemini 2.0 Flash， claude Opus 4.5 实际是 Claude 3.5 Sonnet",
+      "content_html": "<p>实操：使用 gemini 3 pro(high)\n问题：你现在思考用的是哪个模型？\n回答：我现在用于思考和回答您问题的模型是 Google Gemini 2.0 Flash （ Thinking process is powered by Gemini 2.0 Flash ）。</p>\n<p>实操：使用 gemini 3 flash\n问题：现在是对话模式，你现在思考用的是哪个模型？\n回答：我现在用于思考和回答您问题的模型是 Google Gemini 2.0 Flash （ Thinking process is powered by Gemini 2.0 Flash ）。</p>\n<p>实操：使用 claude Opus 4.5(Thinking)\n问题：你现在思考用的是哪个模型？\n我现在使用的模型是 Claude 3.5 Sonnet （由 Anthropic 开发）。\n刚才您切换了模型设置，因此我从 Gemini 2.0 Pro 切换到了 Claude 3.5 Sonnet 。</p>\n<p>太垃圾了，活生生的欺骗，难怪越调 bug 越多。</p>\n<p>发现场景，做了一个功能图片识别文字，我让他用 gemini-2.5-flash 模型，它一直反馈 Google Gemini 系列目前的最新 Flash 版本是 2.0 Flash Experimental (gemini-2.0-flash-exp)。我推测您提到的“2.5”可能是指代这个最新的 2.0 版本（目前尚无官方 2.5 发布）。</p>",
+      "content_text": "实操：使用 gemini 3 pro(high)\n问题：你现在思考用的是哪个模型？\n回答：我现在用于思考和回答您问题的模型是 Google Gemini 2.0 Flash （ Thinking process is powered by Gemini 2.0 Flash ）。\n实操：使用 gemini 3 flash\n问题：现在是对话模式，你现在思考用的是哪个模型？\n回答：我现在用于思考和回答您问题的模型是 Google Gemini 2.0 Flash （ Thinking process is powered by Gemini 2.0 Flash ）。\n实操：使用 claude Opus 4.5(Thinking)\n问题：你现在思考用的是哪个模型？\n我现在使用的模型是 Claude 3.5 Sonnet （由 Anthropic 开发）。\n刚才您切换了模型设置，因此我从 Gemini 2.0 Pro 切换到了 Claude 3.5 Sonnet 。\n太垃圾了，活生生的欺骗，难怪越调 bug 越多。\n发现场景，做了一个功能图片识别文字，我让他用 gemini-2.5-flash 模型，它一直反馈 Google Gemini 系列目前的最新 Flash 版本是 2.0 Flash Experimental (gemini-2.0-flash-exp)。我推测您提到的“2.5”可能是指代这个最新的 2.0 版本（目前尚无官方 2.5 发布）。",
+      "date_published": "2026-01-31T02:44:25.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189703",
+      "url": "https://www.v2ex.com/t/1189703#reply6",
+      "title": "[旅行] 春节想和搭档去云南玩大约 5 天，有什么推荐和避坑的吗？",
+      "content_html": "<p>自从工作后每年都想着能有自己的休息时间，搭档一直也提这件事，但每年都是忙了一整年后也没休息到，所以突发奇想：<strong>要么今年不回老家过年了？</strong></p>\n<p>主要想去一些和江南地区有一些区别的地方，比如东北、新疆、云南等等，最终两个人更倾向于去云南。</p>\n<p>我在小红书搜了一下攻略，它直接基于一些帖子给我生成了一个看似周全的总结。但考虑到它毕竟是 AI ，另外就是春节到了，不知道时间节点是否更特殊，所以还是来问问有经验的老哥们。</p>\n<p>大佬们多说益善，先谢过了。</p>",
+      "content_text": "自从工作后每年都想着能有自己的休息时间，搭档一直也提这件事，但每年都是忙了一整年后也没休息到，所以突发奇想：要么今年不回老家过年了？\n主要想去一些和江南地区有一些区别的地方，比如东北、新疆、云南等等，最终两个人更倾向于去云南。\n我在小红书搜了一下攻略，它直接基于一些帖子给我生成了一个看似周全的总结。但考虑到它毕竟是 AI ，另外就是春节到了，不知道时间节点是否更特殊，所以还是来问问有经验的老哥们。\n大佬们多说益善，先谢过了。",
+      "date_published": "2026-01-31T02:42:50.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189702",
+      "url": "https://www.v2ex.com/t/1189702#reply0",
+      "title": "[分享创造] OpenAPI -> Skills 转化器，让 Agent 按需精准读取 API 文档",
+      "content_html": "<p>之前尝试过各种方法让 Agent 可以更可靠地读取 API 文档，不论是基于它开发客户端代码、做集成测试还是自动化。但复杂一些的 API 文档就会遇到超出上下文大小，即使不超出，也非常浪费上下文空间、多轮对话之后模型就又幻觉了。</p>\n<p>最近又想做个公司产品 API 的 code helper ，但是产品的 API 文档的 OpenAPI JSON 接近 10MB ，又遇到上面的问题。陆续尝试过几种切分的方法，部分奏效，但是复杂度挺高，维护成本也高。</p>\n<p>前几天突然想到 Skills 最擅长按需加载，就做了一个 CLI ，把 OpenAPI 文档转为 Skills 结构，核心是按 API 语义的拆分 + link ，实现按需加载，实际使用效果惊人，顺便加了点模版定制功能，更好用了。</p>\n<p>原本单个 10MB API 文档，拆完之后是 2000+ 小的 md 文件，但是对于具体的 API 任务请求（比如写个 xx 场景运维脚本），Agent 都可以精准地读取所需的片段，探索性特别好，对单个资源的操作需求一般读 5 个片段就能准确写出了，最关键是没幻觉。</p>\n<p>代码开源在这：</p>\n<p><a href=\"https://github.com/neutree-ai/openapi-to-skills\" rel=\"nofollow\">https://github.com/neutree-ai/openapi-to-skills</a></p>\n<p>感兴趣的小伙伴可以试用一下给点反馈，我也在把更多常用 API 转 skills 。</p>",
+      "content_text": "之前尝试过各种方法让 Agent 可以更可靠地读取 API 文档，不论是基于它开发客户端代码、做集成测试还是自动化。但复杂一些的 API 文档就会遇到超出上下文大小，即使不超出，也非常浪费上下文空间、多轮对话之后模型就又幻觉了。\n最近又想做个公司产品 API 的 code helper ，但是产品的 API 文档的 OpenAPI JSON 接近 10MB ，又遇到上面的问题。陆续尝试过几种切分的方法，部分奏效，但是复杂度挺高，维护成本也高。\n前几天突然想到 Skills 最擅长按需加载，就做了一个 CLI ，把 OpenAPI 文档转为 Skills 结构，核心是按 API 语义的拆分 + link ，实现按需加载，实际使用效果惊人，顺便加了点模版定制功能，更好用了。\n原本单个 10MB API 文档，拆完之后是 2000+ 小的 md 文件，但是对于具体的 API 任务请求（比如写个 xx 场景运维脚本），Agent 都可以精准地读取所需的片段，探索性特别好，对单个资源的操作需求一般读 5 个片段就能准确写出了，最关键是没幻觉。\n代码开源在这：\nhttps://github.com/neutree-ai/openapi-to-skills\n感兴趣的小伙伴可以试用一下给点反馈，我也在把更多常用 API 转 skills 。",
+      "date_published": "2026-01-31T02:40:20.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189701",
+      "url": "https://www.v2ex.com/t/1189701#reply7",
+      "title": "[分享创造] [开源免费] 跨平台 SSH 工具 ZenSSH",
+      "content_html": "<h2>🚀 ZenSSH —— 简单、轻量、安全的 SSH 工具</h2>\n<p>大家好，给大家推荐一个我最近做的开源项目：<strong>ZenSSH</strong>，一款实用的 SSH 工具。<br/>\n当前处于早期测试版，开发人员就我自己，也是针对我自己的需求才做的，市面上大部分 SSH 工具连个配置同步都收费，又或者没有全平台覆盖，不同平台装不一样的软件配置同步更别说了；又或者一堆堆的功能，实际我就是想简单的连接到服务器上，简单运维一下。<br/>\n适合开发者、运维工程师，基于 Tauri 构建，提供全平台覆盖（不过我没有 iPhone 所以没有构建），配置同步通过 GitHub 或 Gitee 的 Gist 实现，支持 SSH 和 SFTP ，并且支持跳板机连接。   </p>\n<p>👉 项目链接：\n<a href=\"https://github.com/kisChang/ZenSSH\" rel=\"nofollow\">https://github.com/kisChang/ZenSSH</a></p>\n<h3>✨ 项目亮点</h3>\n<p>🔐 <strong>专注 SSH</strong> — ZenSSH 致力于提供跨平台的 SSH 客户端，配置同步，随时随地登录服务器。</p>\n<p>📦 <strong>开源免费</strong> — 完全开源免费，代码托管在 GitHub 上，欢迎大家查看、使用和贡献代码。</p>\n<p>🛠 <strong>轻量易用</strong> — 与传统的繁琐配置相比，ZenSSH 更强调上手速度和用户体验，适合日常快速 SSH 连接、文件上下载等需求。</p>\n<h3>✨ 说明</h3>\n<p><strong>稳定性</strong> — 早期测试版本，我也只测试了基础功能（在 Android 、Linux 、Windows 上），已经在日常使用了，有问题随时反馈到 issues ，同样感谢贡献代码~</p>\n<p><strong>开源协议</strong> — 现在只公开了前端代码，rust 代码也托管在了 GitHub 但暂时没有开源，后续会考虑开源，整体构建都是基于 GitHub Actions ，安全性可以放心。</p>",
+      "content_text": "🚀 ZenSSH —— 简单、轻量、安全的 SSH 工具\n大家好，给大家推荐一个我最近做的开源项目：ZenSSH，一款实用的 SSH 工具。\n当前处于早期测试版，开发人员就我自己，也是针对我自己的需求才做的，市面上大部分 SSH 工具连个配置同步都收费，又或者没有全平台覆盖，不同平台装不一样的软件配置同步更别说了；又或者一堆堆的功能，实际我就是想简单的连接到服务器上，简单运维一下。\n适合开发者、运维工程师，基于 Tauri 构建，提供全平台覆盖（不过我没有 iPhone 所以没有构建），配置同步通过 GitHub 或 Gitee 的 Gist 实现，支持 SSH 和 SFTP ，并且支持跳板机连接。   \n👉 项目链接：\nhttps://github.com/kisChang/ZenSSH\n✨ 项目亮点\n🔐 专注 SSH — ZenSSH 致力于提供跨平台的 SSH 客户端，配置同步，随时随地登录服务器。\n📦 开源免费 — 完全开源免费，代码托管在 GitHub 上，欢迎大家查看、使用和贡献代码。\n🛠 轻量易用 — 与传统的繁琐配置相比，ZenSSH 更强调上手速度和用户体验，适合日常快速 SSH 连接、文件上下载等需求。\n✨ 说明\n稳定性 — 早期测试版本，我也只测试了基础功能（在 Android 、Linux 、Windows 上），已经在日常使用了，有问题随时反馈到 issues ，同样感谢贡献代码~\n开源协议 — 现在只公开了前端代码，rust 代码也托管在了 GitHub 但暂时没有开源，后续会考虑开源，整体构建都是基于 GitHub Actions ，安全性可以放心。",
+      "date_published": "2026-01-31T02:33:47.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189700",
+      "url": "https://www.v2ex.com/t/1189700#reply3",
+      "title": "[AI Agent 智能体] 中国为什么无法做出 Clawdbot？因为封闭的互联网生态！",
+      "content_html": "<p>Clawdbot 虽然没有技术上没有显著的创新，但它牛逼的地方在于架构和理念的创新。但这个创新的成立有个前提，就是必须有开放的互联网生态，包括软件层面的开放（ API ）还包括观念层面的开放（允许 Agent 调用）。而这种开放的生态又能反哺出许多衍生创新，比如 Clawdbook 。</p>\n<p>其实中国在 12 月已经做出了超越 Clawdbot 的软硬件统一体，就是豆包手机，但结局是什么？被各大厂商围剿，各种限制功能。这里只能一声惋惜。中国其实不缺乏创新能力，缺的是创新的土壤，不要再说中国人不会从 0~1 了。</p>\n<p>但反过来说，恰恰是因为这份贫瘠的创新土壤，可能蕴藏着超级大机会，我觉得下一个巨无霸公司可能在这个领域诞生，也许是个巨头？比如阿里巴巴，也可能是个足够开放的新机构。我希望是个新机构，能够打破这种垄断，如果不行的话，也希望是阿里巴巴，至少有点技术理想。</p>",
+      "content_text": "Clawdbot 虽然没有技术上没有显著的创新，但它牛逼的地方在于架构和理念的创新。但这个创新的成立有个前提，就是必须有开放的互联网生态，包括软件层面的开放（ API ）还包括观念层面的开放（允许 Agent 调用）。而这种开放的生态又能反哺出许多衍生创新，比如 Clawdbook 。\n其实中国在 12 月已经做出了超越 Clawdbot 的软硬件统一体，就是豆包手机，但结局是什么？被各大厂商围剿，各种限制功能。这里只能一声惋惜。中国其实不缺乏创新能力，缺的是创新的土壤，不要再说中国人不会从 0~1 了。\n但反过来说，恰恰是因为这份贫瘠的创新土壤，可能蕴藏着超级大机会，我觉得下一个巨无霸公司可能在这个领域诞生，也许是个巨头？比如阿里巴巴，也可能是个足够开放的新机构。我希望是个新机构，能够打破这种垄断，如果不行的话，也希望是阿里巴巴，至少有点技术理想。",
+      "date_published": "2026-01-31T02:26:34.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189699",
+      "url": "https://www.v2ex.com/t/1189699#reply58",
+      "title": "[互联网] L 站被爆出有盲水印",
+      "content_html": "<p>刷 X 看到 L 站被爆出加了盲水印，刚才试了下，截图调一下图片的对比度灰阶等，就能明显看到。</p>\n<p>大家以后上网截图还是谨慎点，不要乱截违规信息，否则容易被定位到哦。</p>",
+      "content_text": "刷 X 看到 L 站被爆出加了盲水印，刚才试了下，截图调一下图片的对比度灰阶等，就能明显看到。\n大家以后上网截图还是谨慎点，不要乱截违规信息，否则容易被定位到哦。",
+      "date_published": "2026-01-31T02:16:32.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189698",
       "url": "https://www.v2ex.com/t/1189698#reply0",
       "title": "[股票] 2026 年 1 月股票薅羊毛总结（第五期）",

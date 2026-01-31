@@ -6,6 +6,14 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/politics/article/3341816/us-defence-strategy-omission-raises-alarm-taiwan-over-trumps-intentions?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/politics/article/3341816/us-defence-strategy-omission-raises-alarm-taiwan-over-trumps-intentions?utm_source=rss_feed",
+      "title": "US defence strategy omission raises alarm in Taiwan over Trump’s intentions",
+      "content_html": "Taiwan’s absence from the United States’ newly released 2026 National Defence Strategy has fuelled fresh debate on the island over whether Washington is deliberately sidestepping the island as it prioritises bigger interests with Beijing.\nThe omission is in sharp contrast with earlier editions of the Pentagon’s quadrennial flagship strategy, which had explicitly referred to Beijing’s pressure on Taiwan and pledged support for the island’s asymmetric defence.\nThe 2022 iteration mentioned the...",
+      "content_text": "Taiwan’s absence from the United States’ newly released 2026 National Defence Strategy has fuelled fresh debate on the island over whether Washington is deliberately sidestepping the island as it prioritises bigger interests with Beijing.\nThe omission is in sharp contrast with earlier editions of the Pentagon’s quadrennial flagship strategy, which had explicitly referred to Beijing’s pressure on Taiwan and pledged support for the island’s asymmetric defence.\nThe 2022 iteration mentioned the...",
+      "date_published": "2026-01-31T04:00:09.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/diplomacy/article/3341885/canada-and-uk-hit-refresh-china-ties-end-five-eyes?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3341885/canada-and-uk-hit-refresh-china-ties-end-five-eyes?utm_source=rss_feed",
       "title": "As Canada and UK hit refresh on China ties, is this the end of Five Eyes?",

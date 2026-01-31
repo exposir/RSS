@@ -6,6 +6,46 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/nyregion/inna-vernikov-nyc-council.html",
+      "url": "https://www.nytimes.com/2026/01/30/nyregion/inna-vernikov-nyc-council.html",
+      "title": "She Called Mamdani a ‘Terrorist Lover.’ Did She Deserve to Be Promoted?",
+      "content_html": "Inna Vernikov, a Republican city councilwoman, was named to help lead a task force to fight antisemitism. She later apologized for her remark about Mayor Zohran Mamdani.",
+      "content_text": "Inna Vernikov, a Republican city councilwoman, was named to help lead a task force to fight antisemitism. She later apologized for her remark about Mayor Zohran Mamdani.",
+      "date_published": "2026-01-31T03:25:39.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/ice-expands-power-agents-warrants.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/ice-expands-power-agents-warrants.html",
+      "title": "ICE Expands Power of Agents to Arrest People Without Warrants",
+      "content_html": "An internal memo changed the standard from whether people are unlikely to show up for hearings to whether they could leave the scene.",
+      "content_text": "An internal memo changed the standard from whether people are unlikely to show up for hearings to whether they could leave the scene.",
+      "date_published": "2026-01-31T02:53:40.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/movies/melania-trump-movie-review.html",
+      "url": "https://www.nytimes.com/2026/01/30/movies/melania-trump-movie-review.html",
+      "title": "‘Melania’ Review: 20 Stage-Managed Days in the Life of the First Lady",
+      "content_html": "Directed by Brett Ratner, the documentary shows a woman deeply concerned with her appearance who rarely lets us behind her facade.",
+      "content_text": "Directed by Brett Ratner, the documentary shows a woman deeply concerned with her appearance who rarely lets us behind her facade.",
+      "date_published": "2026-01-31T02:51:06.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/trump-minneapolis-dueling-messages.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/trump-minneapolis-dueling-messages.html",
+      "title": "Trump Called for ‘De-Escalation’ in Minneapolis. It Didn’t Last Long.",
+      "content_html": "President Trump has offered dueling messages on the crisis in Minneapolis, part of a pattern of dialing back his rhetoric only to change again if the political winds are shifting.",
+      "content_text": "President Trump has offered dueling messages on the crisis in Minneapolis, part of a pattern of dialing back his rhetoric only to change again if the political winds are shifting.",
+      "date_published": "2026-01-31T02:45:20.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/us/politics/trump-congress-weapons-aid-israel.html",
+      "url": "https://www.nytimes.com/2026/01/30/us/politics/trump-congress-weapons-aid-israel.html",
+      "title": "Trump Officials Bypass Congress to Push Billions in Weapons Aid to Israel",
+      "content_html": "The move was the third time the Trump administration has tried to expedite arms shipments to Israel by going around the review process for weapons sales.",
+      "content_text": "The move was the third time the Trump administration has tried to expedite arms shipments to Israel by going around the review process for weapons sales.",
+      "date_published": "2026-01-31T02:22:06.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/weather/hudson-river-new-york-frozen.html",
       "url": "https://www.nytimes.com/2026/01/30/weather/hudson-river-new-york-frozen.html",
       "title": "Could the Hudson River Freeze Over?",
@@ -36,6 +76,14 @@
       "content_html": "The world body warned it would run out of money by July and have to close its New York headquarters if countries, namely the United States, did not pay annual dues that amount to billions of dollars.",
       "content_text": "The world body warned it would run out of money by July and have to close its New York headquarters if countries, namely the United States, did not pay annual dues that amount to billions of dollars.",
       "date_published": "2026-01-31T00:09:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/arts/television/catherine-ohara-movies-tv-shows-watch.html",
+      "url": "https://www.nytimes.com/2026/01/30/arts/television/catherine-ohara-movies-tv-shows-watch.html",
+      "title": "Where to Watch Catherine O’Hara’s Best Performances, From ‘Beetlejuice’ to ‘Best in Show’",
+      "content_html": "Her characters were as varied as they were eccentric and lovable. These are some of the best.",
+      "content_text": "Her characters were as varied as they were eccentric and lovable. These are some of the best.",
+      "date_published": "2026-01-30T23:58:15.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",

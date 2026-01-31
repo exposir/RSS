@@ -6,6 +6,46 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003296881",
+      "url": "https://www.wsj.com/world/asia/high-profile-arrests-spark-exodus-of-scam-workers-in-cambodia-ad045325",
+      "title": "High-Profile Arrests Spark Exodus of Scam Workers in Cambodia",
+      "content_html": "Thousands of people&#x2014;many of them trafficked&#x2014;have been let go from compounds in a shake-up of the deeply rooted &#x201c;pig-butchering&#x201d; industry.",
+      "content_text": "Thousands of people&#x2014;many of them trafficked&#x2014;have been let go from compounds in a shake-up of the deeply rooted &#x201c;pig-butchering&#x201d; industry.",
+      "date_published": "2026-01-31T04:00:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003234813",
+      "url": "https://www.wsj.com/world/china/labubu-youtube-influencers-gen-z-7271596a",
+      "title": "Why China Cares About Being Cool All of a Sudden",
+      "content_html": "The soft-power image makers in Beijing ride plushy dolls and YouTube influencers to win hearts abroad",
+      "content_text": "The soft-power image makers in Beijing ride plushy dolls and YouTube influencers to win hearts abroad",
+      "date_published": "2026-01-31T04:00:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003300724",
+      "url": "https://www.wsj.com/politics/national-security/u-s-approves-15-7-billion-in-potential-arms-sales-for-saudi-arabia-israel-cffae615",
+      "title": "U.S. Approves $15.7 Billion in Potential Arms Sales for Saudi Arabia, Israel",
+      "content_html": "The arms deals would need congressional approval and could take years for the weapons to be delivered.",
+      "content_text": "The arms deals would need congressional approval and could take years for the weapons to be delivered.",
+      "date_published": "2026-01-31T02:51:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003300676",
+      "url": "https://www.wsj.com/world/china/chinas-pmi-falls-in-january-5d41194b",
+      "title": "China&#x2019;s PMI Falls in January",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T02:00:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003286929",
+      "url": "https://www.wsj.com/world/how-america-first-risks-becoming-america-alone-6592701a",
+      "title": "How America First Risks Becoming America Alone",
+      "content_html": "U.S. allies are growing increasingly disenchanted and insulted by the country&#x2019;s aggressive foreign policy strategy.",
+      "content_text": "U.S. allies are growing increasingly disenchanted and insulted by the country&#x2019;s aggressive foreign policy strategy.",
+      "date_published": "2026-01-31T02:00:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003298919",
       "url": "https://www.wsj.com/world/middle-east/trumps-armada-is-getting-in-place-now-he-must-decide-what-to-do-with-iran-93007d5a",
       "title": "Trump&#x2019;s Armada Is Getting in Place. Now He Must Decide What to Do With Iran.",

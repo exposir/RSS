@@ -6,6 +6,46 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cwy1ed1vgxro#0",
+      "url": "https://www.bbc.com/news/articles/cwy1ed1vgxro?at_medium=RSS&at_campaign=rss",
+      "title": "What we learned - and didn't - from the Melania documentary",
+      "content_html": "Melania, directed by Brett Ratner, provides a fleeting glimpse into the life of the enigmatic first lady.",
+      "content_text": "Melania, directed by Brett Ratner, provides a fleeting glimpse into the life of the enigmatic first lady.",
+      "date_published": "2026-01-31T03:03:31.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cg4ewrw2drpo#0",
+      "url": "https://www.bbc.com/news/articles/cg4ewrw2drpo?at_medium=RSS&at_campaign=rss",
+      "title": "'I spoke to ChatGPT 8 times a day' - Gen Z's loneliness 'crisis'",
+      "content_html": "AI chatbots are being used as 'surrogate friends' by young people who have lost the ability to socialise.",
+      "content_text": "AI chatbots are being used as 'surrogate friends' by young people who have lost the ability to socialise.",
+      "date_published": "2026-01-31T02:39:24.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c5y28w0de91o#1",
+      "url": "https://www.bbc.com/news/articles/c5y28w0de91o?at_medium=RSS&at_campaign=rss",
+      "title": "Plan ahead and dress wisely: How to minimise add-on costs when you fly",
+      "content_html": "Don't get swept into paying for extras you don't need.",
+      "content_text": "Don't get swept into paying for extras you don't need.",
+      "date_published": "2026-01-31T02:30:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cwy10ye2030o#0",
+      "url": "https://www.bbc.com/news/articles/cwy10ye2030o?at_medium=RSS&at_campaign=rss",
+      "title": "Phone lines stay open as tax return deadline looms",
+      "content_html": "More than one million people missed the deadline a year ago, according to HM Revenue and Customs.",
+      "content_text": "More than one million people missed the deadline a year ago, according to HM Revenue and Customs.",
+      "date_published": "2026-01-31T02:23:48.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c3edydz7deyo#1",
+      "url": "https://www.bbc.com/news/articles/c3edydz7deyo?at_medium=RSS&at_campaign=rss",
+      "title": "Parents want to ban smartphones in schools, but there's one reason they're worried",
+      "content_html": "The House of Lords is soon due to debate whether to introduce a legal ban on smartphones in schools.",
+      "content_text": "The House of Lords is soon due to debate whether to introduce a legal ban on smartphones in schools.",
+      "date_published": "2026-01-31T02:22:24.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cevnmxyy4wjo#0",
       "url": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
       "title": "Takeaways from the millions of newly released Epstein files ",
@@ -20,6 +60,46 @@
       "content_html": "Revelations from newly released documents related to Jeffrey Epstein dominate Saturday's papers.",
       "content_text": "Revelations from newly released documents related to Jeffrey Epstein dominate Saturday's papers.",
       "date_published": "2026-01-31T01:42:40.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/czx3q0qw0npo#1",
+      "url": "https://www.bbc.com/news/articles/czx3q0qw0npo?at_medium=RSS&at_campaign=rss",
+      "title": "Has Harry Styles killed the world tour? ",
+      "content_html": "Artists including Ariana Grande are opting for longer residencies in key cities rather than touring more locations.",
+      "content_text": "Artists including Ariana Grande are opting for longer residencies in key cities rather than touring more locations.",
+      "date_published": "2026-01-31T01:17:51.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4g0v77ee5lo#3",
+      "url": "https://www.bbc.com/news/articles/c4g0v77ee5lo?at_medium=RSS&at_campaign=rss",
+      "title": "Did Beyoncé split country music in two?",
+      "content_html": "Cowboy Carter winning the Grammy's country album of the year last year sent shockwaves through the industry.",
+      "content_text": "Cowboy Carter winning the Grammy's country album of the year last year sent shockwaves through the industry.",
+      "date_published": "2026-01-31T00:53:13.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cj6w3zgden0o#0",
+      "url": "https://www.bbc.com/news/articles/cj6w3zgden0o?at_medium=RSS&at_campaign=rss",
+      "title": "I mocked the Saudi leader on YouTube - then my phone was hacked and I was beaten up in London",
+      "content_html": "Satirist Ghanem al-Masarir has been awarded £3m in damages, but it's unclear if Saudi Arabia will pay.",
+      "content_text": "Satirist Ghanem al-Masarir has been awarded £3m in damages, but it's unclear if Saudi Arabia will pay.",
+      "date_published": "2026-01-31T00:50:39.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c70lgwprw7ko#1",
+      "url": "https://www.bbc.com/news/articles/c70lgwprw7ko?at_medium=RSS&at_campaign=rss",
+      "title": "One wrong move and it could all go wrong - the men clearing deadly undersea Russian mines",
+      "content_html": "Clearing mines from the sea is a perilous operation and doing so in an active conflict is even more dangerous.",
+      "content_text": "Clearing mines from the sea is a perilous operation and doing so in an active conflict is even more dangerous.",
+      "date_published": "2026-01-31T00:19:00.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cdjnp9m8wvgo#3",
+      "url": "https://www.bbc.com/news/articles/cdjnp9m8wvgo?at_medium=RSS&at_campaign=rss",
+      "title": "This army chief threatened to castrate opposition leader and claimed descent from Jesus",
+      "content_html": "The president’s son, notorious for explosive remarks on X, has ambitions to  succeed his father.",
+      "content_text": "The president’s son, notorious for explosive remarks on X, has ambitions to  succeed his father.",
+      "date_published": "2026-01-31T00:05:52.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cvgx7ykl12go#1",
@@ -54,12 +134,28 @@
       "date_published": "2026-01-30T22:31:27.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/czx1qrx5jgzo#0",
+      "url": "https://www.bbc.com/news/articles/czx1qrx5jgzo?at_medium=RSS&at_campaign=rss",
+      "title": "Will Trump's pick to lead US central bank get him the change he wants?",
+      "content_html": "Opinion is divided over whether Warsh will align with the US president's views over how the Federal Reserve should be run.",
+      "content_text": "Opinion is divided over whether Warsh will align with the US president's views over how the Federal Reserve should be run.",
+      "date_published": "2026-01-30T22:15:36.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/czx1qrx5jgzo#1",
       "url": "https://www.bbc.com/news/articles/czx1qrx5jgzo?at_medium=RSS&at_campaign=rss",
       "title": "Will Trump's pick to lead US central bank get him the change he wants?",
       "content_html": "Opinion is divided over whether Warsh will align with the US president's views over how the Federal Reserve should be run.",
       "content_text": "Opinion is divided over whether Warsh will align with the US president's views over how the Federal Reserve should be run.",
       "date_published": "2026-01-30T22:15:36.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c3r10n94jxro#3",
+      "url": "https://www.bbc.com/news/articles/c3r10n94jxro?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Mason: What Starmer's China reset tells us about his foreign policy",
+      "content_html": "The prime minister has set out his vision - and now begun to match it with actions and overseas visits.",
+      "content_text": "The prime minister has set out his vision - and now begun to match it with actions and overseas visits.",
+      "date_published": "2026-01-30T21:38:44.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c3r10n94jxro#1",
@@ -92,6 +188,14 @@
       "content_html": "The emails were published by the US Department of Justice as part of a release running to three million pages.",
       "content_text": "The emails were published by the US Department of Justice as part of a release running to three million pages.",
       "date_published": "2026-01-30T20:06:20.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/cricket/articles/c62rq6dy54xo#3",
+      "url": "https://www.bbc.com/sport/cricket/articles/c62rq6dy54xo?at_medium=RSS&at_campaign=rss",
+      "title": "England cricketer Harry Brook says he lied to protect other players after nightclub altercation",
+      "content_html": "England white-ball captain Harry Brook says other players were present when he was involved in an altercation with a nightclub bouncer.",
+      "content_text": "England white-ball captain Harry Brook says other players were present when he was involved in an altercation with a nightclub bouncer.",
+      "date_published": "2026-01-30T19:39:34.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/cricket/articles/c62rq6dy54xo#7",
@@ -142,6 +246,14 @@
       "date_published": "2026-01-30T18:02:16.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c5yvwdgjpj3o#3",
+      "url": "https://www.bbc.com/news/articles/c5yvwdgjpj3o?at_medium=RSS&at_campaign=rss",
+      "title": "Asylum seeker sentenced to at least 29 years for murdering hotel worker Rhiannon Whyte",
+      "content_html": "Deng Majek is told by the mother of victim Rhiannon Whyte that she hopes he never sees the outside world.",
+      "content_text": "Deng Majek is told by the mother of victim Rhiannon Whyte that she hopes he never sees the outside world.",
+      "date_published": "2026-01-30T17:57:13.000Z"
+    },
+    {
       "id": "https://www.bbc.com/weather/articles/cvgm4m2wn9po#1",
       "url": "https://www.bbc.com/weather/articles/cvgm4m2wn9po?at_medium=RSS&at_campaign=rss",
       "title": "Snow Moon: How to see the last full moon of winter",
@@ -188,6 +300,14 @@
       "content_html": "The judge dismissed a federal murder charge against the 27 year old.",
       "content_text": "The judge dismissed a federal murder charge against the 27 year old.",
       "date_published": "2026-01-30T16:29:04.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cr579mdv4m7o#3",
+      "url": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
+      "title": "UN risks 'imminent financial collapse', secretary general warns",
+      "content_html": "António Guterres says the international body could run out of money by July due to members' unpaid fees.",
+      "content_text": "António Guterres says the international body could run out of money by July due to members' unpaid fees.",
+      "date_published": "2026-01-30T16:24:18.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cr579mdv4m7o#0",

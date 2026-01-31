@@ -6,6 +6,78 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "84ef67c9-b04e-43e3-ada0-b7d60a9a232c",
+      "url": "https://www.smh.com.au/sport/tennis/australian-open-2026-live-updates-aussie-stars-in-doubles-final-rybakina-takes-up-the-fight-to-sabalenka-20260130-p5nydm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australian Open 2026 LIVE updates: Aussie stars in doubles final; Rybakina takes the fight up to Sabalenka",
+      "content_html": "Follow live as we bring you all the updates from day 14 of the Australian Open.",
+      "content_text": "Follow live as we bring you all the updates from day 14 of the Australian Open.",
+      "date_published": "2026-01-31T04:00:05.000Z"
+    },
+    {
+      "id": "65ca114b-bc53-46d2-b06b-28f408c197d6",
+      "url": "https://www.smh.com.au/national/western-australia/cost-to-build-a-new-home-in-has-perth-doubled-in-six-years-new-data-shows-20260131-p5nyi6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Cost to build a new home in has Perth doubled in six years, new data shows",
+      "content_html": "The data comes as new figures reveal a record number of WA suburbs now have a median house price of over $1 million.",
+      "content_text": "The data comes as new figures reveal a record number of WA suburbs now have a median house price of over $1 million.",
+      "date_published": "2026-01-31T03:38:27.000Z"
+    },
+    {
+      "id": "fa723111-61f3-4610-a69c-b653109583db",
+      "url": "https://www.smh.com.au/national/queensland/queensland-holds-firm-on-queen-s-crown-despite-king-s-preference-20260115-p5nudx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Queensland holds firm on Queen’s crown despite King’s preference",
+      "content_html": "Queensland has no plans to update its traditional royal emblems, even as other states and the governor adopt the new King’s preferred crown.",
+      "content_text": "Queensland has no plans to update its traditional royal emblems, even as other states and the governor adopt the new King’s preferred crown.",
+      "date_published": "2026-01-31T03:36:36.000Z"
+    },
+    {
+      "id": "cfb789ee-db67-4230-abea-a925ecfbb372",
+      "url": "https://www.smh.com.au/sport/tennis/rafa-nadal-has-full-respect-for-novak-djokovic-but-he-won-t-be-supporting-him-in-the-final-20260131-p5nyi1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rafa Nadal has ‘full respect’ for Novak Djokovic. But he won’t be supporting him in the final",
+      "content_html": "Rafael Nadal says he would still be playing if he had avoided injuries like former rival Novak Djokovic, but he won’t be backing him on Sunday night.",
+      "content_text": "Rafael Nadal says he would still be playing if he had avoided injuries like former rival Novak Djokovic, but he won’t be backing him on Sunday night.",
+      "date_published": "2026-01-31T03:30:00.000Z"
+    },
+    {
+      "id": "4fe25fef-deae-4c5b-941e-76fdab1d0f28",
+      "url": "https://www.smh.com.au/world/north-america/keating-speaks-out-on-unfortunate-epstein-ties-after-emails-exposed-20260131-p5nyhm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Keating speaks out on ‘unfortunate’ Epstein ties after emails exposed",
+      "content_html": "Katherine Keating says the disgraced financier and his staff pursued her with “persistence bordering on harassment” as she tried to build a career in New York.",
+      "content_text": "Katherine Keating says the disgraced financier and his staff pursued her with “persistence bordering on harassment” as she tried to build a career in New York.",
+      "date_published": "2026-01-31T03:28:17.000Z"
+    },
+    {
+      "id": "d02ddfc1-8ef4-48ff-9b6a-90c369ae58b6",
+      "url": "https://www.smh.com.au/world/europe/epstein-email-to-andrew-i-have-a-russian-friend-for-you-she-s-26-20260131-p5nyhe.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Epstein email to Andrew: I have a Russian friend for you. She’s 26",
+      "content_html": "The child sex offender offered to introduce the disgraced former prince to a “beautiful” 26-year-old Russian woman, emails released by the US Justice Department reveal.",
+      "content_text": "The child sex offender offered to introduce the disgraced former prince to a “beautiful” 26-year-old Russian woman, emails released by the US Justice Department reveal.",
+      "date_published": "2026-01-31T03:21:47.000Z"
+    },
+    {
+      "id": "0c787f51-f6a1-46bb-aca7-dc50ecc27fcd",
+      "url": "https://www.smh.com.au/sport/tennis/zhang-mertens-win-womens-doubles-title-20260131-p5nyif.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Zhang, Mertens win women's doubles title",
+      "content_html": "Zhang Shuai and Elise Mertens are left in shock after they won match point in the women's doubles final.",
+      "content_text": "Zhang Shuai and Elise Mertens are left in shock after they won match point in the women's doubles final.",
+      "date_published": "2026-01-31T03:13:56.000Z"
+    },
+    {
+      "id": "83f3556c-526a-4efc-94c5-00249cc4f955",
+      "url": "https://www.smh.com.au/national/western-australia/second-note-found-at-mosman-park-property-alleged-to-detail-why-parents-carried-out-murder-suicide-20260131-p5nyi7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Second note found at Mosman Park property alleged to detail why parents carried out murder-suicide",
+      "content_html": "The note is believed to detail the overwhelm the parents were feeling before their deaths, and is alleged to indicate a level of planning.",
+      "content_text": "The note is believed to detail the overwhelm the parents were feeling before their deaths, and is alleged to indicate a level of planning.",
+      "date_published": "2026-01-31T02:58:48.000Z"
+    },
+    {
+      "id": "ff590d58-e7eb-4fef-8ee7-83bdbb65ac45",
+      "url": "https://www.smh.com.au/sport/tennis/history-will-be-made-at-rod-laver-arena-20260131-p5nyib.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "'History will be made at Rod Laver Arena'",
+      "content_html": "John Millman and Chris Stubbs preview Novak Djokovic vs Carlos Alcaraz in a blockbuster Australian Open final.",
+      "content_text": "John Millman and Chris Stubbs preview Novak Djokovic vs Carlos Alcaraz in a blockbuster Australian Open final.",
+      "date_published": "2026-01-31T02:38:56.000Z"
+    },
+    {
       "id": "884dc629-befa-441b-97f5-bf0f011ac88a",
       "url": "https://www.smh.com.au/sport/tennis/magical-shot-leaves-greats-in-awe-20260131-p5nyi4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Magical shot leaves greats in awe",

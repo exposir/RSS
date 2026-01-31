@@ -6,6 +6,14 @@
   "description": "虎嗅网RSS订阅",
   "items": [
     {
+      "id": "http://www.huxiu.com/article/4830403.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4830403.html?f=wangzhan",
+      "title": "限牌十年，为何最终限了个寂寞？",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/28/161425706064.jpg\"/>\n<p data-check-id=\"441254\">杭州车牌曾经4万一块，如今只值1000元，跌幅高达98%，比股市、楼市还惨。这期视频就来聊聊，限牌为什么最后都限了个寂寞？</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "杭州车牌曾经4万一块，如今只值1000元，跌幅高达98%，比股市、楼市还惨。这期视频就来聊聊，限牌为什么最后都限了个寂寞？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-31T03:00:00.000Z"
+    },
+    {
       "id": "http://www.huxiu.com/article/4831066.html?f=wangzhan",
       "url": "http://www.huxiu.com/article/4831066.html?f=wangzhan",
       "title": "中国车企和特斯拉的下一战，战场已定",
