@@ -1742,6 +1742,14 @@
       "date_published": "2025-02-20T04:01:20.000Z"
     },
     {
+      "id": "https://www.zhihu.com/question/12740393192",
+      "url": "https://www.zhihu.com/question/12740393192",
+      "title": "Linux 与 UNIX 这对“技术活化石”，还能扛得住下一个十年吗？",
+      "content_html": "<p>从贝尔实验室的破旧打字机到全球数据中心的钢铁森林，UNIX哲学统治计算机世界半个世纪，Linux更是把“一切皆文件”“小即是美”写进开源圣经。但2024年的技术战场早已换了天地——当全球程序员一边用kubectl调度百万容器，一边在/etc目录下战战兢兢改配置时，这种精神分裂式的开发体验，真的配得上“现代”二字吗？</p>",
+      "content_text": "从贝尔实验室的破旧打字机到全球数据中心的钢铁森林，UNIX哲学统治计算机世界半个世纪，Linux更是把“一切皆文件”“小即是美”写进开源圣经。但2024年的技术战场早已换了天地——当全球程序员一边用kubectl调度百万容器，一边在/etc目录下战战兢兢改配置时，这种精神分裂式的开发体验，真的配得上“现代”二字吗？",
+      "date_published": "2025-02-19T12:52:36.000Z"
+    },
+    {
       "id": "https://www.zhihu.com/question/12690672930",
       "url": "https://www.zhihu.com/question/12690672930",
       "title": "电视剧《雍正王朝》哪句台词最让你印象深刻？",
@@ -1804,6 +1812,14 @@
       "content_html": "",
       "content_text": "",
       "date_published": "2024-12-09T08:34:52.000Z"
+    },
+    {
+      "id": "https://www.zhihu.com/question/6076001344",
+      "url": "https://www.zhihu.com/question/6076001344",
+      "title": "古人的枕头那么硬，古人能睡得好觉吗？",
+      "content_html": "<p>如题</p>",
+      "content_text": "如题",
+      "date_published": "2024-12-05T17:27:20.000Z"
     },
     {
       "id": "https://www.zhihu.com/question/4323952465",

