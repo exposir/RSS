@@ -6,6 +6,22 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46838597",
+      "url": "https://an.dywa.ng/carrier-gnss.html",
+      "title": "Mobile carriers can get your GPS location",
+      "content_html": "<p>Article URL: <a href=\"https://an.dywa.ng/carrier-gnss.html\">https://an.dywa.ng/carrier-gnss.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46838597\">https://news.ycombinator.com/item?id=46838597</a></p>\n<p>Points: 233</p>\n<p># Comments: 141</p>",
+      "content_text": "Article URL: https://an.dywa.ng/carrier-gnss.html\nComments URL: https://news.ycombinator.com/item?id=46838597\nPoints: 233\n# Comments: 141",
+      "date_published": "2026-01-31T17:21:34.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46838417",
+      "url": "https://yle.fi/a/74-20207494",
+      "title": "Finland to end \"uncontrolled human experiment\" with ban on youth social media",
+      "content_html": "<p>Article URL: <a href=\"https://yle.fi/a/74-20207494\">https://yle.fi/a/74-20207494</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46838417\">https://news.ycombinator.com/item?id=46838417</a></p>\n<p>Points: 225</p>\n<p># Comments: 175</p>",
+      "content_text": "Article URL: https://yle.fi/a/74-20207494\nComments URL: https://news.ycombinator.com/item?id=46838417\nPoints: 225\n# Comments: 175",
+      "date_published": "2026-01-31T17:06:22.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46835336",
       "url": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
       "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",

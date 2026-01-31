@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/world/middleeast/iran-explosions-jitters.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/middleeast/iran-explosions-jitters.html",
+      "title": "Explosions in Iran Spread Jitters and Rumors Amid Anticipation of Attacks",
+      "content_html": "Deadly blasts, including one that may have been caused by a gas leak, raised anxiety in the country. “Society is waiting for war,” one Iranian said.",
+      "content_text": "Deadly blasts, including one that may have been caused by a gas leak, raised anxiety in the country. “Society is waiting for war,” one Iranian said.",
+      "date_published": "2026-01-31T20:33:43.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
       "url": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
       "title": "Danes Who Fought Alongside US Troops March Against Trump’s Comments",
