@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "ca2d7d4f-8944-44b0-8e48-5c2effe6169d",
+      "url": "https://www.smh.com.au/national/australian-open-womens-final-tonight-20260131-p5nyj3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australian Open women's final tonight",
+      "content_html": "World number one Aryna Sabalenka will be chasing redemption when the Australian Open women's final gets underway in Melbourne.",
+      "content_text": "World number one Aryna Sabalenka will be chasing redemption when the Australian Open women's final gets underway in Melbourne.",
+      "date_published": "2026-01-31T07:35:33.000Z"
+    },
+    {
       "id": "e67c737f-e7f8-49f3-acc8-3052f4f096b1",
       "url": "https://www.smh.com.au/national/two-women-described-encounter-with-alleged-triple-murder-20260131-p5nyj1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Two women described encounter with alleged triple murder",

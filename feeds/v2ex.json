@@ -17,6 +17,38 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189745",
+      "url": "https://www.v2ex.com/t/1189745#reply0",
+      "title": "[分享创造] 上线了一款完全浏览器本地的数据分析处理工具 TopZ（限时免费会员/AI 无限用）",
+      "content_html": "<p>最近几年一直在做数据相关工作，希望有一款可以随手可用（简单免安装）、处理高效、功能齐全的数据处理分析工具，于是便开发了 TopZ ( <a href=\"https://topzdata.com/app\" rel=\"nofollow\">https://topzdata.com/app</a> )</p>\n<p>核心思路是 所有数据处理都在浏览器本地完成，不上传任何东西到服务器。用了 DuckDB WASM 做查询引擎.</p>\n<p>目前可以分析处理 excel 、csv 、json 和 parquet ，数百万级的数据分析处理，我没有看到比 TopZ 更快的方式（欢迎拍砖）。 </p>\n<p>既内置了各种常用功能，也可使用 sql 直接执行。包括了数据视图、洞察、清洗、转换、可视化的常规全流程操作（哪怕只是用来做个数据浏览修改或者数据格式的转换也是很方便的），支持导出导入整个项目文件。</p>\n<p>支持 AI 对话功能，为保证数据隐私，只会把表的 Schema （列名和数据类型）给 AI ，不会上传任何实际数据。AI 根据要求生成 sql 后执行。</p>\n<p>除了 AI （这块成本较高），其余功能基本都是免费的，不需要注册登录即可使用，目前也不打算放广告。</p>\n<p>给 V2EX 一波上线福利，下面优惠码可享受 7 天会员福利（登录后在个人设置里使用，每个码可使用一次，用后说一下），AI 对话无限制使用。 </p>\n<p>关于功能使用、建议和 bug ，欢迎留言，万分感谢！</p>\n<p>J3Q4DC\nEY275V\nECS78H\nUNK6D3\n4NJZU5\n7BEFHQ\nNJXXPM\nYXC5DV\nA5YMSV\n4DJC4V\nWGZ9MU\nJ5ADTM\nXNPKES\nWXBMA6\nQBRWKX\nUHKZ3Z\nAZPQ54\nKXWAEQ\nX7P7QE\nJ3EX3G\nYB8QTJ\nUQK32Q\nT4U96E\nFK8GU8\nMH9333\nXU5CJP\n4TSA7G\nWJNDZ3\nZHJEKD\nM6U4QX</p>",
+      "content_text": "最近几年一直在做数据相关工作，希望有一款可以随手可用（简单免安装）、处理高效、功能齐全的数据处理分析工具，于是便开发了 TopZ ( https://topzdata.com/app )\n核心思路是 所有数据处理都在浏览器本地完成，不上传任何东西到服务器。用了 DuckDB WASM 做查询引擎.\n目前可以分析处理 excel 、csv 、json 和 parquet ，数百万级的数据分析处理，我没有看到比 TopZ 更快的方式（欢迎拍砖）。 \n既内置了各种常用功能，也可使用 sql 直接执行。包括了数据视图、洞察、清洗、转换、可视化的常规全流程操作（哪怕只是用来做个数据浏览修改或者数据格式的转换也是很方便的），支持导出导入整个项目文件。\n支持 AI 对话功能，为保证数据隐私，只会把表的 Schema （列名和数据类型）给 AI ，不会上传任何实际数据。AI 根据要求生成 sql 后执行。\n除了 AI （这块成本较高），其余功能基本都是免费的，不需要注册登录即可使用，目前也不打算放广告。\n给 V2EX 一波上线福利，下面优惠码可享受 7 天会员福利（登录后在个人设置里使用，每个码可使用一次，用后说一下），AI 对话无限制使用。 \n关于功能使用、建议和 bug ，欢迎留言，万分感谢！\nJ3Q4DC\nEY275V\nECS78H\nUNK6D3\n4NJZU5\n7BEFHQ\nNJXXPM\nYXC5DV\nA5YMSV\n4DJC4V\nWGZ9MU\nJ5ADTM\nXNPKES\nWXBMA6\nQBRWKX\nUHKZ3Z\nAZPQ54\nKXWAEQ\nX7P7QE\nJ3EX3G\nYB8QTJ\nUQK32Q\nT4U96E\nFK8GU8\nMH9333\nXU5CJP\n4TSA7G\nWJNDZ3\nZHJEKD\nM6U4QX",
+      "date_published": "2026-01-31T07:49:21.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189744",
+      "url": "https://www.v2ex.com/t/1189744#reply0",
+      "title": "[酷工作] [巨人网络] [AI 创新项目] 招聘 iOS / 游戏客户端(Electron) | base 上海",
+      "content_html": "<ul>\n<li>工作地点：上海松江</li>\n<li>薪资范围：20 - 40k</li>\n<li>投递邮箱： <a href=\"mailto:qianjialuo@ztgame.com\">qianjialuo@ztgame.com</a></li>\n</ul>\n<h2>关于我们</h2>\n<p>我们正在推进一款 AI 驱动的游戏项目，聚焦角色交互与长期体验。核心系统已获得真实用户验证、进入小规模测试与持续迭代阶段。<br/>\n团队背景来自成熟游戏研发与互联网产品团队，项目目标明确。现扩充关键岗位，欢迎对 AI × 游戏方向有长期兴趣的伙伴加入。</p>\n<h2>iOS 开发工程师</h2>\n<p>** [岗位职责] **</p>\n<ul>\n<li>负责将现有 Android 版本完整移植至 iOS 平台，实现与 Android 版本对等的 iOS 原生接口；</li>\n<li>负责 iOS 端核心功能开发，包括基于 WKWebView 的混合架构适配、JavaScript Bridge 通信层开发，以及音视频、网络通信等模块的实现；</li>\n<li>确保应用在不同 iOS 设备与系统版本上的兼容性与体验一致性，完成相关适配与优化工作。</li>\n</ul>\n<p>** [任职要求] **</p>\n<ul>\n<li>具备 2 年以上 iOS 原生开发经验，熟练掌握 Objective-C/Swift ；</li>\n<li>精通 WKWebView 及混合开发，熟悉 JavaScript 与原生交互机制；</li>\n<li>能熟练运用 Claude Code 、Cursor 等 AI 编程工具，具备优秀的自学与项目拆解能力。</li>\n</ul>\n<p>** [加分项] **</p>\n<ul>\n<li>具有完整的 App Store 应用上架经验；</li>\n<li>拥有游戏移植或跨平台开发相关经验；</li>\n<li>了解 TTS 推理框架的开发；</li>\n<li>具备 Android 开发经验，可阅读 Kotlin 代码。</li>\n</ul>\n<h2>游戏客户端开发工程师 (Electron + Node.js / AI 方向)</h2>\n<p>** [岗位职责] **</p>\n<ul>\n<li>负责基于 Electron 的游戏客户端架构设计与核心功能开发，确保多进程通信高效稳定。</li>\n<li>将 AI 聊天能力、动态交互叙事、多媒体资源（动图、音频、Live2D 等）深度集成到游戏客户端。</li>\n<li>与策划及 AI 算法团队配合，利用 AI 工具链快速完成原型验证及功能落地。</li>\n<li>优化 Electron 应用的内存占用与渲染性能，解决跨平台兼容性问题。</li>\n</ul>\n<p>** [任职要求] **</p>\n<ul>\n<li>2 年以上开发经验（优秀者可放宽），精通 Node.js 与 JavaScript 。</li>\n<li>深刻理解 Electron 运行机制（ Main/Renderer 进程、IPC 通信、原生模块调用）。</li>\n<li>熟悉游戏前端开发逻辑，如状态机管理、资源预加载、简单动画实现（如 PixiJS ）等。</li>\n<li>习惯并擅长使用 Claude Code / Cursor 等 AI 辅助编程工具，具备极强的自学与项目拆解能力。</li>\n<li>对 AI 驱动的交互产品有好奇心，能适应快速迭代的初创节奏。</li>\n<li>热爱二次元文化或恋爱模拟游戏，理解男性向产品的用户情绪价值点。</li>\n</ul>",
+      "content_text": "工作地点：上海松江\n薪资范围：20 - 40k\n投递邮箱： qianjialuo@ztgame.com\n\n关于我们\n我们正在推进一款 AI 驱动的游戏项目，聚焦角色交互与长期体验。核心系统已获得真实用户验证、进入小规模测试与持续迭代阶段。\n团队背景来自成熟游戏研发与互联网产品团队，项目目标明确。现扩充关键岗位，欢迎对 AI × 游戏方向有长期兴趣的伙伴加入。\niOS 开发工程师\n** [岗位职责] **\n\n负责将现有 Android 版本完整移植至 iOS 平台，实现与 Android 版本对等的 iOS 原生接口；\n负责 iOS 端核心功能开发，包括基于 WKWebView 的混合架构适配、JavaScript Bridge 通信层开发，以及音视频、网络通信等模块的实现；\n确保应用在不同 iOS 设备与系统版本上的兼容性与体验一致性，完成相关适配与优化工作。\n\n** [任职要求] **\n\n具备 2 年以上 iOS 原生开发经验，熟练掌握 Objective-C/Swift ；\n精通 WKWebView 及混合开发，熟悉 JavaScript 与原生交互机制；\n能熟练运用 Claude Code 、Cursor 等 AI 编程工具，具备优秀的自学与项目拆解能力。\n\n** [加分项] **\n\n具有完整的 App Store 应用上架经验；\n拥有游戏移植或跨平台开发相关经验；\n了解 TTS 推理框架的开发；\n具备 Android 开发经验，可阅读 Kotlin 代码。\n\n游戏客户端开发工程师 (Electron + Node.js / AI 方向)\n** [岗位职责] **\n\n负责基于 Electron 的游戏客户端架构设计与核心功能开发，确保多进程通信高效稳定。\n将 AI 聊天能力、动态交互叙事、多媒体资源（动图、音频、Live2D 等）深度集成到游戏客户端。\n与策划及 AI 算法团队配合，利用 AI 工具链快速完成原型验证及功能落地。\n优化 Electron 应用的内存占用与渲染性能，解决跨平台兼容性问题。\n\n** [任职要求] **\n\n2 年以上开发经验（优秀者可放宽），精通 Node.js 与 JavaScript 。\n深刻理解 Electron 运行机制（ Main/Renderer 进程、IPC 通信、原生模块调用）。\n熟悉游戏前端开发逻辑，如状态机管理、资源预加载、简单动画实现（如 PixiJS ）等。\n习惯并擅长使用 Claude Code / Cursor 等 AI 辅助编程工具，具备极强的自学与项目拆解能力。\n对 AI 驱动的交互产品有好奇心，能适应快速迭代的初创节奏。\n热爱二次元文化或恋爱模拟游戏，理解男性向产品的用户情绪价值点。",
+      "date_published": "2026-01-31T07:43:04.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189743",
+      "url": "https://www.v2ex.com/t/1189743#reply1",
+      "title": "[OpenClaw] openclaw 查询新闻资讯被搜索引擎反爬策略了，怎么破",
+      "content_html": "<p>让他给我截个搜索页结果图，截图中文字部分也是显示的《口口口》乱码</p>",
+      "content_text": "让他给我截个搜索页结果图，截图中文字部分也是显示的《口口口》乱码",
+      "date_published": "2026-01-31T07:37:34.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189742",
+      "url": "https://www.v2ex.com/t/1189742#reply0",
+      "title": "[酷工作] 远程资深 Unity3D 客户端开发工程师",
+      "content_html": "远程资深 Unity3D 客户端开发工程师<br />薪资：25-35K+奖金<br />要求：<br />有完整的 unity 项目经验<br /><br />岗位职责<br />1.负责 RPG 类游戏客户端核心系统的设计与开发（角色、战斗、技能、任务、UI 、地图等）<br />2.负责 Unity3D 客户端架构设计与性能优化，保障中大型项目稳定运行<br />3.参与客户端框架、工具链、资源管理、热更新方案的设计与维护<br />4.与策划、美术、服务器程序密切协作，推动需求落地与问题解决<br />5.负责疑难 Bug 定位与线上问题分析，提升整体代码质量<br />6.指导中初级程序员，进行技术评审与经验沉淀<br />任职要求<br />1.5 年及以上 Unity3D 实际项目经验，至少完整参与过 1–2 款 RPG 或 MMO 项目<br />2.精通 C# / Unity 引擎原理（生命周期、MonoBehaviour 、ScriptableObject 等）<br />3.熟悉 RPG 核心系统实现：<br />4.角色成长 / 技能系统 / 战斗逻辑<br />5.背包、任务、装备、数值系统<br />6.UI 框架（ UGUI / UI Toolkit ）<br />7.具备良好的 代码架构能力，能独立拆分模块、设计系统<br />8.熟悉客户端与服务器交互（ HTTP / Socket / Protobuf ）<br />9.具备良好的性能意识，能针对 卡顿 / 内存 / GC / DrawCall 做优化\"<br /><br />-----<br />可直接添加 TG：Skyewen20251<br />有意向投递简历到 Email 邮箱： zygs2151@gmail.com",
+      "content_text": "远程资深 Unity3D 客户端开发工程师薪资：25-35K+奖金要求：有完整的 unity 项目经验岗位职责1.负责 RPG 类游戏客户端核心系统的设计与开发（角色、战斗、技能、任务、UI 、地图等）2.负责 Unity3D 客户端架构设计与性能优化，保障中大型项目稳定运行3.参与客户端框架、工具链、资源管理、热更新方案的设计与维护4.与策划、美术、服务器程序密切协作，推动需求落地与问题解决5.负责疑难 Bug 定位与线上问题分析，提升整体代码质量6.指导中初级程序员，进行技术评审与经验沉淀任职要求1.5 年及以上 Unity3D 实际项目经验，至少完整参与过 1–2 款 RPG 或 MMO 项目2.精通 C# / Unity 引擎原理（生命周期、MonoBehaviour 、ScriptableObject 等）3.熟悉 RPG 核心系统实现：4.角色成长 / 技能系统 / 战斗逻辑5.背包、任务、装备、数值系统6.UI 框架（ UGUI / UI Toolkit ）7.具备良好的 代码架构能力，能独立拆分模块、设计系统8.熟悉客户端与服务器交互（ HTTP / Socket / Protobuf ）9.具备良好的性能意识，能针对 卡顿 / 内存 / GC / DrawCall 做优化\"-----可直接添加 TG：Skyewen20251有意向投递简历到 Email 邮箱： zygs2151@gmail.com",
+      "date_published": "2026-01-31T07:29:54.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189740",
       "url": "https://www.v2ex.com/t/1189740#reply0",
       "title": "[分享发现] Seed3D - 一张照片，秒出可打印 3D 模型！ AI 魔法生成器\n在线生成 3D 打印效果，每天 50uv 访问，，这个站什么时候可以赚钱？",

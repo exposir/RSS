@@ -6,6 +6,14 @@
   "description": "Twitter @Elon Musk - Powered by RSSHub",
   "items": [
     {
+      "id": "https://twitter.com/elonmusk/status/2017504271777075539",
+      "url": "https://x.com/elonmusk/status/2017504271777075539",
+      "title": "RT Nic Cruz Patane: SpaceX says it aims to deploy up to 1 million orbital satellite data centers in space to provide enough compute power for large-sc...",
+      "content_html": "RT Nic Cruz Patane<br>SpaceX says it aims to deploy up to 1 million orbital satellite data centers in space to provide enough compute power for large-scale AI inference and training.<br><br>• Satellites will get constant power in space.<br>• No batteries are needed.  <br>• No glass framing required, which makes the solar panels cheaper to produce.  <br>• Passive Radiative cooling  <br><br>Elon says space will be the lowest-cost place to put AI within 3 years.<br><img width=\"1360\" height=\"768\" style=\"\" src=\"https://pbs.twimg.com/media/G_-TOLrWgAAuAv8?format=jpg&name=orig\" referrerpolicy=\"no-referrer\">",
+      "content_text": "RT Nic Cruz PataneSpaceX says it aims to deploy up to 1 million orbital satellite data centers in space to provide enough compute power for large-scale AI inference and training.• Satellites will get constant power in space.• No batteries are needed.  • No glass framing required, which makes the solar panels cheaper to produce.  • Passive Radiative cooling  Elon says space will be the lowest-cost place to put AI within 3 years.",
+      "date_published": "2026-01-31T06:59:57.000Z"
+    },
+    {
       "id": "https://twitter.com/elonmusk/status/2017490867834261770",
       "url": "https://x.com/elonmusk/status/2017490867834261770",
       "title": "RT DogeDesigner: ELON MUSK: \"I do see a path to 100 gigawatts a year of AI powered space solar satellites. If you do a million tons of payload to orbi...",
