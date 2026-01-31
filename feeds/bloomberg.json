@@ -6,6 +6,14 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-31/france-lowers-limit-for-toxin-in-baby-formula-may-spark-recalls",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/france-lowers-limit-for-toxin-in-baby-formula-may-spark-recalls",
+      "title": "France Lowers Limit for Toxin in Baby Formula, May Spark Recalls",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T08:35:15.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/articles/2026-01-31/musk-says-he-repeatedly-declined-invitations-from-epstein",
       "url": "https://www.bloomberg.com/news/articles/2026-01-31/musk-says-he-repeatedly-declined-invitations-from-epstein",
       "title": "Musk Says He Repeatedly Declined Invitations from Epstein",

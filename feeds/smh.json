@@ -6,6 +6,22 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "66c52704-9b34-4f91-b82b-feb788c2a8b3",
+      "url": "https://www.smh.com.au/sport/tennis/rybakina-powers-her-way-to-early-break-of-sabalenkas-serve-20260131-p5nyjc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rybakina powers her way to early break of Sabalenka's serve",
+      "content_html": "Elena Rybakina grabs the early break in the Australian Open women's final.",
+      "content_text": "Elena Rybakina grabs the early break in the Australian Open women's final.",
+      "date_published": "2026-01-31T08:58:43.000Z"
+    },
+    {
+      "id": "fef7d62f-3b05-4f81-be67-6b5b54fc52b7",
+      "url": "https://www.smh.com.au/national/queensland-charity-founder-faces-court-20260131-p5nyjb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Queensland charity founder faces court",
+      "content_html": "The founder of a well known Gold Coast charity supporting the homeless has fronted court accused of sexually assaulting multiple women.",
+      "content_text": "The founder of a well known Gold Coast charity supporting the homeless has fronted court accused of sexually assaulting multiple women.",
+      "date_published": "2026-01-31T08:53:53.000Z"
+    },
+    {
       "id": "b3fce3ce-d177-4688-a746-bd41514d677b",
       "url": "https://www.smh.com.au/sport/mjf-is-pro-wrestling-s-scumbag-champ-and-wouldn-t-have-it-any-other-way-20260130-p5nye5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "MJF is pro wrestling’s scumbag champ and wouldn’t have it any other way",

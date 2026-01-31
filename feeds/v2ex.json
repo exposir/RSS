@@ -17,6 +17,30 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189759",
+      "url": "https://www.v2ex.com/t/1189759#reply1",
+      "title": "[问与答] [问卷调查] 大量的加班，有没有磨灭你对编程的兴趣？有没有削弱你的人生幸福度？",
+      "content_html": "<p>请各位老哥在评论区留下你的看法</p>",
+      "content_text": "请各位老哥在评论区留下你的看法",
+      "date_published": "2026-01-31T09:11:11.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189757",
+      "url": "https://www.v2ex.com/t/1189757#reply0",
+      "title": "[分享创造] 来分享下我塞了一大堆功能，但只有 4MB 的 AI App： Ract",
+      "content_html": "<p>我也来发布下我的 AI App：Ract</p>\n<p>使用 Swift 开发，在很小的包体积上，做了不少功能：</p>\n<ol>\n<li>\n<p>自动化动作：把发送给 ai 的“多轮消息”保存为自动化动作，可以定时调用。比如每天早上自动调用麦当劳 mcp 帮我领优惠券，然后发系统消息通知告诉我</p>\n</li>\n<li>\n<p>支持加载 skills 技能，还支持了输入 <a href=\"http://SKILL.md\" rel=\"nofollow\">http://SKILL.md</a> 链接，一键下载</p>\n</li>\n<li>\n<p>mcp 、acp 协议支持</p>\n</li>\n<li>\n<p>网站连接：用“已登录态”让内置工具去访问一些网站（登录态也保存在本地）</p>\n</li>\n<li>\n<p>语音朗读：直接集成苹果系统的 TTS 能力，开箱即用</p>\n</li>\n<li>\n<p>内置多种工具：网络搜索、内容获取、截图、cmd_execute 等等，并对一些高危操作请求授权</p>\n</li>\n<li>\n<p>subagent 任务委派：让专业的智能体完成专业的任务</p>\n</li>\n<li>\n<p>会话文件的预览，展示会话文件目录，直接预览 ai 生成的 html 页面、图片等等</p>\n</li>\n<li>\n<p>任务拆分与管理，可以让 agent 按照多步骤更好地完成复杂任务（参考 cursor 的 todo_write 工具）</p>\n</li>\n<li>\n<p>记忆：自动记忆更新，也可以手动添加记忆，在聊天的过程中自动选择调用记忆，ai 也会自动更新一些记忆</p>\n</li>\n<li>\n<p>除了常规的 models. dev 集成之外，还支持了很多提供商的“一键接入”，点击按钮登录授权</p>\n</li>\n<li>\n<p>很常规的流式输出、markdown 渲染和深度思考过程</p>\n</li>\n<li>\n<p>不收集任何用户信息</p>\n</li>\n</ol>\n<p>最重要的是，这么多功能，体积只有 4 MB ！并且免费、也不用注册登录</p>\n<p>下载地址： <a href=\"https://ractai.com\" rel=\"nofollow\">https://ractai.com</a></p>\n<p>因为是个人业余时间开发，还有很多不足，希望大家用的开心</p>\n<p>ps: Ract 的名字，来源于 ReAct ，另外也是做这个 app 最初的动机：想把一些和 ai 交互让它去做的事情，变成可以自动化的动作，自动去执行。</p>",
+      "content_text": "我也来发布下我的 AI App：Ract\n使用 Swift 开发，在很小的包体积上，做了不少功能：\n\n\n自动化动作：把发送给 ai 的“多轮消息”保存为自动化动作，可以定时调用。比如每天早上自动调用麦当劳 mcp 帮我领优惠券，然后发系统消息通知告诉我\n\n\n支持加载 skills 技能，还支持了输入 http://SKILL.md 链接，一键下载\n\n\nmcp 、acp 协议支持\n\n\n网站连接：用“已登录态”让内置工具去访问一些网站（登录态也保存在本地）\n\n\n语音朗读：直接集成苹果系统的 TTS 能力，开箱即用\n\n\n内置多种工具：网络搜索、内容获取、截图、cmd_execute 等等，并对一些高危操作请求授权\n\n\nsubagent 任务委派：让专业的智能体完成专业的任务\n\n\n会话文件的预览，展示会话文件目录，直接预览 ai 生成的 html 页面、图片等等\n\n\n任务拆分与管理，可以让 agent 按照多步骤更好地完成复杂任务（参考 cursor 的 todo_write 工具）\n\n\n记忆：自动记忆更新，也可以手动添加记忆，在聊天的过程中自动选择调用记忆，ai 也会自动更新一些记忆\n\n\n除了常规的 models. dev 集成之外，还支持了很多提供商的“一键接入”，点击按钮登录授权\n\n\n很常规的流式输出、markdown 渲染和深度思考过程\n\n\n不收集任何用户信息\n\n\n最重要的是，这么多功能，体积只有 4 MB ！并且免费、也不用注册登录\n下载地址： https://ractai.com\n因为是个人业余时间开发，还有很多不足，希望大家用的开心\nps: Ract 的名字，来源于 ReAct ，另外也是做这个 app 最初的动机：想把一些和 ai 交互让它去做的事情，变成可以自动化的动作，自动去执行。",
+      "date_published": "2026-01-31T09:00:54.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189756",
+      "url": "https://www.v2ex.com/t/1189756#reply0",
+      "title": "[分享创造] [油猴脚本] B 站弹幕合并器",
+      "content_html": "<p>各位早中下午好，不知道各位看视频爱不爱看弹幕，反正我是离不开了，恨不得去电影院都能开着弹幕看。就好这一口氛围感。从去年开始 B 站就回到以前的大航海时代，资源满天飞，但还得和版权方躲猫猫，导致要么是 N 个 UP 上传各种神命名的番剧，要么就是来不及看被补档了，导致弹幕分布在各个角落，为了自己看的爽一点，搞了个弹幕合并器脚本。完成得差不多了，分享出来。</p>\n<h2>预览</h2>\n<h3>搜索界面</h3>\n<p>通过关键词或 BV 号快速查找目标视频。\n<img alt=\"搜索界面\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/TnM6RGh.png\"/></p>\n<h3>管理界面</h3>\n<p>选择分 P 并设置时间偏移。\n<img alt=\"管理界面\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/tm5J1Ch.png\"/></p>\n<h3>弹幕效果</h3>\n<p>多源弹幕同屏显示，增强互动感。\n<img alt=\"弹幕效果\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/YvHop3f.png\"/></p>\n<h3>支持时间跳转</h3>\n<p>适配时间戳弹幕，支持点击跳转。\n<img alt=\"支持时间跳转\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/I8Tm7Wv.png\"/></p>\n<h2>安装说明</h2>\n<ol>\n<li>确保浏览器已安装 <a href=\"https://www.tampermonkey.net/\" rel=\"nofollow\">Tampermonkey</a> 插件。\t</li>\n<li>前往 <a href=\"https://greasyfork.org/zh-CN/scripts/564661-b%E7%AB%99%E5%BC%B9%E5%B9%95%E5%90%88%E5%B9%B6%E5%99%A8\" rel=\"nofollow\">Greasy Fork</a> 点击安装（推荐）。</li>\n<li>或者下载并手动安装本仓库<a href=\"https://github.com/XianYuDaXian/scripts\" rel=\"nofollow\">Github</a>中的 <code>Bilibili_Danmaku_Merger.js</code> 脚本。</li>\n<li>刷新 B 站视频页面即可在播放器下方或侧边看到“合并弹幕”按钮。</li>\n</ol>",
+      "content_text": "各位早中下午好，不知道各位看视频爱不爱看弹幕，反正我是离不开了，恨不得去电影院都能开着弹幕看。就好这一口氛围感。从去年开始 B 站就回到以前的大航海时代，资源满天飞，但还得和版权方躲猫猫，导致要么是 N 个 UP 上传各种神命名的番剧，要么就是来不及看被补档了，导致弹幕分布在各个角落，为了自己看的爽一点，搞了个弹幕合并器脚本。完成得差不多了，分享出来。\n预览\n搜索界面\n通过关键词或 BV 号快速查找目标视频。\n\n管理界面\n选择分 P 并设置时间偏移。\n\n弹幕效果\n多源弹幕同屏显示，增强互动感。\n\n支持时间跳转\n适配时间戳弹幕，支持点击跳转。\n\n安装说明\n\n确保浏览器已安装 Tampermonkey 插件。\t\n前往 Greasy Fork 点击安装（推荐）。\n或者下载并手动安装本仓库Github中的 Bilibili_Danmaku_Merger.js 脚本。\n刷新 B 站视频页面即可在播放器下方或侧边看到“合并弹幕”按钮。",
+      "date_published": "2026-01-31T08:45:13.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189755",
       "url": "https://www.v2ex.com/t/1189755#reply0",
       "title": "[分享发现] Safari 浏览器的指纹保护一点用都没有",
