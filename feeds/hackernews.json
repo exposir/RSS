@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46835336",
+      "url": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
+      "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
+      "content_html": "<p>Article URL: <a href=\"https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/\">https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46835336\">https://news.ycombinator.com/item?id=46835336</a></p>\n<p>Points: 341</p>\n<p># Comments: 273</p>",
+      "content_text": "Article URL: https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/\nComments URL: https://news.ycombinator.com/item?id=46835336\nPoints: 341\n# Comments: 273",
+      "date_published": "2026-01-31T10:34:07.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46832074",
       "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
       "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",

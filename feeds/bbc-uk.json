@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/football/articles/cp9jev077j3o#8",
+      "url": "https://www.bbc.com/sport/football/articles/cp9jev077j3o?at_medium=RSS&at_campaign=rss",
+      "title": "Forest agree Ortega deal and target Inter's Frattesi",
+      "content_html": "Nottingham Forest agree a deal for Manchester City goalkeeper Stefan Ortega worth up to £500,000.",
+      "content_text": "Nottingham Forest agree a deal for Manchester City goalkeeper Stefan Ortega worth up to £500,000.",
+      "date_published": "2026-01-31T14:06:51.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4gv81124j1o#0",
+      "url": "https://www.bbc.com/news/articles/c4gv81124j1o?at_medium=RSS&at_campaign=rss",
+      "title": "Zack Polanski is having fun. But can the Green leader become a serious player?",
+      "content_html": "The Greens' new leader has generated a lot of excitement. Can he translate the buzz into electoral success?",
+      "content_text": "The Greens' new leader has generated a lot of excitement. Can he translate the buzz into electoral success?",
+      "date_published": "2026-01-31T13:41:45.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/c0q4v54ynzjo#8",
+      "url": "https://www.bbc.com/sport/tennis/articles/c0q4v54ynzjo?at_medium=RSS&at_campaign=rss",
+      "title": "'She basically capitulated' - is Sabalenka underachieving at the Slams?",
+      "content_html": "After losing another Grand Slam final - this time to Elena Rybakina at the Australian Open - BBC Sport asks if Aryna Sabalenka is underachieving at the majors.",
+      "content_text": "After losing another Grand Slam final - this time to Elena Rybakina at the Australian Open - BBC Sport asks if Aryna Sabalenka is underachieving at the majors.",
+      "date_published": "2026-01-31T13:36:09.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c701g1g00gdo#0",
       "url": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
       "title": "Israeli air strikes kill at least 27 Palestinians in Gaza, rescue officials say",
@@ -44,6 +68,14 @@
       "content_html": "Already facing electricity cuts, civilians are struggling to keep warm in their own homes as temperatures are set to plummet.",
       "content_text": "Already facing electricity cuts, civilians are struggling to keep warm in their own homes as temperatures are set to plummet.",
       "date_published": "2026-01-31T12:02:00.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o#2",
+      "url": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o?at_medium=RSS&at_campaign=rss",
+      "title": "Rybakina beats Sabalenka for first Australian Open title",
+      "content_html": "Elena Rybakina inflicts further Grand Slam final heartbreak on Aryna Sabalenka with a stunning third-set fightback to win the Australian Open.",
+      "content_text": "Elena Rybakina inflicts further Grand Slam final heartbreak on Aryna Sabalenka with a stunning third-set fightback to win the Australian Open.",
+      "date_published": "2026-01-31T12:00:44.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/ce3k4xdqyp1o#2",
