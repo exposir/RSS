@@ -17,6 +17,46 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189766",
+      "url": "https://www.v2ex.com/t/1189766#reply0",
+      "title": "[Vibe Coding] 分享土豪专用提示词， cursor 中实现自动任务分割，并行开发",
+      "content_html": "<p>主控 agent 负责调度，子 agent 执行小任务，估计是未来的趋势了。最近 cursor 也终于更新支持了后台并行 agent ，我写了一套提示词自己用了一段时间很爽，分享给大家。</p>\n<p>原理就是通过主控 agent 分配任务给子 agent ，你只需要为你的需求好好的写一个 plan 文档，剩下的交给 agent 调度员就行了。</p>\n<p><a href=\"https://github.com/doraemonkeys/ai_prompt/blob/main/code_orchestrator_cursor.md\" rel=\"nofollow\">orchestrator cursor</a></p>\n<p><a href=\"https://github.com/doraemonkeys/ai_prompt/blob/main/code_orchestrator.md\" rel=\"nofollow\">orchestrator claude code</a></p>\n<p><a href=\"https://github.com/doraemonkeys/ai_prompt/blob/main/review_agent_cursor.md\" rel=\"nofollow\">code review cursor</a></p>\n<p>claude code 版本使用了 <code>claude -p</code> 命令行调度而不是 claude code 内置的后台任务功能，是因为 claude code 里边子 agent 上下文隔离没有做好，导致主 agent 上下文膨胀降智。</p>\n<p>open code 可以直接使用 oh-my-opencode 插件。</p>\n<p>请直接使用 opus 4.5 等聪明模型(很值得)，一天花个几十刀完全没有问题。</p>",
+      "content_text": "主控 agent 负责调度，子 agent 执行小任务，估计是未来的趋势了。最近 cursor 也终于更新支持了后台并行 agent ，我写了一套提示词自己用了一段时间很爽，分享给大家。\n原理就是通过主控 agent 分配任务给子 agent ，你只需要为你的需求好好的写一个 plan 文档，剩下的交给 agent 调度员就行了。\norchestrator cursor\norchestrator claude code\ncode review cursor\nclaude code 版本使用了 claude -p 命令行调度而不是 claude code 内置的后台任务功能，是因为 claude code 里边子 agent 上下文隔离没有做好，导致主 agent 上下文膨胀降智。\nopen code 可以直接使用 oh-my-opencode 插件。\n请直接使用 opus 4.5 等聪明模型(很值得)，一天花个几十刀完全没有问题。",
+      "date_published": "2026-01-31T09:46:34.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189765",
+      "url": "https://www.v2ex.com/t/1189765#reply0",
+      "title": "[分享发现] 我相信很多人部署 openclaw 都遇到了 web_search 所用的 brave search api 没有密钥，导致无法搜索网络的问题",
+      "content_html": "我的一个替代思路就是：<br />1. 让 openclaw 自己开启无头浏览器功能<br />2. 让 openclaw 自己写一个 skill ，用于在网络搜索的时候自动通过无头浏览器访问 bing （国内网络友好）并进行搜索<br />3. 让 openclaw 自己修改工作目录下的 <a target=\"_blank\" href=\"http://agents.md\" rel=\"nofollow noopener\">agents.md</a> ，添加重要限制：禁止使用 web_search 工具，所有需要使用 web_search 工具的操作，都使用 bing 搜索的 skill 代替<br /><br />据我实测，这样在需要搜索网络的时候，大部分时候就会直接调用 bing 去搜索结果，小部分情况下会先使用 web_search 工具，调用失败后再调用 bing 的 skill ，但肯定不会出现之前调用 web_search 失败就终止任务的情况。<br /><br />如果你们有更好的方案也可以分享到这里。",
+      "content_text": "我的一个替代思路就是：1. 让 openclaw 自己开启无头浏览器功能2. 让 openclaw 自己写一个 skill ，用于在网络搜索的时候自动通过无头浏览器访问 bing （国内网络友好）并进行搜索3. 让 openclaw 自己修改工作目录下的 agents.md ，添加重要限制：禁止使用 web_search 工具，所有需要使用 web_search 工具的操作，都使用 bing 搜索的 skill 代替据我实测，这样在需要搜索网络的时候，大部分时候就会直接调用 bing 去搜索结果，小部分情况下会先使用 web_search 工具，调用失败后再调用 bing 的 skill ，但肯定不会出现之前调用 web_search 失败就终止任务的情况。如果你们有更好的方案也可以分享到这里。",
+      "date_published": "2026-01-31T09:46:01.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189764",
+      "url": "https://www.v2ex.com/t/1189764#reply0",
+      "title": "[问与答] 如何解决微信绑定美国手机号，好友微信不停的风险提示",
+      "content_html": "如题：<br />如何解决微信绑定美国手机号，好友微信不停的风险提示",
+      "content_text": "如题：如何解决微信绑定美国手机号，好友微信不停的风险提示",
+      "date_published": "2026-01-31T09:41:25.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189762",
+      "url": "https://www.v2ex.com/t/1189762#reply0",
+      "title": "[程序员] [免费使用] run skill ai, completely free run the best Skill from 30,000+",
+      "content_html": "<p>做出来给大家免费使用，欢迎评价</p>\n<p><a href=\"https://www.runskill.ai/\" rel=\"nofollow\">https://www.runskill.ai/</a></p>",
+      "content_text": "做出来给大家免费使用，欢迎评价\nhttps://www.runskill.ai/",
+      "date_published": "2026-01-31T09:34:11.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189761",
+      "url": "https://www.v2ex.com/t/1189761#reply0",
+      "title": "[推广] NanoBananaPro 原生 API，稳定高并发 GCP T3，低至八分/次",
+      "content_html": "<p>NanoBananaPro 中转 API</p>\n<p>渠道为 GCP Tier3 ，原生格式，1k/2k/4k 同价，0.1¥/次，量大低至 0.08¥/次</p>\n<p>目前我们面向日出图量稳定＞ 1000 的代理或团队等提供服务，提供测试额度，稳定性与出图速度优异。</p>\n<p>有意对接请联系：sunsuwa</p>",
+      "content_text": "NanoBananaPro 中转 API\n渠道为 GCP Tier3 ，原生格式，1k/2k/4k 同价，0.1¥/次，量大低至 0.08¥/次\n目前我们面向日出图量稳定＞ 1000 的代理或团队等提供服务，提供测试额度，稳定性与出图速度优异。\n有意对接请联系：sunsuwa",
+      "date_published": "2026-01-31T09:28:24.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189759",
       "url": "https://www.v2ex.com/t/1189759#reply1",
       "title": "[问与答] [问卷调查] 大量的加班，有没有磨灭你对编程的兴趣？有没有削弱你的人生幸福度？",

@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "2206d690-4025-45e3-9434-cfa23d90bf71",
+      "url": "https://www.smh.com.au/national/prominent-builders-battle-to-stay-afloat-20260131-p5nyjf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Prominent builders battle to stay afloat",
+      "content_html": "Dozens of new homes are up in the air after Beechwood Homes battles to stay afloat.",
+      "content_text": "Dozens of new homes are up in the air after Beechwood Homes battles to stay afloat.",
+      "date_published": "2026-01-31T09:45:16.000Z"
+    },
+    {
+      "id": "606f0da6-d645-472d-9bbe-babae631d8e9",
+      "url": "https://www.smh.com.au/national/alleged-fake-casting-agent-charged-with-child-prostitution-20260131-p5nyje.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Alleged fake casting agent charged with child prostitution",
+      "content_html": "A 57-year-old Sydney father faced court, accused of luring young actors with fake opportunities in exchange for sexual favours.",
+      "content_text": "A 57-year-old Sydney father faced court, accused of luring young actors with fake opportunities in exchange for sexual favours.",
+      "date_published": "2026-01-31T09:40:11.000Z"
+    },
+    {
+      "id": "6429bc24-a4a3-469a-af45-e9b28691b36a",
+      "url": "https://www.smh.com.au/sport/tennis/rybakina-dominates-early-to-secure-first-set-20260131-p5nyjd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rybakina dominates early to secure first set",
+      "content_html": "Remaining ice-cool, Elena Rybakina polishes off the opening set and takes charge of the women’s singles final.",
+      "content_text": "Remaining ice-cool, Elena Rybakina polishes off the opening set and takes charge of the women’s singles final.",
+      "date_published": "2026-01-31T09:34:32.000Z"
+    },
+    {
+      "id": "94faa0e3-96b1-4497-b14d-8685cf5c8030",
+      "url": "https://www.smh.com.au/national/bill-gates-in-premium-open-seats-far-from-nosy-epstein-files-questions-20260131-p5nyi3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Bill Gates in premium Open seats, far from nosy Epstein files questions",
+      "content_html": "It had been going swimmingly for the billionaire, who was back at the Australian Open to watch the men’s doubles final.",
+      "content_text": "It had been going swimmingly for the billionaire, who was back at the Australian Open to watch the men’s doubles final.",
+      "date_published": "2026-01-31T09:33:11.000Z"
+    },
+    {
       "id": "66c52704-9b34-4f91-b82b-feb788c2a8b3",
       "url": "https://www.smh.com.au/sport/tennis/rybakina-powers-her-way-to-early-break-of-sabalenkas-serve-20260131-p5nyjc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Rybakina powers her way to early break of Sabalenka's serve",
