@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/us/judge-minnesota-ice-ruling.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/judge-minnesota-ice-ruling.html",
+      "title": "Federal Judge Denies Request to Block ICE Surge in Minnesota",
+      "content_html": "Local officials had argued that the decision to send some 3,000 immigration agents to Minnesota amounted to a violation of state sovereignty.",
+      "content_text": "Local officials had argued that the decision to send some 3,000 immigration agents to Minnesota amounted to a violation of state sovereignty.",
+      "date_published": "2026-01-31T16:34:28.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/us/bovino-jewish-prosecutor-minnesota.html",
       "url": "https://www.nytimes.com/2026/01/31/us/bovino-jewish-prosecutor-minnesota.html",
       "title": "Bovino Is Said to Have Mocked Prosecutor’s Jewish Faith on Call With Lawyers",
