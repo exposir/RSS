@@ -6,6 +6,14 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/diplomacy/article/3341885/canada-and-uk-hit-refresh-china-ties-end-five-eyes?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3341885/canada-and-uk-hit-refresh-china-ties-end-five-eyes?utm_source=rss_feed",
+      "title": "As Canada and UK hit refresh on China ties, is this the end of Five Eyes?",
+      "content_html": "In the first few weeks of this year alone, the leaders of two of the five “eyes” in the world’s oldest intelligence-sharing alliance signalled they were ready to rethink their relationship with China.\nFirst came Canadian Prime Minister Mark Carney and then this week it was the turn of his British counterpart, Keir Starmer.\nAs Western economies grapple with the unpredictability and at times hostility of the White House’s policies, Canada and Britain have both sought to find a new way to work with...",
+      "content_text": "In the first few weeks of this year alone, the leaders of two of the five “eyes” in the world’s oldest intelligence-sharing alliance signalled they were ready to rethink their relationship with China.\nFirst came Canadian Prime Minister Mark Carney and then this week it was the turn of his British counterpart, Keir Starmer.\nAs Western economies grapple with the unpredictability and at times hostility of the White House’s policies, Canada and Britain have both sought to find a new way to work with...",
+      "date_published": "2026-01-31T01:00:13.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/us/diplomacy/article/3341911/us-likely-averts-major-government-shutdown-splitting-bill-partial-closure-looms?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/us/diplomacy/article/3341911/us-likely-averts-major-government-shutdown-splitting-bill-partial-closure-looms?utm_source=rss_feed",
       "title": "US likely averts major government shutdown by splitting bill, but partial closure looms",

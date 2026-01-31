@@ -6,6 +6,30 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/business/trump-bureau-of-labor-statistics-brett-matsumoto.html",
+      "url": "https://www.nytimes.com/2026/01/30/business/trump-bureau-of-labor-statistics-brett-matsumoto.html",
+      "title": "Trump Names ‘Data Nerd’ to Lead Labor Statistics Agency",
+      "content_html": "The decision to nominate Brett Matsumoto, a career government economist, came six months after the president fired the previous commissioner.",
+      "content_text": "The decision to nominate Brett Matsumoto, a career government economist, came six months after the president fired the previous commissioner.",
+      "date_published": "2026-01-31T01:02:32.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html",
+      "title": "U.N. Says It’s in Danger of Financial Collapse Because of Members’ Unpaid Dues",
+      "content_html": "The world body warned it would run out of money by July and have to close its New York headquarters if countries, namely the United States, did not pay annual dues that amount to billions of dollars.",
+      "content_text": "The world body warned it would run out of money by July and have to close its New York headquarters if countries, namely the United States, did not pay annual dues that amount to billions of dollars.",
+      "date_published": "2026-01-31T00:09:38.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
+      "url": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
+      "title": "Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon",
+      "content_html": "The New Shepard rocket from Blue Origin, which brought 92 people on trips to the edge of space, will cease flying for at least two years as the company prioritizes NASA contracts.",
+      "content_text": "The New Shepard rocket from Blue Origin, which brought 92 people on trips to the edge of space, will cease flying for at least two years as the company prioritizes NASA contracts.",
+      "date_published": "2026-01-30T23:47:54.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/us/politics/trump-lawsuit-irs-taxes.html",
       "url": "https://www.nytimes.com/2026/01/30/us/politics/trump-lawsuit-irs-taxes.html",
       "title": "Trump’s Lawsuit Against I.R.S. Creates ‘Enormous Conflict of Interest’",

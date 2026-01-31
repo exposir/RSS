@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "884dc629-befa-441b-97f5-bf0f011ac88a",
+      "url": "https://www.smh.com.au/sport/tennis/magical-shot-leaves-greats-in-awe-20260131-p5nyi4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Magical shot leaves greats in awe",
+      "content_html": "Aleksandra Krunic delivers a magical play to win a point in the first set of the women's doubles final.",
+      "content_text": "Aleksandra Krunic delivers a magical play to win a point in the first set of the women's doubles final.",
+      "date_published": "2026-01-31T01:43:45.000Z"
+    },
+    {
+      "id": "40133a23-dbc2-4653-ac61-a038fb18222c",
+      "url": "https://www.smh.com.au/national/queensland/six-hospitalised-during-seven-hours-of-e-scooter-carnage-overnight-20260131-p5nyhu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Six hospitalised during seven hours of e-scooter carnage overnight",
+      "content_html": "A young boy was among those injured during a chaotic night involving e-devices, which are facing government scrutiny.",
+      "content_text": "A young boy was among those injured during a chaotic night involving e-devices, which are facing government scrutiny.",
+      "date_published": "2026-01-31T01:16:35.000Z"
+    },
+    {
+      "id": "353f87d1-46ba-479e-a0f7-bdd9cc584157",
+      "url": "https://www.smh.com.au/culture/live-reviews/divinyls-legend-chrissy-amphlett-lives-on-in-potent-and-moving-performance-20260131-p5nyhz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Divinyls legend Chrissy Amphlett lives on in potent and moving performance",
+      "content_html": "Sheridan Harbridge doesn’t become Amphlett but the rock legend is very present in this storming show about her life and work.",
+      "content_text": "Sheridan Harbridge doesn’t become Amphlett but the rock legend is very present in this storming show about her life and work.",
+      "date_published": "2026-01-31T01:05:44.000Z"
+    },
+    {
+      "id": "cc0c3567-c1f7-4d6d-b9d9-5f20ee356b35",
+      "url": "https://www.smh.com.au/goodfood/perth-eating-out/a-turkish-favourite-expands-to-vic-park-and-brings-an-exclusive-doner-with-it-20260130-p5nyfo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "A Turkish favourite expands to Vic Park – and brings an exclusive doner with it",
+      "content_html": "A doner kebab with a difference, the smoky kiss of charcoal, great breads plus an all-time baklava: just four reasons to set course for Antep Mangal’s new outpost.",
+      "content_text": "A doner kebab with a difference, the smoky kiss of charcoal, great breads plus an all-time baklava: just four reasons to set course for Antep Mangal’s new outpost.",
+      "date_published": "2026-01-31T00:06:31.000Z"
+    },
+    {
       "id": "76ab870e-b775-4d1c-85dd-bf222fbaf1cc",
       "url": "https://www.smh.com.au/culture/live-reviews/flashback-to-marriage-equality-vote-evokes-tumult-of-a-devastating-time-20260128-p5nxok.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Nick Cave’s odyssey into the darkness is tempered by light",

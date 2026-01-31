@@ -6,12 +6,28 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003298919",
+      "url": "https://www.wsj.com/world/middle-east/trumps-armada-is-getting-in-place-now-he-must-decide-what-to-do-with-iran-93007d5a",
+      "title": "Trump&#x2019;s Armada Is Getting in Place. Now He Must Decide What to Do With Iran.",
+      "content_html": "The president has asked aides for quick and decisive options that don&#x2019;t risk a long-term war in the Middle East. The ideal option would hit the regime hard enough that it has no choice but to accede to U.S. nuclear demands and lay off dissidents, officials said.",
+      "content_text": "The president has asked aides for quick and decisive options that don&#x2019;t risk a long-term war in the Middle East. The ideal option would hit the regime hard enough that it has no choice but to accede to U.S. nuclear demands and lay off dissidents, officials said.",
+      "date_published": "2026-01-31T01:00:00.000Z"
+    },
+    {
       "id": "SB12264937453160404360904592634222161111952",
       "url": "https://www.wsj.com/opinion/hong-kong-tiananmen-square-vigil-trial-chow-hang-tung-albert-ho-lee-cheuk-yan-e9815d1f",
       "title": "Opinion | A Tiananmen Memory Crime in Hong Kong",
       "content_html": "Three Hong Kong citizens face a decade in prison for lighting memorial candles.",
       "content_text": "Three Hong Kong citizens face a decade in prison for lighting memorial candles.",
       "date_published": "2026-01-30T22:30:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003298917",
+      "url": "https://www.wsj.com/arts-culture/television/catherine-o-hara-dies-actress-74b8505d",
+      "title": "Catherine O&#x2019;Hara, One of Hollywood&#x2019;s Most Beloved Comedic Actresses, Has Died at 71",
+      "content_html": "The &#x2018;Home Alone&#x2019; and &#x2018;Schitt&#x2019;s Creek&#x2019; star was a singular zany talent who valued the transformative power of wigs.",
+      "content_text": "The &#x2018;Home Alone&#x2019; and &#x2018;Schitt&#x2019;s Creek&#x2019; star was a singular zany talent who valued the transformative power of wigs.",
+      "date_published": "2026-01-30T21:49:00.000Z"
     },
     {
       "id": "WP-WSJ-0003298964",

@@ -230,6 +230,14 @@
       "date_published": "2026-01-29T03:58:33.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46804854",
+      "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
+      "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
+      "content_html": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105\">https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46804854\">https://news.ycombinator.com/item?id=46804854</a></p>\n<p>Points: 233</p>\n<p># Comments: 61</p>",
+      "content_text": "Article URL: https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105\nComments URL: https://news.ycombinator.com/item?id=46804854\nPoints: 233\n# Comments: 61",
+      "date_published": "2026-01-29T02:11:42.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46804828",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "title": "Render Mermaid diagrams as SVGs or ASCII art",

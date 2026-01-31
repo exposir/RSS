@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html",
+      "url": "https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html",
+      "title": "U.N. Says It’s in Danger of Financial Collapse Because of Members’ Unpaid Dues",
+      "content_html": "The world body warned it would run out of money by July and have to close its New York headquarters if countries, namely the United States, did not pay annual dues that amount to billions of dollars.",
+      "content_text": "The world body warned it would run out of money by July and have to close its New York headquarters if countries, namely the United States, did not pay annual dues that amount to billions of dollars.",
+      "date_published": "2026-01-31T00:09:38.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/video/world/middleeast/100000010675129/why-trump-is-going-after-iran-now.html",
       "url": "https://www.nytimes.com/video/world/middleeast/100000010675129/why-trump-is-going-after-iran-now.html",
       "title": "Why Trump Is Going After Iran Now",

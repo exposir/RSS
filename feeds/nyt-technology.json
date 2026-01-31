@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
+      "url": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
+      "title": "Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon",
+      "content_html": "The New Shepard rocket from Blue Origin, which brought 92 people on trips to the edge of space, will cease flying for at least two years as the company prioritizes NASA contracts.",
+      "content_text": "The New Shepard rocket from Blue Origin, which brought 92 people on trips to the edge of space, will cease flying for at least two years as the company prioritizes NASA contracts.",
+      "date_published": "2026-01-30T23:47:54.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
       "url": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
       "title": "Tesla’s Model S, Soon to Be History, Changed the Auto Industry",
