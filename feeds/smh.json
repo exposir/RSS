@@ -6,6 +6,62 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "e67c737f-e7f8-49f3-acc8-3052f4f096b1",
+      "url": "https://www.smh.com.au/national/two-women-described-encounter-with-alleged-triple-murder-20260131-p5nyj1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Two women described encounter with alleged triple murder",
+      "content_html": "Two of the last people to come face-to-face with alleged triple murderer from NSW, Julian Ingram, have spoken about their encounter.",
+      "content_text": "Two of the last people to come face-to-face with alleged triple murderer from NSW, Julian Ingram, have spoken about their encounter.",
+      "date_published": "2026-01-31T07:23:09.000Z"
+    },
+    {
+      "id": "e57e440b-a065-40d5-b2df-dc06ef400e7a",
+      "url": "https://www.smh.com.au/national/actress-catherine-ohara-dies-aged-71-20260131-p5nyj0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Actress Catherine O'Hara dies, aged 71",
+      "content_html": "Dozens of characters, unforgettable one-liners and a lot of heart, that's how actress Catherine O'Hara is being remembered after her sudden death at the age of 71.",
+      "content_text": "Dozens of characters, unforgettable one-liners and a lot of heart, that's how actress Catherine O'Hara is being remembered after her sudden death at the age of 71.",
+      "date_published": "2026-01-31T07:18:29.000Z"
+    },
+    {
+      "id": "d49b46ad-6f1d-4d76-8366-87d4c06b1b8b",
+      "url": "https://www.smh.com.au/national/bbq-explosion-injures-five-people-at-caravan-park-20260131-p5nyiz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "BBQ explosion injures five people at caravan park",
+      "content_html": "Five people, including two children, have been injured by an exploding barbeque on the NSW South Coast.",
+      "content_text": "Five people, including two children, have been injured by an exploding barbeque on the NSW South Coast.",
+      "date_published": "2026-01-31T07:17:39.000Z"
+    },
+    {
+      "id": "91deab83-f970-484b-87e2-f2cc3a290c73",
+      "url": "https://www.smh.com.au/national/smoke-engulfs-sydney-resulting-in-poor-air-quality-20260131-p5nyiy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Smoke engulfs Sydney, resulting in poor air quality",
+      "content_html": "Sydney has been left under a thick haze with winds pushing smoke from bushfires burning on the NSW Mid North coast.",
+      "content_text": "Sydney has been left under a thick haze with winds pushing smoke from bushfires burning on the NSW Mid North coast.",
+      "date_published": "2026-01-31T07:13:02.000Z"
+    },
+    {
+      "id": "4b549ef8-b1b3-473f-90b4-b20117132cfa",
+      "url": "https://www.smh.com.au/world/europe/andrew-pictured-looming-over-woman-in-epstein-files-20260131-p5nyiq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Andrew pictured looming over woman in latest Epstein files",
+      "content_html": "Jeffrey Epstein also offered to introduce the former Prince Andrew to a “beautiful” 26-year-old Russian woman, emails released by the US Justice Department reveal.",
+      "content_text": "Jeffrey Epstein also offered to introduce the former Prince Andrew to a “beautiful” 26-year-old Russian woman, emails released by the US Justice Department reveal.",
+      "date_published": "2026-01-31T07:04:10.000Z"
+    },
+    {
+      "id": "73ef394d-93d1-40b6-b3a1-2a77291629a7",
+      "url": "https://www.smh.com.au/sport/cricket/pat-cummins-out-of-t20-world-cup-no-late-call-up-for-steve-smith-20260131-p5nyiw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Pat Cummins out of T20 World Cup, no late call-up for Steve Smith",
+      "content_html": "In a move which further highlights the boldness of Australia’s decision to have him ready for the Ashes, Pat Cummins has been ruled out of the T20 World Cup, which starts in Colombo next weekend.",
+      "content_text": "In a move which further highlights the boldness of Australia’s decision to have him ready for the Ashes, Pat Cummins has been ruled out of the T20 World Cup, which starts in Colombo next weekend.",
+      "date_published": "2026-01-31T06:59:29.000Z"
+    },
+    {
+      "id": "95e622ca-4150-4103-bad9-72ec8dbb0bfd",
+      "url": "https://www.smh.com.au/sport/racing/waller-s-nerves-eased-as-1-7m-colt-rockets-into-slipper-frame-20260131-p5nyi5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Waller’s nerves eased as $1.7m colt rockets into Slipper frame",
+      "content_html": "A full-brother to Apocalyptic showed he was the real deal with a dominant win on debut for top trainer Chris Waller.",
+      "content_text": "A full-brother to Apocalyptic showed he was the real deal with a dominant win on debut for top trainer Chris Waller.",
+      "date_published": "2026-01-31T06:54:59.000Z"
+    },
+    {
       "id": "c1fd1003-1c95-4997-b753-4d805ae26459",
       "url": "https://www.smh.com.au/sport/tennis/aussie-pair-speak-after-doubles-final-defeat-20260131-p5nyiv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Aussie pair speak after doubles final defeat",

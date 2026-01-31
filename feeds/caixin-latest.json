@@ -6,6 +6,14 @@
   "description": "财新网 - 最新文章 - Powered by RSSHub",
   "items": [
     {
+      "id": "caixin:latest:https://www.caixin.com/2026-01-31/102410134.html",
+      "url": "https://www.caixin.com/2026-01-31/102410134.html",
+      "title": "阿里腾讯字节竞相接入Clawdbot “最智能AI助手”能做什么？",
+      "content_html": "<blockquote><p>Clawdbot爆红后，人们火速围观、下载并花式应用，一边让AI费力办事一边惊叹不已，罔顾各种安全漏洞与风险</p></blockquote><br>\n       <p>　　<b>【财新网】</b>2026年刚开年，AI又火爆出圈了，这次是AI Agent（个人智能助手），预示着它或是这一年引领科技风潮的主角。</p>\n<p>　　1月31日，OpenAI创始成员安德烈·卡帕斯（Andrej Karpathy）在社交网络平台X上感叹：目前在Moltbook上发生的事情，是我近期见过的最不可思议的、与科幻小说情节最接近的事件。人们的 Clawdbots（后来更名为OpenClaw）正在一个类似Reddit的网站上自行组织讨论各种话题，甚至包括如何进行私下交谈。”这篇帖子随即被埃隆·马斯克转发，引发破圈效应。</p>",
+      "content_text": "Clawdbot爆红后，人们火速围观、下载并花式应用，一边让AI费力办事一边惊叹不已，罔顾各种安全漏洞与风险\n       　　【财新网】2026年刚开年，AI又火爆出圈了，这次是AI Agent（个人智能助手），预示着它或是这一年引领科技风潮的主角。\n　　1月31日，OpenAI创始成员安德烈·卡帕斯（Andrej Karpathy）在社交网络平台X上感叹：目前在Moltbook上发生的事情，是我近期见过的最不可思议的、与科幻小说情节最接近的事件。人们的 Clawdbots（后来更名为OpenClaw）正在一个类似Reddit的网站上自行组织讨论各种话题，甚至包括如何进行私下交谈。”这篇帖子随即被埃隆·马斯克转发，引发破圈效应。",
+      "date_published": "2026-01-31T07:27:47.000Z"
+    },
+    {
       "id": "caixin:latest:https://www.caixin.com/2026-01-31/102410130.html",
       "url": "https://www.caixin.com/2026-01-31/102410130.html",
       "title": "2025年万科预亏约820亿元 过去两年合计亏损超1300亿元",
