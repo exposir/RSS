@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003300859",
+      "url": "https://www.wsj.com/world/americas/venezuelas-new-leader-is-trying-to-run-out-the-clock-on-trump-f5564b52",
+      "title": "Venezuela&#x2019;s New Leader Is Trying to Run Out the Clock on Trump",
+      "content_html": "Delcy Rodriguez is slow-walking human-rights and democratic reforms, aiming to outlast Washington&#x2019;s focus on her country as U.S. midterms approach.",
+      "content_text": "Delcy Rodriguez is slow-walking human-rights and democratic reforms, aiming to outlast Washington&#x2019;s focus on her country as U.S. midterms approach.",
+      "date_published": "2026-01-31T13:00:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003296881",
       "url": "https://www.wsj.com/world/asia/high-profile-arrests-spark-exodus-of-scam-workers-in-cambodia-ad045325",
       "title": "High-Profile Arrests Spark Exodus of Scam Workers in Cambodia",

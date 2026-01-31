@@ -6,6 +6,22 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-still-plans-openai-investment-senate-spending-deal-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-still-plans-openai-investment-senate-spending-deal-more",
+      "title": "Nvidia Still Plans OpenAI Investment, Senate Spending Deal, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T13:30:49.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-01-31/bloomberg-wall-street-week-january-30th-2026-podcast",
+      "url": "https://www.bloomberg.com/news/audio/2026-01-31/bloomberg-wall-street-week-january-30th-2026-podcast",
+      "title": "Bloomberg Wall Street Week: January 30th, 2026 (Podcast)",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T12:48:25.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-31/partial-shutdown-nvidia-absolutely-investing-in-openai-more",
       "url": "https://www.bloomberg.com/news/audio/2026-01-31/partial-shutdown-nvidia-absolutely-investing-in-openai-more",
       "title": "Partial Shutdown, Nvidia 'Absolutely' Investing in OpenAI, More",

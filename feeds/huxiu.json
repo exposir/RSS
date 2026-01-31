@@ -6,6 +6,14 @@
   "description": "虎嗅网RSS订阅",
   "items": [
     {
+      "id": "http://www.huxiu.com/article/4828493.html?f=wangzhan",
+      "url": "http://www.huxiu.com/article/4828493.html?f=wangzhan",
+      "title": "日本1990：当宏大叙事戛然而止",
+      "content_html": "<img src=\"https://img.huxiucdn.com/article/cover/202601/22/110947626459.jpg\"/>\n<p data-check-id=\"855659\">樱花盛开得有多灿烂，凋落时就有多无情，这是一曲献给泡沫时代的挽歌。梦境碎裂的时候，时代的代价最终落在了每个人身上。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+      "content_text": "樱花盛开得有多灿烂，凋落时就有多无情，这是一曲献给泡沫时代的挽歌。梦境碎裂的时候，时代的代价最终落在了每个人身上。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "date_published": "2026-01-31T12:00:00.000Z"
+    },
+    {
       "id": "http://www.huxiu.com/article/4830403.html?f=wangzhan",
       "url": "http://www.huxiu.com/article/4830403.html?f=wangzhan",
       "title": "限牌十年，为何最终限了个寂寞？",

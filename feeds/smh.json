@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "78cbe928-ca1b-4b4a-b82c-a0a4af40bf0a",
+      "url": "https://www.smh.com.au/national/superquiz-sunday-february-1-20260127-p5nxgs.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Superquiz, Sunday, February 1",
+      "content_html": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "content_text": "Trivia buffs, test your knowledge with today’s interactive superquiz.",
+      "date_published": "2026-01-31T12:59:00.000Z"
+    },
+    {
       "id": "80b582e7-7e24-46b0-8dfc-a80b95ac77e8",
       "url": "https://www.smh.com.au/sport/tennis/rybakina-overcomes-2023-heartbreak-20260131-p5nyjq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Rybakina overcomes 2023 heartbreak",

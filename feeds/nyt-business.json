@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/business/dealbook/buy-the-whole-village.html",
+      "url": "https://www.nytimes.com/2026/01/31/business/dealbook/buy-the-whole-village.html",
+      "title": "The Latest Way to Create an Isolated Retreat: Buy a Whole Village",
+      "content_html": "Wealthy buyers and tourism entrepreneurs are acquiring abandoned European villages — school, church and bar included.",
+      "content_text": "Wealthy buyers and tourism entrepreneurs are acquiring abandoned European villages — school, church and bar included.",
+      "date_published": "2026-01-31T13:00:05.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/business/kevin-warsh-fed-chair.html",
       "url": "https://www.nytimes.com/2026/01/31/business/kevin-warsh-fed-chair.html",
       "title": "Kevin Warsh Has a Tough Job Ahead. It’s Not the First Time.",

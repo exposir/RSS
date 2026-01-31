@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/world/americas/canada-pierre-poilievre-conservatives.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/americas/canada-pierre-poilievre-conservatives.html",
+      "title": "Pierre Poilievre Is Retained as Leader of Canada’s Conservatives",
+      "content_html": "Pierre Poilievre, a populist who led the Conservative Party to defeat last year, was retained as its leader on Friday, despite his dismal poll numbers.",
+      "content_text": "Pierre Poilievre, a populist who led the Conservative Party to defeat last year, was retained as its leader on Friday, despite his dismal poll numbers.",
+      "date_published": "2026-01-31T13:23:43.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/world/middleeast/israel-strikes-gaza-rafah-reopening.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/middleeast/israel-strikes-gaza-rafah-reopening.html",
+      "title": "Deadly Israeli Strikes in Gaza, as Rafah Border Is Set to Reopen",
+      "content_html": "A local health official said at least 26 people had been killed in the attacks, which the Israeli military said had targeted Hamas commanders. The opening of the border was seen as progress in the cease-fire.",
+      "content_text": "A local health official said at least 26 people had been killed in the attacks, which the Israeli military said had targeted Hamas commanders. The opening of the border was seen as progress in the cease-fire.",
+      "date_published": "2026-01-31T13:22:26.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/opinion/ice-kids-liam-ramos.html",
       "url": "https://www.nytimes.com/2026/01/31/opinion/ice-kids-liam-ramos.html",
       "title": "ICE Took Their Classmate. They Started Writing Letters.",

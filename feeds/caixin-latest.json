@@ -6,6 +6,14 @@
   "description": "财新网 - 最新文章 - Powered by RSSHub",
   "items": [
     {
+      "id": "caixin:latest:https://database.caixin.com/2026-01-31/102410187.html",
+      "url": "https://database.caixin.com/2026-01-31/102410187.html",
+      "title": "【华尔街原声】BMO：金银价格暴跌是“健康的调整”",
+      "content_html": "<blockquote><p>BMO大宗商品研究副总裁乔治·赫佩尔（George Heppel）认为，白银ETF此前的资金流入量一度达到标普500指数ETF的数倍，显示出市场情绪已陷入极度亢奋状态，因此目前的暴跌属于合理的溢价修正</p></blockquote><br>\n  \n  \n  \n  \n <br><video controls=\"\" preload=\"metadata\" poster=\"\" src=\"https://database.caixin.com/2026-01-31/v0dc35g10000d5uvq7qljht7o1rdr0b0\"></video><br>",
+      "content_text": "BMO大宗商品研究副总裁乔治·赫佩尔（George Heppel）认为，白银ETF此前的资金流入量一度达到标普500指数ETF的数倍，显示出市场情绪已陷入极度亢奋状态，因此目前的暴跌属于合理的溢价修正",
+      "date_published": "2026-01-31T13:37:50.000Z"
+    },
+    {
       "id": "caixin:latest:https://www.caixin.com/2026-01-31/102410172.html",
       "url": "https://www.caixin.com/2026-01-31/102410172.html",
       "title": "苹果收购以色列AI公司Q.ai 创第二大收购纪录",
