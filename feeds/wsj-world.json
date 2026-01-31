@@ -6,6 +6,14 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003297970",
+      "url": "https://www.wsj.com/world/under-pressure-from-trump-nobel-peace-prize-director-defends-awards-independence-e4e5722e",
+      "title": "Under Pressure From Trump, Nobel Peace Prize Director Defends Award&#x2019;s Independence",
+      "content_html": "In an interview with the Journal, Kristian Harpviken says the prize is inherently &#x201c;complicated.&#x201d;",
+      "content_text": "In an interview with the Journal, Kristian Harpviken says the prize is inherently &#x201c;complicated.&#x201d;",
+      "date_published": "2026-01-31T17:00:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003300859",
       "url": "https://www.wsj.com/world/americas/venezuelas-new-leader-is-trying-to-run-out-the-clock-on-trump-f5564b52",
       "title": "Venezuela&#x2019;s New Leader Is Trying to Run Out the Clock on Trump",

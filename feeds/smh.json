@@ -6,6 +6,14 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "fa25d583-e444-4182-8852-44b186bf965a",
+      "url": "https://www.smh.com.au/sport/with-ice-we-make-granita-anti-ice-protests-erupt-in-milan-ahead-of-winter-olympics-20260201-p5nyjt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘With ICE, we make granita’: Anti-ICE protests erupt in Milan ahead of Winter Olympics",
+      "content_html": "Plans for Immigration and Customs Enforcement agents to assist the American delegation at Milano-Cortina 2026 have triggered widespread anger and confusion in Milan and exposed deep unease about the agency’s reputation abroad.",
+      "content_text": "Plans for Immigration and Customs Enforcement agents to assist the American delegation at Milano-Cortina 2026 have triggered widespread anger and confusion in Milan and exposed deep unease about the agency’s reputation abroad.",
+      "date_published": "2026-01-31T17:02:28.000Z"
+    },
+    {
       "id": "78cbe928-ca1b-4b4a-b82c-a0a4af40bf0a",
       "url": "https://www.smh.com.au/national/superquiz-sunday-february-1-20260127-p5nxgs.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Superquiz, Sunday, February 1",
