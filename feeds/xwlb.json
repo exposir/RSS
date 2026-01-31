@@ -6,6 +6,14 @@
   "description": "CCTV 新闻联播 - Powered by RSSHub",
   "items": [
     {
+      "id": "https://tv.cctv.com/lm/xwlb/day/20260131.shtml",
+      "url": "https://tv.cctv.com/lm/xwlb/day/20260131.shtml",
+      "title": "新闻联播 2026/01/31",
+      "content_html": "<a href=\"https://tv.cctv.com/2026/01/31/VIDEDsYxIbyXFNIkGEXOPuXV260131.shtml\">[视频]习近平在中共中央政治局第二十四次集体学习时强调 发挥比较优势 坚持稳中求进 推动我国未来产业发展不断取得新突破 ⏱00:04:14</a><br>\n<a href=\"https://tv.cctv.com/2026/01/31/VIDEcDxiwDxvb3fqgey1RUca260131.shtml\">[视频]【央视快评】推动我国未来产业发展不断取得新突破 ⏱00:00:07</a><br>\n<a href=\"https://tv.cctv.com/2026/01/31/VIDE3ee0OO9uws2kQ1QrKcP6260131.shtml\">[视频]习近平同阿尔及利亚总统就阿尔及利亚遥感三号卫星发射成功互致贺电 ⏱00:01:11</a><br>\n<a href=\"https://tv.cctv.com/2026/01/31/VIDELyu660tV8O7MkMRPPcCD260131.shtml\">[视频]【迈向“十五五”的美丽图景·一线见闻】峡谷深处咖啡香 ⏱00:02:16</a><br>\n<a href=\"https://tv.cctv.com/2026/01/31/VIDESYoqcUMfo2M0qpXJrpRs260131.shtml\">[视频]全国所有乡镇及95%的行政村已通5G ⏱00:01:37</a>",
+      "content_text": "[视频]习近平在中共中央政治局第二十四次集体学习时强调 发挥比较优势 坚持稳中求进 推动我国未来产业发展不断取得新突破 ⏱00:04:14\n[视频]【央视快评】推动我国未来产业发展不断取得新突破 ⏱00:00:07\n[视频]习近平同阿尔及利亚总统就阿尔及利亚遥感三号卫星发射成功互致贺电 ⏱00:01:11\n[视频]【迈向“十五五”的美丽图景·一线见闻】峡谷深处咖啡香 ⏱00:02:16\n[视频]全国所有乡镇及95%的行政村已通5G ⏱00:01:37",
+      "date_published": "2026-01-31T11:00:00.000Z"
+    },
+    {
       "id": "https://tv.cctv.com/lm/xwlb/day/20260130.shtml",
       "url": "https://tv.cctv.com/lm/xwlb/day/20260130.shtml",
       "title": "新闻联播 2026/01/30",

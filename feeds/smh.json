@@ -6,6 +6,30 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "50c84f0c-81b4-4919-8f05-f985052a3d4e",
+      "url": "https://www.smh.com.au/sport/tennis/rybakina-claims-maiden-australian-open-title-20260131-p5nyjl.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rybakina claims maiden Australian Open title",
+      "content_html": "Sealing the victory with an ace, Elena Rybakina wins her maiden Australian Open title after a thrilling three-set final against Aryna Sabalenka.",
+      "content_text": "Sealing the victory with an ace, Elena Rybakina wins her maiden Australian Open title after a thrilling three-set final against Aryna Sabalenka.",
+      "date_published": "2026-01-31T11:14:43.000Z"
+    },
+    {
+      "id": "5af24b33-9b0e-4b28-8067-7935ef24f999",
+      "url": "https://www.smh.com.au/sport/tennis/sabalenka-boils-over-as-racquet-flies-20260131-p5nyjk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Sabalenka boils over as racquet flies",
+      "content_html": "Aryna Sabalenka throws her racquet in frustration as Elena Rybakina moves within one game of the Australian Open title.",
+      "content_text": "Aryna Sabalenka throws her racquet in frustration as Elena Rybakina moves within one game of the Australian Open title.",
+      "date_published": "2026-01-31T11:04:12.000Z"
+    },
+    {
+      "id": "51e3cb08-2f36-4cb1-a7c9-64eb5702ea77",
+      "url": "https://www.smh.com.au/sport/tennis/rybakina-fights-back-as-epic-final-takes-fresh-twist-20260131-p5nyji.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Rybakina fights back as epic final takes fresh twist",
+      "content_html": "Elena Rybakina breaks in the deciding third set to reclaim the advantage in the women's singles final.",
+      "content_text": "Elena Rybakina breaks in the deciding third set to reclaim the advantage in the women's singles final.",
+      "date_published": "2026-01-31T10:58:57.000Z"
+    },
+    {
       "id": "0e2fa2aa-433d-4994-b848-76f9f82772cd",
       "url": "https://www.smh.com.au/sport/tennis/sabalenka-forces-title-decider-20260131-p5nyjh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Sabalenka forces title decider",

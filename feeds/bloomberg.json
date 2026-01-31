@@ -6,6 +6,22 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-31/us-container-growth-vanishes-with-world-trade-flows-moving-on",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/us-container-growth-vanishes-with-world-trade-flows-moving-on",
+      "title": "US Container Growth Vanishes With World Trade Flows ‘Moving On’",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T11:00:00.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-01-31/stanchart-to-offer-uganda-641-million-in-loans-aimed-at-growth",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/stanchart-to-offer-uganda-641-million-in-loans-aimed-at-growth",
+      "title": "Stanchart to Offer Uganda €641 Million in Loans Aimed at Growth",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-01-31T10:28:51.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/articles/2026-01-31/kem-one-gets-30-million-extra-debt-as-it-eyes-restructuring",
       "url": "https://www.bloomberg.com/news/articles/2026-01-31/kem-one-gets-30-million-extra-debt-as-it-eyes-restructuring",
       "title": "Kem One Gets €30 Million Extra Debt as it Eyes Restructuring",

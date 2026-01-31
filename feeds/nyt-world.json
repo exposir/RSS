@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/world/canada/carney-heated-rivalry-hudson-williams.html",
+      "url": "https://www.nytimes.com/2026/01/31/world/canada/carney-heated-rivalry-hudson-williams.html",
+      "title": "Mark Carney Meets ‘Heated Rivalry’ Star Hudson Williams",
+      "content_html": "Only one thing could make the TV show and cultural phenomenon “Heated Rivalry” more Canadian: pairing one of its stars, Hudson Williams, with Prime Minister Mark Carney in the nation’s capital.",
+      "content_text": "Only one thing could make the TV show and cultural phenomenon “Heated Rivalry” more Canadian: pairing one of its stars, Hudson Williams, with Prime Minister Mark Carney in the nation’s capital.",
+      "date_published": "2026-01-31T11:00:07.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/world/middleeast/gaza-medical-evacuation-rafah-crossing.html",
       "url": "https://www.nytimes.com/2026/01/31/world/middleeast/gaza-medical-evacuation-rafah-crossing.html",
       "title": "These Gazans May Finally Get a Lifeline to the World",

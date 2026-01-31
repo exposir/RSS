@@ -6,6 +6,30 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o#8",
+      "url": "https://www.bbc.com/sport/tennis/articles/c4gr39d9146o?at_medium=RSS&at_campaign=rss",
+      "title": "Rybakina beats Sabalenka for first Australian Open title",
+      "content_html": "Elena Rybakina inflicts further Grand Slam final heartbreak on Aryna Sabalenka with a stunning third-set fightback to win the Australian Open.",
+      "content_text": "Elena Rybakina inflicts further Grand Slam final heartbreak on Aryna Sabalenka with a stunning third-set fightback to win the Australian Open.",
+      "date_published": "2026-01-31T11:13:18.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/ce3k4xdqyp1o#0",
+      "url": "https://www.bbc.com/news/articles/ce3k4xdqyp1o?at_medium=RSS&at_campaign=rss",
+      "title": "Student loan system 'fair and reasonable', says Reeves",
+      "content_html": "The chancellor's defence comes after Martin Lewis called her freeze on student loans \"not a moral thing\".",
+      "content_text": "The chancellor's defence comes after Martin Lewis called her freeze on student loans \"not a moral thing\".",
+      "date_published": "2026-01-31T11:12:38.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/athletics/articles/c4g4kezk592o#8",
+      "url": "https://www.bbc.com/sport/athletics/articles/c4g4kezk592o?at_medium=RSS&at_campaign=rss",
+      "title": "Boffey runs second fastest indoor 800m by Briton",
+      "content_html": "Isabelle Boffey runs the second fastest ever 800m indoors by a British woman,  clocking one minute 57.43 seconds to win at the BU Terrier Classic in Boston.",
+      "content_text": "Isabelle Boffey runs the second fastest ever 800m indoors by a British woman,  clocking one minute 57.43 seconds to win at the BU Terrier Classic in Boston.",
+      "date_published": "2026-01-31T10:33:03.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/boxing/articles/cqxyyn428y7o#8",
       "url": "https://www.bbc.com/sport/boxing/articles/cqxyyn428y7o?at_medium=RSS&at_campaign=rss",
       "title": "'Lemsips stacked up in fight week' - from hypochondria to world title contender",
@@ -172,6 +196,14 @@
       "content_html": "What started as a work trip in Nottinghamshire became an invitation to the Netflix series four premiere.",
       "content_text": "What started as a work trip in Nottinghamshire became an invitation to the Netflix series four premiere.",
       "date_published": "2026-01-31T02:27:54.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cwy10ye2030o#2",
+      "url": "https://www.bbc.com/news/articles/cwy10ye2030o?at_medium=RSS&at_campaign=rss",
+      "title": "Phone lines stay open as tax return deadline looms",
+      "content_html": "More than one million people missed the deadline a year ago, according to HM Revenue and Customs.",
+      "content_text": "More than one million people missed the deadline a year ago, according to HM Revenue and Customs.",
+      "date_published": "2026-01-31T02:23:48.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cwy10ye2030o#0",
