@@ -17,6 +17,22 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189826",
+      "url": "https://www.v2ex.com/t/1189826#reply0",
+      "title": "[酷工作] 做了一个离职焦虑网站-用来加深你的焦虑",
+      "content_html": "<p>网站地址： <a href=\"https://www.luo.ci\" rel=\"nofollow\">https://www.luo.ci</a>\n也可先用用 ai 测一测你是否够资格焦虑： <a href=\"https://www.luo.ci/ai/\" rel=\"nofollow\">https://www.luo.ci/ai/</a></p>",
+      "content_text": "网站地址： https://www.luo.ci\n也可先用用 ai 测一测你是否够资格焦虑： https://www.luo.ci/ai/",
+      "date_published": "2026-01-31T18:59:18.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-01-31:/t/1189825",
+      "url": "https://www.v2ex.com/t/1189825#reply0",
+      "title": "[微信] 微信，很快要成为 AI 时代的小丑了",
+      "content_html": "<p>我这里想说的是 web hook bot 的消息推送功能，迟迟不做。</p>\n<p>这个功能是“种种原因导致”不能做吗？我看未必，企业微信，钉钉，飞书都有吧？但这些是办公软件，始终没有日常通用软件来得便捷。</p>\n<p>最近用了两天 OpenClaw ，望洋兴叹呀～</p>\n<p>模型，DeepSeek/Z-AI/Qwen 在处理日常事务上，已经算很强大了，但是 IM 这块，微信是真拖后腿呀。</p>\n<p><img alt=\".webp\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://cdn.nodeimage.com/i/xT76CUnfCGmr1eGIbNtQZ7Yc3qUnXLOk.webp\"/></p>\n<p>微信为了“小而美”，对很多功能都持反对态度，最终会 get what it fxxking deserve.</p>",
+      "content_text": "我这里想说的是 web hook bot 的消息推送功能，迟迟不做。\n这个功能是“种种原因导致”不能做吗？我看未必，企业微信，钉钉，飞书都有吧？但这些是办公软件，始终没有日常通用软件来得便捷。\n最近用了两天 OpenClaw ，望洋兴叹呀～\n模型，DeepSeek/Z-AI/Qwen 在处理日常事务上，已经算很强大了，但是 IM 这块，微信是真拖后腿呀。\n\n微信为了“小而美”，对很多功能都持反对态度，最终会 get what it fxxking deserve.",
+      "date_published": "2026-01-31T18:58:53.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-01-31:/t/1189823",
       "url": "https://www.v2ex.com/t/1189823#reply0",
       "title": "[NAS] 为什么这么多人用飞牛 NAS，有什么优势吗",

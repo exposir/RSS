@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "995e6ab5-f086-4f0f-a378-d07acc4f684a",
+      "url": "https://www.smh.com.au/national/green-blows-up-after-dismissal-20260201-p5nyjy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Green blows up after dismissal",
+      "content_html": "Cameron Green vents his frustration after being dismissed in a T20 clash with Pakistan.",
+      "content_text": "Cameron Green vents his frustration after being dismissed in a T20 clash with Pakistan.",
+      "date_published": "2026-01-31T19:14:17.000Z"
+    },
+    {
+      "id": "fe394b86-1478-48b5-a1cc-db38e7db20a7",
+      "url": "https://www.smh.com.au/politics/federal/he-didn-t-hold-a-hose-but-morrison-s-still-happy-to-fan-the-flames-20260130-p5nybn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "He didn’t hold a hose, but Morrison’s still happy to fan the flames",
+      "content_html": "An incendiary speech by former prime minister Scott Morrison has reminded us that when it comes to matters of cultural sensitivity, he’s still a bulldozer.",
+      "content_text": "An incendiary speech by former prime minister Scott Morrison has reminded us that when it comes to matters of cultural sensitivity, he’s still a bulldozer.",
+      "date_published": "2026-01-31T19:00:00.000Z"
+    },
+    {
+      "id": "f87ac316-cae1-4928-9843-6b5c845b6eef",
+      "url": "https://www.smh.com.au/politics/queensland/lnp-linked-figures-land-top-treasury-and-tafe-jobs-amid-board-refresh-20260129-p5ny4t.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "LNP-linked figures land top Treasury and TAFE jobs amid board ‘refresh’",
+      "content_html": "A former director of the ACT Liberals and a past Queensland Young Liberals president are the latest state government appointees sparking “jobs-for-mates” claims.",
+      "content_text": "A former director of the ACT Liberals and a past Queensland Young Liberals president are the latest state government appointees sparking “jobs-for-mates” claims.",
+      "date_published": "2026-01-31T19:00:00.000Z"
+    },
+    {
+      "id": "e22225bb-ecd0-49b3-a833-1e251a8cf762",
+      "url": "https://www.smh.com.au/sport/cricket/naked-sport-why-a-crime-reporter-is-investigating-england-s-ashes-fiasco-20260128-p5nxkg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Naked Sport: Why a crime reporter is investigating England’s Ashes fiasco",
+      "content_html": "There is a precedent. After all, Richie Benaud had a stint as a crime reporter.",
+      "content_text": "There is a precedent. After all, Richie Benaud had a stint as a crime reporter.",
+      "date_published": "2026-01-31T18:40:00.000Z"
+    },
+    {
       "id": "06b76b83-52d4-44ef-808a-2e84a1a48faf",
       "url": "https://www.smh.com.au/politics/nsw/the-government-warned-homes-on-this-floodplain-would-put-lives-at-risk-then-it-approved-960-of-them-20260122-p5nw9c.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "The government warned homes on this floodplain would ‘put lives at risk’. Then, it approved 960 of them",

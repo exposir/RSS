@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/us/epstein-trump-gates-musk-tisch-andrew.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/epstein-trump-gates-musk-tisch-andrew.html",
+      "title": "New Epstein Files Name Elon Musk, Bill Gates and Other Powerful Men",
+      "content_html": "Elon Musk, Richard Branson and Sergey Brin were among those who exchanged messages or visited with Jeffrey Epstein, according to the newly released documents.",
+      "content_text": "Elon Musk, Richard Branson and Sergey Brin were among those who exchanged messages or visited with Jeffrey Epstein, according to the newly released documents.",
+      "date_published": "2026-01-31T18:50:44.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
       "url": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
       "title": "Danes Who Fought Alongside US Troops March Against Trump’s Comments",
