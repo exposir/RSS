@@ -6,6 +6,14 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c701g1g00gdo#3",
+      "url": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
+      "content_html": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking.",
+      "content_text": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking.",
+      "date_published": "2026-02-01T01:30:24.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cn42nedxqyqo#3",
       "url": "https://www.bbc.com/news/articles/cn42nedxqyqo?at_medium=RSS&at_campaign=rss",
       "title": "Pakistan military says it has killed 92 militants in Balochistan",
@@ -20,6 +28,14 @@
       "content_html": "Supporters of Veeraswamy, which has operated for almost 100 years, are petitioning the King to intervene.",
       "content_text": "Supporters of Veeraswamy, which has operated for almost 100 years, are petitioning the King to intervene.",
       "date_published": "2026-02-01T00:56:14.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd0yrrr1ryvo#0",
+      "url": "https://www.bbc.com/news/articles/cd0yrrr1ryvo?at_medium=RSS&at_campaign=rss",
+      "title": "Asda has lost its mojo and has a big fight to get it back",
+      "content_html": "The industry data suggests that despite Asda embarking on a turnaround, it has been losing ground to rivals.",
+      "content_text": "The industry data suggests that despite Asda embarking on a turnaround, it has been losing ground to rivals.",
+      "date_published": "2026-02-01T00:45:34.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cd0yrrr1ryvo#2",
@@ -86,6 +102,14 @@
       "date_published": "2026-02-01T00:01:01.000Z"
     },
     {
+      "id": "https://www.bbc.com/sport/darts/articles/cd9ewwe4vkjo#9",
+      "url": "https://www.bbc.com/sport/darts/articles/cd9ewwe4vkjo?at_medium=RSS&at_campaign=rss",
+      "title": "Humphries hits nine-darter in World Masters win",
+      "content_html": "Luke Humphries hits a nine-darter on his way to victory in the last 16 of the World Masters, as world champion Luke Humphries also makes it through to the quarter-finals.",
+      "content_text": "Luke Humphries hits a nine-darter on his way to victory in the last 16 of the World Masters, as world champion Luke Humphries also makes it through to the quarter-finals.",
+      "date_published": "2026-01-31T23:29:19.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/boxing/articles/cx2ylz612v2o#9",
       "url": "https://www.bbc.com/sport/boxing/articles/cx2ylz612v2o?at_medium=RSS&at_campaign=rss",
       "title": "Kelly outpoints Murtazaliev to win world title",
@@ -100,6 +124,14 @@
       "content_html": "Sir Keir Starmer suggests Andrew Mountbatten-Windsor should testify over his dealings with the convicted sex offender.",
       "content_text": "Sir Keir Starmer suggests Andrew Mountbatten-Windsor should testify over his dealings with the convicted sex offender.",
       "date_published": "2026-01-31T22:15:30.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cm2ygq5p2l3o#0",
+      "url": "https://www.bbc.com/news/articles/cm2ygq5p2l3o?at_medium=RSS&at_campaign=rss",
+      "title": "Judge orders release of five-year-old detained by ICE in Minneapolis",
+      "content_html": "The detention of pre-schooler Liam Conejo Ramos, pictured wearing a blue bunny-shaped hat and a Spider-Man backpack, sparked national outcry.",
+      "content_text": "The detention of pre-schooler Liam Conejo Ramos, pictured wearing a blue bunny-shaped hat and a Spider-Man backpack, sparked national outcry.",
+      "date_published": "2026-01-31T22:14:54.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/cm2ygq5p2l3o#3",
@@ -132,6 +164,14 @@
       "content_html": "The woman, then in her 20s, says the alleged encounter happened at Royal Lodge.",
       "content_text": "The woman, then in her 20s, says the alleged encounter happened at Royal Lodge.",
       "date_published": "2026-01-31T22:08:24.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cpqyp8yw8wyo#3",
+      "url": "https://www.bbc.com/news/articles/cpqyp8yw8wyo?at_medium=RSS&at_campaign=rss",
+      "title": "How forensics uncovered the murder behind bones found at a beauty spot",
+      "content_html": "Known as \"baby bear\", Tyrone France was murdered under the pretext of a drug deal in 1996.",
+      "content_text": "Known as \"baby bear\", Tyrone France was murdered under the pretext of a drug deal in 1996.",
+      "date_published": "2026-01-31T21:49:30.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c9wx02zw85qo#3",
@@ -278,6 +318,14 @@
       "date_published": "2026-01-31T14:54:27.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cy8pmj4kpdyo#3",
+      "url": "https://www.bbc.com/news/articles/cy8pmj4kpdyo?at_medium=RSS&at_campaign=rss",
+      "title": "Drones used in sea search for missing girl",
+      "content_html": "Inaayah Makda was hit by a wave as she and her parents sat on a beach in Morocco, her family says.",
+      "content_text": "Inaayah Makda was hit by a wave as she and her parents sat on a beach in Morocco, her family says.",
+      "date_published": "2026-01-31T14:45:16.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/videos/c5yvw9zq5q0o#3",
       "url": "https://www.bbc.com/news/videos/c5yvw9zq5q0o?at_medium=RSS&at_campaign=rss",
       "title": "Watch: Frozen river hosts dance party in Kyiv",
@@ -292,6 +340,14 @@
       "content_html": "Residents in the Ukrainian capital are finding joy in unusual places, despite power cuts caused by Russian attacks and freezing winter temperatures.",
       "content_text": "Residents in the Ukrainian capital are finding joy in unusual places, despite power cuts caused by Russian attacks and freezing winter temperatures.",
       "date_published": "2026-01-31T14:45:15.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/tennis/articles/cwy1ep7ljw7o#0",
+      "url": "https://www.bbc.com/sport/tennis/articles/cwy1ep7ljw7o?at_medium=RSS&at_campaign=rss",
+      "title": "Why Djokovic needs Melbourne win more than Alcaraz",
+      "content_html": "Whoever wins the Australian Open men's singles final will create history - but it feels like Novak Djokovic needs victory more than Carlos Alcaraz.",
+      "content_text": "Whoever wins the Australian Open men's singles final will create history - but it feels like Novak Djokovic needs victory more than Carlos Alcaraz.",
+      "date_published": "2026-01-31T14:16:13.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/tennis/articles/cwy1ep7ljw7o#9",
@@ -310,12 +366,28 @@
       "date_published": "2026-01-31T14:06:51.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c0mk7kl2rvlo#3",
+      "url": "https://www.bbc.com/news/articles/c0mk7kl2rvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Seven deaths now probed for potential links to Glasgow hospital infections",
+      "content_html": "In some of the cases Scotland's prosecution service is considering whether to bring corporate homicide charges.",
+      "content_text": "In some of the cases Scotland's prosecution service is considering whether to bring corporate homicide charges.",
+      "date_published": "2026-01-31T13:59:28.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/clyn5zj8750o#2",
       "url": "https://www.bbc.com/news/articles/clyn5zj8750o?at_medium=RSS&at_campaign=rss",
       "title": "Labour pick Angeliki Stogia for Gorton by-election",
       "content_html": "The councillor was chosen after Greater Manchester mayor Andy Burnham was blocked from standing.",
       "content_text": "The councillor was chosen after Greater Manchester mayor Andy Burnham was blocked from standing.",
       "date_published": "2026-01-31T13:44:34.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4gv81124j1o#2",
+      "url": "https://www.bbc.com/news/articles/c4gv81124j1o?at_medium=RSS&at_campaign=rss",
+      "title": "Zack Polanski is having fun. But can the Green leader become a serious player?",
+      "content_html": "The Greens' new leader has generated a lot of excitement. Can he translate the buzz into electoral success?",
+      "content_text": "The Greens' new leader has generated a lot of excitement. Can he translate the buzz into electoral success?",
+      "date_published": "2026-01-31T13:41:45.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c4gv81124j1o#0",

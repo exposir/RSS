@@ -6,6 +6,38 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "c1f97a4b-251b-40cc-a834-2feff58c661a",
+      "url": "https://www.smh.com.au/sport/tennis/australian-open-2026-live-updates-it-s-carlos-alcaraz-v-novak-djokovic-in-an-epic-men-s-final-20260201-p5nyju.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Australian Open 2026 LIVE updates: Countdown to Djokovic v Alcaraz continues as fans pack into Melbourne Park",
+      "content_html": "Follow along live for all the updates as Carlos Alcaraz takes on Novak Djokovic for the biggest prize in Australian tennis.",
+      "content_text": "Follow along live for all the updates as Carlos Alcaraz takes on Novak Djokovic for the biggest prize in Australian tennis.",
+      "date_published": "2026-02-01T06:59:31.000Z"
+    },
+    {
+      "id": "248298c8-002f-4cb9-945c-f68c4dd54489",
+      "url": "https://www.smh.com.au/sport/racing/former-victorian-mare-raring-to-go-again-after-900-day-absence-20260201-p5nymt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Former Victorian mare raring to go again after 900-day absence",
+      "content_html": "It may only be a modest maiden, but a fascinating battle awaits two girls at very different ends of the spectrum when they clash at Monday’s Newcastle meeting on the Beaumont track.",
+      "content_text": "It may only be a modest maiden, but a fascinating battle awaits two girls at very different ends of the spectrum when they clash at Monday’s Newcastle meeting on the Beaumont track.",
+      "date_published": "2026-02-01T06:45:00.000Z"
+    },
+    {
+      "id": "dee9c82d-a026-487d-aef7-2ec111f37382",
+      "url": "https://www.smh.com.au/sport/racing/tips-and-race-by-race-guide-for-newcastle-beaumont-on-monday-20260201-p5nymb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Tips and race-by-race guide for Newcastle (Beaumont) on Monday",
+      "content_html": "All you need to know to back a winner on the seven-race program.",
+      "content_text": "All you need to know to back a winner on the seven-race program.",
+      "date_published": "2026-02-01T06:45:00.000Z"
+    },
+    {
+      "id": "320b481c-d484-4fb7-8d25-55695bf495ee",
+      "url": "https://www.smh.com.au/national/queensland/queensland-police-defends-scrapping-specialist-domestic-violence-team-20250214-p5lc92.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Queensland police defends scrapping specialist domestic violence team",
+      "content_html": "A specialist QPS domestic violence unit is being axed after a review labelled the work “non-core” business. Labor warns the move puts vulnerable women at risk.",
+      "content_text": "A specialist QPS domestic violence unit is being axed after a review labelled the work “non-core” business. Labor warns the move puts vulnerable women at risk.",
+      "date_published": "2026-02-01T06:07:37.000Z"
+    },
+    {
       "id": "1bccbbd9-dd6d-4961-bbbe-b46e4ae2c4cf",
       "url": "https://www.smh.com.au/sport/afl/bailey-smith-in-the-big-v-it-s-likely-to-happen-20260201-p5nyn7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Bailey Smith in the Big V? It’s likely to happen",

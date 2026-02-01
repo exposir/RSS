@@ -118,6 +118,22 @@
       "date_published": "2026-01-30T18:14:44.000Z"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46827731",
+      "url": "https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto",
+      "title": "Malicious skills targeting Claude Code and Moltbot users",
+      "content_html": "<p>Article URL: <a href=\"https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto\">https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46827731\">https://news.ycombinator.com/item?id=46827731</a></p>\n<p>Points: 175</p>\n<p># Comments: 87</p>",
+      "content_text": "Article URL: https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto\nComments URL: https://news.ycombinator.com/item?id=46827731\nPoints: 175\n# Comments: 87",
+      "date_published": "2026-01-30T18:07:02.000Z"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46827665",
+      "url": "https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law",
+      "title": "Mamdani to kill the NYC AI chatbot caught telling businesses to break the law",
+      "content_html": "<p>Article URL: <a href=\"https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law\">https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46827665\">https://news.ycombinator.com/item?id=46827665</a></p>\n<p>Points: 175</p>\n<p># Comments: 60</p>",
+      "content_text": "Article URL: https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law\nComments URL: https://news.ycombinator.com/item?id=46827665\nPoints: 175\n# Comments: 60",
+      "date_published": "2026-01-30T18:02:23.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46827003",
       "url": "https://ztechtalk.com/microsoft-teams",
       "title": "Microsoft 365 now tracks you in real time?",

@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/02/01/opinion/hospital-doctors-difficult-patients.html",
+      "url": "https://www.nytimes.com/2026/02/01/opinion/hospital-doctors-difficult-patients.html",
+      "title": "My Patient Was Dying. His Wife Would Not Accept It.",
+      "content_html": "How doctors can better navigate difficult patients and families.",
+      "content_text": "How doctors can better navigate difficult patients and families.",
+      "date_published": "2026-02-01T06:44:16.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/01/us/democratic-upset-texas-district-republicans.html",
+      "url": "https://www.nytimes.com/2026/02/01/us/democratic-upset-texas-district-republicans.html",
+      "title": "Democratic Upset in Deep Red Texas District Rattles Republicans",
+      "content_html": "A Democrat won a state legislative special election in a district that President Trump carried by 17 percentage points, unnerving Republicans in Texas and beyond.",
+      "content_text": "A Democrat won a state legislative special election in a district that President Trump carried by 17 percentage points, unnerving Republicans in Texas and beyond.",
+      "date_published": "2026-02-01T06:09:46.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/02/01/us/politics/ai-crypto-trump-super-pac-israel-2026-midterms.html",
       "url": "https://www.nytimes.com/2026/02/01/us/politics/ai-crypto-trump-super-pac-israel-2026-midterms.html",
       "title": "The Richest 2026 Players: A.I., Crypto, Pro-Israel Groups and Trump",
@@ -220,6 +236,14 @@
       "content_html": "The sanctity of the 2026 vote is indeed under threat.",
       "content_text": "The sanctity of the 2026 vote is indeed under threat.",
       "date_published": "2026-01-31T12:00:12.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/opinion/syria-kurds-turkey-pkk.html",
+      "url": "https://www.nytimes.com/2026/01/31/opinion/syria-kurds-turkey-pkk.html",
+      "title": "Syria Must Protect Its Minorities",
+      "content_html": "Without protection for the Kurds and other ethnic minorities, Syria will never be stable.",
+      "content_text": "Without protection for the Kurds and other ethnic minorities, Syria will never be stable.",
+      "date_published": "2026-01-31T12:00:05.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/31/briefing/good-company.html",
