@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/02/01/world/africa/nigeria-christians-trump.html",
+      "url": "https://www.nytimes.com/2026/02/01/world/africa/nigeria-christians-trump.html",
+      "title": "How Trump Took Up the ‘Christian Genocide’ Cause in Nigeria",
+      "content_html": "A yearslong effort to convince Washington of religious persecution is shifting foreign policy toward the West African nation, with major consequences.",
+      "content_text": "A yearslong effort to convince Washington of religious persecution is shifting foreign policy toward the West African nation, with major consequences.",
+      "date_published": "2026-02-01T08:00:14.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/02/01/world/europe/putin-ukraine-donbas-donetsk.html",
       "url": "https://www.nytimes.com/2026/02/01/world/europe/putin-ukraine-donbas-donetsk.html",
       "title": "Why Is Taking the Rest of the Donetsk Region So Important to Putin?",

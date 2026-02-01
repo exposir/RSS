@@ -6,6 +6,54 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "94b6c85f-0f33-4712-ac91-a0f121351f94",
+      "url": "https://www.smh.com.au/national/two-children-fighting-for-life-after-house-fire-20260201-p5nyod.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Two children fighting for life after house fire",
+      "content_html": "Four children have been hurt in a house fire in Townsville, with two in a critical condition.",
+      "content_text": "Four children have been hurt in a house fire in Townsville, with two in a critical condition.",
+      "date_published": "2026-02-01T08:25:11.000Z"
+    },
+    {
+      "id": "1b83bdef-a4c3-4221-a4ad-9277f4adb89a",
+      "url": "https://www.smh.com.au/national/nsw/the-public-school-with-ocean-views-catching-the-eye-of-private-school-parents-20260127-p5nxf2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The public school with ocean views catching the eye of private school parents",
+      "content_html": "Students will walk into the school for the first time on Monday morning, marking the beginning of a new high schooling era on the northern beaches.",
+      "content_text": "Students will walk into the school for the first time on Monday morning, marking the beginning of a new high schooling era on the northern beaches.",
+      "date_published": "2026-02-01T08:15:00.000Z"
+    },
+    {
+      "id": "1233b611-1735-4b08-acbc-446a9a702c34",
+      "url": "https://www.smh.com.au/technology/the-90s-are-back-why-see-through-tech-is-in-style-again-20251212-p5nna2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The ’90s are back: Why see-through tech is in style again",
+      "content_html": "From keyboards to vacuum cleaners, transparency is trust and people want machines they can see into.",
+      "content_text": "From keyboards to vacuum cleaners, transparency is trust and people want machines they can see into.",
+      "date_published": "2026-02-01T08:15:00.000Z"
+    },
+    {
+      "id": "e230f74e-1b82-4864-b13b-25d85808a19c",
+      "url": "https://www.smh.com.au/culture/music/grammys-2026-full-list-of-nominees-and-what-to-expect-at-this-year-s-awards-20260130-p5ny7t.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Grammys 2026: Full list of nominees and what to expect at this year’s awards",
+      "content_html": "Justin Bieber makes his Grammys comeback, Ye stirs rumours of another potential red carpet stunt, and hopes are high for nominated Australian talent.",
+      "content_text": "Justin Bieber makes his Grammys comeback, Ye stirs rumours of another potential red carpet stunt, and hopes are high for nominated Australian talent.",
+      "date_published": "2026-02-01T08:00:00.000Z"
+    },
+    {
+      "id": "65adf355-af48-4c82-a154-0702ed249019",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/how-i-got-out-of-maths-performed-on-the-big-stage-and-changed-the-way-i-hear-the-world-20250929-p5mypp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "How I got out of maths, performed on the big stage and changed the way I hear the world",
+      "content_html": "Going from my rowdy suburban school into the state band was a joy, even if, to this day, I don’t know why I didn’t play for Princess Diana with my bandmates.",
+      "content_text": "Going from my rowdy suburban school into the state band was a joy, even if, to this day, I don’t know why I didn’t play for Princess Diana with my bandmates.",
+      "date_published": "2026-02-01T08:00:00.000Z"
+    },
+    {
+      "id": "608c3539-df00-482d-b49a-5c8a4b845fd1",
+      "url": "https://www.smh.com.au/national/search-launched-for-missing-swimmer-in-sydneys-south-20260201-p5nyoc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Search launched for missing swimmer in Sydney's south",
+      "content_html": "A search is under way for a swimmer who disappeared at Maroubra Beach in Sydney.",
+      "content_text": "A search is under way for a swimmer who disappeared at Maroubra Beach in Sydney.",
+      "date_published": "2026-02-01T07:54:32.000Z"
+    },
+    {
       "id": "0e8ee052-d098-402a-bf4c-1561046f5db0",
       "url": "https://www.smh.com.au/national/man-dies-after-crashing-bmx-20260201-p5nyo9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Man dies after crashing BMX",
