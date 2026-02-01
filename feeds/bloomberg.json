@@ -6,6 +6,38 @@
   "description": "Bloomberg - Business - Powered by RSSHub",
   "items": [
     {
+      "id": "https://www.bloomberg.com/news/articles/2026-02-01/ford-xiaomi-held-discussions-on-ev-partnership-ft-says",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-01/ford-xiaomi-held-discussions-on-ev-partnership-ft-says",
+      "title": "Ford, Xiaomi Held Discussions on EV Partnership, FT Says",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-02-01T05:08:50.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/live-blog/2026-02-01/india-budget-presentation",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-02-01/india-budget-presentation",
+      "title": "India Budget 2026: Live Updates and Analysis",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-02-01T04:59:42.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-02-01/nvidia-plans-to-fund-openai-judge-release-5-year-old-boy-more",
+      "url": "https://www.bloomberg.com/news/audio/2026-02-01/nvidia-plans-to-fund-openai-judge-release-5-year-old-boy-more",
+      "title": "Nvidia Plans to Fund OpenAI, Judge: Release 5-Year-Old Boy, More",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-02-01T01:44:46.000Z"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/audio/2026-02-01/nvidia-in-on-openai-funding-judge-orders-5-year-old-released",
+      "url": "https://www.bloomberg.com/news/audio/2026-02-01/nvidia-in-on-openai-funding-judge-orders-5-year-old-released",
+      "title": "Nvidia in on OpenAI Funding, Judge Orders 5-Year-Old Released",
+      "content_html": "",
+      "content_text": "",
+      "date_published": "2026-02-01T00:12:55.000Z"
+    },
+    {
       "id": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-plans-to-fund-openai-judge-release-5-year-old-boy-more",
       "url": "https://www.bloomberg.com/news/audio/2026-01-31/nvidia-plans-to-fund-openai-judge-release-5-year-old-boy-more",
       "title": "Nvidia Plans to Fund OpenAI, Judge: Release 5-Year-Old Boy, More",

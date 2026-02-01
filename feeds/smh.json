@@ -6,6 +6,86 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "0e8ee052-d098-402a-bf4c-1561046f5db0",
+      "url": "https://www.smh.com.au/national/man-dies-after-crashing-bmx-20260201-p5nyo9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Man dies after crashing BMX",
+      "content_html": "A man has died after crashing his BMX in Adelaide.",
+      "content_text": "A man has died after crashing his BMX in Adelaide.",
+      "date_published": "2026-02-01T07:49:51.000Z"
+    },
+    {
+      "id": "b2b62820-1560-440e-9e7c-344e97fd8ff6",
+      "url": "https://www.smh.com.au/world/fresh-calls-as-more-epstein-files-released-20260201-p5nyo7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Fresh calls as more Epstein files released",
+      "content_html": "There are new calls for Andrew Mountbatten-Windsor to testify to US Congress over his dealings with convicted paedophile Jeffery Epstein.",
+      "content_text": "There are new calls for Andrew Mountbatten-Windsor to testify to US Congress over his dealings with convicted paedophile Jeffery Epstein.",
+      "date_published": "2026-02-01T07:44:51.000Z"
+    },
+    {
+      "id": "5f541cf9-c68c-48f8-b430-981dd9066c07",
+      "url": "https://www.smh.com.au/national/deputy-premier-returns-to-parliament-after-cancer-battle-20260201-p5nyo4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Deputy premier returns to parliament after cancer battle",
+      "content_html": "NSW Education Minister Prue Car has spent the past seven months fighting breast cancer but will return to work after getting the all clear.",
+      "content_text": "NSW Education Minister Prue Car has spent the past seven months fighting breast cancer but will return to work after getting the all clear.",
+      "date_published": "2026-02-01T07:40:18.000Z"
+    },
+    {
+      "id": "e6f6d821-42cf-4bdf-b36a-35b09e6f1bf9",
+      "url": "https://www.smh.com.au/national/community-rallies-around-family-of-12-year-old-killed-by-shark-in-sydney-harbour-20260201-p5nyo5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Community rallies around family of 12-year-old killed by shark in Sydney Harbour.",
+      "content_html": "Hundreds have joined a paddle out at North Bondi for Nico Antic, 12, who was killed by a shark in Sydney.",
+      "content_text": "Hundreds have joined a paddle out at North Bondi for Nico Antic, 12, who was killed by a shark in Sydney.",
+      "date_published": "2026-02-01T07:39:58.000Z"
+    },
+    {
+      "id": "f98f8873-178b-4c3d-8f6b-8b74fb6296d8",
+      "url": "https://www.smh.com.au/national/champion-horse-saved-from-fire-20260201-p5nyo3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Champion horse saved from fire",
+      "content_html": "A champion harness racer has narrowly escaped a fire emergency on race day in Melbourne.",
+      "content_text": "A champion harness racer has narrowly escaped a fire emergency on race day in Melbourne.",
+      "date_published": "2026-02-01T07:39:57.000Z"
+    },
+    {
+      "id": "2669b776-9682-4c31-a91e-a9a72a441033",
+      "url": "https://www.smh.com.au/national/mps-return-to-canberra-20260201-p5nyo2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "MPs return to Canberra",
+      "content_html": "Federal representatives are returning to the capital under the shadow of leadership spills and interest rate rises as One Nation surges ahead in the latest poll.",
+      "content_text": "Federal representatives are returning to the capital under the shadow of leadership spills and interest rate rises as One Nation surges ahead in the latest poll.",
+      "date_published": "2026-02-01T07:39:32.000Z"
+    },
+    {
+      "id": "5279cbd7-17c5-4c36-b076-51709badcd19",
+      "url": "https://www.smh.com.au/national/nsw/it-s-time-to-make-fossil-fuel-polluters-pay-for-their-damage-20260201-p5nyko.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "It’s time to make fossil fuel polluters pay for their damage",
+      "content_html": "With the Liberals and Nationals in disarray, isn’t it time for the government to establish a sensible resources levy so coal and gas corporations pay more tax?",
+      "content_text": "With the Liberals and Nationals in disarray, isn’t it time for the government to establish a sensible resources levy so coal and gas corporations pay more tax?",
+      "date_published": "2026-02-01T07:30:00.000Z"
+    },
+    {
+      "id": "640345e1-071b-4366-8006-3f526ac6e7a1",
+      "url": "https://www.smh.com.au/national/what-media-rivalry-sarah-murdoch-and-ryan-stokes-in-friendly-embrace-at-tennis-20260201-p5nyme.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "What media rivalry? Sarah Murdoch and Ryan Stokes in friendly embrace at tennis",
+      "content_html": "The families have long been competitors but in real life, it seems, relations are much friendlier.",
+      "content_text": "The families have long been competitors but in real life, it seems, relations are much friendlier.",
+      "date_published": "2026-02-01T07:16:08.000Z"
+    },
+    {
+      "id": "66431651-a9b1-4092-937d-ff1613ab9f73",
+      "url": "https://www.smh.com.au/sport/tennis/the-kazakhstan-billionaire-behind-rybakina-s-australian-open-triumph-20260201-p5nymq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The Kazakhstan billionaire behind Rybakina’s Australian Open triumph",
+      "content_html": "A diplomat and industrialist, he funded the career of the Russian-born player who won her second grand slam and first Australian Open.",
+      "content_text": "A diplomat and industrialist, he funded the career of the Russian-born player who won her second grand slam and first Australian Open.",
+      "date_published": "2026-02-01T07:09:27.000Z"
+    },
+    {
+      "id": "9dbdf2b9-e178-4299-b715-5fc82fc4c98b",
+      "url": "https://www.smh.com.au/sport/basketball/paul-george-dazzles-20260201-p5nynx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Paul George dazzles",
+      "content_html": "Some highlights of Philadelphia 76ers star Paul George's phenomenal game against the Milwaukee Bucks.",
+      "content_text": "Some highlights of Philadelphia 76ers star Paul George's phenomenal game against the Milwaukee Bucks.",
+      "date_published": "2026-02-01T07:04:14.000Z"
+    },
+    {
       "id": "c1f97a4b-251b-40cc-a834-2feff58c661a",
       "url": "https://www.smh.com.au/sport/tennis/australian-open-2026-live-updates-it-s-carlos-alcaraz-v-novak-djokovic-in-an-epic-men-s-final-20260201-p5nyju.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Australian Open 2026 LIVE updates: Countdown to Djokovic v Alcaraz continues as fans pack into Melbourne Park",

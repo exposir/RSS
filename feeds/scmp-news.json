@@ -6,6 +6,22 @@
   "description": "All the latest breaking news from Hong Kong, China and around the world",
   "items": [
     {
+      "id": "https://www.scmp.com/news/hong-kong/transport/article/3341988/technical-issue-forces-hong-kong-bound-cathay-flight-return-kaohsiung?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3341988/technical-issue-forces-hong-kong-bound-cathay-flight-return-kaohsiung?utm_source=rss_feed",
+      "title": "‘Technical issue’ forces Hong Kong-bound Cathay flight to return to Kaohsiung",
+      "content_html": "A Hong Kong-bound Cathay Pacific flight had to return to Kaohsiung after take-off on Sunday morning due to a technical problem, with around 200 passengers affected.\nA spokesman for Cathay Pacific confirmed flight CX449 returned to the Taiwanese city shortly after departure due to an unspecified “technical issue”.\n“We sincerely apologise for the inconvenience caused and thank our customers for their understanding and patience,” the spokesman said.\nThe flight took off from Kaohsiung at 7.46am on...",
+      "content_text": "A Hong Kong-bound Cathay Pacific flight had to return to Kaohsiung after take-off on Sunday morning due to a technical problem, with around 200 passengers affected.\nA spokesman for Cathay Pacific confirmed flight CX449 returned to the Taiwanese city shortly after departure due to an unspecified “technical issue”.\n“We sincerely apologise for the inconvenience caused and thank our customers for their understanding and patience,” the spokesman said.\nThe flight took off from Kaohsiung at 7.46am on...",
+      "date_published": "2026-02-01T07:52:29.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/news/world/europe/article/3341987/how-marius-hoiby-went-living-norway-royal-familys-gilded-cage-alleged-rapist?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/world/europe/article/3341987/how-marius-hoiby-went-living-norway-royal-familys-gilded-cage-alleged-rapist?utm_source=rss_feed",
+      "title": "How Marius Hoiby went from living in Norway royal family’s ‘gilded cage’ to alleged rapist",
+      "content_html": "Marius Borg Hoiby, the son of Norway’s future queen from a previous relationship, was initially welcomed into the royal family, but now, facing trial accused of four rapes, he has become a liability.\nThe 29-year-old, who was born before his mother Mette-Marit Tjessem Hoiby married Norway’s Crown Prince Haakon, goes on trial in Oslo’s district court on Tuesday accused of 38 counts, including four rapes and assaults against ex-girlfriends.\nHe was arrested on August 4, 2024, suspected of assaulting...",
+      "content_text": "Marius Borg Hoiby, the son of Norway’s future queen from a previous relationship, was initially welcomed into the royal family, but now, facing trial accused of four rapes, he has become a liability.\nThe 29-year-old, who was born before his mother Mette-Marit Tjessem Hoiby married Norway’s Crown Prince Haakon, goes on trial in Oslo’s district court on Tuesday accused of 38 counts, including four rapes and assaults against ex-girlfriends.\nHe was arrested on August 4, 2024, suspected of assaulting...",
+      "date_published": "2026-02-01T07:49:56.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/world/united-states-canada/article/3341983/end-era-us-russia-prepare-exit-final-nuclear-arms-treaty?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3341983/end-era-us-russia-prepare-exit-final-nuclear-arms-treaty?utm_source=rss_feed",
       "title": "End of an era as US, Russia prepare to exit final nuclear arms treaty",

@@ -6,6 +6,22 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/sport/golf/articles/cx20z5v955no#9",
+      "url": "https://www.bbc.com/sport/golf/articles/cx20z5v955no?at_medium=RSS&at_campaign=rss",
+      "title": "Rose six clear as he chases 13th PGA Tour win",
+      "content_html": "England's Justin Rose is in a strong position to secure a 13th PGA Tour win after extending his lead to six shots at the Farmers Insurance Open on Saturday.",
+      "content_text": "England's Justin Rose is in a strong position to secure a 13th PGA Tour win after extending his lead to six shots at the Farmers Insurance Open on Saturday.",
+      "date_published": "2026-02-01T07:48:06.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvg3n2wql2jo#3",
+      "url": "https://www.bbc.com/news/articles/cvg3n2wql2jo?at_medium=RSS&at_campaign=rss",
+      "title": "West Midlands Trains brought under state control - what it means for passengers",
+      "content_html": "West Midlands Trains services are transferring to public ownership from 1 February.",
+      "content_text": "West Midlands Trains services are transferring to public ownership from 1 February.",
+      "date_published": "2026-02-01T07:26:51.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c701g1g00gdo#3",
       "url": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
       "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
@@ -3566,6 +3582,14 @@
       "date_published": "2026-01-28T06:59:42.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cwyn29enz2ro#4",
+      "url": "https://www.bbc.com/news/articles/cwyn29enz2ro?at_medium=RSS&at_campaign=rss",
+      "title": "What’s next for Sam Heughan as Outlander ends after 12 years ?",
+      "content_html": "Sam Heughan will wave goodbye to Jamie Fraser this year, 30 years after getting his acting start in Edinburgh.",
+      "content_text": "Sam Heughan will wave goodbye to Jamie Fraser this year, 30 years after getting his acting start in Edinburgh.",
+      "date_published": "2026-01-28T06:47:37.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/football/articles/c98pm9ym8e7o#7",
       "url": "https://www.bbc.com/sport/football/articles/c98pm9ym8e7o?at_medium=RSS&at_campaign=rss",
       "title": "Why are Paris St-Germain struggling to hit top form?",
@@ -3766,6 +3790,14 @@
       "date_published": "2026-01-28T00:46:53.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/cwy11q1pwpgo#4",
+      "url": "https://www.bbc.com/news/articles/cwy11q1pwpgo?at_medium=RSS&at_campaign=rss",
+      "title": "The model who moved to Ghana and wrapped her prosthetic leg in its famous fabric",
+      "content_html": "Abena Christine Jon'el left the US and now aims to raise the profile of people with disabilities in Ghana.",
+      "content_text": "Abena Christine Jon'el left the US and now aims to raise the profile of people with disabilities in Ghana.",
+      "date_published": "2026-01-28T00:17:35.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cddgp9jgjz1o#0",
       "url": "https://www.bbc.com/news/articles/cddgp9jgjz1o?at_medium=RSS&at_campaign=rss",
       "title": "EasyJet warned over 'misleading' £5.99 cabin bag fee",
@@ -3884,6 +3916,14 @@
       "content_html": "Five-time major winner Brooks Koepka says Tiger Woods was the first person he called to discuss a return to the PGA Tour after leaving the LIV Golf circuit.",
       "content_text": "Five-time major winner Brooks Koepka says Tiger Woods was the first person he called to discuss a return to the PGA Tour after leaving the LIV Golf circuit.",
       "date_published": "2026-01-27T20:14:35.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c0lx26kl915o#4",
+      "url": "https://www.bbc.com/news/articles/c0lx26kl915o?at_medium=RSS&at_campaign=rss",
+      "title": "Why celebrities keep moving to the Cotswolds",
+      "content_html": "The Beckhams, Clarkson and Hugh Grant own homes in the idyllic area - but what makes it so appealing?",
+      "content_text": "The Beckhams, Clarkson and Hugh Grant own homes in the idyllic area - but what makes it so appealing?",
+      "date_published": "2026-01-27T20:05:38.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/football/articles/c0lx2z9e363o#7",
@@ -4284,6 +4324,14 @@
       "content_html": "Three people share how one event reshaped their lives and how they rebuilt their identity and confidence.",
       "content_text": "Three people share how one event reshaped their lives and how they rebuilt their identity and confidence.",
       "date_published": "2026-01-27T02:26:58.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cn566109wqxo#4",
+      "url": "https://www.bbc.com/news/articles/cn566109wqxo?at_medium=RSS&at_campaign=rss",
+      "title": "Irish and Iraqi artists build bonds through shared musical journey",
+      "content_html": "The eight-piece ensemble connects musicians from Londonderry's North West Folk Collective with artists from Iraq's Mshakht Collective.",
+      "content_text": "The eight-piece ensemble connects musicians from Londonderry's North West Folk Collective with artists from Iraq's Mshakht Collective.",
+      "date_published": "2026-01-26T06:31:51.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c5y50k3gvllo#4",
