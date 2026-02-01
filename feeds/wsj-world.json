@@ -6,6 +6,30 @@
   "description": "World News",
   "items": [
     {
+      "id": "WP-WSJ-0003294271",
+      "url": "https://www.wsj.com/lifestyle/travel/tourists-in-japan-are-baffled-where-are-the-trash-cans-8d0202b7",
+      "title": "Tourists in Japan Are Baffled: Where Are the Trash Cans?",
+      "content_html": "One of the cleanest places in the world has almost no public garbage bins, forcing visitors to rely on coat pockets and backpacks.",
+      "content_text": "One of the cleanest places in the world has almost no public garbage bins, forcing visitors to rely on coat pockets and backpacks.",
+      "date_published": "2026-02-01T04:00:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003297761",
+      "url": "https://www.wsj.com/world/middle-east/irans-gen-z-helped-propel-the-protests-they-paid-with-their-lives-80675ef3",
+      "title": "Iran&#x2019;s Gen Z Helped Propel the Protests. They Paid With Their Lives.",
+      "content_html": "A generation who grew up in a more connected world rebelled against a failing economy and strict social rules.",
+      "content_text": "A generation who grew up in a more connected world rebelled against a failing economy and strict social rules.",
+      "date_published": "2026-02-01T04:00:00.000Z"
+    },
+    {
+      "id": "WP-WSJ-0003300332",
+      "url": "https://www.wsj.com/world/china/chinas-xi-now-alone-atop-his-military-is-the-sole-voice-in-tackling-taiwan-388bdabd",
+      "title": "China&#x2019;s Xi, Now Alone Atop His Military, Is the Sole Voice in Tackling Taiwan",
+      "content_html": "Purges of top generals means China&#x2019;s leader has a freer hand to deal with the self-ruled island that Beijing claims as its own.",
+      "content_text": "Purges of top generals means China&#x2019;s leader has a freer hand to deal with the self-ruled island that Beijing claims as its own.",
+      "date_published": "2026-02-01T03:00:00.000Z"
+    },
+    {
       "id": "WP-WSJ-0003297970",
       "url": "https://www.wsj.com/world/under-pressure-from-trump-nobel-peace-prize-director-defends-awards-independence-e4e5722e",
       "title": "Under Pressure From Trump, Nobel Peace Prize Director Defends Award&#x2019;s Independence",

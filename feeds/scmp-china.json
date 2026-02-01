@@ -6,6 +6,22 @@
   "description": "The latest breaking news from China.",
   "items": [
     {
+      "id": "https://www.scmp.com/news/china/science/article/3341756/frost-20-seconds-can-supercooling-tech-give-china-edge-ai-race?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/china/science/article/3341756/frost-20-seconds-can-supercooling-tech-give-china-edge-ai-race?utm_source=rss_feed",
+      "title": "Frost in 20 seconds: can this supercooling tech give China an edge in AI race?",
+      "content_html": "Chinese scientists have unveiled a cooling technology that can plunge a liquid cooling medium from room temperature to sub-zero levels in less than half a minute.\nThis leap in thermal engineering offered a promising heat management solution for energy-hungry data centres that were mushrooming across China and the United States, they said.\nBy harnessing the unique behaviour of ammonium thiocyanate in water under pressure, the team created a liquid cooling system that mimics squeezing a “wet...",
+      "content_text": "Chinese scientists have unveiled a cooling technology that can plunge a liquid cooling medium from room temperature to sub-zero levels in less than half a minute.\nThis leap in thermal engineering offered a promising heat management solution for energy-hungry data centres that were mushrooming across China and the United States, they said.\nBy harnessing the unique behaviour of ammonium thiocyanate in water under pressure, the team created a liquid cooling system that mimics squeezing a “wet...",
+      "date_published": "2026-02-01T04:00:11.000Z"
+    },
+    {
+      "id": "https://www.scmp.com/business/china-business/article/3341868/multinationals-race-chinas-us1439-billion-instant-retail-market?utm_source=rss_feed",
+      "url": "https://www.scmp.com/business/china-business/article/3341868/multinationals-race-chinas-us1439-billion-instant-retail-market?utm_source=rss_feed",
+      "title": "Multinationals race into China’s US$143.9 billion instant retail market",
+      "content_html": "More foreign companies have rolled out instant delivery services exclusively for China or upgraded to more comprehensive offerings in the country, as they vie to stand out in the highly digitalised market and cater to consumers’ strong demand for instant services.\nMultinationals offering instant delivery now include Swedish furniture retailer Ikea, German tyre manufacturer Continental, US warehouse-style retailer Sam’s Club and German discount supermarket chain Aldi Nord.\n“China leads the world...",
+      "content_text": "More foreign companies have rolled out instant delivery services exclusively for China or upgraded to more comprehensive offerings in the country, as they vie to stand out in the highly digitalised market and cater to consumers’ strong demand for instant services.\nMultinationals offering instant delivery now include Swedish furniture retailer Ikea, German tyre manufacturer Continental, US warehouse-style retailer Sam’s Club and German discount supermarket chain Aldi Nord.\n“China leads the world...",
+      "date_published": "2026-02-01T03:00:15.000Z"
+    },
+    {
       "id": "https://www.scmp.com/news/china/science/article/3341795/ucla-virologist-xia-xian-joins-wuhan-lab-studying-highly-pathogenic-virus?utm_source=rss_feed",
       "url": "https://www.scmp.com/news/china/science/article/3341795/ucla-virologist-xia-xian-joins-wuhan-lab-studying-highly-pathogenic-virus?utm_source=rss_feed",
       "title": "UCLA virologist Xia Xian joins Wuhan lab studying highly pathogenic virus",

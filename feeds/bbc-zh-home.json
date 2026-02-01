@@ -6,6 +6,14 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/czx3ex1x3qro/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/czx3ex1x3qro/trad?at_medium=RSS&at_campaign=rss",
+      "title": "分析：以色列意在推動伊朗政權更替，並寄望於特朗普",
+      "content_html": "儘管許多美國盟友警告，嘗試推翻伊朗領導層可能為區域帶來巨大風險，但在以色列，許多人卻認為此舉可能為國家安全帶來顯著利益。",
+      "content_text": "儘管許多美國盟友警告，嘗試推翻伊朗領導層可能為區域帶來巨大風險，但在以色列，許多人卻認為此舉可能為國家安全帶來顯著利益。",
+      "date_published": "2026-02-01T04:17:12.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/clyz5pd20jvo/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/clyz5pd20jvo/trad?at_medium=RSS&at_campaign=rss",
       "title": "「代孕」引爆台灣社會爭論：誰的渴望，誰的風險？",
@@ -20,6 +28,14 @@
       "content_html": "在這趟時隔八年的旅程中，英國首相施紀賢爵士從中國收穫了免簽、服務業、醫療、綠色能源與金融合同。",
       "content_text": "在這趟時隔八年的旅程中，英國首相施紀賢爵士從中國收穫了免簽、服務業、醫療、綠色能源與金融合同。",
       "date_published": "2026-01-30T12:27:17.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c701y0pqwp9o/trad#1",
+      "url": "https://www.bbc.com/zhongwen/articles/c701y0pqwp9o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "香港巴士安全帶風波：「強戴令」實施未一週即暫緩，新法例為何惹來爭議？",
+      "content_html": "強制巴士乘客佩戴安全帶的新法例實施不足一周，引來社會巨大不滿，香港政府於法例生效六日後宣佈暫緩推行。",
+      "content_text": "強制巴士乘客佩戴安全帶的新法例實施不足一周，引來社會巨大不滿，香港政府於法例生效六日後宣佈暫緩推行。",
+      "date_published": "2026-01-30T10:57:37.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/c701y0pqwp9o/trad#0",
@@ -340,6 +356,14 @@
       "content_html": "印度西孟加拉邦爆發致命的尼帕病毒疫情，引發亞洲部分地區的關注，一些國家已加強機場的檢疫措施。",
       "content_text": "印度西孟加拉邦爆發致命的尼帕病毒疫情，引發亞洲部分地區的關注，一些國家已加強機場的檢疫措施。",
       "date_published": "2026-01-28T05:44:11.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/cp80pl999gjo/trad#5",
+      "url": "https://www.bbc.com/zhongwen/articles/cp80pl999gjo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
+      "content_html": "前美國國安顧問沙利文表示，習近平「對一個與自己有如此長期關係的人下手，這令人震驚，也引發了許多疑問」。",
+      "content_text": "前美國國安顧問沙利文表示，習近平「對一個與自己有如此長期關係的人下手，這令人震驚，也引發了許多疑問」。",
+      "date_published": "2026-01-28T04:18:09.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/cp80pl999gjo/trad#1",

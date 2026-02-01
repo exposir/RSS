@@ -6,6 +6,94 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "71521d5e-0636-4553-908b-84b5220c2901",
+      "url": "https://www.smh.com.au/sport/tennis/boos-cramps-queues-and-an-australian-fairytale-the-a-z-of-the-australian-open-20260131-p5nyja.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Boos, cramps, queues and an Australian fairytale: The A-Z of the Australian Open",
+      "content_html": "From top to bottom, these are the moments the 2026 Melbourne grand slam will be remembered for.",
+      "content_text": "From top to bottom, these are the moments the 2026 Melbourne grand slam will be remembered for.",
+      "date_published": "2026-02-01T04:02:05.000Z"
+    },
+    {
+      "id": "f336ec7a-c973-4b33-8971-cedb7320415a",
+      "url": "https://www.smh.com.au/sport/tennis/we-need-more-space-tiley-s-radical-plan-to-expand-the-australian-open-20260201-p5nymj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘We need more space’: Tiley’s radical plan to expand the Australian Open",
+      "content_html": "The Australian Open boss, who again deflected questions about his future, was happy to elaborate on the future of the Open, for which he predicted more innovations including an interactive glass court.",
+      "content_text": "The Australian Open boss, who again deflected questions about his future, was happy to elaborate on the future of the Open, for which he predicted more innovations including an interactive glass court.",
+      "date_published": "2026-02-01T03:39:28.000Z"
+    },
+    {
+      "id": "c053eed3-e333-4377-bcf6-933be68231d3",
+      "url": "https://www.smh.com.au/national/queensland/labor-demands-ccc-probe-into-its-own-former-rebate-scheme-20260201-p5nymk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Labor demands CCC probe into its own former rebate scheme",
+      "content_html": "The LNP revealed on Sunday about 20 per cent of the former Labor government’s e-mobility rebates funded illegal devices. Labor has shifted the blame to public servants.",
+      "content_text": "The LNP revealed on Sunday about 20 per cent of the former Labor government’s e-mobility rebates funded illegal devices. Labor has shifted the blame to public servants.",
+      "date_published": "2026-02-01T03:31:41.000Z"
+    },
+    {
+      "id": "0dd3e588-9356-411f-a878-3c18c115b414",
+      "url": "https://www.smh.com.au/world/north-america/judge-orders-5-year-old-used-as-bait-by-ice-to-be-freed-from-detention-20260201-p5nykw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Judge orders 5-year-old used as ‘bait’ by ICE to be freed from detention",
+      "content_html": "Images of Liam Conejo Ramos in a bunny hat being surrounded by federal agents in Minneapolis sparked further outcry over the Trump administration’s immigration crackdown.",
+      "content_text": "Images of Liam Conejo Ramos in a bunny hat being surrounded by federal agents in Minneapolis sparked further outcry over the Trump administration’s immigration crackdown.",
+      "date_published": "2026-02-01T03:04:41.000Z"
+    },
+    {
+      "id": "eba02975-5b32-426d-9021-c2be92423527",
+      "url": "https://www.smh.com.au/politics/federal/i-had-clive-palmer-do-the-ads-trump-lieutenant-s-australian-election-claim-revealed-in-epstein-files-20260201-p5nyl3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘I had Clive Palmer do the … ads’: Trump lieutenant’s Australian election claim revealed in Epstein files",
+      "content_html": "Trump ally Steve Bannon told paedophile Jeffrey Epstein in 2019 he had influenced an omnipresent election advertising campaign by the mining billionaire.",
+      "content_text": "Trump ally Steve Bannon told paedophile Jeffrey Epstein in 2019 he had influenced an omnipresent election advertising campaign by the mining billionaire.",
+      "date_published": "2026-02-01T02:55:14.000Z"
+    },
+    {
+      "id": "5c04b690-7621-4387-a1c6-65094a926a3a",
+      "url": "https://www.smh.com.au/sport/tennis/masurs-prediction-for-alcaraz-vs-djokovic-20260201-p5nymv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Masur's prediction for Alcaraz vs Djokovic",
+      "content_html": "Wally Masur's prediction for Carlos Alcaraz vs Novak Djokovic on Grand Slam Daily.",
+      "content_text": "Wally Masur's prediction for Carlos Alcaraz vs Novak Djokovic on Grand Slam Daily.",
+      "date_published": "2026-02-01T02:54:11.000Z"
+    },
+    {
+      "id": "7daab81c-1ba7-4cfa-9312-e275ff88509e",
+      "url": "https://www.smh.com.au/business/consumer-affairs/lime-juices-its-sydney-e-bike-fees-in-winner-takes-all-approach-20260129-p5nxwg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Lime juices its Sydney e-bike fees in winner takes all approach",
+      "content_html": "Ahead of a planned US stock market launch, the e-bike share giant is offering significantly cheaper rides.",
+      "content_text": "Ahead of a planned US stock market launch, the e-bike share giant is offering significantly cheaper rides.",
+      "date_published": "2026-02-01T02:52:13.000Z"
+    },
+    {
+      "id": "070abadd-eddc-408c-a884-2f4fe3ebae2c",
+      "url": "https://www.smh.com.au/politics/victoria/high-court-rejects-victorian-bid-to-stall-donation-law-case-20260128-p5nxnm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "High Court rejects Victorian bid to stall donation law case",
+      "content_html": "Victoria’s political donation laws will this week face a legal challenge in the nation’s top court after the state government’s attempt to delay the case failed.",
+      "content_text": "Victoria’s political donation laws will this week face a legal challenge in the nation’s top court after the state government’s attempt to delay the case failed.",
+      "date_published": "2026-02-01T02:39:34.000Z"
+    },
+    {
+      "id": "95adc651-b2f7-4d1d-997f-6add1068864a",
+      "url": "https://www.smh.com.au/world/north-america/powerful-men-who-turn-up-in-the-new-batch-of-epstein-files-20260201-p5nyln.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Powerful men who turn up in the new batch of Epstein files",
+      "content_html": "Donald Trump, Elon Musk and Bill Gates are among the dozens of high-profile figures mentioned in the vast trove of documents.",
+      "content_text": "Donald Trump, Elon Musk and Bill Gates are among the dozens of high-profile figures mentioned in the vast trove of documents.",
+      "date_published": "2026-02-01T02:30:00.000Z"
+    },
+    {
+      "id": "14bb9a4e-948b-4c81-8acb-83a9936a0f09",
+      "url": "https://www.smh.com.au/sport/afl/process-over-panic-dean-cox-on-family-failure-and-year-two-at-the-swans-20260125-p5nwso.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Process over panic: Dean Cox on family, failure and year two at the Swans",
+      "content_html": "Dean Cox experienced 11 losses in his first season as Sydney’s head coach, and every one of them taught him a lesson, which he hopes will take the Swans to a new level this year.",
+      "content_text": "Dean Cox experienced 11 losses in his first season as Sydney’s head coach, and every one of them taught him a lesson, which he hopes will take the Swans to a new level this year.",
+      "date_published": "2026-02-01T02:30:00.000Z"
+    },
+    {
+      "id": "37740c20-31f8-41fc-8dcf-41b67d11e25e",
+      "url": "https://www.smh.com.au/national/nsw/since-covid-our-cat-population-has-exploded-there-s-a-fix-but-we-re-ignoring-it-20251204-p5nktw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Since COVID, our cat population has exploded. There’s a fix, but we’re ignoring it",
+      "content_html": "As a vet, I witnessed a surge in pet ownership during the pandemic – then a consequent rise in stray and anxious cats. Their behaviour shifts are often misread or dismissed.",
+      "content_text": "As a vet, I witnessed a surge in pet ownership during the pandemic – then a consequent rise in stray and anxious cats. Their behaviour shifts are often misread or dismissed.",
+      "date_published": "2026-02-01T02:30:00.000Z"
+    },
+    {
       "id": "316b4af9-2668-43be-b5a3-965239a2fc48",
       "url": "https://www.smh.com.au/world/middle-east/where-is-the-ceasefire-israeli-strikes-kill-at-least-30-palestinians-ahead-of-gaza-crossing-reopening-20260201-p5nym9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "‘Where is the ceasefire?’: Israeli strikes kill at least 30 Palestinians ahead of Gaza crossing reopening",

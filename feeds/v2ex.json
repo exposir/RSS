@@ -17,6 +17,150 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189878",
+      "url": "https://www.v2ex.com/t/1189878#reply0",
+      "title": "[分享创造] [分享] 自己做的一个小工具： AI 应用图标生成器",
+      "content_html": "<p>作为独立开发者，每次新项目都要为图标头疼 - 要做各种尺寸，还要处理 Android 自适应图标的前景背景分离，挺麻烦的。</p>\n<p>于是自己撸了一个小工具 <a href=\"https://www.appiconkitchen.com/?utm_source=v2ex\" rel=\"nofollow\">AppIconKitchen</a>，主要解决自己的痛点，顺便分享给有同样需求的朋友。</p>\n<p>目前实现的功能：</p>\n<ul>\n<li>用文字描述图标，AI 生成几种风格</li>\n<li>支持 Android 自适应图标（可以分离前景/背景层）</li>\n<li>一键导出 iOS 、Android 、Web 的资源包</li>\n<li>尽量符合 App Store / Google Play 的上架规范</li>\n</ul>\n<p>工具还比较简陋，很多地方可能还不完善。</p>\n<p>地址： <a href=\"https://appiconkitchen.com\" rel=\"nofollow\">https://appiconkitchen.com</a></p>\n<p>如果大家有什么建议或者发现 bug ，欢迎反馈，我会持续改进。谢谢！</p>",
+      "content_text": "作为独立开发者，每次新项目都要为图标头疼 - 要做各种尺寸，还要处理 Android 自适应图标的前景背景分离，挺麻烦的。\n于是自己撸了一个小工具 AppIconKitchen，主要解决自己的痛点，顺便分享给有同样需求的朋友。\n目前实现的功能：\n\n用文字描述图标，AI 生成几种风格\n支持 Android 自适应图标（可以分离前景/背景层）\n一键导出 iOS 、Android 、Web 的资源包\n尽量符合 App Store / Google Play 的上架规范\n\n工具还比较简陋，很多地方可能还不完善。\n地址： https://appiconkitchen.com\n如果大家有什么建议或者发现 bug ，欢迎反馈，我会持续改进。谢谢！",
+      "date_published": "2026-02-01T04:30:00.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189877",
+      "url": "https://www.v2ex.com/t/1189877#reply0",
+      "title": "[Apple] 北京国补， 2020 款 M1 MBA 准备换 2026M4 15 寸的怎么样",
+      "content_html": "<p>公司的是 MBP16 ，感觉自己用的 13 寸 MBA 太小了，恰逢国补，想换个 15 寸的，有这样换过的 V 友吗，用着怎么样</p>",
+      "content_text": "公司的是 MBP16 ，感觉自己用的 13 寸 MBA 太小了，恰逢国补，想换个 15 寸的，有这样换过的 V 友吗，用着怎么样",
+      "date_published": "2026-02-01T04:27:02.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189876",
+      "url": "https://www.v2ex.com/t/1189876#reply0",
+      "title": "[酷工作] 🚀 寻找移动端核心工程师：用极致的技术品味，构建全球领先的 AI 形象引擎 [深圳/远程]",
+      "content_html": "🚀 寻找移动端核心工程师：用极致的技术品味，构建全球领先的 AI 形象引擎<br />我们在做 AI 实时互动数字人。 我们要挑战的是：在移动端突破 渲染极限，将多模态 AI 与实时音视频无缝融合。 这不是一个平庸的业务开发职位。我们需要你凭借在一线大厂积累的系统化思维，为全球开发者构建一套极致、优雅、工业级的移动端 SDK 。<br /><br />💻 你会做的事<br />- 定义 SDK 审美： 负责 iOS/Android 双端 SDK 架构。我们不只追求功能完成，更追求接口的优雅与极简，面向全球开发者生态打造标杆级产品。<br />- 攻克渲染极限： 深度优化数字人渲染在移动端的工程化落地，在帧率、延迟与功耗的“不可能三角”中寻找最优解。<br />- 全球化工程落地： 应对全球复杂的网络环境与机型碎片化，构建高可用、低延迟的端侧 AI 调度与数据流转体系。<br />- 大厂级的质量保障： 将大厂成熟的性能监控、自动化测试及稳定性治理经验植入初创团队，确保 SDK 在终端上的稳健表现。<br /><br /><br />🧠 我们希望你<br />- 大厂实战背景： 拥有字节跳动、腾讯、阿里、美团或硅谷大厂（ Google/Meta 等）的资深开发经验。<br />- 极致技术品味： 懂代码，更懂“代码美学”。对接口设计有执念。<br />- 移动端专家： 深度掌握 iOS/Android 底层机制，精通性能调优，对线程模型、内存模型有深刻理解。<br />- 全球化视野： 具备良好的英文阅读能力，理解国际化开发者习惯，习惯用 AI 工具赋能工作流。<br /><br /><br />🌟 加分项<br />- 有 3D 渲染 (Metal/Vulkan/OpenGL) 或 高性能音视频经验。<br />- 对 3DGS 、NeRF 或实时图形学前沿技术有深入研究。<br />- 有成功的开源项目或面向全球开发者的 SDK/平台产品 经验。<br /><br /><br />❤️ 你能得到<br />- 现金回报对标字节： 薪资标准直接对标字节跳动 (ByteDance) 等大厂同职级级别，绝不让技术溢价受损。<br />- 核心期权： 远超大厂的早期核心股权激励，共享公司从 1 到 100 的指数级成长红利。<br />- 硬核技术高地： 深度参与 3DGS 实时引擎的全球商业化首发，拒绝在大厂做“螺丝钉”，来这里亲手敲出行业标准。<br />- 精英极客文化： 中美双总部背景，扁平、透明，支持灵活办公，给你足够的自主权与信任。<br /><br /><br />🍫 关于我们<br />Spatialwalk 是一家专注于 AI 实时互动数字形象 的中美双总部创业公司。<br />- 核心团队： 来自清华、中科大、字节、腾讯，在 CVPR 、ICCV 等顶级会议发表多篇论文。<br />- 公司愿景： 打造端侧 AI 形象引擎，重构全球下一代人机交互标准。<br /><br /><br />📬 投递方式<br />- 投递邮箱： hr@spatialwalk.net<br />- 备注： 欢迎附上你的 GitHub 、个人博客或任何能展现你技术品味的作品。",
+      "content_text": "🚀 寻找移动端核心工程师：用极致的技术品味，构建全球领先的 AI 形象引擎我们在做 AI 实时互动数字人。 我们要挑战的是：在移动端突破 渲染极限，将多模态 AI 与实时音视频无缝融合。 这不是一个平庸的业务开发职位。我们需要你凭借在一线大厂积累的系统化思维，为全球开发者构建一套极致、优雅、工业级的移动端 SDK 。💻 你会做的事- 定义 SDK 审美： 负责 iOS/Android 双端 SDK 架构。我们不只追求功能完成，更追求接口的优雅与极简，面向全球开发者生态打造标杆级产品。- 攻克渲染极限： 深度优化数字人渲染在移动端的工程化落地，在帧率、延迟与功耗的“不可能三角”中寻找最优解。- 全球化工程落地： 应对全球复杂的网络环境与机型碎片化，构建高可用、低延迟的端侧 AI 调度与数据流转体系。- 大厂级的质量保障： 将大厂成熟的性能监控、自动化测试及稳定性治理经验植入初创团队，确保 SDK 在终端上的稳健表现。🧠 我们希望你- 大厂实战背景： 拥有字节跳动、腾讯、阿里、美团或硅谷大厂（ Google/Meta 等）的资深开发经验。- 极致技术品味： 懂代码，更懂“代码美学”。对接口设计有执念。- 移动端专家： 深度掌握 iOS/Android 底层机制，精通性能调优，对线程模型、内存模型有深刻理解。- 全球化视野： 具备良好的英文阅读能力，理解国际化开发者习惯，习惯用 AI 工具赋能工作流。🌟 加分项- 有 3D 渲染 (Metal/Vulkan/OpenGL) 或 高性能音视频经验。- 对 3DGS 、NeRF 或实时图形学前沿技术有深入研究。- 有成功的开源项目或面向全球开发者的 SDK/平台产品 经验。❤️ 你能得到- 现金回报对标字节： 薪资标准直接对标字节跳动 (ByteDance) 等大厂同职级级别，绝不让技术溢价受损。- 核心期权： 远超大厂的早期核心股权激励，共享公司从 1 到 100 的指数级成长红利。- 硬核技术高地： 深度参与 3DGS 实时引擎的全球商业化首发，拒绝在大厂做“螺丝钉”，来这里亲手敲出行业标准。- 精英极客文化： 中美双总部背景，扁平、透明，支持灵活办公，给你足够的自主权与信任。🍫 关于我们Spatialwalk 是一家专注于 AI 实时互动数字形象 的中美双总部创业公司。- 核心团队： 来自清华、中科大、字节、腾讯，在 CVPR 、ICCV 等顶级会议发表多篇论文。- 公司愿景： 打造端侧 AI 形象引擎，重构全球下一代人机交互标准。📬 投递方式- 投递邮箱： hr@spatialwalk.net- 备注： 欢迎附上你的 GitHub 、个人博客或任何能展现你技术品味的作品。",
+      "date_published": "2026-02-01T04:25:29.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189873",
+      "url": "https://www.v2ex.com/t/1189873#reply0",
+      "title": "[问与答] AI 工具这么多，哪款最好用？",
+      "content_html": "ChatGPT 、元宝、千问、文心一言、Grok 、Gemini…你们平时用哪个？写代码、查资料还是日常聊天？来聊聊推荐理由！<br /><br /><br /><br />--------<br /><br /><br /><br />附上最新元宝 10 亿红包分享口令:<br /><br /><br /><br />春节元宝红包已就位，复制口令打开 App 抢！ UA4154 ln:/C5QK5H4L4K<br /><br /><br /><br />元宝 App 春节专场：复制后打开 App 抢红包！ MU6010 a:/C5QK5H7QWW<br /><br /><br /><br />元宝 App 春节专场：复制后打开 App 抢红包！ HU3396 xq:/C5QK5HH88H",
+      "content_text": "ChatGPT 、元宝、千问、文心一言、Grok 、Gemini…你们平时用哪个？写代码、查资料还是日常聊天？来聊聊推荐理由！--------附上最新元宝 10 亿红包分享口令:春节元宝红包已就位，复制口令打开 App 抢！ UA4154 ln:/C5QK5H4L4K元宝 App 春节专场：复制后打开 App 抢红包！ MU6010 a:/C5QK5H7QWW元宝 App 春节专场：复制后打开 App 抢红包！ HU3396 xq:/C5QK5HH88H",
+      "date_published": "2026-02-01T04:16:33.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189872",
+      "url": "https://www.v2ex.com/t/1189872#reply0",
+      "title": "[开源软件] 使用 OpenClaw 自动化 GitHub 的问题/拉取请求回复。",
+      "content_html": "<p><strong>试试在 <a href=\"https://github.com/Rabithua/openclaw/issues\" rel=\"nofollow\">https://github.com/Rabithua/openclaw/issues</a> 提交 Issue 或评论，不出意外的话会收到来自 openclaw 机器人的回复</strong></p>\n<hr/>\n<h3>关于仓库：</h3>\n<ul>\n<li>\n<p><strong>services/webhookd/</strong>: 一个基于 Deno 的轻量 GitHub webhook 接收器，功能包括：</p>\n<ul>\n<li>验证 <code>X-Hub-Signature-256</code></li>\n<li>忽略特定操作者、动作白名单、内存去重、通过回复签名防止循环。</li>\n</ul>\n</li>\n<li>\n<p>将规范化后的消息转发至 OpenClaw Gateway (<code>POST /tools/invoke</code>，通常是 <code>sessions_spawn</code>)，由 Agent 处理繁重工作（分类、评论、通知等）。</p>\n</li>\n<li>\n<p><strong>skills</strong>: 我的 OpenClaw 技能包（例如使用 <code>rote-notes</code> 通过 OpenKey API 在 Rote 中创建/搜索笔记）。</p>\n</li>\n</ul>\n<h3>快速开始：</h3>\n<p>直接告诉 Openclaw：</p>\n<blockquote>\n<p>use this repo (<a href=\"https://github.com/Rabithua/openclaw\" rel=\"nofollow\">https://github.com/Rabithua/openclaw</a>), to deploy webhookd service use this guide(<a href=\"https://github.com/Rabithua/openclaw/blob/master/services/webhookd/DEPLOY.md\" rel=\"nofollow\">https://github.com/Rabithua/openclaw/blob/master/services/webhookd/DEPLOY.md</a>).</p>\n</blockquote>",
+      "content_text": "试试在 https://github.com/Rabithua/openclaw/issues 提交 Issue 或评论，不出意外的话会收到来自 openclaw 机器人的回复\n\n关于仓库：\n\n\nservices/webhookd/: 一个基于 Deno 的轻量 GitHub webhook 接收器，功能包括：\n\n验证 X-Hub-Signature-256\n忽略特定操作者、动作白名单、内存去重、通过回复签名防止循环。\n\n\n\n将规范化后的消息转发至 OpenClaw Gateway (POST /tools/invoke，通常是 sessions_spawn)，由 Agent 处理繁重工作（分类、评论、通知等）。\n\n\nskills: 我的 OpenClaw 技能包（例如使用 rote-notes 通过 OpenKey API 在 Rote 中创建/搜索笔记）。\n\n\n快速开始：\n直接告诉 Openclaw：\n\nuse this repo (https://github.com/Rabithua/openclaw), to deploy webhookd service use this guide(https://github.com/Rabithua/openclaw/blob/master/services/webhookd/DEPLOY.md).",
+      "date_published": "2026-02-01T04:16:04.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189871",
+      "url": "https://www.v2ex.com/t/1189871#reply0",
+      "title": "[推广] 行知合一很难，我想容易一点 - 新发布 Checklist App 限免下载",
+      "content_html": "<h3>1 “懂了很多道理，但依然过不好这一生。”</h3>\n<p>明白了很多道理但还是做不好，从某种角度来说行知合一确实是一件很困难的事情。</p>\n<p>比如刚加完班，已经很累了，手机弹出朋友或家人的一条消息，语气不太好，甚至带些情绪。</p>\n<p>此时心里其实知道，现在不是一个适合讨论问题的时间，再展开下去，只会把事情搞得更糟。</p>\n<p>但还是忍不住回了，打字飞快，想一次性把事情说清楚，有时甚至还觉得：这是必要的，是理性的，我没有错。</p>\n<p>直到事情变得更糟糕，回头看时才意识到：</p>\n<p>“我当时其实知道不该那样立即“突突突”地回复的。”</p>\n<h3>2 理性的人常常也会被情绪和压力推着走</h3>\n<p>在工作中，我也经常不可避免在有压力、情绪被触发或时间紧张的状态下做决定。这时比较容易进入一种危险的模式：</p>\n<ul>\n<li>情绪比判断更快。</li>\n<li>行动发生在思考之前。</li>\n<li>惯性比思考更强。</li>\n</ul>\n<p>在做决定的时间点，如果受情绪影响，加上决策时间短，是比较容易走错的。</p>\n<p>甚至有些问题事前分析过也复盘过，在关键时刻也可能会犯错。</p>\n<p>经常做决策或做过短线交易的朋友们可能会和我有同样的感觉。</p>\n<h3>3 “安全可靠的框架”</h3>\n<p>有一天我突然意识到自己需要一个工具。当我在思维的岔路口时，能把我拉回正轨，于是我很快便做了一个 APP - <strong>CheckPoint</strong> 。</p>\n<p>CheckPoint 是一个 iOS APP ，一个简单的可重复使用的 Checklist 系统，它的作用是：</p>\n<ol>\n<li>把你从当下的混乱状态中暂时拉出来</li>\n<li>提供一个可靠的框架，让你在这个安全上下文中思考或行动。</li>\n</ol>\n<p>它基于一个简单的判断：人在混乱且需要决策时候，需要一个安全可靠的框架。</p>\n<p>这个框架不依赖稳定的临场发挥和情绪状态、不考验意志力，只需要你在合适的时间点打开它，然后跟着它完成下一步，就能保证不犯基本错误。就像开着车载导航，基本路线很难出错一样。</p>\n<h3>4 三个我需要 CheckPoint 的场景</h3>\n<p>在工作和生活中我自己用 CheckPoint 几个月了，介绍一下我使用的 3 个常用场景:</p>\n<h4>4.1 当情绪失控时</h4>\n<p>我会提前查找 ChatGPT 或相关书籍，制作一个 “情绪失控 checklist” 。当</p>\n<ul>\n<li>收到一条语气不友好的消息（例如：推上会没有来由地被网暴）</li>\n<li>被质疑、被否定、被指责</li>\n<li>情绪已经被触发，但事情还没失控</li>\n</ul>\n<p>时，打开过一遍清单。</p>\n<p>例如清单上可能写着几个建议或提问：</p>\n<ul>\n<li>暂时不回复。暂停任何公开回复。</li>\n<li>这件事一周后还重要吗？不重要 → 结束。</li>\n<li>不回应会更糟吗？ 不会 → 结束。</li>\n<li>如果必须回应，只说事实。不解释情绪，不证明自己。</li>\n<li>…</li>\n</ul>\n<p>我不需要分析对错，只需要顺着走完。很多时候，冲动会在做完 Checklist 之前自然消退。</p>\n<h4>4.2 “等到完全确定，时机已经错过。”</h4>\n<p>如果在工作中负责过一些项目，就能体会到我们常常需要在没有 100% 把握前对项目做一些决策，这时往往时间短压力大。</p>\n<p>我的做法是，试着总结不同场景的决策 checklist 以帮助自己做决定 。下列只是脱敏后举例 (另外有些 checklist 可以作为团队的 checklist):</p>\n<p>比如: 当线上事故或紧急问题发生时 。</p>\n<ul>\n<li>现在最紧急的是：止血，还是 定位根因？</li>\n<li>我即将做的这个操作，是否 可回滚？</li>\n<li>如果这个操作失败，是否会让局面 更难恢复？</li>\n<li>有没有一个 更保守但能争取时间 的选择？</li>\n<li>现在是否需要一个 明确的临时状态，而不是“一次性修好”？</li>\n</ul>\n<p>比如: 当出现分歧或冲突，作为负责人需要定调时。</p>\n<ul>\n<li>我现在介入，是为了 把事情做好，还是为了 结束争论？</li>\n<li>我是在讨论方案，还是在 维护某一方（包括我自己）的面子？</li>\n<li>如果我不是这个方案的提出者，我还会坚持同样的立场吗？</li>\n<li>这个决定，是在 保护系统和用户，还是在 保护当下关系？</li>\n<li>是否有一个方式，可以 先明确原则，再延后结论？</li>\n</ul>\n<p>执行过程不只是机械的执行，我仍然可以根据自己当下的情况做决定，重要的是我在一个安全框架内。</p>\n<p>另外我可以不断修订这个 checklist 以满足不同变化的具体场景。</p>\n<p>Checklist 提供了一张安全网，避免我造成可能的最坏情况。</p>\n<h4>4.3 不贰过</h4>\n<p>\"有颜回者好学，不迁怒，不贰过。\" - 《论语·雍也》</p>\n<p>重复犯错是一件挺让人难过的事情。明明之前已经掉到过坑里，也知道哪一步容易出问题，但是在不同时间还是掉到同一个坑里。</p>\n<p>我整理了一个“重复犯错 Checklist” ：</p>\n<ul>\n<li>这个场景我以前遇到过吗？</li>\n<li>上一次是从哪一步开始偏离的？</li>\n<li>我要如何避免这个错误 ？</li>\n<li>…</li>\n</ul>\n<p>这个 checklist 不会让思考更有深度，只是减少再次犯错的概率。</p>\n<h3>5 CheckPoint 提供安全上下文</h3>\n<p>CheckPoint 不是用来提升思考品质的工具，它只是： 在你最容易做错误决定的时刻，提供安全上下文，替你兜住底线。</p>\n<p>在关键时刻，停下来，并打开它，定位到之前总结的 checklist</p>\n<ul>\n<li>看第一条</li>\n<li>做完</li>\n<li>再看下一条</li>\n<li>…</li>\n</ul>\n<p>就能比上次做得更好。</p>\n<p>这是我的体验。</p>\n<p>有兴趣的朋友可以试一试。</p>\n<h3>6 可能帮得上哪些人？</h3>\n<ul>\n<li>\n交易员、投资人<ul>\n<li>决策窗口极短, 情绪、恐惧、FOMO 极强, 一次失误代价巨大 。</li>\n<li>当 追涨杀跌，临时加仓，不按计划止损时，强制减速，防止冲动操作。</li>\n</ul>\n</li>\n<li>\n管理者、创业者、负责人。<ul>\n<li>每天被消息轰炸, 情绪触发点多, 决策影响范围大。</li>\n<li>在情绪中回复重要信息，仓促答应合作、承诺，在压力下拍板, 需要避免情绪化管理, 以减少后悔型决策。</li>\n</ul>\n</li>\n<li>\n资深工程师、医生、律师<ul>\n<li>不是新手，错误往往来自“惯性”， 一旦出错， 代价高。</li>\n<li>避免的问题，对抗经验带来的盲点，防止“我以为我知道”。</li>\n</ul>\n</li>\n<li>父母、教育者</li>\n</ul>\n<h3>7 关于定价和成本</h3>\n<p>到下周一晚限免下载，后续一次性买断 $5.99 。</p>\n<p>程序员如果 vibe 一个自己的版本，成本应该会高于 $5.99 。 数据方面，还是 Local first ，导出后是压缩后的 JSON 结构，自主可控。</p>\n<p>下载链接： <a href=\"https://apps.apple.com/us/app/checkpoint-staying-on-track/id6758430816\" rel=\"nofollow\">https://apps.apple.com/us/app/checkpoint-staying-on-track/id6758430816</a></p>\n<p>作者主页： <a href=\"https://huangqian.org/about.html\" rel=\"nofollow\">https://huangqian.org/about.html</a></p>",
+      "content_text": "1 “懂了很多道理，但依然过不好这一生。”\n明白了很多道理但还是做不好，从某种角度来说行知合一确实是一件很困难的事情。\n比如刚加完班，已经很累了，手机弹出朋友或家人的一条消息，语气不太好，甚至带些情绪。\n此时心里其实知道，现在不是一个适合讨论问题的时间，再展开下去，只会把事情搞得更糟。\n但还是忍不住回了，打字飞快，想一次性把事情说清楚，有时甚至还觉得：这是必要的，是理性的，我没有错。\n直到事情变得更糟糕，回头看时才意识到：\n“我当时其实知道不该那样立即“突突突”地回复的。”\n2 理性的人常常也会被情绪和压力推着走\n在工作中，我也经常不可避免在有压力、情绪被触发或时间紧张的状态下做决定。这时比较容易进入一种危险的模式：\n\n情绪比判断更快。\n行动发生在思考之前。\n惯性比思考更强。\n\n在做决定的时间点，如果受情绪影响，加上决策时间短，是比较容易走错的。\n甚至有些问题事前分析过也复盘过，在关键时刻也可能会犯错。\n经常做决策或做过短线交易的朋友们可能会和我有同样的感觉。\n3 “安全可靠的框架”\n有一天我突然意识到自己需要一个工具。当我在思维的岔路口时，能把我拉回正轨，于是我很快便做了一个 APP - CheckPoint 。\nCheckPoint 是一个 iOS APP ，一个简单的可重复使用的 Checklist 系统，它的作用是：\n\n把你从当下的混乱状态中暂时拉出来\n提供一个可靠的框架，让你在这个安全上下文中思考或行动。\n\n它基于一个简单的判断：人在混乱且需要决策时候，需要一个安全可靠的框架。\n这个框架不依赖稳定的临场发挥和情绪状态、不考验意志力，只需要你在合适的时间点打开它，然后跟着它完成下一步，就能保证不犯基本错误。就像开着车载导航，基本路线很难出错一样。\n4 三个我需要 CheckPoint 的场景\n在工作和生活中我自己用 CheckPoint 几个月了，介绍一下我使用的 3 个常用场景:\n4.1 当情绪失控时\n我会提前查找 ChatGPT 或相关书籍，制作一个 “情绪失控 checklist” 。当\n\n收到一条语气不友好的消息（例如：推上会没有来由地被网暴）\n被质疑、被否定、被指责\n情绪已经被触发，但事情还没失控\n\n时，打开过一遍清单。\n例如清单上可能写着几个建议或提问：\n\n暂时不回复。暂停任何公开回复。\n这件事一周后还重要吗？不重要 → 结束。\n不回应会更糟吗？ 不会 → 结束。\n如果必须回应，只说事实。不解释情绪，不证明自己。\n…\n\n我不需要分析对错，只需要顺着走完。很多时候，冲动会在做完 Checklist 之前自然消退。\n4.2 “等到完全确定，时机已经错过。”\n如果在工作中负责过一些项目，就能体会到我们常常需要在没有 100% 把握前对项目做一些决策，这时往往时间短压力大。\n我的做法是，试着总结不同场景的决策 checklist 以帮助自己做决定 。下列只是脱敏后举例 (另外有些 checklist 可以作为团队的 checklist):\n比如: 当线上事故或紧急问题发生时 。\n\n现在最紧急的是：止血，还是 定位根因？\n我即将做的这个操作，是否 可回滚？\n如果这个操作失败，是否会让局面 更难恢复？\n有没有一个 更保守但能争取时间 的选择？\n现在是否需要一个 明确的临时状态，而不是“一次性修好”？\n\n比如: 当出现分歧或冲突，作为负责人需要定调时。\n\n我现在介入，是为了 把事情做好，还是为了 结束争论？\n我是在讨论方案，还是在 维护某一方（包括我自己）的面子？\n如果我不是这个方案的提出者，我还会坚持同样的立场吗？\n这个决定，是在 保护系统和用户，还是在 保护当下关系？\n是否有一个方式，可以 先明确原则，再延后结论？\n\n执行过程不只是机械的执行，我仍然可以根据自己当下的情况做决定，重要的是我在一个安全框架内。\n另外我可以不断修订这个 checklist 以满足不同变化的具体场景。\nChecklist 提供了一张安全网，避免我造成可能的最坏情况。\n4.3 不贰过\n\"有颜回者好学，不迁怒，不贰过。\" - 《论语·雍也》\n重复犯错是一件挺让人难过的事情。明明之前已经掉到过坑里，也知道哪一步容易出问题，但是在不同时间还是掉到同一个坑里。\n我整理了一个“重复犯错 Checklist” ：\n\n这个场景我以前遇到过吗？\n上一次是从哪一步开始偏离的？\n我要如何避免这个错误 ？\n…\n\n这个 checklist 不会让思考更有深度，只是减少再次犯错的概率。\n5 CheckPoint 提供安全上下文\nCheckPoint 不是用来提升思考品质的工具，它只是： 在你最容易做错误决定的时刻，提供安全上下文，替你兜住底线。\n在关键时刻，停下来，并打开它，定位到之前总结的 checklist\n\n看第一条\n做完\n再看下一条\n…\n\n就能比上次做得更好。\n这是我的体验。\n有兴趣的朋友可以试一试。\n6 可能帮得上哪些人？\n\n\n交易员、投资人\n决策窗口极短, 情绪、恐惧、FOMO 极强, 一次失误代价巨大 。\n当 追涨杀跌，临时加仓，不按计划止损时，强制减速，防止冲动操作。\n\n\n\n管理者、创业者、负责人。\n每天被消息轰炸, 情绪触发点多, 决策影响范围大。\n在情绪中回复重要信息，仓促答应合作、承诺，在压力下拍板, 需要避免情绪化管理, 以减少后悔型决策。\n\n\n\n资深工程师、医生、律师\n不是新手，错误往往来自“惯性”， 一旦出错， 代价高。\n避免的问题，对抗经验带来的盲点，防止“我以为我知道”。\n\n\n父母、教育者\n\n7 关于定价和成本\n到下周一晚限免下载，后续一次性买断 $5.99 。\n程序员如果 vibe 一个自己的版本，成本应该会高于 $5.99 。 数据方面，还是 Local first ，导出后是压缩后的 JSON 结构，自主可控。\n下载链接： https://apps.apple.com/us/app/checkpoint-staying-on-track/id6758430816\n作者主页： https://huangqian.org/about.html",
+      "date_published": "2026-02-01T04:08:16.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189869",
+      "url": "https://www.v2ex.com/t/1189869#reply4",
+      "title": "[微信] 微信群已经被元宝狂轰乱炸了，有十亿用户是不是做什么都可以成功？",
+      "content_html": "<p>中国人、元宝、新年、红包、微信</p>\n<p>这些词汇汇总起来很容易击中每一个华人啊！</p>\n<p>这次活动，就类似双十一，以前是 11,11 活动正式开始，现在国庆后就开始了。</p>\n<p>类似 2015 年、2016 年春晚的红包大战已经提前了开始了。</p>\n<p>行业上，可以看到一个趋势，越来越多的场景，用户第一反应是去找豆包、元宝（通用 AI 应用）</p>\n<p>各家的通用 AI 应用开始变成各个业务的超级入口，豆包跳抖音电商，千问跳淘宝...</p>\n<p>本帖不要贴元宝啦</p>",
+      "content_text": "中国人、元宝、新年、红包、微信\n这些词汇汇总起来很容易击中每一个华人啊！\n这次活动，就类似双十一，以前是 11,11 活动正式开始，现在国庆后就开始了。\n类似 2015 年、2016 年春晚的红包大战已经提前了开始了。\n行业上，可以看到一个趋势，越来越多的场景，用户第一反应是去找豆包、元宝（通用 AI 应用）\n各家的通用 AI 应用开始变成各个业务的超级入口，豆包跳抖音电商，千问跳淘宝...\n本帖不要贴元宝啦",
+      "date_published": "2026-02-01T03:54:30.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189868",
+      "url": "https://www.v2ex.com/t/1189868#reply0",
+      "title": "[分享创造] 🔥 受够了手动配置 AI Agent Skills？开源了一个 macOS 工具， 25+ Agent 一键搞定",
+      "content_html": "<p>最近在用 AI Coding Agent （ Cursor 、Claude Code 、Windsurf 等）的时候，发现管理各种 Skills 很麻烦，每个 Agent 的配置方式还不一样，于是撸了这个小工具。\n<strong>Forks</strong> 是一个 macOS 原生应用，用于统一管理 AI 编程助手的 Skills：</p>\n<ul>\n<li>🔧 <strong>一键安装 Skills</strong> — 从 GitHub 或本地文件夹直接安装</li>\n<li>🎯 <strong>支持 25+ Agent</strong> — Cursor 、Claude Code 、Windsurf 、Cline 、Antigravity 、Roo 、Goose 等主流 AI 编程助手</li>\n<li>📚 <strong>Registry 源管理</strong> — 添加多个 Skills 仓库，自动检测更新</li>\n<li>📁 <strong>项目级管理</strong> — 支持全局安装或针对特定项目单独安装</li>\n<li>🔍 <strong>在线搜索</strong> — 接入 <a href=\"http://skills.sh\" rel=\"nofollow\">skills.sh</a> ，直接搜索社区 Skills</li>\n<li>🔄 <strong>自动更新</strong> — 基于 Sparkle 的应用内自动更新\n<img alt=\"Dashboard\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://raw.githubusercontent.com/fxding/forks/main/screenshot/dashboard.png\"/></li>\n</ul>\n<hr/>\n<h2><strong>下载</strong>：<a href=\"https://github.com/fxding/forks/releases\" rel=\"nofollow\">GitHub Releases</a>\n<strong>要求</strong>：macOS 13.0+，需要安装 Node.js （<code>brew install node</code>）\n<strong>源码</strong>： <a href=\"https://github.com/fxding/forks\" rel=\"nofollow\">https://github.com/fxding/forks</a>\n<strong>开源协议</strong>：MIT</h2>\n<p>如果你也在用 AI Coding Agent ，欢迎试试～ 有任何问题或建议可以直接在 GitHub 提 issue 。</p>",
+      "content_text": "最近在用 AI Coding Agent （ Cursor 、Claude Code 、Windsurf 等）的时候，发现管理各种 Skills 很麻烦，每个 Agent 的配置方式还不一样，于是撸了这个小工具。\nForks 是一个 macOS 原生应用，用于统一管理 AI 编程助手的 Skills：\n\n🔧 一键安装 Skills — 从 GitHub 或本地文件夹直接安装\n🎯 支持 25+ Agent — Cursor 、Claude Code 、Windsurf 、Cline 、Antigravity 、Roo 、Goose 等主流 AI 编程助手\n📚 Registry 源管理 — 添加多个 Skills 仓库，自动检测更新\n📁 项目级管理 — 支持全局安装或针对特定项目单独安装\n🔍 在线搜索 — 接入 skills.sh ，直接搜索社区 Skills\n🔄 自动更新 — 基于 Sparkle 的应用内自动更新\n\n\n\n下载：GitHub Releases\n要求：macOS 13.0+，需要安装 Node.js （brew install node）\n源码： https://github.com/fxding/forks\n开源协议：MIT\n如果你也在用 AI Coding Agent ，欢迎试试～ 有任何问题或建议可以直接在 GitHub 提 issue 。",
+      "date_published": "2026-02-01T03:52:57.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189866",
+      "url": "https://www.v2ex.com/t/1189866#reply2",
+      "title": "[AI Agent 智能体] 最近的 clawdbot 感觉很多都是营销号无脑吹",
+      "content_html": "<p>尤其是这两天的一个标题党：百万 AI 上 Moltbook 社交，疯狂加密建宗教，人类已被踢出群聊</p>\n<p>理论上 clawdbot 就是一个 agent ，底层还是用的其他大模型，其他大模型没有大的进步前提下，他怎么可能就智能了？？？</p>\n<p>我自己之前在 linux 上用 claude ，不仅仅写程序，比如我的 linux 上买的 USB 无线鼠标有问题，我找了所有的文章没搞定，后来用 claude 帮我排除错误，解决问题是 USB 休眠导致的信号问题。我觉得 clawdbot 大致也就是这样，给他更多权限，他用一些 skill 和规则， 消耗更多 token 去解决问题。</p>\n<p>不过确实会出现一些有意思的产品（跟 clawdbot 无关），比如以前要做一个社区，难点在前期没用户吸引不了新用户。 现在可能一开始就能做上万个虚拟的 ai bot 在里面，让你启动难度降低一些，类似这个所谓的 moltbook ，都是一堆 ai 在里面。</p>\n<p>虽然说不能高估一年的变化，不能低估十年的可能性，但是我觉得目前看 ai 里面的水分还是相当大，太讨厌这些贩卖焦虑的营销狗了。</p>",
+      "content_text": "尤其是这两天的一个标题党：百万 AI 上 Moltbook 社交，疯狂加密建宗教，人类已被踢出群聊\n理论上 clawdbot 就是一个 agent ，底层还是用的其他大模型，其他大模型没有大的进步前提下，他怎么可能就智能了？？？\n我自己之前在 linux 上用 claude ，不仅仅写程序，比如我的 linux 上买的 USB 无线鼠标有问题，我找了所有的文章没搞定，后来用 claude 帮我排除错误，解决问题是 USB 休眠导致的信号问题。我觉得 clawdbot 大致也就是这样，给他更多权限，他用一些 skill 和规则， 消耗更多 token 去解决问题。\n不过确实会出现一些有意思的产品（跟 clawdbot 无关），比如以前要做一个社区，难点在前期没用户吸引不了新用户。 现在可能一开始就能做上万个虚拟的 ai bot 在里面，让你启动难度降低一些，类似这个所谓的 moltbook ，都是一堆 ai 在里面。\n虽然说不能高估一年的变化，不能低估十年的可能性，但是我觉得目前看 ai 里面的水分还是相当大，太讨厌这些贩卖焦虑的营销狗了。",
+      "date_published": "2026-02-01T03:48:51.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189865",
+      "url": "https://www.v2ex.com/t/1189865#reply2",
+      "title": "[iDev] 私活 - Capacitor 打包 react 的应用",
+      "content_html": "<p>一个小活，把 react 的小应用 用 Capacitor 打包成 iOS ，几天的工作量，预算 2k/day,不知道有没有人感兴趣</p>",
+      "content_text": "一个小活，把 react 的小应用 用 Capacitor 打包成 iOS ，几天的工作量，预算 2k/day,不知道有没有人感兴趣",
+      "date_published": "2026-02-01T03:38:33.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189864",
+      "url": "https://www.v2ex.com/t/1189864#reply0",
+      "title": "[AI Tools 精品 AI 工具导航] 分享一个能“分屏校对”的图片转表格/文字工具，免费且不用对着截图手敲了",
+      "content_html": "<h3>1. 我遇到的问题</h3>\n<p>平时工作里老是收到各种截图：</p>\n<ul>\n<li><strong>财务报表/参数图</strong>：需要转成 Excel 统计。</li>\n<li><strong>文档截图/笔记</strong>：需要把里面的字提取出来复制用。</li>\n</ul>\n<p>以前用 OCR 工具，最大的痛苦是：<strong>识别完了格式乱七八糟，或者有些字错了，还得下载下来对应着原图一个个改，眼睛都要看瞎。</strong></p>\n<h3>2. 为什么试了这个 AI 工具</h3>\n<p>搜到了这个 <strong>JPG to Excel</strong>，它其实集成了两个功能，刚好解决我的痛点：</p>\n<ul>\n<li><strong>图片转表格</strong>：主打“分屏对比”，可以在线对着原图校对数据。</li>\n<li><strong>图片转文字</strong>：刚刚发现新加的功能，专门用来提取纯文本、公式等。</li>\n</ul>\n<h3>3. 实际用下来解决了什么</h3>\n<p>我分别试了两个场景：</p>\n<ul>\n<li>\n<p><strong>场景一：复杂表格</strong>\n上传了一张带合并单元格的表格截图。AI 识别后，网页直接给出了<strong>“左图右表”的对比编辑器</strong>。\n<strong>这个体验真的好</strong>：鼠标点到哪个单元格，就在哪里改。不用切屏，不用下载后再返工。改完直接导出 Excel ，格式基本没乱。</p>\n</li>\n<li>\n<p><strong>场景二：文档提取</strong>\n试着用它传了张会议板书的照片。\n<strong>图片转文字</strong>功能识别速度很快，最惊喜的是<strong>它对排版的保留还不错</strong>，甚至连一些简单的数学公式也能认出来。</p>\n</li>\n</ul>\n<h3>4. 有哪些优点 / 局限</h3>\n<p><strong>优点：</strong></p>\n<ul>\n<li><strong>交互好</strong>：那个“分屏校对”功能真的很实用，特别是处理表格时，效率提升很明显。</li>\n<li><strong>功能全</strong>：一个网站同时搞定表格（ Excel ）和文字（ Text/Word ）的需求。</li>\n<li><strong>免费友好</strong>：基础的图片转文字功能完全免费；表格提取功能游客也有免费额度，不强制登录，随用随走。</li>\n<li><strong>隐私</strong>：阅后即焚，不留存数据。</li>\n</ul>\n<p><strong>局限：</strong></p>\n<ul>\n<li><strong>手写体挑战</strong>：虽然普通手写体能认，但如果字迹过于潦草（医生体那种），AI 偶尔还是会认错，建议配合校对器检查一下。</li>\n<li><strong>复杂公式</strong>：简单的行内公式没问题，特别复杂的科研级嵌套公式可能需要人工微调。</li>\n</ul>\n<h3>5. 适合什么人，不适合什么人</h3>\n<ul>\n<li><strong>适合</strong>：财务、行政、学生，需要高频处理截图数据的人。特别是那种对数据准确性要求高，必须人工核对一遍的场景。</li>\n<li><strong>不适合</strong>：需要 API 批量调用或者处理超大批量图片的企业级用户（目前网页版更适合个人精细化处理，不排除网站后续加入批处理功能，但也可能会收费，现在免费很像了）。</li>\n</ul>\n<h3>6. 相关链接</h3>\n<p>工具地址：<a href=\"https://jpg-to-excel.org/\" rel=\"nofollow\">https://jpg-to-excel.org/</a>\n（无需注册，打开就能试）</p>",
+      "content_text": "1. 我遇到的问题\n平时工作里老是收到各种截图：\n\n财务报表/参数图：需要转成 Excel 统计。\n文档截图/笔记：需要把里面的字提取出来复制用。\n\n以前用 OCR 工具，最大的痛苦是：识别完了格式乱七八糟，或者有些字错了，还得下载下来对应着原图一个个改，眼睛都要看瞎。\n2. 为什么试了这个 AI 工具\n搜到了这个 JPG to Excel，它其实集成了两个功能，刚好解决我的痛点：\n\n图片转表格：主打“分屏对比”，可以在线对着原图校对数据。\n图片转文字：刚刚发现新加的功能，专门用来提取纯文本、公式等。\n\n3. 实际用下来解决了什么\n我分别试了两个场景：\n\n\n场景一：复杂表格\n上传了一张带合并单元格的表格截图。AI 识别后，网页直接给出了“左图右表”的对比编辑器。\n这个体验真的好：鼠标点到哪个单元格，就在哪里改。不用切屏，不用下载后再返工。改完直接导出 Excel ，格式基本没乱。\n\n\n场景二：文档提取\n试着用它传了张会议板书的照片。\n图片转文字功能识别速度很快，最惊喜的是它对排版的保留还不错，甚至连一些简单的数学公式也能认出来。\n\n\n4. 有哪些优点 / 局限\n优点：\n\n交互好：那个“分屏校对”功能真的很实用，特别是处理表格时，效率提升很明显。\n功能全：一个网站同时搞定表格（ Excel ）和文字（ Text/Word ）的需求。\n免费友好：基础的图片转文字功能完全免费；表格提取功能游客也有免费额度，不强制登录，随用随走。\n隐私：阅后即焚，不留存数据。\n\n局限：\n\n手写体挑战：虽然普通手写体能认，但如果字迹过于潦草（医生体那种），AI 偶尔还是会认错，建议配合校对器检查一下。\n复杂公式：简单的行内公式没问题，特别复杂的科研级嵌套公式可能需要人工微调。\n\n5. 适合什么人，不适合什么人\n\n适合：财务、行政、学生，需要高频处理截图数据的人。特别是那种对数据准确性要求高，必须人工核对一遍的场景。\n不适合：需要 API 批量调用或者处理超大批量图片的企业级用户（目前网页版更适合个人精细化处理，不排除网站后续加入批处理功能，但也可能会收费，现在免费很像了）。\n\n6. 相关链接\n工具地址：https://jpg-to-excel.org/\n（无需注册，打开就能试）",
+      "date_published": "2026-02-01T03:35:18.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189863",
+      "url": "https://www.v2ex.com/t/1189863#reply0",
+      "title": "[程序员] 仅花一分钟就可以用的 OpenClaw",
+      "content_html": "<p>细化了记忆的部分，最新增加了 skills 和 mcp 的可接入，正在实现国产大模型兼容和飞书兼容</p>\n<p>感兴趣的老师们可以讨论： <a href=\"https://memu.bot/\" rel=\"nofollow\">https://memu.bot/</a></p>",
+      "content_text": "细化了记忆的部分，最新增加了 skills 和 mcp 的可接入，正在实现国产大模型兼容和飞书兼容\n感兴趣的老师们可以讨论： https://memu.bot/",
+      "date_published": "2026-02-01T03:23:15.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189861",
+      "url": "https://www.v2ex.com/t/1189861#reply2",
+      "title": "[问与答] 寻求 Mac 电脑访问网页流量分流方案，使特定境外网站走 5G 随身 wifi，其余走有线宽带(网线)",
+      "content_html": "<p>近期遇到银行卡被境外连续境外盗刷情况。</p>\n<p>再反复回顾整个用卡过程后，感觉比较大的疑点出现在平时长期在电脑上挂机某 PAC 代理。这个付费订阅的 PAC 代理用了十多年了，因为使用一直很方便，一次设好，之后每次只需要打开网页，当访问境外网站自动走的代理，访问境内网站自动走的宽带，非常方便，即时高峰期也几乎没有出现大的故障。</p>\n<p>盗刷事件发生后，我下决心替换掉这个订阅。</p>\n<p>眼下，当访问特定境外网站和应用，比如 V 站,google 系,reddit,Telegam 等等的时候，手动开启 5G 随身 wifi 。这个操作相对之前方便的付费 PAC 代理来说比较繁琐。</p>\n<p>我看这个平台藏龙卧虎，想求教有没有办法在不置换路由器，或者其他带 sim 卡的路由器方案的前提下做到这点：</p>\n<p>Mac 电脑有线网卡走宽带，无线网卡走 5G wifi ，当平时访问境内网站，走有线网卡的宽带，当访问特定的境外网站，走 5G 随身 wifi. 不准备，当前 Mac 电脑上装有小火箭。</p>\n<p>之前询问了豆包，多次尝试了它所谓的在小火箭设置规则，结果都不行。</p>",
+      "content_text": "近期遇到银行卡被境外连续境外盗刷情况。\n再反复回顾整个用卡过程后，感觉比较大的疑点出现在平时长期在电脑上挂机某 PAC 代理。这个付费订阅的 PAC 代理用了十多年了，因为使用一直很方便，一次设好，之后每次只需要打开网页，当访问境外网站自动走的代理，访问境内网站自动走的宽带，非常方便，即时高峰期也几乎没有出现大的故障。\n盗刷事件发生后，我下决心替换掉这个订阅。\n眼下，当访问特定境外网站和应用，比如 V 站,google 系,reddit,Telegam 等等的时候，手动开启 5G 随身 wifi 。这个操作相对之前方便的付费 PAC 代理来说比较繁琐。\n我看这个平台藏龙卧虎，想求教有没有办法在不置换路由器，或者其他带 sim 卡的路由器方案的前提下做到这点：\nMac 电脑有线网卡走宽带，无线网卡走 5G wifi ，当平时访问境内网站，走有线网卡的宽带，当访问特定的境外网站，走 5G 随身 wifi. 不准备，当前 Mac 电脑上装有小火箭。\n之前询问了豆包，多次尝试了它所谓的在小火箭设置规则，结果都不行。",
+      "date_published": "2026-02-01T03:16:48.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189860",
+      "url": "https://www.v2ex.com/t/1189860#reply4",
+      "title": "[云计算] 海量数据回国方案",
+      "content_html": "<p>海量数据存在 cloudflare r2 对象存储中，要回传到国内阿里云、腾讯云等对象存储\n每个月的量挺大，差不多 5-10PB ，有量大管饱的便宜的拉取方案吗？</p>\n<p>预算每个月几千美金</p>\n<p>目前想到方案是买一批不限流量的 G 口服务或一堆小的 vps</p>",
+      "content_text": "海量数据存在 cloudflare r2 对象存储中，要回传到国内阿里云、腾讯云等对象存储\n每个月的量挺大，差不多 5-10PB ，有量大管饱的便宜的拉取方案吗？\n预算每个月几千美金\n目前想到方案是买一批不限流量的 G 口服务或一堆小的 vps",
+      "date_published": "2026-02-01T03:13:51.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189859",
+      "url": "https://www.v2ex.com/t/1189859#reply0",
+      "title": "[全球工单系统] 转外服 zhuanwaifu 这个站的 Tiktok 认证千万不要用",
+      "content_html": "1 、他们是把你的号拿过去登，资金可能会有风险<br /><br />2 、转外服 zhuanwaifu 是不包补认证的，做 Tiktok 的都知道，Tk 要求多次提交证件是很正常的，所以每次你都要交 1 次费用<br /><br />3 、就算你交了补认证的费用，他们也不一定找得到以前那个认证的身份，这个时间你的损失就可能是整个账号的资金！<br /><br /><br />所以转外服 zhuanwaifu 这个站的 Tiktok 认证千万不要用！<br /><br />![image.png]( <a target=\"_blank\" href=\"https://cfpic.890214.net/file/1769915307814_image.png\" rel=\"nofollow noopener\">https://cfpic.890214.net/file/1769915307814_image.png</a>)",
+      "content_text": "1 、他们是把你的号拿过去登，资金可能会有风险2 、转外服 zhuanwaifu 是不包补认证的，做 Tiktok 的都知道，Tk 要求多次提交证件是很正常的，所以每次你都要交 1 次费用3 、就算你交了补认证的费用，他们也不一定找得到以前那个认证的身份，这个时间你的损失就可能是整个账号的资金！所以转外服 zhuanwaifu 这个站的 Tiktok 认证千万不要用！![image.png]( https://cfpic.890214.net/file/1769915307814_image.png)",
+      "date_published": "2026-02-01T03:07:03.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189857",
+      "url": "https://www.v2ex.com/t/1189857#reply3",
+      "title": "[网络安全] RustDesk 遭受大规模僵尸网络攻击",
+      "content_html": "<p><a href=\"https://github.com/rustdesk/rustdesk/discussions/14167\" rel=\"nofollow\">https://github.com/rustdesk/rustdesk/discussions/14167</a></p>",
+      "content_text": "https://github.com/rustdesk/rustdesk/discussions/14167",
+      "date_published": "2026-02-01T02:59:55.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189855",
+      "url": "https://www.v2ex.com/t/1189855#reply8",
+      "title": "[小米] 小米汽车 1 月交付量超过理想汽车",
+      "content_html": "理想汽车：2026 年 1 月交付 27668 辆汽车<br />小米汽车：1 月交付量超过 39000 台<br /><br />消息来源：富途",
+      "content_text": "理想汽车：2026 年 1 月交付 27668 辆汽车小米汽车：1 月交付量超过 39000 台消息来源：富途",
+      "date_published": "2026-02-01T02:48:28.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189854",
+      "url": "https://www.v2ex.com/t/1189854#reply0",
+      "title": "[奇思妙想] 为啥 飞牛不能在 fnconnect 对用户的账号和密码进行鉴权？",
+      "content_html": "为啥 飞牛不能在  fnconnect 对用户的账号和密码进行鉴权，如果超过一定的错误次数，就暂停这个账号的访问一定的时间 ？",
+      "content_text": "为啥 飞牛不能在  fnconnect 对用户的账号和密码进行鉴权，如果超过一定的错误次数，就暂停这个账号的访问一定的时间 ？",
+      "date_published": "2026-02-01T02:44:38.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-02-01:/t/1189851",
       "url": "https://www.v2ex.com/t/1189851#reply0",
       "title": "[程序员] OpenClaw 玩上了，能力垃圾，灵魂有趣。",
