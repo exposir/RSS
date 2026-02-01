@@ -6,6 +6,22 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/02/01/world/europe/putin-ukraine-donbas-donetsk.html",
+      "url": "https://www.nytimes.com/2026/02/01/world/europe/putin-ukraine-donbas-donetsk.html",
+      "title": "Why Is Taking the Rest of the Donetsk Region So Important to Putin?",
+      "content_html": "Secretary of State Marco Rubio called the question “the one remaining item” in Abu Dhabi peace talks. Russia disputed that.",
+      "content_text": "Secretary of State Marco Rubio called the question “the one remaining item” in Abu Dhabi peace talks. Russia disputed that.",
+      "date_published": "2026-02-01T05:01:17.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/01/world/asia/myanmar-coup-anniversary-government.html",
+      "url": "https://www.nytimes.com/2026/02/01/world/asia/myanmar-coup-anniversary-government.html",
+      "title": "Years After Coup, Myanmar’s Government in Exile Teeters on Irrelevancy",
+      "content_html": "The National Unity Government was formed as a pro-democracy alternative to the junta. But, critics say, it has failed to achieve most of its goals.",
+      "content_text": "The National Unity Government was formed as a pro-democracy alternative to the junta. But, critics say, it has failed to achieve most of its goals.",
+      "date_published": "2026-02-01T05:01:10.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/world/asia/t-kumar-dead.html",
       "url": "https://www.nytimes.com/2026/01/31/world/asia/t-kumar-dead.html",
       "title": "T. Kumar, Rights Activist Who Was Shaped by His Time in Prison, Dies at 76",

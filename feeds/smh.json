@@ -6,6 +6,86 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "1bccbbd9-dd6d-4961-bbbe-b46e4ae2c4cf",
+      "url": "https://www.smh.com.au/sport/afl/bailey-smith-in-the-big-v-it-s-likely-to-happen-20260201-p5nyn7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Bailey Smith in the Big V? It’s likely to happen",
+      "content_html": "The State of Origin match is now less than a fortnight away, and Victorian selectors still have some decisions to make as they finalise their squad.",
+      "content_text": "The State of Origin match is now less than a fortnight away, and Victorian selectors still have some decisions to make as they finalise their squad.",
+      "date_published": "2026-02-01T05:51:19.000Z"
+    },
+    {
+      "id": "8c938cab-93a4-422d-b644-d4b86335059d",
+      "url": "https://www.smh.com.au/world/europe/under-russian-bombardment-this-ukrainian-children-s-hospital-got-an-australian-lifeline-20260131-p5nygb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Under Russian bombardment, this Ukrainian children’s hospital got an Australian lifeline",
+      "content_html": "This hospital is distant from the front lines in eastern Ukraine, but it and its health workers are feeling the shocks from almost four years of war.",
+      "content_text": "This hospital is distant from the front lines in eastern Ukraine, but it and its health workers are feeling the shocks from almost four years of war.",
+      "date_published": "2026-02-01T05:48:25.000Z"
+    },
+    {
+      "id": "cbaafc8a-5e37-4e30-b196-7d13ff2b7114",
+      "url": "https://www.smh.com.au/sport/rugby-union/why-a-wallabies-all-blacks-blockbuster-won-t-kick-off-the-2027-world-cup-20260201-p5nym2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Why a Wallabies-All Blacks blockbuster won’t kick off the 2027 World Cup",
+      "content_html": "Sydney is set to be revealed as the big winner – yet again – when the full draw of the 2027 Rugby World Cup is announced this week.",
+      "content_text": "Sydney is set to be revealed as the big winner – yet again – when the full draw of the 2027 Rugby World Cup is announced this week.",
+      "date_published": "2026-02-01T05:30:00.000Z"
+    },
+    {
+      "id": "3a854a59-656b-4f3b-afe5-b4d12de8afc6",
+      "url": "https://www.smh.com.au/national/cancer-trial-linked-to-disgraced-scientist-collapses-20260130-p5nydd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Cancer trial linked to disgraced scientist collapses",
+      "content_html": "Cancellation of a trial of a cancer drug based on research by accused scientific fraudster Mark Smyth has confirmed fears of Smyth’s collaborators that the drug did not work.",
+      "content_text": "Cancellation of a trial of a cancer drug based on research by accused scientific fraudster Mark Smyth has confirmed fears of Smyth’s collaborators that the drug did not work.",
+      "date_published": "2026-02-01T05:30:00.000Z"
+    },
+    {
+      "id": "d90ce402-9f5c-475d-8fd7-40db33b12de9",
+      "url": "https://www.smh.com.au/business/the-economy/boomers-are-reshaping-the-way-wealth-is-distributed-these-charts-show-how-20260130-p5nycb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Boomers are reshaping the way wealth is distributed. These charts show how",
+      "content_html": "“The great wealth transfer” is in full swing as Baby Boomers remodel their balance sheets.",
+      "content_text": "“The great wealth transfer” is in full swing as Baby Boomers remodel their balance sheets.",
+      "date_published": "2026-02-01T05:30:00.000Z"
+    },
+    {
+      "id": "8bb8217a-0edb-4396-9460-3b01d3dad00b",
+      "url": "https://www.smh.com.au/sport/volkanovski-downs-lopes-20260201-p5nynm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Volkanovski downs Lopes",
+      "content_html": "Australia's Alex Volkanovski defeats Brazil's Diego Lopes via unanimous decision to retain the UFC featherweight belt.",
+      "content_text": "Australia's Alex Volkanovski defeats Brazil's Diego Lopes via unanimous decision to retain the UFC featherweight belt.",
+      "date_published": "2026-02-01T05:24:06.000Z"
+    },
+    {
+      "id": "41d98f24-d61a-458a-b110-671261f8edc8",
+      "url": "https://www.smh.com.au/politics/federal/trump-invited-albanese-to-join-his-board-of-peace-he-may-be-disappointed-20260201-p5nylz.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Trump invited Albanese to join his Board of Peace. He may be disappointed",
+      "content_html": "Resistance to joining Donald Trump’s Board of Peace is hardening within the federal government as questions grow about how it would operate.",
+      "content_text": "Resistance to joining Donald Trump’s Board of Peace is hardening within the federal government as questions grow about how it would operate.",
+      "date_published": "2026-02-01T05:02:58.000Z"
+    },
+    {
+      "id": "c82b40ca-7b9b-4ec5-9fc5-bcf9b362e878",
+      "url": "https://www.smh.com.au/world/north-america/melania-s-gilded-infomercial-leaves-us-in-no-doubt-about-the-chilly-enigma-that-is-the-first-lady-20260201-p5nyk9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Melania’s $107m infomercial leaves no doubts about the real motivations of the first lady",
+      "content_html": "Many have fantasised that Melania Trump was Rapunzel in the tower, pining to be saved from the ogre. This movie, which earns her at least $US28 million, tells us what we need to know about her.",
+      "content_text": "Many have fantasised that Melania Trump was Rapunzel in the tower, pining to be saved from the ogre. This movie, which earns her at least $US28 million, tells us what we need to know about her.",
+      "date_published": "2026-02-01T05:00:00.000Z"
+    },
+    {
+      "id": "dc7824e9-5aea-4460-b98b-03f3288c053e",
+      "url": "https://www.smh.com.au/national/biochemist-from-essendon-scandal-opens-dubai-clinic-with-fake-name-20260104-p5nriy.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Biochemist from Essendon scandal opens Dubai clinic with fake name",
+      "content_html": "Shane Charter, the underworld figure and biochemist nicknamed “Dr Ageless”, has opened a specialist anti-ageing clinic under a new name.",
+      "content_text": "Shane Charter, the underworld figure and biochemist nicknamed “Dr Ageless”, has opened a specialist anti-ageing clinic under a new name.",
+      "date_published": "2026-02-01T05:00:00.000Z"
+    },
+    {
+      "id": "9623bea6-8245-4a14-8d16-9d527188b4b2",
+      "url": "https://www.smh.com.au/national/western-australia/friend-claims-mosman-park-murder-suicide-family-had-faced-ndis-cut-20260201-p5nynd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Friend claims Mosman Park murder-suicide family had faced NDIS cut",
+      "content_html": "A friend of the family that were found dead in an apparent murder-suicide in Mosman Park say the children’s National Disability Insurance Scheme funding had recently been cut.",
+      "content_text": "A friend of the family that were found dead in an apparent murder-suicide in Mosman Park say the children’s National Disability Insurance Scheme funding had recently been cut.",
+      "date_published": "2026-02-01T04:51:33.000Z"
+    },
+    {
       "id": "71521d5e-0636-4553-908b-84b5220c2901",
       "url": "https://www.smh.com.au/sport/tennis/boos-cramps-queues-and-an-australian-fairytale-the-a-z-of-the-australian-open-20260131-p5nyja.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Boos, cramps, queues and an Australian fairytale: The A-Z of the Australian Open",

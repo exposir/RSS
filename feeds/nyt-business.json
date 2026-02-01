@@ -6,6 +6,14 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/02/01/business/china-muslim.html",
+      "url": "https://www.nytimes.com/2026/02/01/business/china-muslim.html",
+      "title": "‘I’m Free’: A Muslim Official Who Lost Faith in China Gains a Voice",
+      "content_html": "Ma Ruilin worked as a Communist Party cadre helping fellow Muslims navigate their country as religious minorities, until the official hostility became too great to bear.",
+      "content_text": "Ma Ruilin worked as a Communist Party cadre helping fellow Muslims navigate their country as religious minorities, until the official hostility became too great to bear.",
+      "date_published": "2026-02-01T05:01:12.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/business/melania-documentary-box-office.html",
       "url": "https://www.nytimes.com/2026/01/31/business/melania-documentary-box-office.html",
       "title": "‘Melania’ Arrives With Strong Box Office Showing for a Documentary",

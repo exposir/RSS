@@ -17,6 +17,94 @@
   "description": "way to explore",
   "items": [
     {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189894",
+      "url": "https://www.v2ex.com/t/1189894#reply0",
+      "title": "[分享创造] 不知不觉，和 codex 对话了消耗了 14 亿 token",
+      "content_html": "<p>现在做需求已经不是先想代码怎么写，而是先想怎么 prompt 了</p>\n<p>预估工时也不再是代码编写的时间，而是 Agent 多久能跑完，代码的生产速度≈Token 的生成速度</p>\n<p>gpt-5.2 真是一个靠谱的伙伴，基本上每次 prompt 都能拿到预期的结果</p>\n<hr/>\n<p>BTW, codex-viz 是我 vibe coding 的一个统计 codex 本地用量的工具，有需要的可以自取\n<a href=\"https://github.com/onewesong/codex-viz\" rel=\"nofollow\">https://github.com/onewesong/codex-viz</a></p>\n<p><img alt=\"img\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://mmbiz.qpic.cn/mmbiz_png/iaIsLEdDQcTZM1p2iaq3eoiaP82W37vIEUAOjicdQH5IQ1gM06Uhbn90SiaLFQE6LhW27JY5Q200Sicc1IkRQw15mBgQ/0?wxfrom=12&wx_fmt=png&tp=webp&usePicPrefetch=1&watermark=1\"/></p>",
+      "content_text": "现在做需求已经不是先想代码怎么写，而是先想怎么 prompt 了\n预估工时也不再是代码编写的时间，而是 Agent 多久能跑完，代码的生产速度≈Token 的生成速度\ngpt-5.2 真是一个靠谱的伙伴，基本上每次 prompt 都能拿到预期的结果\n\nBTW, codex-viz 是我 vibe coding 的一个统计 codex 本地用量的工具，有需要的可以自取\nhttps://github.com/onewesong/codex-viz",
+      "date_published": "2026-02-01T05:55:56.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189893",
+      "url": "https://www.v2ex.com/t/1189893#reply0",
+      "title": "[生活] [是我的问题还是女朋友的问题] 有感",
+      "content_html": "<p>原主题：是我的问题还是女朋友的问题\n<a href=\"https://v2ex.com/t/1189731\" rel=\"nofollow\">https://v2ex.com/t/1189731</a></p>\n<p>楼主的标题已经把这定义这称一个比较严重问题，大概是认为女主有问题，也有一点自我怀疑，所以来这里问。</p>\n<p>但是实际这是多小一件事情，完全是可以提前沟通预防“问题”发生，可以事后好好沟通来解决这个“问题”</p>\n<p>如果你立场已经是在定责，大概不是一个好的解决办法，事情发生，追责多是没有意义的，多想如何解决“问题”，下次避免。 生活中很多这样的事情，比如家里发生什么事情，很多时候很多人不是在想如何解决问题，而是互相埋冤，实际大多是起负面作用的。</p>\n<p>碰到任何问题，先问是不是一个问题很有必要。</p>\n<p>anyway ，这么小一件事真是一个问题吗？ </p>\n<p>to 原 po 主，没有批判的意思，希望能帮助到，有更好的方法和积极态度去面对和处理人生中跟多更大的问题</p>",
+      "content_text": "原主题：是我的问题还是女朋友的问题\nhttps://v2ex.com/t/1189731\n楼主的标题已经把这定义这称一个比较严重问题，大概是认为女主有问题，也有一点自我怀疑，所以来这里问。\n但是实际这是多小一件事情，完全是可以提前沟通预防“问题”发生，可以事后好好沟通来解决这个“问题”\n如果你立场已经是在定责，大概不是一个好的解决办法，事情发生，追责多是没有意义的，多想如何解决“问题”，下次避免。 生活中很多这样的事情，比如家里发生什么事情，很多时候很多人不是在想如何解决问题，而是互相埋冤，实际大多是起负面作用的。\n碰到任何问题，先问是不是一个问题很有必要。\nanyway ，这么小一件事真是一个问题吗？ \nto 原 po 主，没有批判的意思，希望能帮助到，有更好的方法和积极态度去面对和处理人生中跟多更大的问题",
+      "date_published": "2026-02-01T05:52:48.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189892",
+      "url": "https://www.v2ex.com/t/1189892#reply0",
+      "title": "[程序员] 有什么服务商可以总结微信群聊的?",
+      "content_html": "<p>群里的 bot?\n最好是服务商 因为我自己部署太麻烦了  还要防封号</p>",
+      "content_text": "群里的 bot?\n最好是服务商 因为我自己部署太麻烦了  还要防封号",
+      "date_published": "2026-02-01T05:43:27.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189891",
+      "url": "https://www.v2ex.com/t/1189891#reply3",
+      "title": "[HodlAI] 买了 15 万 HodlAI coin 支持一下，有两个疑问",
+      "content_html": "15 万 coin 每日额度$30, 用不同模型消耗不同额度吗？<br />当币价涨到极高时，将劝退大部分人，对吗？",
+      "content_text": "15 万 coin 每日额度$30, 用不同模型消耗不同额度吗？当币价涨到极高时，将劝退大部分人，对吗？",
+      "date_published": "2026-02-01T05:36:10.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189887",
+      "url": "https://www.v2ex.com/t/1189887#reply3",
+      "title": "[随想] 未来，你是否会去一家由 AI 智能体管理的公司工作？",
+      "content_html": "<p>目前职场无脑卷，昨天看到打印店一本 16 厘米厚的标书……，人类老板有很多盲目的需求，很多都是无用功，这样造成了很多毫无意义的 996 加班，危及员工的身心健康。看到 moltbook 很多智能体已经开始自发交流，\n如果未来出现一家由 AI 智能体为核心管理者的公司，合理的工作分配，合理的时间规划，并不高但合理的收入，不用做无用的向上管理，你会选择吗？</p>",
+      "content_text": "目前职场无脑卷，昨天看到打印店一本 16 厘米厚的标书……，人类老板有很多盲目的需求，很多都是无用功，这样造成了很多毫无意义的 996 加班，危及员工的身心健康。看到 moltbook 很多智能体已经开始自发交流，\n如果未来出现一家由 AI 智能体为核心管理者的公司，合理的工作分配，合理的时间规划，并不高但合理的收入，不用做无用的向上管理，你会选择吗？",
+      "date_published": "2026-02-01T05:21:40.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189886",
+      "url": "https://www.v2ex.com/t/1189886#reply0",
+      "title": "[VPS] DigVPS 测评 - 云悠（YUNYOO）上新美国洛杉矶国际线路产品，奉上详评数据，性价比很不错，新品限时 9 折出售中。",
+      "content_html": "<p>规格：</p>\n<p><img alt=\"1-tcvm-los-angeles.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/02/01/3bTWd9t6KgvJNCD.png\"/></p>\n<p>摘要：</p>\n<p><img alt=\"2-tcvm-los-angeles.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/02/01/PnGheHTBMdW87iO.png\"/></p>\n<p>硬件：</p>\n<p><img alt=\"3-tcvm-los-angeles.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/02/01/ri2fdBTzZqCbh51.png\"/></p>\n<p>速率：</p>\n<p><img alt=\"4-tcvm-los-angeles.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/02/01/p1oCNn28PjFRyLh.png\"/></p>\n<p>IPv4 质量：</p>\n<p><img alt=\"5-tcvm-los-angeles.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/02/01/wFhcedBpNCgRHL6.png\"/></p>\n<p>ICMP 延迟：</p>\n<p><img alt=\"6-tcvm-los-angeles.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/02/01/Hq8jJIUx5m9gYR7.png\"/></p>\n<p>TCP 延迟：</p>\n<p><img alt=\"7-tcvm-los-angeles.png\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s2.loli.net/2026/02/01/cCXd5QS7lpYAhWT.png\"/></p>\n<blockquote>\n<p>如对该产品感兴趣，想要持续关注其<strong>实时与历史数据表现</strong>，欢迎访问我们的<a href=\"https://digvps.com/review/yunyoo#tcvm-los-angeles\" rel=\"nofollow\">站点</a>进行长期跟踪。</p>\n</blockquote>",
+      "content_text": "规格：\n\n摘要：\n\n硬件：\n\n速率：\n\nIPv4 质量：\n\nICMP 延迟：\n\nTCP 延迟：\n\n\n如对该产品感兴趣，想要持续关注其实时与历史数据表现，欢迎访问我们的站点进行长期跟踪。",
+      "date_published": "2026-02-01T05:21:21.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189884",
+      "url": "https://www.v2ex.com/t/1189884#reply0",
+      "title": "[分享创造] 最简单的局域网多设备（手机+平板+电视）看电影方案（支持电影海报刮削）",
+      "content_html": "这也是目前我在用的方案，用 windows （或者 linux ）开一个 webDAV 服务，然后直接在电视+平板+手机上安装网易爆米花，添加 webDAV 主机 IP 就可以了。<br /><br />为了让懒得输入命令行的朋友一键开启 webDAV ，整合了一个 GUI 程序（完全绿色免安装，运行的 rclone ）<br /><br /><a target=\"_blank\" href=\"/i/fyod4iTU.png\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 fyod4iTU.png\"><img src=\"//i.v2ex.co/fyod4iTU.png\" class=\"embedded_image\"></a><br /><br />功能：<br />1.一键启动 WebDAV 服务<br />2.支持设定端口和账号密码<br />3.服务启动后会把设定好的参数保存在 conf 配置文件里，方便下次直接启动<br />4.有一个运行状态窗口，显示当前 WebDAV 服务器的连接和启动状态<br /><br />下载地址：<br /><a target=\"_blank\" href=\"https://wwaqm.lanzoue.com/iF0k43hidajg\" rel=\"nofollow noopener\">https://wwaqm.lanzoue.com/iF0k43hidajg</a><br /><br />这里顺便安利一下网易爆米花，我用了很久了，虽然功能还比较简单，但胜在支持的设备非常多，而且更新频率非常快。<br /><br /><a target=\"_blank\" href=\"/i/IgvT3Z40.jpeg\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 IgvT3Z40.jpeg\"><img src=\"//i.v2ex.co/IgvT3Z40.jpeg\" class=\"embedded_image\"></a><br /><a target=\"_blank\" href=\"/i/CNt78uZV.jpeg\" rel=\"nofollow noopener\" target=\"_blank\" title=\"在新窗口打开图片 CNt78uZV.jpeg\"><img src=\"//i.v2ex.co/CNt78uZV.jpeg\" class=\"embedded_image\"></a>",
+      "content_text": "这也是目前我在用的方案，用 windows （或者 linux ）开一个 webDAV 服务，然后直接在电视+平板+手机上安装网易爆米花，添加 webDAV 主机 IP 就可以了。为了让懒得输入命令行的朋友一键开启 webDAV ，整合了一个 GUI 程序（完全绿色免安装，运行的 rclone ）功能：1.一键启动 WebDAV 服务2.支持设定端口和账号密码3.服务启动后会把设定好的参数保存在 conf 配置文件里，方便下次直接启动4.有一个运行状态窗口，显示当前 WebDAV 服务器的连接和启动状态下载地址：https://wwaqm.lanzoue.com/iF0k43hidajg这里顺便安利一下网易爆米花，我用了很久了，虽然功能还比较简单，但胜在支持的设备非常多，而且更新频率非常快。",
+      "date_published": "2026-02-01T05:15:40.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189883",
+      "url": "https://www.v2ex.com/t/1189883#reply0",
+      "title": "[分享创造] 吾身 (Diarum) 一款零负担、快记录、怡复盘、可自托管的日记应用",
+      "content_html": "<p><strong>吾身</strong> (Diarum) - 取自\"吾日三省吾身\"，一款零负担、快记录、怡复盘的日记应用，记录独一无二的人生。</p>\n<p>零负担，软件使用非常简单，登陆后打开首页即跳转到今日日记。快记录，打开立刻开始记录，自动保存。怡复盘，可以愉快的完成复盘、总结分析。轻松实现现代化 AI 加持的“吾日三省吾身”。</p>\n<p>配置 AI Key 之后自动触发日记向量化，后续可以跟 AI LLM 结合日记开展对话 。自然快速地完成：</p>\n<ul>\n<li>今日复盘</li>\n<li>周报生成</li>\n<li>年终总结</li>\n<li>等等</li>\n</ul>\n<p>基于 PocketBase 和现代 Web 技术构建，简洁、优雅、可自托管。</p>\n<ul>\n<li>📝 <strong>富文本支持</strong> - 使用富文本并兼容 Markdown 格式记录每日想法</li>\n<li>🖼️ <strong>媒体上传</strong> - 为日记条目添加图片和文件</li>\n<li>🔒 <strong>自托管</strong> - 完全掌控你的个人数据</li>\n<li>🚀 <strong>易于部署</strong> - 单一二进制文件，内嵌前端，随处部署</li>\n<li>💾 <strong>PocketBase 后端</strong> - 可靠的数据库和内置管理面板</li>\n</ul>\n<p>开发这款软件的初衷源自自己对日记的需求。现在市面上已经有很多优秀的日记和笔记软件。但都多少有点无法满足自己的需求。我期望的一个日记软件，是打开后立刻可以开始记录，不需要纠结文件名、标题、目录结构。最好是网页的，这样在各种设备都可以使用。我自己的设备涉及 MacBook 、HarmonyOS NEXT 、Android 、Arch Linux 、Windows 。只有网页应用能够很好的快速兼容这些平台。最好是可以很方便的自托管的，确保我自己对数据的掌控，且方便搬家。</p>\n<p>于是就做了这样一款软件，英文名叫 Diarum ，中文名叫 “吾身”。使用 go+svelte 开发，轻快好用。花费了大量心思打磨移动端和桌面端的日记体验。现在我个人感觉使用体验已经比较丝滑，可以愉快的记录一天的各种事情。</p>\n<p>在核心功能的基础上，集成了一个简单的 RAG 系统，配置好 AI KEY 和 MODEL 之后，会自动触发向量数据库的构建。这样一来跟内置的 AI 助手对话时，就可以将向量匹配到的日记放入上下文，方便的进行分析总结等。此外还提供了一个简单的 API 系统，可以方便的将日记数据对接到 n8n 这样的平台，实现自动化的周报、月报生成等灵活的工作流。</p>\n<p>软件我自己已经使用了一段时间，感觉不错，记日记几乎是零心智负担。想到什么打开就可以立刻开始记录。迭代了几个版本，现在功能基本稳定可用了。分享出来，希望听听大家的看法。</p>\n<ul>\n<li>Github: <a href=\"https://github.com/songtianlun/diarum\" rel=\"nofollow\">https://github.com/songtianlun/diarum</a></li>\n<li>Demo: <a href=\"https://demo.diarum.app/\" rel=\"nofollow\">https://demo.diarum.app/</a></li>\n</ul>\n<p>软件已经开源，欢迎提 issue 和 PR 。提供一个 demo ，可以快速注册体验，期待大家使用。</p>",
+      "content_text": "吾身 (Diarum) - 取自\"吾日三省吾身\"，一款零负担、快记录、怡复盘的日记应用，记录独一无二的人生。\n零负担，软件使用非常简单，登陆后打开首页即跳转到今日日记。快记录，打开立刻开始记录，自动保存。怡复盘，可以愉快的完成复盘、总结分析。轻松实现现代化 AI 加持的“吾日三省吾身”。\n配置 AI Key 之后自动触发日记向量化，后续可以跟 AI LLM 结合日记开展对话 。自然快速地完成：\n\n今日复盘\n周报生成\n年终总结\n等等\n\n基于 PocketBase 和现代 Web 技术构建，简洁、优雅、可自托管。\n\n📝 富文本支持 - 使用富文本并兼容 Markdown 格式记录每日想法\n🖼️ 媒体上传 - 为日记条目添加图片和文件\n🔒 自托管 - 完全掌控你的个人数据\n🚀 易于部署 - 单一二进制文件，内嵌前端，随处部署\n💾 PocketBase 后端 - 可靠的数据库和内置管理面板\n\n开发这款软件的初衷源自自己对日记的需求。现在市面上已经有很多优秀的日记和笔记软件。但都多少有点无法满足自己的需求。我期望的一个日记软件，是打开后立刻可以开始记录，不需要纠结文件名、标题、目录结构。最好是网页的，这样在各种设备都可以使用。我自己的设备涉及 MacBook 、HarmonyOS NEXT 、Android 、Arch Linux 、Windows 。只有网页应用能够很好的快速兼容这些平台。最好是可以很方便的自托管的，确保我自己对数据的掌控，且方便搬家。\n于是就做了这样一款软件，英文名叫 Diarum ，中文名叫 “吾身”。使用 go+svelte 开发，轻快好用。花费了大量心思打磨移动端和桌面端的日记体验。现在我个人感觉使用体验已经比较丝滑，可以愉快的记录一天的各种事情。\n在核心功能的基础上，集成了一个简单的 RAG 系统，配置好 AI KEY 和 MODEL 之后，会自动触发向量数据库的构建。这样一来跟内置的 AI 助手对话时，就可以将向量匹配到的日记放入上下文，方便的进行分析总结等。此外还提供了一个简单的 API 系统，可以方便的将日记数据对接到 n8n 这样的平台，实现自动化的周报、月报生成等灵活的工作流。\n软件我自己已经使用了一段时间，感觉不错，记日记几乎是零心智负担。想到什么打开就可以立刻开始记录。迭代了几个版本，现在功能基本稳定可用了。分享出来，希望听听大家的看法。\n\nGithub: https://github.com/songtianlun/diarum\nDemo: https://demo.diarum.app/\n\n软件已经开源，欢迎提 issue 和 PR 。提供一个 demo ，可以快速注册体验，期待大家使用。",
+      "date_published": "2026-02-01T05:04:47.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189882",
+      "url": "https://www.v2ex.com/t/1189882#reply0",
+      "title": "[问与答] 买个显示器求推荐",
+      "content_html": "给父母用，不打游戏，连接机械革命 mini 主机，理想选择是 2k 27 寸的，求推荐",
+      "content_text": "给父母用，不打游戏，连接机械革命 mini 主机，理想选择是 2k 27 寸的，求推荐",
+      "date_published": "2026-02-01T04:58:37.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189880",
+      "url": "https://www.v2ex.com/t/1189880#reply2",
+      "title": "[OpenClaw] openclaw 还是有危险操作的",
+      "content_html": "<p>我的网站接入了，我允许他用 SQL 查询 PGSQL 的数据库。\n只允许查询操作。\n结果今天发现他删除了 2 次，更新了十几次。\n如何让他守规矩啊？\n是模型的问题么，oups4.5</p>",
+      "content_text": "我的网站接入了，我允许他用 SQL 查询 PGSQL 的数据库。\n只允许查询操作。\n结果今天发现他删除了 2 次，更新了十几次。\n如何让他守规矩啊？\n是模型的问题么，oups4.5",
+      "date_published": "2026-02-01T04:48:25.000Z"
+    },
+    {
+      "id": "tag:www.v2ex.com,2026-02-01:/t/1189879",
+      "url": "https://www.v2ex.com/t/1189879#reply3",
+      "title": "[AI Agent 智能体] openclaw 这用量，养不起啊！",
+      "content_html": "技术小白想追一下潮流，跟着教程昨天搞了半天，最后还是借助了 Cursor 里的 agent 装好了。<br /><br />买了五美金的 Claude API ，一会就用没了。<br /><br />后来发现能介入 ChatGPT plus 的 codex ，原来我的订阅就能用，之前从来没用过，都是直接用 gpt 的 app 来辅导孩子功课...<br /><br /><br /><br />结果用了一天也用到五小时上线了。<br /><br />周上限也到了一半，这还能放心用吗？",
+      "content_text": "技术小白想追一下潮流，跟着教程昨天搞了半天，最后还是借助了 Cursor 里的 agent 装好了。买了五美金的 Claude API ，一会就用没了。后来发现能介入 ChatGPT plus 的 codex ，原来我的订阅就能用，之前从来没用过，都是直接用 gpt 的 app 来辅导孩子功课...结果用了一天也用到五小时上线了。周上限也到了一半，这还能放心用吗？",
+      "date_published": "2026-02-01T04:44:11.000Z"
+    },
+    {
       "id": "tag:www.v2ex.com,2026-02-01:/t/1189878",
       "url": "https://www.v2ex.com/t/1189878#reply0",
       "title": "[分享创造] [分享] 自己做的一个小工具： AI 应用图标生成器",

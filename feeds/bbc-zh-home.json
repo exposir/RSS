@@ -6,6 +6,14 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/cdxj8x8lwjwo/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/cdxj8x8lwjwo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "特朗普提名的美聯儲新主席沃什能否如他所願帶來改變",
+      "content_html": "沃什曾以支持較高利率而聞名，但他近來在評論文章和媒體露面中卻努力擺脫這個名聲。",
+      "content_text": "沃什曾以支持較高利率而聞名，但他近來在評論文章和媒體露面中卻努力擺脫這個名聲。",
+      "date_published": "2026-02-01T05:29:36.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/czx3ex1x3qro/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/czx3ex1x3qro/trad?at_medium=RSS&at_campaign=rss",
       "title": "分析：以色列意在推動伊朗政權更替，並寄望於特朗普",
@@ -20,6 +28,14 @@
       "content_html": "台灣應否「代孕」合法化，30多年來都沒有社會共識。近期立法院審議《人工生殖法》修正草案，讓這個爭議再度成為焦點。回到制度的起點，社會各界都在追問：生育有血緣關係的孩子，是個人渴望，還是必須由政府回應的公共問題？",
       "content_text": "台灣應否「代孕」合法化，30多年來都沒有社會共識。近期立法院審議《人工生殖法》修正草案，讓這個爭議再度成為焦點。回到制度的起點，社會各界都在追問：生育有血緣關係的孩子，是個人渴望，還是必須由政府回應的公共問題？",
       "date_published": "2026-02-01T01:04:35.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c0mkymd2r03o/trad#1",
+      "url": "https://www.bbc.com/zhongwen/articles/c0mkymd2r03o/trad?at_medium=RSS&at_campaign=rss",
+      "title": "施紀賢訪華：英國與中國各取了什麼所需？",
+      "content_html": "在這趟時隔八年的旅程中，英國首相施紀賢爵士從中國收穫了免簽、服務業、醫療、綠色能源與金融合同。",
+      "content_text": "在這趟時隔八年的旅程中，英國首相施紀賢爵士從中國收穫了免簽、服務業、醫療、綠色能源與金融合同。",
+      "date_published": "2026-01-30T12:27:17.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/c0mkymd2r03o/trad#0",
