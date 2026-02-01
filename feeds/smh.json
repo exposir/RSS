@@ -6,6 +6,94 @@
   "description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au",
   "items": [
     {
+      "id": "316b4af9-2668-43be-b5a3-965239a2fc48",
+      "url": "https://www.smh.com.au/world/middle-east/where-is-the-ceasefire-israeli-strikes-kill-at-least-30-palestinians-ahead-of-gaza-crossing-reopening-20260201-p5nym9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Where is the ceasefire?’: Israeli strikes kill at least 30 Palestinians ahead of Gaza crossing reopening",
+      "content_html": "Conflict mediator Qatar calls the latest strikes a “dangerous escalation”, with the death toll reportedly several times higher than the daily average since the ceasefire began.",
+      "content_text": "Conflict mediator Qatar calls the latest strikes a “dangerous escalation”, with the death toll reportedly several times higher than the daily average since the ceasefire began.",
+      "date_published": "2026-02-01T02:22:54.000Z"
+    },
+    {
+      "id": "c48a7e08-8a3f-46ac-a985-fe4525d8ab8d",
+      "url": "https://www.smh.com.au/national/deputy-nsw-premier-prue-car-to-return-to-work-after-breast-cancer-diagnosis-20260201-p5nymn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Deputy NSW Premier Prue Car to return to work after breast cancer diagnosis",
+      "content_html": "Deputy NSW Premier Prue Car is set to return to state parliament tomorrow following a breast cancer diagnosis.",
+      "content_text": "Deputy NSW Premier Prue Car is set to return to state parliament tomorrow following a breast cancer diagnosis.",
+      "date_published": "2026-02-01T02:09:16.000Z"
+    },
+    {
+      "id": "c8d7e3dd-cbf8-4384-a418-83813fd1280e",
+      "url": "https://www.smh.com.au/culture/movies/face-like-a-fist-and-pure-endless-hell-critics-slam-melania-doco-20260201-p5nylj.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "‘Face like a fist’ and ‘Pure, endless hell’: Critics slam Melania doco",
+      "content_html": "Dubbed propaganda and an infomercial, the doco has been roundly canned after it opened with only a handful of tickets sold in cinemas.",
+      "content_text": "Dubbed propaganda and an infomercial, the doco has been roundly canned after it opened with only a handful of tickets sold in cinemas.",
+      "date_published": "2026-02-01T02:01:31.000Z"
+    },
+    {
+      "id": "c2040b79-a450-43c7-a77d-7beda186e139",
+      "url": "https://www.smh.com.au/sport/basketball/doolittle-a-big-presence-as-wildcats-hunt-down-hawks-20260201-p5nymh.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Doolittle a big presence as Wildcats hunt down Hawks",
+      "content_html": "Kristian Doolittle has proved unstoppable in the second half to lead the Perth Wildcats to a hard-fought 106-99 road win over the Illawarra Hawks to close in on fourth place in the NBL standings.",
+      "content_text": "Kristian Doolittle has proved unstoppable in the second half to lead the Perth Wildcats to a hard-fought 106-99 road win over the Illawarra Hawks to close in on fourth place in the NBL standings.",
+      "date_published": "2026-02-01T01:51:44.000Z"
+    },
+    {
+      "id": "65795a63-d159-443d-a4ef-7d4df21f67b8",
+      "url": "https://www.smh.com.au/business/markets/the-precious-metal-that-is-now-outpacing-gold-20260130-p5nyeg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "The precious metal that is now outpacing gold",
+      "content_html": "It is commonly known as the medal received for coming in second, but currently silver seems to be running a race of its own.",
+      "content_text": "It is commonly known as the medal received for coming in second, but currently silver seems to be running a race of its own.",
+      "date_published": "2026-02-01T01:18:54.000Z"
+    },
+    {
+      "id": "96388bcb-6e3b-4e00-9627-d1143c85d930",
+      "url": "https://www.smh.com.au/politics/federal/one-party-faces-an-existential-threat-but-it-s-not-the-liberals-20260201-p5nyl9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "One party faces an existential threat … but it’s not the Liberals",
+      "content_html": "To understand the Coalition split, it is necessary to appreciate the extent to which the National Party now feels threatened in its own backyard.",
+      "content_text": "To understand the Coalition split, it is necessary to appreciate the extent to which the National Party now feels threatened in its own backyard.",
+      "date_published": "2026-02-01T01:10:23.000Z"
+    },
+    {
+      "id": "528d6cef-fc51-4434-aafa-9924dea0926e",
+      "url": "https://www.smh.com.au/goodfood/nsw-good-food-guide/black-cockatoo-bakery-20260201-p5nykm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Black Cockatoo Bakery",
+      "content_html": "Make sure you come on the right day for the ham and gruyere bechamel croissants.",
+      "content_text": "Make sure you come on the right day for the ham and gruyere bechamel croissants.",
+      "date_published": "2026-02-01T00:49:01.000Z"
+    },
+    {
+      "id": "7543e1fc-3604-4f34-8f04-c462b406a30f",
+      "url": "https://www.smh.com.au/business/companies/spacex-seeks-approval-for-million-plus-satellites-in-space-data-centre-complex-20260201-p5nylc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "SpaceX seeks approval for million-plus satellites in space data-centre complex",
+      "content_html": "Elon Musk says the lowest cost place to put AI will be space, and that it will be true “within two years, maybe three at the latest”.",
+      "content_text": "Elon Musk says the lowest cost place to put AI will be space, and that it will be true “within two years, maybe three at the latest”.",
+      "date_published": "2026-02-01T00:39:07.000Z"
+    },
+    {
+      "id": "1b0bcd32-24df-4337-8d0a-18e5b67b1c94",
+      "url": "https://www.smh.com.au/sport/soccer/aussie-young-gun-cops-red-card-20260201-p5nylw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Aussie young gun cops red card",
+      "content_html": "Nestory Irankunda is sent off during Watford's clash against Swansea.",
+      "content_text": "Nestory Irankunda is sent off during Watford's clash against Swansea.",
+      "date_published": "2026-02-01T00:28:53.000Z"
+    },
+    {
+      "id": "3dcf8fc2-9fe3-4f98-b808-de2a224e031c",
+      "url": "https://www.smh.com.au/national/littleproud-pretty-safe-ahead-of-nationals-leadership-challenge-20260201-p5nyls.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Littleproud ‘pretty safe’ ahead of Nationals leadership challenge",
+      "content_html": "Nine’s political editor Charles Croucher says it is unlikely MP Colin Boyce will unseat Nationals leader David Littleproud for the top job.",
+      "content_text": "Nine’s political editor Charles Croucher says it is unlikely MP Colin Boyce will unseat Nationals leader David Littleproud for the top job.",
+      "date_published": "2026-02-01T00:05:46.000Z"
+    },
+    {
+      "id": "f00d103d-c482-4a7f-a537-9ffc9d4f1091",
+      "url": "https://www.smh.com.au/national/nsw/family-and-friends-paddle-out-for-shark-attack-victim-20260201-p5nylm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "title": "Family and friends paddle out for shark attack victim",
+      "content_html": "Hundreds of family and friends gathered at North Bondi to pay tribute to Nico Antic, who at just 12-years-old lost his life to a shark bite while swimming at Nielsen Park.",
+      "content_text": "Hundreds of family and friends gathered at North Bondi to pay tribute to Nico Antic, who at just 12-years-old lost his life to a shark bite while swimming at Nielsen Park.",
+      "date_published": "2026-01-31T23:47:33.000Z"
+    },
+    {
       "id": "6b5602c6-a731-44b0-a0e3-cc9239746de1",
       "url": "https://www.smh.com.au/culture/live-reviews/renee-rapp-australian-open-20260129-p5ny55.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
       "title": "Even this pop star thinks having her gig at the tennis is a bit weird",

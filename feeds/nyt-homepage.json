@@ -6,6 +6,46 @@
   "description": "",
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/01/31/opinion/ice-minnesota-trump.html",
+      "url": "https://www.nytimes.com/2026/01/31/opinion/ice-minnesota-trump.html",
+      "title": "ICE Is a ‘Secret Police’ Americans Didn’t Ask For",
+      "content_html": "Amid national protests, the round table convenes to debate what anti-ICE tactics should look like.",
+      "content_text": "Amid national protests, the round table convenes to debate what anti-ICE tactics should look like.",
+      "date_published": "2026-02-01T02:07:25.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/us/epstein-powerful-men.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/epstein-powerful-men.html",
+      "title": "They Said They Weren’t Close to Epstein. New Documents Show Otherwise.",
+      "content_html": "Materials released by the Justice Department revealed that leading business and political figures had enduring relationships with the disgraced financier.",
+      "content_text": "Materials released by the Justice Department revealed that leading business and political figures had enduring relationships with the disgraced financier.",
+      "date_published": "2026-02-01T01:58:41.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/us/california-crash-pileup-highway-99.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/california-crash-pileup-highway-99.html",
+      "title": "10 Injured in 59-Vehicle Pileup on Fog-Shrouded California Highway, Police Say",
+      "content_html": "One person died earlier this month in a foggy crash on the same highway.",
+      "content_text": "One person died earlier this month in a foggy crash on the same highway.",
+      "date_published": "2026-01-31T23:55:24.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/nyregion/nyc-correction-dept-richards-mamdani.html",
+      "url": "https://www.nytimes.com/2026/01/31/nyregion/nyc-correction-dept-richards-mamdani.html",
+      "title": "Mamdani Names Nonprofit Leader and Ex-Rikers Inmate to Run N.Y.C. Jails",
+      "content_html": "Stanley Richards is taking over as correction commissioner at an inflection point for the city’s jails. Mayor Zohran Mamdani also named Dr. Alister Martin to lead the health department.",
+      "content_text": "Stanley Richards is taking over as correction commissioner at an inflection point for the city’s jails. Mayor Zohran Mamdani also named Dr. Alister Martin to lead the health department.",
+      "date_published": "2026-01-31T23:39:09.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/us/politics/trump-schumer-deal.html",
+      "url": "https://www.nytimes.com/2026/01/31/us/politics/trump-schumer-deal.html",
+      "title": "Facing Immigration Backlash, Trump Called Schumer to Cut a Deal",
+      "content_html": "The president and the top Senate Democrat, who are often at each other’s throats, agreed to try to keep the government open and to start talks on new limits on federal immigration agents.",
+      "content_text": "The president and the top Senate Democrat, who are often at each other’s throats, agreed to try to keep the government open and to start talks on new limits on federal immigration agents.",
+      "date_published": "2026-01-31T21:21:42.000Z"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/31/us/politics/liam-ramos-ice-release.html",
       "url": "https://www.nytimes.com/2026/01/31/us/politics/liam-ramos-ice-release.html",
       "title": "Judge Orders Release of 5-Year-Old Detained by Immigration Agents in Minnesota",
@@ -60,6 +100,14 @@
       "content_html": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
       "content_text": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
       "date_published": "2026-01-31T18:17:23.000Z"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/31/opinion/minneapolis-pretti-bovino.html",
+      "url": "https://www.nytimes.com/2026/01/31/opinion/minneapolis-pretti-bovino.html",
+      "title": "Do We Want Live in Alex Pretti’s America or Gregory Bovino’s?",
+      "content_html": "As in the Civil Rights battles of the 1960s, Americans are at a fork and must pick their path.",
+      "content_text": "As in the Civil Rights battles of the 1960s, Americans are at a fork and must pick their path.",
+      "date_published": "2026-01-31T17:41:57.000Z"
     },
     {
       "id": "https://www.nytimes.com/2026/01/31/arts/television/demond-wilson-dead.html",

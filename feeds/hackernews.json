@@ -6,6 +6,14 @@
   "description": "Hacker News RSS",
   "items": [
     {
+      "id": "https://news.ycombinator.com/item?id=46841374",
+      "url": "https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust",
+      "title": "Swift is a more convenient Rust",
+      "content_html": "<p>Article URL: <a href=\"https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust\">https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46841374\">https://news.ycombinator.com/item?id=46841374</a></p>\n<p>Points: 190</p>\n<p># Comments: 179</p>",
+      "content_text": "Article URL: https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust\nComments URL: https://news.ycombinator.com/item?id=46841374\nPoints: 190\n# Comments: 179",
+      "date_published": "2026-01-31T22:05:03.000Z"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46838597",
       "url": "https://an.dywa.ng/carrier-gnss.html",
       "title": "Mobile carriers can get your GPS location",

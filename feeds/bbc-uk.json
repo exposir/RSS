@@ -6,6 +6,86 @@
   "description": "BBC News - News Front Page",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/cn42nedxqyqo#3",
+      "url": "https://www.bbc.com/news/articles/cn42nedxqyqo?at_medium=RSS&at_campaign=rss",
+      "title": "Pakistan military says it has killed 92 militants in Balochistan",
+      "content_html": "It says 15 security personnel and 18 civilians were also killed after militants attacked many cities in Pakistan's province.",
+      "content_text": "It says 15 security personnel and 18 civilians were also killed after militants attacked many cities in Pakistan's province.",
+      "date_published": "2026-02-01T00:57:25.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvgre2671v2o#2",
+      "url": "https://www.bbc.com/news/articles/cvgre2671v2o?at_medium=RSS&at_campaign=rss",
+      "title": "An iconic Indian restaurant might have to shut after 99 years. Can the King save it?",
+      "content_html": "Supporters of Veeraswamy, which has operated for almost 100 years, are petitioning the King to intervene.",
+      "content_text": "Supporters of Veeraswamy, which has operated for almost 100 years, are petitioning the King to intervene.",
+      "date_published": "2026-02-01T00:56:14.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd0yrrr1ryvo#2",
+      "url": "https://www.bbc.com/news/articles/cd0yrrr1ryvo?at_medium=RSS&at_campaign=rss",
+      "title": "Asda has lost its mojo and has a big fight to get it back",
+      "content_html": "The industry data suggests that despite Asda embarking on a turnaround, it has been losing ground to rivals.",
+      "content_text": "The industry data suggests that despite Asda embarking on a turnaround, it has been losing ground to rivals.",
+      "date_published": "2026-02-01T00:45:34.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c20ddwwen6go#2",
+      "url": "https://www.bbc.com/news/articles/c20ddwwen6go?at_medium=RSS&at_campaign=rss",
+      "title": "Lover, liar, predator: How we took back power from the man who controlled us",
+      "content_html": "Shannon, Robyn, Jenni and Natalie teamed up to bring Aaron Swan to justice after decades of abuse.",
+      "content_text": "Shannon, Robyn, Jenni and Natalie teamed up to bring Aaron Swan to justice after decades of abuse.",
+      "date_published": "2026-02-01T00:43:55.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cp9jl8jgrg3o#0",
+      "url": "https://www.bbc.com/news/articles/cp9jl8jgrg3o?at_medium=RSS&at_campaign=rss",
+      "title": "Our family fell out. This is how we got back together",
+      "content_html": "In the wake of the Beckhams’ estrangement, a mother and daughter explain what it takes to reconcile.",
+      "content_text": "In the wake of the Beckhams’ estrangement, a mother and daughter explain what it takes to reconcile.",
+      "date_published": "2026-02-01T00:33:09.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cwy12z197q8o#2",
+      "url": "https://www.bbc.com/news/articles/cwy12z197q8o?at_medium=RSS&at_campaign=rss",
+      "title": "Grammy Awards 2026: How to watch and who will win",
+      "content_html": "Who's performing, who will win, and everything else you need to know about the 2026 Grammy ceremony.",
+      "content_text": "Who's performing, who will win, and everything else you need to know about the 2026 Grammy ceremony.",
+      "date_published": "2026-02-01T00:31:38.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/sport/football/articles/cx2g7v78rkzo#9",
+      "url": "https://www.bbc.com/sport/football/articles/cx2g7v78rkzo?at_medium=RSS&at_campaign=rss",
+      "title": "'Torres-like' Ekitike haunts long-term admirers Newcastle",
+      "content_html": "Newcastle United needed no reminding of Hugo Ekitike's quality after trying to sign him last summer - and the Liverpool striker haunted his former suitors at Anfield on Saturday.",
+      "content_text": "Newcastle United needed no reminding of Hugo Ekitike's quality after trying to sign him last summer - and the Liverpool striker haunted his former suitors at Anfield on Saturday.",
+      "date_published": "2026-02-01T00:29:08.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c24gmjmrjj6o#3",
+      "url": "https://www.bbc.com/news/articles/c24gmjmrjj6o?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Ex-duke's new Epstein disgrace' and 'Andrew must reveal all on Epstein'",
+      "content_html": "New pictures of Andrew Mountbatten-Windsor from the latest batch of released files on Jeffrey Epstein dominates Sunday's papers.",
+      "content_text": "New pictures of Andrew Mountbatten-Windsor from the latest batch of released files on Jeffrey Epstein dominates Sunday's papers.",
+      "date_published": "2026-02-01T00:27:30.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cm2xj3ykpj4o#0",
+      "url": "https://www.bbc.com/news/articles/cm2xj3ykpj4o?at_medium=RSS&at_campaign=rss",
+      "title": "Rape trial puts Norway's royal family in unwelcome glare of public",
+      "content_html": "Marius Borg Høiby, the crown prince's blond stepson, is accused of 38 charges in a case that has attracted global interest.",
+      "content_text": "Marius Borg Høiby, the crown prince's blond stepson, is accused of 38 charges in a case that has attracted global interest.",
+      "date_published": "2026-02-01T00:02:01.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cql4e439g4no#2",
+      "url": "https://www.bbc.com/news/articles/cql4e439g4no?at_medium=RSS&at_campaign=rss",
+      "title": "After ICE raids... a once bustling Chicago neighbourhood has changed",
+      "content_html": "Businesses in Little Village - known as the \"Mexico of the Midwest\" - are suffering after months of immigration raids.",
+      "content_text": "Businesses in Little Village - known as the \"Mexico of the Midwest\" - are suffering after months of immigration raids.",
+      "date_published": "2026-02-01T00:01:01.000Z"
+    },
+    {
       "id": "https://www.bbc.com/sport/boxing/articles/cx2ylz612v2o#9",
       "url": "https://www.bbc.com/sport/boxing/articles/cx2ylz612v2o?at_medium=RSS&at_campaign=rss",
       "title": "Kelly outpoints Murtazaliev to win world title",
@@ -20,6 +100,14 @@
       "content_html": "Sir Keir Starmer suggests Andrew Mountbatten-Windsor should testify over his dealings with the convicted sex offender.",
       "content_text": "Sir Keir Starmer suggests Andrew Mountbatten-Windsor should testify over his dealings with the convicted sex offender.",
       "date_published": "2026-01-31T22:15:30.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cm2ygq5p2l3o#3",
+      "url": "https://www.bbc.com/news/articles/cm2ygq5p2l3o?at_medium=RSS&at_campaign=rss",
+      "title": "Judge orders release of five-year-old detained by ICE in Minneapolis",
+      "content_html": "The detention of pre-schooler Liam Conejo Ramos, pictured wearing a blue bunny-shaped hat and a Spider-Man backpack, sparked a national outcry.",
+      "content_text": "The detention of pre-schooler Liam Conejo Ramos, pictured wearing a blue bunny-shaped hat and a Spider-Man backpack, sparked a national outcry.",
+      "date_published": "2026-01-31T22:14:54.000Z"
     },
     {
       "id": "https://www.bbc.com/sport/football/articles/cwy1jj0qz0lo#9",
@@ -286,6 +374,14 @@
       "date_published": "2026-01-31T12:58:11.000Z"
     },
     {
+      "id": "https://www.bbc.com/news/articles/c78egvpkm77o#3",
+      "url": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel eyes regime change in Iran - and is counting on Trump to make it happen",
+      "content_html": "Analysts believe PM Netanyahu is urging the US towards maximalist strikes.",
+      "content_text": "Analysts believe PM Netanyahu is urging the US towards maximalist strikes.",
+      "date_published": "2026-01-31T12:52:08.000Z"
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c78egvpkm77o#2",
       "url": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
       "title": "Israel eyes regime change in Iran - and is counting on Trump to make it happen",
@@ -308,6 +404,14 @@
       "content_html": "The event, advertised through official channels, was criticised in China for being held at a military memorial.",
       "content_text": "The event, advertised through official channels, was criticised in China for being held at a military memorial.",
       "date_published": "2026-01-31T12:08:05.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c75xg17rr1xo#3",
+      "url": "https://www.bbc.com/news/articles/c75xg17rr1xo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainians brace for -20C despite energy truce: 'It will be a catastrophe'",
+      "content_html": "Already facing electricity cuts, civilians are struggling to keep warm in their own homes as temperatures are set to plummet.",
+      "content_text": "Already facing electricity cuts, civilians are struggling to keep warm in their own homes as temperatures are set to plummet.",
+      "date_published": "2026-01-31T12:02:00.000Z"
     },
     {
       "id": "https://www.bbc.com/news/articles/c75xg17rr1xo#0",

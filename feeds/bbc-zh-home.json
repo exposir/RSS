@@ -6,6 +6,14 @@
   "description": "BBC Chinese - BBC News , 中文 - 主頁",
   "items": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/clyz5pd20jvo/trad#0",
+      "url": "https://www.bbc.com/zhongwen/articles/clyz5pd20jvo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "「代孕」引爆台灣社會爭論：誰的渴望，誰的風險？",
+      "content_html": "台灣應否「代孕」合法化，30多年來都沒有社會共識。近期立法院審議《人工生殖法》修正草案，讓這個爭議再度成為焦點。回到制度的起點，社會各界都在追問：生育有血緣關係的孩子，是個人渴望，還是必須由政府回應的公共問題？",
+      "content_text": "台灣應否「代孕」合法化，30多年來都沒有社會共識。近期立法院審議《人工生殖法》修正草案，讓這個爭議再度成為焦點。回到制度的起點，社會各界都在追問：生育有血緣關係的孩子，是個人渴望，還是必須由政府回應的公共問題？",
+      "date_published": "2026-02-01T01:04:35.000Z"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/c0mkymd2r03o/trad#0",
       "url": "https://www.bbc.com/zhongwen/articles/c0mkymd2r03o/trad?at_medium=RSS&at_campaign=rss",
       "title": "施紀賢訪華：英國與中國各取了什麼所需？",
@@ -20,6 +28,14 @@
       "content_html": "強制巴士乘客佩戴安全帶的新法例實施不足一周，引來社會巨大不滿，香港政府於法例生效六日後宣佈暫緩推行。",
       "content_text": "強制巴士乘客佩戴安全帶的新法例實施不足一周，引來社會巨大不滿，香港政府於法例生效六日後宣佈暫緩推行。",
       "date_published": "2026-01-30T10:57:37.000Z"
+    },
+    {
+      "id": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad#2",
+      "url": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "台灣首位「陸配」立委：國安、忠誠與參政權利的拉扯",
+      "content_html": "出身中國湖南的李貞秀預計在2月3日就職，成為台灣首位「陸配」立委，目前這個社群擔任最高階的公職。她的提名、加上去年花蓮村長鄧萬華因中國國籍遭解職，讓陸配參政的討論浮上檯面。",
+      "content_text": "出身中國湖南的李貞秀預計在2月3日就職，成為台灣首位「陸配」立委，目前這個社群擔任最高階的公職。她的提名、加上去年花蓮村長鄧萬華因中國國籍遭解職，讓陸配參政的討論浮上檯面。",
+      "date_published": "2026-01-30T09:35:17.000Z"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad#0",
